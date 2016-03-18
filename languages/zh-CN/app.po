@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-03-18 09:19+0000\n"
-"PO-Revision-Date: 2016-03-18 09:25+0000\n"
-"Last-Translator: cat <catcto@163.com>\n"
+"PO-Revision-Date: 2016-03-18 09:39+0000\n"
+"Last-Translator: CAT <catcto.com@gmail.com>\n"
 "Language-Team: Simplified Chinese "
 "<https://translate.apkpure.com/projects/apkpure/apkpurecom/zh_Hans/>\n"
 "Language: zh-CN\n"
@@ -978,15 +978,15 @@ msgstr ""
 
 #: ["meta"]["christmas.html"]["title"]
 msgid "Best Christmas Apps for Your Android Phones & Tablets"
-msgstr "Best Christmas Apps for Your Android Phones & Tablets"
+msgstr "圣诞节主题游戏及应用"
 
 #: ["meta"]["christmas.html"]["keywords"]
 msgid "apps, games, christmas app, christmas game, android game"
-msgstr "apps, games, christmas app, christmas game, android game"
+msgstr "圣诞节游戏, 圣诞节游戏"
 
 #: ["meta"]["christmas.html"]["description"]
 msgid "APKPure Best Android games and apps for Christmas and holiday season."
-msgstr "APKPure Best Android games and apps for Christmas and holiday season."
+msgstr "APKPure圣诞节安卓游戏和应用。"
 
 #: ["meta"]["apkpure-app.html"]["title"]
 msgid "APKPure APK Downloader for Android Wear, Phones, Tablets, TV"
