@@ -1,1333 +1,987 @@
-msgid ""
-msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-03-18 09:19+0000\n"
-"PO-Revision-Date: 2016-03-18 09:39+0000\n"
-"Last-Translator: CAT <catcto.com@gmail.com>\n"
-"Language-Team: Simplified Chinese "
-"<https://translate.apkpure.com/projects/apkpure/apkpurecom/zh_Hans/>\n"
-"Language: zh-CN\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 2.6-dev\n"
-
 #: ["NAV-GAME"]
 msgid "GAME"
 msgstr "游戏"
-
 #: ["NAV-APP"]
 msgid "APP"
 msgstr "应用"
-
 #: ["NAV-XAPK"]
 msgid "XAPK"
 msgstr "XAPK"
-
 #: ["NAV-NEW"]
 msgid "NEW"
 msgstr "最新"
-
 #: ["NAV-PRODUCTS"]
 msgid "PRODUCTS"
 msgstr "产品"
-
 #: ["NAV-NEW_GAME"]
 msgid "NEW GAME"
 msgstr "最近更新游戏"
-
 #: ["NAV-NEW_APP"]
 msgid "NEW APP"
 msgstr "最近更新应用"
-
 #: ["NAV-XAPK_GAME"]
 msgid "XAPK GAME"
 msgstr "XAPK游戏"
-
 #: ["NAV-XAPK_APP"]
 msgid "XAPK APP"
 msgstr "XAPK应用"
-
 #: ["NAV-APK_INSTALL"]
 msgid "APK Install"
 msgstr "APK 安装器"
-
 #: ["NAV-APK_DOWNLOAD"]
 msgid "APK Download"
 msgstr "APK 下载器"
-
 #: ["NAV-APK_VERIFICATION"]
 msgid "APK Verification"
 msgstr "APK 签名校验器"
-
 #: ["NAV-APKPURE_APP"]
 msgid "APKPure App"
 msgstr "APKPure 客户端"
-
 #: ["DOWNLOAD"]
 msgid "Download"
 msgstr "下载"
-
 #: ["SELECT_LANGUAGE"]
 msgid "Select Language"
 msgstr "选择语言"
-
 #: ["FREE"]
 msgid "Free"
 msgstr "免费"
-
 #: ["READ_MORE"]
 msgid "Read More"
 msgstr "查看更多"
-
 #: ["GAME"]
 msgid "GAME"
 msgstr "游戏"
-
 #: ["APP"]
 msgid "APP"
 msgstr "应用"
-
 #: ["GAMES"]
 msgid "Games"
 msgstr "游戏"
-
 #: ["APPS"]
 msgid "Apps"
 msgstr "应用"
-
 #: ["MORE"]
 msgid "More"
 msgstr "更多"
-
 #: ["XAPK"]
 msgid "XAPK"
 msgstr "XAPK"
-
 #: ["XAPK-GAMES"]
 msgid "XAPK Games"
 msgstr "XAPK游戏"
-
 #: ["XAPK-APPS"]
 msgid "XAPK Apps"
 msgstr "XAPK应用"
-
 #: ["HOME"]
 msgid "Home"
 msgstr "首页"
-
 #: ["SORT_BY"]
 msgid "Sort by"
 msgstr "排序方式"
-
 #: ["HOT"]
 msgid "Hot"
 msgstr "最热门"
-
 #: ["DOWNLOADS"]
 msgid "Downloads"
 msgstr "下载最多"
-
 #: ["NEWEST"]
 msgid "Newest"
 msgstr "最近更新"
-
 #: ["RATING"]
 msgid "Rating"
 msgstr "评级"
-
 #: ["CATEGORY"]
 msgid "Category"
 msgstr "分类"
-
 #: ["CATEGORY_JOIN"]
-msgid "%s %s"
-msgstr "%s%s"
-
+msgid "{app_category} {app_type}"
+msgstr "{app_category}{app_type}"
 #: ["SHOW_MORE"]
 msgid "Show More"
 msgstr "更多"
-
 #: ["SHOW_LESS"]
 msgid "Show less"
 msgstr "收起"
-
 #: ["HAVE_PRODUCTS"]
-msgid "have %s products"
-msgstr "找到 %s 个"
-
+msgid "have {0} products"
+msgstr "找到 {0} 个"
 #: ["DEVELOPER"]
 msgid "Developer"
 msgstr "开发者"
-
 #: ["POPULAR_GAMES_IN_LAST_HOURS"]
-msgid "Popular Games In Last %s Hours"
-msgstr "%s 小时热门游戏"
-
+msgid "Popular Games In Last {0} Hours"
+msgstr "{0} 小时热门游戏"
 #: ["POPULAR_APPS_IN_LAST_HOURS"]
-msgid "Popular Apps In Last %s Hours"
-msgstr "%s 小时热门应用"
-
+msgid "Popular Apps In Last {0} Hours"
+msgstr "{0} 小时热门应用"
 #: ["POPULAR_APPS_IN_TODAY"]
 msgid "Popular Apps In Today"
 msgstr "今日最受欢迎的应用"
-
 #: ["POPULAR_GAMES_IN_TODAY"]
 msgid "Popular Games In Today"
 msgstr "今日最受欢迎的游戏"
-
 #: ["HOT_GAMES"]
 msgid "Hot Games"
 msgstr "热门游戏"
-
 #: ["HOT_APPS"]
 msgid "Hot Apps"
 msgstr "热门应用"
-
 #: ["CLOSE"]
 msgid "Close"
 msgstr "关闭"
-
 #: ["COMMENTS"]
 msgid "Comments"
 msgstr "用户评论"
-
 #: ["LATEST_UPDATE_GAMES"]
 msgid "Latest Update Games"
 msgstr "最近更新游戏"
-
 #: ["LATEST_UPDATE_APPS"]
 msgid "Latest Update Apps"
 msgstr "最近更新应用"
-
 #: ["LATEST_UPDATE"]
 msgid "Latest Update"
 msgstr "最近更新"
-
 #: ["XAPK_IS_APK_WITH_OBB_DATA"]
 msgid "XAPK is APK with OBB data"
 msgstr "XAPK 包含数据包的 APK"
-
 #: ["MOST_POPULAR_IN_TODAY"]
 msgid "Most Popular In Today"
 msgstr "今日最受欢迎的"
-
 #: ["SIMILAR_OR_RELATED"]
 msgid "Similar Or Related"
 msgstr "猜你喜欢"
-
 #: ["INDEX-TITLE"]
 msgid "Download free Android Games and Android Apps."
-msgstr "下载免费的安卓游戏及应用。"
-
+msgstr "下载免费的安卓游戏及应用"
 #: ["INDEX-MOBILE_TITLE"]
 msgid "Download free Android Games and Apps."
-msgstr "免费下载安卓游戏及应用。"
-
+msgstr "免费下载安卓游戏及应用"
 #: ["INDEX-HOW_TO_DOWNLOAD"]
 msgid "How to download apk files?"
-msgstr "如何下载 APK 文件？"
-
+msgstr "如何下载 APK 文件"
 #: ["INDEX-FAQ"]
 msgid "FAQ"
 msgstr "常见问题"
-
 #: ["DOWNLOAD_APK"]
 msgid "Download APK"
 msgstr "下载APK"
-
 #: ["DETAIL-PAID_GAME"]
 msgid "Paid Game"
 msgstr "收费游戏"
-
 #: ["DETAIL-PAID_APP"]
 msgid "Paid App"
 msgstr "收费应用"
-
 #: ["DETAIL-PAID_GAME_DES"]
 msgid "Paid games are not available to download"
 msgstr "不提供付费游戏下载"
-
 #: ["DETAIL-PAID_APP_DES"]
 msgid "Paid apps are not available to download"
 msgstr "不提供付费应用下载"
-
 #: ["DETAIL-WHY_SAFE"]
 msgid "Why we can guarantee APK 100% safe?"
-msgstr "如何保证APK是100%安全的？"
-
+msgstr "如何保证APK是100%安全的"
 #: ["DETAIL-SAFE"]
 msgid "Verification passed"
 msgstr "安全认证"
-
 #: ["DETAIL-XAPK_SHORT_DES"]
 msgid "XAPK is APK with OBB data, Click to get XAPK Installer"
 msgstr "XAPK 是包含 obb 数据及 APK 的可安装文件格式, 点击下载XAPK安装器"
-
 #: ["DETAIL-MOBILE_XAPK_SHORT_DES"]
 msgid "Click to get XAPK Installer"
 msgstr "点击下载XAPK安装器"
-
 #: ["DETAIL-CATEGORY"]
 msgid "Category"
 msgstr "类别"
-
 #: ["DETAIL-LATEST_VERSION"]
 msgid "Latest Version"
 msgstr "最新版本"
-
 #: ["DETAIL-PUBLISH_DATE"]
 msgid "Publish Date"
 msgstr "发布日期"
-
 #: ["DETAIL-GET_IT_ON"]
 msgid "Get it on"
 msgstr "来源"
-
 #: ["DETAIL-REQUIREMENTS"]
 msgid "Requirements"
 msgstr "系统要求"
-
 #: ["DETAIL-AUTHOR"]
 msgid "Author"
 msgstr "开发者"
-
 #: ["DETAIL-VOTES"]
 msgid "votes"
 msgstr "评级"
-
 #: ["DETAIL-THE_DESCRIPTION"]
-msgid "The description of %s"
-msgstr "%s 描述"
-
+msgid "The description of {0}"
+msgstr "{0}"
 #: ["DETAIL-OFFICIAL_TRAILER"]
-msgid "%s for Android official Trailer"
+msgid "{0} for Android official Trailer"
 msgstr "Android 版预告片"
-
 #: ["DETAIL-VERSION"]
 msgid "Version"
 msgstr "版本"
-
 #: ["DETAIL-UPDATE_ON"]
 msgid "Update on"
 msgstr "更新日期"
-
 #: ["DETAIL-SIGNATURE"]
 msgid "Signature"
 msgstr "签名"
-
 #: ["DETAIL-FILE_SHA1"]
 msgid "File SHA1"
 msgstr "SHA1"
-
 #: ["DETAIL-WHATS_NEW"]
 msgid "What's new"
 msgstr "更新内容"
-
 #: ["DETAIL-VERSION_HISTORY"]
 msgid "Version History"
 msgstr "历史版本"
-
 #: ["DETAIL-MORE_FROM_DEVELOPER"]
 msgid "More From Developer"
 msgstr "开发者其他应用"
-
 #: ["DETAIL-COMMENTS"]
 msgid "Comments"
 msgstr "用户评论"
-
 #: ["DETAIL-FOLLOW_UPDATES"]
 msgid "Follow Updates"
 msgstr "订阅更新"
-
 #: ["DETAIL-REQUEST_UPDATE"]
 msgid "Request Update"
 msgstr "请求更新"
-
 #: ["DETAIL-RATING"]
-msgid "%s votes, average: %s out of 5"
-msgstr "%s 评级, 平均: %s 星"
-
+msgid "{votes} votes, average: {rating_average} out of {rating_best}"
+msgstr "{votes} 票, 平均: {rating_average} 星"
 #: ["DETAIL-MORE_DEVELOPER"]
-msgid "Get more from %s"
-msgstr "%s 开发者的更多应用"
-
+msgid "Get more from {0}"
+msgstr "{0} 开发者的更多应用"
 #: ["DETAIL-REMOVED"]
 msgid "Removed"
 msgstr "已删除"
-
 #: ["DETAIL-CATEGORY_GAME"]
-msgid "%s GAME"
-msgstr "%s 游戏"
-
+msgid "{0} GAME"
+msgstr "{0} 游戏"
 #: ["DETAIL-CATEGORY_APP"]
-msgid "%s APP"
-msgstr "%s 应用"
-
+msgid "{0} APP"
+msgstr "{0} 应用"
 #: ["DETAIL-VERSION_LOAD_MORE"]
 msgid "Load more"
 msgstr "更多"
-
 #: ["DETAIL-VERSION_MORE"]
 msgid "More..."
 msgstr "更多..."
-
 #: ["DETAIL-TRANSLATE"]
 msgid "Translate"
 msgstr "翻译"
-
 #: ["REGION_DOWN-TITLE"]
 msgid "Region free APK download"
 msgstr "谷歌 APK 下载器 (APK Downloader)"
-
 #: ["REGION_DOWN-DES"]
 msgid "Break all Google Play Store restricted region locking rules to download free apps APK for Android phone and tablet."
 msgstr "突破谷歌市场区域下载限制，支持安卓手机平板，在线下载谷歌正版游戏应用。"
-
 #: ["REGION_DOWN-PLACEHOLDER"]
 msgid "com.facebook.katana or https://play.google.com...?id=com.facebook.katana"
 msgstr "com.facebook.katana 或 https://play.google.com...?id=com.facebook.katana"
-
 #: ["REGION_DOWN-SEARCH"]
 msgid "Search"
 msgstr "区域下载搜索"
-
 #: ["REGION_DOWN-COUNTRY_NAME"]
 msgid "Country name or Region code"
 msgstr "国家名或区域编码"
-
 #: ["REGION_DOWN-MOBILE_TITLE"]
 msgid "APK Downloader"
 msgstr "谷歌 APK 下载器"
-
 #: ["REGION_DOWN-MOBILE_DES"]
 msgid "All Region Games and Apps Download."
-msgstr "突破谷歌市场区域限制，在线下载 APK。"
-
+msgstr "突破谷歌市场区域限制，在线下载 APK"
 #: ["LAST_DOWNLOAD"]
 msgid "Last Download"
 msgstr "最近下载"
-
 #: ["SIGN_VERIFY-TITLE"]
 msgid "Signature Verification Online"
 msgstr "APK在线签名校验"
-
 #: ["SIGN_VERIFY-CLICK_UPLOAD"]
 msgid "Click Upload APK file"
 msgstr "点击上传 APK 文件"
-
 #: ["SIGN_VERIFY-MAXIMUM"]
 msgid "Maximum file size"
 msgstr "最大文件大小"
-
 #: ["SIGN_VERIFY-DES"]
 msgid "APK Signature verification will verify Android app package signature to keep Android users away from potentially harmful APK files (Modified version .apk or not official version download from Google Play Store) before APK installing."
 msgstr "APKPure签名校验器可帮助用户在线扫描可疑的APK安装文件，对比 Google Play 官方版本应用快速识别并判断APK修改情况。"
-
 #: ["SIGN_VERIFY-PACKAGE_NAME"]
 msgid "Package Name"
 msgstr "包名"
-
 #: ["SIGN_VERIFY-SIGNATURE"]
 msgid "Signature"
 msgstr "签名"
-
 #: ["SIGN_VERIFY-FILE_SHA1"]
 msgid "File SHA1"
 msgstr "文件SHA1"
-
 #: ["SIGN_VERIFY-FILE_SIZE"]
 msgid "File Size"
 msgstr "文件大小"
-
 #: ["SEARCH-ADVANCED_SEARCH"]
 msgid "Advanced Search"
 msgstr "高级搜索"
-
 #: ["SEARCH-SEARCH_RESULTS"]
-msgid "%s search results found."
-msgstr "找到%s个搜索结果。"
-
+msgid "{0} search results found."
+msgstr "找到{0}个搜索结果。"
 #: ["SEARCH-NO_RESULTS_FOUND"]
 msgid "No results found? Try to advanced search again."
 msgstr "没找到？请尝试切换到高级搜索。"
-
 #: ["SEARCH-SELECT_REGION"]
 msgid "Select a region you want to search with"
 msgstr "选择国家"
-
 #: ["SEARCH-ABOUT_RESULTS"]
-msgid "About %s results"
+msgid "About {0} results"
 msgstr "个搜索结果"
-
 #: ["SEARCH-PLACEHOLDER1"]
 msgid "APKPure or com.apkpure.aegon or https://play.google.com/store/apps/details?id=com.facebook.katana"
 msgstr "APKPure 或 com.apkpure.aegon 或 https://play.google.com/store/apps/details?id=com.facebook.katana"
-
 #: ["SEARCH-PLACEHOLDER2"]
 msgid "Search..."
 msgstr "搜索..."
-
 #: ["SEARCH-PLACEHOLDER3"]
 msgid "Name Or Package Name"
 msgstr "应用名或包名"
-
 #: ["SEARCH-TITLE"]
 msgid "Enter App Name, Package Name, Package ID, or Google Play URL"
 msgstr "请输入应用名，包名，ID，或谷歌商店地址"
-
 #: ["SEARCH-APK"]
 msgid "Search APK"
 msgstr "搜索"
-
-#: ["404_OOPS"]
+#: ["404-OOPS"]
 msgid "OOPS!,"
 msgstr "哇！"
-
-#: ["404_Error-404"]
+#: ["404-Error_404"]
 msgid "Error 404!"
-msgstr "404了！"
-
-#: ["404_DES"]
+msgstr "404了"
+#: ["404-DES"]
 msgid "It seems that page you are looking for no longer exists.<br />You can explore more Android Games and Apps below！"
-msgstr "抱歉！未检索到相关应用内容。<br/>试试搜索其他安卓应用，或者看看大家在下载什么！"
-
+msgstr "抱歉！未检索到相关应用内容。<br/>试试搜索其他安卓应用，或者看看大家在下载什么。"
 #: ["COPYRIGHT"]
 msgid "Copyright © 2014-2016 APKPure. All rights reserved. Android is a trademark of Google Inc."
-msgstr "© 2014-2016 APKPure 版权所有。"
-
+msgstr "© 2014-2016 APKPure 版权所有"
 #: ["COPYRIGHT_MOBILE"]
 msgid "APKPure.com © 2014-2016"
 msgstr "© 2014-2015 APKPure 版权所有"
-
 #: ["COMING_SOON"]
 msgid "COMING SOON"
 msgstr "即将上架"
-
 #: ["SEARCHING"]
 msgid "Searching..."
 msgstr "搜索中..."
-
 #: ["FOOTER-APK_DOWNLOADER_SEO"]
 msgid "APK Downloader"
 msgstr "APK Downloader"
-
 #: ["FOOTER-APK_DOWNLOADS_SEO"]
 msgid "APK Downloads"
 msgstr "APK Downloads"
-
 #: ["FOOTER-APK_DOWNLOAD"]
 msgid "APK Download"
 msgstr "谷歌 APK 下载工具"
-
 #: ["FOOTER-APK_INSTALL"]
 msgid "APK Install"
 msgstr "APK 安装工具"
-
 #: ["FOOTER-APK_SIGNATURE_VERIFICATION"]
 msgid "APK Signature Verification"
 msgstr "APK 签名校验工具"
-
 #: ["FOOTER-APK_TO_APPX"]
 msgid "APK to APPX"
 msgstr "APK 转 APPX 工具"
-
 #: ["FOOTER-PRIVACY_POLICY"]
 msgid "Privacy Policy"
 msgstr "隐私政策"
-
 #: ["FOOTER-DMCA"]
 msgid "DMCA"
 msgstr "DMCA"
-
 #: ["FOOTER-DMCA_TITLE"]
 msgid "DMCA Disclaimer"
 msgstr "DMCA 免责声明"
-
 #: ["FOOTER-MARKET_FOR_ANDROID"]
 msgid "APKPure For Android"
 msgstr "APKPure 安卓客户端"
-
 #: ["FOOTER-EXPLORE_XAPK_GAMES"]
 msgid "Explore XAPK Games"
 msgstr "XAPK 游戏"
-
 #: ["FOOTER-EXPLORE_XAPK_APPS"]
 msgid "Explore XAPK Apps"
 msgstr "XAPK 应用"
-
 #: ["FOOTER-DESKTOP_VERSION"]
 msgid "Desktop Version"
 msgstr "电脑版"
-
 #: ["FOOTER-MOBILE_VERSION"]
 msgid "Mobile Version"
 msgstr "触屏版"
-
 #: ["FOOTER-MOBILE_SITE"]
 msgid "Mobile Site"
 msgstr "触屏版"
-
 #: ["FOOTER-CONTACT_US"]
 msgid "Contact us"
 msgstr "联系我们"
-
 #: ["FOOTER-ABOUT"]
 msgid "About"
 msgstr "关于我们"
-
 #: ["FOOTER-SOLUTIONS"]
 msgid "SOLUTIONS"
 msgstr "产品相关"
-
 #: ["FOOTER-CUSTOMER_SERVICE"]
 msgid "CUSTOMER SERVICE"
 msgstr "客户服务"
-
 #: ["FOOTER-FOLLOW_US"]
 msgid "FOLLOW US"
 msgstr "关注我们"
-
 #: ["FOOTER-TOP_ANDROID_APPS"]
 msgid "TOP ANDROID APPS"
 msgstr "热门安卓应用"
-
 #: ["FOOTER-TOP_ANDROID_GAMES"]
 msgid "TOP ANDROID GAMES"
 msgstr "热门安卓游戏"
-
 #: ["MARKET-QR"]
 msgid "Download<br>APKPure App"
 msgstr "扫一扫安装<br>APKPure 客户端"
-
 #: ["MARKET-QR-TITLE"]
 msgid "Download APKPure App"
 msgstr "下载 APKPure 手机客户端"
-
 #: ["MARKET-INDEX_SHORT_DES"]
 msgid "Try <strong title="Download APKPure APK">APKPure App</strong> - Download, update and install apks on your Android."
 msgstr "使用 <strong title="下载APKPure客户端">APKPure 手机客户端</strong>免费下载，更新升级安卓游戏及应用。"
-
 #: ["MARKET-INDEX_SHORT_DES_TITLE"]
 msgid "Try APKPure Mobile app, to install, manage and update your Android apps."
 msgstr "通过 APKPure 客户端在手机上免费下载，升级安卓游戏及应用。"
-
 #: ["MARKET-DETAIL_APK_SHORT_DES"]
 msgid "Faster apks download and update on APKPure App"
 msgstr "使用 APKPure 客户端下载，更新升级安卓游戏及应用"
-
 #: ["MARKET-DETAIL_APK_SHORT_DES_MOBILE"]
 msgid "Download and update on APKPure App"
 msgstr "使用 APKPure 客户端下载更新"
-
 #: ["MARKET-DETAIL_APK_SHORT_DES_TITLE"]
 msgid "Faster apks download and update on APKPure"
 msgstr "使用 APKPure 客户端下载，更新升级安卓游戏及应用"
-
 #: ["MARKET-DETAIL_XAPK_SHORT_DES"]
 msgid "Install and update XAPK with APKPure App"
 msgstr "使用 APKPure 客户端升级安装 XAPK"
-
 #: ["MARKET-DETAIL_XAPK_SHORT_DES_MOBILE"]
 msgid "Click to get XAPK Installer"
 msgstr "点击下载 XAPK 安装器"
-
 #: ["MARKET-DETAIL_XAPK_SHORT_DES_TITLE"]
 msgid "Install and update XAPK with APKPure App"
 msgstr "使用 APKPure 客户端升级安装 XAPK"
-
 #: ["MARKET-INDEX_BANNER_TITLE"]
 msgid "APKPure APP"
 msgstr "APKPure 客户端"
-
 #: ["MARKET-INDEX_BANNER_DES"]
 msgid "Install,manage and update your Android apps"
 msgstr "免费下载，更新升级安卓游戏及应用"
-
 #: ["FLAG-Africa"]
 msgid "Africa"
 msgstr "非洲"
-
 #: ["FLAG-Americas"]
 msgid "Americas"
 msgstr "美洲"
-
 #: ["FLAG-Asia"]
 msgid "Asia"
 msgstr "亚洲"
-
 #: ["FLAG-Europe"]
 msgid "Europe"
 msgstr "欧洲"
-
 #: ["FLAG-Oceania"]
 msgid "Oceania"
 msgstr "大洋洲"
-
 #: ["FLAG-Rest_of_the_world"]
 msgid "Rest of the world"
 msgstr "世界其它地区"
-
 #: ["ERROR-OOPS"]
 msgid "OOPS!,"
 msgstr ":("
-
 #: ["ERROR-SUBTITLE"]
 msgid "You can visit the following Games and Apps instead"
-msgstr "试试搜索其他安卓应用，或者看看大家在下载什么"
-
+msgstr "试试搜索其他安卓应用，或者看看大家在下载什么。"
 #: ["error"]["DOWN-ItemNotFree"]
 msgid "Sorry, paid apps are not available to download with our APK Download Service."
 msgstr "对不起，不提供付费 APK 下载。"
-
 #: ["error"]["DOWN-ItemNotFound"]
 msgid "Sorry, download failed, the APK cannot be found on Google play."
 msgstr "对不起，无法在 Google Play 找到此 APK。"
-
 #: ["error"]["DOWN-LimitedRegion"]
 msgid "Oops! Change your region and try download again."
 msgstr "无法在当前区域下载此 APK，请更改区域重新尝试。"
-
 #: ["error"]["DOWN-LimitedDevice"]
 msgid "Sorry, download failed, the APK does not support our device."
 msgstr "未知错误，我们将尽快修复此问题。"
-
 #: ["error"]["DOWN-UnknownError"]
 msgid "Download failed because of an unknown error. We will fix this problem soon."
 msgstr "未知错误，我们将尽快修复此问题。"
-
 #: ["error"]["DOWN-LimitedCarrier"]
 msgid "Download failed because of an unknown error. We will fix this problem soon."
 msgstr "未知错误，我们将尽快修复此问题。"
-
 #: ["error"]["DOWN-PreRegister"]
 msgid "It's a Pre-registration App, you can't download."
-msgstr "这是一个预注册应用，试试更改区域。"
-
+msgstr "这是一个预注册应用，试试更改区域？"
 #: ["error"]["DOWN-RunOutOfDevice"]
 msgid "Download failed, please try again in 5 minutes."
 msgstr "请求量过大，请5分钟后再试。"
-
 #: ["tip"]["ICON"]
-msgid "%s icon"
-msgstr "%s 图标"
-
+msgid "{0} icon"
+msgstr "{0} 图标"
 #: ["tip"]["LIST_ICON"]
-msgid "%s APK"
-msgstr "%s APK"
-
+msgid "{0} APK"
+msgstr "{0} APK"
 #: ["tip"]["LIST_TITLE"]
-msgid "%s APK"
-msgstr "%s APK"
-
+msgid "{0} APK"
+msgstr "{0} APK"
 #: ["tip"]["LIST_DOWN"]
-msgid "Download %s latest version apk"
-msgstr "下载 %s 最新版 apk"
-
+msgid "Download {0} latest version apk"
+msgstr "下载 {0} 最新版 apk"
 #: ["tip"]["LIST_DOWN_XAPK"]
-msgid "Download %s latest version xapk"
-msgstr "下载 %s 最新版 xapk"
-
+msgid "Download {0} latest version xapk"
+msgstr "下载 {0} 最新版 xapk"
 #: ["tip"]["VERSION_DOWN"]
-msgid "Download %s %s (%s) %s"
-msgstr "下载 %s %s (%s) %s"
-
+msgid "Download {app_name} {version_name} ({version_code}) {file_type}"
+msgstr "下载 {app_name} {version_name} ({version_code}) {file_type}"
 #: ["tip"]["RATING"]
-msgid "%s average rating %s"
-msgstr "%s 评级 %s"
-
+msgid "{app_name} average rating {rating_average}"
+msgstr "{app_name} 评级 {rating_average}"
 #: ["tip"]["QR_DOWN"]
-msgid "%s QR code download"
-msgstr "%s 二维码下载"
-
+msgid "{0} QR code download"
+msgstr "{0} 二维码下载"
 #: ["tip"]["SAFE_VERIFIED"]
-msgid "%s safe verified"
-msgstr "%s 安全认证"
-
+msgid "{0} safe verified"
+msgstr "{0} 安全认证"
 #: ["tip"]["SCREEN_POSTER"]
-msgid "%s poster"
-msgstr "%s 海报"
-
+msgid "{0} poster"
+msgstr "{0} 海报"
 #: ["tip"]["SCREEN"]
-msgid "%s apk screenshot"
-msgstr "%s apk 截图"
-
+msgid "{0} apk screenshot"
+msgstr "{0} apk 截图"
 #: ["tip"]["CATEGORY_GAME"]
-msgid "Download more %s games"
-msgstr "下载更多 %s 游戏"
-
+msgid "Download more {0} games"
+msgstr "下载更多 {0} 游戏"
 #: ["tip"]["CATEGORY_APP"]
-msgid "Download more %s apps"
-msgstr "下载更多 %s 应用"
-
+msgid "Download more {0} apps"
+msgstr "下载更多 {0} 应用"
 #: ["tip"]["GET_IT_ON_GOOGLE_PLAY"]
-msgid "Get %s on Google Play"
-msgstr "%s 来源 Google Play"
-
+msgid "Get {0} on Google Play"
+msgstr "{0} 来源 Google Play"
 #: ["tip"]["GET_IT_ON_OTHER"]
-msgid "Get %s on %s"
-msgstr "%s 来源 %s"
-
+msgid "Get {app_name} on {source_name}"
+msgstr "{app_name} 来源 {source_name}"
 #: ["tip"]["REQUEST_UPDATE"]
-msgid "Request %s Update"
-msgstr "请求 %s 更新"
-
+msgid "Request {0} Update"
+msgstr "请求 {0} 更新"
 #: ["tip"]["HOT_ANDROID_GAME"]
 msgid "hot android game apk"
 msgstr "热门安卓游戏"
-
 #: ["tip"]["HOT_ANDROID_APP"]
 msgid "hot android app apk"
 msgstr "热门安卓应用"
-
 #: ["tip"]["DOWNLOAD_APK"]
 msgid "Download APK"
 msgstr "下载APK"
-
 #: ["js"]["SIGN_VERIFY-OFFICIAL"]
 msgid "[Official] This {0} APK is the unmodified official version."
-msgstr "{0}是未修改的正式版本。"
-
+msgstr "{0}是未修改的正式版本"
 #: ["js"]["SIGN_VERIFY-NOT_TRUSTED"]
 msgid "[Not Trusted] This {0} APK is a modified version or has not been published to Google Play Store, we don't recommend installing it."
-msgstr "【不可信的】{0}是修改版本或未经谷歌商店发布，不建议安装。"
-
+msgstr "【不可信的】{0}是修改版本或未经谷歌商店发布，不建议安装"
 #: ["js"]["SIGN_VERIFY-ERROR_APK_FILE"]
 msgid "Error APK file"
 msgstr "错误的APK文件"
-
 #: ["js"]["SIGN_VERIFY-VALID"]
 msgid "The uploaded file is not a valid Android application."
-msgstr "不是有效的安卓程序。"
-
+msgstr "不是有效的安卓程序"
 #: ["js"]["SIGN_VERIFY-SAFE"]
 msgid "safe"
 msgstr "安全"
-
 #: ["js"]["SIGN_VERIFY-UNSAFE"]
 msgid "unsafe"
 msgstr "不安全"
-
 #: ["js"]["SIGN_VERIFY-CLICK_UPLOAD"]
 msgid "Click Upload APK file"
 msgstr "点击上传APK文件"
-
 #: ["js"]["REGION_DOWN-REGION_ERROR"]
 msgid "Package name or region error , try again"
 msgstr "包名错误或区域选择错误，请选择后重新尝试"
-
 #: ["js"]["REGION_DOWN-INVALID_APP"]
 msgid "Invalid app package name,"
 msgstr "包名无效"
-
 #: ["js"]["REGION_DOWN-SEARCH_RESULTS"]
 msgid "Check all {0} search results here."
-msgstr "点击查看{0}的搜索结果。"
-
+msgstr "点击查看{0}的搜索结果"
 #: ["js"]["SHOW_MORE"]
 msgid "Show More"
 msgstr "更多"
-
 #: ["js"]["SHOW_LESS"]
 msgid "Show less"
 msgstr "收起"
-
 #: ["js"]["LOADING"]
 msgid "loading..."
 msgstr "加载中..."
-
 #: ["js"]["DOWNLOAD_APK"]
 msgid "Download APK"
 msgstr "下载APK"
-
 #: ["js"]["UPLOADED"]
 msgid "Uploaded {0}%"
 msgstr "已上传 {0}%"
-
 #: ["js"]["UPLOADING"]
 msgid "Uploading..."
 msgstr "上传中..."
-
 #: ["js"]["VALIDATING"]
 msgid "Validating..."
 msgstr "验证中..."
-
 #: ["js"]["FILE_UPLOAD_FAILED"]
 msgid "File upload failed!"
 msgstr "文件上传失败!"
-
 #: ["featured"]["2016-new-year"]
 msgid "2016 New Year"
 msgstr "2016最新发布游戏"
-
 #: ["featured"]["2015-best-android-games"]
 msgid "2015 Best Android Games"
 msgstr "2015年热门游戏"
-
 #: ["featured"]["2015-most-popular-apps"]
 msgid "2015 Most Popular Apps"
 msgstr "2015年最受欢迎的应用"
-
 #: ["featured"]["editors-picks"]
 msgid "Editors' Picks"
 msgstr "编辑推荐"
-
 #: ["featured"]["editors-picks-subtitle"]
 msgid "Top Picks for the Best Apps of March"
 msgstr "3月份最佳应用"
-
 #: ["featured"]["editors-picks-games"]
 msgid "Games"
 msgstr "游戏"
-
 #: ["featured"]["editors-picks-apps"]
 msgid "Apps"
 msgstr "应用"
-
 #: ["include"]["INDEX-FAQ"]
 msgid "www/index_faq.htm"
 msgstr "www/zh-CN_index_faq.htm"
-
 #: ["meta"]["about.html"]["title"]
 msgid "About us"
 msgstr "关于我们"
-
 #: ["meta"]["about.html"]["keywords"]
 msgid "about apkpure.com, about us, about"
 msgstr "APKPure客户端，安卓市场，应用商店"
-
 #: ["meta"]["about.html"]["description"]
 msgid "About APKPure Team"
 msgstr "关于APKPure团队，APKPure中文网"
-
 #: ["meta"]["usb-debugging.html"]["title"]
 msgid "What is USB Debugging?"
 msgstr "什么是USB调试(USB Debugging)?"
-
 #: ["meta"]["usb-debugging.html"]["keywords"]
 msgid "USB Debugging, usb debug, debug mode, usb debugging mode, enable usb debug"
 msgstr "usb调试, 调试模式, 开启usb调试, 关闭usb调试"
-
 #: ["meta"]["usb-debugging.html"]["description"]
 msgid "Learn how to enable USB Debugging mode on Android device"
-msgstr "USB调试模式在哪，如果在安卓手机上开启或关闭USB调试模式"
-
+msgstr "USB调试模式在哪，如果在安卓手机上开启或关闭USB调试模式。"
 #: ["meta"]["apk-install.html"]["title"]
 msgid "Pure APK Install, best and free one click Android APK, XAPK Installer"
-msgstr "APKPure电脑客户端 - 最方便的安卓游戏应用安装器，一键安装"
-
+msgstr "APKPure电脑客户端 - 最方便的安卓游戏应用安装器，一键安装。"
 #: ["meta"]["apk-install.html"]["keywords"]
 msgid "apk install, apk installer, xapk installer, install apk file, apk installation software, apk installer for pc"
 msgstr "apk安装, apk安装器, xapk安装器，xapk 管理器, 安装apk文件, apk安装软件, apk安装器PC版"
-
 #: ["meta"]["apk-install.html"]["description"]
 msgid "With Pure APK Install, you are allowed to install Android APK, XAPK file for any Android phones and tablets by one click."
-msgstr ""
-"APKPure APK安装器是一款简单易用的Windows系统安卓应用安装工具，无需任何复杂操作即可向任一安卓移动设备一键安装APK, "
-"XAPK游戏及应用。"
-
+msgstr "APKPure APK安装器是一款简单易用的Windows系统安卓应用安装工具，无需任何复杂操作即可向任一安卓移动设备一键安装APK, XAPK游戏及应用。 "
 #: ["meta"]["xapk.html"]["title"]
 msgid "What is XAPK?"
 msgstr "什么是XAPK, XAPK文件?"
-
 #: ["meta"]["xapk.html"]["keywords"]
 msgid "xapk, xapk install, apk install, install obb,install android apk, copy obb to android, transfer obb to android"
 msgstr "xapk, xapk安装, 安卓应用数据包，obb数据包安装, 复制obb数据包"
-
 #: ["meta"]["xapk.html"]["description"]
 msgid "Install XAPK (APK with OBB file), APK file to Android"
-msgstr "带obb数据包文件的XAPK安卓应用如何安装，xapk安装教程"
-
+msgstr "带obb数据包文件的XAPK安卓应用如何安装，xapk安装教程。"
 #: ["meta"]["dmca.html"]["title"]
 msgid "APKPure DMCA Copyright Infringement Notification"
 msgstr "数字千年版权法（DMCA）- APKPure Inc"
-
 #: ["meta"]["dmca.html"]["keywords"]
 msgid "DMCA, Copyright Infringement Notification"
 msgstr "数字千年版权法, DMCA"
-
 #: ["meta"]["dmca.html"]["description"]
 msgid "APKPure abides by the federal Digital Millennium Copyright Act (DMCA) by responding to notices of alleged infringement that comply with the DMCA and other applicable laws."
-msgstr "联系APKPure提交 DMCA 通知。"
-
+msgstr "联系APKPure提交 DMCA 通知"
 #: ["meta"]["privacy-policy.html"]["title"]
 msgid "Privacy Policy"
 msgstr "隐私政策"
-
 #: ["meta"]["privacy-policy.html"]["keywords"]
 msgid "about apkpure.com, about us, about"
 msgstr "APKPure隐私政策"
-
 #: ["meta"]["privacy-policy.html"]["description"]
 msgid "About APKPure Team"
 msgstr "APKPure隐私政策"
-
 #: ["meta"]["faq-safe.html"]["title"]
 msgid "Why we can guarantee APK 100% safe? | APKPure.com"
 msgstr "如何保证APK是100%安全的 | APKPure.com"
-
 #: ["meta"]["faq-safe.html"]["keywords"]
 msgid ""
 msgstr ""
-
 #: ["meta"]["faq-safe.html"]["description"]
 msgid ""
 msgstr ""
-
 #: ["meta"]["christmas.html"]["title"]
 msgid "Best Christmas Apps for Your Android Phones & Tablets"
-msgstr "圣诞节主题游戏及应用"
-
+msgstr "Best Christmas Apps for Your Android Phones & Tablets"
 #: ["meta"]["christmas.html"]["keywords"]
 msgid "apps, games, christmas app, christmas game, android game"
-msgstr "圣诞节游戏, 圣诞节游戏"
-
+msgstr "apps, games, christmas app, christmas game, android game"
 #: ["meta"]["christmas.html"]["description"]
 msgid "APKPure Best Android games and apps for Christmas and holiday season."
-msgstr "APKPure圣诞节安卓游戏和应用。"
-
+msgstr "APKPure Best Android games and apps for Christmas and holiday season."
 #: ["meta"]["apkpure-app.html"]["title"]
 msgid "APKPure APK Downloader for Android Wear, Phones, Tablets, TV"
 msgstr "APKPure应用市场，安卓市场，手机，平板应用商店，APKPure TV应用市场"
-
 #: ["meta"]["apkpure-app.html"]["keywords"]
 msgid "APKPure, APKPure Downloader, android, App Store, google, play store, market"
 msgstr "APKPure官网 APKPure下载, 应用商店, 谷歌市场, play store,安卓市场"
-
 #: ["meta"]["apkpure-app.html"]["description"]
 msgid "Download and update the latest Android™ Apps apk in APKPure, the best free Android APK Downloader online right at apkpure.com. Come and join APKPure's clan."
 msgstr "使用APKPure市场客户端下载更新游戏应用, 及时体验应用最新功能提高应用的安全性和稳定. 快来体验APKPure应用市场."
-
 #: ["meta"]["Index"]["title"]
 msgid "Download APK from Google Play Store free online downloader | APKPure.com"
 msgstr "使用APKPure APK下载器在线极速下载Google Play原版应用 - APKPure官网"
-
 #: ["meta"]["Index"]["keywords"]
 msgid "apk download, apk downloader, google play download, android apk download, google play apk download"
 msgstr "apk下载, apk下载器, 谷歌商店下载, 安卓apk下载, 谷歌商店apk下载"
-
 #: ["meta"]["Index"]["description"]
 msgid "Download apk for Android from Google Play Store with APKPure APK downloader. NoAds, Faster apk downloads and apk file update speed. Best of all, it's free"
-msgstr "使用APKPure APK下载器下载谷歌官方正版应用.无需绑定账户，海量历史版本应用，极速下载更新"
-
+msgstr "使用APKPure APK下载器下载谷歌官方正版应用.无需绑定账户，海量历史版本应用，极速下载更新。"
 #: ["meta"]["Details"]["title"]
-msgid "{0} APK Download - Free {1} {2} for Android | APKPure.com"
-msgstr "{0} 安卓APK下载，{0} 谷歌官方版APK下载 - APKPure应用市场"
-
+msgid "{app_name} APK Download - Free {app_category} {app_type} for Android | APKPure.com"
+msgstr "{app_name} 安卓APK下载，{app_name} 谷歌官方版APK下载 - APKPure应用市场"
 #: ["meta"]["Details"]["keywords"]
-msgid "{0} apk, {0} apk download, {0} download, {0} .apk , {0} android,  {0} google play, {1} {2} download"
-msgstr "{0} apk, {0} apk下载, {0} 下载, {0}.apk, {0} 安卓版, {0} 谷歌版, {1}{2}下载"
-
+msgid "{app_name} apk, {app_name} apk download, {app_name} download, {app_name}.apk, {app_name} android, {app_name} google play, {app_category} {app_type} download"
+msgstr "{app_name} apk, {app_name} apk下载, {app_name} 下载, {app_name}.apk, {app_name} 安卓版, {app_name} 谷歌版, {app_category}{app_type}下载"
 #: ["meta"]["Details"]["description"]
-msgid "Download {4} apk {3} and all version history for Android. {5}"
-msgstr "{4}谷歌官方版APK免费下载，{4}最新版安卓apk{3}下载。{5}"
-
+msgid "Download {app_short_name} apk {version_name} and all version history for Android. {app_short_description}"
+msgstr "{app_short_name}谷歌官方版APK免费下载，{app_short_name}最新版安卓apk {version_name} 下载。{app_short_description}"
 #: ["meta"]["Category_xapk"]["title"]
 msgid "XAPK ( apk with obb file) {0} free Google Play {0} .apk for Android download"
 msgstr "Google Play版{0}, 安卓版带数据包{0}免费下载"
-
 #: ["meta"]["Category_xapk"]["keywords"]
 msgid "xapk {0}, {0} xapk, xapk {0} download, download apk obb, apk with obb data, android"
 msgstr "安卓版带数据包{0},安卓版带数据包{0}下载,安卓{0},安卓{0}下载, 安卓版APK自带OBB数据包, 安卓"
-
 #: ["meta"]["Category_xapk"]["description"]
 msgid "Download Android {0} XAPK, full version Google Play apk with obb data file."
 msgstr "下载Google Play版本{0}安卓APK含数据包。"
-
 #: ["meta"]["Category_featured"]["title"]
 msgid "Download {0} APK Android App Online - Free Pure APK Downloader"
 msgstr "安卓{0}APK在线下载 - APKPure应用商店"
-
 #: ["meta"]["Category_featured"]["keywords"]
 msgid "{0}"
 msgstr "{0}Google Play版，下载{0}安卓APK"
-
 #: ["meta"]["Category_featured"]["description"]
 msgid "{0}"
 msgstr "下载官方正版安卓{0}"
-
 #: ["meta"]["Category_app"]["title"]
 msgid "Download {0} APK Android App Online - Free Pure APK Downloader"
 msgstr "在线下载安卓正版{0},Google Play版{0}APK下载升级 - APKPure应用市场"
-
 #: ["meta"]["Category_app"]["keywords"]
 msgid "{0} apk download, free {0} download, {0} apk download, download {0} apk, {0} apk downloader, {0} android"
 msgstr "安卓版{0}apk下载, 手机{0}最新版下载, 最新版{0}apk升级, {0}安卓升级,安卓Google Play版{0}下载"
-
 #: ["meta"]["Category_app"]["description"]
 msgid "Download free and best {0}  for Android phone and tablet with online apk downloader on APKPure.com, including (tool apps, shopping apps, communication apps) and more."
-msgstr "下载最新Google Play免费正版安卓{0}，APK在线下载更新 - APKPure应用市场。"
-
+msgstr "下载最新Google Play免费正版安卓{0}，APK在线下载更新 - APKPure应用市场"
 #: ["meta"]["Category_game"]["title"]
 msgid "Download {0} APK Android App Online - Free Pure APK Downloader"
 msgstr "在线下载安卓正版{0},Google Play版{0}APK下载升级 - APKPure应用市场"
-
 #: ["meta"]["Category_game"]["keywords"]
 msgid "{0} apk download, free {0} download, download {0} apk, {0} apk downloader, {0} android, {0} app download"
 msgstr "安卓版{0}apk下载, 手机{0}最新版下载, 最新版{0}apk升级, {0}应用升级,安卓Google Play版{0}下载"
-
 #: ["meta"]["Category_game"]["description"]
 msgid "Download free and best {0} for Android phone and tablet with online apk downloader on APKPure.com, including (driving games, shooting games, fighting games) and more."
-msgstr "下载最新Google Play免费正版安卓{0}，APK在线下载更新 - APKPure应用市场。"
-
+msgstr "下载最新Google Play免费正版安卓{0}，APK在线下载更新 - APKPure应用市场"
 #: ["meta"]["FAQ"]["title"]
 msgid "{0} FAQ | APKPure.com"
 msgstr "{0}问题 | APKPure.com"
-
 #: ["meta"]["FAQ"]["keywords"]
 msgid "{0}"
 msgstr "常见问题, 热门问题, 下载问题, APK安装问题"
-
 #: ["meta"]["FAQ"]["description"]
 msgid "{0}"
 msgstr "{0}"
-
 #: ["meta"]["Developer"]["title"]
 msgid "All {0} free Android apps apk download | APKPure.com"
 msgstr "{0}所有好玩的安卓应用下载，游戏下载更新"
-
 #: ["meta"]["Developer"]["keywords"]
 msgid "{0} apk download, download {0} free app, {0} games for android,  {0} games app list, {0} app update, {0} app apk downloader"
 msgstr "{0}安卓apk下载, {0}安卓版下载, {0}安卓游戏下载, {0}好玩的应用下载, {0}最新版升级, {0}APK下载"
-
 #: ["meta"]["Developer"]["description"]
 msgid "All Apps or Games Published by "{0}""
-msgstr "{0}所有安卓游戏免费下载，最新版下载更新"
-
+msgstr "{0}所有安卓游戏免费下载，最新版下载更新。"
 #: ["meta"]["Search"]["title"]
 msgid "{0} search results | APKPure.com"
 msgstr "APKPure应用商店站内搜索{0}"
-
 #: ["meta"]["Search"]["keywords"]
 msgid "{0} apk download, download {0} apk"
 msgstr "{0}安卓版APK下载，下载最新版{0}APK安装包"
-
 #: ["meta"]["Search"]["description"]
 msgid "{0}"
 msgstr "{0}"
-
 #: ["meta"]["New"]["title"]
 msgid "Download the latest {0} APK | APKPure.com"
 msgstr "最近更新上线的安卓{0}APK免费下载 | APKPure应用市场"
-
 #: ["meta"]["New"]["keywords"]
 msgid "{0} apk download, {0} update, free top {0} download, free {0} downloader,  best {0} for Android,"
 msgstr "最新安卓{0}apk下载, {0}更新, 热门安卓{0}下载, 安卓热门{0}下载"
-
 #: ["meta"]["New"]["description"]
 msgid "Daily update top free Google Play {0} apk download."
 msgstr "Google Play安卓热门{0}apk更新下载。每日更新，海量免费游戏应用，Play Store官方正版。"
-
 #: ["meta"]["Verify"]["title"]
 msgid "APK Signature Verification, Google Play Official Version APK Detection Service"
 msgstr "Google Play版APK签名校验，在线签名校验工具 - APKPure签名校验工具"
-
 #: ["meta"]["Verify"]["keywords"]
 msgid "apk signature verification, apk signature verify, apk signature checker, apk signature viewer, modified apk, free, online, scanner"
 msgstr "apk签名校验, apk签名, apk签名验证, apk签名校验工具, apk签名查看器, apk修改查看"
-
 #: ["meta"]["Verify"]["description"]
 msgid "APK Signature verification will verify Android app package signature to keep Android users away from potentially harmful APK files (Modified version .apk or not official version download from Google Play Store) before APK installing."
 msgstr "APKPure签名校验器可帮助用户在线扫描可疑的APK安装文件，对比Google Play官方版本应用快速识别并判断APK修改情况。"
-
 #: ["meta"]["Download"]["title"]
 msgid "Region free APK download for Google Play Store daily update apps and games"
 msgstr "谷歌APK下载器，完美解决下载Google Play应用区域限制问题，支持跨区域应用下载更新 - APKPure谷歌APK下载器"
-
 #: ["meta"]["Download"]["keywords"]
 msgid "apk download, region free apk download, region free google play, google play store unlock, google play unlocker, google play downloader"
 msgstr "google版下载, apk下载, apk更新, 下载google play应用, 下载google play游戏, google play下载器, 谷歌应用下载器"
-
 #: ["meta"]["Download"]["description"]
 msgid "Break all Google Play Store restricted region locking rules to download free apps APK for Android phone and tablet."
 msgstr "APKPure谷歌APK下载器，突破谷歌市场区域下载限制，支持安卓手机平板，在线下载谷歌正版游戏应用。"
-
 #: ["meta"]["Error"]["title"]
 msgid "Error"
 msgstr "错误"
-
 #: ["meta"]["Category"]["title"]
 msgid "Browse Category | APKPure.com"
 msgstr "安卓手机游戏APK免费下载,Android手机软件,手机游戏下载 - APKPure应用商店"
-
 #: ["meta"]["Category"]["description"]
 msgid "Android games and apps category"
-msgstr "下载最新版安卓游戏，安卓应用APK海量应用免费下载升级"
-
+msgstr "下载最新版安卓游戏，安卓应用APK海量应用免费下载升级。"
 #: ["category"]["GAME_ACTION"]
 msgid "Action"
 msgstr "动作"
-
 #: ["category"]["GAME_ADVENTURE"]
 msgid "Adventure"
 msgstr "冒险"
-
 #: ["category"]["GAME_ARCADE"]
 msgid "Arcade"
 msgstr "街机"
-
 #: ["category"]["GAME_BOARD"]
 msgid "Board"
 msgstr "桌面和棋类"
-
 #: ["category"]["GAME_CARD"]
 msgid "Card"
 msgstr "卡牌"
-
 #: ["category"]["GAME_CASINO"]
 msgid "Casino"
 msgstr "赌场"
-
 #: ["category"]["GAME_CASUAL"]
 msgid "Casual"
 msgstr "休闲"
-
 #: ["category"]["GAME_EDUCATIONAL"]
 msgid "Educational"
 msgstr "教育"
-
 #: ["category"]["GAME_FAMILY"]
 msgid "Family"
 msgstr "家庭"
-
 #: ["category"]["GAME_MUSIC"]
 msgid "Music"
 msgstr "音乐"
-
 #: ["category"]["GAME_PUZZLE"]
 msgid "Puzzle"
 msgstr "益智"
-
 #: ["category"]["GAME_RACING"]
 msgid "Racing"
 msgstr "竞速"
-
 #: ["category"]["GAME_ROLE_PLAYING"]
 msgid "Role Playing"
 msgstr "角色扮演"
-
 #: ["category"]["GAME_SIMULATION"]
 msgid "Simulation"
 msgstr "模拟"
-
 #: ["category"]["GAME_SPORTS"]
 msgid "Sports"
 msgstr "体育"
-
 #: ["category"]["GAME_STRATEGY"]
 msgid "Strategy"
 msgstr "策略"
-
 #: ["category"]["GAME_TRIVIA"]
 msgid "Trivia"
 msgstr "知识问答"
-
 #: ["category"]["GAME_WORD"]
 msgid "Word"
 msgstr "文字"
-
 #: ["category"]["BOOKS_AND_REFERENCE"]
 msgid "Books & Reference"
 msgstr "图书与工具书"
-
 #: ["category"]["BUSINESS"]
 msgid "Business"
 msgstr "公司"
-
 #: ["category"]["COMICS"]
 msgid "Comics"
 msgstr "动漫"
-
 #: ["category"]["COMMUNICATION"]
 msgid "Communication"
 msgstr "通讯"
-
 #: ["category"]["EDUCATION"]
 msgid "Education"
 msgstr "教育"
-
 #: ["category"]["ENTERTAINMENT"]
 msgid "Entertainment"
 msgstr "娱乐"
-
 #: ["category"]["FINANCE"]
 msgid "Finance"
 msgstr "财务"
-
 #: ["category"]["HEALTH_AND_FITNESS"]
 msgid "Health & Fitness"
 msgstr "健康与健身"
-
 #: ["category"]["LIBRARIES_AND_DEMO"]
 msgid "Libraries & Demo"
 msgstr "软件与演示"
-
 #: ["category"]["LIFESTYLE"]
 msgid "Lifestyle"
 msgstr "生活时尚"
-
 #: ["category"]["APP_WALLPAPER"]
 msgid "Live Wallpaper"
 msgstr "动态壁纸"
-
 #: ["category"]["MEDIA_AND_VIDEO"]
 msgid "Media & Video"
 msgstr "媒体与视频"
-
 #: ["category"]["MEDICAL"]
 msgid "Medical"
 msgstr "医药"
-
 #: ["category"]["MUSIC_AND_AUDIO"]
 msgid "Music & Audio"
 msgstr "音乐与音频"
-
 #: ["category"]["NEWS_AND_MAGAZINES"]
 msgid "News & Magazines"
 msgstr "新闻杂志"
-
 #: ["category"]["PERSONALIZATION"]
 msgid "Personalization"
 msgstr "个性化"
-
 #: ["category"]["PHOTOGRAPHY"]
 msgid "Photography"
 msgstr "摄影"
-
 #: ["category"]["PRODUCTIVITY"]
 msgid "Productivity"
 msgstr "效率"
-
 #: ["category"]["SHOPPING"]
 msgid "Shopping"
 msgstr "购物"
-
 #: ["category"]["SOCIAL"]
 msgid "Social"
 msgstr "社交"
-
 #: ["category"]["SPORTS"]
 msgid "Sports"
 msgstr "体育"
-
 #: ["category"]["TOOLS"]
 msgid "Tools"
 msgstr "工具"
-
 #: ["category"]["TRANSPORTATION"]
 msgid "Transportation"
 msgstr "交通运输"
-
 #: ["category"]["TRAVEL_AND_LOCAL"]
 msgid "Travel & Local"
 msgstr "旅游与本地出行"
-
 #: ["category"]["WEATHER"]
 msgid "Weather"
 msgstr "天气"
-
 #: ["category"]["APP_WIDGETS"]
 msgid "Widgets"
 msgstr "小部件"

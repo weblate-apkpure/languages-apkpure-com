@@ -95,8 +95,8 @@ msgstr "Rating"
 msgid "Category"
 msgstr "Category"
 #: ["CATEGORY_JOIN"]
-msgid "%s %s"
-msgstr "%s %s"
+msgid "{app_category} {app_type}"
+msgstr "{app_category} {app_type}"
 #: ["SHOW_MORE"]
 msgid "Show More"
 msgstr "Show More"
@@ -104,17 +104,17 @@ msgstr "Show More"
 msgid "Show less"
 msgstr "Show less"
 #: ["HAVE_PRODUCTS"]
-msgid "have %s products"
-msgstr "have %s products"
+msgid "have {0} products"
+msgstr "have {0} products"
 #: ["DEVELOPER"]
 msgid "Developer"
 msgstr "Developer"
 #: ["POPULAR_GAMES_IN_LAST_HOURS"]
-msgid "Popular Games In Last %s Hours"
-msgstr "Popular Games In Last %s Hours"
+msgid "Popular Games In Last {0} Hours"
+msgstr "Popular Games In Last {0} Hours"
 #: ["POPULAR_APPS_IN_LAST_HOURS"]
-msgid "Popular Apps In Last %s Hours"
-msgstr "Popular Apps In Last %s Hours"
+msgid "Popular Apps In Last {0} Hours"
+msgstr "Popular Apps In Last {0} Hours"
 #: ["POPULAR_APPS_IN_TODAY"]
 msgid "Popular Apps In Today"
 msgstr "Popular Apps In Today"
@@ -212,11 +212,11 @@ msgstr "Author"
 msgid "votes"
 msgstr "votes"
 #: ["DETAIL-THE_DESCRIPTION"]
-msgid "The description of %s"
-msgstr "The description of %s"
+msgid "The description of {0}"
+msgstr "The description of {0}"
 #: ["DETAIL-OFFICIAL_TRAILER"]
-msgid "%s for Android official Trailer"
-msgstr "%s for Android official Trailer"
+msgid "{0} for Android official Trailer"
+msgstr "{0} for Android official Trailer"
 #: ["DETAIL-VERSION"]
 msgid "Version"
 msgstr "Version"
@@ -248,20 +248,20 @@ msgstr "Follow Updates"
 msgid "Request Update"
 msgstr "Request Update"
 #: ["DETAIL-RATING"]
-msgid "%s votes, average: %s out of 5"
-msgstr "%s votes, average: %s out of 5"
+msgid "{votes} votes, average: {rating_average} out of {rating_best}"
+msgstr "{votes} votes, average: {rating_average} out of {rating_best}"
 #: ["DETAIL-MORE_DEVELOPER"]
-msgid "Get more from %s"
-msgstr "Get more from %s"
+msgid "Get more from {0}"
+msgstr "Get more from {0}"
 #: ["DETAIL-REMOVED"]
 msgid "Removed"
 msgstr "Removed"
 #: ["DETAIL-CATEGORY_GAME"]
-msgid "%s GAME"
-msgstr "%s GAME"
+msgid "{0} GAME"
+msgstr "{0} GAME"
 #: ["DETAIL-CATEGORY_APP"]
-msgid "%s APP"
-msgstr "%s APP"
+msgid "{0} APP"
+msgstr "{0} APP"
 #: ["DETAIL-VERSION_LOAD_MORE"]
 msgid "Load more"
 msgstr "Load more"
@@ -323,8 +323,8 @@ msgstr "File Size"
 msgid "Advanced Search"
 msgstr "Advanced Search"
 #: ["SEARCH-SEARCH_RESULTS"]
-msgid "%s search results found."
-msgstr "%s search results found."
+msgid "{0} search results found."
+msgstr "{0} search results found."
 #: ["SEARCH-NO_RESULTS_FOUND"]
 msgid "No results found? Try to advanced search again."
 msgstr "No results found? Try to advanced search again."
@@ -332,8 +332,8 @@ msgstr "No results found? Try to advanced search again."
 msgid "Select a region you want to search with"
 msgstr "Select a region you want to search with"
 #: ["SEARCH-ABOUT_RESULTS"]
-msgid "About %s results"
-msgstr "About %s results"
+msgid "About {0} results"
+msgstr "About {0} results"
 #: ["SEARCH-PLACEHOLDER1"]
 msgid "APKPure or com.apkpure.aegon or https://play.google.com/store/apps/details?id=com.facebook.katana"
 msgstr "APKPure or com.apkpure.aegon or https://play.google.com/store/apps/details?id=com.facebook.katana"
@@ -349,13 +349,13 @@ msgstr "Enter App Name, Package Name, Package ID, or Google Play URL"
 #: ["SEARCH-APK"]
 msgid "Search APK"
 msgstr "Search APK"
-#: ["404_OOPS"]
+#: ["404-OOPS"]
 msgid "OOPS!,"
 msgstr "OOPS!,"
-#: ["404_Error-404"]
+#: ["404-Error_404"]
 msgid "Error 404!"
 msgstr "Error 404!"
-#: ["404_DES"]
+#: ["404-DES"]
 msgid "It seems that page you are looking for no longer exists.<br />You can explore more Android Games and Apps below！"
 msgstr "It seems that page you are looking for no longer exists.<br />You can explore more Android Games and Apps below！"
 #: ["COPYRIGHT"]
@@ -521,53 +521,53 @@ msgstr "It's a Pre-registration App, you can't download."
 msgid "Download failed, please try again in 5 minutes."
 msgstr "Download failed, please try again in 5 minutes."
 #: ["tip"]["ICON"]
-msgid "%s icon"
-msgstr "%s icon"
+msgid "{0} icon"
+msgstr "{0} icon"
 #: ["tip"]["LIST_ICON"]
-msgid "%s APK"
-msgstr "%s APK"
+msgid "{0} APK"
+msgstr "{0} APK"
 #: ["tip"]["LIST_TITLE"]
-msgid "%s APK"
-msgstr "%s APK"
+msgid "{0} APK"
+msgstr "{0} APK"
 #: ["tip"]["LIST_DOWN"]
-msgid "Download %s latest version apk"
-msgstr "Download %s latest version apk"
+msgid "Download {0} latest version apk"
+msgstr "Download {0} latest version apk"
 #: ["tip"]["LIST_DOWN_XAPK"]
-msgid "Download %s latest version xapk"
-msgstr "Download %s latest version xapk"
+msgid "Download {0} latest version xapk"
+msgstr "Download {0} latest version xapk"
 #: ["tip"]["VERSION_DOWN"]
-msgid "Download %s %s (%s) %s"
-msgstr "Download %s %s (%s) %s"
+msgid "Download {app_name} {version_name} ({version_code}) {file_type}"
+msgstr "Download {app_name} {version_name} ({version_code}) {file_type}"
 #: ["tip"]["RATING"]
-msgid "%s average rating %s"
-msgstr "%s average rating %s"
+msgid "{app_name} average rating {rating_average}"
+msgstr "{app_name} average rating {rating_average}"
 #: ["tip"]["QR_DOWN"]
-msgid "%s QR code download"
-msgstr "%s QR code download"
+msgid "{0} QR code download"
+msgstr "{0} QR code download"
 #: ["tip"]["SAFE_VERIFIED"]
-msgid "%s safe verified"
-msgstr "%s safe verified"
+msgid "{0} safe verified"
+msgstr "{0} safe verified"
 #: ["tip"]["SCREEN_POSTER"]
-msgid "%s poster"
-msgstr "%s poster"
+msgid "{0} poster"
+msgstr "{0} poster"
 #: ["tip"]["SCREEN"]
-msgid "%s apk screenshot"
-msgstr "%s apk screenshot"
+msgid "{0} apk screenshot"
+msgstr "{0} apk screenshot"
 #: ["tip"]["CATEGORY_GAME"]
-msgid "Download more %s games"
-msgstr "Download more %s games"
+msgid "Download more {0} games"
+msgstr "Download more {0} games"
 #: ["tip"]["CATEGORY_APP"]
-msgid "Download more %s apps"
-msgstr "Download more %s apps"
+msgid "Download more {0} apps"
+msgstr "Download more {0} apps"
 #: ["tip"]["GET_IT_ON_GOOGLE_PLAY"]
-msgid "Get %s on Google Play"
-msgstr "Get %s on Google Play"
+msgid "Get {0} on Google Play"
+msgstr "Get {0} on Google Play"
 #: ["tip"]["GET_IT_ON_OTHER"]
-msgid "Get %s on %s"
-msgstr "Get %s on %s"
+msgid "Get {app_name} on {source_name}"
+msgstr "Get {app_name} on {source_name}"
 #: ["tip"]["REQUEST_UPDATE"]
-msgid "Request %s Update"
-msgstr "Request %s Update"
+msgid "Request {0} Update"
+msgstr "Request {0} Update"
 #: ["tip"]["HOT_ANDROID_GAME"]
 msgid "hot android game apk"
 msgstr "hot android game apk"
@@ -746,14 +746,14 @@ msgstr "apk download, apk downloader, google play download, android apk download
 msgid "Download apk for Android from Google Play Store with APKPure APK downloader. NoAds, Faster apk downloads and apk file update speed. Best of all, it's free"
 msgstr "Download apk for Android from Google Play Store with APKPure APK downloader. NoAds, Faster apk downloads and apk file update speed. Best of all, it's free"
 #: ["meta"]["Details"]["title"]
-msgid "{0} APK Download - Free {1} {2} for Android | APKPure.com"
-msgstr "{0} APK Download - Free {1} {2} for Android | APKPure.com"
+msgid "{app_name} APK Download - Free {app_category} {app_type} for Android | APKPure.com"
+msgstr "{app_name} APK Download - Free {app_category} {app_type} for Android | APKPure.com"
 #: ["meta"]["Details"]["keywords"]
-msgid "{0} apk, {0} apk download, {0} download, {0} .apk , {0} android,  {0} google play, {1} {2} download"
-msgstr "{0} apk, {0} apk download, {0} download, {0} .apk , {0} android,  {0} google play, {1} {2} download"
+msgid "{app_name} apk, {app_name} apk download, {app_name} download, {app_name}.apk, {app_name} android, {app_name} google play, {app_category} {app_type} download"
+msgstr "{app_name} apk, {app_name} apk download, {app_name} download, {app_name}.apk, {app_name} android, {app_name} google play, {app_category} {app_type} download"
 #: ["meta"]["Details"]["description"]
-msgid "Download {4} apk {3} and all version history for Android. {5}"
-msgstr "Download {4} apk {3} and all version history for Android. {5}"
+msgid "Download {app_short_name} apk {version_name} and all version history for Android. {app_short_description}"
+msgstr "Download {app_short_name} apk {version_name} and all version history for Android. {app_short_description}"
 #: ["meta"]["Category_xapk"]["title"]
 msgid "XAPK ( apk with obb file) {0} free Google Play {0} .apk for Android download"
 msgstr "XAPK ( apk with obb file) {0} free Google Play {0} .apk for Android download"
