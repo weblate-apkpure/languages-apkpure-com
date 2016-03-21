@@ -27,7 +27,7 @@ msgid "XAPK"
 msgstr "XAPK"
 
 #: ["NAV-NEW"]
-msgid "NEW"
+msgid "NEW1"
 msgstr "NEW1"
 
 #: ["NAV-PRODUCTS"]
