@@ -1,4 +1,3 @@
-
 msgctxt "[\"NAV-GAME\"]"
 msgid "GAME"
 msgstr "GAME"
@@ -596,8 +595,8 @@ msgid "Download APKPure App"
 msgstr "Download APKPure App"
 
 msgctxt "[\"MARKET-INDEX_SHORT_DES\"]"
-msgid "Try <strong title="Download APKPure APK">APKPure App</strong> - Download, update and install apks on your Android."
-msgstr "Try <strong title="Download APKPure APK">APKPure App</strong> - Download, update and install apks on your Android."
+msgid "Try <strong title=\"Download APKPure APK\">APKPure App</strong> - Download, update and install apks on your Android."
+msgstr "Try <strong title=\"Download APKPure APK\">APKPure App</strong> - Download, update and install apks on your Android."
 
 msgctxt "[\"MARKET-INDEX_SHORT_DES_TITLE\"]"
 msgid "Try APKPure Mobile app, to install, manage and update your Android apps."
@@ -1080,8 +1079,8 @@ msgid "{0} apk download, download {0} free app, {0} games for android,  {0} game
 msgstr "{0} apk download, download {0} free app, {0} games for android,  {0} games app list, {0} app update, {0} app apk downloader"
 
 msgctxt "[\"meta\"][\"Developer\"][\"description\"]"
-msgid "All Apps or Games Published by "{0}""
-msgstr "All Apps or Games Published by "{0}""
+msgid "All Apps or Games Published by \"{0}\""
+msgstr "All Apps or Games Published by \"{0}\""
 
 msgctxt "[\"meta\"][\"Search\"][\"title\"]"
 msgid "{0} search results | APKPure.com"

@@ -1,4 +1,3 @@
-
 msgctxt "[\"NAV-GAME\"]"
 msgid "GAME"
 msgstr "游戏"
@@ -596,8 +595,8 @@ msgid "Download APKPure App"
 msgstr "下载 APKPure 手机客户端"
 
 msgctxt "[\"MARKET-INDEX_SHORT_DES\"]"
-msgid "Try <strong title="Download APKPure APK">APKPure App</strong> - Download, update and install apks on your Android."
-msgstr "使用 <strong title="下载APKPure客户端">APKPure 手机客户端</strong>免费下载，更新升级安卓游戏及应用。"
+msgid "Try <strong title=\"Download APKPure APK\">APKPure App</strong> - Download, update and install apks on your Android."
+msgstr "使用 <strong title=\"下载APKPure客户端\">APKPure 手机客户端</strong>免费下载，更新升级安卓游戏及应用。"
 
 msgctxt "[\"MARKET-INDEX_SHORT_DES_TITLE\"]"
 msgid "Try APKPure Mobile app, to install, manage and update your Android apps."
@@ -965,15 +964,15 @@ msgstr "如何保证APK是100%安全的"
 
 msgctxt "[\"meta\"][\"christmas.html\"][\"title\"]"
 msgid "Best Christmas Apps for Your Android Phones & Tablets"
-msgstr "Best Christmas Apps for Your Android Phones & Tablets"
+msgstr "圣诞节主题游戏及应用"
 
 msgctxt "[\"meta\"][\"christmas.html\"][\"keywords\"]"
 msgid "apps, games, christmas app, christmas game, android game"
-msgstr "apps, games, christmas app, christmas game, android game"
+msgstr "圣诞节应用,圣诞节游戏"
 
 msgctxt "[\"meta\"][\"christmas.html\"][\"description\"]"
 msgid "APKPure Best Android games and apps for Christmas and holiday season."
-msgstr "APKPure Best Android games and apps for Christmas and holiday season."
+msgstr "圣诞节主题安卓游戏及安卓应用"
 
 msgctxt "[\"meta\"][\"apkpure-app.html\"][\"title\"]"
 msgid "APKPure APK Downloader for Android Wear, Phones, Tablets, TV"
@@ -1080,7 +1079,7 @@ msgid "{0} apk download, download {0} free app, {0} games for android,  {0} game
 msgstr "{0}安卓apk下载, {0}安卓版下载, {0}安卓游戏下载, {0}好玩的应用下载, {0}最新版升级, {0}APK下载"
 
 msgctxt "[\"meta\"][\"Developer\"][\"description\"]"
-msgid "All Apps or Games Published by "{0}""
+msgid "All Apps or Games Published by \"{0}\""
 msgstr "{0}所有安卓游戏免费下载，最新版下载更新。"
 
 msgctxt "[\"meta\"][\"Search\"][\"title\"]"
