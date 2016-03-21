@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-03-19 10:18+0000\n"
-"PO-Revision-Date: 2016-03-19 10:22+0000\n"
+"PO-Revision-Date: 2016-03-21 06:37+0000\n"
 "Last-Translator: CAT <catcto.com@gmail.com>\n"
 "Language-Team: Simplified Chinese "
 "<https://translate.apkpure.com/projects/apkpure/apkpurecom/zh_Hans/>\n"
@@ -1331,3 +1331,19 @@ msgstr "天气"
 #: ["category"]["APP_WIDGETS"]
 msgid "Widgets"
 msgstr "小部件"
+
+#: ["FOOTER-TRANSLATE"]
+msgid "Translate APKPure"
+msgstr "帮助翻译APKPure"
+
+#: ["meta"]["faq-safe.html"]["keywords"]
+msgid "apk pure,apk safe"
+msgstr "apk pure,apk safe"
+
+#: ["meta"]["Error"]["description"]
+msgid "error"
+msgstr "错误"
+
+#: ["meta"]["Category"]["keywords"]
+msgid "app category,game category"
+msgstr "安卓应用分类,安装游戏分类"
