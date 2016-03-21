@@ -814,6 +814,10 @@ msgctxt "[\"js\"][\"REGION_DOWN-SEARCH_RESULTS\"]"
 msgid "Check all {0} search results here."
 msgstr "Check all {0} search results here."
 
+msgctxt "[\"js\"][\"REGION_DOWN-DOWNLOADING\"]"
+msgid "Downloading, please wait..."
+msgstr "Downloading, please wait..."
+
 msgctxt "[\"js\"][\"SHOW_MORE\"]"
 msgid "Show More"
 msgstr "Show More"
