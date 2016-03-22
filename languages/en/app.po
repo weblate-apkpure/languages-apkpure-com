@@ -586,6 +586,10 @@ msgctxt "[\"FOOTER-TRANSLATE\"]"
 msgid "Translate APKPure"
 msgstr "Translate APKPure"
 
+msgctxt "[\"FOOTER-DEVELOPER\"]"
+msgid "Developers"
+msgstr "Developers"
+
 msgctxt "[\"MARKET-QR\"]"
 msgid "Download<br>APKPure App"
 msgstr "Download<br>APKPure App"
@@ -989,6 +993,14 @@ msgstr "APKPure, APKPure Downloader, android, App Store, google, play store, mar
 msgctxt "[\"meta\"][\"apkpure-app.html\"][\"description\"]"
 msgid "Download and update the latest Android™ Apps apk in APKPure, the best free Android APK Downloader online right at apkpure.com. Come and join APKPure's clan."
 msgstr "Download and update the latest Android™ Apps apk in APKPure, the best free Android APK Downloader online right at apkpure.com. Come and join APKPure's clan."
+
+msgctxt "[\"meta\"][\"developer.html\"][\"title\"]"
+msgid "Developers - Submit your Android Apps and games, corporate with APKPure"
+msgstr "Developers - Submit your Android Apps and games, corporate with APKPure"
+
+msgctxt "[\"meta\"][\"developer.html\"][\"description\"]"
+msgid "Free to play games, free to use Android apps publishing submission on APKPure.com."
+msgstr "Free to play games, free to use Android apps publishing submission on APKPure.com."
 
 msgctxt "[\"meta\"][\"Index\"][\"title\"]"
 msgid "Download APK from Google Play Store free online downloader | APKPure.com"
