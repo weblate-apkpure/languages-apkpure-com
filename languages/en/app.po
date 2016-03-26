@@ -646,6 +646,18 @@ msgctxt "[\"MARKET-INDEX_BANNER_DES\"]"
 msgid "Install,manage and update your Android apps"
 msgstr "Install,manage and update your Android apps"
 
+msgctxt "[\"MARKET-BOTTOM_BANNER_TITLE\"]"
+msgid "APKPure App"
+msgstr "APKPure App"
+
+msgctxt "[\"MARKET-BOTTOM_BANNER_DES\"]"
+msgid "Download and update free Android game apps - Action, Puzzle,3DMMO, and Strategy Games."
+msgstr "Download and update free Android game apps - Action, Puzzle,3DMMO, and Strategy Games."
+
+msgctxt "[\"MARKET-BOTTOM_BANNER_DOWNLOAD_BTN\"]"
+msgid "Download APP"
+msgstr "Download APP"
+
 msgctxt "[\"FLAG-Africa\"]"
 msgid "Africa"
 msgstr "Africa"
