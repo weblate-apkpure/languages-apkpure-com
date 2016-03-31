@@ -1,19 +1,3 @@
-msgid ""
-msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-03-21 12:18+0000\n"
-"PO-Revision-Date: 2016-03-22 04:46+0000\n"
-"Last-Translator: leaomett <leaomett@gmail.com>\n"
-"Language-Team: Simplified Chinese "
-"<https://translate.apkpure.com/projects/apkpure/apkpurecom/zh_Hans/>\n"
-"Language: zh-CN\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 2.6-dev\n"
-
 msgctxt "[\"NAV-GAME\"]"
 msgid "GAME"
 msgstr "游戏"
@@ -378,6 +362,14 @@ msgctxt "[\"DETAIL-TRANSLATE\"]"
 msgid "Translate"
 msgstr "翻译"
 
+msgctxt "[\"DETAIL-DELETED_COPYRIGHT_GOOGLE_PLAY_URL\"]"
+msgid "Download on Google Play"
+msgstr "Download on Google Play"
+
+msgctxt "[\"DETAIL-DELETED_COPYRIGHT_GOOGLE_PLAY_DES\"]"
+msgid "{app_name} All rights reserved ©2016 {developer}. {developer} and the {developer} logo are trademarks of {developer} in the U.S. and/or other countries.All other trademarks are the property of their respective owners."
+msgstr "{app_name} All rights reserved ©2016 {developer}. {developer} and the {developer} logo are trademarks of {developer} in the U.S. and/or other countries.All other trademarks are the property of their respective owners."
+
 msgctxt "[\"REGION_DOWN-TITLE\"]"
 msgid "Region free APK download"
 msgstr "谷歌 APK 下载器 (APK Downloader)"
@@ -602,6 +594,10 @@ msgctxt "[\"FOOTER-TRANSLATE\"]"
 msgid "Translate APKPure"
 msgstr "帮助翻译APKPure"
 
+msgctxt "[\"FOOTER-DEVELOPER\"]"
+msgid "Developers"
+msgstr "开发者"
+
 msgctxt "[\"MARKET-QR\"]"
 msgid "Download<br>APKPure App"
 msgstr "扫一扫安装<br>APKPure 客户端"
@@ -649,6 +645,26 @@ msgstr "APKPure 客户端"
 msgctxt "[\"MARKET-INDEX_BANNER_DES\"]"
 msgid "Install,manage and update your Android apps"
 msgstr "免费下载，更新升级安卓游戏及应用"
+
+msgctxt "[\"MARKET-BOTTOM_BANNER_TITLE\"]"
+msgid "APKPure App"
+msgstr "APKPure 客户端"
+
+msgctxt "[\"MARKET-BOTTOM_BANNER_DES\"]"
+msgid "Try APKPure App - Download, update and install apks on your Android."
+msgstr "使用 APKPure 手机客户端免费下载，及时更新升级安卓游戏及应用。"
+
+msgctxt "[\"MARKET-BOTTOM_BANNER_DETAIL_APK_DES\"]"
+msgid "Using APKPure App to upgrade <strong>{0}</strong>, fast, free and save your internet data."
+msgstr "用 APKpure 客户端来更新 <strong>{0}</strong>，更快，免费，省流量。"
+
+msgctxt "[\"MARKET-BOTTOM_BANNER_DETAIL_XAPK_DES\"]"
+msgid "Using APKPure App to upgrade <strong>{0}</strong>, install xapk, fast, free and save your internet data."
+msgstr "用 APKpure 客户端来更新 <strong>{0}</strong>，安装XAPK，更快，免费，省流量。"
+
+msgctxt "[\"MARKET-BOTTOM_BANNER_DOWNLOAD_BTN\"]"
+msgid "Download APP"
+msgstr "点击下载"
 
 msgctxt "[\"FLAG-Africa\"]"
 msgid "Africa"
@@ -830,6 +846,10 @@ msgctxt "[\"js\"][\"REGION_DOWN-SEARCH_RESULTS\"]"
 msgid "Check all {0} search results here."
 msgstr "点击查看{0}的搜索结果"
 
+msgctxt "[\"js\"][\"REGION_DOWN-DOWNLOADING\"]"
+msgid "Downloading, please wait..."
+msgstr "下载中，请稍后..."
+
 msgctxt "[\"js\"][\"SHOW_MORE\"]"
 msgid "Show More"
 msgstr "更多"
@@ -928,9 +948,7 @@ msgstr "apk安装, apk安装器, xapk安装器，xapk 管理器, 安装apk文件
 
 msgctxt "[\"meta\"][\"apk-install.html\"][\"description\"]"
 msgid "With Pure APK Install, you are allowed to install Android APK, XAPK file for any Android phones and tablets by one click."
-msgstr ""
-"APKPure APK安装器是一款简单易用的Windows系统安卓应用安装工具，无需任何复杂操作即可向任一安卓移动设备一键安装APK, "
-"XAPK游戏及应用。"
+msgstr "APKPure APK安装器是一款简单易用的Windows系统安卓应用安装工具，无需任何复杂操作即可向任一安卓移动设备一键安装APK, XAPK游戏及应用。"
 
 msgctxt "[\"meta\"][\"xapk.html\"][\"title\"]"
 msgid "What is XAPK?"
@@ -1003,6 +1021,14 @@ msgstr "APKPure官网 APKPure下载, 应用商店, 谷歌市场, play store,安�
 msgctxt "[\"meta\"][\"apkpure-app.html\"][\"description\"]"
 msgid "Download and update the latest Android™ Apps apk in APKPure, the best free Android APK Downloader online right at apkpure.com. Come and join APKPure's clan."
 msgstr "使用APKPure市场客户端下载更新游戏应用, 及时体验应用最新功能提高应用的安全性和稳定. 快来体验APKPure应用市场."
+
+msgctxt "[\"meta\"][\"developer.html\"][\"title\"]"
+msgid "Developers - Submit your Android Apps and games, corporate with APKPure"
+msgstr "开发者中心 - 向APKPure应用商店提交安卓应用游戏，联系商务合作"
+
+msgctxt "[\"meta\"][\"developer.html\"][\"description\"]"
+msgid "Free to play games, free to use Android apps publishing submission on APKPure.com."
+msgstr "免费安卓游戏应用在APKPure应用商店提交和发布流程信息。"
 
 msgctxt "[\"meta\"][\"Index\"][\"title\"]"
 msgid "Download APK from Google Play Store free online downloader | APKPure.com"
@@ -1347,19 +1373,3 @@ msgstr "天气"
 msgctxt "[\"category\"][\"APP_WIDGETS\"]"
 msgid "Widgets"
 msgstr "小部件"
-
-msgctxt "[\"js\"][\"REGION_DOWN-DOWNLOADING\"]"
-msgid "Downloading, please wait..."
-msgstr "下载中，请稍后..."
-
-msgctxt "[\"FOOTER-DEVELOPER\"]"
-msgid "Developers"
-msgstr "开发者"
-
-msgctxt "[\"meta\"][\"developer.html\"][\"title\"]"
-msgid "Developers - Submit your Android Apps and games, corporate with APKPure"
-msgstr "开发者中心 - 向APKPure应用商店提交安卓应用游戏，联系商务合作"
-
-msgctxt "[\"meta\"][\"developer.html\"][\"description\"]"
-msgid "Free to play games, free to use Android apps publishing submission on APKPure.com."
-msgstr "免费安卓游戏应用在APKPure应用商店提交和发布流程信息。"

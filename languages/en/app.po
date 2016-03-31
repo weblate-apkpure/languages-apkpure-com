@@ -651,8 +651,16 @@ msgid "APKPure App"
 msgstr "APKPure App"
 
 msgctxt "[\"MARKET-BOTTOM_BANNER_DES\"]"
-msgid "Download and update free Android game apps - Action, Puzzle,3DMMO, and Strategy Games."
-msgstr "Download and update free Android game apps - Action, Puzzle,3DMMO, and Strategy Games."
+msgid "Try APKPure App - Download, update and install apks on your Android."
+msgstr "Try APKPure App - Download, update and install apks on your Android."
+
+msgctxt "[\"MARKET-BOTTOM_BANNER_DETAIL_APK_DES\"]"
+msgid "Using APKPure App to upgrade <strong>{0}</strong>, fast, free and save your internet data."
+msgstr "Using APKPure App to upgrade <strong>{0}</strong>, fast, free and save your internet data."
+
+msgctxt "[\"MARKET-BOTTOM_BANNER_DETAIL_XAPK_DES\"]"
+msgid "Using APKPure App to upgrade <strong>{0}</strong>, install xapk, fast, free and save your internet data."
+msgstr "Using APKPure App to upgrade <strong>{0}</strong>, install xapk, fast, free and save your internet data."
 
 msgctxt "[\"MARKET-BOTTOM_BANNER_DOWNLOAD_BTN\"]"
 msgid "Download APP"
