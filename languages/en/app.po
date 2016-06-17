@@ -278,6 +278,14 @@ msgctxt "[\"DETAIL-AUTHOR\"]"
 msgid "Author"
 msgstr "Author"
 
+msgctxt "[\"DETAIL-REPORT\"]"
+msgid "Report"
+msgstr "Report"
+
+msgctxt "[\"DETAIL-FLAG_AS_INAPPROPRIATE\"]"
+msgid "Flag as inappropriate"
+msgstr "Flag as inappropriate"
+
 msgctxt "[\"DETAIL-VOTES\"]"
 msgid "votes"
 msgstr "votes"
@@ -305,6 +313,14 @@ msgstr "Signature"
 msgctxt "[\"DETAIL-FILE_SHA1\"]"
 msgid "File SHA1"
 msgstr "File SHA1"
+
+msgctxt "[\"DETAIL-APK_FILE_SHA1\"]"
+msgid "APK File SHA1"
+msgstr "APK File SHA1"
+
+msgctxt "[\"DETAIL-XAPK_FILE_SHA1\"]"
+msgid "XAPK File SHA1"
+msgstr "XAPK File SHA1"
 
 msgctxt "[\"DETAIL-WHATS_NEW\"]"
 msgid "What's new"
@@ -362,6 +378,18 @@ msgctxt "[\"DETAIL-TRANSLATE\"]"
 msgid "Translate"
 msgstr "Translate"
 
+msgctxt "[\"DETAIL-GP_DOWNLOAD\"]"
+msgid "Install on Google Play"
+msgstr "Install on Google Play"
+
+msgctxt "[\"DETAIL-ITUNE_DOWNLOAD\"]"
+msgid "Install on iTunes"
+msgstr "Install on iTunes"
+
+msgctxt "[\"DETAIL-MORE_DOWNLOAD\"]"
+msgid "More Download Locations:"
+msgstr "More Download Locations:"
+
 msgctxt "[\"DETAIL-DELETED_COPYRIGHT_GOOGLE_PLAY_URL\"]"
 msgid "Download on Google Play"
 msgstr "Download on Google Play"
@@ -370,17 +398,33 @@ msgctxt "[\"DETAIL-DELETED_COPYRIGHT_GOOGLE_PLAY_DES\"]"
 msgid "{app_name} All rights reserved ©2016 {developer}. {developer} and the {developer} logo are trademarks of {developer} in the U.S. and/or other countries.All other trademarks are the property of their respective owners."
 msgstr "{app_name} All rights reserved ©2016 {developer}. {developer} and the {developer} logo are trademarks of {developer} in the U.S. and/or other countries.All other trademarks are the property of their respective owners."
 
+msgctxt "[\"DETAIL_DOWNLOAD-NAV_DOWNLOAD\"]"
+msgid "Download"
+msgstr "Download"
+
+msgctxt "[\"DETAIL_DOWNLOAD-DOWNLOADING\"]"
+msgid "Downloading"
+msgstr "Downloading"
+
+msgctxt "[\"DETAIL_DOWNLOAD-DOWNLOADING_DES\"]"
+msgid "If the download doesn't start,"
+msgstr "If the download doesn't start,"
+
+msgctxt "[\"DETAIL_DOWNLOAD-DOWNLOADING_DES_CLICK\"]"
+msgid "click here"
+msgstr "click here"
+
 msgctxt "[\"REGION_DOWN-TITLE\"]"
 msgid "Region free APK download"
 msgstr "Region free APK download"
 
 msgctxt "[\"REGION_DOWN-DES\"]"
-msgid "Break all Google Play Store restricted region locking rules to download free apps APK for Android phone and tablet."
-msgstr "Break all Google Play Store restricted region locking rules to download free apps APK for Android phone and tablet."
+msgid "- Download your favorite Android Apps with APK Downloader (Free Apps Only).<br>- Your download will begin automatically after you paste a package id and click the download button.<br>- Download failed? Please manually change country setting and try again.<br>- Want to tell us more about your problems? <a style='color:#FFFF00' href='/contact-us.html'>Contact us here</a>"
+msgstr "- Download your favorite Android Apps with APK Downloader (Free Apps Only).<br>- Your download will begin automatically after you paste a package id and click the download button.<br>- Download failed? Please manually change country setting and try again.<br>- Want to tell us more about your problems? <a style='color:#FFFF00' href='/contact-us.html'>Contact us here</a>"
 
 msgctxt "[\"REGION_DOWN-PLACEHOLDER\"]"
-msgid "com.facebook.katana or https://play.google.com...?id=com.facebook.katana"
-msgstr "com.facebook.katana or https://play.google.com...?id=com.facebook.katana"
+msgid "com.facebook.katana"
+msgstr "com.facebook.katana"
 
 msgctxt "[\"REGION_DOWN-SEARCH\"]"
 msgid "Search"
@@ -415,8 +459,8 @@ msgid "Maximum file size"
 msgstr "Maximum file size"
 
 msgctxt "[\"SIGN_VERIFY-DES\"]"
-msgid "APK Signature verification will verify Android app package signature to keep Android users away from potentially harmful APK files (Modified version .apk or not official version download from Google Play Store) before APK installing."
-msgstr "APK Signature verification will verify Android app package signature to keep Android users away from potentially harmful APK files (Modified version .apk or not official version download from Google Play Store) before APK installing."
+msgid "APK Signature verification will verify Android app package signature to keep Android users away from potentially harmful APK files before APK installing."
+msgstr "APK Signature verification will verify Android app package signature to keep Android users away from potentially harmful APK files before APK installing."
 
 msgctxt "[\"SIGN_VERIFY-PACKAGE_NAME\"]"
 msgid "Package Name"
@@ -455,8 +499,8 @@ msgid "About {0} results"
 msgstr "About {0} results"
 
 msgctxt "[\"SEARCH-PLACEHOLDER1\"]"
-msgid "APKPure or com.apkpure.aegon or https://play.google.com/store/apps/details?id=com.facebook.katana"
-msgstr "APKPure or com.apkpure.aegon or https://play.google.com/store/apps/details?id=com.facebook.katana"
+msgid "APKPure or com.apkpure.aegon"
+msgstr "APKPure or com.apkpure.aegon"
 
 msgctxt "[\"SEARCH-PLACEHOLDER2\"]"
 msgid "Search..."
@@ -467,8 +511,8 @@ msgid "Name Or Package Name"
 msgstr "Name Or Package Name"
 
 msgctxt "[\"SEARCH-TITLE\"]"
-msgid "Enter App Name, Package Name, Package ID, or Google Play URL"
-msgstr "Enter App Name, Package Name, Package ID, or Google Play URL"
+msgid "Enter App Name, Package Name, Package ID"
+msgstr "Enter App Name, Package Name, Package ID"
 
 msgctxt "[\"SEARCH-APK\"]"
 msgid "Search APK"
@@ -487,8 +531,8 @@ msgid "It seems that page you are looking for no longer exists.<br />You can exp
 msgstr "It seems that page you are looking for no longer exists.<br />You can explore more Android Games and Apps below！"
 
 msgctxt "[\"COPYRIGHT\"]"
-msgid "Copyright © 2014-2016 APKPure. All rights reserved. Android is a trademark of Google Inc."
-msgstr "Copyright © 2014-2016 APKPure. All rights reserved. Android is a trademark of Google Inc."
+msgid "Copyright © 2014-2016 APKPure. All rights reserved."
+msgstr "Copyright © 2014-2016 APKPure. All rights reserved."
 
 msgctxt "[\"COPYRIGHT_MOBILE\"]"
 msgid "APKPure.com © 2014-2016"
@@ -531,12 +575,12 @@ msgid "Privacy Policy"
 msgstr "Privacy Policy"
 
 msgctxt "[\"FOOTER-DMCA\"]"
-msgid "DMCA"
-msgstr "DMCA"
-
-msgctxt "[\"FOOTER-DMCA_TITLE\"]"
 msgid "DMCA Disclaimer"
 msgstr "DMCA Disclaimer"
+
+msgctxt "[\"FOOTER-TERM_OF_USE\"]"
+msgid "Term of Use"
+msgstr "Term of Use"
 
 msgctxt "[\"FOOTER-MARKET_FOR_ANDROID\"]"
 msgid "APKPure For Android"
@@ -563,12 +607,12 @@ msgid "Mobile Site"
 msgstr "Mobile Site"
 
 msgctxt "[\"FOOTER-CONTACT_US\"]"
-msgid "Contact us"
-msgstr "Contact us"
+msgid "Contact Us"
+msgstr "Contact Us"
 
 msgctxt "[\"FOOTER-ABOUT\"]"
-msgid "About"
-msgstr "About"
+msgid "About Us"
+msgstr "About Us"
 
 msgctxt "[\"FOOTER-SOLUTIONS\"]"
 msgid "SOLUTIONS"
@@ -595,8 +639,8 @@ msgid "Translate APKPure"
 msgstr "Translate APKPure"
 
 msgctxt "[\"FOOTER-DEVELOPER\"]"
-msgid "Developers"
-msgstr "Developers"
+msgid "Submit Your App"
+msgstr "Submit Your App"
 
 msgctxt "[\"MARKET-QR\"]"
 msgid "Download<br>APKPure App"
@@ -643,8 +687,8 @@ msgid "APKPure APP"
 msgstr "APKPure APP"
 
 msgctxt "[\"MARKET-INDEX_BANNER_DES\"]"
-msgid "Install,manage and update your Android apps"
-msgstr "Install,manage and update your Android apps"
+msgid "Install,manage and update your apps"
+msgstr "Install,manage and update your apps"
 
 msgctxt "[\"MARKET-BOTTOM_BANNER_TITLE\"]"
 msgid "APKPure App"
@@ -658,13 +702,37 @@ msgctxt "[\"MARKET-BOTTOM_BANNER_DETAIL_APK_DES\"]"
 msgid "Using APKPure App to upgrade <strong>{0}</strong>, fast, free and save your internet data."
 msgstr "Using APKPure App to upgrade <strong>{0}</strong>, fast, free and save your internet data."
 
+msgctxt "[\"MARKET-BOTTOM_BANNER_DETAIL_APK_DES_TITLE\"]"
+msgid "Using APKPure App to upgrade {0}, fast, free and save your internet data."
+msgstr "Using APKPure App to upgrade {0}, fast, free and save your internet data."
+
 msgctxt "[\"MARKET-BOTTOM_BANNER_DETAIL_XAPK_DES\"]"
 msgid "Using APKPure App to upgrade <strong>{0}</strong>, install xapk, fast, free and save your internet data."
 msgstr "Using APKPure App to upgrade <strong>{0}</strong>, install xapk, fast, free and save your internet data."
 
+msgctxt "[\"MARKET-BOTTOM_BANNER_DETAIL_XAPK_DES_TITLE\"]"
+msgid "Using APKPure App to upgrade {0}, install xapk, fast, free and save your internet data."
+msgstr "Using APKPure App to upgrade {0}, install xapk, fast, free and save your internet data."
+
 msgctxt "[\"MARKET-BOTTOM_BANNER_DOWNLOAD_BTN\"]"
 msgid "Download APP"
 msgstr "Download APP"
+
+msgctxt "[\"MARKET-PROMOTION_BANNER_MOBILE1\"]"
+msgid "<p class=\"desc\">Using APKPure App to download/update this apk, faster, free and saving data!</p>"
+msgstr "<p class=\"desc\">Using APKPure App to download/update this apk, faster, free and saving data!</p>"
+
+msgctxt "[\"MARKET-PROMOTION_BANNER_MOBILE1_XAPK\"]"
+msgid "<p class=\"desc\">Using APKPure App to install this XAPK, faster, free and saving data!</p>"
+msgstr "<p class=\"desc\">Using APKPure App to install this XAPK, faster, free and saving data!</p>"
+
+msgctxt "[\"MARKET-PROMOTION_BANNER_MOBILE2\"]"
+msgid "<p class=\"tit\">Using APKPure App</p><p class=\"des\">Faster, free and saving data!</p>"
+msgstr "<p class=\"tit\">Using APKPure App</p><p class=\"des\">Faster, free and saving data!</p>"
+
+msgctxt "[\"MARKET-PROMOTION_BANNER_MOBILE2_XAPK\"]"
+msgid "<p class=\"tit\">Using APKPure App</p><p class=\"des\">Install XAPK, Faster, free and saving data!</p>"
+msgstr "<p class=\"tit\">Using APKPure App</p><p class=\"des\">Install XAPK, Faster, free and saving data!</p>"
 
 msgctxt "[\"FLAG-Africa\"]"
 msgid "Africa"
@@ -703,8 +771,8 @@ msgid "Sorry, paid apps are not available to download with our APK Download Serv
 msgstr "Sorry, paid apps are not available to download with our APK Download Service."
 
 msgctxt "[\"error\"][\"DOWN-ItemNotFound\"]"
-msgid "Sorry, download failed, the APK cannot be found on Google play."
-msgstr "Sorry, download failed, the APK cannot be found on Google play."
+msgid "Sorry, download failed, the APK cannot be found."
+msgstr "Sorry, download failed, the APK cannot be found."
 
 msgctxt "[\"error\"][\"DOWN-LimitedRegion\"]"
 msgid "Oops! Change your region and try download again."
@@ -783,8 +851,8 @@ msgid "Download more {0} apps"
 msgstr "Download more {0} apps"
 
 msgctxt "[\"tip\"][\"GET_IT_ON_GOOGLE_PLAY\"]"
-msgid "Get {0} on Google Play"
-msgstr "Get {0} on Google Play"
+msgid ""
+msgstr ""
 
 msgctxt "[\"tip\"][\"GET_IT_ON_OTHER\"]"
 msgid "Get {app_name} on {source_name}"
@@ -811,8 +879,8 @@ msgid "[Official] This {0} APK is the unmodified official version."
 msgstr "[Official] This {0} APK is the unmodified official version."
 
 msgctxt "[\"js\"][\"SIGN_VERIFY-NOT_TRUSTED\"]"
-msgid "[Not Trusted] This {0} APK is a modified version or has not been published to Google Play Store, we don't recommend installing it."
-msgstr "[Not Trusted] This {0} APK is a modified version or has not been published to Google Play Store, we don't recommend installing it."
+msgid "[Not Trusted] This {0} APK is a modified version, we don't recommend installing it."
+msgstr "[Not Trusted] This {0} APK is a modified version, we don't recommend installing it."
 
 msgctxt "[\"js\"][\"SIGN_VERIFY-ERROR_APK_FILE\"]"
 msgid "Error APK file"
@@ -899,8 +967,8 @@ msgid "Editors' Picks"
 msgstr "Editors' Picks"
 
 msgctxt "[\"featured\"][\"editors-picks-subtitle\"]"
-msgid "Top Picks for the Best Apps of March"
-msgstr "Top Picks for the Best Apps of March"
+msgid "Top Picks for the Best Apps & Game"
+msgstr "Top Picks for the Best Apps & Game"
 
 msgctxt "[\"featured\"][\"editors-picks-games\"]"
 msgid "Games"
@@ -909,6 +977,26 @@ msgstr "Games"
 msgctxt "[\"featured\"][\"editors-picks-apps\"]"
 msgid "Apps"
 msgstr "Apps"
+
+msgctxt "[\"featured\"][\"promotion_app_new\"]"
+msgid "Top New Free Apps"
+msgstr "Top New Free Apps"
+
+msgctxt "[\"featured\"][\"promotion_game_new\"]"
+msgid "Top New Free Games"
+msgstr "Top New Free Games"
+
+msgctxt "[\"featured\"][\"promotion_app_top\"]"
+msgid "Top Free in Apps"
+msgstr "Top Free in Apps"
+
+msgctxt "[\"featured\"][\"promotion_game_top\"]"
+msgid "Top Free in Games"
+msgstr "Top Free in Games"
+
+msgctxt "[\"featured\"][\"promotion_uefa_euro_2016\"]"
+msgid "Official UEFA EURO 2016 Apps"
+msgstr "Official UEFA EURO 2016 Apps"
 
 msgctxt "[\"include\"][\"INDEX-FAQ\"]"
 msgid "www/index_faq.htm"
@@ -925,6 +1013,30 @@ msgstr "about apkpure.com, about us, about"
 msgctxt "[\"meta\"][\"about.html\"][\"description\"]"
 msgid "About APKPure Team"
 msgstr "About APKPure Team"
+
+msgctxt "[\"meta\"][\"contact-us.html\"][\"title\"]"
+msgid "Contact Us"
+msgstr "Contact Us"
+
+msgctxt "[\"meta\"][\"contact-us.html\"][\"keywords\"]"
+msgid "contact apkpure.com, contact us, contact"
+msgstr "contact apkpure.com, contact us, contact"
+
+msgctxt "[\"meta\"][\"contact-us.html\"][\"description\"]"
+msgid "Contact APKPure"
+msgstr "Contact APKPure"
+
+msgctxt "[\"meta\"][\"terms.html\"][\"title\"]"
+msgid "Terms of use"
+msgstr "Terms of use"
+
+msgctxt "[\"meta\"][\"terms.html\"][\"keywords\"]"
+msgid "terms of use"
+msgstr "terms of use"
+
+msgctxt "[\"meta\"][\"terms.html\"][\"description\"]"
+msgid "APKPure Terms of use"
+msgstr "APKPure Terms of use"
 
 msgctxt "[\"meta\"][\"usb-debugging.html\"][\"title\"]"
 msgid "What is USB Debugging?"
@@ -1015,56 +1127,68 @@ msgid "APKPure APK Downloader for Android Wear, Phones, Tablets, TV"
 msgstr "APKPure APK Downloader for Android Wear, Phones, Tablets, TV"
 
 msgctxt "[\"meta\"][\"apkpure-app.html\"][\"keywords\"]"
-msgid "APKPure, APKPure Downloader, android, App Store, google, play store, market"
-msgstr "APKPure, APKPure Downloader, android, App Store, google, play store, market"
+msgid "APKPure, APKPure Downloader, android, market"
+msgstr "APKPure, APKPure Downloader, android, market"
 
 msgctxt "[\"meta\"][\"apkpure-app.html\"][\"description\"]"
 msgid "Download and update the latest Android™ Apps apk in APKPure, the best free Android APK Downloader online right at apkpure.com. Come and join APKPure's clan."
 msgstr "Download and update the latest Android™ Apps apk in APKPure, the best free Android APK Downloader online right at apkpure.com. Come and join APKPure's clan."
 
 msgctxt "[\"meta\"][\"developer.html\"][\"title\"]"
-msgid "Developers - Submit your Android Apps and games, corporate with APKPure"
-msgstr "Developers - Submit your Android Apps and games, corporate with APKPure"
+msgid "Submit your Android Apps and games, corporate with APKPure"
+msgstr "Submit your Android Apps and games, corporate with APKPure"
 
 msgctxt "[\"meta\"][\"developer.html\"][\"description\"]"
 msgid "Free to play games, free to use Android apps publishing submission on APKPure.com."
 msgstr "Free to play games, free to use Android apps publishing submission on APKPure.com."
 
 msgctxt "[\"meta\"][\"Index\"][\"title\"]"
-msgid "Download APK from Google Play Store free online downloader | APKPure.com"
-msgstr "Download APK from Google Play Store free online downloader | APKPure.com"
+msgid "Download APK free online downloader | APKPure.com"
+msgstr "Download APK free online downloader | APKPure.com"
 
 msgctxt "[\"meta\"][\"Index\"][\"keywords\"]"
-msgid "apk download, apk downloader, google play download, android apk download, google play apk download"
-msgstr "apk download, apk downloader, google play download, android apk download, google play apk download"
+msgid "apk download, apk downloader, android apk download"
+msgstr "apk download, apk downloader, android apk download"
 
 msgctxt "[\"meta\"][\"Index\"][\"description\"]"
-msgid "Download apk for Android from Google Play Store with APKPure APK downloader. NoAds, Faster apk downloads and apk file update speed. Best of all, it's free"
-msgstr "Download apk for Android from Google Play Store with APKPure APK downloader. NoAds, Faster apk downloads and apk file update speed. Best of all, it's free"
+msgid "Download apk for Android with APKPure APK downloader. NoAds, Faster apk downloads and apk file update speed. Best of all, it's free"
+msgstr "Download apk for Android with APKPure APK downloader. NoAds, Faster apk downloads and apk file update speed. Best of all, it's free"
 
 msgctxt "[\"meta\"][\"Details\"][\"title\"]"
 msgid "{app_name} APK Download - Free {app_category} {app_type} for Android | APKPure.com"
 msgstr "{app_name} APK Download - Free {app_category} {app_type} for Android | APKPure.com"
 
 msgctxt "[\"meta\"][\"Details\"][\"keywords\"]"
-msgid "{app_name} apk, {app_name} apk download, {app_name} download, {app_name}.apk, {app_name} android, {app_name} google play, {app_category} {app_type} download"
-msgstr "{app_name} apk, {app_name} apk download, {app_name} download, {app_name}.apk, {app_name} android, {app_name} google play, {app_category} {app_type} download"
+msgid "{app_name} apk, {app_name} apk download, {app_name} download, {app_name}.apk, {app_name} android, {app_category} {app_type} download"
+msgstr "{app_name} apk, {app_name} apk download, {app_name} download, {app_name}.apk, {app_name} android, {app_category} {app_type} download"
 
 msgctxt "[\"meta\"][\"Details\"][\"description\"]"
 msgid "Download {app_short_name} apk {version_name} and all version history for Android. {app_short_description}"
 msgstr "Download {app_short_name} apk {version_name} and all version history for Android. {app_short_description}"
 
+msgctxt "[\"meta\"][\"Details_download\"][\"title\"]"
+msgid "Download {app_name} {version_name} APK | APKPure.com"
+msgstr "Download {app_name} {version_name} APK | APKPure.com"
+
+msgctxt "[\"meta\"][\"Details_download\"][\"keywords\"]"
+msgid "{app_name} apk, {app_name} apk download, {app_name} download"
+msgstr "{app_name} apk, {app_name} apk download, {app_name} download"
+
+msgctxt "[\"meta\"][\"Details_download\"][\"description\"]"
+msgid "{app_name} {version_name} APK Download"
+msgstr "{app_name} {version_name} APK Download"
+
 msgctxt "[\"meta\"][\"Category_xapk\"][\"title\"]"
-msgid "XAPK ( apk with obb file) {0} free Google Play {0} .apk for Android download"
-msgstr "XAPK ( apk with obb file) {0} free Google Play {0} .apk for Android download"
+msgid "XAPK ( apk with obb file) {0}.apk for Android download"
+msgstr "XAPK ( apk with obb file) {0}.apk for Android download"
 
 msgctxt "[\"meta\"][\"Category_xapk\"][\"keywords\"]"
 msgid "xapk {0}, {0} xapk, xapk {0} download, download apk obb, apk with obb data, android"
 msgstr "xapk {0}, {0} xapk, xapk {0} download, download apk obb, apk with obb data, android"
 
 msgctxt "[\"meta\"][\"Category_xapk\"][\"description\"]"
-msgid "Download Android {0} XAPK, full version Google Play apk with obb data file."
-msgstr "Download Android {0} XAPK, full version Google Play apk with obb data file."
+msgid "Download Android {0} XAPK, full version with obb data file."
+msgstr "Download Android {0} XAPK, full version with obb data file."
 
 msgctxt "[\"meta\"][\"Category_featured\"][\"title\"]"
 msgid "Download {0} APK Android App Online - Free Pure APK Downloader"
@@ -1147,32 +1271,32 @@ msgid "{0} apk download, {0} update, free top {0} download, free {0} downloader,
 msgstr "{0} apk download, {0} update, free top {0} download, free {0} downloader,  best {0} for Android,"
 
 msgctxt "[\"meta\"][\"New\"][\"description\"]"
-msgid "Daily update top free Google Play {0} apk download."
-msgstr "Daily update top free Google Play {0} apk download."
+msgid "Daily update top free {0} apk download."
+msgstr "Daily update top free {0} apk download."
 
 msgctxt "[\"meta\"][\"Verify\"][\"title\"]"
-msgid "APK Signature Verification, Google Play Official Version APK Detection Service"
-msgstr "APK Signature Verification, Google Play Official Version APK Detection Service"
+msgid "APK Signature Verification, Official Version APK Detection Service"
+msgstr "APK Signature Verification, Official Version APK Detection Service"
 
 msgctxt "[\"meta\"][\"Verify\"][\"keywords\"]"
 msgid "apk signature verification, apk signature verify, apk signature checker, apk signature viewer, modified apk, free, online, scanner"
 msgstr "apk signature verification, apk signature verify, apk signature checker, apk signature viewer, modified apk, free, online, scanner"
 
 msgctxt "[\"meta\"][\"Verify\"][\"description\"]"
-msgid "APK Signature verification will verify Android app package signature to keep Android users away from potentially harmful APK files (Modified version .apk or not official version download from Google Play Store) before APK installing."
-msgstr "APK Signature verification will verify Android app package signature to keep Android users away from potentially harmful APK files (Modified version .apk or not official version download from Google Play Store) before APK installing."
+msgid "APK Signature verification will verify Android app package signature to keep Android users away from potentially harmful APK files before APK installing."
+msgstr "APK Signature verification will verify Android app package signature to keep Android users away from potentially harmful APK files before APK installing."
 
 msgctxt "[\"meta\"][\"Download\"][\"title\"]"
-msgid "Region free APK download for Google Play Store daily update apps and games"
-msgstr "Region free APK download for Google Play Store daily update apps and games"
+msgid "Region free APK download daily update apps and games"
+msgstr "Region free APK download daily update apps and games"
 
 msgctxt "[\"meta\"][\"Download\"][\"keywords\"]"
-msgid "apk download, region free apk download, region free google play, google play store unlock, google play unlocker, google play downloader"
-msgstr "apk download, region free apk download, region free google play, google play store unlock, google play unlocker, google play downloader"
+msgid "apk download, region free apk download"
+msgstr "apk download, region free apk download"
 
 msgctxt "[\"meta\"][\"Download\"][\"description\"]"
-msgid "Break all Google Play Store restricted region locking rules to download free apps APK for Android phone and tablet."
-msgstr "Break all Google Play Store restricted region locking rules to download free apps APK for Android phone and tablet."
+msgid "download free apps APK for Android phone and tablet."
+msgstr "download free apps APK for Android phone and tablet."
 
 msgctxt "[\"meta\"][\"Error\"][\"title\"]"
 msgid "Error"
