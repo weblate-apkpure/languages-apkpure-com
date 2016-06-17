@@ -851,8 +851,8 @@ msgid "Download more {0} apps"
 msgstr "下载更多 {0} 应用"
 
 msgctxt "[\"tip\"][\"GET_IT_ON_GOOGLE_PLAY\"]"
-msgid ""
-msgstr ""
+msgid "Get {0} on Google Play"
+msgstr "{0} 来源 Google Play"
 
 msgctxt "[\"tip\"][\"GET_IT_ON_OTHER\"]"
 msgid "Get {app_name} on {source_name}"
