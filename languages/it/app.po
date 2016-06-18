@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-05-01 23:01+0000\n"
-"PO-Revision-Date: 2016-06-02 16:12+0000\n"
+"PO-Revision-Date: 2016-06-18 10:32+0000\n"
 "Last-Translator: Stefano Fatone <mestesso.me@virgilio.it>\n"
 "Language-Team: Italian "
 "<https://translate.apkpure.com/projects/apkpure/apkpurecom/it/>\n"
@@ -426,15 +426,15 @@ msgstr "Ultimo download"
 
 msgctxt "[\"SIGN_VERIFY-TITLE\"]"
 msgid "Signature Verification Online"
-msgstr ""
+msgstr "Verifica Firma Online (SVO)"
 
 msgctxt "[\"SIGN_VERIFY-CLICK_UPLOAD\"]"
 msgid "Click Upload APK file"
-msgstr ""
+msgstr "Premi Carica file APK"
 
 msgctxt "[\"SIGN_VERIFY-MAXIMUM\"]"
 msgid "Maximum file size"
-msgstr ""
+msgstr "Dimensione massima"
 
 msgctxt "[\"SIGN_VERIFY-DES\"]"
 msgid "APK Signature verification will verify Android app package signature to keep Android users away from potentially harmful APK files (Modified version .apk or not official version download from Google Play Store) before APK installing."
@@ -442,39 +442,39 @@ msgstr ""
 
 msgctxt "[\"SIGN_VERIFY-PACKAGE_NAME\"]"
 msgid "Package Name"
-msgstr ""
+msgstr "Nome Pacchetto"
 
 msgctxt "[\"SIGN_VERIFY-SIGNATURE\"]"
 msgid "Signature"
-msgstr ""
+msgstr "Firma"
 
 msgctxt "[\"SIGN_VERIFY-FILE_SHA1\"]"
 msgid "File SHA1"
-msgstr ""
+msgstr "File SHA1"
 
 msgctxt "[\"SIGN_VERIFY-FILE_SIZE\"]"
 msgid "File Size"
-msgstr ""
+msgstr "Dimensione"
 
 msgctxt "[\"SEARCH-ADVANCED_SEARCH\"]"
 msgid "Advanced Search"
-msgstr ""
+msgstr "Ricerca avanzata"
 
 msgctxt "[\"SEARCH-SEARCH_RESULTS\"]"
 msgid "{0} search results found."
-msgstr ""
+msgstr "{0} risultati trovati."
 
 msgctxt "[\"SEARCH-NO_RESULTS_FOUND\"]"
 msgid "No results found? Try to advanced search again."
-msgstr ""
+msgstr "Nessun risultato? Prova la ricerca avanzata di nuovo."
 
 msgctxt "[\"SEARCH-SELECT_REGION\"]"
 msgid "Select a region you want to search with"
-msgstr ""
+msgstr "Seleziona una regione con cui cercare"
 
 msgctxt "[\"SEARCH-ABOUT_RESULTS\"]"
 msgid "About {0} results"
-msgstr ""
+msgstr "Circa {0} risultati"
 
 msgctxt "[\"SEARCH-PLACEHOLDER1\"]"
 msgid "APKPure or com.apkpure.aegon or https://play.google.com/store/apps/details?id=com.facebook.katana"
@@ -482,11 +482,11 @@ msgstr ""
 
 msgctxt "[\"SEARCH-PLACEHOLDER2\"]"
 msgid "Search..."
-msgstr ""
+msgstr "Cerca..."
 
 msgctxt "[\"SEARCH-PLACEHOLDER3\"]"
 msgid "Name Or Package Name"
-msgstr ""
+msgstr "Nome o Nome Pacchetto"
 
 msgctxt "[\"SEARCH-TITLE\"]"
 msgid "Enter App Name, Package Name, Package ID, or Google Play URL"
@@ -494,19 +494,21 @@ msgstr ""
 
 msgctxt "[\"SEARCH-APK\"]"
 msgid "Search APK"
-msgstr ""
+msgstr "Cerca APK"
 
 msgctxt "[\"404-OOPS\"]"
 msgid "OOPS!,"
-msgstr ""
+msgstr "OPS!,"
 
 msgctxt "[\"404-Error_404\"]"
 msgid "Error 404!"
-msgstr ""
+msgstr "Errore 404!"
 
 msgctxt "[\"404-DES\"]"
 msgid "It seems that page you are looking for no longer exists.<br />You can explore more Android Games and Apps below！"
 msgstr ""
+"Sembra che la pagina che cercavi non esista più.<br />Puoi esplorare altri "
+"Giochi e App qui sotto!"
 
 msgctxt "[\"COPYRIGHT\"]"
 msgid "Copyright © 2014-2016 APKPure. All rights reserved. Android is a trademark of Google Inc."
@@ -514,43 +516,43 @@ msgstr ""
 
 msgctxt "[\"COPYRIGHT_MOBILE\"]"
 msgid "APKPure.com © 2014-2016"
-msgstr ""
+msgstr "APKPure.com © 2014-2016"
 
 msgctxt "[\"COMING_SOON\"]"
 msgid "COMING SOON"
-msgstr ""
+msgstr "PROSSIMAMENTE"
 
 msgctxt "[\"SEARCHING\"]"
 msgid "Searching..."
-msgstr ""
+msgstr "Ricerca..."
 
 msgctxt "[\"FOOTER-APK_DOWNLOADER_SEO\"]"
 msgid "APK Downloader"
-msgstr ""
+msgstr "Downloader APK"
 
 msgctxt "[\"FOOTER-APK_DOWNLOADS_SEO\"]"
 msgid "APK Downloads"
-msgstr ""
+msgstr "APK scaricati"
 
 msgctxt "[\"FOOTER-APK_DOWNLOAD\"]"
 msgid "APK Download"
-msgstr ""
+msgstr "Download APK"
 
 msgctxt "[\"FOOTER-APK_INSTALL\"]"
 msgid "APK Install"
-msgstr ""
+msgstr "Installazione APK"
 
 msgctxt "[\"FOOTER-APK_SIGNATURE_VERIFICATION\"]"
 msgid "APK Signature Verification"
-msgstr ""
+msgstr "Verifica Firma APK"
 
 msgctxt "[\"FOOTER-APK_TO_APPX\"]"
 msgid "APK to APPX"
-msgstr ""
+msgstr "APK in APPX"
 
 msgctxt "[\"FOOTER-PRIVACY_POLICY\"]"
 msgid "Privacy Policy"
-msgstr ""
+msgstr "Politica di Privacy"
 
 msgctxt "[\"FOOTER-DMCA\"]"
 msgid "DMCA"
@@ -562,27 +564,27 @@ msgstr ""
 
 msgctxt "[\"FOOTER-MARKET_FOR_ANDROID\"]"
 msgid "APKPure For Android"
-msgstr ""
+msgstr "APKPure per Android"
 
 msgctxt "[\"FOOTER-EXPLORE_XAPK_GAMES\"]"
 msgid "Explore XAPK Games"
-msgstr ""
+msgstr "Esplora Giochi XAPK"
 
 msgctxt "[\"FOOTER-EXPLORE_XAPK_APPS\"]"
 msgid "Explore XAPK Apps"
-msgstr ""
+msgstr "Esplora App XAPK"
 
 msgctxt "[\"FOOTER-DESKTOP_VERSION\"]"
 msgid "Desktop Version"
-msgstr ""
+msgstr "Versione Desktop"
 
 msgctxt "[\"FOOTER-MOBILE_VERSION\"]"
 msgid "Mobile Version"
-msgstr ""
+msgstr "Versione mobile"
 
 msgctxt "[\"FOOTER-MOBILE_SITE\"]"
 msgid "Mobile Site"
-msgstr ""
+msgstr "Sito mobile"
 
 msgctxt "[\"FOOTER-CONTACT_US\"]"
 msgid "Contact us"
@@ -594,27 +596,27 @@ msgstr ""
 
 msgctxt "[\"FOOTER-SOLUTIONS\"]"
 msgid "SOLUTIONS"
-msgstr ""
+msgstr "SOLUZIONI"
 
 msgctxt "[\"FOOTER-CUSTOMER_SERVICE\"]"
 msgid "CUSTOMER SERVICE"
-msgstr ""
+msgstr "SERVIZIO CLIENTI"
 
 msgctxt "[\"FOOTER-FOLLOW_US\"]"
 msgid "FOLLOW US"
-msgstr ""
+msgstr "SEGUICI"
 
 msgctxt "[\"FOOTER-TOP_ANDROID_APPS\"]"
 msgid "TOP ANDROID APPS"
-msgstr ""
+msgstr "MIGLIORI APP ANDROID"
 
 msgctxt "[\"FOOTER-TOP_ANDROID_GAMES\"]"
 msgid "TOP ANDROID GAMES"
-msgstr ""
+msgstr "MIGLIORI GIOCHI ANDROID"
 
 msgctxt "[\"FOOTER-TRANSLATE\"]"
 msgid "Translate APKPure"
-msgstr ""
+msgstr "Traduci APKPure"
 
 msgctxt "[\"FOOTER-DEVELOPER\"]"
 msgid "Developers"
@@ -622,11 +624,11 @@ msgstr ""
 
 msgctxt "[\"MARKET-QR\"]"
 msgid "Download<br>APKPure App"
-msgstr ""
+msgstr "Scarica la<br>App APKPure"
 
 msgctxt "[\"MARKET-QR-TITLE\"]"
 msgid "Download APKPure App"
-msgstr ""
+msgstr "Scarica la App APKPure"
 
 msgctxt "[\"MARKET-INDEX_SHORT_DES\"]"
 msgid "Try <strong title=\"Download APKPure APK\">APKPure App</strong> - Download, update and install apks on your Android."
@@ -1395,3 +1397,100 @@ msgstr ""
 msgctxt "[\"category\"][\"APP_WIDGETS\"]"
 msgid "Widgets"
 msgstr ""
+
+msgctxt "[\"DETAIL-REPORT\"]"
+msgid "Report"
+msgstr "Segnala"
+
+msgctxt "[\"DETAIL-FLAG_AS_INAPPROPRIATE\"]"
+msgid "Flag as inappropriate"
+msgstr "Segna come inappropriata"
+
+msgctxt "[\"DETAIL-APK_FILE_SHA1\"]"
+msgid "APK File SHA1"
+msgstr "APK File SHA1"
+
+msgctxt "[\"DETAIL-XAPK_FILE_SHA1\"]"
+msgid "XAPK File SHA1"
+msgstr "XAPK File SHA1"
+
+msgctxt "[\"DETAIL-GP_DOWNLOAD\"]"
+msgid "Install on Google Play"
+msgstr "Installa su Google Play"
+
+msgctxt "[\"DETAIL-ITUNE_DOWNLOAD\"]"
+msgid "Install on iTunes"
+msgstr "Installa su iTunes"
+
+msgctxt "[\"DETAIL-MORE_DOWNLOAD\"]"
+msgid "More Download Locations:"
+msgstr "Altre sorgenti di Download:"
+
+msgctxt "[\"DETAIL_DOWNLOAD-NAV_DOWNLOAD\"]"
+msgid "Download"
+msgstr "Scarica"
+
+msgctxt "[\"DETAIL_DOWNLOAD-DOWNLOADING\"]"
+msgid "Downloading"
+msgstr "Scaricamento"
+
+msgctxt "[\"DETAIL_DOWNLOAD-DOWNLOADING_DES\"]"
+msgid "If the download doesn't start,"
+msgstr "Se il download non parte,"
+
+msgctxt "[\"DETAIL_DOWNLOAD-DOWNLOADING_DES_CLICK\"]"
+msgid "click here"
+msgstr "premi qui"
+
+msgctxt "[\"REGION_DOWN-DES\"]"
+msgid "- Download your favorite Android Apps with APK Downloader (Free Apps Only).<br>- Your download will begin automatically after you paste a package id and click the download button.<br>- Download failed? Please manually change country setting and try again.<br>- Want to tell us more about your problems? <a style='color:#FFFF00' href='/contact-us.html'>Contact us here</a>"
+msgstr ""
+"- Scarica le tue App Android preferite con il Downloader APK (solo App "
+"gratuite).<br>- Il tuo download inizierà automaticamente dopo aver incollato "
+"un ID pacchetto e aver premuto il pulsante di download.<br>- Download "
+"fallito? Cambia il Paese impostato e riprova.<br>- Vuoi comunicarci altro "
+"sui tuoi problemi? <a style='color:#FFFF00' href='/contact-us.html'>"
+"Contattaci da qui</a>"
+
+msgctxt "[\"REGION_DOWN-PLACEHOLDER\"]"
+msgid "com.facebook.katana"
+msgstr "com.facebook.katana"
+
+msgctxt "[\"SIGN_VERIFY-DES\"]"
+msgid "APK Signature verification will verify Android app package signature to keep Android users away from potentially harmful APK files before APK installing."
+msgstr ""
+"La verifica di Firma APK controllerà la firma del pacchetto della app "
+"Android per allontanare gli utenti Android da file APK potenzialmente "
+"pericolosi prima di installarli."
+
+msgctxt "[\"SEARCH-PLACEHOLDER1\"]"
+msgid "APKPure or com.apkpure.aegon"
+msgstr "APKPure o com.apkpure.aegon"
+
+msgctxt "[\"SEARCH-TITLE\"]"
+msgid "Enter App Name, Package Name, Package ID"
+msgstr "Inserisci Nome App, Nome Pacchetto, ID Pacchetto"
+
+msgctxt "[\"COPYRIGHT\"]"
+msgid "Copyright © 2014-2016 APKPure. All rights reserved."
+msgstr "Copyright © 2014-2016 APKPure. Tutti i diritti riservati."
+
+msgctxt "[\"FOOTER-DMCA\"]"
+msgid "DMCA Disclaimer"
+msgstr "Avvertenza DMCA"
+
+msgctxt "[\"FOOTER-TERM_OF_USE\"]"
+msgid "Term of Use"
+msgstr "Termini d'uso"
+
+msgctxt "[\"FOOTER-CONTACT_US\"]"
+msgid "Contact Us"
+msgstr "Contattaci"
+
+msgctxt "[\"FOOTER-ABOUT\"]"
+msgid "About Us"
+msgstr "Su di noi"
+
+msgctxt "[\"FOOTER-DEVELOPER\"]"
+msgid "Submit Your App"
+msgstr "Invia la Tua App"
