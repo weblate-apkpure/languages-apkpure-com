@@ -578,6 +578,10 @@ msgctxt "[\"FOOTER-DMCA\"]"
 msgid "DMCA Disclaimer"
 msgstr "DMCA Disclaimer"
 
+msgctxt "[\"FOOTER-DMCA_TITLE\"]"
+msgid "DMCA Disclaimer"
+msgstr "DMCA Disclaimer"
+
 msgctxt "[\"FOOTER-TERM_OF_USE\"]"
 msgid "Term of Use"
 msgstr "Term of Use"
