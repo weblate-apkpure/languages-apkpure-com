@@ -423,8 +423,8 @@ msgid "- Download your favorite Android Apps with APK Downloader (Free Apps Only
 msgstr "- Download your favorite Android Apps with APK Downloader (Free Apps Only).<br>- Your download will begin automatically after you paste a package id and click the download button.<br>- Download failed? Please manually change country setting and try again.<br>- Want to tell us more about your problems? <a style='color:#FFFF00' href='/contact-us.html'>Contact us here</a>"
 
 msgctxt "[\"REGION_DOWN-PLACEHOLDER\"]"
-msgid "com.facebook.katana"
-msgstr "com.facebook.katana"
+msgid "com.facebook.katana или https://play.google.com...?id=com.facebook.katana"
+msgstr "com.facebook.katana или https://play.google.com...?id=com.facebook.katana"
 
 msgctxt "[\"REGION_DOWN-SEARCH\"]"
 msgid "Search"
@@ -639,8 +639,8 @@ msgid "TOP ANDROID GAMES"
 msgstr "TOP ANDROID GAMES"
 
 msgctxt "[\"FOOTER-TRANSLATE\"]"
-msgid "Translate APKPure"
-msgstr "Translate APKPure"
+msgid "Help translate APKPure"
+msgstr "Help translate APKPure"
 
 msgctxt "[\"FOOTER-DEVELOPER\"]"
 msgid "Submit Your App"

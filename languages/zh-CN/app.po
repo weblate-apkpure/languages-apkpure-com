@@ -28,11 +28,11 @@ msgstr "最近更新应用"
 
 msgctxt "[\"NAV-XAPK_GAME\"]"
 msgid "XAPK GAME"
-msgstr "XAPK游戏"
+msgstr "XAPK 游戏"
 
 msgctxt "[\"NAV-XAPK_APP\"]"
 msgid "XAPK APP"
-msgstr "XAPK应用"
+msgstr "XAPK 应用"
 
 msgctxt "[\"NAV-APK_INSTALL\"]"
 msgid "APK Install"
@@ -423,8 +423,8 @@ msgid "- Download your favorite Android Apps with APK Downloader (Free Apps Only
 msgstr "- 在线下载正版游戏应用，突破区域下载限制，支持安卓手机平板。<br>- 输入安卓应用包名点击下载，即可获取APK文件。<br>- 如果下载失败？请手动更改国家然后再试。<br>- 如果设备不支持或有其他问题请 <a style='color:#FFFF00' href='/contact-us.html'>联系我们</a>"
 
 msgctxt "[\"REGION_DOWN-PLACEHOLDER\"]"
-msgid "com.facebook.katana"
-msgstr "com.facebook.katana"
+msgid "com.facebook.katana или https://play.google.com...?id=com.facebook.katana"
+msgstr "com.facebook.katana или https://play.google.com...?id=com.facebook.katana"
 
 msgctxt "[\"REGION_DOWN-SEARCH\"]"
 msgid "Search"
@@ -512,7 +512,7 @@ msgstr "应用名或包名"
 
 msgctxt "[\"SEARCH-TITLE\"]"
 msgid "Enter App Name, Package Name, Package ID"
-msgstr "请输入应用名，包名，ID"
+msgstr "请输入应用名或包名"
 
 msgctxt "[\"SEARCH-APK\"]"
 msgid "Search APK"
@@ -639,8 +639,8 @@ msgid "TOP ANDROID GAMES"
 msgstr "热门安卓游戏"
 
 msgctxt "[\"FOOTER-TRANSLATE\"]"
-msgid "Translate APKPure"
-msgstr "帮助翻译APKPure"
+msgid "Help translate APKPure"
+msgstr "帮助翻译 APKPure"
 
 msgctxt "[\"FOOTER-DEVELOPER\"]"
 msgid "Submit Your App"
