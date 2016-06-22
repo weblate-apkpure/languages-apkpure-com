@@ -1080,15 +1080,15 @@ msgstr "Установить XAPK (APK вместе с файлом OBB), APK-ф
 
 msgctxt "[\"meta\"][\"dmca.html\"][\"title\"]"
 msgid "APKPure DMCA Copyright Infringement Notification"
-msgstr ""
+msgstr "APKPure DMCA Copyright Infringement Notification"
 
 msgctxt "[\"meta\"][\"dmca.html\"][\"keywords\"]"
 msgid "DMCA, Copyright Infringement Notification"
-msgstr ""
+msgstr "DMCA, Copyright Infringement Notification"
 
 msgctxt "[\"meta\"][\"dmca.html\"][\"description\"]"
 msgid "APKPure abides by the federal Digital Millennium Copyright Act (DMCA) by responding to notices of alleged infringement that comply with the DMCA and other applicable laws."
-msgstr ""
+msgstr "APKPure abides by the federal Digital Millennium Copyright Act (DMCA) by responding to notices of alleged infringement that comply with the DMCA and other applicable laws."
 
 msgctxt "[\"meta\"][\"privacy-policy.html\"][\"title\"]"
 msgid "Privacy Policy"
@@ -1120,23 +1120,23 @@ msgstr "Лучшие рождественские приложения для т
 
 msgctxt "[\"meta\"][\"christmas.html\"][\"keywords\"]"
 msgid "apps, games, christmas app, christmas game, android game"
-msgstr ""
+msgstr "apps, games, christmas app, christmas game, android game"
 
 msgctxt "[\"meta\"][\"christmas.html\"][\"description\"]"
 msgid "APKPure Best Android games and apps for Christmas and holiday season."
-msgstr ""
+msgstr "APKPure Best Android games and apps for Christmas and holiday season."
 
 msgctxt "[\"meta\"][\"apkpure-app.html\"][\"title\"]"
 msgid "APKPure APK Downloader for Android Wear, Phones, Tablets, TV"
-msgstr ""
+msgstr "APKPure APK Downloader for Android Wear, Phones, Tablets, TV"
 
 msgctxt "[\"meta\"][\"apkpure-app.html\"][\"keywords\"]"
 msgid "APKPure, APKPure Downloader, android, market"
-msgstr ""
+msgstr "APKPure, APKPure Downloader, android, market"
 
 msgctxt "[\"meta\"][\"apkpure-app.html\"][\"description\"]"
 msgid "Download and update the latest Android™ Apps apk in APKPure, the best free Android APK Downloader online right at apkpure.com. Come and join APKPure's clan."
-msgstr ""
+msgstr "Download and update the latest Android™ Apps apk in APKPure, the best free Android APK Downloader online right at apkpure.com. Come and join APKPure's clan."
 
 msgctxt "[\"meta\"][\"developer.html\"][\"title\"]"
 msgid "Submit your Android Apps and games, corporate with APKPure"
@@ -1144,31 +1144,31 @@ msgstr "Разработчики - предлагайте ваши програ�
 
 msgctxt "[\"meta\"][\"developer.html\"][\"description\"]"
 msgid "Free to play games, free to use Android apps publishing submission on APKPure.com."
-msgstr ""
+msgstr "Free to play games, free to use Android apps publishing submission on APKPure.com."
 
 msgctxt "[\"meta\"][\"Index\"][\"title\"]"
 msgid "Download APK free online downloader | APKPure.com"
-msgstr ""
+msgstr "Download APK free online downloader | APKPure.com"
 
 msgctxt "[\"meta\"][\"Index\"][\"keywords\"]"
 msgid "apk download, apk downloader, android apk download"
-msgstr ""
+msgstr "apk download, apk downloader, android apk download"
 
 msgctxt "[\"meta\"][\"Index\"][\"description\"]"
 msgid "Download apk for Android with APKPure APK downloader. NoAds, Faster apk downloads and apk file update speed. Best of all, it's free"
-msgstr ""
+msgstr "Download apk for Android with APKPure APK downloader. NoAds, Faster apk downloads and apk file update speed. Best of all, it's free"
 
 msgctxt "[\"meta\"][\"Details\"][\"title\"]"
 msgid "{app_name} APK Download - Free {app_category} {app_type} for Android | APKPure.com"
-msgstr ""
+msgstr "{app_name} APK Download - Free {app_category} {app_type} for Android | APKPure.com"
 
 msgctxt "[\"meta\"][\"Details\"][\"keywords\"]"
 msgid "{app_name} apk, {app_name} apk download, {app_name} download, {app_name}.apk, {app_name} android, {app_category} {app_type} download"
-msgstr ""
+msgstr "{app_name} apk, {app_name} apk download, {app_name} download, {app_name}.apk, {app_name} android, {app_category} {app_type} download"
 
 msgctxt "[\"meta\"][\"Details\"][\"description\"]"
 msgid "Download {app_short_name} apk {version_name} and all version history for Android. {app_short_description}"
-msgstr "Скачать {app_short_name} приложение {version_name} и всю историю его версий для Android. {app_short_description}"
+msgstr "Download {app_short_name} apk {version_name} and all version history for Android. {app_short_description}"
 
 msgctxt "[\"meta\"][\"Details_download\"][\"title\"]"
 msgid "Download {app_name} {version_name} APK | APKPure.com"
@@ -1184,19 +1184,19 @@ msgstr "{app_name} {version_name} APK Download"
 
 msgctxt "[\"meta\"][\"Category_xapk\"][\"title\"]"
 msgid "XAPK ( apk with obb file) {0}.apk for Android download"
-msgstr ""
+msgstr "XAPK ( apk with obb file) {0}.apk for Android download"
 
 msgctxt "[\"meta\"][\"Category_xapk\"][\"keywords\"]"
 msgid "xapk {0}, {0} xapk, xapk {0} download, download apk obb, apk with obb data, android"
-msgstr ""
+msgstr "xapk {0}, {0} xapk, xapk {0} download, download apk obb, apk with obb data, android"
 
 msgctxt "[\"meta\"][\"Category_xapk\"][\"description\"]"
 msgid "Download Android {0} XAPK, full version with obb data file."
-msgstr ""
+msgstr "Download Android {0} XAPK, full version with obb data file."
 
 msgctxt "[\"meta\"][\"Category_featured\"][\"title\"]"
 msgid "Download {0} APK Android App Online - Free Pure APK Downloader"
-msgstr ""
+msgstr "Download {0} APK Android App Online - Free Pure APK Downloader"
 
 msgctxt "[\"meta\"][\"Category_featured\"][\"keywords\"]"
 msgid "{0}"
@@ -1208,27 +1208,27 @@ msgstr "{0}"
 
 msgctxt "[\"meta\"][\"Category_app\"][\"title\"]"
 msgid "Download {0} APK Android App Online - Free Pure APK Downloader"
-msgstr ""
+msgstr "Download {0} APK Android App Online - Free Pure APK Downloader"
 
 msgctxt "[\"meta\"][\"Category_app\"][\"keywords\"]"
 msgid "{0} apk download, free {0} download, {0} apk download, download {0} apk, {0} apk downloader, {0} android"
-msgstr ""
+msgstr "{0} apk download, free {0} download, {0} apk download, download {0} apk, {0} apk downloader, {0} android"
 
 msgctxt "[\"meta\"][\"Category_app\"][\"description\"]"
 msgid "Download free and best {0}  for Android phone and tablet with online apk downloader on APKPure.com, including (tool apps, shopping apps, communication apps) and more."
-msgstr ""
+msgstr "Download free and best {0}  for Android phone and tablet with online apk downloader on APKPure.com, including (tool apps, shopping apps, communication apps) and more."
 
 msgctxt "[\"meta\"][\"Category_game\"][\"title\"]"
 msgid "Download {0} APK Android App Online - Free Pure APK Downloader"
-msgstr ""
+msgstr "Download {0} APK Android App Online - Free Pure APK Downloader"
 
 msgctxt "[\"meta\"][\"Category_game\"][\"keywords\"]"
 msgid "{0} apk download, free {0} download, download {0} apk, {0} apk downloader, {0} android, {0} app download"
-msgstr ""
+msgstr "{0} apk download, free {0} download, download {0} apk, {0} apk downloader, {0} android, {0} app download"
 
 msgctxt "[\"meta\"][\"Category_game\"][\"description\"]"
 msgid "Download free and best {0} for Android phone and tablet with online apk downloader on APKPure.com, including (driving games, shooting games, fighting games) and more."
-msgstr ""
+msgstr "Download free and best {0} for Android phone and tablet with online apk downloader on APKPure.com, including (driving games, shooting games, fighting games) and more."
 
 msgctxt "[\"meta\"][\"FAQ\"][\"title\"]"
 msgid "{0} FAQ | APKPure.com"
@@ -1244,15 +1244,15 @@ msgstr "{0}"
 
 msgctxt "[\"meta\"][\"Developer\"][\"title\"]"
 msgid "All {0} free Android apps apk download | APKPure.com"
-msgstr ""
+msgstr "All {0} free Android apps apk download | APKPure.com"
 
 msgctxt "[\"meta\"][\"Developer\"][\"keywords\"]"
 msgid "{0} apk download, download {0} free app, {0} games for android,  {0} games app list, {0} app update, {0} app apk downloader"
-msgstr ""
+msgstr "{0} apk download, download {0} free app, {0} games for android,  {0} games app list, {0} app update, {0} app apk downloader"
 
 msgctxt "[\"meta\"][\"Developer\"][\"description\"]"
 msgid "All Apps or Games Published by \"{0}\""
-msgstr ""
+msgstr "All Apps or Games Published by \"{0}\""
 
 msgctxt "[\"meta\"][\"Search\"][\"title\"]"
 msgid "{0} search results | APKPure.com"
@@ -1260,7 +1260,7 @@ msgstr "{0} результаты поиска | APKPure.com"
 
 msgctxt "[\"meta\"][\"Search\"][\"keywords\"]"
 msgid "{0} apk download, download {0} apk"
-msgstr ""
+msgstr "{0} apk download, download {0} apk"
 
 msgctxt "[\"meta\"][\"Search\"][\"description\"]"
 msgid "{0}"
@@ -1268,39 +1268,39 @@ msgstr "{0}"
 
 msgctxt "[\"meta\"][\"New\"][\"title\"]"
 msgid "Download the latest {0} APK | APKPure.com"
-msgstr ""
+msgstr "Download the latest {0} APK | APKPure.com"
 
 msgctxt "[\"meta\"][\"New\"][\"keywords\"]"
 msgid "{0} apk download, {0} update, free top {0} download, free {0} downloader,  best {0} for Android,"
-msgstr ""
+msgstr "{0} apk download, {0} update, free top {0} download, free {0} downloader,  best {0} for Android,"
 
 msgctxt "[\"meta\"][\"New\"][\"description\"]"
 msgid "Daily update top free {0} apk download."
-msgstr "Ежедневные обновления лучших бесплатных приложений с Google Play {0} скачать."
+msgstr "Daily update top free {0} apk download."
 
 msgctxt "[\"meta\"][\"Verify\"][\"title\"]"
 msgid "APK Signature Verification, Official Version APK Detection Service"
-msgstr "Проверка подписи APK, служба проверки официальных версий APK на Google Play"
+msgstr "APK Signature Verification, Official Version APK Detection Service"
 
 msgctxt "[\"meta\"][\"Verify\"][\"keywords\"]"
 msgid "apk signature verification, apk signature verify, apk signature checker, apk signature viewer, modified apk, free, online, scanner"
-msgstr ""
+msgstr "apk signature verification, apk signature verify, apk signature checker, apk signature viewer, modified apk, free, online, scanner"
 
 msgctxt "[\"meta\"][\"Verify\"][\"description\"]"
 msgid "APK Signature verification will verify Android app package signature to keep Android users away from potentially harmful APK files before APK installing."
-msgstr "Проверка подписи APK проверит подпись приложения для Android, чтобы уберечь пользователей  Android от потенциально опасных APK-файлов(Измененных или неофициальных версий APK из Google Play Store) перед установкой APK."
+msgstr "APK Signature verification will verify Android app package signature to keep Android users away from potentially harmful APK files before APK installing."
 
 msgctxt "[\"meta\"][\"Download\"][\"title\"]"
 msgid "Region free APK download daily update apps and games"
-msgstr ""
+msgstr "Region free APK download daily update apps and games"
 
 msgctxt "[\"meta\"][\"Download\"][\"keywords\"]"
 msgid "apk download, region free apk download"
-msgstr ""
+msgstr "apk download, region free apk download"
 
 msgctxt "[\"meta\"][\"Download\"][\"description\"]"
 msgid "download free apps APK for Android phone and tablet."
-msgstr "Сломайте все региональные ограничения Google Play Store на загрузку бесплатных приложений из для телефонов и планшетов."
+msgstr "download free apps APK for Android phone and tablet."
 
 msgctxt "[\"meta\"][\"Error\"][\"title\"]"
 msgid "Error"
@@ -1316,15 +1316,15 @@ msgstr "ошибка"
 
 msgctxt "[\"meta\"][\"Category\"][\"title\"]"
 msgid "Browse Category | APKPure.com"
-msgstr "Просмотр по категориям | APKPure.com"
+msgstr "Browse Category | APKPure.com"
 
 msgctxt "[\"meta\"][\"Category\"][\"keywords\"]"
 msgid "app category,game category"
-msgstr ""
+msgstr "app category,game category"
 
 msgctxt "[\"meta\"][\"Category\"][\"description\"]"
 msgid "Android games and apps category"
-msgstr ""
+msgstr "Android games and apps category"
 
 msgctxt "[\"category\"][\"GAME_ACTION\"]"
 msgid "Action"
