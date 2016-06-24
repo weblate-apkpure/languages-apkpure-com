@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-06-23 08:16+0000\n"
-"PO-Revision-Date: 2016-06-24 09:27+0000\n"
+"PO-Revision-Date: 2016-06-24 09:50+0000\n"
 "Last-Translator: CAT <catcto.com@gmail.com>\n"
 "Language-Team: Portuguese "
 "<https://translate.apkpure.com/projects/apkpure/apkpurecom/pt/>\n"
@@ -144,7 +144,7 @@ msgstr "Categoria"
 
 msgctxt "[\"CATEGORY_JOIN\"]"
 msgid "{app_category} {app_type}"
-msgstr "{app_categoria} {app_tipo}"
+msgstr "{app_category} {app_type}"
 
 msgctxt "[\"SHOW_MORE\"]"
 msgid "Show More"
@@ -236,7 +236,7 @@ msgstr "Perguntas frequentes"
 
 msgctxt "[\"DOWNLOAD_APK\"]"
 msgid "Download APK"
-msgstr "download APK"
+msgstr "Download APK"
 
 msgctxt "[\"DETAIL-PAID_GAME\"]"
 msgid "Paid Game"
@@ -1214,19 +1214,21 @@ msgstr "{app_name} apk, {app_name} Download apk, {app_name} download, {app_name}
 
 msgctxt "[\"meta\"][\"Details\"][\"description\"]"
 msgid "Download {app_short_name} apk {version_name} and all version history for Android. {app_short_description}"
-msgstr "Baixar {app_short_name} {apk version_name} e toda a história da versão para Android. {App_short_description}"
+msgstr ""
+"Baixar {app_short_name} {apk version_name} e toda a história da versão para "
+"Android. {app_short_description}"
 
 msgctxt "[\"meta\"][\"Details_download\"][\"title\"]"
 msgid "Download {app_name} {version_name} APK | APKPure.com"
-msgstr "Baixar {app_nome} {} versão_nome APK | APKPure.com"
+msgstr "Baixar {app_name} {version_name}  APK | APKPure.com"
 
 msgctxt "[\"meta\"][\"Details_download\"][\"keywords\"]"
 msgid "{app_name} apk, {app_name} apk download, {app_name} download"
-msgstr "{App_nome} apk, {app_nome} apk download, {app_nome} de download"
+msgstr "{app_name} apk, {app_name} apk download, {app_name} de download"
 
 msgctxt "[\"meta\"][\"Details_download\"][\"description\"]"
 msgid "{app_name} {version_name} APK Download"
-msgstr "{app_nome} {versão_nome} APK Download"
+msgstr "{app_name} {version_name} APK Download"
 
 msgctxt "[\"meta\"][\"Category_xapk\"][\"title\"]"
 msgid "XAPK ( apk with obb file) {0}.apk for Android download"
@@ -1234,15 +1236,19 @@ msgstr "XAPK (apk com o arquivo OBB) {0} livre Google Play {0} .apk para downloa
 
 msgctxt "[\"meta\"][\"Category_xapk\"][\"keywords\"]"
 msgid "xapk {0}, {0} xapk, xapk {0} download, download apk obb, apk with obb data, android"
-msgstr "Download Apk"
+msgstr ""
+"xapk {0}, {0} xapk, xapk {0} download, download apk obb, apk with obb data, "
+"android"
 
 msgctxt "[\"meta\"][\"Category_xapk\"][\"description\"]"
 msgid "Download Android {0} XAPK, full version with obb data file."
-msgstr "Baixar Android XAPK, versão completa do Google Play APK com o arquivo de dados OBB."
+msgstr ""
+"Baixar Android {0} XAPK, versão completa do Google Play APK com o arquivo de "
+"dados OBB."
 
 msgctxt "[\"meta\"][\"Category_featured\"][\"title\"]"
 msgid "Download {0} APK Android App Online - Free Pure APK Downloader"
-msgstr "Baixar APK Android App Online - Livre Pure Downloader APK"
+msgstr "Baixar {0} APK Android App Online - Livre Pure Downloader APK"
 
 msgctxt "[\"meta\"][\"Category_featured\"][\"keywords\"]"
 msgid "{0}"
@@ -1254,31 +1260,41 @@ msgstr "{0}"
 
 msgctxt "[\"meta\"][\"Category_app\"][\"title\"]"
 msgid "Download {0} APK Android App Online - Free Pure APK Downloader"
-msgstr "Baixar APK Android App Online - Livre Pure Downloader APK"
+msgstr "Baixar {0} APK Android App Online - Livre Pure Downloader APK"
 
 msgctxt "[\"meta\"][\"Category_app\"][\"keywords\"]"
 msgid "{0} apk download, free {0} download, {0} apk download, download {0} apk, {0} apk downloader, {0} android"
-msgstr "{0} apk download, free {0} download, {0} apk download, download {0} apk, {0} apk downloader,  android"
+msgstr ""
+"{0} apk download, free {0} download, {0} apk download, download {0} apk, {0} "
+"apk downloader, {0} android"
 
 msgctxt "[\"meta\"][\"Category_app\"][\"description\"]"
 msgid "Download free and best {0}  for Android phone and tablet with online apk downloader on APKPure.com, including (tool apps, shopping apps, communication apps) and more."
-msgstr "Download gratuito e melhor para o telefone Android e tablet com downloader linha apk em APKPure.com, incluindo (aplicativos de ferramentas, aplicativos comerciais, aplicativos de comunicação) e mais."
+msgstr ""
+"Download gratuito e melhor {0} para o telefone Android e tablet com "
+"downloader linha apk em APKPure.com, incluindo (aplicativos de ferramentas, "
+"aplicativos comerciais, aplicativos de comunicação) e mais."
 
 msgctxt "[\"meta\"][\"Category_game\"][\"title\"]"
 msgid "Download {0} APK Android App Online - Free Pure APK Downloader"
-msgstr "Baixar APK Android App Online - Livre Pure Downloader APK"
+msgstr "Baixar {0} APK Android App Online - Livre Pure Downloader APK"
 
 msgctxt "[\"meta\"][\"Category_game\"][\"keywords\"]"
 msgid "{0} apk download, free {0} download, download {0} apk, {0} apk downloader, {0} android, {0} app download"
-msgstr "{0} apk download, free {0} download, download  apk, {0} apk downloader, {0} android, {0} app download"
+msgstr ""
+"{0} apk download, free {0} download, download {0} apk, {0} apk downloader, "
+"{0} android, {0} app download"
 
 msgctxt "[\"meta\"][\"Category_game\"][\"description\"]"
 msgid "Download free and best {0} for Android phone and tablet with online apk downloader on APKPure.com, including (driving games, shooting games, fighting games) and more."
-msgstr "Download gratuito e melhor para o telefone Android e tablet com downloader apkonline no APKPure.com, incluindo (jogos de condução, jogos de tiro, jogos de luta) e muito mais."
+msgstr ""
+"Download gratuito e melhor {0} para o telefone Android e tablet com "
+"downloader apkonline no APKPure.com, incluindo (jogos de condução, jogos de "
+"tiro, jogos de luta) e muito mais."
 
 msgctxt "[\"meta\"][\"FAQ\"][\"title\"]"
 msgid "{0} FAQ | APKPure.com"
-msgstr "FAQ | APKPure.com"
+msgstr "{0} FAQ | APKPure.com"
 
 msgctxt "[\"meta\"][\"FAQ\"][\"keywords\"]"
 msgid "{0}"
@@ -1290,7 +1306,7 @@ msgstr "{0}"
 
 msgctxt "[\"meta\"][\"Developer\"][\"title\"]"
 msgid "All {0} free Android apps apk download | APKPure.com"
-msgstr "Todos os livre aplicativos Android Download apk | APKPure.com"
+msgstr "Todos {0} os livre aplicativos Android Download apk | APKPure.com"
 
 msgctxt "[\"meta\"][\"Developer\"][\"keywords\"]"
 msgid "{0} apk download, download {0} free app, {0} games for android,  {0} games app list, {0} app update, {0} app apk downloader"
@@ -1298,15 +1314,15 @@ msgstr "{0} apk download, download {0} free app, {0} games for android, {0} game
 
 msgctxt "[\"meta\"][\"Developer\"][\"description\"]"
 msgid "All Apps or Games Published by \"{0}\""
-msgstr "Todos os aplicativos ou jogos Publicado por"
+msgstr "Todos os aplicativos ou jogos Publicado por \"{0}\""
 
 msgctxt "[\"meta\"][\"Search\"][\"title\"]"
 msgid "{0} search results | APKPure.com"
-msgstr "resultados da pesquisa | APKPure.com"
+msgstr "{0} resultados da pesquisa | APKPure.com"
 
 msgctxt "[\"meta\"][\"Search\"][\"keywords\"]"
 msgid "{0} apk download, download {0} apk"
-msgstr "apk download, download apk"
+msgstr "{0} apk download, download {0} apk"
 
 msgctxt "[\"meta\"][\"Search\"][\"description\"]"
 msgid "{0}"
@@ -1314,11 +1330,13 @@ msgstr "{0}"
 
 msgctxt "[\"meta\"][\"New\"][\"title\"]"
 msgid "Download the latest {0} APK | APKPure.com"
-msgstr "Baixe a última APK | APKPure.com"
+msgstr "Baixe a última {0} APK | APKPure.com"
 
 msgctxt "[\"meta\"][\"New\"][\"keywords\"]"
 msgid "{0} apk download, {0} update, free top {0} download, free {0} downloader,  best {0} for Android,"
-msgstr "{0} apk download, {0} update, free top {0} download, free {0} downloader, best {0} for Android,"
+msgstr ""
+"{0} apk download, {0} update, free top {0} download, free {0} downloader,  "
+"best {0} for Android,"
 
 msgctxt "[\"meta\"][\"New\"][\"description\"]"
 msgid "Daily update top free {0} apk download."
