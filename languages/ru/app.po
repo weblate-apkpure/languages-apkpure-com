@@ -1,9 +1,9 @@
 msgctxt "[\"NAV-GAME\"]"
-msgid "GAME"
+msgid "GAMES"
 msgstr "ИГРА"
 
 msgctxt "[\"NAV-APP\"]"
-msgid "APP"
+msgid "APPS"
 msgstr "APP"
 
 msgctxt "[\"NAV-XAPK\"]"
@@ -414,6 +414,10 @@ msgctxt "[\"DETAIL_DOWNLOAD-DOWNLOADING_DES_CLICK\"]"
 msgid "click here"
 msgstr "click here"
 
+msgctxt "[\"DETAIL_DOWNLOAD-HOW_TO_INSTALL_APK\"]"
+msgid "How to install APK / XAPK file"
+msgstr "How to install APK / XAPK file"
+
 msgctxt "[\"REGION_DOWN-TITLE\"]"
 msgid "Region free APK download"
 msgstr "Доступно для скачивания в любом регионе"
@@ -423,7 +427,7 @@ msgid "- Download your favorite Android Apps with APK Downloader (Free Apps Only
 msgstr "Сломайте все региональные ограничения Google Play Store на загрузку бесплатных приложений из для телефонов и планшетов."
 
 msgctxt "[\"REGION_DOWN-PLACEHOLDER\"]"
-msgid "com.facebook.katana или https://play.google.com...?id=com.facebook.katana"
+msgid "com.facebook.katana or https://play.google.com...?id=com.facebook.katana"
 msgstr "com.facebook.katana или https://play.google.com...?id=com.facebook.katana"
 
 msgctxt "[\"REGION_DOWN-SEARCH\"]"
@@ -1113,6 +1117,18 @@ msgstr "чистые apk, безопасные apk"
 msgctxt "[\"meta\"][\"faq-safe.html\"][\"description\"]"
 msgid "Why we can guarantee APK 100% safe?"
 msgstr "Почему мы гарантируем 100℅ безопасность APK?"
+
+msgctxt "[\"meta\"][\"how-to-install-apk.html\"][\"title\"]"
+msgid "How to install unknown sources APK to Android"
+msgstr "How to install unknown sources APK to Android"
+
+msgctxt "[\"meta\"][\"how-to-install-apk.html\"][\"keywords\"]"
+msgid "install apk, apkpure apk, apkpure app, apps apk, unknown sources apk"
+msgstr "install apk, apkpure apk, apkpure app, apps apk, unknown sources apk"
+
+msgctxt "[\"meta\"][\"how-to-install-apk.html\"][\"description\"]"
+msgid "How to install unknown sources Apps apk to Android, install apk from APKPure."
+msgstr "How to install unknown sources Apps apk to Android, install apk from APKPure."
 
 msgctxt "[\"meta\"][\"christmas.html\"][\"title\"]"
 msgid "Best Christmas Apps for Your Android Phones & Tablets"
