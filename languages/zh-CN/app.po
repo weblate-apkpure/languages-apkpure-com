@@ -1,25 +1,9 @@
-msgid ""
-msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-06-23 08:39+0000\n"
-"PO-Revision-Date: 2016-06-23 08:41+0000\n"
-"Last-Translator: CAT <catcto.com@gmail.com>\n"
-"Language-Team: Simplified Chinese "
-"<https://translate.apkpure.com/projects/apkpure/apkpurecom/zh_Hans/>\n"
-"Language: zh-CN\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 2.7-dev\n"
-
 msgctxt "[\"NAV-GAME\"]"
-msgid "GAME"
+msgid "GAMES"
 msgstr "游戏"
 
 msgctxt "[\"NAV-APP\"]"
-msgid "APP"
+msgid "APPS"
 msgstr "应用"
 
 msgctxt "[\"NAV-XAPK\"]"
@@ -430,6 +414,10 @@ msgctxt "[\"DETAIL_DOWNLOAD-DOWNLOADING_DES_CLICK\"]"
 msgid "click here"
 msgstr "请点我"
 
+msgctxt "[\"DETAIL_DOWNLOAD-HOW_TO_INSTALL_APK\"]"
+msgid "How to install APK / XAPK file"
+msgstr "如何安装 APK / XAPK 文件"
+
 msgctxt "[\"REGION_DOWN-TITLE\"]"
 msgid "Region free APK download"
 msgstr "APK 下载器 (APK Downloader)"
@@ -439,7 +427,7 @@ msgid "- Download your favorite Android Apps with APK Downloader (Free Apps Only
 msgstr "- 在线下载正版游戏应用，突破区域下载限制，支持安卓手机平板。<br>- 输入安卓应用包名点击下载，即可获取APK文件。<br>- 如果下载失败？请手动更改国家然后再试。<br>- 如果设备不支持或有其他问题请 <a style='color:#FFFF00' href='/contact-us.html'>联系我们</a>"
 
 msgctxt "[\"REGION_DOWN-PLACEHOLDER\"]"
-msgid "com.facebook.katana или https://play.google.com...?id=com.facebook.katana"
+msgid "com.facebook.katana or https://play.google.com...?id=com.facebook.katana"
 msgstr "com.facebook.katana 或 https://play.google.com...?id=com.facebook.katana"
 
 msgctxt "[\"REGION_DOWN-SEARCH\"]"
@@ -1129,6 +1117,18 @@ msgstr "安全"
 msgctxt "[\"meta\"][\"faq-safe.html\"][\"description\"]"
 msgid "Why we can guarantee APK 100% safe?"
 msgstr "如何保证APK是100%安全的？"
+
+msgctxt "[\"meta\"][\"how-to-install-apk.html\"][\"title\"]"
+msgid "How to install unknown sources APK to Android"
+msgstr "如何安装未知来源的APK"
+
+msgctxt "[\"meta\"][\"how-to-install-apk.html\"][\"keywords\"]"
+msgid "install apk, apkpure apk, apkpure app, apps apk, unknown sources apk"
+msgstr "install apk, apkpure apk, apkpure app, apps apk, unknown sources apk"
+
+msgctxt "[\"meta\"][\"how-to-install-apk.html\"][\"description\"]"
+msgid "How to install unknown sources Apps apk to Android, install apk from APKPure."
+msgstr "How to install unknown sources Apps apk to Android, install apk from APKPure."
 
 msgctxt "[\"meta\"][\"christmas.html\"][\"title\"]"
 msgid "Best Christmas Apps for Your Android Phones & Tablets"
