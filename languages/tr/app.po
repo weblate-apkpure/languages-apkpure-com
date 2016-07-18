@@ -3,16 +3,16 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-03-22 06:56+0000\n"
-"PO-Revision-Date: 2016-04-19 05:15+0000\n"
-"Last-Translator: Çağatay <cagatayldzz@gmail.com>\n"
+"PO-Revision-Date: 2016-07-18 09:18+0000\n"
+"Last-Translator: Ali Kömesöğütlü (Mobile46) <byzlo685@gmail.com>\n"
 "Language-Team: Turkish "
 "<https://translate.apkpure.com/projects/apkpure/apkpurecom/tr/>\n"
 "Language: tr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 2.6-dev\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 2.7-dev\n"
 
 msgctxt "[\"NAV-GAME\"]"
 msgid "GAME"
@@ -24,7 +24,7 @@ msgstr "UYGULAMA"
 
 msgctxt "[\"NAV-XAPK\"]"
 msgid "XAPK"
-msgstr ""
+msgstr "XAPK"
 
 msgctxt "[\"NAV-NEW\"]"
 msgid "NEW"
@@ -32,7 +32,7 @@ msgstr "YENİ"
 
 msgctxt "[\"NAV-PRODUCTS\"]"
 msgid "PRODUCTS"
-msgstr ""
+msgstr "ÜRÜNLER"
 
 msgctxt "[\"NAV-NEW_GAME\"]"
 msgid "NEW GAME"
@@ -60,7 +60,7 @@ msgstr "APK İndir"
 
 msgctxt "[\"NAV-APK_VERIFICATION\"]"
 msgid "APK Verification"
-msgstr ""
+msgstr "APK Doğrulama"
 
 msgctxt "[\"NAV-APKPURE_APP\"]"
 msgid "APKPure App"
@@ -80,39 +80,39 @@ msgstr "Ücretsiz"
 
 msgctxt "[\"READ_MORE\"]"
 msgid "Read More"
-msgstr ""
+msgstr "Daha Fazla Oku"
 
 msgctxt "[\"GAME\"]"
 msgid "GAME"
-msgstr ""
+msgstr "OYUN"
 
 msgctxt "[\"APP\"]"
 msgid "APP"
-msgstr ""
+msgstr "UYGULAMA"
 
 msgctxt "[\"GAMES\"]"
 msgid "Games"
-msgstr ""
+msgstr "Oyunlar"
 
 msgctxt "[\"APPS\"]"
 msgid "Apps"
-msgstr ""
+msgstr "Uygulamalar"
 
 msgctxt "[\"MORE\"]"
 msgid "More"
-msgstr ""
+msgstr "Daha Fazla"
 
 msgctxt "[\"XAPK\"]"
 msgid "XAPK"
-msgstr ""
+msgstr "XAPK"
 
 msgctxt "[\"XAPK-GAMES\"]"
 msgid "XAPK Games"
-msgstr ""
+msgstr "XAPK Oyunlar"
 
 msgctxt "[\"XAPK-APPS\"]"
 msgid "XAPK Apps"
-msgstr ""
+msgstr "XAPK Uygulamalar"
 
 msgctxt "[\"HOME\"]"
 msgid "Home"
@@ -120,91 +120,91 @@ msgstr "Anasayfa"
 
 msgctxt "[\"SORT_BY\"]"
 msgid "Sort by"
-msgstr ""
+msgstr "Sırala"
 
 msgctxt "[\"HOT\"]"
 msgid "Hot"
-msgstr ""
+msgstr "Sıcak"
 
 msgctxt "[\"DOWNLOADS\"]"
 msgid "Downloads"
-msgstr ""
+msgstr "İndirmeler"
 
 msgctxt "[\"NEWEST\"]"
 msgid "Newest"
-msgstr ""
+msgstr "En Yeni"
 
 msgctxt "[\"RATING\"]"
 msgid "Rating"
-msgstr ""
+msgstr "Değerlendirme"
 
 msgctxt "[\"CATEGORY\"]"
 msgid "Category"
-msgstr ""
+msgstr "Kategori"
 
 msgctxt "[\"CATEGORY_JOIN\"]"
 msgid "{app_category} {app_type}"
-msgstr ""
+msgstr "{app_category} {app_type}"
 
 msgctxt "[\"SHOW_MORE\"]"
 msgid "Show More"
-msgstr ""
+msgstr "Daha Fazla Göster"
 
 msgctxt "[\"SHOW_LESS\"]"
 msgid "Show less"
-msgstr ""
+msgstr "Daha az göster"
 
 msgctxt "[\"HAVE_PRODUCTS\"]"
 msgid "have {0} products"
-msgstr ""
+msgstr "{0} ürün var"
 
 msgctxt "[\"DEVELOPER\"]"
 msgid "Developer"
-msgstr ""
+msgstr "Geliştirici"
 
 msgctxt "[\"POPULAR_GAMES_IN_LAST_HOURS\"]"
 msgid "Popular Games In Last {0} Hours"
-msgstr ""
+msgstr "Son {0} Saat İçindeki Popüler Oyunlar"
 
 msgctxt "[\"POPULAR_APPS_IN_LAST_HOURS\"]"
 msgid "Popular Apps In Last {0} Hours"
-msgstr ""
+msgstr "Son {0} Saat İçindeki Popüler Uygulamalar"
 
 msgctxt "[\"POPULAR_APPS_IN_TODAY\"]"
 msgid "Popular Apps In Today"
-msgstr ""
+msgstr "Bugünün Popüler Uygulamaları"
 
 msgctxt "[\"POPULAR_GAMES_IN_TODAY\"]"
 msgid "Popular Games In Today"
-msgstr ""
+msgstr "Bugünün Popüler Oyunları"
 
 msgctxt "[\"HOT_GAMES\"]"
 msgid "Hot Games"
-msgstr ""
+msgstr "Sıcak Oyunlar"
 
 msgctxt "[\"HOT_APPS\"]"
 msgid "Hot Apps"
-msgstr ""
+msgstr "Sıcak Uygulamalar"
 
 msgctxt "[\"CLOSE\"]"
 msgid "Close"
-msgstr ""
+msgstr "Kapat"
 
 msgctxt "[\"COMMENTS\"]"
 msgid "Comments"
-msgstr ""
+msgstr "Yorumlar"
 
 msgctxt "[\"LATEST_UPDATE_GAMES\"]"
 msgid "Latest Update Games"
-msgstr ""
+msgstr "Son Güncellenen Oyunlar"
 
 msgctxt "[\"LATEST_UPDATE_APPS\"]"
 msgid "Latest Update Apps"
-msgstr ""
+msgstr "Son Güncellenen Uygulamalar"
 
 msgctxt "[\"LATEST_UPDATE\"]"
 msgid "Latest Update"
-msgstr ""
+msgstr "Son Güncelleme"
 
 msgctxt "[\"XAPK_IS_APK_WITH_OBB_DATA\"]"
 msgid "XAPK is APK with OBB data"
@@ -212,47 +212,47 @@ msgstr ""
 
 msgctxt "[\"MOST_POPULAR_IN_TODAY\"]"
 msgid "Most Popular In Today"
-msgstr ""
+msgstr "Bugünün En Popülerleri"
 
 msgctxt "[\"SIMILAR_OR_RELATED\"]"
 msgid "Similar Or Related"
-msgstr ""
+msgstr "Benzer Veya İlgili"
 
 msgctxt "[\"INDEX-TITLE\"]"
 msgid "Download free Android Games and Android Apps."
-msgstr ""
+msgstr "Android Oyunlar ve Android Uygulamaları ücretsiz indirin."
 
 msgctxt "[\"INDEX-MOBILE_TITLE\"]"
 msgid "Download free Android Games and Apps."
-msgstr ""
+msgstr "Android Oyunlar ve Uygulamaları ücretsiz indirin."
 
 msgctxt "[\"INDEX-HOW_TO_DOWNLOAD\"]"
 msgid "How to download apk files?"
-msgstr ""
+msgstr "Apk dosyalarını nasıl indiririm?"
 
 msgctxt "[\"INDEX-FAQ\"]"
 msgid "FAQ"
-msgstr ""
+msgstr "SSS"
 
 msgctxt "[\"DOWNLOAD_APK\"]"
 msgid "Download APK"
-msgstr ""
+msgstr "APK indir"
 
 msgctxt "[\"DETAIL-PAID_GAME\"]"
 msgid "Paid Game"
-msgstr ""
+msgstr "Ücretli Oyun"
 
 msgctxt "[\"DETAIL-PAID_APP\"]"
 msgid "Paid App"
-msgstr ""
+msgstr "Ücretli Uygulama"
 
 msgctxt "[\"DETAIL-PAID_GAME_DES\"]"
 msgid "Paid games are not available to download"
-msgstr ""
+msgstr "Ücretli oyunlar indirmek için kullanılabilir değil"
 
 msgctxt "[\"DETAIL-PAID_APP_DES\"]"
 msgid "Paid apps are not available to download"
-msgstr ""
+msgstr "Ücretli uygulamalar indirmek için kullanılabilir değil"
 
 msgctxt "[\"DETAIL-WHY_SAFE\"]"
 msgid "Why we can guarantee APK 100% safe?"
@@ -268,87 +268,87 @@ msgstr ""
 
 msgctxt "[\"DETAIL-MOBILE_XAPK_SHORT_DES\"]"
 msgid "Click to get XAPK Installer"
-msgstr ""
+msgstr "XAPK Yükleyiciyi almak için tıklayın"
 
 msgctxt "[\"DETAIL-CATEGORY\"]"
 msgid "Category"
-msgstr ""
+msgstr "Kategori"
 
 msgctxt "[\"DETAIL-LATEST_VERSION\"]"
 msgid "Latest Version"
-msgstr ""
+msgstr "En Son Sürüm"
 
 msgctxt "[\"DETAIL-PUBLISH_DATE\"]"
 msgid "Publish Date"
-msgstr ""
+msgstr "Yayınlanma Tarihi"
 
 msgctxt "[\"DETAIL-GET_IT_ON\"]"
 msgid "Get it on"
-msgstr ""
+msgstr "Google Play'den indirin"
 
 msgctxt "[\"DETAIL-REQUIREMENTS\"]"
 msgid "Requirements"
-msgstr ""
+msgstr "Gereksinimler"
 
 msgctxt "[\"DETAIL-AUTHOR\"]"
 msgid "Author"
-msgstr ""
+msgstr "Geliştirici"
 
 msgctxt "[\"DETAIL-VOTES\"]"
 msgid "votes"
-msgstr ""
+msgstr "oy"
 
 msgctxt "[\"DETAIL-THE_DESCRIPTION\"]"
 msgid "The description of {0}"
-msgstr ""
+msgstr "{0} Açıklaması"
 
 msgctxt "[\"DETAIL-OFFICIAL_TRAILER\"]"
 msgid "{0} for Android official Trailer"
-msgstr ""
+msgstr "{0} Android için resmi Fragmanı"
 
 msgctxt "[\"DETAIL-VERSION\"]"
 msgid "Version"
-msgstr ""
+msgstr "Sürüm"
 
 msgctxt "[\"DETAIL-UPDATE_ON\"]"
 msgid "Update on"
-msgstr ""
+msgstr "Güncellendi"
 
 msgctxt "[\"DETAIL-SIGNATURE\"]"
 msgid "Signature"
-msgstr ""
+msgstr "İmza"
 
 msgctxt "[\"DETAIL-FILE_SHA1\"]"
 msgid "File SHA1"
-msgstr ""
+msgstr "SHA1 Değeri"
 
 msgctxt "[\"DETAIL-WHATS_NEW\"]"
 msgid "What's new"
-msgstr ""
+msgstr "Yenilikler"
 
 msgctxt "[\"DETAIL-VERSION_HISTORY\"]"
 msgid "Version History"
-msgstr ""
+msgstr "Sürüm Geçmişi"
 
 msgctxt "[\"DETAIL-MORE_FROM_DEVELOPER\"]"
 msgid "More From Developer"
-msgstr ""
+msgstr "Geliştiriciden Daha Fazla"
 
 msgctxt "[\"DETAIL-COMMENTS\"]"
 msgid "Comments"
-msgstr ""
+msgstr "Yorumlar"
 
 msgctxt "[\"DETAIL-FOLLOW_UPDATES\"]"
 msgid "Follow Updates"
-msgstr ""
+msgstr "Güncellemeleri Takip Et"
 
 msgctxt "[\"DETAIL-REQUEST_UPDATE\"]"
 msgid "Request Update"
-msgstr ""
+msgstr "Güncelleme İsteği Gönder"
 
 msgctxt "[\"DETAIL-RATING\"]"
 msgid "{votes} votes, average: {rating_average} out of {rating_best}"
-msgstr ""
+msgstr "{votes} oy, ortalama: {rating_average}/{rating_best}"
 
 msgctxt "[\"DETAIL-MORE_DEVELOPER\"]"
 msgid "Get more from {0}"
@@ -356,31 +356,31 @@ msgstr ""
 
 msgctxt "[\"DETAIL-REMOVED\"]"
 msgid "Removed"
-msgstr ""
+msgstr "Kaldırıldı"
 
 msgctxt "[\"DETAIL-CATEGORY_GAME\"]"
 msgid "{0} GAME"
-msgstr ""
+msgstr "{0} OYUN"
 
 msgctxt "[\"DETAIL-CATEGORY_APP\"]"
 msgid "{0} APP"
-msgstr ""
+msgstr "{0} UYGULAMA"
 
 msgctxt "[\"DETAIL-VERSION_LOAD_MORE\"]"
 msgid "Load more"
-msgstr ""
+msgstr "Daha fazla yükle"
 
 msgctxt "[\"DETAIL-VERSION_MORE\"]"
 msgid "More..."
-msgstr ""
+msgstr "Daha Fazla..."
 
 msgctxt "[\"DETAIL-TRANSLATE\"]"
 msgid "Translate"
-msgstr ""
+msgstr "Çevir"
 
 msgctxt "[\"REGION_DOWN-TITLE\"]"
 msgid "Region free APK download"
-msgstr ""
+msgstr "Ülkeye göre ücretsiz APK indir"
 
 msgctxt "[\"REGION_DOWN-DES\"]"
 msgid "Break all Google Play Store restricted region locking rules to download free apps APK for Android phone and tablet."
@@ -389,18 +389,19 @@ msgstr ""
 msgctxt "[\"REGION_DOWN-PLACEHOLDER\"]"
 msgid "com.facebook.katana or https://play.google.com...?id=com.facebook.katana"
 msgstr ""
+"com.facebook.katana veya https://play.google.com...?id=com.facebook.katana"
 
 msgctxt "[\"REGION_DOWN-SEARCH\"]"
 msgid "Search"
-msgstr ""
+msgstr "Ara"
 
 msgctxt "[\"REGION_DOWN-COUNTRY_NAME\"]"
 msgid "Country name or Region code"
-msgstr ""
+msgstr "Ülke adı veya Ülke kodu"
 
 msgctxt "[\"REGION_DOWN-MOBILE_TITLE\"]"
 msgid "APK Downloader"
-msgstr ""
+msgstr "APK İndirici"
 
 msgctxt "[\"REGION_DOWN-MOBILE_DES\"]"
 msgid "All Region Games and Apps Download."
@@ -408,19 +409,19 @@ msgstr ""
 
 msgctxt "[\"LAST_DOWNLOAD\"]"
 msgid "Last Download"
-msgstr ""
+msgstr "Son İndirme"
 
 msgctxt "[\"SIGN_VERIFY-TITLE\"]"
 msgid "Signature Verification Online"
-msgstr ""
+msgstr "Çevrimiçi İmza Doğrulama"
 
 msgctxt "[\"SIGN_VERIFY-CLICK_UPLOAD\"]"
 msgid "Click Upload APK file"
-msgstr ""
+msgstr "APK dosyası Yüklemek için tıklayın"
 
 msgctxt "[\"SIGN_VERIFY-MAXIMUM\"]"
 msgid "Maximum file size"
-msgstr ""
+msgstr "En büyük dosya boyutu"
 
 msgctxt "[\"SIGN_VERIFY-DES\"]"
 msgid "APK Signature verification will verify Android app package signature to keep Android users away from potentially harmful APK files (Modified version .apk or not official version download from Google Play Store) before APK installing."
@@ -428,35 +429,35 @@ msgstr ""
 
 msgctxt "[\"SIGN_VERIFY-PACKAGE_NAME\"]"
 msgid "Package Name"
-msgstr ""
+msgstr "Paket Adı"
 
 msgctxt "[\"SIGN_VERIFY-SIGNATURE\"]"
 msgid "Signature"
-msgstr ""
+msgstr "İmza"
 
 msgctxt "[\"SIGN_VERIFY-FILE_SHA1\"]"
 msgid "File SHA1"
-msgstr ""
+msgstr "SHA1 Değeri"
 
 msgctxt "[\"SIGN_VERIFY-FILE_SIZE\"]"
 msgid "File Size"
-msgstr ""
+msgstr "Dosya Boyutu"
 
 msgctxt "[\"SEARCH-ADVANCED_SEARCH\"]"
 msgid "Advanced Search"
-msgstr ""
+msgstr "Gelişmiş Arama"
 
 msgctxt "[\"SEARCH-SEARCH_RESULTS\"]"
 msgid "{0} search results found."
-msgstr ""
+msgstr "{0} arama sonucu bulundu."
 
 msgctxt "[\"SEARCH-NO_RESULTS_FOUND\"]"
 msgid "No results found? Try to advanced search again."
-msgstr ""
+msgstr "Sonuç bulunamadı mı? Gelişmiş aramayı deneyin."
 
 msgctxt "[\"SEARCH-SELECT_REGION\"]"
 msgid "Select a region you want to search with"
-msgstr ""
+msgstr "Bir ülke seçin"
 
 msgctxt "[\"SEARCH-ABOUT_RESULTS\"]"
 msgid "About {0} results"
@@ -468,11 +469,11 @@ msgstr ""
 
 msgctxt "[\"SEARCH-PLACEHOLDER2\"]"
 msgid "Search..."
-msgstr ""
+msgstr "Ara..."
 
 msgctxt "[\"SEARCH-PLACEHOLDER3\"]"
 msgid "Name Or Package Name"
-msgstr ""
+msgstr "Adı Veya Paket Adı"
 
 msgctxt "[\"SEARCH-TITLE\"]"
 msgid "Enter App Name, Package Name, Package ID, or Google Play URL"
@@ -480,19 +481,21 @@ msgstr ""
 
 msgctxt "[\"SEARCH-APK\"]"
 msgid "Search APK"
-msgstr ""
+msgstr "APK Ara"
 
 msgctxt "[\"404-OOPS\"]"
 msgid "OOPS!,"
-msgstr ""
+msgstr "OOPS!,"
 
 msgctxt "[\"404-Error_404\"]"
 msgid "Error 404!"
-msgstr ""
+msgstr "Hata 404!"
 
 msgctxt "[\"404-DES\"]"
 msgid "It seems that page you are looking for no longer exists.<br />You can explore more Android Games and Apps below！"
 msgstr ""
+"Aradığınız sayfa bulunamadı.<br />Daha fazla Android Oyunlar ve Uygulamaları "
+"aşağıda keşfedebilirsiniz！"
 
 msgctxt "[\"COPYRIGHT\"]"
 msgid "Copyright © 2014-2016 APKPure. All rights reserved. Android is a trademark of Google Inc."
@@ -500,43 +503,43 @@ msgstr ""
 
 msgctxt "[\"COPYRIGHT_MOBILE\"]"
 msgid "APKPure.com © 2014-2016"
-msgstr ""
+msgstr "APKPure.com © 2014-2016"
 
 msgctxt "[\"COMING_SOON\"]"
 msgid "COMING SOON"
-msgstr ""
+msgstr "PEK YAKINDA"
 
 msgctxt "[\"SEARCHING\"]"
 msgid "Searching..."
-msgstr ""
+msgstr "Aranıyor..."
 
 msgctxt "[\"FOOTER-APK_DOWNLOADER_SEO\"]"
 msgid "APK Downloader"
-msgstr ""
+msgstr "APK İndirici"
 
 msgctxt "[\"FOOTER-APK_DOWNLOADS_SEO\"]"
 msgid "APK Downloads"
-msgstr ""
+msgstr "APK İndirmeleri"
 
 msgctxt "[\"FOOTER-APK_DOWNLOAD\"]"
 msgid "APK Download"
-msgstr ""
+msgstr "APK İndir"
 
 msgctxt "[\"FOOTER-APK_INSTALL\"]"
 msgid "APK Install"
-msgstr ""
+msgstr "APK Yükle"
 
 msgctxt "[\"FOOTER-APK_SIGNATURE_VERIFICATION\"]"
 msgid "APK Signature Verification"
-msgstr ""
+msgstr "APK İmza Doğrulama"
 
 msgctxt "[\"FOOTER-APK_TO_APPX\"]"
 msgid "APK to APPX"
-msgstr ""
+msgstr "APK APPX Dönüştürücü"
 
 msgctxt "[\"FOOTER-PRIVACY_POLICY\"]"
 msgid "Privacy Policy"
-msgstr ""
+msgstr "Gizlilik Politikası"
 
 msgctxt "[\"FOOTER-DMCA\"]"
 msgid "DMCA"
@@ -544,31 +547,31 @@ msgstr ""
 
 msgctxt "[\"FOOTER-DMCA_TITLE\"]"
 msgid "DMCA Disclaimer"
-msgstr ""
+msgstr "DMCA Yasal Uyarı"
 
 msgctxt "[\"FOOTER-MARKET_FOR_ANDROID\"]"
 msgid "APKPure For Android"
-msgstr ""
+msgstr "Android İçin APKPure"
 
 msgctxt "[\"FOOTER-EXPLORE_XAPK_GAMES\"]"
 msgid "Explore XAPK Games"
-msgstr ""
+msgstr "XAPK Oyunları Keşfedin"
 
 msgctxt "[\"FOOTER-EXPLORE_XAPK_APPS\"]"
 msgid "Explore XAPK Apps"
-msgstr ""
+msgstr "XAPK Uygulamaları Keşfedin"
 
 msgctxt "[\"FOOTER-DESKTOP_VERSION\"]"
 msgid "Desktop Version"
-msgstr ""
+msgstr "Masaüstü Sürümü"
 
 msgctxt "[\"FOOTER-MOBILE_VERSION\"]"
 msgid "Mobile Version"
-msgstr ""
+msgstr "Mobil Sürümü"
 
 msgctxt "[\"FOOTER-MOBILE_SITE\"]"
 msgid "Mobile Site"
-msgstr ""
+msgstr "Mobil Site"
 
 msgctxt "[\"FOOTER-CONTACT_US\"]"
 msgid "Contact us"
@@ -580,23 +583,23 @@ msgstr ""
 
 msgctxt "[\"FOOTER-SOLUTIONS\"]"
 msgid "SOLUTIONS"
-msgstr ""
+msgstr "ÇÖZÜMLER"
 
 msgctxt "[\"FOOTER-CUSTOMER_SERVICE\"]"
 msgid "CUSTOMER SERVICE"
-msgstr ""
+msgstr "MÜŞTERİ HİZMETLERİ"
 
 msgctxt "[\"FOOTER-FOLLOW_US\"]"
 msgid "FOLLOW US"
-msgstr ""
+msgstr "BİZİ TAKİP EDİN"
 
 msgctxt "[\"FOOTER-TOP_ANDROID_APPS\"]"
 msgid "TOP ANDROID APPS"
-msgstr ""
+msgstr "EN İYİ ANDROID UYGULAMALAR"
 
 msgctxt "[\"FOOTER-TOP_ANDROID_GAMES\"]"
 msgid "TOP ANDROID GAMES"
-msgstr ""
+msgstr "EN İYİ ANDROID OYUNLAR"
 
 msgctxt "[\"FOOTER-TRANSLATE\"]"
 msgid "Translate APKPure"
@@ -609,46 +612,52 @@ msgstr ""
 msgctxt "[\"MARKET-QR\"]"
 msgid "Download<br>APKPure App"
 msgstr ""
+"APKPure Uygulamasını<br>\n"
+"İndir"
 
 msgctxt "[\"MARKET-QR-TITLE\"]"
 msgid "Download APKPure App"
-msgstr ""
+msgstr "APKPure Uygulamasını İndir"
 
 msgctxt "[\"MARKET-INDEX_SHORT_DES\"]"
 msgid "Try <strong title=\"Download APKPure APK\">APKPure App</strong> - Download, update and install apks on your Android."
 msgstr ""
+"<strong title=\"Download APKPure APK\">APKPure Uygulamasını</strong> Deneyin "
+"- Apk'leri Android'inize indirin, güncelleyin ve yükleyin."
 
 msgctxt "[\"MARKET-INDEX_SHORT_DES_TITLE\"]"
 msgid "Try APKPure Mobile app, to install, manage and update your Android apps."
 msgstr ""
+"APKPure Mobil uygulamasını deneyin, Android uygulamalarınızı indirin, "
+"güncelleyin ve yükleyin."
 
 msgctxt "[\"MARKET-DETAIL_APK_SHORT_DES\"]"
 msgid "Faster apks download and update on APKPure App"
-msgstr ""
+msgstr "APKPure Uygulamasında apk'leri daha hızlı indirin ve güncelleyin"
 
 msgctxt "[\"MARKET-DETAIL_APK_SHORT_DES_MOBILE\"]"
 msgid "Download and update on APKPure App"
-msgstr ""
+msgstr "APKPure Uygulamasında indirin ve güncelleyin"
 
 msgctxt "[\"MARKET-DETAIL_APK_SHORT_DES_TITLE\"]"
 msgid "Faster apks download and update on APKPure"
-msgstr ""
+msgstr "APKPure'da apk'leri daha hızlı indirin ve güncelleyin"
 
 msgctxt "[\"MARKET-DETAIL_XAPK_SHORT_DES\"]"
 msgid "Install and update XAPK with APKPure App"
-msgstr ""
+msgstr "APKPure Uygulamasıyla XAPK indirin ve güncelleyin"
 
 msgctxt "[\"MARKET-DETAIL_XAPK_SHORT_DES_MOBILE\"]"
 msgid "Click to get XAPK Installer"
-msgstr ""
+msgstr "XAPK Yükleyiciyi almak için tıklayın"
 
 msgctxt "[\"MARKET-DETAIL_XAPK_SHORT_DES_TITLE\"]"
 msgid "Install and update XAPK with APKPure App"
-msgstr ""
+msgstr "APKPure Uygulamasıyla XAPK indirin ve güncelleyin"
 
 msgctxt "[\"MARKET-INDEX_BANNER_TITLE\"]"
 msgid "APKPure APP"
-msgstr ""
+msgstr "APKPure UYGULAMASI"
 
 msgctxt "[\"MARKET-INDEX_BANNER_DES\"]"
 msgid "Install,manage and update your Android apps"
@@ -656,39 +665,41 @@ msgstr ""
 
 msgctxt "[\"FLAG-Africa\"]"
 msgid "Africa"
-msgstr ""
+msgstr "Afrika"
 
 msgctxt "[\"FLAG-Americas\"]"
 msgid "Americas"
-msgstr ""
+msgstr "Amerika"
 
 msgctxt "[\"FLAG-Asia\"]"
 msgid "Asia"
-msgstr ""
+msgstr "Asya"
 
 msgctxt "[\"FLAG-Europe\"]"
 msgid "Europe"
-msgstr ""
+msgstr "Avrupa"
 
 msgctxt "[\"FLAG-Oceania\"]"
 msgid "Oceania"
-msgstr ""
+msgstr "Okyanusya"
 
 msgctxt "[\"FLAG-Rest_of_the_world\"]"
 msgid "Rest of the world"
-msgstr ""
+msgstr "Dünyanın geri kalanı"
 
 msgctxt "[\"ERROR-OOPS\"]"
 msgid "OOPS!,"
-msgstr ""
+msgstr "OOPS!,"
 
 msgctxt "[\"ERROR-SUBTITLE\"]"
 msgid "You can visit the following Games and Apps instead"
-msgstr ""
+msgstr "Bunun yerine aşağıdaki Oyunlar ve Uygulamaları ziyaret edebilirsiniz"
 
 msgctxt "[\"error\"][\"DOWN-ItemNotFree\"]"
 msgid "Sorry, paid apps are not available to download with our APK Download Service."
 msgstr ""
+"Üzgünüz, ücretli uygulamalar APK İndirme Hizmeti ile indirmek için "
+"kullanılabilir değil."
 
 msgctxt "[\"error\"][\"DOWN-ItemNotFound\"]"
 msgid "Sorry, download failed, the APK cannot be found on Google play."
@@ -696,51 +707,55 @@ msgstr ""
 
 msgctxt "[\"error\"][\"DOWN-LimitedRegion\"]"
 msgid "Oops! Change your region and try download again."
-msgstr ""
+msgstr "Oops! Ülkeyi değiştirin ve yeniden indirmeyi deneyin."
 
 msgctxt "[\"error\"][\"DOWN-LimitedDevice\"]"
 msgid "Sorry, download failed, the APK does not support our device."
-msgstr ""
+msgstr "Üzgünüz, indirme başarısız, APK cihazınızı desteklemiyor."
 
 msgctxt "[\"error\"][\"DOWN-UnknownError\"]"
 msgid "Download failed because of an unknown error. We will fix this problem soon."
 msgstr ""
+"İndirme bilinmeyen bir hata nedeniyle başarısız oldu. Yakında bu sorunu "
+"çözeceğiz."
 
 msgctxt "[\"error\"][\"DOWN-LimitedCarrier\"]"
 msgid "Download failed because of an unknown error. We will fix this problem soon."
 msgstr ""
+"İndirme bilinmeyen bir hata nedeniyle başarısız oldu. Yakında bu sorunu "
+"çözeceğiz."
 
 msgctxt "[\"error\"][\"DOWN-PreRegister\"]"
 msgid "It's a Pre-registration App, you can't download."
-msgstr ""
+msgstr "Bu Ön kayıt Uygulaması, indiremezsiniz."
 
 msgctxt "[\"error\"][\"DOWN-RunOutOfDevice\"]"
 msgid "Download failed, please try again in 5 minutes."
-msgstr ""
+msgstr "İndirme başarısız, lütfen 5 dakika sonra tekrar deneyin."
 
 msgctxt "[\"tip\"][\"ICON\"]"
 msgid "{0} icon"
-msgstr ""
+msgstr "{0} simgesi"
 
 msgctxt "[\"tip\"][\"LIST_ICON\"]"
 msgid "{0} APK"
-msgstr ""
+msgstr "{0} APK"
 
 msgctxt "[\"tip\"][\"LIST_TITLE\"]"
 msgid "{0} APK"
-msgstr ""
+msgstr "{0} APK"
 
 msgctxt "[\"tip\"][\"LIST_DOWN\"]"
 msgid "Download {0} latest version apk"
-msgstr ""
+msgstr "{0} son sürüm apk indir"
 
 msgctxt "[\"tip\"][\"LIST_DOWN_XAPK\"]"
 msgid "Download {0} latest version xapk"
-msgstr ""
+msgstr "{0} son sürüm xapk indir"
 
 msgctxt "[\"tip\"][\"VERSION_DOWN\"]"
 msgid "Download {app_name} {version_name} ({version_code}) {file_type}"
-msgstr ""
+msgstr "İndir {app_name} {version_name} ({version_code}) {file_type}"
 
 msgctxt "[\"tip\"][\"RATING\"]"
 msgid "{app_name} average rating {rating_average}"
@@ -748,7 +763,7 @@ msgstr ""
 
 msgctxt "[\"tip\"][\"QR_DOWN\"]"
 msgid "{0} QR code download"
-msgstr ""
+msgstr "{0} QR kodu indir"
 
 msgctxt "[\"tip\"][\"SAFE_VERIFIED\"]"
 msgid "{0} safe verified"
@@ -760,7 +775,7 @@ msgstr ""
 
 msgctxt "[\"tip\"][\"SCREEN\"]"
 msgid "{0} apk screenshot"
-msgstr ""
+msgstr "{0} apk ekran görüntüsü"
 
 msgctxt "[\"tip\"][\"CATEGORY_GAME\"]"
 msgid "Download more {0} games"
@@ -772,7 +787,7 @@ msgstr ""
 
 msgctxt "[\"tip\"][\"GET_IT_ON_GOOGLE_PLAY\"]"
 msgid "Get {0} on Google Play"
-msgstr ""
+msgstr "{0} Google Play'den İndirin"
 
 msgctxt "[\"tip\"][\"GET_IT_ON_OTHER\"]"
 msgid "Get {app_name} on {source_name}"
@@ -784,19 +799,19 @@ msgstr ""
 
 msgctxt "[\"tip\"][\"HOT_ANDROID_GAME\"]"
 msgid "hot android game apk"
-msgstr ""
+msgstr "sıcak android oyun apk"
 
 msgctxt "[\"tip\"][\"HOT_ANDROID_APP\"]"
 msgid "hot android app apk"
-msgstr ""
+msgstr "sıcak android uygulama apk"
 
 msgctxt "[\"tip\"][\"DOWNLOAD_APK\"]"
 msgid "Download APK"
-msgstr ""
+msgstr "APK İndir"
 
 msgctxt "[\"js\"][\"SIGN_VERIFY-OFFICIAL\"]"
 msgid "[Official] This {0} APK is the unmodified official version."
-msgstr ""
+msgstr "[Resmi] Bu {0} APK değiştirilmemiş resmi sürümüdür."
 
 msgctxt "[\"js\"][\"SIGN_VERIFY-NOT_TRUSTED\"]"
 msgid "[Not Trusted] This {0} APK is a modified version or has not been published to Google Play Store, we don't recommend installing it."
@@ -804,31 +819,31 @@ msgstr ""
 
 msgctxt "[\"js\"][\"SIGN_VERIFY-ERROR_APK_FILE\"]"
 msgid "Error APK file"
-msgstr ""
+msgstr "APK dosya hatası"
 
 msgctxt "[\"js\"][\"SIGN_VERIFY-VALID\"]"
 msgid "The uploaded file is not a valid Android application."
-msgstr ""
+msgstr "Yüklenen dosya geçerli bir Android uygulaması değil."
 
 msgctxt "[\"js\"][\"SIGN_VERIFY-SAFE\"]"
 msgid "safe"
-msgstr ""
+msgstr "güvenli"
 
 msgctxt "[\"js\"][\"SIGN_VERIFY-UNSAFE\"]"
 msgid "unsafe"
-msgstr ""
+msgstr "güvenli değil"
 
 msgctxt "[\"js\"][\"SIGN_VERIFY-CLICK_UPLOAD\"]"
 msgid "Click Upload APK file"
-msgstr ""
+msgstr "APK dosyası Yüklemek için tıklayın"
 
 msgctxt "[\"js\"][\"REGION_DOWN-REGION_ERROR\"]"
 msgid "Package name or region error , try again"
-msgstr ""
+msgstr "Paket adı veya ülke hatası , tekrar deneyin"
 
 msgctxt "[\"js\"][\"REGION_DOWN-INVALID_APP\"]"
 msgid "Invalid app package name,"
-msgstr ""
+msgstr "Geçersiz uygulama paket adı,"
 
 msgctxt "[\"js\"][\"REGION_DOWN-SEARCH_RESULTS\"]"
 msgid "Check all {0} search results here."
@@ -836,55 +851,55 @@ msgstr ""
 
 msgctxt "[\"js\"][\"REGION_DOWN-DOWNLOADING\"]"
 msgid "Downloading, please wait..."
-msgstr ""
+msgstr "İndiriliyor, lütfen bekleyin..."
 
 msgctxt "[\"js\"][\"SHOW_MORE\"]"
 msgid "Show More"
-msgstr ""
+msgstr "Daha Fazla Göster"
 
 msgctxt "[\"js\"][\"SHOW_LESS\"]"
 msgid "Show less"
-msgstr ""
+msgstr "Daha az göster"
 
 msgctxt "[\"js\"][\"LOADING\"]"
 msgid "loading..."
-msgstr ""
+msgstr "yükleniyor..."
 
 msgctxt "[\"js\"][\"DOWNLOAD_APK\"]"
 msgid "Download APK"
-msgstr ""
+msgstr "APK İndir"
 
 msgctxt "[\"js\"][\"UPLOADED\"]"
 msgid "Uploaded {0}%"
-msgstr ""
+msgstr "%{0} Yüklendi"
 
 msgctxt "[\"js\"][\"UPLOADING\"]"
 msgid "Uploading..."
-msgstr ""
+msgstr "Yükleniyor..."
 
 msgctxt "[\"js\"][\"VALIDATING\"]"
 msgid "Validating..."
-msgstr ""
+msgstr "Doğrulanıyor..."
 
 msgctxt "[\"js\"][\"FILE_UPLOAD_FAILED\"]"
 msgid "File upload failed!"
-msgstr ""
+msgstr "Dosya yükleme başarısız!"
 
 msgctxt "[\"featured\"][\"2016-new-year\"]"
 msgid "2016 New Year"
-msgstr ""
+msgstr "2016 Yeni Yıl"
 
 msgctxt "[\"featured\"][\"2015-best-android-games\"]"
 msgid "2015 Best Android Games"
-msgstr ""
+msgstr "2015 En İyi Android Oyunlar"
 
 msgctxt "[\"featured\"][\"2015-most-popular-apps\"]"
 msgid "2015 Most Popular Apps"
-msgstr ""
+msgstr "2015 En Popüler Uygulamalar"
 
 msgctxt "[\"featured\"][\"editors-picks\"]"
 msgid "Editors' Picks"
-msgstr ""
+msgstr "Editörün Seçtikleri"
 
 msgctxt "[\"featured\"][\"editors-picks-subtitle\"]"
 msgid "Top Picks for the Best Apps of March"
@@ -892,35 +907,37 @@ msgstr ""
 
 msgctxt "[\"featured\"][\"editors-picks-games\"]"
 msgid "Games"
-msgstr ""
+msgstr "Oyunlar"
 
 msgctxt "[\"featured\"][\"editors-picks-apps\"]"
 msgid "Apps"
-msgstr ""
+msgstr "Uygulamalar"
 
 msgctxt "[\"include\"][\"INDEX-FAQ\"]"
 msgid "www/index_faq.htm"
-msgstr ""
+msgstr "www/index_faq.htm"
 
 msgctxt "[\"meta\"][\"about.html\"][\"title\"]"
 msgid "About us"
-msgstr ""
+msgstr "Hakkımızda"
 
 msgctxt "[\"meta\"][\"about.html\"][\"keywords\"]"
 msgid "about apkpure.com, about us, about"
-msgstr ""
+msgstr "apkpure.com hakkında, hakkımızda, hakkında"
 
 msgctxt "[\"meta\"][\"about.html\"][\"description\"]"
 msgid "About APKPure Team"
-msgstr ""
+msgstr "APKPure Ekibi Hakkında"
 
 msgctxt "[\"meta\"][\"usb-debugging.html\"][\"title\"]"
 msgid "What is USB Debugging?"
-msgstr ""
+msgstr "USB Ayıklama Nedir?"
 
 msgctxt "[\"meta\"][\"usb-debugging.html\"][\"keywords\"]"
 msgid "USB Debugging, usb debug, debug mode, usb debugging mode, enable usb debug"
 msgstr ""
+"USB Ayıklama, usb ayıklama, ayıklama modu, usb ayıklama modu, usb ayıklamayı "
+"etkinleştirme"
 
 msgctxt "[\"meta\"][\"usb-debugging.html\"][\"description\"]"
 msgid "Learn how to enable USB Debugging mode on Android device"
@@ -933,6 +950,8 @@ msgstr ""
 msgctxt "[\"meta\"][\"apk-install.html\"][\"keywords\"]"
 msgid "apk install, apk installer, xapk installer, install apk file, apk installation software, apk installer for pc"
 msgstr ""
+"apk yükle, apk yükleyici, xapk yükleyici, apk dosyası yükle, apk yükleme "
+"yazılımı, pc için apk yükleyici"
 
 msgctxt "[\"meta\"][\"apk-install.html\"][\"description\"]"
 msgid "With Pure APK Install, you are allowed to install Android APK, XAPK file for any Android phones and tablets by one click."
@@ -940,7 +959,7 @@ msgstr ""
 
 msgctxt "[\"meta\"][\"xapk.html\"][\"title\"]"
 msgid "What is XAPK?"
-msgstr ""
+msgstr "XAPK Nedir?"
 
 msgctxt "[\"meta\"][\"xapk.html\"][\"keywords\"]"
 msgid "xapk, xapk install, apk install, install obb,install android apk, copy obb to android, transfer obb to android"
@@ -952,11 +971,11 @@ msgstr ""
 
 msgctxt "[\"meta\"][\"dmca.html\"][\"title\"]"
 msgid "APKPure DMCA Copyright Infringement Notification"
-msgstr ""
+msgstr "APKPure DMCA Telif Hakkı İhlali Bildirimi"
 
 msgctxt "[\"meta\"][\"dmca.html\"][\"keywords\"]"
 msgid "DMCA, Copyright Infringement Notification"
-msgstr ""
+msgstr "DMCA, Telif Hakkı İhlali Bildirimi"
 
 msgctxt "[\"meta\"][\"dmca.html\"][\"description\"]"
 msgid "APKPure abides by the federal Digital Millennium Copyright Act (DMCA) by responding to notices of alleged infringement that comply with the DMCA and other applicable laws."
@@ -964,15 +983,15 @@ msgstr ""
 
 msgctxt "[\"meta\"][\"privacy-policy.html\"][\"title\"]"
 msgid "Privacy Policy"
-msgstr ""
+msgstr "Gizlilik Politikası"
 
 msgctxt "[\"meta\"][\"privacy-policy.html\"][\"keywords\"]"
 msgid "about apkpure.com, about us, about"
-msgstr ""
+msgstr "apkpure.com hakkında, hakkımızda, hakkında"
 
 msgctxt "[\"meta\"][\"privacy-policy.html\"][\"description\"]"
 msgid "About APKPure Team"
-msgstr ""
+msgstr "APKPure Ekibi Hakkında"
 
 msgctxt "[\"meta\"][\"faq-safe.html\"][\"title\"]"
 msgid "Why we can guarantee APK 100% safe? | APKPure.com"
@@ -988,19 +1007,20 @@ msgstr ""
 
 msgctxt "[\"meta\"][\"christmas.html\"][\"title\"]"
 msgid "Best Christmas Apps for Your Android Phones & Tablets"
-msgstr ""
+msgstr "Android Telefonlar ve Tabletler için En İyi Noel Uygulamaları"
 
 msgctxt "[\"meta\"][\"christmas.html\"][\"keywords\"]"
 msgid "apps, games, christmas app, christmas game, android game"
-msgstr ""
+msgstr "uygulamalar, oyunlar, yılbaşı uygulaması, yılbaşı oyunu, android oyun"
 
 msgctxt "[\"meta\"][\"christmas.html\"][\"description\"]"
 msgid "APKPure Best Android games and apps for Christmas and holiday season."
 msgstr ""
+"APKPure Noel ve tatil sezonu için En iyi Android oyunlar ve uygulamalar."
 
 msgctxt "[\"meta\"][\"apkpure-app.html\"][\"title\"]"
 msgid "APKPure APK Downloader for Android Wear, Phones, Tablets, TV"
-msgstr ""
+msgstr "Android Wear, Phones, Tablets, TV için APKPure APK İndirici"
 
 msgctxt "[\"meta\"][\"apkpure-app.html\"][\"keywords\"]"
 msgid "APKPure, APKPure Downloader, android, App Store, google, play store, market"
@@ -1033,6 +1053,8 @@ msgstr ""
 msgctxt "[\"meta\"][\"Details\"][\"title\"]"
 msgid "{app_name} APK Download - Free {app_category} {app_type} for Android | APKPure.com"
 msgstr ""
+"{app_name} APK İndir - Android için ücretsiz {app_category} {app_type} | "
+"APKPure.com"
 
 msgctxt "[\"meta\"][\"Details\"][\"keywords\"]"
 msgid "{app_name} apk, {app_name} apk download, {app_name} download, {app_name}.apk, {app_name} android, {app_name} google play, {app_category} {app_type} download"
@@ -1060,11 +1082,11 @@ msgstr ""
 
 msgctxt "[\"meta\"][\"Category_featured\"][\"keywords\"]"
 msgid "{0}"
-msgstr ""
+msgstr "{0}"
 
 msgctxt "[\"meta\"][\"Category_featured\"][\"description\"]"
 msgid "{0}"
-msgstr ""
+msgstr "{0}"
 
 msgctxt "[\"meta\"][\"Category_app\"][\"title\"]"
 msgid "Download {0} APK Android App Online - Free Pure APK Downloader"
@@ -1073,6 +1095,8 @@ msgstr ""
 msgctxt "[\"meta\"][\"Category_app\"][\"keywords\"]"
 msgid "{0} apk download, free {0} download, {0} apk download, download {0} apk, {0} apk downloader, {0} android"
 msgstr ""
+"{0} apk indir, ücretsiz {0} indir, {0} apk indir, {0} apk indir, {0} apk "
+"indirici, {0} android"
 
 msgctxt "[\"meta\"][\"Category_app\"][\"description\"]"
 msgid "Download free and best {0}  for Android phone and tablet with online apk downloader on APKPure.com, including (tool apps, shopping apps, communication apps) and more."
@@ -1085,6 +1109,8 @@ msgstr ""
 msgctxt "[\"meta\"][\"Category_game\"][\"keywords\"]"
 msgid "{0} apk download, free {0} download, download {0} apk, {0} apk downloader, {0} android, {0} app download"
 msgstr ""
+"{0} apk indir, ücretsiz {0} indir, {0} apk indir, {0} apk indirici, {0} "
+"android, {0} uygulaması indir"
 
 msgctxt "[\"meta\"][\"Category_game\"][\"description\"]"
 msgid "Download free and best {0} for Android phone and tablet with online apk downloader on APKPure.com, including (driving games, shooting games, fighting games) and more."
@@ -1092,15 +1118,15 @@ msgstr ""
 
 msgctxt "[\"meta\"][\"FAQ\"][\"title\"]"
 msgid "{0} FAQ | APKPure.com"
-msgstr ""
+msgstr "{0} SSS | APKPure.com"
 
 msgctxt "[\"meta\"][\"FAQ\"][\"keywords\"]"
 msgid "{0}"
-msgstr ""
+msgstr "{0}"
 
 msgctxt "[\"meta\"][\"FAQ\"][\"description\"]"
 msgid "{0}"
-msgstr ""
+msgstr "{0}"
 
 msgctxt "[\"meta\"][\"Developer\"][\"title\"]"
 msgid "All {0} free Android apps apk download | APKPure.com"
@@ -1112,23 +1138,23 @@ msgstr ""
 
 msgctxt "[\"meta\"][\"Developer\"][\"description\"]"
 msgid "All Apps or Games Published by \"{0}\""
-msgstr ""
+msgstr "\"{0}\" tarafından yayınlanan tüm Uygulamalar ve Oyunlar"
 
 msgctxt "[\"meta\"][\"Search\"][\"title\"]"
 msgid "{0} search results | APKPure.com"
-msgstr ""
+msgstr "{0} arama sonucu | APKPure.com"
 
 msgctxt "[\"meta\"][\"Search\"][\"keywords\"]"
 msgid "{0} apk download, download {0} apk"
-msgstr ""
+msgstr "{0} apk indir"
 
 msgctxt "[\"meta\"][\"Search\"][\"description\"]"
 msgid "{0}"
-msgstr ""
+msgstr "{0}"
 
 msgctxt "[\"meta\"][\"New\"][\"title\"]"
 msgid "Download the latest {0} APK | APKPure.com"
-msgstr ""
+msgstr "{0} son sürüm APK indir | APKPure.com"
 
 msgctxt "[\"meta\"][\"New\"][\"keywords\"]"
 msgid "{0} apk download, {0} update, free top {0} download, free {0} downloader,  best {0} for Android,"
@@ -1145,6 +1171,8 @@ msgstr ""
 msgctxt "[\"meta\"][\"Verify\"][\"keywords\"]"
 msgid "apk signature verification, apk signature verify, apk signature checker, apk signature viewer, modified apk, free, online, scanner"
 msgstr ""
+"apk imza doğrulama, apk imza denetleyici, apk imza görüntüleyici, "
+"değiştirilmiş apk, ücretsiz, çevrimiçi, tarayıcı"
 
 msgctxt "[\"meta\"][\"Verify\"][\"description\"]"
 msgid "APK Signature verification will verify Android app package signature to keep Android users away from potentially harmful APK files (Modified version .apk or not official version download from Google Play Store) before APK installing."
@@ -1164,200 +1192,470 @@ msgstr ""
 
 msgctxt "[\"meta\"][\"Error\"][\"title\"]"
 msgid "Error"
-msgstr ""
+msgstr "Hata"
 
 msgctxt "[\"meta\"][\"Error\"][\"keywords\"]"
 msgid "error"
-msgstr ""
+msgstr "hata"
 
 msgctxt "[\"meta\"][\"Error\"][\"description\"]"
 msgid "error"
-msgstr ""
+msgstr "hata"
 
 msgctxt "[\"meta\"][\"Category\"][\"title\"]"
 msgid "Browse Category | APKPure.com"
-msgstr ""
+msgstr "Kategorilere Göz At | APKPure.com"
 
 msgctxt "[\"meta\"][\"Category\"][\"keywords\"]"
 msgid "app category,game category"
-msgstr ""
+msgstr "uygulama kategorisi,oyun kategorisi"
 
 msgctxt "[\"meta\"][\"Category\"][\"description\"]"
 msgid "Android games and apps category"
-msgstr ""
+msgstr "Android oyunlar ve uygulamalar kategorileri"
 
 msgctxt "[\"category\"][\"GAME_ACTION\"]"
 msgid "Action"
-msgstr ""
+msgstr "Aksiyon"
 
 msgctxt "[\"category\"][\"GAME_ADVENTURE\"]"
 msgid "Adventure"
-msgstr ""
+msgstr "Macera"
 
 msgctxt "[\"category\"][\"GAME_ARCADE\"]"
 msgid "Arcade"
-msgstr ""
+msgstr "Arcade"
 
 msgctxt "[\"category\"][\"GAME_BOARD\"]"
 msgid "Board"
-msgstr ""
+msgstr "Masa"
 
 msgctxt "[\"category\"][\"GAME_CARD\"]"
 msgid "Card"
-msgstr ""
+msgstr "Kart"
 
 msgctxt "[\"category\"][\"GAME_CASINO\"]"
 msgid "Casino"
-msgstr ""
+msgstr "Kumarhane"
 
 msgctxt "[\"category\"][\"GAME_CASUAL\"]"
 msgid "Casual"
-msgstr ""
+msgstr "Klasik"
 
 msgctxt "[\"category\"][\"GAME_EDUCATIONAL\"]"
 msgid "Educational"
-msgstr ""
+msgstr "Eğitici"
 
 msgctxt "[\"category\"][\"GAME_FAMILY\"]"
 msgid "Family"
-msgstr ""
+msgstr "Aile"
 
 msgctxt "[\"category\"][\"GAME_MUSIC\"]"
 msgid "Music"
-msgstr ""
+msgstr "Müzik"
 
 msgctxt "[\"category\"][\"GAME_PUZZLE\"]"
 msgid "Puzzle"
-msgstr ""
+msgstr "Bulmaca"
 
 msgctxt "[\"category\"][\"GAME_RACING\"]"
 msgid "Racing"
-msgstr ""
+msgstr "Yarış"
 
 msgctxt "[\"category\"][\"GAME_ROLE_PLAYING\"]"
 msgid "Role Playing"
-msgstr ""
+msgstr "Rol Oyunı"
 
 msgctxt "[\"category\"][\"GAME_SIMULATION\"]"
 msgid "Simulation"
-msgstr ""
+msgstr "Simülasyon"
 
 msgctxt "[\"category\"][\"GAME_SPORTS\"]"
 msgid "Sports"
-msgstr ""
+msgstr "Spor"
 
 msgctxt "[\"category\"][\"GAME_STRATEGY\"]"
 msgid "Strategy"
-msgstr ""
+msgstr "Strateji Oyunları"
 
 msgctxt "[\"category\"][\"GAME_TRIVIA\"]"
 msgid "Trivia"
-msgstr ""
+msgstr "Eğlencelik Bilgi Oyunları"
 
 msgctxt "[\"category\"][\"GAME_WORD\"]"
 msgid "Word"
-msgstr ""
+msgstr "Kelime"
 
 msgctxt "[\"category\"][\"BOOKS_AND_REFERENCE\"]"
 msgid "Books & Reference"
-msgstr ""
+msgstr "Kitaplar ve Referans"
 
 msgctxt "[\"category\"][\"BUSINESS\"]"
 msgid "Business"
-msgstr ""
+msgstr "İş"
 
 msgctxt "[\"category\"][\"COMICS\"]"
 msgid "Comics"
-msgstr ""
+msgstr "Karikatür"
 
 msgctxt "[\"category\"][\"COMMUNICATION\"]"
 msgid "Communication"
-msgstr ""
+msgstr "Haberleşme"
 
 msgctxt "[\"category\"][\"EDUCATION\"]"
 msgid "Education"
-msgstr ""
+msgstr "Eğitim"
 
 msgctxt "[\"category\"][\"ENTERTAINMENT\"]"
 msgid "Entertainment"
-msgstr ""
+msgstr "Eğlence"
 
 msgctxt "[\"category\"][\"FINANCE\"]"
 msgid "Finance"
-msgstr ""
+msgstr "Finans"
 
 msgctxt "[\"category\"][\"HEALTH_AND_FITNESS\"]"
 msgid "Health & Fitness"
-msgstr ""
+msgstr "Sağlık ve Fitness"
 
 msgctxt "[\"category\"][\"LIBRARIES_AND_DEMO\"]"
 msgid "Libraries & Demo"
-msgstr ""
+msgstr "Kitaplıklar ve Kısa Sunum"
 
 msgctxt "[\"category\"][\"LIFESTYLE\"]"
 msgid "Lifestyle"
-msgstr ""
+msgstr "Yaşam Tarzı"
 
 msgctxt "[\"category\"][\"APP_WALLPAPER\"]"
 msgid "Live Wallpaper"
-msgstr ""
+msgstr "Canlı Duvar Kağıdı"
 
 msgctxt "[\"category\"][\"MEDIA_AND_VIDEO\"]"
 msgid "Media & Video"
-msgstr ""
+msgstr "Medya ve Video"
 
 msgctxt "[\"category\"][\"MEDICAL\"]"
 msgid "Medical"
-msgstr ""
+msgstr "Tıp"
 
 msgctxt "[\"category\"][\"MUSIC_AND_AUDIO\"]"
 msgid "Music & Audio"
-msgstr ""
+msgstr "Müzik ve Ses"
 
 msgctxt "[\"category\"][\"NEWS_AND_MAGAZINES\"]"
 msgid "News & Magazines"
-msgstr ""
+msgstr "Haberler ve Dergiler"
 
 msgctxt "[\"category\"][\"PERSONALIZATION\"]"
 msgid "Personalization"
-msgstr ""
+msgstr "Kişiselleştirme"
 
 msgctxt "[\"category\"][\"PHOTOGRAPHY\"]"
 msgid "Photography"
-msgstr ""
+msgstr "Fotoğrafçılık"
 
 msgctxt "[\"category\"][\"PRODUCTIVITY\"]"
 msgid "Productivity"
-msgstr ""
+msgstr "Verimlilik"
 
 msgctxt "[\"category\"][\"SHOPPING\"]"
 msgid "Shopping"
-msgstr ""
+msgstr "Alışveriş"
 
 msgctxt "[\"category\"][\"SOCIAL\"]"
 msgid "Social"
-msgstr ""
+msgstr "Sosyal"
 
 msgctxt "[\"category\"][\"SPORTS\"]"
 msgid "Sports"
-msgstr ""
+msgstr "Spor"
 
 msgctxt "[\"category\"][\"TOOLS\"]"
 msgid "Tools"
-msgstr ""
+msgstr "Araçlar"
 
 msgctxt "[\"category\"][\"TRANSPORTATION\"]"
 msgid "Transportation"
-msgstr ""
+msgstr "Ulaşım"
 
 msgctxt "[\"category\"][\"TRAVEL_AND_LOCAL\"]"
 msgid "Travel & Local"
-msgstr ""
+msgstr "Seyahat ve Yerel"
 
 msgctxt "[\"category\"][\"WEATHER\"]"
 msgid "Weather"
-msgstr ""
+msgstr "Hava Durumu"
 
 msgctxt "[\"category\"][\"APP_WIDGETS\"]"
 msgid "Widgets"
+msgstr "Widget'lar"
+
+msgctxt "[\"NAV-GAME\"]"
+msgid "GAMES"
+msgstr "OYUNLAR"
+
+msgctxt "[\"NAV-APP\"]"
+msgid "APPS"
+msgstr "UYGULAMALAR"
+
+msgctxt "[\"DETAIL-REPORT\"]"
+msgid "Report"
+msgstr "Bildir"
+
+msgctxt "[\"DETAIL-FLAG_AS_INAPPROPRIATE\"]"
+msgid "Flag as inappropriate"
+msgstr "Uygunsuz olarak işaretle"
+
+msgctxt "[\"DETAIL-APK_FILE_SHA1\"]"
+msgid "APK File SHA1"
+msgstr "APK SHA1 Değeri"
+
+msgctxt "[\"DETAIL-XAPK_FILE_SHA1\"]"
+msgid "XAPK File SHA1"
+msgstr "XAPK SHA1 Değeri"
+
+msgctxt "[\"DETAIL-GP_DOWNLOAD\"]"
+msgid "Install on Google Play"
+msgstr "Google Play'de Yükle"
+
+msgctxt "[\"DETAIL-ITUNE_DOWNLOAD\"]"
+msgid "Install on iTunes"
+msgstr "iTunes'da Yükle"
+
+msgctxt "[\"DETAIL-MORE_DOWNLOAD\"]"
+msgid "More Download Locations:"
+msgstr "Daha Fazla İndirme Konumları:"
+
+msgctxt "[\"DETAIL-DELETED_COPYRIGHT_GOOGLE_PLAY_URL\"]"
+msgid "Download on Google Play"
+msgstr "Google Play'de İndir"
+
+msgctxt "[\"DETAIL_DOWNLOAD-NAV_DOWNLOAD\"]"
+msgid "Download"
+msgstr "İndir"
+
+msgctxt "[\"DETAIL_DOWNLOAD-DOWNLOADING\"]"
+msgid "Downloading"
+msgstr "İndiriliyor"
+
+msgctxt "[\"DETAIL_DOWNLOAD-DOWNLOADING_DES\"]"
+msgid "If the download doesn't start,"
+msgstr "İndirme başlamazsa,"
+
+msgctxt "[\"DETAIL_DOWNLOAD-DOWNLOADING_DES_CLICK\"]"
+msgid "click here"
+msgstr "buraya tıklayın"
+
+msgctxt "[\"DETAIL_DOWNLOAD-HOW_TO_INSTALL_APK\"]"
+msgid "How to install APK / XAPK file"
+msgstr "APK / XAPK dosyası nasıl yüklenir"
+
+msgctxt "[\"SEARCH-PLACEHOLDER1\"]"
+msgid "APKPure or com.apkpure.aegon"
+msgstr "APKPure veya com.apkpure.aegon"
+
+msgctxt "[\"SEARCH-TITLE\"]"
+msgid "Enter App Name, Package Name, Package ID"
+msgstr "Uygulama Adı, Paket Adı, Paket ID Girin"
+
+msgctxt "[\"COPYRIGHT\"]"
+msgid "Copyright © 2014-2016 APKPure. All rights reserved."
+msgstr "Copyright © 2014-2016 APKPure. Her hakkı saklıdır."
+
+msgctxt "[\"FOOTER-DMCA\"]"
+msgid "DMCA Disclaimer"
+msgstr "DMCA Yasal Uyarı"
+
+msgctxt "[\"FOOTER-TERM_OF_USE\"]"
+msgid "Term of Use"
+msgstr "Kullanım Şartları"
+
+msgctxt "[\"FOOTER-CONTACT_US\"]"
+msgid "Contact Us"
+msgstr "Bizimle İletişime Geçin"
+
+msgctxt "[\"FOOTER-ABOUT\"]"
+msgid "About Us"
+msgstr "Hakkımızda"
+
+msgctxt "[\"FOOTER-TRANSLATE\"]"
+msgid "Help translate APKPure"
+msgstr "APKPure çevrisine yardım edin"
+
+msgctxt "[\"FOOTER-DEVELOPER\"]"
+msgid "Submit Your App"
+msgstr "Uygulamanızı Gönderin"
+
+msgctxt "[\"MARKET-INDEX_BANNER_DES\"]"
+msgid "Install,manage and update your apps"
+msgstr "Uygulamalarınızı yükleyin, yönetin ve güncelleyin"
+
+msgctxt "[\"MARKET-BOTTOM_BANNER_TITLE\"]"
+msgid "APKPure App"
+msgstr "APKPure Uygulaması"
+
+msgctxt "[\"MARKET-BOTTOM_BANNER_DES\"]"
+msgid "Try APKPure App - Download, update and install apks on your Android."
 msgstr ""
+"APKPure Uygulamasını Deneyin - Apk'leri Android'inize indirin, güncelleyin "
+"ve yükleyin."
+
+msgctxt "[\"MARKET-BOTTOM_BANNER_DOWNLOAD_BTN\"]"
+msgid "Download APP"
+msgstr "UYGULAMAYI İndir"
+
+msgctxt "[\"featured\"][\"promotion_app_new\"]"
+msgid "Top New Free Apps"
+msgstr "En Yeni Ücretsiz Uygulamalar"
+
+msgctxt "[\"featured\"][\"promotion_game_new\"]"
+msgid "Top New Free Games"
+msgstr "En Yeni Ücretsiz Oyunlar"
+
+msgctxt "[\"meta\"][\"contact-us.html\"][\"title\"]"
+msgid "Contact Us"
+msgstr "Bizimle İletişime Geçin"
+
+msgctxt "[\"meta\"][\"contact-us.html\"][\"description\"]"
+msgid "Contact APKPure"
+msgstr "APKPure İle İletişime Geçin"
+
+msgctxt "[\"meta\"][\"terms.html\"][\"title\"]"
+msgid "Terms of use"
+msgstr "Kullanım şartları"
+
+msgctxt "[\"meta\"][\"terms.html\"][\"keywords\"]"
+msgid "terms of use"
+msgstr "kullanım şartları"
+
+msgctxt "[\"meta\"][\"terms.html\"][\"description\"]"
+msgid "APKPure Terms of use"
+msgstr "APKPure Kullanım şartları"
+
+msgctxt "[\"REGION_DOWN-DES\"]"
+msgid "- Download your favorite Android Apps with APK Downloader (Free Apps Only).<br>- Your download will begin automatically after you paste a package id and click the download button.<br>- Download failed? Please manually change country setting and try again.<br>- Want to tell us more about your problems? <a style='color:#FFFF00' href='/contact-us.html'>Contact us here</a>"
+msgstr ""
+"- APK İndirici ile favori Android Uygulamalarını indirin (Sadece Ücretsiz "
+"Uygulamalar).<br>- Bir paket id yapıştırın ve indir düğmesine tıkladıkdan "
+"sonra indirmeniz otomatik olarak başlayacaktır.<br>- İndirme başarısız mı "
+"oldu? Lütfen el ile ülke ayarını değiştirin ve tekrar deneyin.<br>- "
+"Sorunların hakkında daha fazla bilgi söylemek ister misin? <a style='color:#"
+"FFFF00' href='/contact-us.html'>Bize buradan ulaşın</a>"
+
+msgctxt "[\"MARKET-BOTTOM_BANNER_DETAIL_APK_DES\"]"
+msgid "Using APKPure App to upgrade <strong>{0}</strong>, fast, free and save your internet data."
+msgstr ""
+"APKPure Uygulamasını kullanarak <strong>{0}</strong> yükseltin, hızlı, "
+"ücretsiz ve internetinizden tasarruf edin."
+
+msgctxt "[\"MARKET-BOTTOM_BANNER_DETAIL_APK_DES_TITLE\"]"
+msgid "Using APKPure App to upgrade {0}, fast, free and save your internet data."
+msgstr ""
+"APKPure Uygulamasını kullanarak {0} yükseltin, hızlı, ücretsiz ve "
+"internetinizden tasarruf edin."
+
+msgctxt "[\"MARKET-BOTTOM_BANNER_DETAIL_XAPK_DES\"]"
+msgid "Using APKPure App to upgrade <strong>{0}</strong>, install xapk, fast, free and save your internet data."
+msgstr ""
+"APKPure Uygulamasını kullanarak <strong>{0}</strong> yükseltin, xapk "
+"yükleyin, hızlı, ücretsiz ve internetinizden tasarruf edin."
+
+msgctxt "[\"MARKET-BOTTOM_BANNER_DETAIL_XAPK_DES_TITLE\"]"
+msgid "Using APKPure App to upgrade {0}, install xapk, fast, free and save your internet data."
+msgstr ""
+"APKPure Uygulamasını kullanarak {0} yükseltin, xapk yükleyin, hızlı, "
+"ücretsiz ve internetinizden tasarruf edin."
+
+msgctxt "[\"MARKET-PROMOTION_BANNER_MOBILE1\"]"
+msgid "<p class=\"desc\">Using APKPure App to download/update this apk, faster, free and saving data!</p>"
+msgstr ""
+"<p class=\"desc\">Bu apk'yi APKPure Uygulaması kullanarak indirin/"
+"güncelleyin, daha hızlı, ücretsiz ve veri tasarrufu yapın</p>"
+
+msgctxt "[\"MARKET-PROMOTION_BANNER_MOBILE1_XAPK\"]"
+msgid "<p class=\"desc\">Using APKPure App to install this XAPK, faster, free and saving data!</p>"
+msgstr ""
+"<p class=\"desc\">Bu XAPK'yi APKPure Uygulaması kullanarak indirin/"
+"güncelleyin, daha hızlı, ücretsiz ve veri tasarrufu yapın</p>"
+
+msgctxt "[\"MARKET-PROMOTION_BANNER_MOBILE2\"]"
+msgid "<p class=\"tit\">Using APKPure App</p><p class=\"des\">Faster, free and saving data!</p>"
+msgstr ""
+"<p class=\"tit\">APKPure Uygulamasını Kullanın</p><p class=\"des\">Daha "
+"hızlı, ücretsiz ve veri tasarrufu yapın!</p>"
+
+msgctxt "[\"MARKET-PROMOTION_BANNER_MOBILE2_XAPK\"]"
+msgid "<p class=\"tit\">Using APKPure App</p><p class=\"des\">Install XAPK, Faster, free and saving data!</p>"
+msgstr ""
+"<p class=\"tit\">APKPure Uygulamasını Kullanın</p><p class=\"des\">XAPK "
+"yükleyin, Daha hızlı, ücretsiz ve veri tasarrufu yapın!</p>"
+
+msgctxt "[\"error\"][\"DOWN-ItemNotFound\"]"
+msgid "Sorry, download failed, the APK cannot be found."
+msgstr "Üzgünüz, indirme başarısız, APK bulunamadı."
+
+msgctxt "[\"js\"][\"SIGN_VERIFY-NOT_TRUSTED\"]"
+msgid "[Not Trusted] This {0} APK is a modified version, we don't recommend installing it."
+msgstr ""
+"[Güvenilir değil] Bu {0} APK değiştirilmiş bir sürümü, bunu yüklemenizi "
+"önermiyoruz."
+
+msgctxt "[\"featured\"][\"promotion_uefa_euro_2016\"]"
+msgid "Official UEFA EURO 2016 Apps"
+msgstr "Resmi UEFA EURO 2016 Uygulamaları"
+
+msgctxt "[\"meta\"][\"contact-us.html\"][\"keywords\"]"
+msgid "contact apkpure.com, contact us, contact"
+msgstr "apkpure.com iletişim, bizimle iletişime geçin, iletişim"
+
+msgctxt "[\"meta\"][\"apkpure-app.html\"][\"keywords\"]"
+msgid "APKPure, APKPure Downloader, android, market"
+msgstr "APKPure, APKPure İndirici, android, market"
+
+msgctxt "[\"meta\"][\"Index\"][\"keywords\"]"
+msgid "apk download, apk downloader, android apk download"
+msgstr "apk indir, apk indirici, android apk indir"
+
+msgctxt "[\"meta\"][\"Details\"][\"keywords\"]"
+msgid "{app_name} apk, {app_name} apk download, {app_name} download, {app_name}.apk, {app_name} android, {app_category} {app_type} download"
+msgstr ""
+"{app_name} apk, {app_name} apk indir, {app_name} indir, {app_name}.apk, "
+"{app_name} android, {app_category} {app_type} indir"
+
+msgctxt "[\"meta\"][\"Details_download\"][\"title\"]"
+msgid "Download {app_name} {version_name} APK | APKPure.com"
+msgstr "{app_name} {version_name} APK indir | APKPure.com"
+
+msgctxt "[\"meta\"][\"Details_download\"][\"keywords\"]"
+msgid "{app_name} apk, {app_name} apk download, {app_name} download"
+msgstr "{app_name} apk, {app_name} apk indir, {app_name} indir"
+
+msgctxt "[\"meta\"][\"Details_download\"][\"description\"]"
+msgid "{app_name} {version_name} APK Download"
+msgstr "{app_name} {version_name} APK İndir"
+
+msgctxt "[\"meta\"][\"Download\"][\"description\"]"
+msgid "download free apps APK for Android phone and tablet."
+msgstr "Android telefon ve tablet için ücretsiz APK uygulamalar indir."
+
+msgctxt "[\"meta\"][\"Download\"][\"keywords\"]"
+msgid "apk download, region free apk download"
+msgstr "apk indir, ülkelere göre ücretsiz apk indir"
+
+msgctxt "[\"meta\"][\"Download\"][\"title\"]"
+msgid "Region free APK download daily update apps and games"
+msgstr "Ülkeye göre günlük güncellenen uygulamalar ve oyunlar APK indir"
+
+msgctxt "[\"meta\"][\"Verify\"][\"title\"]"
+msgid "APK Signature Verification, Official Version APK Detection Service"
+msgstr "APK İmza Doğrulama, Resmi Sürüm APK Tespit Hizmeti"
+
+msgctxt "[\"meta\"][\"Index\"][\"title\"]"
+msgid "Download APK free online downloader | APKPure.com"
+msgstr "Ücretsiz APK indir, çevrimiçi indirici | APKPure.com"
+
+msgctxt "[\"meta\"][\"how-to-install-apk.html\"][\"keywords\"]"
+msgid "install apk, apkpure apk, apkpure app, apps apk, unknown sources apk"
+msgstr ""
+"apk yükle, apkpure apk, apkpure uygulaması, apk uygulamalar, bilinmeyen "
+"kaynaklar apk"
