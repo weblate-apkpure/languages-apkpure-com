@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-07-01 20:04+0000\n"
-"PO-Revision-Date: 2016-07-01 20:06+0000\n"
+"PO-Revision-Date: 2016-07-28 22:43+0000\n"
 "Last-Translator: Igor Silva Santos <ferrare42@gmail.com>\n"
 "Language-Team: Portuguese "
 "<https://translate.apkpure.com/projects/apkpure/apkpurecom/pt/>\n"
@@ -216,7 +216,7 @@ msgstr "Mais popular hoje"
 
 msgctxt "[\"SIMILAR_OR_RELATED\"]"
 msgid "Similar Or Related"
-msgstr "Semelhante ou afim"
+msgstr "Semelhante ou Igual"
 
 msgctxt "[\"INDEX-TITLE\"]"
 msgid "Download free Android Games and Android Apps."
@@ -452,7 +452,7 @@ msgstr "Pesquisar"
 
 msgctxt "[\"REGION_DOWN-COUNTRY_NAME\"]"
 msgid "Country name or Region code"
-msgstr "O nome de país ou código Região"
+msgstr "O nome de país ou código da Região"
 
 msgctxt "[\"REGION_DOWN-MOBILE_TITLE\"]"
 msgid "APK Downloader"
@@ -508,7 +508,7 @@ msgstr "{0} resultados de sua procura."
 
 msgctxt "[\"SEARCH-NO_RESULTS_FOUND\"]"
 msgid "No results found? Try to advanced search again."
-msgstr "Nenhum resultado encontrado? Tente pesquisaavançada novamente."
+msgstr "Nenhum resultado encontrado? Tente a pesquisa avançada novamente."
 
 msgctxt "[\"SEARCH-SELECT_REGION\"]"
 msgid "Select a region you want to search with"
@@ -532,7 +532,7 @@ msgstr "Nome ou pacote"
 
 msgctxt "[\"SEARCH-TITLE\"]"
 msgid "Enter App Name, Package Name, Package ID"
-msgstr "Enter App Nome, nome do pacote, ID do pacote, ou Google Play URL"
+msgstr "Entre App Nome, nome do pacote, ID do pacote, ou Google Play URL se"
 
 msgctxt "[\"SEARCH-APK\"]"
 msgid "Search APK"
@@ -720,7 +720,7 @@ msgstr "Aplicativo APKPure"
 
 msgctxt "[\"MARKET-BOTTOM_BANNER_DES\"]"
 msgid "Try APKPure App - Download, update and install apks on your Android."
-msgstr "Tente APKPure App - Baixe, atualização e instaláapks no seu Android."
+msgstr "Tente APKPure App - Baixe, atualização e instalar apks no seu Android."
 
 msgctxt "[\"MARKET-BOTTOM_BANNER_DETAIL_APK_DES\"]"
 msgid "Using APKPure App to upgrade <strong>{0}</strong>, fast, free and save your internet data."
@@ -752,11 +752,15 @@ msgstr "<p class=\"desc\">Usando APKPure App para instalar este XAPK, de dados m
 
 msgctxt "[\"MARKET-PROMOTION_BANNER_MOBILE2\"]"
 msgid "<p class=\"tit\">Using APKPure App</p><p class=\"des\">Faster, free and saving data!</p>"
-msgstr "<p class=\"tit\">Usando APKPure App </p><p class=\"des\">Faster, de dados livre e salvar! </p>"
+msgstr ""
+"<p class=\"tit\">Usando APKPure App </p><p class=\"des\">Rápido, e Salva "
+"seus Dados de Internet! </p>"
 
 msgctxt "[\"MARKET-PROMOTION_BANNER_MOBILE2_XAPK\"]"
 msgid "<p class=\"tit\">Using APKPure App</p><p class=\"des\">Install XAPK, Faster, free and saving data!</p>"
-msgstr "<p class=\"tit\">Usando APKPure App</p><p class=\"des\">Instale XAPK, Faster, de dados livre e salvar! </p>"
+msgstr ""
+"<p class=\"tit\">Usando APKPure App</p><p class=\"des\">Instale XAPK, "
+"Rápido, e Salva seus Dados de Internet! </p>"
 
 msgctxt "[\"FLAG-Africa\"]"
 msgid "Africa"
