@@ -218,6 +218,10 @@ msgctxt "[\"INDEX-FAQ\"]"
 msgid "FAQ"
 msgstr "常见问题"
 
+msgctxt "[\"INDEX-POPULAR_CATEGORIES\"]"
+msgid "Popular categories"
+msgstr "热门分类"
+
 msgctxt "[\"DOWNLOAD_APK\"]"
 msgid "Download APK"
 msgstr "下载APK"
@@ -559,7 +563,7 @@ msgid "APK Downloads"
 msgstr "APK Downloads"
 
 msgctxt "[\"FOOTER-APK_DOWNLOAD\"]"
-msgid "APK Download"
+msgid "APK Downloader (Region free)"
 msgstr "APK 下载工具"
 
 msgctxt "[\"FOOTER-APK_INSTALL\"]"
@@ -649,6 +653,10 @@ msgstr "帮助翻译 APKPure"
 msgctxt "[\"FOOTER-DEVELOPER\"]"
 msgid "Submit Your App"
 msgstr "提交应用"
+
+msgctxt "[\"FOOTER-XAPK\"]"
+msgid "XAPK"
+msgstr "XAPK"
 
 msgctxt "[\"MARKET-QR\"]"
 msgid "Download<br>APKPure App"
@@ -1006,6 +1014,10 @@ msgctxt "[\"featured\"][\"promotion_uefa_euro_2016\"]"
 msgid "Official UEFA EURO 2016 Apps"
 msgstr "2016年欧锦赛应用"
 
+msgctxt "[\"featured\"][\"promotion_tv\"]"
+msgid "Hot Android TV Apps"
+msgstr "热门安卓TV应用"
+
 msgctxt "[\"include\"][\"INDEX-FAQ\"]"
 msgid "www/index_faq.htm"
 msgstr "www/zh-CN/index_faq.htm"
@@ -1221,6 +1233,18 @@ msgstr "下载{0}安卓APK"
 msgctxt "[\"meta\"][\"Category_featured\"][\"description\"]"
 msgid "{0}"
 msgstr "下载官方正版安卓{0}"
+
+msgctxt "[\"meta\"][\"Category_featured_editors-picks\"][\"title\"]"
+msgid "APKPure Editors' Picks for the best Android Games & Apps"
+msgstr ""
+
+msgctxt "[\"meta\"][\"Category_featured_editors-picks\"][\"keywords\"]"
+msgid "android apps, android games, must have android games, must have android apps, game download"
+msgstr ""
+
+msgctxt "[\"meta\"][\"Category_featured_editors-picks\"][\"description\"]"
+msgid "Play with millions of free apps in APKPure style on Android phones, tablets, TV ,etc. Download the best must have android games you should play 2016."
+msgstr ""
 
 msgctxt "[\"meta\"][\"Category_app\"][\"title\"]"
 msgid "Download {0} APK Android App Online - Free Pure APK Downloader"
