@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-07-01 20:04+0000\n"
-"PO-Revision-Date: 2016-08-04 09:17+0000\n"
-"Last-Translator: Igor Silva Santos <ferrare42@gmail.com>\n"
+"PO-Revision-Date: 2016-08-05 05:45+0000\n"
+"Last-Translator: CAT <catcto.com@gmail.com>\n"
 "Language-Team: Portuguese "
 "<https://translate.apkpure.com/projects/apkpure/apkpurecom/pt/>\n"
 "Language: pt\n"
@@ -1552,18 +1552,20 @@ msgstr "Apk Downloader (Região Livre)"
 
 msgctxt "[\"FOOTER-XAPK\"]"
 msgid "XAPK"
-msgstr "Xapk"
+msgstr "XAPK"
 
 msgctxt "[\"featured\"][\"promotion_tv\"]"
 msgid "Hot Android TV Apps"
 msgstr "Novos Appa de TV Android"
 
+#, fuzzy
 msgctxt "[\"meta\"][\"Category_featured_editors-picks\"][\"title\"]"
 msgid "APKPure Editors' Picks for the best Android Games & Apps"
 msgstr ""
 "APKPure Editors' Picks for the best Android Games & Apps\n"
 " Copiar →↵…«»“”-–—"
 
+#, fuzzy
 msgctxt "[\"meta\"][\"Category_featured_editors-picks\"][\"keywords\"]"
 msgid "android apps, android games, must have android games, must have android apps, game download"
 msgstr ""
