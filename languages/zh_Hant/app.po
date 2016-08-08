@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-03-22 06:57+0000\n"
-"PO-Revision-Date: 2016-08-08 14:16+0000\n"
-"Last-Translator: gavin60193 <p75669@gmail.com>\n"
+"PO-Revision-Date: 2016-08-08 14:33+0000\n"
+"Last-Translator: Meng Hao Li <mu2uu4@gmail.com>\n"
 "Language-Team: Traditional Chinese "
 "<https://translate.apkpure.com/projects/apkpure/apkpurecom/zh_Hant/>\n"
 "Language: zh_Hant\n"
@@ -59,13 +59,14 @@ msgctxt "[\"NAV-APK_DOWNLOAD\"]"
 msgid "APK Download"
 msgstr "APK 下載"
 
+#, fuzzy
 msgctxt "[\"NAV-APK_VERIFICATION\"]"
 msgid "APK Verification"
-msgstr ""
+msgstr "APK 驗證"
 
 msgctxt "[\"NAV-APKPURE_APP\"]"
 msgid "APKPure App"
-msgstr ""
+msgstr "APKPure 應用程式"
 
 msgctxt "[\"DOWNLOAD\"]"
 msgid "Download"
@@ -105,7 +106,7 @@ msgstr "更多"
 
 msgctxt "[\"XAPK\"]"
 msgid "XAPK"
-msgstr ""
+msgstr "XAPK"
 
 msgctxt "[\"XAPK-GAMES\"]"
 msgid "XAPK Games"
@@ -121,7 +122,7 @@ msgstr "首頁"
 
 msgctxt "[\"SORT_BY\"]"
 msgid "Sort by"
-msgstr ""
+msgstr "排序方式"
 
 msgctxt "[\"HOT\"]"
 msgid "Hot"
@@ -135,9 +136,10 @@ msgctxt "[\"NEWEST\"]"
 msgid "Newest"
 msgstr "最新"
 
+#, fuzzy
 msgctxt "[\"RATING\"]"
 msgid "Rating"
-msgstr ""
+msgstr "評價"
 
 msgctxt "[\"CATEGORY\"]"
 msgid "Category"
@@ -145,7 +147,7 @@ msgstr "分類"
 
 msgctxt "[\"CATEGORY_JOIN\"]"
 msgid "{app_category} {app_type}"
-msgstr ""
+msgstr "{app_category} {app_type}"
 
 msgctxt "[\"SHOW_MORE\"]"
 msgid "Show More"
