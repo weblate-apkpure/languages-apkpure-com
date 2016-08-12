@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-08-08 17:16+0000\n"
-"PO-Revision-Date: 2016-08-12 00:55+0000\n"
+"PO-Revision-Date: 2016-08-12 01:09+0000\n"
 "Last-Translator: ™Alsidi Group <alsidi.group@gmail.com>\n"
 "Language-Team: Arabic "
 "<https://translate.apkpure.com/projects/apkpure/apkpurecom/ar/>\n"
@@ -333,11 +333,11 @@ msgstr "ملف SHA1"
 
 msgctxt "[\"DETAIL-APK_FILE_SHA1\"]"
 msgid "APK File SHA1"
-msgstr "APK File SHA1"
+msgstr "APK ملف SHA1"
 
 msgctxt "[\"DETAIL-XAPK_FILE_SHA1\"]"
 msgid "XAPK File SHA1"
-msgstr "XAPK File SHA1"
+msgstr "XAPK ملف SHA1"
 
 msgctxt "[\"DETAIL-WHATS_NEW\"]"
 msgid "What's new"
@@ -397,15 +397,15 @@ msgstr "ترجم"
 
 msgctxt "[\"DETAIL-GP_DOWNLOAD\"]"
 msgid "Install on Google Play"
-msgstr "Install on Google Play"
+msgstr "تثبيت من Google Play"
 
 msgctxt "[\"DETAIL-ITUNE_DOWNLOAD\"]"
 msgid "Install on iTunes"
-msgstr "Install on iTunes"
+msgstr "تثبيت من اي تيونز"
 
 msgctxt "[\"DETAIL-MORE_DOWNLOAD\"]"
 msgid "More Download Locations:"
-msgstr "More Download Locations:"
+msgstr "المزيد من تحميل المواقع:"
 
 msgctxt "[\"DETAIL-DELETED_COPYRIGHT_GOOGLE_PLAY_URL\"]"
 msgid "Download on Google Play"
@@ -421,19 +421,19 @@ msgstr "Download"
 
 msgctxt "[\"DETAIL_DOWNLOAD-DOWNLOADING\"]"
 msgid "Downloading"
-msgstr "Downloading"
+msgstr "جار التحميل"
 
 msgctxt "[\"DETAIL_DOWNLOAD-DOWNLOADING_DES\"]"
 msgid "If the download doesn't start,"
-msgstr "If the download doesn't start,"
+msgstr "في حالة عدم بدء عملية التنزيل،"
 
 msgctxt "[\"DETAIL_DOWNLOAD-DOWNLOADING_DES_CLICK\"]"
 msgid "click here"
-msgstr "click here"
+msgstr "انقر هنا"
 
 msgctxt "[\"DETAIL_DOWNLOAD-HOW_TO_INSTALL_APK\"]"
 msgid "How to install APK / XAPK file"
-msgstr "How to install APK / XAPK file"
+msgstr "كيفية تثبيت APK / ملف XAPK"
 
 msgctxt "[\"REGION_DOWN-TITLE\"]"
 msgid "Region free APK download"
@@ -441,7 +441,12 @@ msgstr "المنطقة APK مجانا تحميل"
 
 msgctxt "[\"REGION_DOWN-DES\"]"
 msgid "- Download your favorite Android Apps with APK Downloader (Free Apps Only).<br>- Your download will begin automatically after you paste a package id and click the download button.<br>- Download failed? Please manually change country setting and try again.<br>- Want to tell us more about your problems? <a style='color:#FFFF00' href='/contact-us.html'>Contact us here</a>"
-msgstr "استراحة كل متجر Google Play المنطقة المحظورة تأمين قواعد الحر لتحميل التطبيقات APK للهاتف أندرويد وأقراص."
+msgstr ""
+"- تحميل المفضلة لديك تطبيقات أندرويد مع APK تنزيل (تطبيقات مجانية فقط).<br>- "
+"سوف يبدأ التحميل تلقائيا بعد لصق معرف حزمة وانقر على زر التحميل.<br>- تحميل "
+"فشل? يرجى يدويا تغيير إعداد البلد والمحاولة مرة أخرى.<br>- تريد أن تقول لنا "
+"المزيد عن مشاكلك? <a style='color:#FFFF00' href='/contact-us.html'>اتصل بنا "
+"هنا</a>"
 
 msgctxt "[\"REGION_DOWN-PLACEHOLDER\"]"
 msgid "com.facebook.katana or https://play.google.com...?id=com.facebook.katana"
@@ -605,7 +610,7 @@ msgstr "إخلاء مسؤولية DMCA"
 
 msgctxt "[\"FOOTER-TERM_OF_USE\"]"
 msgid "Term of Use"
-msgstr "Term of Use"
+msgstr "شرط الاستخدام"
 
 msgctxt "[\"FOOTER-MARKET_FOR_ANDROID\"]"
 msgid "APKPure For Android"
@@ -729,7 +734,9 @@ msgstr "باستخدام APKPure التطبيقات إلى ترقية <strong> 1
 
 msgctxt "[\"MARKET-BOTTOM_BANNER_DETAIL_APK_DES_TITLE\"]"
 msgid "Using APKPure App to upgrade {0}, fast, free and save your internet data."
-msgstr "Using APKPure App to upgrade {0}, fast, free and save your internet data."
+msgstr ""
+"باستخدام APKPure التطبيقات إلى ترقية {0} وسريعة وحرة وحفظ البيانات الخاصة بك "
+"على الإنترنت."
 
 msgctxt "[\"MARKET-BOTTOM_BANNER_DETAIL_XAPK_DES\"]"
 msgid "Using APKPure App to upgrade <strong>{0}</strong>, install xapk, fast, free and save your internet data."
@@ -737,7 +744,9 @@ msgstr "باستخدام APKPure التطبيقات إلى ترقية <strong> 1
 
 msgctxt "[\"MARKET-BOTTOM_BANNER_DETAIL_XAPK_DES_TITLE\"]"
 msgid "Using APKPure App to upgrade {0}, install xapk, fast, free and save your internet data."
-msgstr "Using APKPure App to upgrade {0}, install xapk, fast, free and save your internet data."
+msgstr ""
+"باستخدام APKPure التطبيقات إلى ترقية {0}، تثبيت APK وسريعة وحرة وحفظ "
+"البيانات الخاصة بك على الإنترنت."
 
 msgctxt "[\"MARKET-BOTTOM_BANNER_DOWNLOAD_BTN\"]"
 msgid "Download APP"
@@ -745,19 +754,27 @@ msgstr "تحميل التطبيق"
 
 msgctxt "[\"MARKET-PROMOTION_BANNER_MOBILE1\"]"
 msgid "<p class=\"desc\">Using APKPure App to download/update this apk, faster, free and saving data!</p>"
-msgstr "<p class=\"desc\">Using APKPure App to download/update this apk, faster, free and saving data!</p>"
+msgstr ""
+"<p class=\"desc\">باستخدام APKPure التطبيقات لتحميل / تحديث هذه APK، أسرع، "
+"المجانية وتوفير البيانات!</p>"
 
 msgctxt "[\"MARKET-PROMOTION_BANNER_MOBILE1_XAPK\"]"
 msgid "<p class=\"desc\">Using APKPure App to install this XAPK, faster, free and saving data!</p>"
-msgstr "<p class=\"desc\">Using APKPure App to install this XAPK, faster, free and saving data!</p>"
+msgstr ""
+"<p class=\"desc\">باستخدام APKPure التطبيقات لتثبيت هذا APK، والبيانات "
+"المجانية وإنقاذ سريع!</p>"
 
 msgctxt "[\"MARKET-PROMOTION_BANNER_MOBILE2\"]"
 msgid "<p class=\"tit\">Using APKPure App</p><p class=\"des\">Faster, free and saving data!</p>"
-msgstr "<p class=\"tit\">Using APKPure App</p><p class=\"des\">Faster, free and saving data!</p>"
+msgstr ""
+"<p class=\"tit\">باستخدام APKPure التطبيقات</p><p class=\"des\">أسرع "
+"والبيانات المجانية وإنقاذ!</p>"
 
 msgctxt "[\"MARKET-PROMOTION_BANNER_MOBILE2_XAPK\"]"
 msgid "<p class=\"tit\">Using APKPure App</p><p class=\"des\">Install XAPK, Faster, free and saving data!</p>"
-msgstr "<p class=\"tit\">Using APKPure App</p><p class=\"des\">Install XAPK, Faster, free and saving data!</p>"
+msgstr ""
+"<p class=\"tit\">باستخدام APKPure التطبيقات</p><p class=\"des\">تثبيت XAPK، "
+"أسرع، المجانية وتوفير البيانات!</p>"
 
 msgctxt "[\"FLAG-Africa\"]"
 msgid "Africa"
@@ -1005,23 +1022,23 @@ msgstr "التطبيقات"
 
 msgctxt "[\"featured\"][\"promotion_app_new\"]"
 msgid "Top New Free Apps"
-msgstr "Top New Free Apps"
+msgstr "أهم التطبيقات المجانية الجديدة"
 
 msgctxt "[\"featured\"][\"promotion_game_new\"]"
 msgid "Top New Free Games"
-msgstr "Top New Free Games"
+msgstr "أعلى ألعاب مجانية جديدة"
 
 msgctxt "[\"featured\"][\"promotion_app_top\"]"
 msgid "Top Free in Apps"
-msgstr "Top Free in Apps"
+msgstr "أعلى تطبيقات مجانية جديدة"
 
 msgctxt "[\"featured\"][\"promotion_game_top\"]"
 msgid "Top Free in Games"
-msgstr "Top Free in Games"
+msgstr "أعلى ألعاب مجانية"
 
 msgctxt "[\"featured\"][\"promotion_uefa_euro_2016\"]"
 msgid "Official UEFA EURO 2016 Apps"
-msgstr "Official UEFA EURO 2016 Apps"
+msgstr "الرسمي كأس الأمم الأوروبية 2016 تطبيقات"
 
 msgctxt "[\"include\"][\"INDEX-FAQ\"]"
 msgid "www/index_faq.htm"
@@ -1049,19 +1066,19 @@ msgstr "contact apkpure.com, contact us, contact"
 
 msgctxt "[\"meta\"][\"contact-us.html\"][\"description\"]"
 msgid "Contact APKPure"
-msgstr "Contact APKPure"
+msgstr "الاتصال APKPure"
 
 msgctxt "[\"meta\"][\"terms.html\"][\"title\"]"
 msgid "Terms of use"
-msgstr "Terms of use"
+msgstr "تعليمات الاستخدام"
 
 msgctxt "[\"meta\"][\"terms.html\"][\"keywords\"]"
 msgid "terms of use"
-msgstr "terms of use"
+msgstr "تعليمات الاستخدام"
 
 msgctxt "[\"meta\"][\"terms.html\"][\"description\"]"
 msgid "APKPure Terms of use"
-msgstr "APKPure Terms of use"
+msgstr "APKPure شروط الاستخدام"
 
 msgctxt "[\"meta\"][\"usb-debugging.html\"][\"title\"]"
 msgid "What is USB Debugging?"
@@ -1137,15 +1154,17 @@ msgstr "لماذا لا يمكننا ضمان APK 100٪ آمنة؟"
 
 msgctxt "[\"meta\"][\"how-to-install-apk.html\"][\"title\"]"
 msgid "How to install unknown sources APK to Android"
-msgstr "How to install unknown sources APK to Android"
+msgstr "كيفية تثبيت مجهولين مصادر APK لأندرويد"
 
 msgctxt "[\"meta\"][\"how-to-install-apk.html\"][\"keywords\"]"
 msgid "install apk, apkpure apk, apkpure app, apps apk, unknown sources apk"
-msgstr "install apk, apkpure apk, apkpure app, apps apk, unknown sources apk"
+msgstr ""
+"تثبيت APK، APK apkpure، التطبيق apkpure، تطبيقات APK، مصادر غير معروفة APK"
 
 msgctxt "[\"meta\"][\"how-to-install-apk.html\"][\"description\"]"
 msgid "How to install unknown sources Apps apk to Android, install apk from APKPure."
-msgstr "How to install unknown sources Apps apk to Android, install apk from APKPure."
+msgstr ""
+"كيفية تثبيت مصادر غير معروفة على تطبيقات APK لأندرويد، تثبيت APK من APKPure."
 
 msgctxt "[\"meta\"][\"christmas.html\"][\"title\"]"
 msgid "Best Christmas Apps for Your Android Phones & Tablets"
@@ -1205,15 +1224,15 @@ msgstr "تحمسل {app_short_name} apk {version_name} وجميع الإصدار
 
 msgctxt "[\"meta\"][\"Details_download\"][\"title\"]"
 msgid "Download {app_name} {version_name} APK | APKPure.com"
-msgstr "Download {app_name} {version_name} APK | APKPure.com"
+msgstr "تحميل {app_name} {version_name} APK | APKPure.com"
 
 msgctxt "[\"meta\"][\"Details_download\"][\"keywords\"]"
 msgid "{app_name} apk, {app_name} apk download, {app_name} download"
-msgstr "{app_name} apk, {app_name} apk download, {app_name} download"
+msgstr "{app_name} apk, {app_name} apk تحميل, {app_name} تحميل"
 
 msgctxt "[\"meta\"][\"Details_download\"][\"description\"]"
 msgid "{app_name} {version_name} APK Download"
-msgstr "{app_name} {version_name} APK Download"
+msgstr "{app_name} {version_name} APK تحميل"
 
 msgctxt "[\"meta\"][\"Category_xapk\"][\"title\"]"
 msgid "XAPK ( apk with obb file) {0}.apk for Android download"
