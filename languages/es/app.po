@@ -24,11 +24,12 @@ msgstr "APLICACIONES"
 
 msgctxt "[\"NAV-XAPK\"]"
 msgid "XAPK"
-msgstr "LauncherPro"
+msgstr "XAPK"
 
+#, fuzzy
 msgctxt "[\"NAV-NEW\"]"
 msgid "NEW"
-msgstr "NuevoLauncherPro"
+msgstr "Nuevo"
 
 msgctxt "[\"NAV-PRODUCTS\"]"
 msgid "PRODUCTS"
@@ -1440,13 +1441,15 @@ msgstr ""
 "logo de {developer} son marcas de {developer} en USA y/u otros países. Todas "
 "otras marcas son propiedad de sus respectivos dueños."
 
+#, fuzzy
 msgctxt "[\"NAV-GAME\"]"
 msgid "GAMES"
 msgstr "Juegos"
 
+#, fuzzy
 msgctxt "[\"NAV-APP\"]"
 msgid "APPS"
-msgstr "AplicacionesLauncherPro"
+msgstr "Aplicaciones"
 
 msgctxt "[\"DETAIL-REPORT\"]"
 msgid "Report"
