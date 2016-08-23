@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-03-22 06:53+0000\n"
-"PO-Revision-Date: 2016-08-11 01:59+0000\n"
-"Last-Translator: Ihwan Nurhakim <somflak1933@gmail.com>\n"
+"PO-Revision-Date: 2016-08-23 06:01+0000\n"
+"Last-Translator: Ale laksmana <miceass@gmail.com>\n"
 "Language-Team: Indonesian "
 "<https://translate.apkpure.com/projects/apkpure/apkpurecom/id/>\n"
 "Language: id\n"
@@ -22,22 +22,18 @@ msgctxt "[\"NAV-APP\"]"
 msgid "APP"
 msgstr "APP"
 
-#, fuzzy
 msgctxt "[\"NAV-XAPK\"]"
 msgid "XAPK"
 msgstr "XAPK"
 
-#, fuzzy
 msgctxt "[\"NAV-NEW\"]"
 msgid "NEW"
 msgstr "BARU"
 
-#, fuzzy
 msgctxt "[\"NAV-PRODUCTS\"]"
 msgid "PRODUCTS"
 msgstr "PRODUK"
 
-#, fuzzy
 msgctxt "[\"NAV-NEW_GAME\"]"
 msgid "NEW GAME"
 msgstr "PERMAINAN BARU"
@@ -46,7 +42,6 @@ msgctxt "[\"NAV-NEW_APP\"]"
 msgid "NEW APP"
 msgstr "APLIKASI BARU"
 
-#, fuzzy
 msgctxt "[\"NAV-XAPK_GAME\"]"
 msgid "XAPK GAME"
 msgstr "PERMAINAN XAPK"
@@ -321,76 +316,70 @@ msgctxt "[\"DETAIL-UPDATE_ON\"]"
 msgid "Update on"
 msgstr "Update pada"
 
+#, fuzzy
 msgctxt "[\"DETAIL-SIGNATURE\"]"
 msgid "Signature"
-msgstr ""
+msgstr "Tanda tangan"
 
-#, fuzzy
 msgctxt "[\"DETAIL-FILE_SHA1\"]"
 msgid "File SHA1"
-msgstr "BERKAS SHA1"
+msgstr "Berkas SHA1"
 
-#, fuzzy
 msgctxt "[\"DETAIL-WHATS_NEW\"]"
 msgid "What's new"
-msgstr "APA YANG BARU"
+msgstr "Apa yang baru"
 
 msgctxt "[\"DETAIL-VERSION_HISTORY\"]"
 msgid "Version History"
-msgstr ""
+msgstr "Riwayat Versi"
 
-#, fuzzy
 msgctxt "[\"DETAIL-MORE_FROM_DEVELOPER\"]"
 msgid "More From Developer"
-msgstr "LAINNYA DARI PENGEMBANG"
+msgstr "Lainnya Dari Pengembang"
 
-#, fuzzy
 msgctxt "[\"DETAIL-COMMENTS\"]"
 msgid "Comments"
-msgstr "KOMENTAR"
+msgstr "Komentar"
 
-#, fuzzy
 msgctxt "[\"DETAIL-FOLLOW_UPDATES\"]"
 msgid "Follow Updates"
-msgstr "IKUTI PERKEMBANGAN"
+msgstr "Ikuti Pembaruan"
 
-#, fuzzy
 msgctxt "[\"DETAIL-REQUEST_UPDATE\"]"
 msgid "Request Update"
-msgstr "PERMINTAAN PERKEMBANGAN"
+msgstr "Permintaan Pembaruan"
 
 msgctxt "[\"DETAIL-RATING\"]"
 msgid "{votes} votes, average: {rating_average} out of {rating_best}"
 msgstr ""
 
-#, fuzzy
 msgctxt "[\"DETAIL-MORE_DEVELOPER\"]"
 msgid "Get more from {0}"
-msgstr "DAPATKAN LAINNYA DARI {0}"
+msgstr "Dapatkan lainnya dari {0}"
 
 msgctxt "[\"DETAIL-REMOVED\"]"
 msgid "Removed"
-msgstr ""
+msgstr "Dihapus"
 
 msgctxt "[\"DETAIL-CATEGORY_GAME\"]"
 msgid "{0} GAME"
-msgstr ""
+msgstr "{0} PERMAINAN"
 
 msgctxt "[\"DETAIL-CATEGORY_APP\"]"
 msgid "{0} APP"
-msgstr ""
+msgstr "{0} APLIKASI"
 
 msgctxt "[\"DETAIL-VERSION_LOAD_MORE\"]"
 msgid "Load more"
-msgstr ""
+msgstr "Muat lebih banyak"
 
 msgctxt "[\"DETAIL-VERSION_MORE\"]"
 msgid "More..."
-msgstr ""
+msgstr "Lebih banyak..."
 
 msgctxt "[\"DETAIL-TRANSLATE\"]"
 msgid "Translate"
-msgstr ""
+msgstr "Terjemahan"
 
 msgctxt "[\"REGION_DOWN-TITLE\"]"
 msgid "Region free APK download"
@@ -403,18 +392,19 @@ msgstr ""
 msgctxt "[\"REGION_DOWN-PLACEHOLDER\"]"
 msgid "com.facebook.katana or https://play.google.com...?id=com.facebook.katana"
 msgstr ""
+"com.facebook.katana atau https://play.google.com...?id=com.facebook.katana"
 
 msgctxt "[\"REGION_DOWN-SEARCH\"]"
 msgid "Search"
-msgstr ""
+msgstr "Pencarian"
 
 msgctxt "[\"REGION_DOWN-COUNTRY_NAME\"]"
 msgid "Country name or Region code"
-msgstr ""
+msgstr "Nama Negara atau kode wilayah"
 
 msgctxt "[\"REGION_DOWN-MOBILE_TITLE\"]"
 msgid "APK Downloader"
-msgstr ""
+msgstr "Pengunduh APK"
 
 msgctxt "[\"REGION_DOWN-MOBILE_DES\"]"
 msgid "All Region Games and Apps Download."
@@ -422,19 +412,19 @@ msgstr ""
 
 msgctxt "[\"LAST_DOWNLOAD\"]"
 msgid "Last Download"
-msgstr ""
+msgstr "Unduhan Terakhir"
 
 msgctxt "[\"SIGN_VERIFY-TITLE\"]"
 msgid "Signature Verification Online"
-msgstr ""
+msgstr "Verifikasi Tanda tangan online"
 
 msgctxt "[\"SIGN_VERIFY-CLICK_UPLOAD\"]"
 msgid "Click Upload APK file"
-msgstr ""
+msgstr "Klik Upload berkas APK"
 
 msgctxt "[\"SIGN_VERIFY-MAXIMUM\"]"
 msgid "Maximum file size"
-msgstr ""
+msgstr "Ukuran berkas maksimum"
 
 msgctxt "[\"SIGN_VERIFY-DES\"]"
 msgid "APK Signature verification will verify Android app package signature to keep Android users away from potentially harmful APK files (Modified version .apk or not official version download from Google Play Store) before APK installing."
@@ -1376,32 +1366,82 @@ msgctxt "[\"category\"][\"APP_WIDGETS\"]"
 msgid "Widgets"
 msgstr "Widget"
 
-#, fuzzy
 msgctxt "[\"NAV-GAME\"]"
 msgid "GAMES"
 msgstr "PERMAINAN"
 
-#, fuzzy
 msgctxt "[\"NAV-APP\"]"
 msgid "APPS"
 msgstr "APLIKASI"
 
-#, fuzzy
 msgctxt "[\"INDEX-POPULAR_CATEGORIES\"]"
 msgid "Popular categories"
 msgstr "KATEGORI POPULER"
 
-#, fuzzy
 msgctxt "[\"DETAIL-REPORT\"]"
 msgid "Report"
 msgstr "LAPORAN"
 
-#, fuzzy
 msgctxt "[\"DETAIL-APK_FILE_SHA1\"]"
 msgid "APK File SHA1"
 msgstr "BERKAS APK SHA1"
 
-#, fuzzy
 msgctxt "[\"DETAIL-XAPK_FILE_SHA1\"]"
 msgid "XAPK File SHA1"
 msgstr "BERKAS XAPK SHA1"
+
+#, fuzzy
+msgctxt "[\"DETAIL-FLAG_AS_INAPPROPRIATE\"]"
+msgid "Flag as inappropriate"
+msgstr "Tandai sebagai tidak pantas"
+
+msgctxt "[\"DETAIL-GP_DOWNLOAD\"]"
+msgid "Install on Google Play"
+msgstr "Pasang di Google Play"
+
+msgctxt "[\"DETAIL-ITUNE_DOWNLOAD\"]"
+msgid "Install on iTunes"
+msgstr "Pasang di iTunes"
+
+#, fuzzy
+msgctxt "[\"DETAIL-MORE_DOWNLOAD\"]"
+msgid "More Download Locations:"
+msgstr "Lebih Banyak Lokasi Unduhan"
+
+msgctxt "[\"DETAIL-DELETED_COPYRIGHT_GOOGLE_PLAY_URL\"]"
+msgid "Download on Google Play"
+msgstr "Unduh di Google Play"
+
+msgctxt "[\"DETAIL-DELETED_COPYRIGHT_GOOGLE_PLAY_DES\"]"
+msgid "{app_name} All rights reserved ©2016 {developer}. {developer} and the {developer} logo are trademarks of {developer} in the U.S. and/or other countries.All other trademarks are the property of their respective owners."
+msgstr ""
+
+msgctxt "[\"DETAIL_DOWNLOAD-NAV_DOWNLOAD\"]"
+msgid "Download"
+msgstr "Unduh"
+
+msgctxt "[\"DETAIL_DOWNLOAD-DOWNLOADING\"]"
+msgid "Downloading"
+msgstr "Mengunduh"
+
+msgctxt "[\"DETAIL_DOWNLOAD-DOWNLOADING_DES\"]"
+msgid "If the download doesn't start,"
+msgstr "Jika unduhan tidak memulai,"
+
+msgctxt "[\"DETAIL_DOWNLOAD-DOWNLOADING_DES_CLICK\"]"
+msgid "click here"
+msgstr "Klik disini"
+
+msgctxt "[\"DETAIL_DOWNLOAD-HOW_TO_INSTALL_APK\"]"
+msgid "How to install APK / XAPK file"
+msgstr "Cara memasang berkas APK / XAPK"
+
+msgctxt "[\"REGION_DOWN-DES\"]"
+msgid "- Download your favorite Android Apps with APK Downloader (Free Apps Only).<br>- Your download will begin automatically after you paste a package id and click the download button.<br>- Download failed? Please manually change country setting and try again.<br>- Want to tell us more about your problems? <a style='color:#FFFF00' href='/contact-us.html'>Contact us here</a>"
+msgstr ""
+"- Unduh Aplikasi Android favorit kamu dengan APK Downloader (Hanya Aplikasi "
+"Gratis).<br>- Unduhan akan mulai secara otomasis setelah anda sisipkan id "
+"paket dan klik tombol download.<br>- Unduhan gagal? Harap ganti pengaturan "
+"negara secara manual dan coba lagi.<br>- Ingin memberi tahu kami lebih "
+"banyak tentang masalah anda? <a style='color:#FFFF00' href='/contact-"
+"us.html'>Kontak kami disini</a>"
