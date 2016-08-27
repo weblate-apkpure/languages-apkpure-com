@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-08-10 01:13+0000\n"
-"PO-Revision-Date: 2016-08-16 18:48+0000\n"
+"PO-Revision-Date: 2016-08-26 20:21+0000\n"
 "Last-Translator: K5 <rasti.khdhr@gmail.com>\n"
 "Language-Team: Kurdish Sorani "
 "<https://translate.apkpure.com/projects/apkpure/apkpurecom/ckb/>\n"
@@ -645,7 +645,7 @@ msgstr "وەشانی مۆبایل"
 
 msgctxt "[\"FOOTER-MOBILE_SITE\"]"
 msgid "Mobile Site"
-msgstr ""
+msgstr "ماڵپەڕی مۆبایل"
 
 msgctxt "[\"FOOTER-CONTACT_US\"]"
 msgid "Contact Us"
@@ -698,6 +698,8 @@ msgstr "داگرتنی نەرمەواڵەی APKPure"
 msgctxt "[\"MARKET-INDEX_SHORT_DES\"]"
 msgid "Try <strong title=\"Download APKPure APK\">APKPure App</strong> - Download, update and install apks on your Android."
 msgstr ""
+"نەرمەواڵەی APKPure<strong title=\"Download APKPure APK\"> تاقی بکەوە</strong>"
+" - داگرتن، نوێکردنەوە و جێگیرکردنی apk یەکان لەسەر ئەندرۆیدەکەت."
 
 msgctxt "[\"MARKET-INDEX_SHORT_DES_TITLE\"]"
 msgid "Try APKPure Mobile app, to install, manage and update your Android apps."
@@ -770,14 +772,20 @@ msgstr "داگرتنی نەرمەواڵە"
 msgctxt "[\"MARKET-PROMOTION_BANNER_MOBILE1\"]"
 msgid "<p class=\"desc\">Using APKPure App to download/update this apk, faster, free and saving data!</p>"
 msgstr ""
+"<p class=\"desc\"> نەرمەواڵەی APKPure بەکاربهێنە بۆ داگرتن/نوێکردنەوەی ئەم "
+"apk یە، بەماوەیەکی کەمتر، و بەخۆڕایی لەگەڵ پاشەکەوتکردنی داتا!</p>"
 
 msgctxt "[\"MARKET-PROMOTION_BANNER_MOBILE1_XAPK\"]"
 msgid "<p class=\"desc\">Using APKPure App to install this XAPK, faster, free and saving data!</p>"
 msgstr ""
+"<p class=\"desc\">نەرمەواڵەی APKPure بەکاربهێنە بۆ دامەزراندنی ئەم XAPK یە، "
+"بەماوەیەکی کەمتر، و بەخۆڕایی و لەگەڵ پاشەکەوتکردنی داتا!</p>"
 
 msgctxt "[\"MARKET-PROMOTION_BANNER_MOBILE2\"]"
 msgid "<p class=\"tit\">Using APKPure App</p><p class=\"des\">Faster, free and saving data!</p>"
 msgstr ""
+"<p class=\"tit\">نەرمەواڵەی APKPure بەکاربهێنە</p><p class=\"des\">خێراتر، و "
+"بەخۆڕایی لەگەڵ پاشەکەوتکردنی داتا!</p>"
 
 msgctxt "[\"MARKET-PROMOTION_BANNER_MOBILE2_XAPK\"]"
 msgid "<p class=\"tit\">Using APKPure App</p><p class=\"des\">Install XAPK, Faster, free and saving data!</p>"
@@ -813,7 +821,7 @@ msgstr "بەداخەوە!،"
 
 msgctxt "[\"ERROR-SUBTITLE\"]"
 msgid "You can visit the following Games and Apps instead"
-msgstr ""
+msgstr "دەتوانی سەردانی یاری و نەرمەواڵەی تر بکەی جگە لەمە"
 
 msgctxt "[\"error\"][\"DOWN-ItemNotFree\"]"
 msgid "Sorry, paid apps are not available to download with our APK Download Service."
@@ -832,6 +840,8 @@ msgstr "بەداخەوە! هەرێمەکەت بگۆڕە و دووبارە دای
 msgctxt "[\"error\"][\"DOWN-LimitedDevice\"]"
 msgid "Sorry, download failed, the APK does not support our device."
 msgstr ""
+"ببوورە، دگرتنەکە سەرکەوتوو نەبوو، نەرمەواڵەکە پاڵپشتی نەکراوە بۆ ئامێرەکەی "
+"تۆ."
 
 msgctxt "[\"error\"][\"DOWN-UnknownError\"]"
 msgid "Download failed because of an unknown error. We will fix this problem soon."
@@ -851,7 +861,7 @@ msgstr ""
 
 msgctxt "[\"error\"][\"DOWN-RunOutOfDevice\"]"
 msgid "Download failed, please try again in 5 minutes."
-msgstr "داگرتنەکە سەرنەکەوت، تکایە پاش 5 خولەکی تر هەوڵبدەوە."
+msgstr "داگرتنەکە سەرنەکەوت، تکایە دوای 5 خولەکی تر هەوڵبدەوە."
 
 msgctxt "[\"tip\"][\"ICON\"]"
 msgid "{0} icon"
@@ -867,11 +877,11 @@ msgstr "{0} APK"
 
 msgctxt "[\"tip\"][\"LIST_DOWN\"]"
 msgid "Download {0} latest version apk"
-msgstr ""
+msgstr "داگرتنی دوا وەشانی {0} apk"
 
 msgctxt "[\"tip\"][\"LIST_DOWN_XAPK\"]"
 msgid "Download {0} latest version xapk"
-msgstr ""
+msgstr "داگرتنی دوا وەشانی {0} xapk"
 
 msgctxt "[\"tip\"][\"VERSION_DOWN\"]"
 msgid "Download {app_name} {version_name} ({version_code}) {file_type}"
@@ -879,7 +889,7 @@ msgstr "داگرتنی {app_name} {version_name} ({version_code}) {file_type}"
 
 msgctxt "[\"tip\"][\"RATING\"]"
 msgid "{app_name} average rating {rating_average}"
-msgstr ""
+msgstr "{app_name} ڕێژەی پلەپێدان {rating_average}"
 
 msgctxt "[\"tip\"][\"QR_DOWN\"]"
 msgid "{0} QR code download"
@@ -919,11 +929,11 @@ msgstr "{0} داواکاری بۆ نوێکردنەوە"
 
 msgctxt "[\"tip\"][\"HOT_ANDROID_GAME\"]"
 msgid "hot android game apk"
-msgstr ""
+msgstr "یارییە جەماوەرییەکانی ئەندرۆید"
 
 msgctxt "[\"tip\"][\"HOT_ANDROID_APP\"]"
 msgid "hot android app apk"
-msgstr ""
+msgstr "نەرمەواڵە جەماوەرییەکانی ئەندرۆید"
 
 msgctxt "[\"tip\"][\"DOWNLOAD_APK\"]"
 msgid "Download APK"
@@ -947,23 +957,23 @@ msgstr ""
 
 msgctxt "[\"js\"][\"SIGN_VERIFY-SAFE\"]"
 msgid "safe"
-msgstr ""
+msgstr "پارێزراو"
 
 msgctxt "[\"js\"][\"SIGN_VERIFY-UNSAFE\"]"
 msgid "unsafe"
-msgstr ""
+msgstr "نەپارێزراو"
 
 msgctxt "[\"js\"][\"SIGN_VERIFY-CLICK_UPLOAD\"]"
 msgid "Click Upload APK file"
-msgstr ""
+msgstr "کرتە بکە بۆ بارکردنی پەڕگەی APK"
 
 msgctxt "[\"js\"][\"REGION_DOWN-REGION_ERROR\"]"
 msgid "Package name or region error , try again"
-msgstr ""
+msgstr "ناوی گورزە یان هەرێم هەڵەیە، دووبارەی بکەوە"
 
 msgctxt "[\"js\"][\"REGION_DOWN-INVALID_APP\"]"
 msgid "Invalid app package name,"
-msgstr ""
+msgstr "ناوی گورزەی نەرمەواڵە نادروستە،"
 
 msgctxt "[\"js\"][\"REGION_DOWN-SEARCH_RESULTS\"]"
 msgid "Check all {0} search results here."
@@ -971,31 +981,31 @@ msgstr ""
 
 msgctxt "[\"js\"][\"REGION_DOWN-DOWNLOADING\"]"
 msgid "Downloading, please wait..."
-msgstr ""
+msgstr "دادەگرێت، تکایە چاوەڕوان بە..."
 
 msgctxt "[\"js\"][\"SHOW_MORE\"]"
 msgid "Show More"
-msgstr ""
+msgstr "پیشاندانی زیاتر"
 
 msgctxt "[\"js\"][\"SHOW_LESS\"]"
 msgid "Show less"
-msgstr ""
+msgstr "پیشاندانی کەمتر"
 
 msgctxt "[\"js\"][\"LOADING\"]"
 msgid "loading..."
-msgstr ""
+msgstr "باردەکا..."
 
 msgctxt "[\"js\"][\"DOWNLOAD_APK\"]"
 msgid "Download APK"
-msgstr ""
+msgstr "داگرتنی APK"
 
 msgctxt "[\"js\"][\"UPLOADED\"]"
 msgid "Uploaded {0}%"
-msgstr ""
+msgstr "{0}% بارکراوە"
 
 msgctxt "[\"js\"][\"UPLOADING\"]"
 msgid "Uploading..."
-msgstr ""
+msgstr "باردەکا..."
 
 msgctxt "[\"js\"][\"VALIDATING\"]"
 msgid "Validating..."
@@ -1003,19 +1013,19 @@ msgstr ""
 
 msgctxt "[\"js\"][\"FILE_UPLOAD_FAILED\"]"
 msgid "File upload failed!"
-msgstr ""
+msgstr "بارکردنی پەڕگەکە سەرکەوتوو نەبوو!"
 
 msgctxt "[\"featured\"][\"2016-new-year\"]"
 msgid "2016 New Year"
-msgstr ""
+msgstr "ساڵی نوێی 2016"
 
 msgctxt "[\"featured\"][\"2015-best-android-games\"]"
 msgid "2015 Best Android Games"
-msgstr ""
+msgstr "باشترین یارییەکانی ئەندرۆید بۆ ساڵی 2015"
 
 msgctxt "[\"featured\"][\"2015-most-popular-apps\"]"
 msgid "2015 Most Popular Apps"
-msgstr ""
+msgstr "پڕ جەماوەرترین نەرمەواڵە لە 2015"
 
 msgctxt "[\"featured\"][\"editors-picks\"]"
 msgid "Editors' Picks"
@@ -1027,11 +1037,11 @@ msgstr ""
 
 msgctxt "[\"featured\"][\"editors-picks-games\"]"
 msgid "Games"
-msgstr ""
+msgstr "یارییەکان"
 
 msgctxt "[\"featured\"][\"editors-picks-apps\"]"
 msgid "Apps"
-msgstr ""
+msgstr "نەرمەواڵەکان"
 
 msgctxt "[\"featured\"][\"promotion_app_new\"]"
 msgid "Top New Free Apps"
@@ -1051,7 +1061,7 @@ msgstr ""
 
 msgctxt "[\"featured\"][\"promotion_uefa_euro_2016\"]"
 msgid "Official UEFA EURO 2016 Apps"
-msgstr ""
+msgstr "نەرمەواڵە فەرمییەکانی یۆرۆی 2016"
 
 msgctxt "[\"featured\"][\"promotion_tv\"]"
 msgid "Hot Android TV Apps"
@@ -1059,23 +1069,23 @@ msgstr ""
 
 msgctxt "[\"include\"][\"INDEX-FAQ\"]"
 msgid "www/index_faq.htm"
-msgstr ""
+msgstr "www/index_faq.htm"
 
 msgctxt "[\"meta\"][\"about.html\"][\"title\"]"
 msgid "About us"
-msgstr ""
+msgstr "دەربارەی ئێمە"
 
 msgctxt "[\"meta\"][\"about.html\"][\"keywords\"]"
 msgid "about apkpure.com, about us, about"
-msgstr ""
+msgstr "دەربارە، دەربارەی apkpure.com، دەربارەی ئێمە"
 
 msgctxt "[\"meta\"][\"about.html\"][\"description\"]"
 msgid "About APKPure Team"
-msgstr ""
+msgstr "دەربارەی دەستەی APKPure"
 
 msgctxt "[\"meta\"][\"contact-us.html\"][\"title\"]"
 msgid "Contact Us"
-msgstr ""
+msgstr "پەیوەندیمان پێوە بکە"
 
 msgctxt "[\"meta\"][\"contact-us.html\"][\"keywords\"]"
 msgid "contact apkpure.com, contact us, contact"
@@ -1087,15 +1097,15 @@ msgstr ""
 
 msgctxt "[\"meta\"][\"terms.html\"][\"title\"]"
 msgid "Terms of use"
-msgstr ""
+msgstr "مەرجەکانی بەکارهێنان"
 
 msgctxt "[\"meta\"][\"terms.html\"][\"keywords\"]"
 msgid "terms of use"
-msgstr ""
+msgstr "مەرجەکانی بەکارهێنان"
 
 msgctxt "[\"meta\"][\"terms.html\"][\"description\"]"
 msgid "APKPure Terms of use"
-msgstr ""
+msgstr "مەرجەکانی بەکارهێنانی APKPure"
 
 msgctxt "[\"meta\"][\"usb-debugging.html\"][\"title\"]"
 msgid "What is USB Debugging?"
@@ -1149,7 +1159,7 @@ msgstr ""
 
 msgctxt "[\"meta\"][\"privacy-policy.html\"][\"title\"]"
 msgid "Privacy Policy"
-msgstr ""
+msgstr "سیاسەتی پاراستنی نهێنییەکان"
 
 msgctxt "[\"meta\"][\"privacy-policy.html\"][\"keywords\"]"
 msgid "about apkpure.com, about us, about"
