@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-08-14 08:12+0000\n"
-"PO-Revision-Date: 2016-08-29 22:10+0000\n"
+"PO-Revision-Date: 2016-08-31 13:06+0000\n"
 "Last-Translator: Javad Osyan <javad.osyan@gmail.com>\n"
 "Language-Team: Persian "
 "<https://translate.apkpure.com/projects/apkpure/apkpurecom/fa/>\n"
@@ -132,7 +132,7 @@ msgstr "دریافت‌ها"
 
 msgctxt "[\"NEWEST\"]"
 msgid "Newest"
-msgstr "جدیدتر"
+msgstr "جدیدترین"
 
 msgctxt "[\"RATING\"]"
 msgid "Rating"
@@ -156,7 +156,7 @@ msgstr "نمایش کمتر"
 
 msgctxt "[\"HAVE_PRODUCTS\"]"
 msgid "have {0} products"
-msgstr "{0} محصول دارد"
+msgstr "دارای {0} محصول است"
 
 msgctxt "[\"DEVELOPER\"]"
 msgid "Developer"
@@ -220,11 +220,11 @@ msgstr "مشابه یا مرتبط"
 
 msgctxt "[\"INDEX-TITLE\"]"
 msgid "Download free Android Games and Android Apps."
-msgstr "دریافت بازی‌های اندرویدی و برنامه‌های اندرویدی رایگان."
+msgstr "دریافت بازی‌های اندروید و برنامه‌های اندروید رایگان."
 
 msgctxt "[\"INDEX-MOBILE_TITLE\"]"
 msgid "Download free Android Games and Apps."
-msgstr "دریافت برنامه‌ها و بازی‌های اندرویدی رایگان."
+msgstr "دریافت برنامه‌ها و بازی‌های اندروید رایگان."
 
 msgctxt "[\"INDEX-HOW_TO_DOWNLOAD\"]"
 msgid "How to download apk files?"
@@ -269,11 +269,11 @@ msgstr "تأییدیه گرفته شد"
 msgctxt "[\"DETAIL-XAPK_SHORT_DES\"]"
 msgid "XAPK is APK with OBB data, Click to get XAPK Installer"
 msgstr ""
-"XAPK همان APK است همراه با دیتای OBB، برای دریافت نصب‌کننده XAPK کلیک کنید"
+"XAPK همان APK است همراه با دیتای OBB، برای گرفتن نصب‌کننده XAPK کلیک کنید"
 
 msgctxt "[\"DETAIL-MOBILE_XAPK_SHORT_DES\"]"
 msgid "Click to get XAPK Installer"
-msgstr "برای دریافت نصب‌کننده XAPK کلیک کنید"
+msgstr "برای گرفتن نصب‌کننده XAPK کلیک کنید"
 
 msgctxt "[\"DETAIL-CATEGORY\"]"
 msgid "Category"
@@ -289,7 +289,7 @@ msgstr "تاریخ انتشار"
 
 msgctxt "[\"DETAIL-GET_IT_ON\"]"
 msgid "Get it on"
-msgstr "از اینجا دریافت کنید"
+msgstr "از اینجا بگیرید"
 
 msgctxt "[\"DETAIL-REQUIREMENTS\"]"
 msgid "Requirements"
@@ -325,7 +325,7 @@ msgstr "ویرایش"
 
 msgctxt "[\"DETAIL-UPDATE_ON\"]"
 msgid "Update on"
-msgstr "بروزرسانی از"
+msgstr "بروزرسانی از روی"
 
 msgctxt "[\"DETAIL-SIGNATURE\"]"
 msgid "Signature"
@@ -345,7 +345,7 @@ msgstr "شا-۱ فایل XAPK"
 
 msgctxt "[\"DETAIL-WHATS_NEW\"]"
 msgid "What's new"
-msgstr "چیزهای جدید"
+msgstr "تغییرات جدید"
 
 msgctxt "[\"DETAIL-VERSION_HISTORY\"]"
 msgid "Version History"
@@ -369,11 +369,11 @@ msgstr "درخواست بروزرسانی"
 
 msgctxt "[\"DETAIL-RATING\"]"
 msgid "{votes} votes, average: {rating_average} out of {rating_best}"
-msgstr "{آرا} آرا, متوسط: {رتبه_متوسط} از حد گذشتن {رتبه_بهترین}"
+msgstr "{آرا} آرا, حد وسط: {رتبه_حد وسط} خارج از {رتبه_بهترین}"
 
 msgctxt "[\"DETAIL-MORE_DEVELOPER\"]"
 msgid "Get more from {0}"
-msgstr "دریافت بیشتر از {0}"
+msgstr "از {0} بیشتر بگیرید"
 
 msgctxt "[\"DETAIL-REMOVED\"]"
 msgid "Removed"
@@ -401,11 +401,11 @@ msgstr "ترجمه"
 
 msgctxt "[\"DETAIL-GP_DOWNLOAD\"]"
 msgid "Install on Google Play"
-msgstr "نصب از گوگل‌پلی"
+msgstr "نصب از روی گوگل‌پلی"
 
 msgctxt "[\"DETAIL-ITUNE_DOWNLOAD\"]"
 msgid "Install on iTunes"
-msgstr "نصب از آیتونز"
+msgstr "نصب از روی آیتونز"
 
 msgctxt "[\"DETAIL-MORE_DOWNLOAD\"]"
 msgid "More Download Locations:"
@@ -413,12 +413,12 @@ msgstr "مکان‌های دریافت بیشتر:"
 
 msgctxt "[\"DETAIL-DELETED_COPYRIGHT_GOOGLE_PLAY_URL\"]"
 msgid "Download on Google Play"
-msgstr "دریافت از گوگل‌پلی"
+msgstr "دریافت از روی گوگل‌پلی"
 
 msgctxt "[\"DETAIL-DELETED_COPYRIGHT_GOOGLE_PLAY_DES\"]"
 msgid "{app_name} All rights reserved ©2016 {developer}. {developer} and the {developer} logo are trademarks of {developer} in the U.S. and/or other countries.All other trademarks are the property of their respective owners."
 msgstr ""
-"{app_name} همه حقوق محفوظ است ©2016 {توسعه دهنده}. {توسعه دهنده} و {توسعه "
+"{app_name} همه حقوق محفوظ است ©۲۰۱۶ {توسعه دهنده}. {توسعه دهنده} و {توسعه "
 "دهنده} نشان و علائم تجاری {توسعه دهنده} در ایالات متحده و/یا سایر کشورها.همه "
 "علائم تجاری تعیین شده دارایی صاحبان مربوطه می باشند."
 
@@ -444,16 +444,16 @@ msgstr "چگونگی نصب فایل APK / XAPK"
 
 msgctxt "[\"REGION_DOWN-TITLE\"]"
 msgid "Region free APK download"
-msgstr "دریافت APK منطقه آزاد"
+msgstr "دریافت APK بدون قفل منطقه‌ای"
 
 msgctxt "[\"REGION_DOWN-DES\"]"
 msgid "- Download your favorite Android Apps with APK Downloader (Free Apps Only).<br>- Your download will begin automatically after you paste a package id and click the download button.<br>- Download failed? Please manually change country setting and try again.<br>- Want to tell us more about your problems? <a style='color:#FFFF00' href='/contact-us.html'>Contact us here</a>"
 msgstr ""
-"- دریافت برنامه‌های اندرویدی محبوب با APK Downloader (فقط برای برنامه‌های "
-"رایگان).<br>- دریافت بصورت خودکار بعد از قرار دادن آی دی برنامه و انتخاب "
-"کلید دریافت آغاز میشود.<br>- دریافت نشد؟ لطفا بصورت دستی تنظیمات کشور را "
-"تغییر داده و دوباره اقدام کنید.<br>- میخواهید درباره مشکلتان به ما خبر دهید؟<"
-"a style='color:#FFFF00' href='/contact-us.html'>از اینجا با ما تماس "
+"- دریافت برنامه‌های اندروید محبوب با دریافت‌کننده APK (فقط برای برنامه‌های "
+"رایگان).<br>- دریافت به‌صورت خودکار بعد از قرار دادن آی‌دی برنامه و انتخاب "
+"کلید دریافت آغاز می‌شود.<br>- دریافت نشد؟ لطفا به‌صورت دستی تنظیمات کشور را "
+"تغییر داده و دوباره اقدام کنید.<br>- می‌خواهید درباره مشکلتان به ما خبر "
+"دهید؟<a style='color:#FFFF00' href='/contact-us.html'>از اینجا با ما تماس "
 "بگیرید</a>"
 
 msgctxt "[\"REGION_DOWN-PLACEHOLDER\"]"
@@ -467,7 +467,7 @@ msgstr "جستجو"
 
 msgctxt "[\"REGION_DOWN-COUNTRY_NAME\"]"
 msgid "Country name or Region code"
-msgstr "اسم کشور یا کد کشور"
+msgstr "اسم کشور یا کد منطقه"
 
 msgctxt "[\"REGION_DOWN-MOBILE_TITLE\"]"
 msgid "APK Downloader"
@@ -496,8 +496,8 @@ msgstr "حداکثر اندازه فایل"
 msgctxt "[\"SIGN_VERIFY-DES\"]"
 msgid "APK Signature verification will verify Android app package signature to keep Android users away from potentially harmful APK files before APK installing."
 msgstr ""
-"تائیدیه امضای APK امضای پکیج برنامه اندرویدی را بررسی می‌کند تا کاربران "
-"آندروید را قبل از نصب از فایل‌های APK کاملا مضر حفظ کند."
+"تائیدیه امضا APK می‌خواهد امضا پکیج برنامه اندروید را بررسی کند تا کاربران "
+"اندروید را قبل از نصب APK از فایل‌های APK کاملا مضر دور نگه‌دارد."
 
 msgctxt "[\"SIGN_VERIFY-PACKAGE_NAME\"]"
 msgid "Package Name"
@@ -529,7 +529,7 @@ msgstr "هیچ نتیجه‌ای پیدا نشد؟ با جستجوی پیشرف�
 
 msgctxt "[\"SEARCH-SELECT_REGION\"]"
 msgid "Select a region you want to search with"
-msgstr "یک کشور که می‌خواهید با آن جستجو کنید انتخاب نمایید"
+msgstr "منطقه‌ای که می‌خواهید با آن جستجو کنید انتخاب نمایید"
 
 msgctxt "[\"SEARCH-ABOUT_RESULTS\"]"
 msgid "About {0} results"
@@ -557,7 +557,7 @@ msgstr "جستجوی APK"
 
 msgctxt "[\"404-OOPS\"]"
 msgid "OOPS!,"
-msgstr "آخ!,"
+msgstr "اوخ!,"
 
 msgctxt "[\"404-Error_404\"]"
 msgid "Error 404!"
@@ -571,7 +571,7 @@ msgstr ""
 
 msgctxt "[\"COPYRIGHT\"]"
 msgid "Copyright © 2014-2016 APKPure. All rights reserved."
-msgstr "کپی‌رایت © ۲۰۱۴-۲۰۱۶ APKPure. همه حقوق محفوظ است."
+msgstr "حق‌تکثیر © ۲۰۱۴-۲۰۱۶ APKPure. همه حقوق محفوظ است."
 
 msgctxt "[\"COPYRIGHT_MOBILE\"]"
 msgid "APKPure.com © 2014-2016"
@@ -595,7 +595,7 @@ msgstr "دریافت‌های APK"
 
 msgctxt "[\"FOOTER-APK_DOWNLOAD\"]"
 msgid "APK Downloader (Region free)"
-msgstr "دریافت‌کننده APK (منطقه آزاد)"
+msgstr "دریافت‌کننده APK (بدون قفل منطقه‌ای)"
 
 msgctxt "[\"FOOTER-APK_INSTALL\"]"
 msgid "APK Install"
@@ -615,11 +615,11 @@ msgstr "سیاست حفاظت از حریم خصوصی"
 
 msgctxt "[\"FOOTER-DMCA\"]"
 msgid "DMCA Disclaimer"
-msgstr "DMCA سلب مسئولیت"
+msgstr "سلب مسئولیت DMCA"
 
 msgctxt "[\"FOOTER-DMCA_TITLE\"]"
 msgid "DMCA Disclaimer"
-msgstr "DMCA سلب مسئولیت"
+msgstr "سلب مسئولیت DMCA"
 
 msgctxt "[\"FOOTER-TERM_OF_USE\"]"
 msgid "Term of Use"
@@ -683,7 +683,7 @@ msgstr "کمک به ترجمه APKPure"
 
 msgctxt "[\"FOOTER-DEVELOPER\"]"
 msgid "Submit Your App"
-msgstr "برنامه خود را ارسال کنید"
+msgstr "برنامه خود را ارائه کنید"
 
 msgctxt "[\"FOOTER-XAPK\"]"
 msgid "XAPK"
@@ -706,19 +706,20 @@ msgstr ""
 msgctxt "[\"MARKET-INDEX_SHORT_DES_TITLE\"]"
 msgid "Try APKPure Mobile app, to install, manage and update your Android apps."
 msgstr ""
-"برنامه موبایلی APKPure, برای نصب, مدیریت و بروزرسانی برنامه‌های اندرویدی‌تان."
+"برنامه موبایلی APKPure را امتحان کنید, برای نصب, مدیریت و بروزرسانی برنامه‌"
+"های اندرویدتان."
 
 msgctxt "[\"MARKET-DETAIL_APK_SHORT_DES\"]"
 msgid "Faster apks download and update on APKPure App"
-msgstr "دریافت سریع‌تر فایل‌های apk و  بروزرسانی روی برنامه APKPure"
+msgstr "دریافت و بروزرسانی سریع‌تر apk ها از روی برنامه APKPure"
 
 msgctxt "[\"MARKET-DETAIL_APK_SHORT_DES_MOBILE\"]"
 msgid "Download and update on APKPure App"
-msgstr "دریافت و بروزرسانی روی برنامه APKPure"
+msgstr "دریافت و بروزرسانی از روی برنامه APKPure"
 
 msgctxt "[\"MARKET-DETAIL_APK_SHORT_DES_TITLE\"]"
 msgid "Faster apks download and update on APKPure"
-msgstr "دریافت سریع‌تر apk ها و بروزرسانی روی برنامه APKPure"
+msgstr "دریافت و بروزرسانی سریع‌تر apk ها از روی برنامه APKPure"
 
 msgctxt "[\"MARKET-DETAIL_XAPK_SHORT_DES\"]"
 msgid "Install and update XAPK with APKPure App"
@@ -726,7 +727,7 @@ msgstr "نصب و بروزرسانی XAPK با برنامه APKPure"
 
 msgctxt "[\"MARKET-DETAIL_XAPK_SHORT_DES_MOBILE\"]"
 msgid "Click to get XAPK Installer"
-msgstr "برای دریافت نصب‌کننده XAPK کلیک کنید"
+msgstr "برای گرفتن نصب‌کننده XAPK کلیک کنید"
 
 msgctxt "[\"MARKET-DETAIL_XAPK_SHORT_DES_TITLE\"]"
 msgid "Install and update XAPK with APKPure App"
@@ -747,31 +748,31 @@ msgstr "برنامه APKPure"
 msgctxt "[\"MARKET-BOTTOM_BANNER_DES\"]"
 msgid "Try APKPure App - Download, update and install apks on your Android."
 msgstr ""
-"برنامه APKPure را امتحان کنید - دریافت, بروزرسانی و نصب apk روی اندرویدتان."
+"برنامه APKPure را امتحان کنید - دریافت, بروزرسانی و نصب apk ها روی "
+"اندرویدتان."
 
 msgctxt "[\"MARKET-BOTTOM_BANNER_DETAIL_APK_DES\"]"
 msgid "Using APKPure App to upgrade <strong>{0}</strong>, fast, free and save your internet data."
 msgstr ""
-"برای ارتقا دادن از APKpure استفاده کنید <strong>{0}</strong>، آسان، رایگان و "
+"برای ارتقا از APKpure استفاده کنید <strong>{0}</strong>، آسان، رایگان و "
 "ذخیره حجم اینترنت."
 
 msgctxt "[\"MARKET-BOTTOM_BANNER_DETAIL_APK_DES_TITLE\"]"
 msgid "Using APKPure App to upgrade {0}, fast, free and save your internet data."
 msgstr ""
-"برای ارتقا دادن از APKpure استفاده کنید {0}، آسان، رایگان و ذخیره حجم "
-"اینترنت."
+"برای ارتقا از APKpure استفاده کنید {0}، آسان، رایگان و ذخیره حجم اینترنت."
 
 msgctxt "[\"MARKET-BOTTOM_BANNER_DETAIL_XAPK_DES\"]"
 msgid "Using APKPure App to upgrade <strong>{0}</strong>, install xapk, fast, free and save your internet data."
 msgstr ""
-"برای ارتقا دادن از APKpure استفاده کنید <strong>{0}</strong>، نصب xapk ,آسان،"
-" رایگان و ذخیره حجم اینترنت."
+"برای ارتقا از APKpure استفاده کنید <strong>{0}</strong>، نصب xapk ,آسان، "
+"رایگان و ذخیره حجم اینترنت."
 
 msgctxt "[\"MARKET-BOTTOM_BANNER_DETAIL_XAPK_DES_TITLE\"]"
 msgid "Using APKPure App to upgrade {0}, install xapk, fast, free and save your internet data."
 msgstr ""
-"برای ارتقا دادن از APKpure استفاده کنید <strong>{0}</strong>، نصب xapk, آسان،"
-" رایگان و ذخیره حجم اینترنت."
+"برای ارتقا از APKpure استفاده کنید <strong>{0}</strong>، نصب xapk, آسان، "
+"رایگان و ذخیره حجم اینترنت."
 
 msgctxt "[\"MARKET-BOTTOM_BANNER_DOWNLOAD_BTN\"]"
 msgid "Download APP"
@@ -827,7 +828,7 @@ msgstr "سایر نقاط دنیا"
 
 msgctxt "[\"ERROR-OOPS\"]"
 msgid "OOPS!,"
-msgstr "آخ!،"
+msgstr "اوخ!،"
 
 msgctxt "[\"ERROR-SUBTITLE\"]"
 msgid "You can visit the following Games and Apps instead"
@@ -836,8 +837,7 @@ msgstr "شما می‌توانید به‌جای آن از بازی‌ها و ب
 msgctxt "[\"error\"][\"DOWN-ItemNotFree\"]"
 msgid "Sorry, paid apps are not available to download with our APK Download Service."
 msgstr ""
-"متاسفیم، برنامه‌های خریدنی با سرویس دریافت‌کننده APK شما قابل دریافت نمی "
-"باشد."
+"متاسفیم، برنامه‌های خریدنی با سرویس دریافت‌کننده APK ما قابل دریافت نمی باشد."
 
 msgctxt "[\"error\"][\"DOWN-ItemNotFound\"]"
 msgid "Sorry, download failed, the APK cannot be found."
@@ -845,11 +845,11 @@ msgstr "متاسفیم، دریافت نشد، APK پیدا نشد."
 
 msgctxt "[\"error\"][\"DOWN-LimitedRegion\"]"
 msgid "Oops! Change your region and try download again."
-msgstr "آخ! منطقه خود را عوض کرده و دوباره برای دریافت تلاش کنید."
+msgstr "اوخ! منطقه خود را عوض کرده و دوباره برای دریافت تلاش کنید."
 
 msgctxt "[\"error\"][\"DOWN-LimitedDevice\"]"
 msgid "Sorry, download failed, the APK does not support our device."
-msgstr "متاسفیم، دریافت نشد، دستگاه شما این APK را پشتیبانی نمی‌کند."
+msgstr "متاسفیم، دریافت نشد، APK دستگاه ما را پشتیبانی نمی‌کند."
 
 msgctxt "[\"error\"][\"DOWN-UnknownError\"]"
 msgid "Download failed because of an unknown error. We will fix this problem soon."
@@ -865,7 +865,7 @@ msgstr ""
 
 msgctxt "[\"error\"][\"DOWN-PreRegister\"]"
 msgid "It's a Pre-registration App, you can't download."
-msgstr "این برنامه در مرحله پیش-ثبت است، شما نمی‌توانید آن‌را دریافت کنید."
+msgstr "این برنامه در مرحله پیش-ثبت‌نام است، شما نمی‌توانید آن‌را دریافت کنید."
 
 msgctxt "[\"error\"][\"DOWN-RunOutOfDevice\"]"
 msgid "Download failed, please try again in 5 minutes."
@@ -897,7 +897,7 @@ msgstr "دریافت {برنامه_نام} {ویرایش_نام} ({ویرایش_
 
 msgctxt "[\"tip\"][\"RATING\"]"
 msgid "{app_name} average rating {rating_average}"
-msgstr "{برنامه_نام} رتبه‌بندی متوسط {رتبه‌بندی_متوسط}"
+msgstr "{برنامه_نام} رتبه‌بندی حد وسط {رتبه‌بندی_حد وسط}"
 
 msgctxt "[\"tip\"][\"QR_DOWN\"]"
 msgid "{0} QR code download"
@@ -909,7 +909,7 @@ msgstr "{0} امنیت تائید شد"
 
 msgctxt "[\"tip\"][\"SCREEN_POSTER\"]"
 msgid "{0} poster"
-msgstr "{0} پوستر"
+msgstr "{0} آگهی"
 
 msgctxt "[\"tip\"][\"SCREEN\"]"
 msgid "{0} apk screenshot"
@@ -925,11 +925,11 @@ msgstr "دریافت بیشتر {0} برنامه"
 
 msgctxt "[\"tip\"][\"GET_IT_ON_GOOGLE_PLAY\"]"
 msgid "Get {0} on Google Play"
-msgstr "دریافت {0} بر گوگل‌پلی"
+msgstr "گرفتن {0} از روی گوگل‌پلی"
 
 msgctxt "[\"tip\"][\"GET_IT_ON_OTHER\"]"
 msgid "Get {app_name} on {source_name}"
-msgstr "دریافت {برنامه_نام} بر {منبع_نام}"
+msgstr "گرفتن {برنامه_نام} روی {منبع_نام}"
 
 msgctxt "[\"tip\"][\"REQUEST_UPDATE\"]"
 msgid "Request {0} Update"
@@ -937,11 +937,11 @@ msgstr "درخواست {0} بروزرسانی"
 
 msgctxt "[\"tip\"][\"HOT_ANDROID_GAME\"]"
 msgid "hot android game apk"
-msgstr "بازی‌های داغ اندرویدی apk"
+msgstr "بازی‌های داغ اندروید apk"
 
 msgctxt "[\"tip\"][\"HOT_ANDROID_APP\"]"
 msgid "hot android app apk"
-msgstr "برنامه‌های داغ اندرویدی apk"
+msgstr "برنامه‌های داغ اندروید apk"
 
 msgctxt "[\"tip\"][\"DOWNLOAD_APK\"]"
 msgid "Download APK"
@@ -949,7 +949,7 @@ msgstr "دریافت APK"
 
 msgctxt "[\"js\"][\"SIGN_VERIFY-OFFICIAL\"]"
 msgid "[Official] This {0} APK is the unmodified official version."
-msgstr "[رسمی است] این {0} apk ویرایش رسمی اصلاح نشده می‌باشد."
+msgstr "[رسمی] این {0} apk ویرایش رسمی اصلاح نشده می‌باشد."
 
 msgctxt "[\"js\"][\"SIGN_VERIFY-NOT_TRUSTED\"]"
 msgid "[Not Trusted] This {0} APK is a modified version, we don't recommend installing it."
@@ -963,7 +963,7 @@ msgstr "خطای فایل APK"
 
 msgctxt "[\"js\"][\"SIGN_VERIFY-VALID\"]"
 msgid "The uploaded file is not a valid Android application."
-msgstr "فایل بارگذاری شده یک برنامه اندرویدی معتبر نیست."
+msgstr "فایل بارگذاری شده یک برنامه اندروید معتبر نیست."
 
 msgctxt "[\"js\"][\"SIGN_VERIFY-SAFE\"]"
 msgid "safe"
@@ -1031,11 +1031,11 @@ msgstr "سال نو ۲۰۱۶"
 
 msgctxt "[\"featured\"][\"2015-best-android-games\"]"
 msgid "2015 Best Android Games"
-msgstr "بهترین بازی‌های اندرویدی ۲۰۱۵"
+msgstr "بهترین بازی‌های اندروید ۲۰۱۵"
 
 msgctxt "[\"featured\"][\"2015-most-popular-apps\"]"
 msgid "2015 Most Popular Apps"
-msgstr "محبوب‌ترین برنامه‌های اندرویدی ۲۰۱۵"
+msgstr "محبوب‌ترین برنامه‌های اندروید ۲۰۱۵"
 
 msgctxt "[\"featured\"][\"editors-picks\"]"
 msgid "Editors' Picks"
@@ -1043,7 +1043,7 @@ msgstr "منتخب سردبیر"
 
 msgctxt "[\"featured\"][\"editors-picks-subtitle\"]"
 msgid "Top Picks for the Best Apps & Game"
-msgstr "منتخب برترین‌های بهترین‌ برنامه‌ها و بازی"
+msgstr "برترین منتخب بهترین‌ برنامه‌ها و بازی"
 
 msgctxt "[\"featured\"][\"editors-picks-games\"]"
 msgid "Games"
@@ -1075,7 +1075,7 @@ msgstr "برنامه‌های رسمی یوفا ۲۰۱۶"
 
 msgctxt "[\"featured\"][\"promotion_tv\"]"
 msgid "Hot Android TV Apps"
-msgstr "برنامه‌های داغ تلویزیون اندرویدی"
+msgstr "برنامه‌های داغ تلویزیون اندروید"
 
 msgctxt "[\"include\"][\"INDEX-FAQ\"]"
 msgid "www/index_faq.htm"
@@ -1129,25 +1129,24 @@ msgstr ""
 
 msgctxt "[\"meta\"][\"usb-debugging.html\"][\"description\"]"
 msgid "Learn how to enable USB Debugging mode on Android device"
-msgstr "آموزش چگونگی فعال کردن رفع عیب USB در دستگاه اندرویدی"
+msgstr "آموزش چگونگی فعال کردن رفع عیب USB روی دستگاه اندروید"
 
 msgctxt "[\"meta\"][\"apk-install.html\"][\"title\"]"
 msgid "Pure APK Install, best and free one click Android APK, XAPK Installer"
 msgstr ""
-"نصب‌کننده واقعی APK، بهترین و رایگان‌ترین نصب‌کننده APK و XAPK اندروید فقط "
-"با یک کلیک"
+"نصب APK واقعی، بهترین و رایگان‌ترین نصب‌کننده APK, XAPK اندروید با یک کلیک"
 
 msgctxt "[\"meta\"][\"apk-install.html\"][\"keywords\"]"
 msgid "apk install, apk installer, xapk installer, install apk file, apk installation software, apk installer for pc"
 msgstr ""
-"نصب apk، نصب‌کننده apk، نصب‌کننده xapk، نصب فایل apk، نرم افزار نصب‌کننده "
+"نصب apk، نصب‌کننده apk، نصب‌کننده xapk، نصب فایل apk، نرم‌افزار نصب‌کننده "
 "apk، نصب‌کننده apk برای رایانه"
 
 msgctxt "[\"meta\"][\"apk-install.html\"][\"description\"]"
 msgid "With Pure APK Install, you are allowed to install Android APK, XAPK file for any Android phones and tablets by one click."
 msgstr ""
-"با یک نصب‌کننده واقعی APK، شما مجازید تا برای هر گوشی یا تبلت اندرویدی، فایل "
-"APK یا XAPK اندرویدی را فقط با یک کلیک نصب کنید."
+"با نصب APK واقعی، شما مجاز هستید تا برای هر گوشی یا تبلت اندروید، فایل APK، "
+"XAPK اندروید را با یک کلیک نصب کنید."
 
 msgctxt "[\"meta\"][\"xapk.html\"][\"title\"]"
 msgid "What is XAPK?"
@@ -1165,18 +1164,17 @@ msgstr "نصب XAPK (APKهمراه با فایل OBB)، فایل APK در اند
 
 msgctxt "[\"meta\"][\"dmca.html\"][\"title\"]"
 msgid "APKPure DMCA Copyright Infringement Notification"
-msgstr "اطلاعیه نقض قانون کپی‌رایت DMCA APKPure"
+msgstr "اطلاعیه نقض قانون حق‌تکثیر DMCA APKPure"
 
 msgctxt "[\"meta\"][\"dmca.html\"][\"keywords\"]"
 msgid "DMCA, Copyright Infringement Notification"
-msgstr "DMCA، اطلاعیه‌ نقض قانون کپی‌رایت"
+msgstr "DMCA، اطلاعیه‌ نقض قانون حق‌تکثیر"
 
 msgctxt "[\"meta\"][\"dmca.html\"][\"description\"]"
 msgid "APKPure abides by the federal Digital Millennium Copyright Act (DMCA) by responding to notices of alleged infringement that comply with the DMCA and other applicable laws."
 msgstr ""
-"APKPure تابع قانون حق تکثیر هزارهٔ دیجیتال (DMCA) فدرال از طریق پاسخ به "
-"اعلامیه‌های اتهام تخلف در رابطه با DMCA و سایر قوانین مربوطه را رعایت "
-"می‌نماید."
+"APKPure تابع قانون حق‌تکثیر هزارهٔ دیجیتال (DMCA) فدرال از طریق پاسخ به "
+"اخطاریه اتهام تخلف در رابطه با DMCA و سایر قوانین مربوطه می‌باشد."
 
 msgctxt "[\"meta\"][\"privacy-policy.html\"][\"title\"]"
 msgid "Privacy Policy"
@@ -1208,7 +1206,7 @@ msgstr "چگونگی نصب منابع ناشناس APK در اندروید"
 
 msgctxt "[\"meta\"][\"how-to-install-apk.html\"][\"keywords\"]"
 msgid "install apk, apkpure apk, apkpure app, apps apk, unknown sources apk"
-msgstr "نصب apk، apkpure apk، برنامهapkpure، برنامه‌های apk، منابع ناشناس apk"
+msgstr "نصب apk، apk apkpure ، برنامهapkpure، برنامه‌های apk، منابع ناشناس apk"
 
 msgctxt "[\"meta\"][\"how-to-install-apk.html\"][\"description\"]"
 msgid "How to install unknown sources Apps apk to Android, install apk from APKPure."
@@ -1216,20 +1214,20 @@ msgstr "چگونگی نصب منابع ناشناس برنامه‌های apk د
 
 msgctxt "[\"meta\"][\"christmas.html\"][\"title\"]"
 msgid "Best Christmas Apps for Your Android Phones & Tablets"
-msgstr "بهترین برنامه‌های کریسمس برای گوشی‌ها و تبلت‌های اندرویدی‌تان"
+msgstr "بهترین برنامه‌های کریسمس برای گوشی‌ها و تبلت‌های اندرویدتان"
 
 msgctxt "[\"meta\"][\"christmas.html\"][\"keywords\"]"
 msgid "apps, games, christmas app, christmas game, android game"
-msgstr "برنامه‌ها، بازی‌ها، برنامه کریسمسی، بازی کریسمسی، بازی اندرویدی"
+msgstr "برنامه‌ها، بازی‌ها، برنامه کریسمس، بازی کریسمس، بازی اندروید"
 
 msgctxt "[\"meta\"][\"christmas.html\"][\"description\"]"
 msgid "APKPure Best Android games and apps for Christmas and holiday season."
-msgstr "بهترین بازی‌ها و برنامه‌های اندرویدی APKPure برای کریسمس و فصل تعطیلات."
+msgstr "بهترین بازی‌ها و برنامه‌های اندروید APKPure برای کریسمس و فصل تعطیلات."
 
 msgctxt "[\"meta\"][\"apkpure-app.html\"][\"title\"]"
 msgid "APKPure APK Downloader for Android Wear, Phones, Tablets, TV"
 msgstr ""
-"دریافت‌کننده APK APKPure برای پوشدنی‌ها، گوشی‌ها، تبلت‌ها، تلویزیون اندرویدی"
+"دریافت‌کننده APK APKPure برای پوشدنی‌ها، گوشی‌ها، تبلت‌ها، تلویزیون اندروید"
 
 msgctxt "[\"meta\"][\"apkpure-app.html\"][\"keywords\"]"
 msgid "APKPure, APKPure Downloader, android, market"
@@ -1238,19 +1236,19 @@ msgstr "APKPure, دریافت‌کننده APKPure, اندروید, فروشگا
 msgctxt "[\"meta\"][\"apkpure-app.html\"][\"description\"]"
 msgid "Download and update the latest Android™ Apps apk in APKPure, the best free Android APK Downloader online right at apkpure.com. Come and join APKPure's clan."
 msgstr ""
-"دریافت و بروز رسانی آخرین برنامه‌های اندروید™ در APKPure بهترین نصب‌کننده "
+"دریافت و بروزرسانی آخرین برنامه‌های اندروید™ در APKPure بهترین نصب‌کننده "
 "رایگان و برخط اندروید درست در apkpure.com. بیایید و در خانواده APKPure عضو "
 "شوید."
 
 msgctxt "[\"meta\"][\"developer.html\"][\"title\"]"
 msgid "Submit your Android Apps and games, corporate with APKPure"
-msgstr ""
-"برنامه‌ها و بازی‌های اندرویدی خود را منتشر کنید، با APKPure شرکت‌‌ بزرگی شوید"
+msgstr "برنامه‌ها و بازی‌های اندروید خود را ارائه کنید، با APKPure مطرح شوید"
 
 msgctxt "[\"meta\"][\"developer.html\"][\"description\"]"
 msgid "Free to play games, free to use Android apps publishing submission on APKPure.com."
 msgstr ""
-"رایگان بازی کنید، برنامه‌های خود را در APKPure.com رایگان ارسال و منتشر کنید."
+"رایگان بازی کنید، برنامه‌های خود را به‌طور رایگان روی APKPure.com ارائه و "
+"منتشر کنید."
 
 msgctxt "[\"meta\"][\"Index\"][\"title\"]"
 msgid "Download APK free online downloader | APKPure.com"
@@ -1294,7 +1292,7 @@ msgstr "{برنامه_نام} apk, {برنامه_نام} apk دریافت, {بر
 
 msgctxt "[\"meta\"][\"Details_download\"][\"description\"]"
 msgid "{app_name} {version_name} APK Download"
-msgstr "{برنامه_نام} {ویرایش_نام} APK دریافت"
+msgstr "{برنامه_نام} {ویرایش_نام} دریافت APK"
 
 msgctxt "[\"meta\"][\"Category_xapk\"][\"title\"]"
 msgid "XAPK ( apk with obb file) {0}.apk for Android download"
@@ -1308,11 +1306,11 @@ msgstr ""
 
 msgctxt "[\"meta\"][\"Category_xapk\"][\"description\"]"
 msgid "Download Android {0} XAPK, full version with obb data file."
-msgstr "دریافت اندروید {0} XAPK، ویرایش کامل همراه با فایل دیتای obb."
+msgstr "دریافت {0} XAPK اندروید، ویرایش کامل همراه با فایل دیتای obb."
 
 msgctxt "[\"meta\"][\"Category_featured\"][\"title\"]"
 msgid "Download {0} APK Android App Online - Free Pure APK Downloader"
-msgstr "دریافت {0} برنامه اندرویدی برخط APK - نصب‌کننده واقعی و رایگان APK"
+msgstr "دریافت برخط {0} برنامه اندروید APK - نصب‌کننده واقعی و رایگان APK"
 
 msgctxt "[\"meta\"][\"Category_featured\"][\"keywords\"]"
 msgid "{0}"
@@ -1324,24 +1322,24 @@ msgstr "{0}"
 
 msgctxt "[\"meta\"][\"Category_featured_editors-picks\"][\"title\"]"
 msgid "APKPure Editors' Picks for the best Android Games & Apps"
-msgstr "منتخب سردبیر APKPure برای بهترین بازی‌ها و برنامه‌های اندرویدی"
+msgstr "منتخب سردبیر APKPure برای بهترین بازی‌ها و برنامه‌های اندروید"
 
 msgctxt "[\"meta\"][\"Category_featured_editors-picks\"][\"keywords\"]"
 msgid "android apps, android games, must have android games, must have android apps, game download"
 msgstr ""
-"برنامه‌های اندرویدی، بازی‌های اندرویدی، بازی‌های اندرویدی که باید داشت، "
-"برنامه‌های اندرویدی که باید داشت، دریافت بازی"
+"برنامه‌های اندروید، بازی‌های اندروید، بازی‌های اندرویدی که باید داشت، برنامه‌"
+"های اندرویدی که باید داشت، دریافت بازی"
 
 msgctxt "[\"meta\"][\"Category_featured_editors-picks\"][\"description\"]"
 msgid "Play with millions of free apps in APKPure style on Android phones, tablets, TV ,etc. Download the best must have android games you should play 2016."
 msgstr ""
 "به سبک APKPure با میلیون‌ها برنامه رایگان روی گوشی، تبلت، تلویزیون، محصولات "
-"دیگر اندرویدی بازی کنید. بهترین بازی‌های اندرویدی که باید داشت و در سال ۲۰۱۶ "
+"دیگر اندروید بازی کنید. بهترین بازی‌های اندرویدی که باید داشت و در سال ۲۰۱۶ "
 "بازی کرد را دریافت کنید."
 
 msgctxt "[\"meta\"][\"Category_app\"][\"title\"]"
 msgid "Download {0} APK Android App Online - Free Pure APK Downloader"
-msgstr "دریافت {0} برنامه اندرویدی برخط APK - دریافت‌کننده واقعی و رایگان APK"
+msgstr "دریافت برخط {0} برنامه اندروید APK - دریافت‌کننده واقعی و رایگان APK"
 
 msgctxt "[\"meta\"][\"Category_app\"][\"keywords\"]"
 msgid "{0} apk download, free {0} download, {0} apk download, download {0} apk, {0} apk downloader, {0} android"
@@ -1352,13 +1350,13 @@ msgstr ""
 msgctxt "[\"meta\"][\"Category_app\"][\"description\"]"
 msgid "Download free and best {0}  for Android phone and tablet with online apk downloader on APKPure.com, including (tool apps, shopping apps, communication apps) and more."
 msgstr ""
-"دریافت رایگان و بهترین {0} برای گوشی و تبلت اندرویدی با دریافت‌کننده برخط "
-"apk درAPKPure.com, شامل (برنامه‌های کاربردی، برنامه‌های فروشگاهی، برنامه‌های "
-"ارتباطی) و بیشتر."
+"دریافت رایگان و بهتر {0} برای گوشی و تبلت اندروید با دریافت‌کننده برخط apk "
+"از روی APKPure.com, شامل (برنامه‌های کاربردی، برنامه‌های فروشگاهی، برنامه‌"
+"های ارتباطی) و بیشتر."
 
 msgctxt "[\"meta\"][\"Category_game\"][\"title\"]"
 msgid "Download {0} APK Android App Online - Free Pure APK Downloader"
-msgstr "دریافت {0} برنامه اندرویدی برخط APK - دریافت‌کننده واقعی و رایگان APK"
+msgstr "دریافت برخط {0} برنامه اندروید APK - دریافت‌کننده واقعی و رایگان APK"
 
 msgctxt "[\"meta\"][\"Category_game\"][\"keywords\"]"
 msgid "{0} apk download, free {0} download, download {0} apk, {0} apk downloader, {0} android, {0} app download"
@@ -1369,8 +1367,8 @@ msgstr ""
 msgctxt "[\"meta\"][\"Category_game\"][\"description\"]"
 msgid "Download free and best {0} for Android phone and tablet with online apk downloader on APKPure.com, including (driving games, shooting games, fighting games) and more."
 msgstr ""
-"دریافت رایگان و بهترین {0} برای گوشی و تبلت اندرویدی با دریافت‌کننده برخط "
-"apk درAPKPure.com, شامل (بازی‌های رانندگی، بازی‌های تیراندازی، بازی‌های "
+"دریافت رایگان و بهتر {0} برای گوشی و تبلت اندروید با دریافت‌کننده برخط apk "
+"از روی APKPure.com, شامل (بازی‌های رانندگی، بازی‌های تیراندازی، بازی‌های "
 "مبارزه‌ای) و بیشتر."
 
 msgctxt "[\"meta\"][\"FAQ\"][\"title\"]"
@@ -1397,7 +1395,7 @@ msgstr ""
 
 msgctxt "[\"meta\"][\"Developer\"][\"description\"]"
 msgid "All Apps or Games Published by \"{0}\""
-msgstr "همه برنامه‌ها یا بازی‌های منتشر شده از \"{0}\""
+msgstr "همه برنامه‌ها یا بازی‌های منتشر شده توسط \"{0}\""
 
 msgctxt "[\"meta\"][\"Search\"][\"title\"]"
 msgid "{0} search results | APKPure.com"
@@ -1438,20 +1436,20 @@ msgstr ""
 msgctxt "[\"meta\"][\"Verify\"][\"description\"]"
 msgid "APK Signature verification will verify Android app package signature to keep Android users away from potentially harmful APK files before APK installing."
 msgstr ""
-"تائیدیه امضا APK می‌خواهد امضا پکیج برنامه اندرویدی را بررسی کند تا کاربران "
-"اندرویدی را قبل از نصب فایل‌های APK کاملا مضر حفظ کند."
+"تائیدیه امضا APK می‌خواهد امضا پکیج برنامه اندروید را بررسی کند تا کاربران "
+"اندروید را قبل از نصب APK از فایل‌های APK کاملا مضر دور نگه‌دارد."
 
 msgctxt "[\"meta\"][\"Download\"][\"title\"]"
 msgid "Region free APK download daily update apps and games"
-msgstr "دریافت روزانه بروزرسانی برنامه‌ها و بازی‌های APK منطقه آزاد"
+msgstr "دریافت روزانه بروزرسانی برنامه‌ها و بازی‌های APK بدون قفل منطقه‌ای"
 
 msgctxt "[\"meta\"][\"Download\"][\"keywords\"]"
 msgid "apk download, region free apk download"
-msgstr "دریافت apk، دریافت apk منظقه آزاد"
+msgstr "دریافت apk، دریافت apk بدون قفل منطقه‌ای"
 
 msgctxt "[\"meta\"][\"Download\"][\"description\"]"
 msgid "download free apps APK for Android phone and tablet."
-msgstr "دریافت رایگان برنامه‌های APK برای گوشی وتبلت اندرویدی."
+msgstr "دریافت رایگان برنامه‌های APK برای گوشی وتبلت اندروید."
 
 msgctxt "[\"meta\"][\"Error\"][\"title\"]"
 msgid "Error"
@@ -1475,7 +1473,7 @@ msgstr "دسته‌بندی برنامه،دسته‌بندی بازی"
 
 msgctxt "[\"meta\"][\"Category\"][\"description\"]"
 msgid "Android games and apps category"
-msgstr "دسته‌بندی بازی‌ها و برنامه‌های اندرویدی"
+msgstr "دسته‌بندی بازی‌ها و برنامه‌های اندروید"
 
 msgctxt "[\"category\"][\"GAME_ACTION\"]"
 msgid "Action"
@@ -1651,4 +1649,4 @@ msgstr "آب و هوا"
 
 msgctxt "[\"category\"][\"APP_WIDGETS\"]"
 msgid "Widgets"
-msgstr "ابزارک‌ها"
+msgstr "ابزارک"
