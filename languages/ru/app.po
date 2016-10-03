@@ -1679,7 +1679,7 @@ msgstr "Контакты APKPure, чтобы начать деловое сот�
 
 msgctxt "[\"meta\"][\"report-content.html\"][\"description\"]"
 msgid ""
-msgstr "Оисание"
+msgstr "Описание"
 
 msgctxt "[\"meta\"][\"report-content.html\"][\"keywords\"]"
 msgid ""
