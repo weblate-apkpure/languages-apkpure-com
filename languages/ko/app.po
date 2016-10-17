@@ -3,22 +3,24 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-10-17 08:41+0000\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2016-10-17 09:10+0000\n"
+"Last-Translator: Sunjae Hyun <hsj106@naver.com>\n"
+"Language-Team: Korean "
+"<https://translate.apkpure.com/projects/apkpure/apkpurecom/ko/>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 2.0.0b5\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 2.9-dev\n"
 
 msgctxt "[\"NAV-GAME\"]"
 msgid "GAMES"
-msgstr ""
+msgstr "게임"
 
 msgctxt "[\"NAV-APP\"]"
 msgid "APPS"
-msgstr ""
+msgstr "앱"
 
 msgctxt "[\"NAV-XAPK\"]"
 msgid "XAPK"
@@ -26,7 +28,7 @@ msgstr ""
 
 msgctxt "[\"NAV-NEW\"]"
 msgid "NEW"
-msgstr ""
+msgstr "신규"
 
 msgctxt "[\"NAV-PRODUCTS\"]"
 msgid "PRODUCTS"
@@ -34,123 +36,131 @@ msgstr ""
 
 msgctxt "[\"NAV-NEW_GAME\"]"
 msgid "NEW GAME"
-msgstr ""
+msgstr "신규 게임"
 
 msgctxt "[\"NAV-NEW_APP\"]"
 msgid "NEW APP"
-msgstr ""
+msgstr "신규 앱"
 
+#, fuzzy
 msgctxt "[\"NAV-XAPK_GAME\"]"
 msgid "XAPK GAME"
-msgstr ""
+msgstr "XAPK 게임"
 
+#, fuzzy
 msgctxt "[\"NAV-XAPK_APP\"]"
 msgid "XAPK APP"
-msgstr ""
+msgstr "XAPK 앱"
 
+#, fuzzy
 msgctxt "[\"NAV-APK_INSTALL\"]"
 msgid "APK Install"
-msgstr ""
+msgstr "APK 설치"
 
+#, fuzzy
 msgctxt "[\"NAV-APK_DOWNLOAD\"]"
 msgid "APK Download"
-msgstr ""
+msgstr "APK 다운로드"
 
+#, fuzzy
 msgctxt "[\"NAV-APK_VERIFICATION\"]"
 msgid "APK Verification"
-msgstr ""
+msgstr "APK 서명 인증"
 
 msgctxt "[\"NAV-APKPURE_APP\"]"
 msgid "APKPure App"
-msgstr ""
+msgstr "APKPure 앱"
 
 msgctxt "[\"DOWNLOAD\"]"
 msgid "Download"
-msgstr ""
+msgstr "다운로드"
 
 msgctxt "[\"SELECT_LANGUAGE\"]"
 msgid "Select Language"
-msgstr ""
+msgstr "언어 선택"
 
 msgctxt "[\"FREE\"]"
 msgid "Free"
-msgstr ""
+msgstr "무료"
 
 msgctxt "[\"READ_MORE\"]"
 msgid "Read More"
-msgstr ""
+msgstr "더보기"
 
 msgctxt "[\"GAME\"]"
 msgid "GAME"
-msgstr ""
+msgstr "게임"
 
 msgctxt "[\"APP\"]"
 msgid "APP"
-msgstr ""
+msgstr "앱"
 
 msgctxt "[\"GAMES\"]"
 msgid "Games"
-msgstr ""
+msgstr "게임"
 
 msgctxt "[\"APPS\"]"
 msgid "Apps"
-msgstr ""
+msgstr "앱"
 
 msgctxt "[\"MORE\"]"
 msgid "More"
-msgstr ""
+msgstr "더보기"
 
 msgctxt "[\"XAPK\"]"
 msgid "XAPK"
-msgstr ""
+msgstr "XAPK"
 
 msgctxt "[\"XAPK-GAMES\"]"
 msgid "XAPK Games"
-msgstr ""
+msgstr "XAPK 게임"
 
 msgctxt "[\"XAPK-APPS\"]"
 msgid "XAPK Apps"
-msgstr ""
+msgstr "XAPK 앱"
 
 msgctxt "[\"HOME\"]"
 msgid "Home"
-msgstr ""
+msgstr "홈"
 
 msgctxt "[\"SORT_BY\"]"
 msgid "Sort by"
-msgstr ""
+msgstr "분류"
 
 msgctxt "[\"HOT\"]"
 msgid "Hot"
-msgstr ""
+msgstr "인기"
 
 msgctxt "[\"DOWNLOADS\"]"
 msgid "Downloads"
-msgstr ""
+msgstr "다운로드"
 
 msgctxt "[\"NEWEST\"]"
 msgid "Newest"
-msgstr ""
+msgstr "최신"
 
+#, fuzzy
 msgctxt "[\"RATING\"]"
 msgid "Rating"
-msgstr ""
+msgstr "순위"
 
 msgctxt "[\"CATEGORY\"]"
 msgid "Category"
-msgstr ""
+msgstr "범주"
 
 msgctxt "[\"CATEGORY_JOIN\"]"
 msgid "{app_category} {app_type}"
 msgstr ""
 
+#, fuzzy
 msgctxt "[\"SHOW_MORE\"]"
 msgid "Show More"
-msgstr ""
+msgstr "펼치기"
 
+#, fuzzy
 msgctxt "[\"SHOW_LESS\"]"
 msgid "Show less"
-msgstr ""
+msgstr "접기"
 
 msgctxt "[\"HAVE_PRODUCTS\"]"
 msgid "have {0} products"
@@ -158,7 +168,7 @@ msgstr ""
 
 msgctxt "[\"DEVELOPER\"]"
 msgid "Developer"
-msgstr ""
+msgstr "개발자"
 
 msgctxt "[\"POPULAR_GAMES_IN_LAST_HOURS\"]"
 msgid "Popular Games In Last {0} Hours"
@@ -168,121 +178,127 @@ msgctxt "[\"POPULAR_APPS_IN_LAST_HOURS\"]"
 msgid "Popular Apps In Last {0} Hours"
 msgstr ""
 
+#, fuzzy
 msgctxt "[\"POPULAR_APPS_IN_TODAY\"]"
 msgid "Popular Apps In Today"
-msgstr ""
+msgstr "일간 인기 앱"
 
+#, fuzzy
 msgctxt "[\"POPULAR_GAMES_IN_TODAY\"]"
 msgid "Popular Games In Today"
-msgstr ""
+msgstr "일간 인기 게임"
 
 msgctxt "[\"HOT_GAMES\"]"
 msgid "Hot Games"
-msgstr ""
+msgstr "인기 게임"
 
 msgctxt "[\"HOT_APPS\"]"
 msgid "Hot Apps"
-msgstr ""
+msgstr "인기 앱"
 
 msgctxt "[\"CLOSE\"]"
 msgid "Close"
-msgstr ""
+msgstr "닫기"
 
 msgctxt "[\"COMMENTS\"]"
 msgid "Comments"
-msgstr ""
+msgstr "댓글"
 
 msgctxt "[\"LATEST_UPDATE_GAMES\"]"
 msgid "Latest Update Games"
-msgstr ""
+msgstr "신규 업데이트 게임"
 
 msgctxt "[\"LATEST_UPDATE_APPS\"]"
 msgid "Latest Update Apps"
-msgstr ""
+msgstr "신규 업데이트 앱"
 
 msgctxt "[\"LATEST_UPDATE\"]"
 msgid "Latest Update"
-msgstr ""
+msgstr "신규 업데이트"
 
+#, fuzzy
 msgctxt "[\"XAPK_IS_APK_WITH_OBB_DATA\"]"
 msgid "XAPK is APK with OBB data"
-msgstr ""
+msgstr "XAPK 는 OBB 데이터를 포함한 APK 파일 입니다"
 
+#, fuzzy
 msgctxt "[\"MOST_POPULAR_IN_TODAY\"]"
 msgid "Most Popular In Today"
-msgstr ""
+msgstr "일간 최고 인기"
 
+#, fuzzy
 msgctxt "[\"SIMILAR_OR_RELATED\"]"
 msgid "Similar Or Related"
-msgstr ""
+msgstr "유사 또는 연계"
 
 msgctxt "[\"INDEX-TITLE\"]"
 msgid "Download free Android Games and Android Apps."
-msgstr ""
+msgstr "무료 안드로이드 게임과 앱을 다운받으세요."
 
 msgctxt "[\"INDEX-MOBILE_TITLE\"]"
 msgid "Download free Android Games and Apps."
-msgstr ""
+msgstr "무료 안드로이드 게임과 앱을 다운받으세요."
 
 msgctxt "[\"INDEX-HOW_TO_DOWNLOAD\"]"
 msgid "How to download apk files?"
-msgstr ""
+msgstr "어떻게 APK 파일을 다운받나요?"
 
 msgctxt "[\"INDEX-FAQ\"]"
 msgid "FAQ"
-msgstr ""
+msgstr "자주 받는 질문"
 
 msgctxt "[\"INDEX-POPULAR_CATEGORIES\"]"
 msgid "Popular categories"
-msgstr ""
+msgstr "인기 범주"
 
 msgctxt "[\"DOWNLOAD_APK\"]"
 msgid "Download APK"
-msgstr ""
+msgstr "APK 다운로드"
 
 msgctxt "[\"DETAIL-PAID_GAME\"]"
 msgid "Paid Game"
-msgstr ""
+msgstr "유료 게임"
 
 msgctxt "[\"DETAIL-PAID_APP\"]"
 msgid "Paid App"
-msgstr ""
+msgstr "유료 앱"
 
 msgctxt "[\"DETAIL-PAID_GAME_DES\"]"
 msgid "Paid games are not available to download"
-msgstr ""
+msgstr "유료 게임 다운로드는 불가능합니다"
 
 msgctxt "[\"DETAIL-PAID_APP_DES\"]"
 msgid "Paid apps are not available to download"
-msgstr ""
+msgstr "유료 앱 다운로드는 불가능합니다"
 
+#, fuzzy
 msgctxt "[\"DETAIL-WHY_SAFE\"]"
 msgid "Why we can guarantee APK 100% safe?"
-msgstr ""
+msgstr "왜 우리는 100% 안전한 APK 파일이라고 보장하나요?"
 
 msgctxt "[\"DETAIL-SAFE\"]"
 msgid "Verification passed"
-msgstr ""
+msgstr "서명 인증 통과됨"
 
 msgctxt "[\"DETAIL-XAPK_SHORT_DES\"]"
 msgid "XAPK is APK with OBB data, Click to get XAPK Installer"
-msgstr ""
+msgstr "XAPK 는 OBB 데이터를 포함한 APK 파일입니다. XAPK 인스톨러를 다운받기 위해 클릭하세요"
 
 msgctxt "[\"DETAIL-MOBILE_XAPK_SHORT_DES\"]"
 msgid "Click to get XAPK Installer"
-msgstr ""
+msgstr "XAPK 인스톨러를 다운받기 위해 클릭하세요"
 
 msgctxt "[\"DETAIL-CATEGORY\"]"
 msgid "Category"
-msgstr ""
+msgstr "범주"
 
 msgctxt "[\"DETAIL-LATEST_VERSION\"]"
 msgid "Latest Version"
-msgstr ""
+msgstr "최신 버전"
 
 msgctxt "[\"DETAIL-PUBLISH_DATE\"]"
 msgid "Publish Date"
-msgstr ""
+msgstr "업데이트 날짜"
 
 msgctxt "[\"DETAIL-GET_IT_ON\"]"
 msgid "Get it on"
@@ -290,7 +306,7 @@ msgstr ""
 
 msgctxt "[\"DETAIL-REQUIREMENTS\"]"
 msgid "Requirements"
-msgstr ""
+msgstr "요구 사항"
 
 msgctxt "[\"DETAIL-AUTHOR\"]"
 msgid "Author"
