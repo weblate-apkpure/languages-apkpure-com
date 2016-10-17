@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-09-06 12:51+0000\n"
-"PO-Revision-Date: 2016-10-13 04:40+0000\n"
-"Last-Translator: Tomasz Susajew <toso7@wp.pl>\n"
+"PO-Revision-Date: 2016-10-17 10:32+0000\n"
+"Last-Translator: Adam Podsiadlowski <panadam83@gmail.com>\n"
 "Language-Team: Polish "
 "<https://translate.apkpure.com/projects/apkpure/apkpurecom/pl/>\n"
 "Language: pl\n"
@@ -783,7 +783,7 @@ msgstr ""
 
 msgctxt "[\"MARKET-BOTTOM_BANNER_DOWNLOAD_BTN\"]"
 msgid "Download APP"
-msgstr ""
+msgstr "Pobierz aplikację"
 
 msgctxt "[\"MARKET-PROMOTION_BANNER_MOBILE1\"]"
 msgid "<p class=\"desc\">Using APKPure App to download/update this apk, faster, free and saving data!</p>"
@@ -803,31 +803,33 @@ msgstr ""
 
 msgctxt "[\"FLAG-Africa\"]"
 msgid "Africa"
-msgstr ""
+msgstr "Afryka"
 
 msgctxt "[\"FLAG-Americas\"]"
 msgid "Americas"
-msgstr ""
+msgstr "Ameryka"
 
 msgctxt "[\"FLAG-Asia\"]"
 msgid "Asia"
-msgstr ""
+msgstr "Azja"
 
 msgctxt "[\"FLAG-Europe\"]"
 msgid "Europe"
-msgstr ""
+msgstr "Europa"
 
+#, fuzzy
 msgctxt "[\"FLAG-Oceania\"]"
 msgid "Oceania"
-msgstr ""
+msgstr "Oceania"
 
 msgctxt "[\"FLAG-Rest_of_the_world\"]"
 msgid "Rest of the world"
 msgstr ""
 
+#, fuzzy
 msgctxt "[\"ERROR-OOPS\"]"
 msgid "OOPS!,"
-msgstr ""
+msgstr "OOPS!,"
 
 msgctxt "[\"ERROR-SUBTITLE\"]"
 msgid "You can visit the following Games and Apps instead"
@@ -1419,191 +1421,191 @@ msgstr ""
 
 msgctxt "[\"meta\"][\"Download\"][\"description\"]"
 msgid "download free apps APK for Android phone and tablet."
-msgstr ""
+msgstr "Pobieraj płatne aplikacje za darmo na telefon i tablet z Androidem."
 
 msgctxt "[\"meta\"][\"Error\"][\"title\"]"
 msgid "Error"
-msgstr ""
+msgstr "Błąd"
 
 msgctxt "[\"meta\"][\"Error\"][\"keywords\"]"
 msgid "error"
-msgstr ""
+msgstr "Błąd"
 
 msgctxt "[\"meta\"][\"Error\"][\"description\"]"
 msgid "error"
-msgstr ""
+msgstr "Błąd"
 
 msgctxt "[\"meta\"][\"Category\"][\"title\"]"
 msgid "Browse Category | APKPure.com"
-msgstr ""
+msgstr "Przeglądaj kategorie | APKPure.com"
 
 msgctxt "[\"meta\"][\"Category\"][\"keywords\"]"
 msgid "app category,game category"
-msgstr ""
+msgstr "Kategoria aplikacji,kategoria gier"
 
 msgctxt "[\"meta\"][\"Category\"][\"description\"]"
 msgid "Android games and apps category"
-msgstr ""
+msgstr "Kategorie gier i aplikacji androida"
 
 msgctxt "[\"category\"][\"GAME_ACTION\"]"
 msgid "Action"
-msgstr ""
+msgstr "Akcja"
 
 msgctxt "[\"category\"][\"GAME_ADVENTURE\"]"
 msgid "Adventure"
-msgstr ""
+msgstr "Przygodowe"
 
 msgctxt "[\"category\"][\"GAME_ARCADE\"]"
 msgid "Arcade"
-msgstr ""
+msgstr "Zręcznościowe"
 
 msgctxt "[\"category\"][\"GAME_BOARD\"]"
 msgid "Board"
-msgstr ""
+msgstr "Planszowe"
 
 msgctxt "[\"category\"][\"GAME_CARD\"]"
 msgid "Card"
-msgstr ""
+msgstr "Karciane"
 
 msgctxt "[\"category\"][\"GAME_CASINO\"]"
 msgid "Casino"
-msgstr ""
+msgstr "Kasyno"
 
 msgctxt "[\"category\"][\"GAME_CASUAL\"]"
 msgid "Casual"
-msgstr ""
+msgstr "Quizy"
 
 msgctxt "[\"category\"][\"GAME_EDUCATIONAL\"]"
 msgid "Educational"
-msgstr ""
+msgstr "Edukacyjna"
 
 msgctxt "[\"category\"][\"GAME_FAMILY\"]"
 msgid "Family"
-msgstr ""
+msgstr "Rodzinne"
 
 msgctxt "[\"category\"][\"GAME_MUSIC\"]"
 msgid "Music"
-msgstr ""
+msgstr "Muzyczne"
 
 msgctxt "[\"category\"][\"GAME_PUZZLE\"]"
 msgid "Puzzle"
-msgstr ""
+msgstr "Układanki"
 
 msgctxt "[\"category\"][\"GAME_RACING\"]"
 msgid "Racing"
-msgstr ""
+msgstr "Wyścigi"
 
 msgctxt "[\"category\"][\"GAME_ROLE_PLAYING\"]"
 msgid "Role Playing"
-msgstr ""
+msgstr "Fabularne"
 
 msgctxt "[\"category\"][\"GAME_SIMULATION\"]"
 msgid "Simulation"
-msgstr ""
+msgstr "Symulatory"
 
 msgctxt "[\"category\"][\"GAME_SPORTS\"]"
 msgid "Sports"
-msgstr ""
+msgstr "Sport"
 
 msgctxt "[\"category\"][\"GAME_STRATEGY\"]"
 msgid "Strategy"
-msgstr ""
+msgstr "Strategia"
 
 msgctxt "[\"category\"][\"GAME_TRIVIA\"]"
 msgid "Trivia"
-msgstr ""
+msgstr "Quizy"
 
 msgctxt "[\"category\"][\"GAME_WORD\"]"
 msgid "Word"
-msgstr ""
+msgstr "Świat"
 
 msgctxt "[\"category\"][\"BOOKS_AND_REFERENCE\"]"
 msgid "Books & Reference"
-msgstr ""
+msgstr "Książki i referencje"
 
 msgctxt "[\"category\"][\"BUSINESS\"]"
 msgid "Business"
-msgstr ""
+msgstr "Biznes"
 
 msgctxt "[\"category\"][\"COMICS\"]"
 msgid "Comics"
-msgstr ""
+msgstr "Śmieszne"
 
 msgctxt "[\"category\"][\"COMMUNICATION\"]"
 msgid "Communication"
-msgstr ""
+msgstr "Komunikacja"
 
 msgctxt "[\"category\"][\"EDUCATION\"]"
 msgid "Education"
-msgstr ""
+msgstr "Nauka i edukacja"
 
 msgctxt "[\"category\"][\"ENTERTAINMENT\"]"
 msgid "Entertainment"
-msgstr ""
+msgstr "Rozrywka"
 
 msgctxt "[\"category\"][\"FINANCE\"]"
 msgid "Finance"
-msgstr ""
+msgstr "Finanse"
 
 msgctxt "[\"category\"][\"HEALTH_AND_FITNESS\"]"
 msgid "Health & Fitness"
-msgstr ""
+msgstr "Sport i zdrowie"
 
 msgctxt "[\"category\"][\"LIBRARIES_AND_DEMO\"]"
 msgid "Libraries & Demo"
-msgstr ""
+msgstr "Biblioteki i wersję demo"
 
 msgctxt "[\"category\"][\"LIFESTYLE\"]"
 msgid "Lifestyle"
-msgstr ""
+msgstr "Styl źycia"
 
 msgctxt "[\"category\"][\"APP_WALLPAPER\"]"
 msgid "Live Wallpaper"
-msgstr ""
+msgstr "Ruchome obrazy"
 
 msgctxt "[\"category\"][\"MEDIA_AND_VIDEO\"]"
 msgid "Media & Video"
-msgstr ""
+msgstr "Edytory i playery video"
 
 msgctxt "[\"category\"][\"MEDICAL\"]"
 msgid "Medical"
-msgstr ""
+msgstr "Medycyna"
 
 msgctxt "[\"category\"][\"MUSIC_AND_AUDIO\"]"
 msgid "Music & Audio"
-msgstr ""
+msgstr "Muzyka i dźwięk"
 
 msgctxt "[\"category\"][\"NEWS_AND_MAGAZINES\"]"
 msgid "News & Magazines"
-msgstr ""
+msgstr "Wiadomości i prasa"
 
 msgctxt "[\"category\"][\"PERSONALIZATION\"]"
 msgid "Personalization"
-msgstr ""
+msgstr "Personalizacja"
 
 msgctxt "[\"category\"][\"PHOTOGRAPHY\"]"
 msgid "Photography"
-msgstr ""
+msgstr "Fotografia"
 
 msgctxt "[\"category\"][\"PRODUCTIVITY\"]"
 msgid "Productivity"
-msgstr ""
+msgstr "Produktywność"
 
 msgctxt "[\"category\"][\"SHOPPING\"]"
 msgid "Shopping"
-msgstr ""
+msgstr "Zakupy"
 
 msgctxt "[\"category\"][\"SOCIAL\"]"
 msgid "Social"
-msgstr ""
+msgstr "Społeczność"
 
 msgctxt "[\"category\"][\"SPORTS\"]"
 msgid "Sports"
-msgstr ""
+msgstr "Sport"
 
 msgctxt "[\"category\"][\"TOOLS\"]"
 msgid "Tools"
-msgstr ""
+msgstr "Narzędzia"
 
 msgctxt "[\"category\"][\"TRANSPORTATION\"]"
 msgid "Transportation"
