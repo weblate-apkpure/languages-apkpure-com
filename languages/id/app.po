@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-03-22 06:53+0000\n"
-"PO-Revision-Date: 2016-09-20 06:50+0000\n"
-"Last-Translator: Rommy Kristansyah <kristansyah@gmail.com>\n"
+"PO-Revision-Date: 2016-10-26 11:57+0000\n"
+"Last-Translator: Krishna Vandanu (kivandanu) <kivandanu@gmail.com>\n"
 "Language-Team: Indonesian "
 "<https://translate.apkpure.com/projects/apkpure/apkpurecom/id/>\n"
 "Language: id\n"
@@ -26,10 +26,12 @@ msgctxt "[\"NAV-XAPK\"]"
 msgid "XAPK"
 msgstr "XAPK"
 
+#, fuzzy
 msgctxt "[\"NAV-NEW\"]"
 msgid "NEW"
 msgstr "BARU"
 
+#, fuzzy
 msgctxt "[\"NAV-PRODUCTS\"]"
 msgid "PRODUCTS"
 msgstr "PRODUK"
@@ -50,14 +52,17 @@ msgctxt "[\"NAV-XAPK_APP\"]"
 msgid "XAPK APP"
 msgstr "APLIKASI XAPK"
 
+#, fuzzy
 msgctxt "[\"NAV-APK_INSTALL\"]"
 msgid "APK Install"
 msgstr "Pasang APK"
 
+#, fuzzy
 msgctxt "[\"NAV-APK_DOWNLOAD\"]"
 msgid "APK Download"
 msgstr "Unduh APK"
 
+#, fuzzy
 msgctxt "[\"NAV-APK_VERIFICATION\"]"
 msgid "APK Verification"
 msgstr "Verifikasi APK"
@@ -66,14 +71,17 @@ msgctxt "[\"NAV-APKPURE_APP\"]"
 msgid "APKPure App"
 msgstr "Aplikasi APKPure"
 
+#, fuzzy
 msgctxt "[\"DOWNLOAD\"]"
 msgid "Download"
 msgstr "Unduh"
 
+#, fuzzy
 msgctxt "[\"SELECT_LANGUAGE\"]"
 msgid "Select Language"
 msgstr "Pilih Bahasa"
 
+#, fuzzy
 msgctxt "[\"FREE\"]"
 msgid "Free"
 msgstr "Gratis"
@@ -174,9 +182,10 @@ msgctxt "[\"POPULAR_APPS_IN_TODAY\"]"
 msgid "Popular Apps In Today"
 msgstr "Aplikasi Populer Hari Ini"
 
+#, fuzzy
 msgctxt "[\"POPULAR_GAMES_IN_TODAY\"]"
 msgid "Popular Games In Today"
-msgstr "Game Populer Hari Ini"
+msgstr "game terkenal hari ini"
 
 msgctxt "[\"HOT_GAMES\"]"
 msgid "Hot Games"
@@ -1366,6 +1375,7 @@ msgctxt "[\"category\"][\"APP_WIDGETS\"]"
 msgid "Widgets"
 msgstr "Widget"
 
+#, fuzzy
 msgctxt "[\"NAV-GAME\"]"
 msgid "GAMES"
 msgstr "PERMAINAN"
