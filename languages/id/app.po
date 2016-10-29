@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-03-22 06:53+0000\n"
-"PO-Revision-Date: 2016-10-26 11:57+0000\n"
-"Last-Translator: Krishna Vandanu (kivandanu) <kivandanu@gmail.com>\n"
+"PO-Revision-Date: 2016-10-29 13:13+0000\n"
+"Last-Translator: arcynade schiffer <arc.schiffer@gmail.com>\n"
 "Language-Team: Indonesian "
 "<https://translate.apkpure.com/projects/apkpure/apkpurecom/id/>\n"
 "Language: id\n"
@@ -132,7 +132,7 @@ msgstr "Urutkan dari"
 
 msgctxt "[\"HOT\"]"
 msgid "Hot"
-msgstr "BARU"
+msgstr "Laris"
 
 msgctxt "[\"DOWNLOADS\"]"
 msgid "Downloads"
@@ -182,18 +182,17 @@ msgctxt "[\"POPULAR_APPS_IN_TODAY\"]"
 msgid "Popular Apps In Today"
 msgstr "Aplikasi Populer Hari Ini"
 
-#, fuzzy
 msgctxt "[\"POPULAR_GAMES_IN_TODAY\"]"
 msgid "Popular Games In Today"
-msgstr "game terkenal hari ini"
+msgstr "Game Populer hari ini"
 
 msgctxt "[\"HOT_GAMES\"]"
 msgid "Hot Games"
-msgstr "Game Terbaru"
+msgstr "Game Terlaris"
 
 msgctxt "[\"HOT_APPS\"]"
 msgid "Hot Apps"
-msgstr "Aplikasi Terbaru"
+msgstr "Aplikasi Terlaris"
 
 msgctxt "[\"CLOSE\"]"
 msgid "Close"
@@ -265,7 +264,7 @@ msgstr "Aplikasi Berbayar tidak dapat diunduh"
 
 msgctxt "[\"DETAIL-WHY_SAFE\"]"
 msgid "Why we can guarantee APK 100% safe?"
-msgstr "Kenapa kami tidak menjamin APK 100% aman?"
+msgstr "Kenapa kami bisa menjamin APK 100% aman?"
 
 msgctxt "[\"DETAIL-SAFE\"]"
 msgid "Verification passed"
@@ -325,7 +324,6 @@ msgctxt "[\"DETAIL-UPDATE_ON\"]"
 msgid "Update on"
 msgstr "Update pada"
 
-#, fuzzy
 msgctxt "[\"DETAIL-SIGNATURE\"]"
 msgid "Signature"
 msgstr "Tanda tangan"
@@ -1400,7 +1398,6 @@ msgctxt "[\"DETAIL-XAPK_FILE_SHA1\"]"
 msgid "XAPK File SHA1"
 msgstr "BERKAS XAPK SHA1"
 
-#, fuzzy
 msgctxt "[\"DETAIL-FLAG_AS_INAPPROPRIATE\"]"
 msgid "Flag as inappropriate"
 msgstr "Tandai sebagai tidak pantas"
