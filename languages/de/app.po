@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-03-22 06:52+0000\n"
-"PO-Revision-Date: 2016-10-01 16:30+0000\n"
-"Last-Translator: IOOI I9. <gl2e08800@gmail.com>\n"
+"PO-Revision-Date: 2016-11-01 18:32+0000\n"
+"Last-Translator: Fabian Idem <fabian.idem@gmx.de>\n"
 "Language-Team: German "
 "<https://translate.apkpure.com/projects/apkpure/apkpurecom/de/>\n"
 "Language: de\n"
@@ -851,59 +851,59 @@ msgstr "Ungültiger App-Package-Name"
 
 msgctxt "[\"js\"][\"REGION_DOWN-SEARCH_RESULTS\"]"
 msgid "Check all {0} search results here."
-msgstr ""
+msgstr "Hier siehst du alle Suchergebnisse {0}."
 
 msgctxt "[\"js\"][\"REGION_DOWN-DOWNLOADING\"]"
 msgid "Downloading, please wait..."
-msgstr ""
+msgstr "Lädt Herunter, bitte warten..."
 
 msgctxt "[\"js\"][\"SHOW_MORE\"]"
 msgid "Show More"
-msgstr ""
+msgstr "Mehr anzeigen"
 
 msgctxt "[\"js\"][\"SHOW_LESS\"]"
 msgid "Show less"
-msgstr ""
+msgstr "Weniger anzeigen"
 
 msgctxt "[\"js\"][\"LOADING\"]"
 msgid "loading..."
-msgstr ""
+msgstr "Lädt..."
 
 msgctxt "[\"js\"][\"DOWNLOAD_APK\"]"
 msgid "Download APK"
-msgstr ""
+msgstr "Lad dir APK Herunter"
 
 msgctxt "[\"js\"][\"UPLOADED\"]"
 msgid "Uploaded {0}%"
-msgstr ""
+msgstr "Hochgeladen {0}%"
 
 msgctxt "[\"js\"][\"UPLOADING\"]"
 msgid "Uploading..."
-msgstr ""
+msgstr "Lädt Hoch..."
 
 msgctxt "[\"js\"][\"VALIDATING\"]"
 msgid "Validating..."
-msgstr ""
+msgstr "Wird bestätigt..."
 
 msgctxt "[\"js\"][\"FILE_UPLOAD_FAILED\"]"
 msgid "File upload failed!"
-msgstr ""
+msgstr "Datei konnte nicht hochgeladen werden!"
 
 msgctxt "[\"featured\"][\"2016-new-year\"]"
 msgid "2016 New Year"
-msgstr ""
+msgstr "2016 Neues Jahr"
 
 msgctxt "[\"featured\"][\"2015-best-android-games\"]"
 msgid "2015 Best Android Games"
-msgstr ""
+msgstr "2015 Die besten Android Spiele"
 
 msgctxt "[\"featured\"][\"2015-most-popular-apps\"]"
 msgid "2015 Most Popular Apps"
-msgstr ""
+msgstr "2015 Die beliebtesten Spiele"
 
 msgctxt "[\"featured\"][\"editors-picks\"]"
 msgid "Editors' Picks"
-msgstr ""
+msgstr "Erstellers' Entwürfe"
 
 msgctxt "[\"featured\"][\"editors-picks-subtitle\"]"
 msgid "Top Picks for the Best Apps of March"
@@ -911,27 +911,27 @@ msgstr ""
 
 msgctxt "[\"featured\"][\"editors-picks-games\"]"
 msgid "Games"
-msgstr ""
+msgstr "Spiele"
 
 msgctxt "[\"featured\"][\"editors-picks-apps\"]"
 msgid "Apps"
-msgstr ""
+msgstr "Applikation"
 
 msgctxt "[\"include\"][\"INDEX-FAQ\"]"
 msgid "www/index_faq.htm"
-msgstr ""
+msgstr "www.index_faq.htm"
 
 msgctxt "[\"meta\"][\"about.html\"][\"title\"]"
 msgid "About us"
-msgstr ""
+msgstr "Über uns"
 
 msgctxt "[\"meta\"][\"about.html\"][\"keywords\"]"
 msgid "about apkpure.com, about us, about"
-msgstr ""
+msgstr "Über APKpure.com, Über uns, Über"
 
 msgctxt "[\"meta\"][\"about.html\"][\"description\"]"
 msgid "About APKPure Team"
-msgstr ""
+msgstr "Über das APKPure Team"
 
 msgctxt "[\"meta\"][\"usb-debugging.html\"][\"title\"]"
 msgid "What is USB Debugging?"
@@ -1613,3 +1613,51 @@ msgid "[Not Trusted] This {0} APK is a modified version, we don't recommend inst
 msgstr ""
 "[Nicht vertrauenswürdig] Diese {0} APK ist eine modifizierte Version, wir "
 "empfehlen nicht sie zu installieren."
+
+msgctxt "[\"featured\"][\"promotion_app_new\"]"
+msgid "Top New Free Apps"
+msgstr "Beste neue kostenlose Apps"
+
+msgctxt "[\"featured\"][\"promotion_game_new\"]"
+msgid "Top New Free Games"
+msgstr "Beste neue kostenlose Spiele"
+
+msgctxt "[\"featured\"][\"promotion_app_top\"]"
+msgid "Top Free in Apps"
+msgstr "Beste kostenlose Apps"
+
+msgctxt "[\"featured\"][\"promotion_game_top\"]"
+msgid "Top Free in Games"
+msgstr "Beste kostenlose Spiele"
+
+msgctxt "[\"featured\"][\"promotion_uefa_euro_2016\"]"
+msgid "Official UEFA EURO 2016 Apps"
+msgstr "Offizielle UEFA EURO 2016 Apps"
+
+msgctxt "[\"featured\"][\"promotion_tv\"]"
+msgid "Hot Android TV Apps"
+msgstr "Angesagte Android TV Apps"
+
+msgctxt "[\"featured\"][\"promotion_rio_2016\"]"
+msgid "Rio 2016 Apps"
+msgstr "Rio de Janeiro 2016 Apps"
+
+msgctxt "[\"meta\"][\"contact-us.html\"][\"title\"]"
+msgid "Contact Us"
+msgstr "Kontaktiere uns"
+
+msgctxt "[\"meta\"][\"contact-us.html\"][\"keywords\"]"
+msgid "contact apkpure.com, contact us, contact"
+msgstr "Kontaktiere apkpure.com, Kontaktiere uns, Kontakt"
+
+msgctxt "[\"meta\"][\"contact-us.html\"][\"description\"]"
+msgid "Contact APKPure"
+msgstr "Kontaktiere APKPure"
+
+msgctxt "[\"meta\"][\"report-content.html\"][\"title\"]"
+msgid "Report content issues or violations"
+msgstr "Melde inhaltliche Probleme oder Verletzungen"
+
+msgctxt "[\"meta\"][\"report-content.html\"][\"keywords\"]"
+msgid ""
+msgstr "Melde Inhalt"
