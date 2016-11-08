@@ -1,19 +1,3 @@
-msgid ""
-msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-08-15 10:29+0000\n"
-"PO-Revision-Date: 2016-09-09 00:20+0000\n"
-"Last-Translator: URStillDe1 <URStillDe1@gmail.com>\n"
-"Language-Team: Simplified Chinese "
-"<https://translate.apkpure.com/projects/apkpure/apkpurecom/zh_Hans/>\n"
-"Language: zh-CN\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 2.9-dev\n"
-
 msgctxt "[\"NAV-GAME\"]"
 msgid "GAMES"
 msgstr "游戏"
@@ -242,6 +226,14 @@ msgctxt "[\"DOWNLOAD_APK\"]"
 msgid "Download APK"
 msgstr "下载APK"
 
+msgctxt "[\"VERIFICATION_CODE\"]"
+msgid "Verification code"
+msgstr "验证码"
+
+msgctxt "[\"VERIFICATION_INCORRECT\"]"
+msgid "The verification code is incorrect!"
+msgstr "验证码不正确!"
+
 msgctxt "[\"DETAIL-PAID_GAME\"]"
 msgid "Paid Game"
 msgstr "收费游戏"
@@ -443,8 +435,8 @@ msgid "Region free APK download"
 msgstr "APK 下载器 (APK Downloader)"
 
 msgctxt "[\"REGION_DOWN-DES\"]"
-msgid "- Download your favorite Android Apps with APK Downloader (Free Apps Only).<br>- Your download will begin automatically after you paste a package id and click the download button.<br>- Download failed? Please manually change country setting and try again.<br>- Want to tell us more about your problems? <a style='color:#FFFF00' href='/contact-us.html'>Contact us here</a>"
-msgstr "- 在线下载正版游戏应用，突破区域下载限制，支持安卓手机平板。<br>- 输入安卓应用包名点击下载，即可获取APK文件。<br>- 如果下载失败？请手动更改国家然后再试。<br>- 如果设备不支持或有其他问题请 <a style='color:#FFFF00' href='/contact-us.html'>联系我们</a>"
+msgid "- Download your favorite Android Apps with APK Downloader (Free Apps Only).<br>- Your download will begin automatically after you paste a package id and click the download button.<br>- Download failed? Please manually change country setting and try again.<br>- Want to tell us more about your problems? <a style='color:#FFFF00' href='contact-us.html'>Contact us here</a>"
+msgstr "- 在线下载正版游戏应用，突破区域下载限制，支持安卓手机平板。<br>- 输入安卓应用包名点击下载，即可获取APK文件。<br>- 如果下载失败？请手动更改国家然后再试。<br>- 如果设备不支持或有其他问题请 <a style='color:#FFFF00' href='contact-us.html'>联系我们</a>"
 
 msgctxt "[\"REGION_DOWN-PLACEHOLDER\"]"
 msgid "com.facebook.katana or https://play.google.com...?id=com.facebook.katana"
@@ -551,7 +543,7 @@ msgid "Error 404!"
 msgstr "404了！"
 
 msgctxt "[\"404-DES\"]"
-msgid "It seems that page you are looking for no longer exists.<br />You can explore more Android Games and Apps below！"
+msgid "It seems that page you are looking for no longer exists.<br />You can explore more Android Games and Apps below!"
 msgstr "抱歉！未检索到相关应用内容。<br/>试试搜索其他安卓应用，或者看看大家在下载什么。"
 
 msgctxt "[\"COPYRIGHT\"]"
@@ -669,6 +661,10 @@ msgstr "帮助翻译 APKPure"
 msgctxt "[\"FOOTER-DEVELOPER\"]"
 msgid "Submit Your App"
 msgstr "提交应用"
+
+msgctxt "[\"FOOTER-COOPERATION\"]"
+msgid "Business Cooperation"
+msgstr "商务合作"
 
 msgctxt "[\"FOOTER-XAPK\"]"
 msgid "XAPK"
@@ -982,18 +978,6 @@ msgctxt "[\"js\"][\"FILE_UPLOAD_FAILED\"]"
 msgid "File upload failed!"
 msgstr "文件上传失败!"
 
-msgctxt "[\"featured\"][\"2016-new-year\"]"
-msgid "2016 New Year"
-msgstr "2016最新发布游戏"
-
-msgctxt "[\"featured\"][\"2015-best-android-games\"]"
-msgid "2015 Best Android Games"
-msgstr "2015年热门游戏"
-
-msgctxt "[\"featured\"][\"2015-most-popular-apps\"]"
-msgid "2015 Most Popular Apps"
-msgstr "2015年最受欢迎的应用"
-
 msgctxt "[\"featured\"][\"editors-picks\"]"
 msgid "Editors' Picks"
 msgstr "编辑推荐"
@@ -1026,169 +1010,9 @@ msgctxt "[\"featured\"][\"promotion_game_top\"]"
 msgid "Top Free in Games"
 msgstr "热门免费游戏"
 
-msgctxt "[\"featured\"][\"promotion_uefa_euro_2016\"]"
-msgid "Official UEFA EURO 2016 Apps"
-msgstr "2016年欧锦赛应用"
-
 msgctxt "[\"featured\"][\"promotion_tv\"]"
 msgid "Hot Android TV Apps"
 msgstr "热门安卓TV应用"
-
-msgctxt "[\"include\"][\"INDEX-FAQ\"]"
-msgid "www/index_faq.htm"
-msgstr "www/zh-CN/index_faq.htm"
-
-msgctxt "[\"meta\"][\"about.html\"][\"title\"]"
-msgid "About us"
-msgstr "关于我们"
-
-msgctxt "[\"meta\"][\"about.html\"][\"keywords\"]"
-msgid "about apkpure.com, about us, about"
-msgstr "APKPure客户端，安卓市场，应用商店"
-
-msgctxt "[\"meta\"][\"about.html\"][\"description\"]"
-msgid "About APKPure Team"
-msgstr "关于APKPure团队，APKPure中文网"
-
-msgctxt "[\"meta\"][\"contact-us.html\"][\"title\"]"
-msgid "Contact Us"
-msgstr "联系我们"
-
-msgctxt "[\"meta\"][\"contact-us.html\"][\"keywords\"]"
-msgid "contact apkpure.com, contact us, contact"
-msgstr "联系 apkpure.com ，联系我们，联系"
-
-msgctxt "[\"meta\"][\"contact-us.html\"][\"description\"]"
-msgid "Contact APKPure"
-msgstr "联系 APKPure"
-
-msgctxt "[\"meta\"][\"terms.html\"][\"title\"]"
-msgid "Terms of use"
-msgstr "使用条款"
-
-msgctxt "[\"meta\"][\"terms.html\"][\"keywords\"]"
-msgid "terms of use"
-msgstr "使用条款"
-
-msgctxt "[\"meta\"][\"terms.html\"][\"description\"]"
-msgid "APKPure Terms of use"
-msgstr "APKPure 使用条款"
-
-msgctxt "[\"meta\"][\"usb-debugging.html\"][\"title\"]"
-msgid "What is USB Debugging?"
-msgstr "什么是USB调试(USB Debugging)?"
-
-msgctxt "[\"meta\"][\"usb-debugging.html\"][\"keywords\"]"
-msgid "USB Debugging, usb debug, debug mode, usb debugging mode, enable usb debug"
-msgstr "usb调试, 调试模式, 开启usb调试, 关闭usb调试"
-
-msgctxt "[\"meta\"][\"usb-debugging.html\"][\"description\"]"
-msgid "Learn how to enable USB Debugging mode on Android device"
-msgstr "USB调试模式在哪，如果在安卓手机上开启或关闭USB调试模式。"
-
-msgctxt "[\"meta\"][\"apk-install.html\"][\"title\"]"
-msgid "Pure APK Install, best and free one click Android APK, XAPK Installer"
-msgstr "APKPure电脑客户端 - 最方便的安卓游戏应用安装器，一键安装。"
-
-msgctxt "[\"meta\"][\"apk-install.html\"][\"keywords\"]"
-msgid "apk install, apk installer, xapk installer, install apk file, apk installation software, apk installer for pc"
-msgstr "apk安装, apk安装器, xapk安装器，xapk 管理器, 安装apk文件, apk安装软件, apk安装器PC版"
-
-msgctxt "[\"meta\"][\"apk-install.html\"][\"description\"]"
-msgid "With Pure APK Install, you are allowed to install Android APK, XAPK file for any Android phones and tablets by one click."
-msgstr "APKPure APK安装器是一款简单易用的Windows系统安卓应用安装工具，无需任何复杂操作即可向任一安卓移动设备一键安装APK, XAPK游戏及应用。"
-
-msgctxt "[\"meta\"][\"xapk.html\"][\"title\"]"
-msgid "What is XAPK?"
-msgstr "什么是XAPK, XAPK文件?"
-
-msgctxt "[\"meta\"][\"xapk.html\"][\"keywords\"]"
-msgid "xapk, xapk install, apk install, install obb,install android apk, copy obb to android, transfer obb to android"
-msgstr "xapk, xapk安装, 安卓应用数据包，obb数据包安装, 复制obb数据包"
-
-msgctxt "[\"meta\"][\"xapk.html\"][\"description\"]"
-msgid "Install XAPK (APK with OBB file), APK file to Android"
-msgstr "带obb数据包文件的XAPK安卓应用如何安装，xapk安装教程。"
-
-msgctxt "[\"meta\"][\"dmca.html\"][\"title\"]"
-msgid "APKPure DMCA Copyright Infringement Notification"
-msgstr "数字千年版权法（DMCA）- APKPure Inc"
-
-msgctxt "[\"meta\"][\"dmca.html\"][\"keywords\"]"
-msgid "DMCA, Copyright Infringement Notification"
-msgstr "数字千年版权法, DMCA"
-
-msgctxt "[\"meta\"][\"dmca.html\"][\"description\"]"
-msgid "APKPure abides by the federal Digital Millennium Copyright Act (DMCA) by responding to notices of alleged infringement that comply with the DMCA and other applicable laws."
-msgstr "联系APKPure提交 DMCA 通知"
-
-msgctxt "[\"meta\"][\"privacy-policy.html\"][\"title\"]"
-msgid "Privacy Policy"
-msgstr "隐私政策"
-
-msgctxt "[\"meta\"][\"privacy-policy.html\"][\"keywords\"]"
-msgid "about apkpure.com, about us, about"
-msgstr "APKPure隐私政策"
-
-msgctxt "[\"meta\"][\"privacy-policy.html\"][\"description\"]"
-msgid "About APKPure Team"
-msgstr "APKPure隐私政策"
-
-msgctxt "[\"meta\"][\"faq-safe.html\"][\"title\"]"
-msgid "Why we can guarantee APK 100% safe? | APKPure.com"
-msgstr "如何保证APK是100%安全的 | APKPure.com"
-
-msgctxt "[\"meta\"][\"faq-safe.html\"][\"keywords\"]"
-msgid "apk pure,apk safe"
-msgstr "安全"
-
-msgctxt "[\"meta\"][\"faq-safe.html\"][\"description\"]"
-msgid "Why we can guarantee APK 100% safe?"
-msgstr "如何保证APK是100%安全的？"
-
-msgctxt "[\"meta\"][\"how-to-install-apk.html\"][\"title\"]"
-msgid "How to install unknown sources APK to Android"
-msgstr "如何安装未知来源的APK"
-
-msgctxt "[\"meta\"][\"how-to-install-apk.html\"][\"keywords\"]"
-msgid "install apk, apkpure apk, apkpure app, apps apk, unknown sources apk"
-msgstr "安装 APK ， ApkPure APK ， ApkPure 应用， 应用 APK ，未知来源 APK"
-
-msgctxt "[\"meta\"][\"how-to-install-apk.html\"][\"description\"]"
-msgid "How to install unknown sources Apps apk to Android, install apk from APKPure."
-msgstr "如何安装未知来源应用的 APK 到 Android 设备，从 APKPure 安装 APK 。"
-
-msgctxt "[\"meta\"][\"christmas.html\"][\"title\"]"
-msgid "Best Christmas Apps for Your Android Phones & Tablets"
-msgstr "圣诞节主题游戏及应用"
-
-msgctxt "[\"meta\"][\"christmas.html\"][\"keywords\"]"
-msgid "apps, games, christmas app, christmas game, android game"
-msgstr "圣诞节应用,圣诞节游戏"
-
-msgctxt "[\"meta\"][\"christmas.html\"][\"description\"]"
-msgid "APKPure Best Android games and apps for Christmas and holiday season."
-msgstr "圣诞节主题安卓游戏及安卓应用"
-
-msgctxt "[\"meta\"][\"apkpure-app.html\"][\"title\"]"
-msgid "APKPure APK Downloader for Android Wear, Phones, Tablets, TV"
-msgstr "APKPure应用市场，安卓市场，手机，平板应用商店，APKPure TV应用市场"
-
-msgctxt "[\"meta\"][\"apkpure-app.html\"][\"keywords\"]"
-msgid "APKPure, APKPure Downloader, android, market"
-msgstr "APKPure官网 APKPure下载, 应用商店,安卓市场"
-
-msgctxt "[\"meta\"][\"apkpure-app.html\"][\"description\"]"
-msgid "Download and update the latest Android™ Apps apk in APKPure, the best free Android APK Downloader online right at apkpure.com. Come and join APKPure's clan."
-msgstr "使用APKPure市场客户端下载更新游戏应用, 及时体验应用最新功能提高应用的安全性和稳定. 快来体验APKPure应用市场."
-
-msgctxt "[\"meta\"][\"developer.html\"][\"title\"]"
-msgid "Submit your Android Apps and games, corporate with APKPure"
-msgstr "向APKPure应用商店提交安卓应用游戏，联系商务合作"
-
-msgctxt "[\"meta\"][\"developer.html\"][\"description\"]"
-msgid "Free to play games, free to use Android apps publishing submission on APKPure.com."
-msgstr "免费安卓游戏应用在APKPure应用商店提交和发布流程信息。"
 
 msgctxt "[\"meta\"][\"Index\"][\"title\"]"
 msgid "Download APK free online downloader | APKPure.com"
@@ -1252,15 +1076,15 @@ msgstr "下载官方正版安卓{0}"
 
 msgctxt "[\"meta\"][\"Category_featured_editors-picks\"][\"title\"]"
 msgid "APKPure Editors' Picks for the best Android Games & Apps"
-msgstr "APKPure 编辑精选的最佳 Android 应用和游戏"
+msgstr "编辑推荐 | APKPure.com"
 
 msgctxt "[\"meta\"][\"Category_featured_editors-picks\"][\"keywords\"]"
 msgid "android apps, android games, must have android games, must have android apps, game download"
-msgstr "Android 应用, Android 游戏, 必备 Android 游戏, 必备 Android 应用, 游戏下载"
+msgstr "android apps, android games, must have android games, must have android apps, game download"
 
 msgctxt "[\"meta\"][\"Category_featured_editors-picks\"][\"description\"]"
 msgid "Play with millions of free apps in APKPure style on Android phones, tablets, TV ,etc. Download the best must have android games you should play 2016."
-msgstr "使用 Android 手机，平板电脑或电视等设备在 APKPure 游览百万的免费应用。下载 2016 年最佳的必备应用和游戏。"
+msgstr "Play with millions of free apps in APKPure style on Android phones, tablets, TV ,etc. Download the best must have android games you should play 2016."
 
 msgctxt "[\"meta\"][\"Category_app\"][\"title\"]"
 msgid "Download {0} APK Android App Online - Free Pure APK Downloader"
@@ -1381,215 +1205,3 @@ msgstr "安卓应用分类,安卓游戏分类"
 msgctxt "[\"meta\"][\"Category\"][\"description\"]"
 msgid "Android games and apps category"
 msgstr "下载最新版安卓游戏，安卓应用APK海量应用免费下载升级。"
-
-msgctxt "[\"category\"][\"GAME_ACTION\"]"
-msgid "Action"
-msgstr "动作"
-
-msgctxt "[\"category\"][\"GAME_ADVENTURE\"]"
-msgid "Adventure"
-msgstr "冒险"
-
-msgctxt "[\"category\"][\"GAME_ARCADE\"]"
-msgid "Arcade"
-msgstr "街机"
-
-msgctxt "[\"category\"][\"GAME_BOARD\"]"
-msgid "Board"
-msgstr "桌面和棋类"
-
-msgctxt "[\"category\"][\"GAME_CARD\"]"
-msgid "Card"
-msgstr "卡牌"
-
-msgctxt "[\"category\"][\"GAME_CASINO\"]"
-msgid "Casino"
-msgstr "赌场"
-
-msgctxt "[\"category\"][\"GAME_CASUAL\"]"
-msgid "Casual"
-msgstr "休闲"
-
-msgctxt "[\"category\"][\"GAME_EDUCATIONAL\"]"
-msgid "Educational"
-msgstr "教育"
-
-msgctxt "[\"category\"][\"GAME_FAMILY\"]"
-msgid "Family"
-msgstr "家庭"
-
-msgctxt "[\"category\"][\"GAME_MUSIC\"]"
-msgid "Music"
-msgstr "音乐"
-
-msgctxt "[\"category\"][\"GAME_PUZZLE\"]"
-msgid "Puzzle"
-msgstr "益智"
-
-msgctxt "[\"category\"][\"GAME_RACING\"]"
-msgid "Racing"
-msgstr "竞速"
-
-msgctxt "[\"category\"][\"GAME_ROLE_PLAYING\"]"
-msgid "Role Playing"
-msgstr "角色扮演"
-
-msgctxt "[\"category\"][\"GAME_SIMULATION\"]"
-msgid "Simulation"
-msgstr "模拟"
-
-msgctxt "[\"category\"][\"GAME_SPORTS\"]"
-msgid "Sports"
-msgstr "体育"
-
-msgctxt "[\"category\"][\"GAME_STRATEGY\"]"
-msgid "Strategy"
-msgstr "策略"
-
-msgctxt "[\"category\"][\"GAME_TRIVIA\"]"
-msgid "Trivia"
-msgstr "知识问答"
-
-msgctxt "[\"category\"][\"GAME_WORD\"]"
-msgid "Word"
-msgstr "文字"
-
-msgctxt "[\"category\"][\"BOOKS_AND_REFERENCE\"]"
-msgid "Books & Reference"
-msgstr "图书与工具书"
-
-msgctxt "[\"category\"][\"BUSINESS\"]"
-msgid "Business"
-msgstr "公司"
-
-msgctxt "[\"category\"][\"COMICS\"]"
-msgid "Comics"
-msgstr "动漫"
-
-msgctxt "[\"category\"][\"COMMUNICATION\"]"
-msgid "Communication"
-msgstr "通讯"
-
-msgctxt "[\"category\"][\"EDUCATION\"]"
-msgid "Education"
-msgstr "教育"
-
-msgctxt "[\"category\"][\"ENTERTAINMENT\"]"
-msgid "Entertainment"
-msgstr "娱乐"
-
-msgctxt "[\"category\"][\"FINANCE\"]"
-msgid "Finance"
-msgstr "财务"
-
-msgctxt "[\"category\"][\"HEALTH_AND_FITNESS\"]"
-msgid "Health & Fitness"
-msgstr "健康与健身"
-
-msgctxt "[\"category\"][\"LIBRARIES_AND_DEMO\"]"
-msgid "Libraries & Demo"
-msgstr "软件与演示"
-
-msgctxt "[\"category\"][\"LIFESTYLE\"]"
-msgid "Lifestyle"
-msgstr "生活时尚"
-
-msgctxt "[\"category\"][\"APP_WALLPAPER\"]"
-msgid "Live Wallpaper"
-msgstr "动态壁纸"
-
-msgctxt "[\"category\"][\"MEDIA_AND_VIDEO\"]"
-msgid "Media & Video"
-msgstr "媒体与视频"
-
-msgctxt "[\"category\"][\"MEDICAL\"]"
-msgid "Medical"
-msgstr "医药"
-
-msgctxt "[\"category\"][\"MUSIC_AND_AUDIO\"]"
-msgid "Music & Audio"
-msgstr "音乐与音频"
-
-msgctxt "[\"category\"][\"NEWS_AND_MAGAZINES\"]"
-msgid "News & Magazines"
-msgstr "新闻杂志"
-
-msgctxt "[\"category\"][\"PERSONALIZATION\"]"
-msgid "Personalization"
-msgstr "个性化"
-
-msgctxt "[\"category\"][\"PHOTOGRAPHY\"]"
-msgid "Photography"
-msgstr "摄影"
-
-msgctxt "[\"category\"][\"PRODUCTIVITY\"]"
-msgid "Productivity"
-msgstr "效率"
-
-msgctxt "[\"category\"][\"SHOPPING\"]"
-msgid "Shopping"
-msgstr "购物"
-
-msgctxt "[\"category\"][\"SOCIAL\"]"
-msgid "Social"
-msgstr "社交"
-
-msgctxt "[\"category\"][\"SPORTS\"]"
-msgid "Sports"
-msgstr "体育"
-
-msgctxt "[\"category\"][\"TOOLS\"]"
-msgid "Tools"
-msgstr "工具"
-
-msgctxt "[\"category\"][\"TRANSPORTATION\"]"
-msgid "Transportation"
-msgstr "交通运输"
-
-msgctxt "[\"category\"][\"TRAVEL_AND_LOCAL\"]"
-msgid "Travel & Local"
-msgstr "旅游与本地出行"
-
-msgctxt "[\"category\"][\"WEATHER\"]"
-msgid "Weather"
-msgstr "天气"
-
-msgctxt "[\"category\"][\"APP_WIDGETS\"]"
-msgid "Widgets"
-msgstr "小部件"
-
-msgctxt "[\"REGION_DOWN-DES\"]"
-msgid "- Download your favorite Android Apps with APK Downloader (Free Apps Only).<br>- Your download will begin automatically after you paste a package id and click the download button.<br>- Download failed? Please manually change country setting and try again.<br>- Want to tell us more about your problems? <a style='color:#FFFF00' href='contact-us.html'>Contact us here</a>"
-msgstr ""
-"- 使用 APK Downloader 下载您所喜爱的 Android 应用 (仅免费应用) 。<br>- 您的下载将在您粘贴了一个应用包 ID "
-"并点击“下载”按钮后自动开始。<br>- 下载失败？请手动更改国家设置并重试。<br>- 想要告诉我们更多关于您所遭遇的问题？<a "
-"style='color:#FFFF00' href='contact-us.html'>点击此处联系我们！</a>"
-
-msgctxt "[\"404-DES\"]"
-msgid "It seems that page you are looking for no longer exists.<br />You can explore more Android Games and Apps below!"
-msgstr "看来您正查找的页面已不存在。<br />您可以选择在下方浏览更多 Android 游戏和应用！"
-
-msgctxt "[\"FOOTER-COOPERATION\"]"
-msgid "Business Cooperation"
-msgstr "商业合作"
-
-msgctxt "[\"featured\"][\"promotion_rio_2016\"]"
-msgid "Rio 2016 Apps"
-msgstr "里约 2016 应用"
-
-msgctxt "[\"meta\"][\"report-content.html\"][\"title\"]"
-msgid "Report content issues or violations"
-msgstr "报告内容错误或违规"
-
-msgctxt "[\"meta\"][\"cooperation.html\"][\"description\"]"
-msgid "Contact APKPure to start business cooperation."
-msgstr "联系 APKPure 开始商业合作。"
-
-#, fuzzy
-msgctxt "[\"meta\"][\"cooperation.html\"][\"title\"]"
-msgid "Cooperation whit APKPure | APKPure for Business"
-msgstr "与 APKPure 洽谈合作 | APKPure 业务"
-
-msgctxt "[\"meta\"][\"cooperation.html\"][\"keywords\"]"
-msgid "cooperation, advertise, advertising, business, partnership, partner"
-msgstr "合作，宣传，广告，商业，伙伴关系，合作伙伴"
