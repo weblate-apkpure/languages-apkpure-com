@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-03-22 06:53+0000\n"
-"PO-Revision-Date: 2016-11-17 03:38+0000\n"
-"Last-Translator: leaomett <leaomett@gmail.com>\n"
+"PO-Revision-Date: 2016-11-17 04:31+0000\n"
+"Last-Translator: CAT <catcto.com@gmail.com>\n"
 "Language-Team: Indonesian "
 "<https://translate.apkpure.com/projects/apkpure/apkpurecom/id/>\n"
 "Language: id\n"
@@ -98,7 +98,7 @@ msgstr "PERMAINAN"
 
 msgctxt "[\"APPS\"]"
 msgid "Apps"
-msgstr "Apps"
+msgstr "App"
 
 msgctxt "[\"MORE\"]"
 msgid "More"
@@ -286,6 +286,7 @@ msgctxt "[\"DETAIL-PUBLISH_DATE\"]"
 msgid "Publish Date"
 msgstr "Tanggal publikasi"
 
+#, fuzzy
 msgctxt "[\"DETAIL-GET_IT_ON\"]"
 msgid "Get it on"
 msgstr "Mendapatkannya"
@@ -351,10 +352,9 @@ msgctxt "[\"DETAIL-REQUEST_UPDATE\"]"
 msgid "Request Update"
 msgstr "Permintaan update"
 
-#, fuzzy
 msgctxt "[\"DETAIL-RATING\"]"
 msgid "{votes} votes, average: {rating_average} out of {rating_best}"
-msgstr "{suara} suara, rata-rata: {rating_average} dari {rating_best}"
+msgstr "{votes} suara, rata-rata: {rating_average} dari {rating_best}"
 
 msgctxt "[\"DETAIL-MORE_DEVELOPER\"]"
 msgid "Get more from {0}"
@@ -408,7 +408,7 @@ msgstr "Nama negeri atau kode wiyalah"
 
 msgctxt "[\"REGION_DOWN-MOBILE_TITLE\"]"
 msgid "APK Downloader"
-msgstr "Download APK"
+msgstr "APK Downloader"
 
 msgctxt "[\"REGION_DOWN-MOBILE_DES\"]"
 msgid "All Region Games and Apps Download."
@@ -508,7 +508,7 @@ msgstr ""
 
 msgctxt "[\"COPYRIGHT_MOBILE\"]"
 msgid "APKPure.com © 2014-2016"
-msgstr "apkpure.org © 2014-2016"
+msgstr "apkpure.com © 2014-2016"
 
 msgctxt "[\"COMING_SOON\"]"
 msgid "COMING SOON"
@@ -520,7 +520,7 @@ msgstr "Cari..."
 
 msgctxt "[\"FOOTER-APK_DOWNLOADER_SEO\"]"
 msgid "APK Downloader"
-msgstr "APK Download"
+msgstr "APK Downloader"
 
 msgctxt "[\"FOOTER-APK_DOWNLOADS_SEO\"]"
 msgid "APK Downloads"
@@ -704,8 +704,7 @@ msgstr "Anda dapat mengunjungi permainan dan Apps berikutnya"
 msgctxt "[\"error\"][\"DOWN-ItemNotFree\"]"
 msgid "Sorry, paid apps are not available to download with our APK Download Service."
 msgstr ""
-"Maaf,bayar apps tak tersedia untuk download denganlayanan Download  APK  "
-"kami."
+"Maaf,bayar app tak tersedia untuk download denganlayanan Download  APK  kami."
 
 msgctxt "[\"error\"][\"DOWN-ItemNotFound\"]"
 msgid "Sorry, download failed, the APK cannot be found on Google play."
@@ -763,10 +762,9 @@ msgctxt "[\"tip\"][\"VERSION_DOWN\"]"
 msgid "Download {app_name} {version_name} ({version_code}) {file_type}"
 msgstr "Download {app_name} {version_name} ({version_code}) {file_type}"
 
-#, fuzzy
 msgctxt "[\"tip\"][\"RATING\"]"
 msgid "{app_name} average rating {rating_average}"
-msgstr "nilai rata-rata {nama_app} {tingkat_rata-rata}"
+msgstr "nilai rata-rata {app_name} {rating_average}"
 
 msgctxt "[\"tip\"][\"QR_DOWN\"]"
 msgid "{0} QR code download"
@@ -790,28 +788,28 @@ msgctxt "[\"tip\"][\"CATEGORY_GAME\"]"
 msgid "Download more {0} games"
 msgstr "Download permainan {0} lebih banyak"
 
-#, fuzzy
 msgctxt "[\"tip\"][\"CATEGORY_APP\"]"
 msgid "Download more {0} apps"
-msgstr "Download app {0}lebih banyak"
+msgstr "Download app {0} lebih banyak"
 
 msgctxt "[\"tip\"][\"GET_IT_ON_GOOGLE_PLAY\"]"
 msgid "Get {0} on Google Play"
 msgstr "Mendapatkan {0} di Google Play"
 
-#, fuzzy
 msgctxt "[\"tip\"][\"GET_IT_ON_OTHER\"]"
 msgid "Get {app_name} on {source_name}"
-msgstr "Mendapatkan {nama_app} {nama_data}"
+msgstr "Mendapatkan {app_name} di {source_name}"
 
 msgctxt "[\"tip\"][\"REQUEST_UPDATE\"]"
 msgid "Request {0} Update"
 msgstr "Permintaan {0} Update"
 
+#, fuzzy
 msgctxt "[\"tip\"][\"HOT_ANDROID_GAME\"]"
 msgid "hot android game apk"
-msgstr "Permainan apk panas android apk permainan"
+msgstr "Permainan apk panas android"
 
+#, fuzzy
 msgctxt "[\"tip\"][\"HOT_ANDROID_APP\"]"
 msgid "hot android app apk"
 msgstr "App apk android panas"
@@ -882,7 +880,7 @@ msgstr "Download APK"
 
 msgctxt "[\"js\"][\"UPLOADED\"]"
 msgid "Uploaded {0}%"
-msgstr "Upload {0} %"
+msgstr "Upload {0}%"
 
 msgctxt "[\"js\"][\"UPLOADING\"]"
 msgid "Uploading..."
@@ -1056,7 +1054,6 @@ msgctxt "[\"meta\"][\"Index\"][\"description\"]"
 msgid "Download apk for Android from Google Play Store with APKPure APK downloader. NoAds, Faster apk downloads and apk file update speed. Best of all, it's free"
 msgstr ""
 
-#, fuzzy
 msgctxt "[\"meta\"][\"Details\"][\"title\"]"
 msgid "{app_name} APK Download - Free {app_category} {app_type} for Android | APKPure.com"
 msgstr ""
@@ -1093,11 +1090,11 @@ msgstr "Download {0} APK Android App Online - gratis murni  alat Download APK"
 
 msgctxt "[\"meta\"][\"Category_featured\"][\"keywords\"]"
 msgid "{0}"
-msgstr "Download{0} Android APK"
+msgstr "{0}"
 
 msgctxt "[\"meta\"][\"Category_featured\"][\"description\"]"
 msgid "{0}"
-msgstr "Download edisi Android resmi{0}"
+msgstr "{0}"
 
 msgctxt "[\"meta\"][\"Category_app\"][\"title\"]"
 msgid "Download {0} APK Android App Online - Free Pure APK Downloader"
@@ -1106,15 +1103,15 @@ msgstr "Download {0} APK Android App Online - gratis murni  alat Download APK"
 msgctxt "[\"meta\"][\"Category_app\"][\"keywords\"]"
 msgid "{0} apk download, free {0} download, {0} apk download, download {0} apk, {0} apk downloader, {0} android"
 msgstr ""
-"{0}download  apk, download {0} gratis , {0} apk download, download {0} apk, "
-"{0}alat download apk , {0} android"
+"{0} apk download, free {0} download, {0} apk download, download {0} apk, {0} "
+"apk downloader, {0} android"
 
 msgctxt "[\"meta\"][\"Category_app\"][\"description\"]"
 msgid "Download free and best {0}  for Android phone and tablet with online apk downloader on APKPure.com, including (tool apps, shopping apps, communication apps) and more."
 msgstr ""
-"Download {0}gratis dan terbaik  untuk ponsel Android dan tablet melalui alat "
-"download online apk di apkpure.org, termasuk (alat app, app belanja, app "
-"komunikasi) dan banyak lagi."
+"Download {0} gratis dan terbaik  untuk ponsel Android dan tablet melalui "
+"alat download online apk di apkpure.org, termasuk (alat app, app belanja, "
+"app komunikasi) dan banyak lagi."
 
 msgctxt "[\"meta\"][\"Category_game\"][\"title\"]"
 msgid "Download {0} APK Android App Online - Free Pure APK Downloader"
@@ -1130,12 +1127,12 @@ msgctxt "[\"meta\"][\"Category_game\"][\"description\"]"
 msgid "Download free and best {0} for Android phone and tablet with online apk downloader on APKPure.com, including (driving games, shooting games, fighting games) and more."
 msgstr ""
 "Download {0} gratis dan terbaik untuk ponsel Android dan tablet melalui alat "
-"download online apk di apkpure.org, termasuk (mengemudi permainan, menembak "
+"download online apk di apkpure.com, termasuk (mengemudi permainan, menembak "
 "permainan, pertarungan) dan banyak lagi."
 
 msgctxt "[\"meta\"][\"FAQ\"][\"title\"]"
 msgid "{0} FAQ | APKPure.com"
-msgstr "{0} FAQ | apkpure.org"
+msgstr "{0} FAQ | apkpure.com"
 
 msgctxt "[\"meta\"][\"FAQ\"][\"keywords\"]"
 msgid "{0}"
@@ -1147,7 +1144,7 @@ msgstr "{0}"
 
 msgctxt "[\"meta\"][\"Developer\"][\"title\"]"
 msgid "All {0} free Android apps apk download | APKPure.com"
-msgstr "{0} semua app Android apk download gratis | apkpure.org"
+msgstr "{0} semua app Android apk download gratis | APKPure.com"
 
 msgctxt "[\"meta\"][\"Developer\"][\"keywords\"]"
 msgid "{0} apk download, download {0} free app, {0} games for android,  {0} games app list, {0} app update, {0} app apk downloader"
@@ -1161,7 +1158,7 @@ msgstr "Semua app atau permainan diterbitkan oleh \"{0}\""
 
 msgctxt "[\"meta\"][\"Search\"][\"title\"]"
 msgid "{0} search results | APKPure.com"
-msgstr "Hasil pencarian {0} | apkpure.org"
+msgstr "Hasil pencarian {0} | APKPure.com"
 
 msgctxt "[\"meta\"][\"Search\"][\"keywords\"]"
 msgid "{0} apk download, download {0} apk"
@@ -1173,7 +1170,7 @@ msgstr "{0}"
 
 msgctxt "[\"meta\"][\"New\"][\"title\"]"
 msgid "Download the latest {0} APK | APKPure.com"
-msgstr "Download {0} APK terbaru | apkpure.org"
+msgstr "Download {0} APK terbaru | APKPure.com"
 
 msgctxt "[\"meta\"][\"New\"][\"keywords\"]"
 msgid "{0} apk download, {0} update, free top {0} download, free {0} downloader,  best {0} for Android,"
@@ -1226,7 +1223,7 @@ msgstr "Kesalahan"
 
 msgctxt "[\"meta\"][\"Category\"][\"title\"]"
 msgid "Browse Category | APKPure.com"
-msgstr "Kategori bacaan| apkpure.org"
+msgstr "Kategori bacaan | APKPure.com"
 
 msgctxt "[\"meta\"][\"Category\"][\"keywords\"]"
 msgid "app category,game category"
@@ -1418,7 +1415,7 @@ msgstr "PERMAINAN"
 
 msgctxt "[\"NAV-APP\"]"
 msgid "APPS"
-msgstr "APPS"
+msgstr "APP"
 
 msgctxt "[\"INDEX-POPULAR_CATEGORIES\"]"
 msgid "Popular categories"
@@ -1467,6 +1464,7 @@ msgctxt "[\"DETAIL_DOWNLOAD-NAV_DOWNLOAD\"]"
 msgid "Download"
 msgstr "Download"
 
+#, fuzzy
 msgctxt "[\"DETAIL_DOWNLOAD-DOWNLOADING\"]"
 msgid "Downloading"
 msgstr "Download"
@@ -1516,7 +1514,7 @@ msgstr "APKPure atau com.apkpure.aegon"
 
 msgctxt "[\"SEARCH-TITLE\"]"
 msgid "Enter App Name, Package Name, Package ID"
-msgstr "Masukkan nama App, nama paket, paket ID"
+msgstr "Masukkan  App Name, Package Name, Package ID"
 
 msgctxt "[\"404-DES\"]"
 msgid "It seems that page you are looking for no longer exists.<br />You can explore more Android Games and Apps below!"
@@ -1623,13 +1621,13 @@ msgstr ""
 msgctxt "[\"MARKET-PROMOTION_BANNER_MOBILE2\"]"
 msgid "<p class=\"tit\">Using APKPure App</p><p class=\"des\">Faster, free and saving data!</p>"
 msgstr ""
-"<p class=\"tit\"> menggunakan App APKPure</p> <p class=\"des\"> lebih cepat, "
+"<p class=\"tit\">menggunakan App APKPure</p><p class=\"des\">lebih cepat, "
 "gratis dan menyimpan data!</p>"
 
 msgctxt "[\"MARKET-PROMOTION_BANNER_MOBILE2_XAPK\"]"
 msgid "<p class=\"tit\">Using APKPure App</p><p class=\"des\">Install XAPK, Faster, free and saving data!</p>"
 msgstr ""
-"<p class=\"tit\"> menggunakan App APKPure</p> <p class=\"des\"> menginstal "
+"<p class=\"tit\">menggunakan App APKPure</p><p class=\"des\">menginstal "
 "XAPK, lebih cepat,gratis dan  menyimpan data!</p>"
 
 msgctxt "[\"error\"][\"DOWN-ItemNotFound\"]"
@@ -1668,7 +1666,7 @@ msgstr "App Android TV terbaik"
 
 msgctxt "[\"meta\"][\"Index\"][\"title\"]"
 msgid "Download APK free online downloader | APKPure.com"
-msgstr "Download APK gratis online| apkpure.org"
+msgstr "Download APK gratis online | apkpure.com"
 
 msgctxt "[\"meta\"][\"Index\"][\"keywords\"]"
 msgid "apk download, apk downloader, android apk download"
@@ -1680,29 +1678,27 @@ msgstr ""
 "Download apk untuk Android dengan APKPure APK alat download. NoAds, download "
 "apk dan file update kecepatan. Terbaik dari semua, itu gratis"
 
-#, fuzzy
 msgctxt "[\"meta\"][\"Details\"][\"keywords\"]"
 msgid "{app_name} apk, {app_name} apk download, {app_name} download, {app_name}.apk, {app_name} android, {app_category} {app_type} download"
 msgstr ""
-"apk {nama_app}, {nama_app} apk download, download {nama_app}, {nama_app} "
-".apk, android {nama_app},  {app-kategory} {jenis_app} download"
+"{app_name} apk, {app_name} apk download, {app_name} download, {app_name}"
+".apk, {app_name} android, {app_category} {app_type} download"
 
-#, fuzzy
 msgctxt "[\"meta\"][\"Details_download\"][\"title\"]"
 msgid "Download {app_name} {version_name} APK | APKPure.com"
 msgstr "Download {app_name} {version_name} APK | APKPure.com"
 
 msgctxt "[\"meta\"][\"Details_download\"][\"keywords\"]"
 msgid "{app_name} apk, {app_name} apk download, {app_name} download"
-msgstr "apk {nama_app}, {nama_app} apk download, download {nama_app}"
+msgstr "{app_name} apk, {app_name} apk download, {app_name} download"
 
 msgctxt "[\"meta\"][\"Details_download\"][\"description\"]"
 msgid "{app_name} {version_name} APK Download"
-msgstr "{nama_app} {nama-visi} APK Download"
+msgstr "{app_name} {version_name} APK Download"
 
 msgctxt "[\"meta\"][\"Category_xapk\"][\"title\"]"
 msgid "XAPK ( apk with obb file) {0}.apk for Android download"
-msgstr "XAPK (apk dengan obb file) {0} .apk untuk download di Android"
+msgstr "XAPK (apk dengan obb file) {0}.apk untuk download di Android"
 
 msgctxt "[\"meta\"][\"Category_xapk\"][\"description\"]"
 msgid "Download Android {0} XAPK, full version with obb data file."
@@ -1727,7 +1723,7 @@ msgstr ""
 
 msgctxt "[\"meta\"][\"New\"][\"description\"]"
 msgid "Daily update top free {0} apk download."
-msgstr "Download apk terbaik{0} gratis update harian."
+msgstr "Download apk terbaik {0} gratis update harian."
 
 msgctxt "[\"meta\"][\"Verify\"][\"title\"]"
 msgid "APK Signature Verification, Official Version APK Detection Service"
