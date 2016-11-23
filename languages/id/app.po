@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-03-22 06:53+0000\n"
-"PO-Revision-Date: 2016-11-17 12:42+0000\n"
-"Last-Translator: Heike Wang <heike.wang@transn.com>\n"
+"PO-Revision-Date: 2016-11-23 18:17+0000\n"
+"Last-Translator: Fauzi Muhammad <crucificadas@gmail.com>\n"
 "Language-Team: Indonesian "
 "<https://translate.apkpure.com/projects/apkpure/apkpurecom/id/>\n"
 "Language: id\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 2.9\n"
+"X-Generator: Weblate 2.10-dev\n"
 
 msgctxt "[\"NAV-GAME\"]"
 msgid "GAME"
@@ -26,49 +26,56 @@ msgctxt "[\"NAV-XAPK\"]"
 msgid "XAPK"
 msgstr "XAPK"
 
+#, fuzzy
 msgctxt "[\"NAV-NEW\"]"
 msgid "NEW"
-msgstr "BERITA"
+msgstr "TERBARU"
 
+#, fuzzy
 msgctxt "[\"NAV-PRODUCTS\"]"
 msgid "PRODUCTS"
-msgstr "PRODUKSI"
+msgstr "PRODUK"
 
+#, fuzzy
 msgctxt "[\"NAV-NEW_GAME\"]"
 msgid "NEW GAME"
-msgstr "PERMAINAN BARU"
+msgstr "PERMAINAN TERBARU"
 
 msgctxt "[\"NAV-NEW_APP\"]"
 msgid "NEW APP"
-msgstr "APP BARU"
+msgstr "APLIKASI TERBARU"
 
 msgctxt "[\"NAV-XAPK_GAME\"]"
 msgid "XAPK GAME"
 msgstr "PERMAINAN XAPK"
 
+#, fuzzy
 msgctxt "[\"NAV-XAPK_APP\"]"
 msgid "XAPK APP"
-msgstr "APP XAPK"
+msgstr "APLIKASI XAPK"
 
+#, fuzzy
 msgctxt "[\"NAV-APK_INSTALL\"]"
 msgid "APK Install"
-msgstr "Instal APK"
+msgstr "Pasang APK"
 
+#, fuzzy
 msgctxt "[\"NAV-APK_DOWNLOAD\"]"
 msgid "APK Download"
-msgstr "Download APK"
+msgstr "Unduh APK"
 
 msgctxt "[\"NAV-APK_VERIFICATION\"]"
 msgid "APK Verification"
 msgstr "Verifikasi APK"
 
+#, fuzzy
 msgctxt "[\"NAV-APKPURE_APP\"]"
 msgid "APKPure App"
-msgstr "APKPure App"
+msgstr "Aplikasi APKPure"
 
 msgctxt "[\"DOWNLOAD\"]"
 msgid "Download"
-msgstr "Download"
+msgstr "Unduh"
 
 msgctxt "[\"SELECT_LANGUAGE\"]"
 msgid "Select Language"
@@ -76,11 +83,12 @@ msgstr "Pilih Bahasa"
 
 msgctxt "[\"FREE\"]"
 msgid "Free"
-msgstr "Bebas"
+msgstr "Gratis"
 
+#, fuzzy
 msgctxt "[\"READ_MORE\"]"
 msgid "Read More"
-msgstr "Baca banyak"
+msgstr "Baca Selebihnya"
 
 msgctxt "[\"GAME\"]"
 msgid "GAME"
@@ -88,19 +96,21 @@ msgstr "PERMAINAN"
 
 msgctxt "[\"APP\"]"
 msgid "APP"
-msgstr "APP"
+msgstr "APLIKASI"
 
+#, fuzzy
 msgctxt "[\"GAMES\"]"
 msgid "Games"
-msgstr "PERMAINAN"
+msgstr "Permainan"
 
+#, fuzzy
 msgctxt "[\"APPS\"]"
 msgid "Apps"
-msgstr "App"
+msgstr "Aplikasi"
 
 msgctxt "[\"MORE\"]"
 msgid "More"
-msgstr "Banyak"
+msgstr "Selebihnya"
 
 msgctxt "[\"XAPK\"]"
 msgid "XAPK"
@@ -110,38 +120,45 @@ msgctxt "[\"XAPK-GAMES\"]"
 msgid "XAPK Games"
 msgstr "Permainan XAPK"
 
+#, fuzzy
 msgctxt "[\"XAPK-APPS\"]"
 msgid "XAPK Apps"
-msgstr "App XAPK"
+msgstr "Aplikasi XAPK"
 
+#, fuzzy
 msgctxt "[\"HOME\"]"
 msgid "Home"
-msgstr "Home"
+msgstr "Beranda"
 
+#, fuzzy
 msgctxt "[\"SORT_BY\"]"
 msgid "Sort by"
-msgstr "Urutkan"
+msgstr "Urut berdasarkan"
 
+#, fuzzy
 msgctxt "[\"HOT\"]"
 msgid "Hot"
-msgstr "Panas"
+msgstr "Terbaik"
 
+#, fuzzy
 msgctxt "[\"DOWNLOADS\"]"
 msgid "Downloads"
-msgstr "Downloads"
+msgstr "Unduhan"
 
 msgctxt "[\"NEWEST\"]"
 msgid "Newest"
 msgstr "Terbaru"
 
+#, fuzzy
 msgctxt "[\"RATING\"]"
 msgid "Rating"
-msgstr "Peringkat"
+msgstr "Penilaian"
 
 msgctxt "[\"CATEGORY\"]"
 msgid "Category"
 msgstr "Kategori"
 
+#, fuzzy
 msgctxt "[\"CATEGORY_JOIN\"]"
 msgid "{app_category} {app_type}"
 msgstr "{app_category} {app_type}"
@@ -154,37 +171,44 @@ msgctxt "[\"SHOW_LESS\"]"
 msgid "Show less"
 msgstr "Tampilkan sedikit"
 
+#, fuzzy
 msgctxt "[\"HAVE_PRODUCTS\"]"
 msgid "have {0} products"
-msgstr "Memiliki produk {0}"
+msgstr "memiliki {0} produk"
 
 msgctxt "[\"DEVELOPER\"]"
 msgid "Developer"
 msgstr "Pengembang"
 
+#, fuzzy
 msgctxt "[\"POPULAR_GAMES_IN_LAST_HOURS\"]"
 msgid "Popular Games In Last {0} Hours"
-msgstr "Permainan Populer Terakhir {0}"
+msgstr "Permainan Populer Dalam {0} Jam Terakhir"
 
+#, fuzzy
 msgctxt "[\"POPULAR_APPS_IN_LAST_HOURS\"]"
 msgid "Popular Apps In Last {0} Hours"
-msgstr "App Populer Terakhir {0}"
+msgstr "Aplikasi Populer Dalam {0} Jam Terakhir"
 
+#, fuzzy
 msgctxt "[\"POPULAR_APPS_IN_TODAY\"]"
 msgid "Popular Apps In Today"
-msgstr "App populer di hari ini"
+msgstr "Aplikasi Populer Hari Ini"
 
+#, fuzzy
 msgctxt "[\"POPULAR_GAMES_IN_TODAY\"]"
 msgid "Popular Games In Today"
-msgstr "Permainan populer hari ini"
+msgstr "Permainan Populer Hari Ini"
 
+#, fuzzy
 msgctxt "[\"HOT_GAMES\"]"
 msgid "Hot Games"
-msgstr "permainan panas"
+msgstr "Permainan Terbaik"
 
+#, fuzzy
 msgctxt "[\"HOT_APPS\"]"
 msgid "Hot Apps"
-msgstr "App panas"
+msgstr "Aplikasi Terbaik"
 
 msgctxt "[\"CLOSE\"]"
 msgid "Close"
@@ -194,17 +218,20 @@ msgctxt "[\"COMMENTS\"]"
 msgid "Comments"
 msgstr "Komentar"
 
+#, fuzzy
 msgctxt "[\"LATEST_UPDATE_GAMES\"]"
 msgid "Latest Update Games"
-msgstr "Permainan update terbaru"
+msgstr "Permainan Terbaharui"
 
+#, fuzzy
 msgctxt "[\"LATEST_UPDATE_APPS\"]"
 msgid "Latest Update Apps"
-msgstr "App update terbaru"
+msgstr "Aplikasi Terbaharui"
 
+#, fuzzy
 msgctxt "[\"LATEST_UPDATE\"]"
 msgid "Latest Update"
-msgstr "Update terbaru"
+msgstr "Update Terbaru"
 
 msgctxt "[\"XAPK_IS_APK_WITH_OBB_DATA\"]"
 msgid "XAPK is APK with OBB data"
@@ -212,47 +239,55 @@ msgstr "XAPK adalah APK dengan data OBB"
 
 msgctxt "[\"MOST_POPULAR_IN_TODAY\"]"
 msgid "Most Popular In Today"
-msgstr "Paling populer hari ini"
+msgstr "Paling Populer Hari Ini"
 
+#, fuzzy
 msgctxt "[\"SIMILAR_OR_RELATED\"]"
 msgid "Similar Or Related"
-msgstr "Sama atau terkait"
+msgstr "Persis atau Terkait"
 
+#, fuzzy
 msgctxt "[\"INDEX-TITLE\"]"
 msgid "Download free Android Games and Android Apps."
-msgstr "Download gratis permainan Android dan app Android."
+msgstr "Unduh gratis Permainan Android dan Aplikasi Android."
 
+#, fuzzy
 msgctxt "[\"INDEX-MOBILE_TITLE\"]"
 msgid "Download free Android Games and Apps."
-msgstr "Download gratis permainan Android dan app."
+msgstr "Unduh gratis Permainan Android dan Aplikasi"
 
+#, fuzzy
 msgctxt "[\"INDEX-HOW_TO_DOWNLOAD\"]"
 msgid "How to download apk files?"
-msgstr "Gimana download file apk?"
+msgstr "Bagaimana cara mengunduh berkas apk?"
 
 msgctxt "[\"INDEX-FAQ\"]"
 msgid "FAQ"
 msgstr "FAQ"
 
+#, fuzzy
 msgctxt "[\"DOWNLOAD_APK\"]"
 msgid "Download APK"
-msgstr "Download APK"
+msgstr "Unduh APK"
 
+#, fuzzy
 msgctxt "[\"DETAIL-PAID_GAME\"]"
 msgid "Paid Game"
-msgstr "Bayar permainan"
+msgstr "Permainan Berbayar"
 
+#, fuzzy
 msgctxt "[\"DETAIL-PAID_APP\"]"
 msgid "Paid App"
-msgstr "Bayar App"
+msgstr "Aplikasi Berbayar"
 
+#, fuzzy
 msgctxt "[\"DETAIL-PAID_GAME_DES\"]"
 msgid "Paid games are not available to download"
-msgstr "Bayar permainan tak tersedia download"
+msgstr "Permainan berbayar tidak tersedia untuk di unduh"
 
 msgctxt "[\"DETAIL-PAID_APP_DES\"]"
 msgid "Paid apps are not available to download"
-msgstr "Bayar app tak tersedia download"
+msgstr "Aplikasi berbayar tidak tersedia untuk diunduh"
 
 msgctxt "[\"DETAIL-WHY_SAFE\"]"
 msgid "Why we can guarantee APK 100% safe?"
@@ -260,95 +295,114 @@ msgstr "Mengapa kami bisa menjamin APK 100% aman?"
 
 msgctxt "[\"DETAIL-SAFE\"]"
 msgid "Verification passed"
-msgstr "Verifikasi berlalu"
+msgstr "Verifikasi disahkan"
 
+#, fuzzy
 msgctxt "[\"DETAIL-XAPK_SHORT_DES\"]"
 msgid "XAPK is APK with OBB data, Click to get XAPK Installer"
 msgstr "XAPK adalah APK dengan data OBB, klik untuk mendapatkan XAPK Installer"
 
+#, fuzzy
 msgctxt "[\"DETAIL-MOBILE_XAPK_SHORT_DES\"]"
 msgid "Click to get XAPK Installer"
-msgstr "klik untuk mendapatkan XAPK Installer"
+msgstr "Klik untuk mendapatkan XAPK Installer"
 
+#, fuzzy
 msgctxt "[\"DETAIL-CATEGORY\"]"
 msgid "Category"
 msgstr "Kategori"
 
+#, fuzzy
 msgctxt "[\"DETAIL-LATEST_VERSION\"]"
 msgid "Latest Version"
-msgstr "Visi terbaru"
+msgstr "Versi Terbaru"
 
+#, fuzzy
 msgctxt "[\"DETAIL-PUBLISH_DATE\"]"
 msgid "Publish Date"
-msgstr "Tanggal publikasi"
+msgstr "Tanggal Publikasi"
 
+#, fuzzy
 msgctxt "[\"DETAIL-GET_IT_ON\"]"
 msgid "Get it on"
-msgstr "Mendapatkannya"
+msgstr "Dapatkan di"
 
+#, fuzzy
 msgctxt "[\"DETAIL-REQUIREMENTS\"]"
 msgid "Requirements"
 msgstr "Persyaratan"
 
+#, fuzzy
 msgctxt "[\"DETAIL-AUTHOR\"]"
 msgid "Author"
 msgstr "Penulis"
 
+#, fuzzy
 msgctxt "[\"DETAIL-VOTES\"]"
 msgid "votes"
-msgstr "suara"
+msgstr "memilih"
 
+#, fuzzy
 msgctxt "[\"DETAIL-THE_DESCRIPTION\"]"
 msgid "The description of {0}"
-msgstr "Deskripsi {0}"
+msgstr "Penjabaran dari {0}"
 
 msgctxt "[\"DETAIL-OFFICIAL_TRAILER\"]"
 msgid "{0} for Android official Trailer"
 msgstr "{0} untuk Trailer Android resmi"
 
+#, fuzzy
 msgctxt "[\"DETAIL-VERSION\"]"
 msgid "Version"
-msgstr "Visi"
+msgstr "Versi"
 
+#, fuzzy
 msgctxt "[\"DETAIL-UPDATE_ON\"]"
 msgid "Update on"
-msgstr "Update sekarang"
+msgstr "Update pada"
 
+#, fuzzy
 msgctxt "[\"DETAIL-SIGNATURE\"]"
 msgid "Signature"
-msgstr "Tanda tangan"
+msgstr "Pengenal"
 
+#, fuzzy
 msgctxt "[\"DETAIL-FILE_SHA1\"]"
 msgid "File SHA1"
-msgstr "File SHA1"
+msgstr "Berkas SHA1"
 
 msgctxt "[\"DETAIL-WHATS_NEW\"]"
 msgid "What's new"
-msgstr "Apa yang baru"
+msgstr "Apa yang terbaru"
 
+#, fuzzy
 msgctxt "[\"DETAIL-VERSION_HISTORY\"]"
 msgid "Version History"
-msgstr "Sejarah visi"
+msgstr "Riwayat Versi"
 
+#, fuzzy
 msgctxt "[\"DETAIL-MORE_FROM_DEVELOPER\"]"
 msgid "More From Developer"
-msgstr "Lebih dari pengembang"
+msgstr "Selebihnya Dari Pengembang"
 
 msgctxt "[\"DETAIL-COMMENTS\"]"
 msgid "Comments"
 msgstr "Komentar"
 
+#, fuzzy
 msgctxt "[\"DETAIL-FOLLOW_UPDATES\"]"
 msgid "Follow Updates"
-msgstr "Ikuti pembaruan"
+msgstr "Ikuti Pembaharuan"
 
+#, fuzzy
 msgctxt "[\"DETAIL-REQUEST_UPDATE\"]"
 msgid "Request Update"
-msgstr "Permintaan update"
+msgstr "Permintaan Pembaharuan"
 
+#, fuzzy
 msgctxt "[\"DETAIL-RATING\"]"
 msgid "{votes} votes, average: {rating_average} out of {rating_best}"
-msgstr "{votes} suara, rata-rata: {rating_average} dari {rating_best}"
+msgstr "{votes} memilih, pukul rata: {rating_average} dari {rating_best}"
 
 msgctxt "[\"DETAIL-MORE_DEVELOPER\"]"
 msgid "Get more from {0}"
@@ -364,23 +418,25 @@ msgstr "{0} PERMAINAN"
 
 msgctxt "[\"DETAIL-CATEGORY_APP\"]"
 msgid "{0} APP"
-msgstr "{0} APP"
+msgstr "{0} APLIKASI"
 
 msgctxt "[\"DETAIL-VERSION_LOAD_MORE\"]"
 msgid "Load more"
 msgstr "Memuat lebih"
 
+#, fuzzy
 msgctxt "[\"DETAIL-VERSION_MORE\"]"
 msgid "More..."
-msgstr "Banyak…"
+msgstr "Selebihnya…"
 
 msgctxt "[\"DETAIL-TRANSLATE\"]"
 msgid "Translate"
 msgstr "Terjemahkan"
 
+#, fuzzy
 msgctxt "[\"REGION_DOWN-TITLE\"]"
 msgid "Region free APK download"
-msgstr "Wilayah gratis download APK"
+msgstr "Wilayah gratis mengunduh APK"
 
 msgctxt "[\"REGION_DOWN-DES\"]"
 msgid "Break all Google Play Store restricted region locking rules to download free apps APK for Android phone and tablet."
@@ -1401,70 +1457,84 @@ msgstr "PERMAINAN"
 
 msgctxt "[\"NAV-APP\"]"
 msgid "APPS"
-msgstr "APP"
+msgstr "APLIKASI"
 
 msgctxt "[\"INDEX-POPULAR_CATEGORIES\"]"
 msgid "Popular categories"
 msgstr "Kategori populer"
 
+#, fuzzy
 msgctxt "[\"DETAIL-REPORT\"]"
 msgid "Report"
-msgstr "Lapor"
+msgstr "Laporkan"
 
+#, fuzzy
 msgctxt "[\"DETAIL-APK_FILE_SHA1\"]"
 msgid "APK File SHA1"
-msgstr "APK File SHA1"
+msgstr "Berkas APK SHA1"
 
+#, fuzzy
 msgctxt "[\"DETAIL-XAPK_FILE_SHA1\"]"
 msgid "XAPK File SHA1"
-msgstr "XAPK File SHA1"
+msgstr "Berkas XAPK SHA1"
 
+#, fuzzy
 msgctxt "[\"DETAIL-FLAG_AS_INAPPROPRIATE\"]"
 msgid "Flag as inappropriate"
-msgstr "Bendera tak pantas"
+msgstr "Tandai sebagai hal yang tak patut"
 
+#, fuzzy
 msgctxt "[\"DETAIL-GP_DOWNLOAD\"]"
 msgid "Install on Google Play"
-msgstr "Instal di Google Play"
+msgstr "Pasang di Google Play"
 
+#, fuzzy
 msgctxt "[\"DETAIL-ITUNE_DOWNLOAD\"]"
 msgid "Install on iTunes"
-msgstr "Instal di iTunes"
+msgstr "Pasang di iTunes"
 
+#, fuzzy
 msgctxt "[\"DETAIL-MORE_DOWNLOAD\"]"
 msgid "More Download Locations:"
-msgstr "Download banyak lokasi:"
+msgstr "Lokasi Unduh Selebihnya:"
 
+#, fuzzy
 msgctxt "[\"DETAIL-DELETED_COPYRIGHT_GOOGLE_PLAY_URL\"]"
 msgid "Download on Google Play"
-msgstr "Instal di Google Play"
+msgstr "Unduh di Google Play"
 
+#, fuzzy
 msgctxt "[\"DETAIL-DELETED_COPYRIGHT_GOOGLE_PLAY_DES\"]"
 msgid "{app_name} All rights reserved ©2016 {developer}. {developer} and the {developer} logo are trademarks of {developer} in the U.S. and/or other countries.All other trademarks are the property of their respective owners."
 msgstr ""
-"{app_name} Semua Hak, milik © 2016 {developer}. {developer} dan {developer} "
+"{app_name} Seluruh Hak Cipta ©2016 {developer}. {developer} dan {developer} "
 "logo adalah merek dagang dari {developer} di AS dan/atau negara lain. Semua "
-"merek dagang lainnya milik oleh pemiliknya masing-masing."
+"merek dagang lainnya adalah milik oleh pemiliknya masing-masing."
 
+#, fuzzy
 msgctxt "[\"DETAIL_DOWNLOAD-NAV_DOWNLOAD\"]"
 msgid "Download"
-msgstr "Download"
+msgstr "Unduh"
 
+#, fuzzy
 msgctxt "[\"DETAIL_DOWNLOAD-DOWNLOADING\"]"
 msgid "Downloading"
-msgstr "Download"
+msgstr "Mengunduh"
 
+#, fuzzy
 msgctxt "[\"DETAIL_DOWNLOAD-DOWNLOADING_DES\"]"
 msgid "If the download doesn't start,"
-msgstr "Jika download tidak dimulai,"
+msgstr "Jika unduhan tidak dimulai,"
 
+#, fuzzy
 msgctxt "[\"DETAIL_DOWNLOAD-DOWNLOADING_DES_CLICK\"]"
 msgid "click here"
-msgstr "Klik di sini"
+msgstr "klik di sini"
 
+#, fuzzy
 msgctxt "[\"DETAIL_DOWNLOAD-HOW_TO_INSTALL_APK\"]"
 msgid "How to install APK / XAPK file"
-msgstr "Bagaimana instal APK / XAPK file"
+msgstr "Bagaimana cara memasang berkas APK / XAPK"
 
 msgctxt "[\"REGION_DOWN-DES\"]"
 msgid "- Download your favorite Android Apps with APK Downloader (Free Apps Only).<br>- Your download will begin automatically after you paste a package id and click the download button.<br>- Download failed? Please manually change country setting and try again.<br>- Want to tell us more about your problems? <a style='color:#FFFF00' href='/contact-us.html'>Contact us here</a>"
@@ -1476,15 +1546,16 @@ msgstr ""
 "banyak tentang masalah anda? <a style='color:#FFFF00' href='/contact-"
 "us.html'>Kontak kami disini</a>"
 
+#, fuzzy
 msgctxt "[\"REGION_DOWN-DES\"]"
 msgid "- Download your favorite Android Apps with APK Downloader (Free Apps Only).<br>- Your download will begin automatically after you paste a package id and click the download button.<br>- Download failed? Please manually change country setting and try again.<br>- Want to tell us more about your problems? <a style='color:#FFFF00' href='contact-us.html'>Contact us here</a>"
 msgstr ""
-"-Download app Android suka Anda dengan APK Download (gratis Apps saja). "
-"Download <br>-Anda akan dimulai secara otomatis setelah Anda menyisipkan "
-"sebuah paket id dan klik tombol download. <br>-Download gagal? Silakan "
-"secara mengubah pengaturan negara dan coba lagi. <br>-Ingin memberitahu kami "
-"lebih banyak tentang masalah Anda? <a style='color:#FFFF00' href='contact-"
-"us.html'> hubungi kami di sini</a>"
+"-  Unduh Aplikasi Android favorit anda dengan Pengunduh APK (Free Apps "
+"Only).<br>- Unduhan anda akan dimulai secara otomatis setelah anda "
+"menyisipkan id paket.<br>- Unduhan gagal? Silahkan ganti secara manual "
+"pengaturan negara anda dan coba lagi.<br>- Ingin beritahu kami lebih lanjut "
+"mengenai masalah anda? <a style='color:#FFFF00' href='contact-us.html'>"
+"Kontak kami disini</a>"
 
 msgctxt "[\"SIGN_VERIFY-DES\"]"
 msgid "APK Signature verification will verify Android app package signature to keep Android users away from potentially harmful APK files before APK installing."
@@ -1519,9 +1590,10 @@ msgctxt "[\"VERIFICATION_CODE\"]"
 msgid "Verification code"
 msgstr "Kode verifikasi"
 
+#, fuzzy
 msgctxt "[\"VERIFICATION_INCORRECT\"]"
 msgid "The verification code is incorrect!"
-msgstr "Kesalahan kode verifikasi!"
+msgstr "Kode verifikasi tidak benar!"
 
 msgctxt "[\"FOOTER-DMCA\"]"
 msgid "DMCA Disclaimer"
@@ -1572,48 +1644,48 @@ msgstr ""
 msgctxt "[\"MARKET-BOTTOM_BANNER_DETAIL_APK_DES_TITLE\"]"
 msgid "Using APKPure App to upgrade {0}, fast, free and save your internet data."
 msgstr ""
-"Menggunakan app APKPure untuk upgrade {0}, cepat, gratis dan menyimpan data "
+"Menggunakan app APKPure untuk upgrade {0}, cepat, gratis dan menghemat data "
 "internet."
 
 msgctxt "[\"MARKET-BOTTOM_BANNER_DETAIL_XAPK_DES\"]"
 msgid "Using APKPure App to upgrade <strong>{0}</strong>, install xapk, fast, free and save your internet data."
 msgstr ""
 "Menggunakan app APKPure untuk upgrade <strong>{0}</strong>, menginstal xapk, "
-"cepat, gratis dan menyimpan  data internet."
+"cepat, gratis dan menghemat data internet."
 
 msgctxt "[\"MARKET-BOTTOM_BANNER_DETAIL_XAPK_DES_TITLE\"]"
 msgid "Using APKPure App to upgrade {0}, install xapk, fast, free and save your internet data."
 msgstr ""
 "Menggunakan app APKPure untuk upgrade {0}, menginstal xapk, cepat, gratis "
-"dan menyimpan data internet."
+"dan menghemat data internet."
 
 msgctxt "[\"MARKET-BOTTOM_BANNER_DOWNLOAD_BTN\"]"
 msgid "Download APP"
-msgstr "Download APP"
+msgstr "Unduh APP"
 
 msgctxt "[\"MARKET-PROMOTION_BANNER_MOBILE1\"]"
 msgid "<p class=\"desc\">Using APKPure App to download/update this apk, faster, free and saving data!</p>"
 msgstr ""
 "<p class=\"desc\"> menggunakan App APKPure untuk download/update apk "
-"ini,cepat, gratis dan menyimpan data!</p>"
+"ini,cepat, gratis dan menghemat data!</p>"
 
 msgctxt "[\"MARKET-PROMOTION_BANNER_MOBILE1_XAPK\"]"
 msgid "<p class=\"desc\">Using APKPure App to install this XAPK, faster, free and saving data!</p>"
 msgstr ""
 "<p class=\"desc\"> menggunakan App APKPure untuk menginstal XAPK ini,cepat, "
-"gratis dan menyimpan data!</p>"
+"gratis dan menghemat data!</p>"
 
 msgctxt "[\"MARKET-PROMOTION_BANNER_MOBILE2\"]"
 msgid "<p class=\"tit\">Using APKPure App</p><p class=\"des\">Faster, free and saving data!</p>"
 msgstr ""
 "<p class=\"tit\">menggunakan App APKPure</p><p class=\"des\">lebih cepat, "
-"gratis dan menyimpan data!</p>"
+"gratis dan menghemat data!</p>"
 
 msgctxt "[\"MARKET-PROMOTION_BANNER_MOBILE2_XAPK\"]"
 msgid "<p class=\"tit\">Using APKPure App</p><p class=\"des\">Install XAPK, Faster, free and saving data!</p>"
 msgstr ""
 "<p class=\"tit\">menggunakan App APKPure</p><p class=\"des\">menginstal "
-"XAPK, lebih cepat,gratis dan  menyimpan data!</p>"
+"XAPK, lebih cepat,gratis dan  menghemat data!</p>"
 
 msgctxt "[\"error\"][\"DOWN-ItemNotFound\"]"
 msgid "Sorry, download failed, the APK cannot be found."
