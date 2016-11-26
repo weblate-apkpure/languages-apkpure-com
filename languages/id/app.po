@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-03-22 06:53+0000\n"
-"PO-Revision-Date: 2016-11-23 18:17+0000\n"
-"Last-Translator: Fauzi Muhammad <crucificadas@gmail.com>\n"
+"PO-Revision-Date: 2016-11-26 11:55+0000\n"
+"Last-Translator: Romi Kusuma Bakti <romikusumab@gmail.com>\n"
 "Language-Team: Indonesian "
 "<https://translate.apkpure.com/projects/apkpure/apkpurecom/id/>\n"
 "Language: id\n"
@@ -26,10 +26,9 @@ msgctxt "[\"NAV-XAPK\"]"
 msgid "XAPK"
 msgstr "XAPK"
 
-#, fuzzy
 msgctxt "[\"NAV-NEW\"]"
 msgid "NEW"
-msgstr "TERBARU"
+msgstr "BARU"
 
 #, fuzzy
 msgctxt "[\"NAV-PRODUCTS\"]"
@@ -49,10 +48,9 @@ msgctxt "[\"NAV-XAPK_GAME\"]"
 msgid "XAPK GAME"
 msgstr "PERMAINAN XAPK"
 
-#, fuzzy
 msgctxt "[\"NAV-XAPK_APP\"]"
 msgid "XAPK APP"
-msgstr "APLIKASI XAPK"
+msgstr "APL XAPK"
 
 #, fuzzy
 msgctxt "[\"NAV-APK_INSTALL\"]"
@@ -68,10 +66,9 @@ msgctxt "[\"NAV-APK_VERIFICATION\"]"
 msgid "APK Verification"
 msgstr "Verifikasi APK"
 
-#, fuzzy
 msgctxt "[\"NAV-APKPURE_APP\"]"
 msgid "APKPure App"
-msgstr "Aplikasi APKPure"
+msgstr "Apl APKPure"
 
 msgctxt "[\"DOWNLOAD\"]"
 msgid "Download"
@@ -85,10 +82,9 @@ msgctxt "[\"FREE\"]"
 msgid "Free"
 msgstr "Gratis"
 
-#, fuzzy
 msgctxt "[\"READ_MORE\"]"
 msgid "Read More"
-msgstr "Baca Selebihnya"
+msgstr "Baca Lebih Lanjut"
 
 msgctxt "[\"GAME\"]"
 msgid "GAME"
@@ -96,21 +92,20 @@ msgstr "PERMAINAN"
 
 msgctxt "[\"APP\"]"
 msgid "APP"
-msgstr "APLIKASI"
+msgstr "APL"
 
 #, fuzzy
 msgctxt "[\"GAMES\"]"
 msgid "Games"
 msgstr "Permainan"
 
-#, fuzzy
 msgctxt "[\"APPS\"]"
 msgid "Apps"
-msgstr "Aplikasi"
+msgstr "Apl"
 
 msgctxt "[\"MORE\"]"
 msgid "More"
-msgstr "Selebihnya"
+msgstr "Lebih Lanjut"
 
 msgctxt "[\"XAPK\"]"
 msgid "XAPK"
@@ -120,10 +115,9 @@ msgctxt "[\"XAPK-GAMES\"]"
 msgid "XAPK Games"
 msgstr "Permainan XAPK"
 
-#, fuzzy
 msgctxt "[\"XAPK-APPS\"]"
 msgid "XAPK Apps"
-msgstr "Aplikasi XAPK"
+msgstr "Apl XAPK"
 
 #, fuzzy
 msgctxt "[\"HOME\"]"
@@ -152,7 +146,7 @@ msgstr "Terbaru"
 #, fuzzy
 msgctxt "[\"RATING\"]"
 msgid "Rating"
-msgstr "Penilaian"
+msgstr "Rating"
 
 msgctxt "[\"CATEGORY\"]"
 msgid "Category"
@@ -165,7 +159,7 @@ msgstr "{app_category} {app_type}"
 
 msgctxt "[\"SHOW_MORE\"]"
 msgid "Show More"
-msgstr "Selengkapnya"
+msgstr "Tampilkan Selengkapnya"
 
 msgctxt "[\"SHOW_LESS\"]"
 msgid "Show less"
