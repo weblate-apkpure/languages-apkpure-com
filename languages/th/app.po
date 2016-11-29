@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-03-31 09:34+0000\n"
-"PO-Revision-Date: 2016-09-20 03:58+0000\n"
-"Last-Translator: เลง ยาการียา <lengyakariya@gmail.com>\n"
+"PO-Revision-Date: 2016-11-28 22:12+0000\n"
+"Last-Translator: PhetOfFuX <phetlovephet@gmail.com>\n"
 "Language-Team: Thai "
 "<https://translate.apkpure.com/projects/apkpure/apkpurecom/th/>\n"
 "Language: th\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 2.9-dev\n"
+"X-Generator: Weblate 2.10-dev\n"
 
 msgctxt "[\"NAV-GAME\"]"
 msgid "GAME"
@@ -22,37 +22,33 @@ msgctxt "[\"NAV-APP\"]"
 msgid "APP"
 msgstr ""
 
-#, fuzzy
 msgctxt "[\"NAV-XAPK\"]"
 msgid "XAPK"
-msgstr "XAPK"
+msgstr "เอ็กซ์เอพีเค"
 
-#, fuzzy
 msgctxt "[\"NAV-NEW\"]"
 msgid "NEW"
-msgstr "NEW"
+msgstr "ใหม่"
 
-#, fuzzy
 msgctxt "[\"NAV-PRODUCTS\"]"
 msgid "PRODUCTS"
-msgstr "PRODUCTS"
+msgstr "สินค้า"
 
 msgctxt "[\"NAV-NEW_GAME\"]"
 msgid "NEW GAME"
 msgstr "เกมส์ใหม่ล่าสุด"
 
-#, fuzzy
 msgctxt "[\"NAV-NEW_APP\"]"
 msgid "NEW APP"
-msgstr "NEW APP"
+msgstr "แอพใหม่ล่าสุด"
 
 msgctxt "[\"NAV-XAPK_GAME\"]"
 msgid "XAPK GAME"
-msgstr "ไฟล์เกมส์ XAPK"
+msgstr "ไฟล์เกมส์ เอ็กซ์เอพีเค"
 
 msgctxt "[\"NAV-XAPK_APP\"]"
 msgid "XAPK APP"
-msgstr "ไฟล์แอพ XAPK"
+msgstr "แอพ เอ็กซ์เอพีเค"
 
 msgctxt "[\"NAV-APK_INSTALL\"]"
 msgid "APK Install"
@@ -84,7 +80,7 @@ msgstr "ฟรี"
 
 msgctxt "[\"READ_MORE\"]"
 msgid "Read More"
-msgstr "อ่านเพิ่มเติม"
+msgstr "อ่านต่อ"
 
 msgctxt "[\"GAME\"]"
 msgid "GAME"
@@ -148,7 +144,7 @@ msgstr "หมวดหมู่"
 
 msgctxt "[\"CATEGORY_JOIN\"]"
 msgid "{app_category} {app_type}"
-msgstr ""
+msgstr "{app_category} {app_type}"
 
 msgctxt "[\"SHOW_MORE\"]"
 msgid "Show More"
@@ -160,21 +156,19 @@ msgstr "แสดงน้อยลง"
 
 msgctxt "[\"HAVE_PRODUCTS\"]"
 msgid "have {0} products"
-msgstr ""
+msgstr "มี {0} สินค้า"
 
 msgctxt "[\"DEVELOPER\"]"
 msgid "Developer"
-msgstr "นักพัฒนา"
+msgstr "ผู้พัฒนา"
 
-#, fuzzy
 msgctxt "[\"POPULAR_GAMES_IN_LAST_HOURS\"]"
 msgid "Popular Games In Last {0} Hours"
-msgstr "เกมที่นิยมในเมื่อ {0} ชั่วโมง"
+msgstr "เกมที่นิยมเมื่อ {0} ชั่วโมงที่ผ่านมา"
 
-#, fuzzy
 msgctxt "[\"POPULAR_APPS_IN_LAST_HOURS\"]"
 msgid "Popular Apps In Last {0} Hours"
-msgstr "แอพที่นิยมในเมื่อ {0} ชั่วโมง"
+msgstr "แอพที่นิยมเมื่อ {0} ชั่วโมงที่ผ่านมา"
 
 #, fuzzy
 msgctxt "[\"POPULAR_APPS_IN_TODAY\"]"
@@ -185,12 +179,10 @@ msgctxt "[\"POPULAR_GAMES_IN_TODAY\"]"
 msgid "Popular Games In Today"
 msgstr "เกมที่นิยมในวันนี้"
 
-#, fuzzy
 msgctxt "[\"HOT_GAMES\"]"
 msgid "Hot Games"
 msgstr "เกมมาแรง"
 
-#, fuzzy
 msgctxt "[\"HOT_APPS\"]"
 msgid "Hot Apps"
 msgstr "แอพมาแรง"
@@ -221,7 +213,7 @@ msgstr "XAPK คือ ไฟล์ APK ที่มาพร้อมไฟล�
 
 msgctxt "[\"MOST_POPULAR_IN_TODAY\"]"
 msgid "Most Popular In Today"
-msgstr "ยอดนิยมของวัน"
+msgstr "ยอดนิยมของวันนี้"
 
 msgctxt "[\"SIMILAR_OR_RELATED\"]"
 msgid "Similar Or Related"
@@ -229,15 +221,15 @@ msgstr "คล้ายกัน หรือ ที่เกี่ยวข้�
 
 msgctxt "[\"INDEX-TITLE\"]"
 msgid "Download free Android Games and Android Apps."
-msgstr "ดาวน์โหลดแอปและเกมส์ฟรี"
+msgstr "ดาวน์โหลดแอปแอนดรอยด์และเกมส์แอนดรอยด์ฟรี"
 
 msgctxt "[\"INDEX-MOBILE_TITLE\"]"
 msgid "Download free Android Games and Apps."
-msgstr "ดาวน์โหลดเกมและแอพแอนดรอยฟรี"
+msgstr "ดาวน์โหลดเกมและแอพแอนดรอยด์ฟรี"
 
 msgctxt "[\"INDEX-HOW_TO_DOWNLOAD\"]"
 msgid "How to download apk files?"
-msgstr "วิธีดาวน์โหลดไฟล์ APK?"
+msgstr "ดาวน์โหลดไฟล์ APK ยังไรหรอ?"
 
 msgctxt "[\"INDEX-FAQ\"]"
 msgid "FAQ"
@@ -265,10 +257,9 @@ msgctxt "[\"DETAIL-PAID_APP_DES\"]"
 msgid "Paid apps are not available to download"
 msgstr "แอพที่เสียเงินจะไม่สามารถดาวน์โหลดได้"
 
-#, fuzzy
 msgctxt "[\"DETAIL-WHY_SAFE\"]"
 msgid "Why we can guarantee APK 100% safe?"
-msgstr "ทำไมที่เราสามารถรับประกันความปลอดภัยของไฟล์ APK 100%"
+msgstr "ไฟล์ APK ปลอดภัยหรือเปล่า?"
 
 #, fuzzy
 msgctxt "[\"DETAIL-SAFE\"]"
@@ -340,27 +331,27 @@ msgstr ""
 
 msgctxt "[\"DETAIL-WHATS_NEW\"]"
 msgid "What's new"
-msgstr ""
+msgstr "มีอะไรใหม่?"
 
 msgctxt "[\"DETAIL-VERSION_HISTORY\"]"
 msgid "Version History"
-msgstr ""
+msgstr "เวอร์ชั่นทั้งหมด"
 
 msgctxt "[\"DETAIL-MORE_FROM_DEVELOPER\"]"
 msgid "More From Developer"
-msgstr ""
+msgstr "เพิ่มเติมสำหรับผู้พัฒนา"
 
 msgctxt "[\"DETAIL-COMMENTS\"]"
 msgid "Comments"
-msgstr ""
+msgstr "ความคิดเห็น"
 
 msgctxt "[\"DETAIL-FOLLOW_UPDATES\"]"
 msgid "Follow Updates"
-msgstr ""
+msgstr "ติดตามข่าวสาร"
 
 msgctxt "[\"DETAIL-REQUEST_UPDATE\"]"
 msgid "Request Update"
-msgstr ""
+msgstr "แจ้งการอัพเดต"
 
 msgctxt "[\"DETAIL-RATING\"]"
 msgid "{votes} votes, average: {rating_average} out of {rating_best}"
@@ -1406,15 +1397,13 @@ msgctxt "[\"category\"][\"APP_WIDGETS\"]"
 msgid "Widgets"
 msgstr ""
 
-#, fuzzy
 msgctxt "[\"NAV-GAME\"]"
 msgid "GAMES"
 msgstr "เกมส์"
 
-#, fuzzy
 msgctxt "[\"NAV-APP\"]"
 msgid "APPS"
-msgstr "APPS"
+msgstr "แอพ"
 
 msgctxt "[\"INDEX-POPULAR_CATEGORIES\"]"
 msgid "Popular categories"
@@ -1427,3 +1416,11 @@ msgstr "รายงาน"
 msgctxt "[\"DETAIL-FLAG_AS_INAPPROPRIATE\"]"
 msgid "Flag as inappropriate"
 msgstr "ปักธงว่าไม่เหมาะสม"
+
+msgctxt "[\"VERIFICATION_CODE\"]"
+msgid "Verification code"
+msgstr "ตรวจสอบโค๊ด"
+
+msgctxt "[\"VERIFICATION_INCORRECT\"]"
+msgid "The verification code is incorrect!"
+msgstr "การตรวจโค๊ดเสร็จสมบูรณ์!"
