@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-07-01 20:04+0000\n"
-"PO-Revision-Date: 2016-11-14 05:27+0000\n"
+"PO-Revision-Date: 2016-12-08 20:19+0000\n"
 "Last-Translator: Igor Silva Santos <ferrare42@gmail.com>\n"
 "Language-Team: Portuguese (Brazil) "
 "<https://translate.apkpure.com/projects/apkpure/apkpurecom/pt_BR/>\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 2.9\n"
+"X-Generator: Weblate 2.10-dev\n"
 
 msgctxt "[\"NAV-GAME\"]"
 msgid "GAMES"
@@ -56,7 +56,7 @@ msgstr "Instalar APK"
 
 msgctxt "[\"NAV-APK_DOWNLOAD\"]"
 msgid "APK Download"
-msgstr "Download APK"
+msgstr "Baixar APK"
 
 msgctxt "[\"NAV-APK_VERIFICATION\"]"
 msgid "APK Verification"
@@ -72,7 +72,7 @@ msgstr "Baixar"
 
 msgctxt "[\"SELECT_LANGUAGE\"]"
 msgid "Select Language"
-msgstr "Selecione a Linguagem"
+msgstr "Selecione a linguagem"
 
 msgctxt "[\"FREE\"]"
 msgid "Free"
@@ -666,7 +666,7 @@ msgstr "TOP Jogos Android"
 
 msgctxt "[\"FOOTER-TRANSLATE\"]"
 msgid "Help translate APKPure"
-msgstr "traduzir APKPure"
+msgstr "Traduzir APKPure"
 
 msgctxt "[\"FOOTER-DEVELOPER\"]"
 msgid "Submit Your App"
@@ -678,7 +678,7 @@ msgstr "Baixar<br>APKPure App"
 
 msgctxt "[\"MARKET-QR-TITLE\"]"
 msgid "Download APKPure App"
-msgstr "Baixar APKPure App"
+msgstr "Baixar App APKPure"
 
 msgctxt "[\"MARKET-INDEX_SHORT_DES\"]"
 msgid "Try <strong title=\"Download APKPure APK\">APKPure App</strong> - Download, update and install apks on your Android."
@@ -690,15 +690,16 @@ msgstr "Tente APKPure Mobile App, para instalar, gerenciar e atualizar seus apli
 
 msgctxt "[\"MARKET-DETAIL_APK_SHORT_DES\"]"
 msgid "Faster apks download and update on APKPure App"
-msgstr "mais rápido apks de download e atualização sobre APKPure App"
+msgstr ""
+"Download e atualização de aplicativos mais rápidos no aplicativo APKPure"
 
 msgctxt "[\"MARKET-DETAIL_APK_SHORT_DES_MOBILE\"]"
 msgid "Download and update on APKPure App"
-msgstr "Faça o download e atualização sobre APKPure App"
+msgstr "Faça o download e atualize a aplicação APKPure"
 
 msgctxt "[\"MARKET-DETAIL_APK_SHORT_DES_TITLE\"]"
 msgid "Faster apks download and update on APKPure"
-msgstr "aplicativos de download e atualização sobre APKPure"
+msgstr "Faça o download e atualize a aplicação APKPure"
 
 msgctxt "[\"MARKET-DETAIL_XAPK_SHORT_DES\"]"
 msgid "Install and update XAPK with APKPure App"
@@ -726,15 +727,19 @@ msgstr "Aplicativo APKPure"
 
 msgctxt "[\"MARKET-BOTTOM_BANNER_DES\"]"
 msgid "Try APKPure App - Download, update and install apks on your Android."
-msgstr "Tente APKPure App - Baixe, atualização e instalar apks no seu Android."
+msgstr "Tente App APKPure - Baixe, atualização e instalar apks no seu Android."
 
 msgctxt "[\"MARKET-BOTTOM_BANNER_DETAIL_APK_DES\"]"
 msgid "Using APKPure App to upgrade <strong>{0}</strong>, fast, free and save your internet data."
-msgstr "Usando APKPure App para atualizar <strong>{0}</strong>, rápido, gratuito e salvar seus dados de internet."
+msgstr ""
+"Usando APKPure App para atualizar <strong>{0}</strong>, rápido, gratuito e "
+"salva seus dados de internet."
 
 msgctxt "[\"MARKET-BOTTOM_BANNER_DETAIL_APK_DES_TITLE\"]"
 msgid "Using APKPure App to upgrade {0}, fast, free and save your internet data."
-msgstr "Usando APKPure App para atualizar {0}, rápido, gratuito e salvar seus dados de internet."
+msgstr ""
+"Usando APKPure App para atualizar {0}, rápido, gratuito e salva seus dados "
+"de internet."
 
 msgctxt "[\"MARKET-BOTTOM_BANNER_DETAIL_XAPK_DES\"]"
 msgid "Using APKPure App to upgrade <strong>{0}</strong>, install xapk, fast, free and save your internet data."
@@ -894,15 +899,15 @@ msgstr "Obter {app_name} de {source_name}"
 
 msgctxt "[\"tip\"][\"REQUEST_UPDATE\"]"
 msgid "Request {0} Update"
-msgstr "Pedido {0} Atuali"
+msgstr "Pedido {0} Atualização"
 
 msgctxt "[\"tip\"][\"HOT_ANDROID_GAME\"]"
 msgid "hot android game apk"
-msgstr "Jogos Em Alta"
+msgstr "Jogo android em alta apk"
 
 msgctxt "[\"tip\"][\"HOT_ANDROID_APP\"]"
 msgid "hot android app apk"
-msgstr "Aplicativos Em Alta"
+msgstr "Aplicativo Android em alta apk"
 
 msgctxt "[\"tip\"][\"DOWNLOAD_APK\"]"
 msgid "Download APK"
@@ -926,11 +931,11 @@ msgstr "O arquivo enviado não é umaplicativo Android válido."
 
 msgctxt "[\"js\"][\"SIGN_VERIFY-SAFE\"]"
 msgid "safe"
-msgstr "seguro"
+msgstr "Seguro"
 
 msgctxt "[\"js\"][\"SIGN_VERIFY-UNSAFE\"]"
 msgid "unsafe"
-msgstr "inseguro"
+msgstr "Inseguro"
 
 msgctxt "[\"js\"][\"SIGN_VERIFY-CLICK_UPLOAD\"]"
 msgid "Click Upload APK file"
@@ -938,11 +943,11 @@ msgstr "Clique Carregar arquivo APK"
 
 msgctxt "[\"js\"][\"REGION_DOWN-REGION_ERROR\"]"
 msgid "Package name or region error , try again"
-msgstr "nome do pacote ou erro região, tente novamente"
+msgstr "Nome do pacote ou erro região, tente novamente"
 
 msgctxt "[\"js\"][\"REGION_DOWN-INVALID_APP\"]"
 msgid "Invalid app package name,"
-msgstr "nome do pacote app inválido,"
+msgstr "Nome do pacote app inválido,"
 
 msgctxt "[\"js\"][\"REGION_DOWN-SEARCH_RESULTS\"]"
 msgid "Check all {0} search results here."
@@ -1002,7 +1007,7 @@ msgstr "Escolhas do editor"
 
 msgctxt "[\"featured\"][\"editors-picks-subtitle\"]"
 msgid "Top Picks for the Best Apps & Game"
-msgstr "Top Picks para os melhores aplicativos de Março"
+msgstr "Principais escolhas para os melhores aplicativos e jogos"
 
 msgctxt "[\"featured\"][\"editors-picks-games\"]"
 msgid "Games"
@@ -1022,11 +1027,11 @@ msgstr "Principais novos jogos grátis"
 
 msgctxt "[\"featured\"][\"promotion_app_top\"]"
 msgid "Top Free in Apps"
-msgstr "Top Apps Gratís"
+msgstr "Top Apps Grátis"
 
 msgctxt "[\"featured\"][\"promotion_game_top\"]"
 msgid "Top Free in Games"
-msgstr "Top Jogos Gratís"
+msgstr "Top Jogos Grátis"
 
 msgctxt "[\"featured\"][\"promotion_uefa_euro_2016\"]"
 msgid "Official UEFA EURO 2016 Apps"
@@ -1194,7 +1199,7 @@ msgstr "Livre para jogar jogos, livre para usar aplicativos Android submissão d
 
 msgctxt "[\"meta\"][\"Index\"][\"title\"]"
 msgid "Download APK free online downloader | APKPure.com"
-msgstr "Baixe APK do Google Play Store downloader on-line gratuito | APKPure.com"
+msgstr "Download APK downloader grátis online | APKPure.com"
 
 msgctxt "[\"meta\"][\"Index\"][\"keywords\"]"
 msgid "apk download, apk downloader, android apk download"
@@ -1324,7 +1329,7 @@ msgstr "{0} Download apk, {0} atualização, top livre {0} download, livre {0} d
 
 msgctxt "[\"meta\"][\"New\"][\"description\"]"
 msgid "Daily update top free {0} apk download."
-msgstr "atualização diária superior gratuita do Google Play {0} Download apk."
+msgstr "Atualização diária superior gratuita do Google Play {0} Download apk."
 
 msgctxt "[\"meta\"][\"Verify\"][\"title\"]"
 msgid "APK Signature Verification, Official Version APK Detection Service"
@@ -1340,15 +1345,15 @@ msgstr "Verificação da assinatura APK vai verificar assinatura do pacote app A
 
 msgctxt "[\"meta\"][\"Download\"][\"title\"]"
 msgid "Region free APK download daily update apps and games"
-msgstr "Região de download APK livre para Google Play Storeaplicativos atualização diária e jogos"
+msgstr "Região livre APK baixar atualização de aplicativos diárias e jogos"
 
 msgctxt "[\"meta\"][\"Download\"][\"keywords\"]"
 msgid "apk download, region free apk download"
-msgstr "baixar apk, region free apk download, region free google play, google play store, google play unlocker, google play jogos baixar"
+msgstr "Apk download, região livre apk download"
 
 msgctxt "[\"meta\"][\"Download\"][\"description\"]"
 msgid "download free apps APK for Android phone and tablet."
-msgstr "Quebrar todos Google Play Store região restrita regras para download gratuito aplicativos APK para o telefone e tablet Android de bloqueio."
+msgstr "Baixar aplicativos gratuitos APK para telefone e tablet Android."
 
 msgctxt "[\"meta\"][\"Error\"][\"title\"]"
 msgid "Error"
@@ -1564,7 +1569,7 @@ msgstr "XAPK"
 
 msgctxt "[\"featured\"][\"promotion_tv\"]"
 msgid "Hot Android TV Apps"
-msgstr "Novos Appa de TV Android"
+msgstr "Aplicações de TV Android para Android"
 
 msgctxt "[\"meta\"][\"Category_featured_editors-picks\"][\"title\"]"
 msgid "APKPure Editors' Picks for the best Android Games & Apps"
