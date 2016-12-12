@@ -234,6 +234,14 @@ msgctxt "[\"VERIFICATION_INCORRECT\"]"
 msgid "The verification code is incorrect!"
 msgstr "The verification code is incorrect!"
 
+msgctxt "[\"VERIFICATION_DOWN\"]"
+msgid "Enter the code(s) as you see in the image, then click \"Download\"."
+msgstr "Enter the code(s) as you see in the image, then click \"Download\"."
+
+msgctxt "[\"TOPICS\"]"
+msgid "Topics"
+msgstr "Topics"
+
 msgctxt "[\"DETAIL-PAID_GAME\"]"
 msgid "Paid Game"
 msgstr "Paid Game"
@@ -978,42 +986,6 @@ msgctxt "[\"js\"][\"FILE_UPLOAD_FAILED\"]"
 msgid "File upload failed!"
 msgstr "File upload failed!"
 
-msgctxt "[\"featured\"][\"editors-picks\"]"
-msgid "Editors' Picks"
-msgstr "Editors' Picks"
-
-msgctxt "[\"featured\"][\"editors-picks-subtitle\"]"
-msgid "Top Picks for the Best Apps & Game"
-msgstr "Top Picks for the Best Apps & Game"
-
-msgctxt "[\"featured\"][\"editors-picks-games\"]"
-msgid "Games"
-msgstr "Games"
-
-msgctxt "[\"featured\"][\"editors-picks-apps\"]"
-msgid "Apps"
-msgstr "Apps"
-
-msgctxt "[\"featured\"][\"promotion_app_new\"]"
-msgid "Top New Free Apps"
-msgstr "Top New Free Apps"
-
-msgctxt "[\"featured\"][\"promotion_game_new\"]"
-msgid "Top New Free Games"
-msgstr "Top New Free Games"
-
-msgctxt "[\"featured\"][\"promotion_app_top\"]"
-msgid "Top Free in Apps"
-msgstr "Top Free in Apps"
-
-msgctxt "[\"featured\"][\"promotion_game_top\"]"
-msgid "Top Free in Games"
-msgstr "Top Free in Games"
-
-msgctxt "[\"featured\"][\"promotion_tv\"]"
-msgid "Hot Android TV Apps"
-msgstr "Hot Android TV Apps"
-
 msgctxt "[\"meta\"][\"Index\"][\"title\"]"
 msgid "Download APK free online downloader | APKPure.com"
 msgstr "Download APK free online downloader | APKPure.com"
@@ -1205,3 +1177,27 @@ msgstr "app category,game category"
 msgctxt "[\"meta\"][\"Category\"][\"description\"]"
 msgid "Android games and apps category"
 msgstr "Android games and apps category"
+
+msgctxt "[\"meta\"][\"Topics\"][\"title\"]"
+msgid "Topics | APKPure.com"
+msgstr "Topics | APKPure.com"
+
+msgctxt "[\"meta\"][\"Topics\"][\"keywords\"]"
+msgid "Topics"
+msgstr "Topics"
+
+msgctxt "[\"meta\"][\"Topics\"][\"description\"]"
+msgid "Topics"
+msgstr "Topics"
+
+msgctxt "[\"meta\"][\"Topic\"][\"title\"]"
+msgid "{0} | APKPure.com"
+msgstr "{0} | APKPure.com"
+
+msgctxt "[\"meta\"][\"Topic\"][\"keywords\"]"
+msgid "{0}"
+msgstr "{0}"
+
+msgctxt "[\"meta\"][\"Topic\"][\"description\"]"
+msgid "{0}"
+msgstr "{0}"

@@ -234,6 +234,14 @@ msgctxt "[\"VERIFICATION_INCORRECT\"]"
 msgid "The verification code is incorrect!"
 msgstr "验证码不正确!"
 
+msgctxt "[\"VERIFICATION_DOWN\"]"
+msgid "Enter the code(s) as you see in the image, then click \"Download\"."
+msgstr "请输入验证码继续下载"
+
+msgctxt "[\"TOPICS\"]"
+msgid "Topics"
+msgstr "专题"
+
 msgctxt "[\"DETAIL-PAID_GAME\"]"
 msgid "Paid Game"
 msgstr "收费游戏"
@@ -978,42 +986,6 @@ msgctxt "[\"js\"][\"FILE_UPLOAD_FAILED\"]"
 msgid "File upload failed!"
 msgstr "文件上传失败!"
 
-msgctxt "[\"featured\"][\"editors-picks\"]"
-msgid "Editors' Picks"
-msgstr "编辑推荐"
-
-msgctxt "[\"featured\"][\"editors-picks-subtitle\"]"
-msgid "Top Picks for the Best Apps & Game"
-msgstr "最佳游戏及应用精选"
-
-msgctxt "[\"featured\"][\"editors-picks-games\"]"
-msgid "Games"
-msgstr "游戏"
-
-msgctxt "[\"featured\"][\"editors-picks-apps\"]"
-msgid "Apps"
-msgstr "应用"
-
-msgctxt "[\"featured\"][\"promotion_app_new\"]"
-msgid "Top New Free Apps"
-msgstr "热门新应用"
-
-msgctxt "[\"featured\"][\"promotion_game_new\"]"
-msgid "Top New Free Games"
-msgstr "热门新游戏"
-
-msgctxt "[\"featured\"][\"promotion_app_top\"]"
-msgid "Top Free in Apps"
-msgstr "热门免费应用"
-
-msgctxt "[\"featured\"][\"promotion_game_top\"]"
-msgid "Top Free in Games"
-msgstr "热门免费游戏"
-
-msgctxt "[\"featured\"][\"promotion_tv\"]"
-msgid "Hot Android TV Apps"
-msgstr "热门安卓TV应用"
-
 msgctxt "[\"meta\"][\"Index\"][\"title\"]"
 msgid "Download APK free online downloader | APKPure.com"
 msgstr "使用APKPure APK下载器在线极速下载原版应用 - APKPure官网"
@@ -1205,3 +1177,27 @@ msgstr "安卓应用分类,安卓游戏分类"
 msgctxt "[\"meta\"][\"Category\"][\"description\"]"
 msgid "Android games and apps category"
 msgstr "下载最新版安卓游戏，安卓应用APK海量应用免费下载升级。"
+
+msgctxt "[\"meta\"][\"Topics\"][\"title\"]"
+msgid "Topics | APKPure.com"
+msgstr "专题 | APKPure.com"
+
+msgctxt "[\"meta\"][\"Topics\"][\"keywords\"]"
+msgid "Topics"
+msgstr "专题"
+
+msgctxt "[\"meta\"][\"Topics\"][\"description\"]"
+msgid "Topics"
+msgstr "专题"
+
+msgctxt "[\"meta\"][\"Topic\"][\"title\"]"
+msgid "{0} | APKPure.com"
+msgstr "{0} | APKPure.com"
+
+msgctxt "[\"meta\"][\"Topic\"][\"keywords\"]"
+msgid "{0}"
+msgstr "{0}"
+
+msgctxt "[\"meta\"][\"Topic\"][\"description\"]"
+msgid "{0}"
+msgstr "{0}"
