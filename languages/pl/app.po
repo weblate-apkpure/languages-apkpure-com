@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-09-06 12:51+0000\n"
-"PO-Revision-Date: 2016-10-17 20:15+0000\n"
-"Last-Translator: Tomasz Susajew <toso7@wp.pl>\n"
+"PO-Revision-Date: 2016-12-12 06:21+0000\n"
+"Last-Translator: Michal L <michalpc@gmail.com>\n"
 "Language-Team: Polish "
 "<https://translate.apkpure.com/projects/apkpure/apkpurecom/pl/>\n"
 "Language: pl\n"
@@ -13,7 +13,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 2.9-dev\n"
+"X-Generator: Weblate 2.10-dev\n"
 
 msgctxt "[\"NAV-GAME\"]"
 msgid "GAMES"
@@ -832,9 +832,8 @@ msgstr "Oceania"
 
 msgctxt "[\"FLAG-Rest_of_the_world\"]"
 msgid "Rest of the world"
-msgstr ""
+msgstr "Reszta świata"
 
-#, fuzzy
 msgctxt "[\"ERROR-OOPS\"]"
 msgid "OOPS!,"
 msgstr "OOPS!,"
@@ -845,7 +844,7 @@ msgstr ""
 
 msgctxt "[\"error\"][\"DOWN-ItemNotFree\"]"
 msgid "Sorry, paid apps are not available to download with our APK Download Service."
-msgstr ""
+msgstr "Płatne aplikacje nie są dostępne w APK Download."
 
 msgctxt "[\"error\"][\"DOWN-ItemNotFound\"]"
 msgid "Sorry, download failed, the APK cannot be found."
@@ -853,15 +852,16 @@ msgstr ""
 
 msgctxt "[\"error\"][\"DOWN-LimitedRegion\"]"
 msgid "Oops! Change your region and try download again."
-msgstr ""
+msgstr "Oops! Zmień region pobierania  i spróbuj ponownie."
 
+#, fuzzy
 msgctxt "[\"error\"][\"DOWN-LimitedDevice\"]"
 msgid "Sorry, download failed, the APK does not support our device."
-msgstr ""
+msgstr "Pobieranie nieudane, aplikacja nie jest dostępna na twoje urządzenie."
 
 msgctxt "[\"error\"][\"DOWN-UnknownError\"]"
 msgid "Download failed because of an unknown error. We will fix this problem soon."
-msgstr ""
+msgstr "Pobieranie nieudane, naprawimy to wkrótce."
 
 msgctxt "[\"error\"][\"DOWN-LimitedCarrier\"]"
 msgid "Download failed because of an unknown error. We will fix this problem soon."
@@ -873,7 +873,7 @@ msgstr ""
 
 msgctxt "[\"error\"][\"DOWN-RunOutOfDevice\"]"
 msgid "Download failed, please try again in 5 minutes."
-msgstr ""
+msgstr "Pobieranie nieudane, spróbuj za 5 minut."
 
 msgctxt "[\"tip\"][\"ICON\"]"
 msgid "{0} icon"
@@ -897,7 +897,7 @@ msgstr ""
 
 msgctxt "[\"tip\"][\"VERSION_DOWN\"]"
 msgid "Download {app_name} {version_name} ({version_code}) {file_type}"
-msgstr ""
+msgstr "Pobierz {app_name} {version_name} ({version_code}) {file_type}"
 
 msgctxt "[\"tip\"][\"RATING\"]"
 msgid "{app_name} average rating {rating_average}"
@@ -905,7 +905,7 @@ msgstr ""
 
 msgctxt "[\"tip\"][\"QR_DOWN\"]"
 msgid "{0} QR code download"
-msgstr ""
+msgstr "{0} kod QR pobrania"
 
 msgctxt "[\"tip\"][\"SAFE_VERIFIED\"]"
 msgid "{0} safe verified"
@@ -917,27 +917,27 @@ msgstr ""
 
 msgctxt "[\"tip\"][\"SCREEN\"]"
 msgid "{0} apk screenshot"
-msgstr ""
+msgstr "{0} apk zrzut ekranu"
 
 msgctxt "[\"tip\"][\"CATEGORY_GAME\"]"
 msgid "Download more {0} games"
-msgstr ""
+msgstr "Pobierz {0} gier więcej"
 
 msgctxt "[\"tip\"][\"CATEGORY_APP\"]"
 msgid "Download more {0} apps"
-msgstr ""
+msgstr "Pobierz {0} aplikacji więcej"
 
 msgctxt "[\"tip\"][\"GET_IT_ON_GOOGLE_PLAY\"]"
 msgid "Get {0} on Google Play"
-msgstr ""
+msgstr "Pobierz {0} z Google Play"
 
 msgctxt "[\"tip\"][\"GET_IT_ON_OTHER\"]"
 msgid "Get {app_name} on {source_name}"
-msgstr ""
+msgstr "Pobierz {app_name} z {source_name}"
 
 msgctxt "[\"tip\"][\"REQUEST_UPDATE\"]"
 msgid "Request {0} Update"
-msgstr ""
+msgstr "Dostępne {0} aktualizacje"
 
 msgctxt "[\"tip\"][\"HOT_ANDROID_GAME\"]"
 msgid "hot android game apk"
@@ -949,35 +949,38 @@ msgstr ""
 
 msgctxt "[\"tip\"][\"DOWNLOAD_APK\"]"
 msgid "Download APK"
-msgstr ""
+msgstr "Pobrane APK"
 
 msgctxt "[\"js\"][\"SIGN_VERIFY-OFFICIAL\"]"
 msgid "[Official] This {0} APK is the unmodified official version."
-msgstr ""
+msgstr "[Official] Ten {0} APK to nie modyfikowana oficjalna wersja."
 
 msgctxt "[\"js\"][\"SIGN_VERIFY-NOT_TRUSTED\"]"
 msgid "[Not Trusted] This {0} APK is a modified version, we don't recommend installing it."
 msgstr ""
+"[Not Trusted] Ten {0} APK to zmodyfikowana wersja, nie polecamy instalacji "
+"jej."
 
 msgctxt "[\"js\"][\"SIGN_VERIFY-ERROR_APK_FILE\"]"
 msgid "Error APK file"
-msgstr ""
+msgstr "Błąd pliku APK"
 
 msgctxt "[\"js\"][\"SIGN_VERIFY-VALID\"]"
 msgid "The uploaded file is not a valid Android application."
-msgstr ""
+msgstr "Wysłany plik nie jest poprawną aplikacją."
 
+#, fuzzy
 msgctxt "[\"js\"][\"SIGN_VERIFY-SAFE\"]"
 msgid "safe"
-msgstr ""
+msgstr "Bezpieczne"
 
 msgctxt "[\"js\"][\"SIGN_VERIFY-UNSAFE\"]"
 msgid "unsafe"
-msgstr ""
+msgstr "niebezpieczna"
 
 msgctxt "[\"js\"][\"SIGN_VERIFY-CLICK_UPLOAD\"]"
 msgid "Click Upload APK file"
-msgstr ""
+msgstr "Kliknij wyślij plik APK"
 
 msgctxt "[\"js\"][\"REGION_DOWN-REGION_ERROR\"]"
 msgid "Package name or region error , try again"
@@ -1630,3 +1633,11 @@ msgstr ""
 msgctxt "[\"category\"][\"APP_WIDGETS\"]"
 msgid "Widgets"
 msgstr "Widgety"
+
+msgctxt "[\"VERIFICATION_CODE\"]"
+msgid "Verification code"
+msgstr "Kod weryfikacyjny"
+
+msgctxt "[\"VERIFICATION_INCORRECT\"]"
+msgid "The verification code is incorrect!"
+msgstr "Kod weryfikacyjny jest niepoprawny!"
