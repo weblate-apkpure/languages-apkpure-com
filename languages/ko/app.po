@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-10-17 08:41+0000\n"
-"PO-Revision-Date: 2016-12-19 11:15+0000\n"
-"Last-Translator: YT Clock (시계) <snoo91919@gmail.com>\n"
+"PO-Revision-Date: 2016-12-23 03:54+0000\n"
+"Last-Translator: 냥냐오 <mjs03100@gmail.com>\n"
 "Language-Team: Korean "
 "<https://translate.apkpure.com/projects/apkpure/apkpurecom/ko/>\n"
 "Language: ko\n"
@@ -144,9 +144,10 @@ msgctxt "[\"CATEGORY\"]"
 msgid "Category"
 msgstr "범주"
 
+#, fuzzy
 msgctxt "[\"CATEGORY_JOIN\"]"
 msgid "{app_category} {app_type}"
-msgstr ""
+msgstr "{앱 카테고리} {앱 타입}"
 
 msgctxt "[\"SHOW_MORE\"]"
 msgid "Show More"
@@ -157,17 +158,19 @@ msgctxt "[\"SHOW_LESS\"]"
 msgid "Show less"
 msgstr "접기"
 
+#, fuzzy
 msgctxt "[\"HAVE_PRODUCTS\"]"
 msgid "have {0} products"
-msgstr ""
+msgstr "{0} 개의 제품을 가지고 있다"
 
 msgctxt "[\"DEVELOPER\"]"
 msgid "Developer"
 msgstr "개발자"
 
+#, fuzzy
 msgctxt "[\"POPULAR_GAMES_IN_LAST_HOURS\"]"
 msgid "Popular Games In Last {0} Hours"
-msgstr ""
+msgstr "{0} 시간 인기 게임"
 
 msgctxt "[\"POPULAR_APPS_IN_LAST_HOURS\"]"
 msgid "Popular Apps In Last {0} Hours"
