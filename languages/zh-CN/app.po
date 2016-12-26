@@ -242,6 +242,10 @@ msgctxt "[\"TOPICS\"]"
 msgid "Topics"
 msgstr "专题"
 
+msgctxt "[\"SIMILAR_TO\"]"
+msgid "Similar to {0}"
+msgstr "类似于 {0}"
+
 msgctxt "[\"DETAIL-PAID_GAME\"]"
 msgid "Paid Game"
 msgstr "收费游戏"
@@ -1201,3 +1205,15 @@ msgstr "{0}"
 msgctxt "[\"meta\"][\"Topic\"][\"description\"]"
 msgid "{0}"
 msgstr "{0}"
+
+msgctxt "[\"meta\"][\"Similar\"][\"title\"]"
+msgid "Top best alternative {app_category} {app_type} like {app_name} for Android 2016-2017 | APKPure.com"
+msgstr "类似{app_name}的安卓{app_category}{app_type}， 2016-2017安卓{app_category}{app_type}大全 | APKPure.com"
+
+msgctxt "[\"meta\"][\"Similar\"][\"keywords\"]"
+msgid "{app_name} alternative, {app_name} similar {app_type}, {app_category} {app_type} like {app_name}"
+msgstr "{app_name}类似游戏, {app_name}同类{app_type}, {app_name}{app_category}类{app_type}, {app_name}游戏下载"
+
+msgctxt "[\"meta\"][\"Similar\"][\"description\"]"
+msgid "Popular alternative {app_type} to {app_name} for Android, Android tablet and more. Download top {similar_count} {app_type} like {app_name}, all {app_type} suggested by APKPure."
+msgstr "类似{app_name}的手游，{app_name}同类游戏,安卓平板游戏下载。APKPure力荐{similar_count}款类似{app_name}的经典{app_category}类{app_type}。"
