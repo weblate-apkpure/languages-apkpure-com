@@ -3,42 +3,44 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-12-15 16:38+0000\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2017-01-05 18:59+0000\n"
+"Last-Translator: Gaver Apotheek <gaver.apotheek@gmail.com>\n"
+"Language-Team: Dutch (Belgium) "
+"<https://translate.apkpure.com/projects/apkpure/apkpurecom/nl_BE/>\n"
 "Language: nl_BE\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 2.0.0b7\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 2.10-dev\n"
 
 msgctxt "[\"NAV-GAME\"]"
 msgid "GAMES"
-msgstr ""
+msgstr "Spelletjes"
 
 msgctxt "[\"NAV-APP\"]"
 msgid "APPS"
-msgstr ""
+msgstr "Apps"
 
 msgctxt "[\"NAV-XAPK\"]"
 msgid "XAPK"
-msgstr ""
+msgstr "XAPK"
 
 msgctxt "[\"NAV-NEW\"]"
 msgid "NEW"
-msgstr ""
+msgstr "Nieuw"
 
 msgctxt "[\"NAV-PRODUCTS\"]"
 msgid "PRODUCTS"
-msgstr ""
+msgstr "Producten"
 
 msgctxt "[\"NAV-NEW_GAME\"]"
 msgid "NEW GAME"
-msgstr ""
+msgstr "Nieuw spelletje"
 
 msgctxt "[\"NAV-NEW_APP\"]"
 msgid "NEW APP"
-msgstr ""
+msgstr "Nieuwe app"
 
 msgctxt "[\"NAV-XAPK_GAME\"]"
 msgid "XAPK GAME"
@@ -74,55 +76,60 @@ msgstr ""
 
 msgctxt "[\"FREE\"]"
 msgid "Free"
-msgstr ""
+msgstr "Gratis"
 
 msgctxt "[\"READ_MORE\"]"
 msgid "Read More"
-msgstr ""
+msgstr "Lees meer"
 
 msgctxt "[\"GAME\"]"
 msgid "GAME"
 msgstr ""
 
+#, fuzzy
 msgctxt "[\"APP\"]"
 msgid "APP"
-msgstr ""
+msgstr "APP"
 
 msgctxt "[\"GAMES\"]"
 msgid "Games"
 msgstr ""
 
+#, fuzzy
 msgctxt "[\"APPS\"]"
 msgid "Apps"
-msgstr ""
+msgstr "Apps"
 
 msgctxt "[\"MORE\"]"
 msgid "More"
-msgstr ""
+msgstr "Meer"
 
+#, fuzzy
 msgctxt "[\"XAPK\"]"
 msgid "XAPK"
-msgstr ""
+msgstr "XAPK"
 
 msgctxt "[\"XAPK-GAMES\"]"
 msgid "XAPK Games"
 msgstr ""
 
+#, fuzzy
 msgctxt "[\"XAPK-APPS\"]"
 msgid "XAPK Apps"
-msgstr ""
+msgstr "XAPK Apps"
 
 msgctxt "[\"HOME\"]"
 msgid "Home"
-msgstr ""
+msgstr "Thuis"
 
 msgctxt "[\"SORT_BY\"]"
 msgid "Sort by"
-msgstr ""
+msgstr "Sorteren op"
 
+#, fuzzy
 msgctxt "[\"HOT\"]"
 msgid "Hot"
-msgstr ""
+msgstr "Hot"
 
 msgctxt "[\"DOWNLOADS\"]"
 msgid "Downloads"
@@ -130,15 +137,15 @@ msgstr ""
 
 msgctxt "[\"NEWEST\"]"
 msgid "Newest"
-msgstr ""
+msgstr "Nieuwste"
 
 msgctxt "[\"RATING\"]"
 msgid "Rating"
-msgstr ""
+msgstr "Waardering"
 
 msgctxt "[\"CATEGORY\"]"
 msgid "Category"
-msgstr ""
+msgstr "Kategorie"
 
 msgctxt "[\"CATEGORY_JOIN\"]"
 msgid "{app_category} {app_type}"
@@ -146,11 +153,11 @@ msgstr ""
 
 msgctxt "[\"SHOW_MORE\"]"
 msgid "Show More"
-msgstr ""
+msgstr "Toon meer"
 
 msgctxt "[\"SHOW_LESS\"]"
 msgid "Show less"
-msgstr ""
+msgstr "Toon minder"
 
 msgctxt "[\"HAVE_PRODUCTS\"]"
 msgid "have {0} products"
