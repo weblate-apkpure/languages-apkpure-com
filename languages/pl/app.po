@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-09-06 12:51+0000\n"
-"PO-Revision-Date: 2016-12-12 06:21+0000\n"
-"Last-Translator: Michal L <michalpc@gmail.com>\n"
+"PO-Revision-Date: 2017-01-11 16:15+0000\n"
+"Last-Translator: Augustyn Swiety <micdrive@o2.pl>\n"
 "Language-Team: Polish "
 "<https://translate.apkpure.com/projects/apkpure/apkpurecom/pl/>\n"
 "Language: pl\n"
@@ -804,10 +804,14 @@ msgstr ""
 msgctxt "[\"MARKET-PROMOTION_BANNER_MOBILE2\"]"
 msgid "<p class=\"tit\">Using APKPure App</p><p class=\"des\">Faster, free and saving data!</p>"
 msgstr ""
+"<p class=\"tit\">Używając aplikacji APKPure</p><p class=\"des\">Szybciej, za "
+"darmo i oszczędzając transfer danych!</p>"
 
 msgctxt "[\"MARKET-PROMOTION_BANNER_MOBILE2_XAPK\"]"
 msgid "<p class=\"tit\">Using APKPure App</p><p class=\"des\">Install XAPK, Faster, free and saving data!</p>"
 msgstr ""
+"<p class=\"tit\">Używając aplikacji APKPure</p><p class=\"des\">Zainstaluj "
+"XAPK, Szybciej, za darmo i oszczędzając transfer danych!</p>"
 
 msgctxt "[\"FLAG-Africa\"]"
 msgid "Africa"
@@ -840,7 +844,7 @@ msgstr "OOPS!,"
 
 msgctxt "[\"ERROR-SUBTITLE\"]"
 msgid "You can visit the following Games and Apps instead"
-msgstr ""
+msgstr "W zamian możesz zobaczyć następujące Gry i Aplikacje"
 
 msgctxt "[\"error\"][\"DOWN-ItemNotFree\"]"
 msgid "Sorry, paid apps are not available to download with our APK Download Service."
@@ -848,16 +852,17 @@ msgstr "Płatne aplikacje nie są dostępne w APK Download."
 
 msgctxt "[\"error\"][\"DOWN-ItemNotFound\"]"
 msgid "Sorry, download failed, the APK cannot be found."
-msgstr ""
+msgstr "Przepraszamy, pobieranie nieudane, aplikacja nie znaleziona."
 
 msgctxt "[\"error\"][\"DOWN-LimitedRegion\"]"
 msgid "Oops! Change your region and try download again."
 msgstr "Oops! Zmień region pobierania  i spróbuj ponownie."
 
-#, fuzzy
 msgctxt "[\"error\"][\"DOWN-LimitedDevice\"]"
 msgid "Sorry, download failed, the APK does not support our device."
-msgstr "Pobieranie nieudane, aplikacja nie jest dostępna na twoje urządzenie."
+msgstr ""
+"Przepraszamy, pobieranie nieudane, aplikacja nie jest dostępna na to "
+"urządzenie."
 
 msgctxt "[\"error\"][\"DOWN-UnknownError\"]"
 msgid "Download failed because of an unknown error. We will fix this problem soon."
@@ -865,11 +870,14 @@ msgstr "Pobieranie nieudane, naprawimy to wkrótce."
 
 msgctxt "[\"error\"][\"DOWN-LimitedCarrier\"]"
 msgid "Download failed because of an unknown error. We will fix this problem soon."
-msgstr ""
+msgstr "Pobieranie nieudane wskutek nieznanego błędu. Wkrótce go naprawimy."
 
+#, fuzzy
 msgctxt "[\"error\"][\"DOWN-PreRegister\"]"
 msgid "It's a Pre-registration App, you can't download."
 msgstr ""
+"Ta aplikacja wymaga wcześniejszej rejestracji i będzie można ją pobrać w "
+"określonym terminie."
 
 msgctxt "[\"error\"][\"DOWN-RunOutOfDevice\"]"
 msgid "Download failed, please try again in 5 minutes."
@@ -877,23 +885,23 @@ msgstr "Pobieranie nieudane, spróbuj za 5 minut."
 
 msgctxt "[\"tip\"][\"ICON\"]"
 msgid "{0} icon"
-msgstr ""
+msgstr "{0} ikona"
 
 msgctxt "[\"tip\"][\"LIST_ICON\"]"
 msgid "{0} APK"
-msgstr ""
+msgstr "{0} aplikacja"
 
 msgctxt "[\"tip\"][\"LIST_TITLE\"]"
 msgid "{0} APK"
-msgstr ""
+msgstr "{0} aplikacja"
 
 msgctxt "[\"tip\"][\"LIST_DOWN\"]"
 msgid "Download {0} latest version apk"
-msgstr ""
+msgstr "Pobierz {0} najnowsza wersja aplikacji"
 
 msgctxt "[\"tip\"][\"LIST_DOWN_XAPK\"]"
 msgid "Download {0} latest version xapk"
-msgstr ""
+msgstr "Pobierz {0} najnowsza wersja xaplikacji"
 
 msgctxt "[\"tip\"][\"VERSION_DOWN\"]"
 msgid "Download {app_name} {version_name} ({version_code}) {file_type}"
@@ -901,19 +909,20 @@ msgstr "Pobierz {app_name} {version_name} ({version_code}) {file_type}"
 
 msgctxt "[\"tip\"][\"RATING\"]"
 msgid "{app_name} average rating {rating_average}"
-msgstr ""
+msgstr "{app_name} średnia ocena {rating_average}"
 
 msgctxt "[\"tip\"][\"QR_DOWN\"]"
 msgid "{0} QR code download"
 msgstr "{0} kod QR pobrania"
 
+#, fuzzy
 msgctxt "[\"tip\"][\"SAFE_VERIFIED\"]"
 msgid "{0} safe verified"
-msgstr ""
+msgstr "{0} bezpieczeństwo gwarantowane"
 
 msgctxt "[\"tip\"][\"SCREEN_POSTER\"]"
 msgid "{0} poster"
-msgstr ""
+msgstr "{0} plakat"
 
 msgctxt "[\"tip\"][\"SCREEN\"]"
 msgid "{0} apk screenshot"
@@ -941,11 +950,11 @@ msgstr "Dostępne {0} aktualizacje"
 
 msgctxt "[\"tip\"][\"HOT_ANDROID_GAME\"]"
 msgid "hot android game apk"
-msgstr ""
+msgstr "atrakcyjna gra-apk na androida"
 
 msgctxt "[\"tip\"][\"HOT_ANDROID_APP\"]"
 msgid "hot android app apk"
-msgstr ""
+msgstr "atrakcyjna aplikacja-apk na androida"
 
 msgctxt "[\"tip\"][\"DOWNLOAD_APK\"]"
 msgid "Download APK"
@@ -969,10 +978,9 @@ msgctxt "[\"js\"][\"SIGN_VERIFY-VALID\"]"
 msgid "The uploaded file is not a valid Android application."
 msgstr "Wysłany plik nie jest poprawną aplikacją."
 
-#, fuzzy
 msgctxt "[\"js\"][\"SIGN_VERIFY-SAFE\"]"
 msgid "safe"
-msgstr "Bezpieczne"
+msgstr "bezpieczne"
 
 msgctxt "[\"js\"][\"SIGN_VERIFY-UNSAFE\"]"
 msgid "unsafe"
@@ -984,51 +992,51 @@ msgstr "Kliknij wyślij plik APK"
 
 msgctxt "[\"js\"][\"REGION_DOWN-REGION_ERROR\"]"
 msgid "Package name or region error , try again"
-msgstr ""
+msgstr "Błąd nazwy lub regionu pakietu, spróbuj ponownie"
 
 msgctxt "[\"js\"][\"REGION_DOWN-INVALID_APP\"]"
 msgid "Invalid app package name,"
-msgstr ""
+msgstr "Błędna nazwa pakietu aplikacji,"
 
 msgctxt "[\"js\"][\"REGION_DOWN-SEARCH_RESULTS\"]"
 msgid "Check all {0} search results here."
-msgstr ""
+msgstr "Sprawdź wszystkie {0} wyniki wyszukiwania tu."
 
 msgctxt "[\"js\"][\"REGION_DOWN-DOWNLOADING\"]"
 msgid "Downloading, please wait..."
-msgstr ""
+msgstr "Pobieranie, proszę czekać..."
 
 msgctxt "[\"js\"][\"SHOW_MORE\"]"
 msgid "Show More"
-msgstr ""
+msgstr "Pokaż więcej"
 
 msgctxt "[\"js\"][\"SHOW_LESS\"]"
 msgid "Show less"
-msgstr ""
+msgstr "Pokaż mniej"
 
 msgctxt "[\"js\"][\"LOADING\"]"
 msgid "loading..."
-msgstr ""
+msgstr "wczytywanie..."
 
 msgctxt "[\"js\"][\"DOWNLOAD_APK\"]"
 msgid "Download APK"
-msgstr ""
+msgstr "Pobierz aplikację"
 
 msgctxt "[\"js\"][\"UPLOADED\"]"
 msgid "Uploaded {0}%"
-msgstr ""
+msgstr "Wysłano {0}%"
 
 msgctxt "[\"js\"][\"UPLOADING\"]"
 msgid "Uploading..."
-msgstr ""
+msgstr "Wysyłanie..."
 
 msgctxt "[\"js\"][\"VALIDATING\"]"
 msgid "Validating..."
-msgstr ""
+msgstr "Potwierdzanie..."
 
 msgctxt "[\"js\"][\"FILE_UPLOAD_FAILED\"]"
 msgid "File upload failed!"
-msgstr ""
+msgstr "Wysyłanie pliku nieudane!"
 
 msgctxt "[\"featured\"][\"2016-new-year\"]"
 msgid "2016 New Year"
@@ -1268,43 +1276,58 @@ msgstr ""
 
 msgctxt "[\"meta\"][\"Index\"][\"title\"]"
 msgid "Download APK free online downloader | APKPure.com"
-msgstr ""
+msgstr "Pobierz program do pobierania darmowych APK z internetu | APKPure.com"
 
+#, fuzzy
 msgctxt "[\"meta\"][\"Index\"][\"keywords\"]"
 msgid "apk download, apk downloader, android apk download"
 msgstr ""
+"pobieranie aplikacji, program do pobierania aplikacji, pobieranie aplikacji "
+"na androida"
 
+#, fuzzy
 msgctxt "[\"meta\"][\"Index\"][\"description\"]"
 msgid "Download apk for Android with APKPure APK downloader. NoAds, Faster apk downloads and apk file update speed. Best of all, it's free"
 msgstr ""
+"Pobieraj aplikacje na Androida przez program do pobierania APK APKPure. Bez "
+"reklam, szybsze pobieranie aplikacji i aktualizacja plików apk. Co "
+"najważniejsze - darmowo"
 
+#, fuzzy
 msgctxt "[\"meta\"][\"Details\"][\"title\"]"
 msgid "{app_name} APK Download - Free {app_category} {app_type} for Android | APKPure.com"
 msgstr ""
+"{app_name} APK Download - Darmowo {app_category} {app_type} na Androida | "
+"APKPure.com"
 
+#, fuzzy
 msgctxt "[\"meta\"][\"Details\"][\"keywords\"]"
 msgid "{app_name} apk, {app_name} apk download, {app_name} download, {app_name}.apk, {app_name} android, {app_category} {app_type} download"
 msgstr ""
+"{app_name} apk, {app_name} pobieranie apk, {app_name} pobieranie, {app_name}"
+".apk, {app_name} android, {app_category} {app_type} pobieranie"
 
 msgctxt "[\"meta\"][\"Details\"][\"description\"]"
 msgid "Download {app_short_name} apk {version_name} and all version history for Android. {app_short_description}"
 msgstr ""
+"Pobierz {app_short_name} apk {version_name} i wszystkie wersje na Android. "
+"{app_short_description}"
 
 msgctxt "[\"meta\"][\"Details_download\"][\"title\"]"
 msgid "Download {app_name} {version_name} APK | APKPure.com"
-msgstr ""
+msgstr "Pobierz {app_name} {version_name} APK | APKPure.com"
 
 msgctxt "[\"meta\"][\"Details_download\"][\"keywords\"]"
 msgid "{app_name} apk, {app_name} apk download, {app_name} download"
-msgstr ""
+msgstr "{app_name} apk, {app_name} pobieranie apk, {app_name} pobieranie"
 
 msgctxt "[\"meta\"][\"Details_download\"][\"description\"]"
 msgid "{app_name} {version_name} APK Download"
-msgstr ""
+msgstr "{app_name} {version_name} Pobieranie APK"
 
 msgctxt "[\"meta\"][\"Category_xapk\"][\"title\"]"
 msgid "XAPK ( apk with obb file) {0}.apk for Android download"
-msgstr ""
+msgstr "XAPK ( apk with obb file) {0}.apk pobieranie na Android"
 
 msgctxt "[\"meta\"][\"Category_xapk\"][\"keywords\"]"
 msgid "xapk {0}, {0} xapk, xapk {0} download, download apk obb, apk with obb data, android"
@@ -1641,3 +1664,23 @@ msgstr "Kod weryfikacyjny"
 msgctxt "[\"VERIFICATION_INCORRECT\"]"
 msgid "The verification code is incorrect!"
 msgstr "Kod weryfikacyjny jest niepoprawny!"
+
+msgctxt "[\"VERIFICATION_DOWN\"]"
+msgid "Enter the code(s) as you see in the image, then click \"Download\"."
+msgstr "Przepisz kod(y) z obrazka i kliknij „Pobierz”."
+
+msgctxt "[\"TOPICS\"]"
+msgid "Topics"
+msgstr "Tematy"
+
+msgctxt "[\"SIMILAR_TO\"]"
+msgid "Similar to {0}"
+msgstr "Podobne do {0}"
+
+#, fuzzy
+msgctxt "[\"meta\"][\"Similar\"][\"description\"]"
+msgid "Popular alternative {app_type} to {app_name} for Android, Android tablet and more. Download top {similar_count} {app_type} like {app_name}, all {app_type} suggested by APKPure."
+msgstr ""
+"Popularna alternatywa {app_type} do {app_name} na Androida, tablet z "
+"Androiden i inne. Pobierz najpopularniejsze {similar_count} {app_type} jak "
+"{app_name}, wszystko {app_type} polecane przez APKPure."
