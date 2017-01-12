@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-03-22 06:53+0000\n"
-"PO-Revision-Date: 2017-01-12 09:34+0000\n"
+"PO-Revision-Date: 2017-01-12 09:38+0000\n"
 "Last-Translator: zhangmumu <nianxi2011@163.com>\n"
 "Language-Team: Japanese "
 "<https://translate.apkpure.com/projects/apkpure/apkpurecom/ja/>\n"
@@ -28,7 +28,7 @@ msgstr "XAPK"
 
 msgctxt "[\"NAV-NEW\"]"
 msgid "NEW"
-msgstr "新しい"
+msgstr "最新"
 
 msgctxt "[\"NAV-PRODUCTS\"]"
 msgid "PRODUCTS"
@@ -36,7 +36,7 @@ msgstr "製品"
 
 msgctxt "[\"NAV-NEW_GAME\"]"
 msgid "NEW GAME"
-msgstr "新しいゲーム"
+msgstr "最新ゲーム"
 
 msgctxt "[\"NAV-NEW_APP\"]"
 msgid "NEW APP"
@@ -76,11 +76,11 @@ msgstr "言語を選択"
 
 msgctxt "[\"FREE\"]"
 msgid "Free"
-msgstr "無料"
+msgstr "フリー"
 
 msgctxt "[\"READ_MORE\"]"
 msgid "Read More"
-msgstr "もっと読む"
+msgstr "続きを読む"
 
 msgctxt "[\"GAME\"]"
 msgid "GAME"
@@ -120,7 +120,7 @@ msgstr "ホーム"
 
 msgctxt "[\"SORT_BY\"]"
 msgid "Sort by"
-msgstr "並べ替え"
+msgstr "並び替え"
 
 msgctxt "[\"HOT\"]"
 msgid "Hot"
@@ -609,7 +609,7 @@ msgstr ""
 
 msgctxt "[\"MARKET-QR\"]"
 msgid "Download<br>APKPure App"
-msgstr "APKPureアプリをダウンローダする。"
+msgstr "<br>APKPureアプリをダウンローダする"
 
 msgctxt "[\"MARKET-QR-TITLE\"]"
 msgid "Download APKPure App"
@@ -643,7 +643,7 @@ msgstr "APKPureアプリを通じて XAPKアップデートをダウンロード
 
 msgctxt "[\"MARKET-DETAIL_XAPK_SHORT_DES_MOBILE\"]"
 msgid "Click to get XAPK Installer"
-msgstr "クリックして XAPKインストーラーをダウンローダする。"
+msgstr "クリックして XAPKインストーラーをダウンローダする"
 
 msgctxt "[\"MARKET-DETAIL_XAPK_SHORT_DES_TITLE\"]"
 msgid "Install and update XAPK with APKPure App"
@@ -1529,7 +1529,7 @@ msgstr "APKPure 或は com.apkpure.aegon"
 
 msgctxt "[\"SEARCH-TITLE\"]"
 msgid "Enter App Name, Package Name, Package ID"
-msgstr "App 名、パッケージ名、パッケージIDを入力してください。"
+msgstr "App 名、パッケージ名、パッケージIDを入力してください"
 
 msgctxt "[\"404-DES\"]"
 msgid "It seems that page you are looking for no longer exists.<br />You can explore more Android Games and Apps below!"
@@ -1577,7 +1577,7 @@ msgstr "APKPure アプリを通じて<strong>{0}</strong>をアップデート�
 
 msgctxt "[\"MARKET-BOTTOM_BANNER_DETAIL_APK_DES_TITLE\"]"
 msgid "Using APKPure App to upgrade {0}, fast, free and save your internet data."
-msgstr "APKPure アプリを通じて<strong>{0}</strong>をアップデートする。速く、無料、データ通信料を節約"
+msgstr "APKPure アプリを通じて<strong>{0}</strong>をアップデートする。速く、無料、データ通信料を節約。"
 
 msgctxt "[\"MARKET-BOTTOM_BANNER_DETAIL_XAPK_DES\"]"
 msgid "Using APKPure App to upgrade <strong>{0}</strong>, install xapk, fast, free and save your internet data."
@@ -1587,7 +1587,7 @@ msgstr ""
 msgctxt "[\"MARKET-BOTTOM_BANNER_DETAIL_XAPK_DES_TITLE\"]"
 msgid "Using APKPure App to upgrade {0}, install xapk, fast, free and save your internet data."
 msgstr ""
-"APKPure アプリを通じて<strong>{0}</strong>をアップデートする。XAPKをインストールする。速く、無料で、データ通信料を節約。"
+"APKPure アプリを通じて<strong>{0}</strong>をアップデートする。XAPKをインストールする。速く、無料、データ通信料を節約。"
 
 msgctxt "[\"MARKET-PROMOTION_BANNER_MOBILE1\"]"
 msgid "<p class=\"desc\">Using APKPure App to download/update this apk, faster, free and saving data!</p>"
@@ -1683,7 +1683,7 @@ msgstr "APKPure署検証はオンラインで提供元不明なAPKインスト�
 
 msgctxt "[\"meta\"][\"Download\"][\"title\"]"
 msgid "Region free APK download daily update apps and games"
-msgstr "ダウンロードするときでた地域制限を解決して、多地域ダウンロードすることができます。"
+msgstr "ダウンロードするときでた地域制限を解決して、多地域ダウンロードすることができます"
 
 msgctxt "[\"meta\"][\"Download\"][\"keywords\"]"
 msgid "apk download, region free apk download"
