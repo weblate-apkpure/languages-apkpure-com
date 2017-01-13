@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-01-09 13:45+0000\n"
-"PO-Revision-Date: 2017-01-09 19:55+0000\n"
+"PO-Revision-Date: 2017-01-13 09:42+0000\n"
 "Last-Translator: Giorgi Gafrindashvili <gafrindashvili09@gmail.com>\n"
 "Language-Team: Georgian "
 "<https://translate.apkpure.com/projects/apkpure/apkpurecom/ka/>\n"
@@ -224,7 +224,7 @@ msgstr "გადმოწერე უფასო თამაშები დ
 
 msgctxt "[\"INDEX-MOBILE_TITLE\"]"
 msgid "Download free Android Games and Apps."
-msgstr "გადმოწერე უფასო თამაშები და პროგრამები"
+msgstr "გადმოწერე უფასო თამაშები და პროგრამები."
 
 msgctxt "[\"INDEX-HOW_TO_DOWNLOAD\"]"
 msgid "How to download apk files?"
@@ -252,7 +252,7 @@ msgstr "გადასამოწმებელი კოდი არას�
 
 msgctxt "[\"VERIFICATION_DOWN\"]"
 msgid "Enter the code(s) as you see in the image, then click \"Download\"."
-msgstr "შეიყვანეთ მოცემული კოდი  და შემდეგ გადმოწერეთ"
+msgstr "შეიყვანეთ მოცემული კოდი  და შემდეგ გადმოწერეთ."
 
 msgctxt "[\"TOPICS\"]"
 msgid "Topics"
@@ -388,7 +388,7 @@ msgstr "განახლების თხოვნა"
 
 msgctxt "[\"DETAIL-RATING\"]"
 msgid "{votes} votes, average: {rating_average} out of {rating_best}"
-msgstr "{votes} votes, average: {rating_average} out of {rating_best}"
+msgstr "{votes} შეფასება, average: {rating_average} out of {rating_best}"
 
 msgctxt "[\"DETAIL-MORE_DEVELOPER\"]"
 msgid "Get more from {0}"
@@ -428,7 +428,7 @@ msgstr "iTunes დან დაყენება"
 
 msgctxt "[\"DETAIL-MORE_DOWNLOAD\"]"
 msgid "More Download Locations:"
-msgstr "მეტი გადმოწერის ლოკაცია"
+msgstr "მეტი გადმოწერის ლოკაცია:"
 
 msgctxt "[\"DETAIL-DELETED_COPYRIGHT_GOOGLE_PLAY_URL\"]"
 msgid "Download on Google Play"
@@ -494,7 +494,7 @@ msgstr "APK გადმომწერი"
 
 msgctxt "[\"REGION_DOWN-MOBILE_DES\"]"
 msgid "All Region Games and Apps Download."
-msgstr "ყველა რეგიონის თამაშის და აპლიკაციის გადმოწერა"
+msgstr "ყველა რეგიონის თამაშის და აპლიკაციის გადმოწერა."
 
 msgctxt "[\"LAST_DOWNLOAD\"]"
 msgid "Last Download"
@@ -541,7 +541,7 @@ msgstr "გაფართოებული ძებნა"
 
 msgctxt "[\"SEARCH-SEARCH_RESULTS\"]"
 msgid "{0} search results found."
-msgstr "ძიების რეზულტატი {0}"
+msgstr "ძიების რეზულტატი {0}."
 
 msgctxt "[\"SEARCH-NO_RESULTS_FOUND\"]"
 msgid "No results found? Try to advanced search again."
@@ -719,7 +719,7 @@ msgstr "გადმოწერა<br>APKPure პროგრამა"
 
 msgctxt "[\"MARKET-QR-TITLE\"]"
 msgid "Download APKPure App"
-msgstr "Download APKPure App"
+msgstr "ჩამოტვირთვა APKPure App"
 
 msgctxt "[\"MARKET-INDEX_SHORT_DES\"]"
 msgid "Try <strong title=\"Download APKPure APK\">APKPure App</strong> - Download, update and install apks on your Android."
