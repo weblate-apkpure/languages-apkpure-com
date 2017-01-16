@@ -246,6 +246,10 @@ msgctxt "[\"SIMILAR_TO\"]"
 msgid "Similar to {0}"
 msgstr "Similar to {0}"
 
+msgctxt "[\"CANCEL\"]"
+msgid "Cancel"
+msgstr "Cancel"
+
 msgctxt "[\"DETAIL-PAID_GAME\"]"
 msgid "Paid Game"
 msgstr "Paid Game"
@@ -419,8 +423,8 @@ msgid "Download on Google Play"
 msgstr "Download on Google Play"
 
 msgctxt "[\"DETAIL-DELETED_COPYRIGHT_GOOGLE_PLAY_DES\"]"
-msgid "{app_name} All rights reserved ©2016 {developer}. {developer} and the {developer} logo are trademarks of {developer} in the U.S. and/or other countries.All other trademarks are the property of their respective owners."
-msgstr "{app_name} All rights reserved ©2016 {developer}. {developer} and the {developer} logo are trademarks of {developer} in the U.S. and/or other countries.All other trademarks are the property of their respective owners."
+msgid "{app_name} All rights reserved ©2017 {developer}. {developer} and the {developer} logo are trademarks of {developer} in the U.S. and/or other countries.All other trademarks are the property of their respective owners."
+msgstr "{app_name} All rights reserved ©2017 {developer}. {developer} and the {developer} logo are trademarks of {developer} in the U.S. and/or other countries.All other trademarks are the property of their respective owners."
 
 msgctxt "[\"DETAIL_DOWNLOAD-NAV_DOWNLOAD\"]"
 msgid "Download"
@@ -441,6 +445,78 @@ msgstr "click here"
 msgctxt "[\"DETAIL_DOWNLOAD-HOW_TO_INSTALL_APK\"]"
 msgid "How to install APK / XAPK file"
 msgstr "How to install APK / XAPK file"
+
+msgctxt "[\"COMMENT-REPORT\"]"
+msgid "Flag as inappropriate"
+msgstr "Flag as inappropriate"
+
+msgctxt "[\"COMMENT-POST\"]"
+msgid "Post"
+msgstr "Post"
+
+msgctxt "[\"COMMENT-COMMENTS\"]"
+msgid "Comments"
+msgstr "Comments"
+
+msgctxt "[\"COMMENT-REPLY\"]"
+msgid "Reply"
+msgstr "Reply"
+
+msgctxt "[\"COMMENT-NAME\"]"
+msgid "Name"
+msgstr "Name"
+
+msgctxt "[\"COMMENT-EMIAL\"]"
+msgid "Emial"
+msgstr "Emial"
+
+msgctxt "[\"COMMENT-SORT_BY_NEWEST\"]"
+msgid "Sort by newest"
+msgstr "Sort by newest"
+
+msgctxt "[\"COMMENT-SORT_BY_OLDEST\"]"
+msgid "Sort by oldest"
+msgstr "Sort by oldest"
+
+msgctxt "[\"COMMENT-SORT_BY_BEST\"]"
+msgid "Sort by best"
+msgstr "Sort by best"
+
+msgctxt "[\"COMMENT-NEWEST\"]"
+msgid "Newest"
+msgstr "Newest"
+
+msgctxt "[\"COMMENT-OLDEST\"]"
+msgid "Oldest"
+msgstr "Oldest"
+
+msgctxt "[\"COMMENT-BEST\"]"
+msgid "Best"
+msgstr "Best"
+
+msgctxt "[\"COMMENT-RATING_REQUIRED\"]"
+msgid "Rating required"
+msgstr "Rating required"
+
+msgctxt "[\"COMMENT-GUEST\"]"
+msgid "Guest"
+msgstr "Guest"
+
+msgctxt "[\"COMMENT-START_THE_DISCUSSION\"]"
+msgid "Start the discussion…"
+msgstr "Start the discussion…"
+
+msgctxt "[\"COMMENT-LOG_IN_WITH\"]"
+msgid "Log in with"
+msgstr "Log in with"
+
+msgctxt "[\"COMMENT-COMMENTS_CANT_BE_BLANK\"]"
+msgid "Comments can't be blank."
+msgstr "Comments can't be blank."
+
+msgctxt "[\"COMMENT-OR_POST_AS_GUEST\"]"
+msgid "Or post as guest"
+msgstr "Or post as guest"
 
 msgctxt "[\"REGION_DOWN-TITLE\"]"
 msgid "Region free APK download"
@@ -559,12 +635,12 @@ msgid "It seems that page you are looking for no longer exists.<br />You can exp
 msgstr "It seems that page you are looking for no longer exists.<br />You can explore more Android Games and Apps below!"
 
 msgctxt "[\"COPYRIGHT\"]"
-msgid "Copyright © 2014-2016 APKPure. All rights reserved."
-msgstr "Copyright © 2014-2016 APKPure. All rights reserved."
+msgid "Copyright © 2014-2017 APKPure. All rights reserved."
+msgstr "Copyright © 2014-2017 APKPure. All rights reserved."
 
 msgctxt "[\"COPYRIGHT_MOBILE\"]"
-msgid "APKPure.com © 2014-2016"
-msgstr "APKPure.com © 2014-2016"
+msgid "APKPure.com © 2014-2017"
+msgstr "APKPure.com © 2014-2017"
 
 msgctxt "[\"COMING_SOON\"]"
 msgid "COMING SOON"
@@ -1059,8 +1135,8 @@ msgid "android apps, android games, must have android games, must have android a
 msgstr "android apps, android games, must have android games, must have android apps, game download"
 
 msgctxt "[\"meta\"][\"Category_featured_editors-picks\"][\"description\"]"
-msgid "Play with millions of free apps in APKPure style on Android phones, tablets, TV ,etc. Download the best must have android games you should play 2016."
-msgstr "Play with millions of free apps in APKPure style on Android phones, tablets, TV ,etc. Download the best must have android games you should play 2016."
+msgid "Play with millions of free apps in APKPure style on Android phones, tablets, TV ,etc. Download the best must have android games you should play 2017."
+msgstr "Play with millions of free apps in APKPure style on Android phones, tablets, TV ,etc. Download the best must have android games you should play 2017."
 
 msgctxt "[\"meta\"][\"Category_app\"][\"title\"]"
 msgid "Download {0} APK Android App Online - Free Pure APK Downloader"
@@ -1207,8 +1283,8 @@ msgid "{0}"
 msgstr "{0}"
 
 msgctxt "[\"meta\"][\"Similar\"][\"title\"]"
-msgid "Top best alternative {app_category} {app_type} like {app_name} for Android 2016-2017 | APKPure.com"
-msgstr "Top best alternative {app_category} {app_type} like {app_name} for Android 2016-2017 | APKPure.com"
+msgid "Top best alternative {app_category} {app_type} like {app_name} for Android 2017-2018 | APKPure.com"
+msgstr "Top best alternative {app_category} {app_type} like {app_name} for Android 2017-2018 | APKPure.com"
 
 msgctxt "[\"meta\"][\"Similar\"][\"keywords\"]"
 msgid "{app_name} alternative, {app_name} similar {app_type}, {app_category} {app_type} like {app_name}"
