@@ -1,29 +1,11 @@
-msgid ""
-msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-08-08 17:16+0000\n"
-"PO-Revision-Date: 2016-12-29 10:20+0000\n"
-"Last-Translator: leaomett <leaomett@gmail.com>\n"
-"Language-Team: Arabic "
-"<https://translate.apkpure.com/projects/apkpure/apkpurecom/ar/>\n"
-"Language: ar\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 "
-"&& n%100<=10 ? 3 : n%100>=11 ? 4 : 5;\n"
-"X-Generator: Weblate 2.10-dev\n"
-
 msgctxt "[\"NAV-GAME\"]"
 msgid "GAMES"
 msgstr "ألعاب"
 
 msgctxt "[\"NAV-APP\"]"
 msgid "APPS"
-msgstr "تطبيقات والعاب"
+msgstr "تطبيقات"
 
-#, fuzzy
 msgctxt "[\"NAV-XAPK\"]"
 msgid "XAPK"
 msgstr "XAPK"
@@ -34,7 +16,7 @@ msgstr "جديد"
 
 msgctxt "[\"NAV-PRODUCTS\"]"
 msgid "PRODUCTS"
-msgstr "منتجات"
+msgstr "المنتوجات"
 
 msgctxt "[\"NAV-NEW_GAME\"]"
 msgid "NEW GAME"
@@ -54,15 +36,15 @@ msgstr "تطبيق XAPK"
 
 msgctxt "[\"NAV-APK_INSTALL\"]"
 msgid "APK Install"
-msgstr "تثبيت ملف APK"
+msgstr "تثبيت APK"
 
 msgctxt "[\"NAV-APK_DOWNLOAD\"]"
 msgid "APK Download"
-msgstr "تحميل ملف APK"
+msgstr "تحميل APK"
 
 msgctxt "[\"NAV-APK_VERIFICATION\"]"
 msgid "APK Verification"
-msgstr "التحقق من ملف APK"
+msgstr "التحقق APK"
 
 msgctxt "[\"NAV-APKPURE_APP\"]"
 msgid "APKPure App"
@@ -74,7 +56,7 @@ msgstr "تحميل"
 
 msgctxt "[\"SELECT_LANGUAGE\"]"
 msgid "Select Language"
-msgstr "اختيار اللغة"
+msgstr "تغير اللغة"
 
 msgctxt "[\"FREE\"]"
 msgid "Free"
@@ -86,7 +68,7 @@ msgstr "قراءة المزيد"
 
 msgctxt "[\"GAME\"]"
 msgid "GAME"
-msgstr "لعبة"
+msgstr "ألعاب"
 
 msgctxt "[\"APP\"]"
 msgid "APP"
@@ -102,7 +84,7 @@ msgstr "تطبيقات"
 
 msgctxt "[\"MORE\"]"
 msgid "More"
-msgstr "مزيد"
+msgstr "المزيد"
 
 msgctxt "[\"XAPK\"]"
 msgid "XAPK"
@@ -126,7 +108,7 @@ msgstr "ترتيب حسب"
 
 msgctxt "[\"HOT\"]"
 msgid "Hot"
-msgstr "الأكثر شعبية"
+msgstr "الأكثر استخدام"
 
 msgctxt "[\"DOWNLOADS\"]"
 msgid "Downloads"
@@ -158,11 +140,11 @@ msgstr "عرض أقل"
 
 msgctxt "[\"HAVE_PRODUCTS\"]"
 msgid "have {0} products"
-msgstr "لديك {0} منتج"
+msgstr "لديك {0} المنتجات"
 
 msgctxt "[\"DEVELOPER\"]"
 msgid "Developer"
-msgstr "مطور"
+msgstr "المطور"
 
 msgctxt "[\"POPULAR_GAMES_IN_LAST_HOURS\"]"
 msgid "Popular Games In Last {0} Hours"
@@ -194,7 +176,7 @@ msgstr "إنهاء"
 
 msgctxt "[\"COMMENTS\"]"
 msgid "Comments"
-msgstr "تعليقات"
+msgstr "التعليقات"
 
 msgctxt "[\"LATEST_UPDATE_GAMES\"]"
 msgid "Latest Update Games"
@@ -202,7 +184,7 @@ msgstr "آخر تحديث الالعاب"
 
 msgctxt "[\"LATEST_UPDATE_APPS\"]"
 msgid "Latest Update Apps"
-msgstr "أحدث تحديث التطبيقات"
+msgstr "أحدث التطبيقات تحديث"
 
 msgctxt "[\"LATEST_UPDATE\"]"
 msgid "Latest Update"
@@ -210,11 +192,11 @@ msgstr "اخر تحديث"
 
 msgctxt "[\"XAPK_IS_APK_WITH_OBB_DATA\"]"
 msgid "XAPK is APK with OBB data"
-msgstr "XAPK هوملف التطبيق مع بيانات الـ OBB"
+msgstr "XAPK هو APK مع OBB البيانات"
 
 msgctxt "[\"MOST_POPULAR_IN_TODAY\"]"
 msgid "Most Popular In Today"
-msgstr "الأكثر شهرة اليوم"
+msgstr "الأكثر استخدام في اليوم"
 
 msgctxt "[\"SIMILAR_OR_RELATED\"]"
 msgid "Similar Or Related"
@@ -222,11 +204,11 @@ msgstr "مشابهة أو ذات صلة"
 
 msgctxt "[\"INDEX-TITLE\"]"
 msgid "Download free Android Games and Android Apps."
-msgstr "تحميل ألعاب وتطبيقات أندرويد مجانا ."
+msgstr "تحميل مجانا لأندرويد ألعاب وتطبيقات أندرويد."
 
 msgctxt "[\"INDEX-MOBILE_TITLE\"]"
 msgid "Download free Android Games and Apps."
-msgstr "تحميل مجانا ألعاب أندرويد وتطبيقات."
+msgstr "تحميل مجانا لأندرويد ألعاب وتطبيقات."
 
 msgctxt "[\"INDEX-HOW_TO_DOWNLOAD\"]"
 msgid "How to download apk files?"
@@ -234,11 +216,39 @@ msgstr "كيفية تحميل ملفات APK؟"
 
 msgctxt "[\"INDEX-FAQ\"]"
 msgid "FAQ"
-msgstr "أسئلة شائعة"
+msgstr "التعليمات"
+
+msgctxt "[\"INDEX-POPULAR_CATEGORIES\"]"
+msgid "Popular categories"
+msgstr "الفئات الأكثر استخدام"
 
 msgctxt "[\"DOWNLOAD_APK\"]"
 msgid "Download APK"
-msgstr "تحميل ملف APK"
+msgstr "تحميل APK"
+
+msgctxt "[\"VERIFICATION_CODE\"]"
+msgid "Verification code"
+msgstr "Verification code"
+
+msgctxt "[\"VERIFICATION_INCORRECT\"]"
+msgid "The verification code is incorrect!"
+msgstr "The verification code is incorrect!"
+
+msgctxt "[\"VERIFICATION_DOWN\"]"
+msgid "Enter the code(s) as you see in the image, then click \"Download\"."
+msgstr "Enter the code(s) as you see in the image, then click \"Download\"."
+
+msgctxt "[\"TOPICS\"]"
+msgid "Topics"
+msgstr "موضوع"
+
+msgctxt "[\"SIMILAR_TO\"]"
+msgid "Similar to {0}"
+msgstr "مشابهة لـ {0}"
+
+msgctxt "[\"CANCEL\"]"
+msgid "Cancel"
+msgstr "إلغاء"
 
 msgctxt "[\"DETAIL-PAID_GAME\"]"
 msgid "Paid Game"
@@ -258,7 +268,7 @@ msgstr "التطبيقات المدفوعة ليست متاحة للتحميل"
 
 msgctxt "[\"DETAIL-WHY_SAFE\"]"
 msgid "Why we can guarantee APK 100% safe?"
-msgstr "لماذا يمكننا ضمان أمان ملف APK 100% ?"
+msgstr "لماذا لا يمكننا ضمان APK 100٪ آمنة؟"
 
 msgctxt "[\"DETAIL-SAFE\"]"
 msgid "Verification passed"
@@ -266,11 +276,11 @@ msgstr "تم التحقق منه"
 
 msgctxt "[\"DETAIL-XAPK_SHORT_DES\"]"
 msgid "XAPK is APK with OBB data, Click to get XAPK Installer"
-msgstr "XAPK هو ملف الـAPK مع بيانات الـ OBB، انقر للحصول على المثبت"
+msgstr "XAPK غير APK مع البيانات OBB، انقر للحصول على XAPK المثبت"
 
 msgctxt "[\"DETAIL-MOBILE_XAPK_SHORT_DES\"]"
 msgid "Click to get XAPK Installer"
-msgstr "انقر للحصول على مثبت  الـ XAPK"
+msgstr "انقر للحصول على XAPK للتثبيت"
 
 msgctxt "[\"DETAIL-CATEGORY\"]"
 msgid "Category"
@@ -278,7 +288,7 @@ msgstr "الفئة"
 
 msgctxt "[\"DETAIL-LATEST_VERSION\"]"
 msgid "Latest Version"
-msgstr "أحدث إصدار"
+msgstr "احدث اصدار"
 
 msgctxt "[\"DETAIL-PUBLISH_DATE\"]"
 msgid "Publish Date"
@@ -286,7 +296,7 @@ msgstr "تاريخ النشر"
 
 msgctxt "[\"DETAIL-GET_IT_ON\"]"
 msgid "Get it on"
-msgstr "احصل عليه من"
+msgstr "الحصول عليه على"
 
 msgctxt "[\"DETAIL-REQUIREMENTS\"]"
 msgid "Requirements"
@@ -294,15 +304,15 @@ msgstr "المتطلبات"
 
 msgctxt "[\"DETAIL-AUTHOR\"]"
 msgid "Author"
-msgstr "المالك"
+msgstr "مؤلف"
 
 msgctxt "[\"DETAIL-REPORT\"]"
 msgid "Report"
-msgstr "تبليغ"
+msgstr "تقرير"
 
 msgctxt "[\"DETAIL-FLAG_AS_INAPPROPRIATE\"]"
 msgid "Flag as inappropriate"
-msgstr "وضع علامة غير مناسب"
+msgstr "تحديد كغير مناسب"
 
 msgctxt "[\"DETAIL-VOTES\"]"
 msgid "votes"
@@ -310,12 +320,11 @@ msgstr "الأصوات"
 
 msgctxt "[\"DETAIL-THE_DESCRIPTION\"]"
 msgid "The description of {0}"
-msgstr "تفاصيل عن {0}"
+msgstr "هذا الوصف ل {0}"
 
-#, fuzzy
 msgctxt "[\"DETAIL-OFFICIAL_TRAILER\"]"
 msgid "{0} for Android official Trailer"
-msgstr "{0} لعرض أندرويد الرسمي"
+msgstr "{0} لأندرويد مقطورة الرسمية"
 
 msgctxt "[\"DETAIL-VERSION\"]"
 msgid "Version"
@@ -335,11 +344,11 @@ msgstr "ملف SHA1"
 
 msgctxt "[\"DETAIL-APK_FILE_SHA1\"]"
 msgid "APK File SHA1"
-msgstr "ملف SHA1 للتطبيق"
+msgstr "APK ملف SHA1"
 
 msgctxt "[\"DETAIL-XAPK_FILE_SHA1\"]"
 msgid "XAPK File SHA1"
-msgstr "ملف SHA1 لـملف XAPK"
+msgstr "XAPK ملف SHA1"
 
 msgctxt "[\"DETAIL-WHATS_NEW\"]"
 msgid "What's new"
@@ -367,15 +376,19 @@ msgstr "طلب تحديث"
 
 msgctxt "[\"DETAIL-RATING\"]"
 msgid "{votes} votes, average: {rating_average} out of {rating_best}"
-msgstr "{votes} تصويت, المعدل: {rating_average} من مجمل {rating_best}"
+msgstr "{votes} تصويتات، المعدل: {rating_average} بعيدا عن {rating_best}"
+
+msgctxt "[\"DETAIL-RATING1\"]"
+msgid "average: {rating_average} out of {rating_best}"
+msgstr " تصويتات: {rating_average} بعيدا عن {rating_best}"
 
 msgctxt "[\"DETAIL-MORE_DEVELOPER\"]"
 msgid "Get more from {0}"
-msgstr "احصل على المزيد من {0}"
+msgstr "احصل على المزيد {0}"
 
 msgctxt "[\"DETAIL-REMOVED\"]"
 msgid "Removed"
-msgstr "تم الازالة"
+msgstr "إزالة"
 
 msgctxt "[\"DETAIL-CATEGORY_GAME\"]"
 msgid "{0} GAME"
@@ -383,11 +396,11 @@ msgstr "{0} ألعاب"
 
 msgctxt "[\"DETAIL-CATEGORY_APP\"]"
 msgid "{0} APP"
-msgstr "{0} تطبيق"
+msgstr "{0} تطبيقات"
 
 msgctxt "[\"DETAIL-VERSION_LOAD_MORE\"]"
 msgid "Load more"
-msgstr "تحميل المزيد"
+msgstr "تحميل أكثر"
 
 msgctxt "[\"DETAIL-VERSION_MORE\"]"
 msgid "More..."
@@ -407,18 +420,15 @@ msgstr "تثبيت من iTunes"
 
 msgctxt "[\"DETAIL-MORE_DOWNLOAD\"]"
 msgid "More Download Locations:"
-msgstr "المزيد من مواقع التحميل:"
+msgstr "المزيد من تحميل المواقع:"
 
 msgctxt "[\"DETAIL-DELETED_COPYRIGHT_GOOGLE_PLAY_URL\"]"
 msgid "Download on Google Play"
 msgstr "تحميل من Google Play"
 
 msgctxt "[\"DETAIL-DELETED_COPYRIGHT_GOOGLE_PLAY_DES\"]"
-msgid "{app_name} All rights reserved ©2016 {developer}. {developer} and the {developer} logo are trademarks of {developer} in the U.S. and/or other countries.All other trademarks are the property of their respective owners."
-msgstr ""
-"{app_name} كل الحقوق محفوظة ©2017 {developer}. {developer} و شعار {developer}"
-" هي علامات تجارية لصالح {developer} في الولايات المتحدة و / أو بلدان أخرى "
-".جميع العلامات التجارية الأخرى هي ملك لأصحابها ."
+msgid "{app_name} All rights reserved ©2017 {developer}. {developer} and the {developer} logo are trademarks of {developer} in the U.S. and/or other countries.All other trademarks are the property of their respective owners."
+msgstr "{app_name} كل الحقوق محفوظة ©2017 {developer}. {developer} و ال {developer} الشعار هي علامات تجارية ل {developer} في الولايات المتحدة و / أو أخرى countries.All العلامات التجارية الأخرى هي ملك لأصحابها وشكرا خاص للمترجم العالمي الكبير الأستاذ مروان الً-سيدي."
 
 msgctxt "[\"DETAIL_DOWNLOAD-NAV_DOWNLOAD\"]"
 msgid "Download"
@@ -440,18 +450,201 @@ msgctxt "[\"DETAIL_DOWNLOAD-HOW_TO_INSTALL_APK\"]"
 msgid "How to install APK / XAPK file"
 msgstr "كيفية تثبيت APK / ملف XAPK"
 
+msgctxt "[\"COMMENT-REPORT\"]"
+msgid "Report"
+msgstr "أبلغ عن"
+
+msgctxt "[\"COMMENT-POST\"]"
+msgid "Post"
+msgstr "أرسل"
+
+msgctxt "[\"COMMENT-COMMENTS\"]"
+msgid "Comments"
+msgstr "تعليقات"
+
+msgctxt "[\"COMMENT-REPLY\"]"
+msgid "Reply"
+msgstr "إضافة رد"
+
+msgctxt "[\"COMMENT-NAME\"]"
+msgid "Name"
+msgstr "الاسم"
+
+msgctxt "[\"COMMENT-EMAIL\"]"
+msgid "Email"
+msgstr "البريد الإلكتروني"
+
+msgctxt "[\"COMMENT-SORT_BY_NEWEST\"]"
+msgid "Sort by newest"
+msgstr "رتب طبقاً للأحدث"
+
+msgctxt "[\"COMMENT-SORT_BY_NEW\"]"
+msgid "Sort by newest"
+msgstr "رتب طبقاً للأحدث"
+
+msgctxt "[\"COMMENT-SORT_BY_OLDEST\"]"
+msgid "Sort by oldest"
+msgstr "رتب طبقاً للأقدم"
+
+msgctxt "[\"COMMENT-SORT_BY_BEST\"]"
+msgid "Sort by best"
+msgstr "رتب طبقاً للأفضل"
+
+msgctxt "[\"COMMENT-SORT_BY_MOST_RECENT\"]"
+msgid "Sort by most recent"
+msgstr "ترتيب حسب الأحدث"
+
+msgctxt "[\"COMMENT-NEWEST\"]"
+msgid "Newest"
+msgstr "الأحدث"
+
+msgctxt "[\"COMMENT-OLDEST\"]"
+msgid "Oldest"
+msgstr "الأقدم"
+
+msgctxt "[\"COMMENT-BEST\"]"
+msgid "Best"
+msgstr "الأفضل"
+
+msgctxt "[\"COMMENT-RATING_REQUIRED\"]"
+msgid "Rating required"
+msgstr "التقييم مطلوب"
+
+msgctxt "[\"COMMENT-GUEST\"]"
+msgid "Guest"
+msgstr "ضيف"
+
+msgctxt "[\"COMMENT-START_THE_DISCUSSION\"]"
+msgid "Start the discussion…"
+msgstr "بدء مناقشة…"
+
+msgctxt "[\"COMMENT-LOG_IN_WITH\"]"
+msgid "Log in with"
+msgstr "تسجيل الدخول مع"
+
+msgctxt "[\"COMMENT-COMMENTS_CANT_BE_BLANK\"]"
+msgid "Comments can't be blank."
+msgstr "تعليقات لا يمكن أن يكون فارغا."
+
+msgctxt "[\"COMMENT-OR_POST_AS_GUEST\"]"
+msgid "Or post as guest"
+msgstr "أو إضافة كضيف"
+
+msgctxt "[\"COMMENT-LOGOUT\"]"
+msgid "Logout"
+msgstr "الخروج"
+
+msgctxt "[\"COMMENT-WEBSITE\"]"
+msgid "Website"
+msgstr "موقع الكتروني"
+
+msgctxt "[\"COMMENT-TO_BE_FIRST\"]"
+msgid "Be the first to comment."
+msgstr "كن أول من يعلق."
+
+msgctxt "[\"COMMENT-ERR_QUICK_LOGIN\"]"
+msgid "Quick login error, please try again."
+msgstr "Quick login error, please try again."
+
+msgctxt "[\"COMMENT-ERR_EMAIL_NAME\"]"
+msgid "Incorrect mail or name"
+msgstr "Incorrect mail or name"
+
+msgctxt "[\"COMMENT-ERR_DISCUSSION\"]"
+msgid "Incorrect in discussion"
+msgstr "Incorrect in discussion"
+
+msgctxt "[\"COMMENT-ERR_RATE\"]"
+msgid "Vote failed, repeated"
+msgstr "Vote failed, repeated"
+
+msgctxt "[\"COMMENT-ERR_SENSITIVE_WORD\"]"
+msgid "Defeat,your post contains sensitive terms"
+msgstr "Defeat,your post contains sensitive terms"
+
+msgctxt "[\"COMMENT-ERR_SENSITIVE_WORD_AUDIT\"]"
+msgid "Your post contains sensitive terms and is pending approval by an admin"
+msgstr "Your post contains sensitive terms and is pending approval by an admin"
+
+msgctxt "[\"COMMENT-ERR_LINK_AUDIT\"]"
+msgid "Your post contains link and is pending approval by an admin"
+msgstr "Your post contains link and is pending approval by an admin"
+
+msgctxt "[\"COMMENT-ERR_FORBIDDEN\"]"
+msgid "Comment forbidden"
+msgstr "Comment forbidden"
+
+msgctxt "[\"COMMENT-ERR_FAILURE\"]"
+msgid "Comment unknown"
+msgstr "Comment unknown"
+
+msgctxt "[\"COMMENT-ERR_INVALID_PARAMETER\"]"
+msgid "Invalid comment parameter"
+msgstr "Invalid comment parameter"
+
+msgctxt "[\"COMMENT-DELETE\"]"
+msgid "Yes,delete it!"
+msgstr "نعم، حذفه!"
+
+msgctxt "[\"COMMENT-DELETED\"]"
+msgid "Deleted!"
+msgstr "تم الحذف!"
+
+msgctxt "[\"COMMENT-DEL\"]"
+msgid "Delete"
+msgstr "حذف"
+
+msgctxt "[\"COMMENT-ARE_YOU_SURE\"]"
+msgid "Are you sure?"
+msgstr "هل أنت متأكد؟"
+
+msgctxt "[\"USER-ACCOUNT_EXIST\"]"
+msgid "The username is already in use."
+msgstr "اسم المستخدم قيد الاستخدام بالفعل."
+
+msgctxt "[\"USER-ACCOUNT_NOT_EXIST\"]"
+msgid "The account you entered does not exist."
+msgstr "الحساب الذي أدخلته غير موجود."
+
+msgctxt "[\"USER-DISPLAY_NAME_EXIST\"]"
+msgid "The nickname is already in use."
+msgstr "الاسم المستعار قيد الاستخدام بالفعل."
+
+msgctxt "[\"USER-INCORRECT_EMAIL\"]"
+msgid "The e-mail address you entered is invalid."
+msgstr "عنوان البريد الإلكتروني الذي أدخلته غير صالح."
+
+msgctxt "[\"USER-INCORRECT_PASSWORD\"]"
+msgid "The password you entered is invalid."
+msgstr "كلمة المرور التي أدخلتها غير صالحة."
+
+msgctxt "[\"USER-INCORRECT_ACCOUNT\"]"
+msgid "The username you entered is invalid."
+msgstr "اسم المستخدم الذي أدخلته غير صالح."
+
+msgctxt "[\"USER-UNKNOWN_ERROR\"]"
+msgid "unknown mistake."
+msgstr "خطأ غير معروف."
+
+msgctxt "[\"USER-BAD_NAME\"]"
+msgid "Your input includes sensitive vocabulary."
+msgstr "يتضمن إدخالك المفردات الحساسة."
+
+msgctxt "[\"USER-FEMALE\"]"
+msgid "Female"
+msgstr "إناثا"
+
+msgctxt "[\"USER-MALE\"]"
+msgid "Male"
+msgstr "الذكر"
+
 msgctxt "[\"REGION_DOWN-TITLE\"]"
 msgid "Region free APK download"
-msgstr "تحميل ملف APK بغض النظر عن المنطقة"
+msgstr "المنطقة APK مجانا تحميل"
 
 msgctxt "[\"REGION_DOWN-DES\"]"
-msgid "- Download your favorite Android Apps with APK Downloader (Free Apps Only).<br>- Your download will begin automatically after you paste a package id and click the download button.<br>- Download failed? Please manually change country setting and try again.<br>- Want to tell us more about your problems? <a style='color:#FFFF00' href='/contact-us.html'>Contact us here</a>"
-msgstr ""
-"- تحميل المفضلة لديك تطبيقات أندرويد مع APK تنزيل (تطبيقات مجانية فقط).<br>- "
-"سوف يبدأ التحميل تلقائيا بعد لصق معرف حزمة وانقر على زر التحميل.<br>- تحميل "
-"فشل? يرجى يدويا تغيير إعداد البلد والمحاولة مرة أخرى.<br>- تريد أن تقول لنا "
-"المزيد عن مشاكلك? <a style='color:#FFFF00' href='contact-us.html'>اتصل بنا "
-"هنا</a>"
+msgid "- Download your favorite Android Apps with APK Downloader (Free Apps Only).<br>- Your download will begin automatically after you paste a package id and click the download button.<br>- Download failed? Please manually change country setting and try again.<br>- Want to tell us more about your problems? <a style='color:#FFFF00' href='contact-us.html'>Contact us here</a>"
+msgstr "- تحميل المفضلة لديك تطبيقات أندرويد مع APK تنزيل (تطبيقات مجانية فقط).<br>- سوف يبدأ التحميل تلقائيا بعد لصق معرف حزمة وانقر على زر التحميل.<br>- تحميل فشل? يرجى يدويا تغيير إعداد البلد والمحاولة مرة أخرى.<br>- تريد أن تقول لنا المزيد عن مشاكلك? <a style='color:#FFFF00' href='contact-us.html'>اتصل بنا هنا</a>"
 
 msgctxt "[\"REGION_DOWN-PLACEHOLDER\"]"
 msgid "com.facebook.katana or https://play.google.com...?id=com.facebook.katana"
@@ -463,15 +656,15 @@ msgstr "بحث"
 
 msgctxt "[\"REGION_DOWN-COUNTRY_NAME\"]"
 msgid "Country name or Region code"
-msgstr "اسم البلد أو رمز المنطقة"
+msgstr "اسم رمز البلد أو المنطقة"
 
 msgctxt "[\"REGION_DOWN-MOBILE_TITLE\"]"
 msgid "APK Downloader"
-msgstr "تحميل ملف APK"
+msgstr "تحميل APK"
 
 msgctxt "[\"REGION_DOWN-MOBILE_DES\"]"
 msgid "All Region Games and Apps Download."
-msgstr "تحميل العاب وتطبيقات جميع المناطق."
+msgstr "تحميل الألعاب والتطبيقات كل منطقة."
 
 msgctxt "[\"LAST_DOWNLOAD\"]"
 msgid "Last Download"
@@ -479,7 +672,7 @@ msgstr "أخر تحميل"
 
 msgctxt "[\"SIGN_VERIFY-TITLE\"]"
 msgid "Signature Verification Online"
-msgstr "التحقق من التوقيع عن بعد"
+msgstr "التحقق من توقيع اون لاين"
 
 msgctxt "[\"SIGN_VERIFY-CLICK_UPLOAD\"]"
 msgid "Click Upload APK file"
@@ -491,13 +684,11 @@ msgstr "حجم الملف الأقصى"
 
 msgctxt "[\"SIGN_VERIFY-DES\"]"
 msgid "APK Signature verification will verify Android app package signature to keep Android users away from potentially harmful APK files before APK installing."
-msgstr ""
-"سيقوم التحقق من توقيع ملف APK بالتحقق من توقيع حزمة تطبيق الاندرويد ليبقي "
-"مستخدمي الأندرويد بعيداً عن ملفات APK التي قد تكون ضارة قبل تثبيتها."
+msgstr "يقوم فحص توقيع حزمة تطبيق أندرويد أثناء التحقق من توقيع APK لغرض حماية مستخدمي أندرويد من ملفات قد تكون ضارة قبل تركيبها."
 
 msgctxt "[\"SIGN_VERIFY-PACKAGE_NAME\"]"
 msgid "Package Name"
-msgstr "اسم الحزمة"
+msgstr "اسم حزمة"
 
 msgctxt "[\"SIGN_VERIFY-SIGNATURE\"]"
 msgid "Signature"
@@ -517,23 +708,23 @@ msgstr "البحث المتقدم"
 
 msgctxt "[\"SEARCH-SEARCH_RESULTS\"]"
 msgid "{0} search results found."
-msgstr "تم العثور على {0} نتائج بحث."
+msgstr "تم العثور على {0} نتائج البحث."
 
 msgctxt "[\"SEARCH-NO_RESULTS_FOUND\"]"
 msgid "No results found? Try to advanced search again."
-msgstr "ألم تجد ما تبحث عنه؟ جرب مرة أخرى و لكن باستخدام البحث المتقدم."
+msgstr "لا توجد نتائج؟ محاولة البحث المتقدم مرة أخرى."
 
 msgctxt "[\"SEARCH-SELECT_REGION\"]"
 msgid "Select a region you want to search with"
-msgstr "حدد المنطقة التي تريد البحث بحسبها"
+msgstr "حدد المنطقة التي تريد البحث مع"
 
 msgctxt "[\"SEARCH-ABOUT_RESULTS\"]"
 msgid "About {0} results"
-msgstr "حوالي {0} نتيجة"
+msgstr "حوالي {0} النتائج"
 
 msgctxt "[\"SEARCH-PLACEHOLDER1\"]"
 msgid "APKPure or com.apkpure.aegon"
-msgstr "APKPURE أو com.apkpure.aegon"
+msgstr "إسم التطبيق أو رابط com.apkpure.aegon"
 
 msgctxt "[\"SEARCH-PLACEHOLDER2\"]"
 msgid "Search..."
@@ -541,17 +732,15 @@ msgstr "بحث..."
 
 msgctxt "[\"SEARCH-PLACEHOLDER3\"]"
 msgid "Name Or Package Name"
-msgstr "الاسم او اسم الحزمة"
+msgstr "تسمية اسم أو حزمة"
 
 msgctxt "[\"SEARCH-TITLE\"]"
 msgid "Enter App Name, Package Name, Package ID"
-msgstr ""
-"أدخل اسم التطبيق أو رابط التطبيق أو اسم حزمة التثبيت أو رقم هوية الحزمة في "
-"متجر غوغل"
+msgstr "أدخل اسم التطبيق، اسم الحزمة، إسم الهوية الحزمة"
 
 msgctxt "[\"SEARCH-APK\"]"
 msgid "Search APK"
-msgstr "البحث عن ملف APK"
+msgstr "البحث APK"
 
 msgctxt "[\"404-OOPS\"]"
 msgid "OOPS!,"
@@ -559,45 +748,43 @@ msgstr "عفوا"
 
 msgctxt "[\"404-Error_404\"]"
 msgid "Error 404!"
-msgstr "خطأ رقم 404!"
+msgstr "خطأ 404!"
 
 msgctxt "[\"404-DES\"]"
-msgid "It seems that page you are looking for no longer exists.<br />You can explore more Android Games and Apps below！"
-msgstr ""
-"يبدو أن الصفحة التي كنت تبحث عنها لم يعد موجودا <br /> .يمكنك استكشاف المزيد "
-"من ألعاب وتطبيقات أندرويد أدناه!"
+msgid "It seems that page you are looking for no longer exists.<br />You can explore more Android Games and Apps below!"
+msgstr "يبدو أن الصفحة التي كنت تبحث عنها لم يعد موجودا <br /> .يمكنك استكشاف المزيد من ألعاب وتطبيقات أندرويد أدناه!"
 
 msgctxt "[\"COPYRIGHT\"]"
-msgid "Copyright © 2014-2016 APKPure. All rights reserved."
-msgstr "حقوق النشر © 2014-2017 APKPure. جميع الحقوق محفوظة."
+msgid "Copyright © 2014-2017 APKPure. All rights reserved."
+msgstr "APKPure.com © 2014-2017"
 
 msgctxt "[\"COPYRIGHT_MOBILE\"]"
-msgid "APKPure.com © 2014-2016"
+msgid "APKPure.com © 2014-2017"
 msgstr "APKPure.com © 2014-2017"
 
 msgctxt "[\"COMING_SOON\"]"
 msgid "COMING SOON"
-msgstr "سيتم إضافته قريباً"
+msgstr "انتظرونا قريبا"
 
 msgctxt "[\"SEARCHING\"]"
 msgid "Searching..."
-msgstr "جاري البحث..."
+msgstr "البحث..."
 
 msgctxt "[\"FOOTER-APK_DOWNLOADER_SEO\"]"
 msgid "APK Downloader"
-msgstr "مُحمِّل ملفات APK"
+msgstr "تحميل APK"
 
 msgctxt "[\"FOOTER-APK_DOWNLOADS_SEO\"]"
 msgid "APK Downloads"
-msgstr "تنزيلات ملفات APK"
+msgstr "تنزيل APK"
 
 msgctxt "[\"FOOTER-APK_DOWNLOAD\"]"
-msgid "APK Download"
-msgstr "تحميل APK"
+msgid "APK Downloader (Region free)"
+msgstr "APK تنزيل (منطقة المجانية)"
 
 msgctxt "[\"FOOTER-APK_INSTALL\"]"
 msgid "APK Install"
-msgstr "تثبيت ملف APK"
+msgstr "تثبيت APK"
 
 msgctxt "[\"FOOTER-APK_SIGNATURE_VERIFICATION\"]"
 msgid "APK Signature Verification"
@@ -613,7 +800,7 @@ msgstr "سياسة الخصوصية"
 
 msgctxt "[\"FOOTER-DMCA\"]"
 msgid "DMCA Disclaimer"
-msgstr "حقوق الملكية الفكرية DMCA"
+msgstr "DMCA"
 
 msgctxt "[\"FOOTER-DMCA_TITLE\"]"
 msgid "DMCA Disclaimer"
@@ -625,7 +812,7 @@ msgstr "شرط الاستخدام"
 
 msgctxt "[\"FOOTER-MARKET_FOR_ANDROID\"]"
 msgid "APKPure For Android"
-msgstr "APKPure لأجهزة الأندرويد"
+msgstr "لأجهزة الأندرويد APKPure"
 
 msgctxt "[\"FOOTER-EXPLORE_XAPK_GAMES\"]"
 msgid "Explore XAPK Games"
@@ -633,7 +820,7 @@ msgstr "إستكشاف XAPK الألعاب"
 
 msgctxt "[\"FOOTER-EXPLORE_XAPK_APPS\"]"
 msgid "Explore XAPK Apps"
-msgstr "إستكشاف التطبيقات بصيغة XAPK"
+msgstr "إستكشاف XAPK التطبيقات"
 
 msgctxt "[\"FOOTER-DESKTOP_VERSION\"]"
 msgid "Desktop Version"
@@ -645,7 +832,7 @@ msgstr "نسخة الجوال"
 
 msgctxt "[\"FOOTER-MOBILE_SITE\"]"
 msgid "Mobile Site"
-msgstr "الموقع للهاتف المحمول"
+msgstr "الموقع المحمول"
 
 msgctxt "[\"FOOTER-CONTACT_US\"]"
 msgid "Contact Us"
@@ -653,11 +840,11 @@ msgstr "اتصل بنا"
 
 msgctxt "[\"FOOTER-ABOUT\"]"
 msgid "About Us"
-msgstr "معلومات عنا"
+msgstr "حول"
 
 msgctxt "[\"FOOTER-SOLUTIONS\"]"
 msgid "SOLUTIONS"
-msgstr "حلول"
+msgstr "المزيد من المنتجات"
 
 msgctxt "[\"FOOTER-CUSTOMER_SERVICE\"]"
 msgid "CUSTOMER SERVICE"
@@ -673,19 +860,31 @@ msgstr "الأكثر تطبيقات أندرويد"
 
 msgctxt "[\"FOOTER-TOP_ANDROID_GAMES\"]"
 msgid "TOP ANDROID GAMES"
-msgstr "أفضل ألعاب الأندرويد"
+msgstr "الأكثر ألعاب أندرويد"
 
 msgctxt "[\"FOOTER-TRANSLATE\"]"
 msgid "Help translate APKPure"
-msgstr "ساعدنا بترجمة APKPure"
+msgstr "ترجمة APKPure"
 
 msgctxt "[\"FOOTER-DEVELOPER\"]"
 msgid "Submit Your App"
-msgstr "أنشر تطبيقك"
+msgstr "المطورون"
+
+msgctxt "[\"FOOTER-COOPERATION\"]"
+msgid "Business Cooperation"
+msgstr "Business Cooperation"
+
+msgctxt "[\"FOOTER-XAPK\"]"
+msgid "XAPK"
+msgstr "XAPK"
+
+msgctxt "[\"FOOTER-REPORT_ABUSE\"]"
+msgid "Report abuse"
+msgstr "Report abuse"
 
 msgctxt "[\"MARKET-QR\"]"
 msgid "Download<br>APKPure App"
-msgstr "تحميل تطبيق<br> APKPure"
+msgstr "تحميل<br>APKPure App"
 
 msgctxt "[\"MARKET-QR-TITLE\"]"
 msgid "Download APKPure App"
@@ -693,38 +892,35 @@ msgstr "تحميل تطبيق APKPure"
 
 msgctxt "[\"MARKET-INDEX_SHORT_DES\"]"
 msgid "Try <strong title=\"Download APKPure APK\">APKPure App</strong> - Download, update and install apks on your Android."
-msgstr ""
-"جرب <strong title=\"Download APKPure APK\"> تطبيق APKPure</strong> - حمل "
-"وحدث وثبت تطبيقات الأندوريد على الجهاز الخاص بك."
+msgstr "محاولة <strong title=\"تحميل APKPure APK\">APKPure App</strong> - تحميل، تحديث وتثبيت ملفات apk على أندرويد الخاص ."
 
 msgctxt "[\"MARKET-INDEX_SHORT_DES_TITLE\"]"
 msgid "Try APKPure Mobile app, to install, manage and update your Android apps."
-msgstr ""
-"جرب تطبيق APKPure للهاتف ، لتثبيت وإدارة وتحديث تطبيقات الأندرويد الخاصة بك."
+msgstr "محاولة التطبيق APKPure موبايل، لتثبيت وإدارة وتحديث تطبيقات أندرويد الخاص بك."
 
 msgctxt "[\"MARKET-DETAIL_APK_SHORT_DES\"]"
 msgid "Faster apks download and update on APKPure App"
-msgstr "تحميل وتحديث التطبيقات بشكل أسرع بواسطة تطبيق APKPure"
+msgstr "التطبيقات أسرع تحميل وتحديث على APKPure تطبيق"
 
 msgctxt "[\"MARKET-DETAIL_APK_SHORT_DES_MOBILE\"]"
 msgid "Download and update on APKPure App"
-msgstr "حمل وحدث تطبيقاتك بواسطة تطبيق APKPure"
+msgstr "تحميل وتحديث على APKPure تطبيق"
 
 msgctxt "[\"MARKET-DETAIL_APK_SHORT_DES_TITLE\"]"
 msgid "Faster apks download and update on APKPure"
-msgstr "تحميل وتحديث أسرع بواسطة تطبيق APKPure"
+msgstr "أسرع التطبيقات التحميل والتحديث على APKPure"
 
 msgctxt "[\"MARKET-DETAIL_XAPK_SHORT_DES\"]"
 msgid "Install and update XAPK with APKPure App"
-msgstr "ثبت وحدث ملفات XAPK بواسطة تطبيق APKPure"
+msgstr "تثبيت وتحديث APK مع APKPure التطبيقات"
 
 msgctxt "[\"MARKET-DETAIL_XAPK_SHORT_DES_MOBILE\"]"
 msgid "Click to get XAPK Installer"
-msgstr "انقر هنا للحصول على أداة تثبيت XAPK"
+msgstr "انقر للحصول على XAPK للتثبيت"
 
 msgctxt "[\"MARKET-DETAIL_XAPK_SHORT_DES_TITLE\"]"
 msgid "Install and update XAPK with APKPure App"
-msgstr "ثبت وحدث ملفات XAPK بواسطة تطبيق APKPure"
+msgstr "تثبيت وتحديث APK مع APKPure التطبيقات"
 
 msgctxt "[\"MARKET-INDEX_BANNER_TITLE\"]"
 msgid "APKPure APP"
@@ -732,7 +928,7 @@ msgstr "تطبيق APKPure"
 
 msgctxt "[\"MARKET-INDEX_BANNER_DES\"]"
 msgid "Install,manage and update your apps"
-msgstr "ثبت وأدر وحدث تطبيقات الأندرويد الخاصة بك"
+msgstr "تثبيت وإدارة وتحديث تطبيقات الأندرويد الخاص بك"
 
 msgctxt "[\"MARKET-BOTTOM_BANNER_TITLE\"]"
 msgid "APKPure App"
@@ -740,32 +936,23 @@ msgstr "تطبيق APKPure"
 
 msgctxt "[\"MARKET-BOTTOM_BANNER_DES\"]"
 msgid "Try APKPure App - Download, update and install apks on your Android."
-msgstr ""
-"قم بتجربة تطبيق APKPure - حمل وحدث وثبت ملفات APK على جهاز الأندرويد الخاص "
-"بك."
+msgstr "محاولة APKPure التطبيق - تحميل وتحديث وتثبيت ملفات apk على أندرويد الخاص بك."
 
 msgctxt "[\"MARKET-BOTTOM_BANNER_DETAIL_APK_DES\"]"
 msgid "Using APKPure App to upgrade <strong>{0}</strong>, fast, free and save your internet data."
-msgstr ""
-"استخدم تطبيق APKPure لتحديث <strong>{0}</strong>، بسرعة ومجاناً ووفر استهلاك "
-"بيانات الإنترنت."
+msgstr "باستخدام APKPure App لترقية <strong> {0}</strong>, بسرعة وحرة وحفظ البيانات الخاصة بك على الإنترنت."
 
 msgctxt "[\"MARKET-BOTTOM_BANNER_DETAIL_APK_DES_TITLE\"]"
 msgid "Using APKPure App to upgrade {0}, fast, free and save your internet data."
-msgstr ""
-"استخدم تطبيق APKPure لتحديث {0}، بسرعة ومجاناً ووفر استهلاك بيانات الإنترنت."
+msgstr "باستخدام APKPure App  يمكنك ترقية {0}  بسرعة وحرة وحفظ بياناتك على الانترنت."
 
 msgctxt "[\"MARKET-BOTTOM_BANNER_DETAIL_XAPK_DES\"]"
 msgid "Using APKPure App to upgrade <strong>{0}</strong>, install xapk, fast, free and save your internet data."
-msgstr ""
-"استخدم تطبيق APKPure لتحديث <strong>{0}</strong>، ثبت ملفات XAPK بسرعة "
-"ومجاناً ووفر استهلاك بيانات الإنترنت."
+msgstr "باستخدام  APKPure App يمكنك ترقية <strong>{0}</strong>, وتثبيت APK بسرعة ومجانا والحفاظ على بيناتك على الانترنت."
 
 msgctxt "[\"MARKET-BOTTOM_BANNER_DETAIL_XAPK_DES_TITLE\"]"
 msgid "Using APKPure App to upgrade {0}, install xapk, fast, free and save your internet data."
-msgstr ""
-"استخدام APKPure تطبيق لترقية {0}، وتثبيت ملفات APK بسرعة ومجاناً والحفاظ على "
-"بياناتك على الانترنت."
+msgstr "باستخدام APKPure App يمكنك ترقية {0}، وتثبيت APK بسرعة ومجانا والحفاظ على بياناتك على الانترنت."
 
 msgctxt "[\"MARKET-BOTTOM_BANNER_DOWNLOAD_BTN\"]"
 msgid "Download APP"
@@ -773,27 +960,19 @@ msgstr "تحميل التطبيق"
 
 msgctxt "[\"MARKET-PROMOTION_BANNER_MOBILE1\"]"
 msgid "<p class=\"desc\">Using APKPure App to download/update this apk, faster, free and saving data!</p>"
-msgstr ""
-"<p class=\"desc\">استخدام تطبيق APKPure لتحميل/تحديث ملف الـ APK الحالي، "
-"سريع , مجاني , يوفر بيانات الانترنت!</p>"
+msgstr "<p class=\"desc\">باستخدام APKPure التطبيقات لتحميل / تحديث هذه APK، يمكنك تحميل أحدث إصدار بسرعة وبحماية كاملة!</p>"
 
 msgctxt "[\"MARKET-PROMOTION_BANNER_MOBILE1_XAPK\"]"
 msgid "<p class=\"desc\">Using APKPure App to install this XAPK, faster, free and saving data!</p>"
-msgstr ""
-"<p class=\"desc\">استخدام تطبيق APKPure لتثبيت ملف XAPK الحالي، سريع , مجاني "
-", يوفر بيانات الانترنيت!</p>"
+msgstr "<p class=\"desc\">باستخدام APKPure التطبيقات لتثبيت هذا APK، يمكنك تحميل أحدث إصدار بسرعة وبحماية كاملة!</p>"
 
 msgctxt "[\"MARKET-PROMOTION_BANNER_MOBILE2\"]"
 msgid "<p class=\"tit\">Using APKPure App</p><p class=\"des\">Faster, free and saving data!</p>"
-msgstr ""
-"<p class=\"tit\">استخدم تطبيق APKPure </p><p class=\"des\">أسرع , مجاني , "
-"يوفر بيانات الانترنت!</p>"
+msgstr "<p class=\"tit\">باستخدام APKPure التطبيقات</p><p class=\"des\">يمكنك تحميل أحدث إصدار بسرعة وبحماية كاملة!</p>"
 
 msgctxt "[\"MARKET-PROMOTION_BANNER_MOBILE2_XAPK\"]"
 msgid "<p class=\"tit\">Using APKPure App</p><p class=\"des\">Install XAPK, Faster, free and saving data!</p>"
-msgstr ""
-"<p class=\"tit\">باستخدام APKPure التطبيقات</p><p class=\"des\">تثبيت XAPK، "
-"يمكنك تحميل أحدث إصدار بسرعة وبحماية كاملة!</p>"
+msgstr "<p class=\"tit\">باستخدام APKPure التطبيقات</p><p class=\"des\">تثبيت XAPK، يمكنك تحميل أحدث إصدار بسرعة وبحماية كاملة!</p>"
 
 msgctxt "[\"FLAG-Africa\"]"
 msgid "Africa"
@@ -1011,211 +1190,21 @@ msgctxt "[\"js\"][\"FILE_UPLOAD_FAILED\"]"
 msgid "File upload failed!"
 msgstr "تحميل ملف فشل!"
 
-msgctxt "[\"featured\"][\"2016-new-year\"]"
-msgid "2016 New Year"
-msgstr "2016 السنة الجديدة"
+msgctxt "[\"js\"][\"CANCEL\"]"
+msgid "Cancel"
+msgstr "إلغاء"
 
-msgctxt "[\"featured\"][\"2015-best-android-games\"]"
-msgid "2015 Best Android Games"
-msgstr "2015 أفضل الألعاب أندرويد"
+msgctxt "[\"js\"][\"COMMENT-DELETE\"]"
+msgid "Yes,delete it!"
+msgstr "نعم، حذفه!"
 
-msgctxt "[\"featured\"][\"2015-most-popular-apps\"]"
-msgid "2015 Most Popular Apps"
-msgstr "2015 معظم التطبيقات الشهيرة"
+msgctxt "[\"js\"][\"COMMENT-DELETED\"]"
+msgid "Deleted!"
+msgstr "تم الحذف!"
 
-msgctxt "[\"featured\"][\"editors-picks\"]"
-msgid "Editors' Picks"
-msgstr "اختيارات المحررين"
-
-msgctxt "[\"featured\"][\"editors-picks-subtitle\"]"
-msgid "Top Picks for the Best Apps & Game"
-msgstr "أعلى اللقطات لتطبيقات أفضل من مارس"
-
-msgctxt "[\"featured\"][\"editors-picks-games\"]"
-msgid "Games"
-msgstr "الألعاب"
-
-msgctxt "[\"featured\"][\"editors-picks-apps\"]"
-msgid "Apps"
-msgstr "التطبيقات"
-
-msgctxt "[\"featured\"][\"promotion_app_new\"]"
-msgid "Top New Free Apps"
-msgstr "أعلى التطبيقات المجانية الجديدة"
-
-msgctxt "[\"featured\"][\"promotion_game_new\"]"
-msgid "Top New Free Games"
-msgstr "أعلى ألعاب مجانية جديدة"
-
-msgctxt "[\"featured\"][\"promotion_app_top\"]"
-msgid "Top Free in Apps"
-msgstr "أعلى تطبيقات مجانية جديدة"
-
-msgctxt "[\"featured\"][\"promotion_game_top\"]"
-msgid "Top Free in Games"
-msgstr "أعلى ألعاب مجانية"
-
-msgctxt "[\"featured\"][\"promotion_uefa_euro_2016\"]"
-msgid "Official UEFA EURO 2016 Apps"
-msgstr "الرسمي كأس الأمم الأوروبية 2016 تطبيقات"
-
-msgctxt "[\"include\"][\"INDEX-FAQ\"]"
-msgid "www/index_faq.htm"
-msgstr "www/index_faq.htm"
-
-msgctxt "[\"meta\"][\"about.html\"][\"title\"]"
-msgid "About us"
-msgstr "معلومات عنا"
-
-msgctxt "[\"meta\"][\"about.html\"][\"keywords\"]"
-msgid "about apkpure.com, about us, about"
-msgstr "حول apkpure.com، عنا، حول"
-
-msgctxt "[\"meta\"][\"about.html\"][\"description\"]"
-msgid "About APKPure Team"
-msgstr "حول فريق APKPure"
-
-msgctxt "[\"meta\"][\"contact-us.html\"][\"title\"]"
-msgid "Contact Us"
-msgstr "اتصل بنا"
-
-msgctxt "[\"meta\"][\"contact-us.html\"][\"keywords\"]"
-msgid "contact apkpure.com, contact us, contact"
-msgstr "اتصال apkpure.com, اتصل بنا, اتصال"
-
-msgctxt "[\"meta\"][\"contact-us.html\"][\"description\"]"
-msgid "Contact APKPure"
-msgstr "الاتصال APKPure"
-
-msgctxt "[\"meta\"][\"terms.html\"][\"title\"]"
-msgid "Terms of use"
-msgstr "تعليمات الاستخدام"
-
-msgctxt "[\"meta\"][\"terms.html\"][\"keywords\"]"
-msgid "terms of use"
-msgstr "تعليمات الاستخدام"
-
-msgctxt "[\"meta\"][\"terms.html\"][\"description\"]"
-msgid "APKPure Terms of use"
-msgstr "APKPure شروط الاستخدام"
-
-msgctxt "[\"meta\"][\"usb-debugging.html\"][\"title\"]"
-msgid "What is USB Debugging?"
-msgstr "ما هو التصحيح USB؟"
-
-msgctxt "[\"meta\"][\"usb-debugging.html\"][\"keywords\"]"
-msgid "USB Debugging, usb debug, debug mode, usb debugging mode, enable usb debug"
-msgstr "وضع التصحيح الناقل التسلسلي العام، تمكين USB التصحيح"
-
-msgctxt "[\"meta\"][\"usb-debugging.html\"][\"description\"]"
-msgid "Learn how to enable USB Debugging mode on Android device"
-msgstr "تعرف على كيفية تمكين وضع التصحيح USB على جهاز الأندرويد"
-
-msgctxt "[\"meta\"][\"apk-install.html\"][\"title\"]"
-msgid "Pure APK Install, best and free one click Android APK, XAPK Installer"
-msgstr "APKPure التثبيت، وأفضل وخالية بنقرة واحدة أندرويد APK، XAPK للتثبيت"
-
-msgctxt "[\"meta\"][\"apk-install.html\"][\"keywords\"]"
-msgid "apk install, apk installer, xapk installer, install apk file, apk installation software, apk installer for pc"
-msgstr "APK تثبيت، المثبت APK، المثبت xapk، تثبيت ملف APK، برنامج التثبيت APK، APK المثبت للكمبيوتر"
-
-msgctxt "[\"meta\"][\"apk-install.html\"][\"description\"]"
-msgid "With Pure APK Install, you are allowed to install Android APK, XAPK file for any Android phones and tablets by one click."
-msgstr "مع تركيب APKPure، ويسمح لك لتثبيت أندرويد APK، ملف XAPK لأي هواتف أندرويد والأجهزة اللوحية خلال نقرة واحدة."
-
-msgctxt "[\"meta\"][\"xapk.html\"][\"title\"]"
-msgid "What is XAPK?"
-msgstr "ما هو XAPK؟"
-
-msgctxt "[\"meta\"][\"xapk.html\"][\"keywords\"]"
-msgid "xapk, xapk install, apk install, install obb,install android apk, copy obb to android, transfer obb to android"
-msgstr "تثبيت، تثبيت APK، تثبيت OBB، تثبيت الروبوت APK، نسخة OBB لأندرويد، ونقل OBB لأندرويد"
-
-msgctxt "[\"meta\"][\"xapk.html\"][\"description\"]"
-msgid "Install XAPK (APK with OBB file), APK file to Android"
-msgstr "تثبيت APK (APK مع ملف OBB)، ملف APK لأندرويد"
-
-msgctxt "[\"meta\"][\"dmca.html\"][\"title\"]"
-msgid "APKPure DMCA Copyright Infringement Notification"
-msgstr "APKPure DMCA حقوق التأليف والنشر إشعار بانتهاك"
-
-msgctxt "[\"meta\"][\"dmca.html\"][\"keywords\"]"
-msgid "DMCA, Copyright Infringement Notification"
-msgstr "DMCA، حقوق الطبع والنشر إشعار بانتهاك"
-
-msgctxt "[\"meta\"][\"dmca.html\"][\"description\"]"
-msgid "APKPure abides by the federal Digital Millennium Copyright Act (DMCA) by responding to notices of alleged infringement that comply with the DMCA and other applicable laws."
-msgstr "APKPure تلتزم الاتحادي قانون حقوق الطبع والنشر الرقمية للألفية الجديدة (DMCA) من خلال الاستجابة لإشعارات الانتهاك المزعوم التي تتوافق مع DMCA وغيرها من القوانين المعمول بها."
-
-msgctxt "[\"meta\"][\"privacy-policy.html\"][\"title\"]"
-msgid "Privacy Policy"
-msgstr "سياسة الخصوصية"
-
-msgctxt "[\"meta\"][\"privacy-policy.html\"][\"keywords\"]"
-msgid "about apkpure.com, about us, about"
-msgstr "حول apkpure.com، عنا، حول"
-
-msgctxt "[\"meta\"][\"privacy-policy.html\"][\"description\"]"
-msgid "About APKPure Team"
-msgstr "حول فريق APKPure"
-
-msgctxt "[\"meta\"][\"faq-safe.html\"][\"title\"]"
-msgid "Why we can guarantee APK 100% safe? | APKPure.com"
-msgstr "لماذا لا يمكننا ضمان APK 100٪ آمنة؟ | APKPure.com"
-
-msgctxt "[\"meta\"][\"faq-safe.html\"][\"keywords\"]"
-msgid "apk pure,apk safe"
-msgstr "apkpure وآمن APK"
-
-msgctxt "[\"meta\"][\"faq-safe.html\"][\"description\"]"
-msgid "Why we can guarantee APK 100% safe?"
-msgstr "لماذا لا يمكننا ضمان APK 100٪ آمنة؟"
-
-msgctxt "[\"meta\"][\"how-to-install-apk.html\"][\"title\"]"
-msgid "How to install unknown sources APK to Android"
-msgstr "كيفية تثبيت مجهولين مصادر APK لأندرويد"
-
-msgctxt "[\"meta\"][\"how-to-install-apk.html\"][\"keywords\"]"
-msgid "install apk, apkpure apk, apkpure app, apps apk, unknown sources apk"
-msgstr ""
-"تثبيت APK، APK apkpure، التطبيق apkpure، تطبيقات APK، مصادر غير معروفة APK"
-
-msgctxt "[\"meta\"][\"how-to-install-apk.html\"][\"description\"]"
-msgid "How to install unknown sources Apps apk to Android, install apk from APKPure."
-msgstr ""
-"كيفية تثبيت مصادر غير معروفة على تطبيقات APK لأندرويد، تثبيت APK من APKPure."
-
-msgctxt "[\"meta\"][\"christmas.html\"][\"title\"]"
-msgid "Best Christmas Apps for Your Android Phones & Tablets"
-msgstr "أفضل تطبيقات عيد الميلاد لديك أجهزة أندرويد وأجهزة لوحية"
-
-msgctxt "[\"meta\"][\"christmas.html\"][\"keywords\"]"
-msgid "apps, games, christmas app, christmas game, android game"
-msgstr "التطبيقات، والألعاب، والتطبيقات عيد الميلاد، لعبة عيد الميلاد، لعبة أندرويد"
-
-msgctxt "[\"meta\"][\"christmas.html\"][\"description\"]"
-msgid "APKPure Best Android games and apps for Christmas and holiday season."
-msgstr "APKPure أفضل ألعاب وتطبيقات أندرويد لعيد الميلاد وموسم العطلات."
-
-msgctxt "[\"meta\"][\"apkpure-app.html\"][\"title\"]"
-msgid "APKPure APK Downloader for Android Wear, Phones, Tablets, TV"
-msgstr "APKPure APK تنزيل لأندرويد ملابس، الهواتف، أجهزة لوحية، تلفزيون"
-
-msgctxt "[\"meta\"][\"apkpure-app.html\"][\"keywords\"]"
-msgid "APKPure, APKPure Downloader, android, market"
-msgstr "APKPure، APKPure تنزيل، أندرويد، آب ستور، وجوجل، بلاي متجر، سوق"
-
-msgctxt "[\"meta\"][\"apkpure-app.html\"][\"description\"]"
-msgid "Download and update the latest Android™ Apps apk in APKPure, the best free Android APK Downloader online right at apkpure.com. Come and join APKPure's clan."
-msgstr "تحميل وتحديث أحدث APK أندرويد ™ تطبيقات في APKPure، وأفضل أندرويد APK تنزيل الحق على الانترنت مجانا في apkpure.com. ويأتي انضمام APKPure عشيرة."
-
-msgctxt "[\"meta\"][\"developer.html\"][\"title\"]"
-msgid "Submit your Android Apps and games, corporate with APKPure"
-msgstr "المطورين - إرسال الإلكتروني لتطبيقات أندرويد والألعاب والشركات مع APKPure"
-
-msgctxt "[\"meta\"][\"developer.html\"][\"description\"]"
-msgid "Free to play games, free to use Android apps publishing submission on APKPure.com."
-msgstr "مجانا للعب مباريات، حرة في استخدام تطبيقات أندرويد تقديم النشر على APKPure.com."
+msgctxt "[\"js\"][\"COMMENT-ARE_YOU_SURE\"]"
+msgid "Are you sure?"
+msgstr "هل أنت متأكد؟"
 
 msgctxt "[\"meta\"][\"Index\"][\"title\"]"
 msgid "Download APK free online downloader | APKPure.com"
@@ -1276,6 +1265,18 @@ msgstr "{0}"
 msgctxt "[\"meta\"][\"Category_featured\"][\"description\"]"
 msgid "{0}"
 msgstr "{0}"
+
+msgctxt "[\"meta\"][\"Category_featured_editors-picks\"][\"title\"]"
+msgid "APKPure Editors' Picks for the best Android Games & Apps"
+msgstr "اللقطات APKPure المحررين لأفضل الألعاب أندرويد والتطبيقات"
+
+msgctxt "[\"meta\"][\"Category_featured_editors-picks\"][\"keywords\"]"
+msgid "android apps, android games, must have android games, must have android apps, game download"
+msgstr "تطبيقات أندرويد، ألعاب أندرويد، يجب أن يكون ألعاب أندرويد، يجب أن يكون تطبيقات أندرويد، تحميل لعبة"
+
+msgctxt "[\"meta\"][\"Category_featured_editors-picks\"][\"description\"]"
+msgid "Play with millions of free apps in APKPure style on Android phones, tablets, TV ,etc. Download the best must have android games you should play 2017."
+msgstr "لعب مع الملايين من التطبيقات المجانية في الاسلوب APKPure على هواتف أندرويد، وأقراص، التلفزيون، الخ. تحميل أفضل يجب أن يكون ألعاب أندرويد التي يجب أن تلعب 2017."
 
 msgctxt "[\"meta\"][\"Category_app\"][\"title\"]"
 msgid "Download {0} APK Android App Online - Free Pure APK Downloader"
@@ -1355,17 +1356,11 @@ msgstr "APK التحقق من توقيع، في Google Play الرسمية ال�
 
 msgctxt "[\"meta\"][\"Verify\"][\"keywords\"]"
 msgid "apk signature verification, apk signature verify, apk signature checker, apk signature viewer, modified apk, free, online, scanner"
-msgstr ""
-"APK التحقق من صحة التوقيع  APK تحقق، المدقق APK التوقيع، APK توقيع المشاهد، "
-"APK تعديل، مجانا، على الانترنت، وماسحة ضوئية"
+msgstr "APK التحقق من صحة التوقيع  APK تحقق، المدقق APK التوقيع، APK توقيع المشاهد، APK تعديل، مجانا، على الانترنت، وماسحة ضوئية"
 
 msgctxt "[\"meta\"][\"Verify\"][\"description\"]"
 msgid "APK Signature verification will verify Android app package signature to keep Android users away from potentially harmful APK files before APK installing."
-msgstr ""
-"سوف تقوم تنزيل APK  الرجاء التحقق من التوقيع تطبيق أندرويد حزمة التطبيق "
-"توقيع لإبقاء المستخدمين أندرويد بعيدا عن ملفات APK يمكن أن تكون ضارة (نسخة "
-"معدلة apk. من المواقع الرسمية تنزيل من متجر Google Play) قبل APK تركيب "
-"(التثبيت)."
+msgstr "سوف تقوم تنزيل APK  الرجاء التحقق من التوقيع تطبيق أندرويد حزمة التطبيق توقيع لإبقاء المستخدمين أندرويد بعيدا عن ملفات APK يمكن أن تكون ضارة (نسخة معدلة apk. من المواقع الرسمية تنزيل من متجر Google Play) قبل APK تركيب (التثبيت)."
 
 msgctxt "[\"meta\"][\"Download\"][\"title\"]"
 msgid "Region free APK download daily update apps and games"
@@ -1403,285 +1398,17 @@ msgctxt "[\"meta\"][\"Category\"][\"description\"]"
 msgid "Android games and apps category"
 msgstr "فئة ألعاب وتطبيقات الأندرويد"
 
-msgctxt "[\"category\"][\"GAME_ACTION\"]"
-msgid "Action"
-msgstr "أكشن"
-
-msgctxt "[\"category\"][\"GAME_ADVENTURE\"]"
-msgid "Adventure"
-msgstr "مغامرة"
-
-msgctxt "[\"category\"][\"GAME_ARCADE\"]"
-msgid "Arcade"
-msgstr "أركيد"
-
-msgctxt "[\"category\"][\"GAME_BOARD\"]"
-msgid "Board"
-msgstr "طاولة"
-
-msgctxt "[\"category\"][\"GAME_CARD\"]"
-msgid "Card"
-msgstr "الورق"
-
-msgctxt "[\"category\"][\"GAME_CASINO\"]"
-msgid "Casino"
-msgstr "كازينو"
-
-msgctxt "[\"category\"][\"GAME_CASUAL\"]"
-msgid "Casual"
-msgstr "خفيفة"
-
-msgctxt "[\"category\"][\"GAME_EDUCATIONAL\"]"
-msgid "Educational"
-msgstr "تعليمية"
-
-msgctxt "[\"category\"][\"GAME_FAMILY\"]"
-msgid "Family"
-msgstr "عائلي"
-
-msgctxt "[\"category\"][\"GAME_MUSIC\"]"
-msgid "Music"
-msgstr "موسيقى"
-
-msgctxt "[\"category\"][\"GAME_PUZZLE\"]"
-msgid "Puzzle"
-msgstr "الألغاز"
-
-msgctxt "[\"category\"][\"GAME_RACING\"]"
-msgid "Racing"
-msgstr "سباق"
-
-msgctxt "[\"category\"][\"GAME_ROLE_PLAYING\"]"
-msgid "Role Playing"
-msgstr "تقمص الأدوار"
-
-msgctxt "[\"category\"][\"GAME_SIMULATION\"]"
-msgid "Simulation"
-msgstr "المحاكاة"
-
-msgctxt "[\"category\"][\"GAME_SPORTS\"]"
-msgid "Sports"
-msgstr "رياضة"
-
-msgctxt "[\"category\"][\"GAME_STRATEGY\"]"
-msgid "Strategy"
-msgstr "الإستراتيجية"
-
-msgctxt "[\"category\"][\"GAME_TRIVIA\"]"
-msgid "Trivia"
-msgstr "تريفيا"
-
-msgctxt "[\"category\"][\"GAME_WORD\"]"
-msgid "Word"
-msgstr "كلمات"
-
-msgctxt "[\"category\"][\"BOOKS_AND_REFERENCE\"]"
-msgid "Books & Reference"
-msgstr "الكتب والمراجع"
-
-msgctxt "[\"category\"][\"BUSINESS\"]"
-msgid "Business"
-msgstr "رجال أعمال"
-
-msgctxt "[\"category\"][\"COMICS\"]"
-msgid "Comics"
-msgstr "رسوم متحركة"
-
-msgctxt "[\"category\"][\"COMMUNICATION\"]"
-msgid "Communication"
-msgstr "الاتصال"
-
-msgctxt "[\"category\"][\"EDUCATION\"]"
-msgid "Education"
-msgstr "تعليم"
-
-msgctxt "[\"category\"][\"ENTERTAINMENT\"]"
-msgid "Entertainment"
-msgstr "ترفيه"
-
-msgctxt "[\"category\"][\"FINANCE\"]"
-msgid "Finance"
-msgstr "شؤون مالية"
-
-msgctxt "[\"category\"][\"HEALTH_AND_FITNESS\"]"
-msgid "Health & Fitness"
-msgstr "الصحة واللياقة البدنية"
-
-msgctxt "[\"category\"][\"LIBRARIES_AND_DEMO\"]"
-msgid "Libraries & Demo"
-msgstr "المكتبات والعروض التوضيحية"
-
-msgctxt "[\"category\"][\"LIFESTYLE\"]"
-msgid "Lifestyle"
-msgstr "نمط حياة"
-
-msgctxt "[\"category\"][\"APP_WALLPAPER\"]"
-msgid "Live Wallpaper"
-msgstr "خلفية متحركة"
-
-msgctxt "[\"category\"][\"MEDIA_AND_VIDEO\"]"
-msgid "Media & Video"
-msgstr "الوسائط والفيديو"
-
-msgctxt "[\"category\"][\"MEDICAL\"]"
-msgid "Medical"
-msgstr "طبي"
-
-msgctxt "[\"category\"][\"MUSIC_AND_AUDIO\"]"
-msgid "Music & Audio"
-msgstr "موسيقى وصوتيات"
-
-msgctxt "[\"category\"][\"NEWS_AND_MAGAZINES\"]"
-msgid "News & Magazines"
-msgstr "الأخبار والمجلات"
-
-msgctxt "[\"category\"][\"PERSONALIZATION\"]"
-msgid "Personalization"
-msgstr "تخصيص"
-
-msgctxt "[\"category\"][\"PHOTOGRAPHY\"]"
-msgid "Photography"
-msgstr "الصور الفوتوغرافية"
-
-msgctxt "[\"category\"][\"PRODUCTIVITY\"]"
-msgid "Productivity"
-msgstr "الإنتاجية"
-
-msgctxt "[\"category\"][\"SHOPPING\"]"
-msgid "Shopping"
-msgstr "تسوّق"
-
-msgctxt "[\"category\"][\"SOCIAL\"]"
-msgid "Social"
-msgstr "اجتماعي"
-
-msgctxt "[\"category\"][\"SPORTS\"]"
-msgid "Sports"
-msgstr "ألعاب رياضية"
-
-msgctxt "[\"category\"][\"TOOLS\"]"
-msgid "Tools"
-msgstr "الأدوات"
-
-msgctxt "[\"category\"][\"TRANSPORTATION\"]"
-msgid "Transportation"
-msgstr "وسائل النقل"
-
-msgctxt "[\"category\"][\"TRAVEL_AND_LOCAL\"]"
-msgid "Travel & Local"
-msgstr "السفر ومعلومات محلية"
-
-msgctxt "[\"category\"][\"WEATHER\"]"
-msgid "Weather"
-msgstr "الطقس"
-
-msgctxt "[\"category\"][\"APP_WIDGETS\"]"
-msgid "Widgets"
-msgstr "الأدوات"
-
-msgctxt "[\"INDEX-POPULAR_CATEGORIES\"]"
-msgid "Popular categories"
-msgstr "الأصناف الشائعة"
-
-msgctxt "[\"FOOTER-APK_DOWNLOAD\"]"
-msgid "APK Downloader (Region free)"
-msgstr "مُحمٍّل ملفات APK (بغض النظر عن المنطقة)"
-
-msgctxt "[\"FOOTER-XAPK\"]"
-msgid "XAPK"
-msgstr "XAPK"
-
-msgctxt "[\"featured\"][\"promotion_tv\"]"
-msgid "Hot Android TV Apps"
-msgstr "أكثر شعبية تطبيقات أندرويد التلفزيون"
-
-msgctxt "[\"meta\"][\"Category_featured_editors-picks\"][\"title\"]"
-msgid "APKPure Editors' Picks for the best Android Games & Apps"
-msgstr "اللقطات APKPure المحررين لأفضل الألعاب أندرويد والتطبيقات"
-
-msgctxt "[\"meta\"][\"Category_featured_editors-picks\"][\"keywords\"]"
-msgid "android apps, android games, must have android games, must have android apps, game download"
-msgstr ""
-"تطبيقات أندرويد، ألعاب أندرويد، يجب أن يكون ألعاب أندرويد، يجب أن يكون "
-"تطبيقات أندرويد، تحميل لعبة"
-
-msgctxt "[\"meta\"][\"Category_featured_editors-picks\"][\"description\"]"
-msgid "Play with millions of free apps in APKPure style on Android phones, tablets, TV ,etc. Download the best must have android games you should play 2016."
-msgstr ""
-"لعب مع الملايين من التطبيقات المجانية في الاسلوب APKPure على هواتف أندرويد، "
-"وأقراص، التلفزيون، الخ. تحميل أفضل يجب أن يكون ألعاب أندرويد التي يجب أن "
-"تلعب 2017."
-
-msgctxt "[\"REGION_DOWN-DES\"]"
-msgid "- Download your favorite Android Apps with APK Downloader (Free Apps Only).<br>- Your download will begin automatically after you paste a package id and click the download button.<br>- Download failed? Please manually change country setting and try again.<br>- Want to tell us more about your problems? <a style='color:#FFFF00' href='contact-us.html'>Contact us here</a>"
-msgstr ""
-"- تحميل تطبيقات الأندرويد المفضلة لديك بواسطة APK Downloader (تطبيقات مجانية "
-"فقط) <br> - سيبدأ التحميل تلقائيا بعد لصق الـ id الخاص بالحزمة والننقر على "
-"زر تحميل <br> - هل فشل التحميل ؟ الرجاء قم بشكل يدوي بتغيير إعدادات البلد "
-"وحاول مرة أخرى <br> - هل تريد أن تخبرنا المزيد عن مشكلتك؟ <a style='color:#"
-"FFFF00' href='contact-us.html'> اتصل بنا من هنا </a>"
-
-msgctxt "[\"404-DES\"]"
-msgid "It seems that page you are looking for no longer exists.<br />You can explore more Android Games and Apps below!"
-msgstr ""
-"يبدو أن الصفحة التي كنت تبحث عنها لم تعد موجودة.<br />يمكنك استكشاف المزيد "
-"من ألعاب و تطبيقات أندرويد أدناه!"
-
-msgctxt "[\"FOOTER-COOPERATION\"]"
-msgid "Business Cooperation"
-msgstr "التعاون التجاري"
-
-msgctxt "[\"featured\"][\"promotion_rio_2016\"]"
-msgid "Rio 2016 Apps"
-msgstr "ريو 2016 تطبيقات"
-
-msgctxt "[\"meta\"][\"report-content.html\"][\"title\"]"
-msgid "Report content issues or violations"
-msgstr "قضايا محتوى التقرير أو انتهاكات"
-
-msgctxt "[\"meta\"][\"cooperation.html\"][\"title\"]"
-msgid "Cooperation whit APKPure | APKPure for Business"
-msgstr "بالتعاون مع APKPure | APKPure للأعمال التجارية"
-
-msgctxt "[\"meta\"][\"cooperation.html\"][\"keywords\"]"
-msgid "cooperation, advertise, advertising, business, partnership, partner"
-msgstr "التعاون، والإعلان، والإعلان، والأعمال التجارية، والشراكة، شريك"
-
-msgctxt "[\"meta\"][\"cooperation.html\"][\"description\"]"
-msgid "Contact APKPure to start business cooperation."
-msgstr "اتصال APKPure لبدء التعاون فى مجال الاعمال."
-
-msgctxt "[\"meta\"][\"report-content.html\"][\"keywords\"]"
-msgid ""
-msgstr "."
-
-msgctxt "[\"meta\"][\"report-content.html\"][\"description\"]"
-msgid ""
-msgstr "."
-
-msgctxt "[\"VERIFICATION_INCORRECT\"]"
-msgid "The verification code is incorrect!"
-msgstr "رمز التحقق غير صحيح!"
-
-msgctxt "[\"VERIFICATION_CODE\"]"
-msgid "Verification code"
-msgstr "رمز التحقق"
-
-msgctxt "[\"VERIFICATION_DOWN\"]"
-msgid "Enter the code(s) as you see in the image, then click \"Download\"."
-msgstr "أدخل الرمز\\الرموز كما تراها في الصورة، تم انقر \"تحميل\"."
-
 msgctxt "[\"meta\"][\"Topics\"][\"title\"]"
 msgid "Topics | APKPure.com"
-msgstr "المواضيع | APKPure.com"
+msgstr "موضوع | APKPure.com"
 
 msgctxt "[\"meta\"][\"Topics\"][\"keywords\"]"
 msgid "Topics"
-msgstr "المواضيع"
+msgstr "موضوع"
 
 msgctxt "[\"meta\"][\"Topics\"][\"description\"]"
 msgid "Topics"
-msgstr "المواضيع"
+msgstr "موضوع"
 
 msgctxt "[\"meta\"][\"Topic\"][\"title\"]"
 msgid "{0} | APKPure.com"
@@ -1695,6 +1422,14 @@ msgctxt "[\"meta\"][\"Topic\"][\"description\"]"
 msgid "{0}"
 msgstr "{0}"
 
-msgctxt "[\"TOPICS\"]"
-msgid "Topics"
-msgstr "المواضيع"
+msgctxt "[\"meta\"][\"Similar\"][\"title\"]"
+msgid "Top best alternative {app_category} {app_type} like {app_name} for Android 2017-2018 | APKPure.com"
+msgstr "Top best alternative {app_category} {app_type} like {app_name} for Android 2017-2018 | APKPure.com"
+
+msgctxt "[\"meta\"][\"Similar\"][\"keywords\"]"
+msgid "{app_name} alternative, {app_name} similar {app_type}, {app_category} {app_type} like {app_name}"
+msgstr "{app_name} alternative, {app_name} similar {app_type}, {app_category} {app_type} like {app_name}"
+
+msgctxt "[\"meta\"][\"Similar\"][\"description\"]"
+msgid "Popular alternative {app_type} to {app_name} for Android, Android tablet and more. Download top {similar_count} {app_type} like {app_name}, all {app_type} suggested by APKPure."
+msgstr "Popular alternative {app_type} to {app_name} for Android, Android tablet and more. Download top {similar_count} {app_type} like {app_name}, all {app_type} suggested by APKPure."
