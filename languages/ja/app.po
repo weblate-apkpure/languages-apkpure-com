@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-03-22 06:53+0000\n"
-"PO-Revision-Date: 2017-04-12 07:34+0000\n"
+"PO-Revision-Date: 2017-04-12 07:35+0000\n"
 "Last-Translator: zhangmumu <nianxi2011@163.com>\n"
 "Language-Team: Japanese "
 "<https://translate.apkpure.com/projects/apkpure/apkpurecom/ja/>\n"
@@ -112,7 +112,7 @@ msgstr "XAPK ゲーム"
 
 msgctxt "[\"XAPK-APPS\"]"
 msgid "XAPK Apps"
-msgstr "XAPK Apps"
+msgstr "XAPK アプリ"
 
 msgctxt "[\"HOME\"]"
 msgid "Home"
@@ -1860,7 +1860,7 @@ msgstr "コメントが不適切な用語が含まれているので、審査に
 
 msgctxt "[\"COMMENT-ERR_SENSITIVE_WORD\"]"
 msgid "Defeat,your post contains sensitive terms"
-msgstr "コメントが不適切な用語が含まれているので失敗した。"
+msgstr "コメントが不適切な用語が含まれているので失敗した"
 
 msgctxt "[\"COMMENT-ERR_LINK_AUDIT\"]"
 msgid "Your post contains link and is pending approval by an admin"
@@ -1932,7 +1932,7 @@ msgstr "乱用に関する通告"
 
 msgctxt "[\"js\"][\"COMMENT-DELETE\"]"
 msgid "Yes,delete it!"
-msgstr "削除"
+msgstr "削除！"
 
 msgctxt "[\"js\"][\"COMMENT-DELETED\"]"
 msgid "Deleted!"
