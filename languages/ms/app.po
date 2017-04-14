@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-10-29 17:26+0000\n"
-"PO-Revision-Date: 2016-12-21 12:20+0000\n"
-"Last-Translator: Muhammad Hazim <hazim.prince2@gmail.com>\n"
+"PO-Revision-Date: 2017-04-14 13:29+0000\n"
+"Last-Translator: Faraiswan Harifan <faizharifanzzu1b@gmail.com>\n"
 "Language-Team: Malay "
 "<https://translate.apkpure.com/projects/apkpure/apkpurecom/ms/>\n"
 "Language: ms\n"
@@ -12,20 +12,23 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 2.10-dev\n"
+"X-Generator: Weblate 2.12\n"
 
 msgctxt "[\"NAV-GAME\"]"
 msgid "GAMES"
 msgstr "PERMAINAN"
 
+#, fuzzy
 msgctxt "[\"NAV-APP\"]"
 msgid "APPS"
 msgstr "APLIKASI"
 
+#, fuzzy
 msgctxt "[\"NAV-XAPK\"]"
 msgid "XAPK"
 msgstr "XAPK"
 
+#, fuzzy
 msgctxt "[\"NAV-NEW\"]"
 msgid "NEW"
 msgstr "BARU"
@@ -34,46 +37,57 @@ msgctxt "[\"NAV-PRODUCTS\"]"
 msgid "PRODUCTS"
 msgstr "PRODUK"
 
+#, fuzzy
 msgctxt "[\"NAV-NEW_GAME\"]"
 msgid "NEW GAME"
 msgstr "PERMAINAN BARU"
 
+#, fuzzy
 msgctxt "[\"NAV-NEW_APP\"]"
 msgid "NEW APP"
 msgstr "APLIKASI BARU"
 
+#, fuzzy
 msgctxt "[\"NAV-XAPK_GAME\"]"
 msgid "XAPK GAME"
-msgstr "PERMAINAN XAPK"
+msgstr "XAPK GAME"
 
+#, fuzzy
 msgctxt "[\"NAV-XAPK_APP\"]"
 msgid "XAPK APP"
 msgstr "APLIKASI XAPK"
 
+#, fuzzy
 msgctxt "[\"NAV-APK_INSTALL\"]"
 msgid "APK Install"
 msgstr "Pasang APK"
 
+#, fuzzy
 msgctxt "[\"NAV-APK_DOWNLOAD\"]"
 msgid "APK Download"
 msgstr "MUAT TURUN APK"
 
+#, fuzzy
 msgctxt "[\"NAV-APK_VERIFICATION\"]"
 msgid "APK Verification"
 msgstr "VERIFIKASI APK"
 
+#, fuzzy
 msgctxt "[\"NAV-APKPURE_APP\"]"
 msgid "APKPure App"
 msgstr "APLIKASI APKPure"
 
+#, fuzzy
 msgctxt "[\"DOWNLOAD\"]"
 msgid "Download"
 msgstr "MUAT TURUN"
 
+#, fuzzy
 msgctxt "[\"SELECT_LANGUAGE\"]"
 msgid "Select Language"
 msgstr "PILIH BAHASA"
 
+#, fuzzy
 msgctxt "[\"FREE\"]"
 msgid "Free"
 msgstr "PERCUMA"
