@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-10-29 17:26+0000\n"
-"PO-Revision-Date: 2017-04-14 13:30+0000\n"
-"Last-Translator: anonymous <>\n"
+"PO-Revision-Date: 2017-04-14 13:33+0000\n"
+"Last-Translator: Faraiswan Harifan <faizharifanzzu1b@gmail.com>\n"
 "Language-Team: Malay "
 "<https://translate.apkpure.com/projects/apkpure/apkpurecom/ms/>\n"
 "Language: ms\n"
@@ -16,7 +16,7 @@ msgstr ""
 
 msgctxt "[\"NAV-GAME\"]"
 msgid "GAMES"
-msgstr "GAMES"
+msgstr "Permainan"
 
 #, fuzzy
 msgctxt "[\"NAV-APP\"]"
@@ -120,14 +120,17 @@ msgctxt "[\"XAPK\"]"
 msgid "XAPK"
 msgstr "XAPK"
 
+#, fuzzy
 msgctxt "[\"XAPK-GAMES\"]"
 msgid "XAPK Games"
 msgstr "PERMAINAN XAPK"
 
+#, fuzzy
 msgctxt "[\"XAPK-APPS\"]"
 msgid "XAPK Apps"
 msgstr "APLIKASI XAPK"
 
+#, fuzzy
 msgctxt "[\"HOME\"]"
 msgid "Home"
 msgstr "LAMAN UTAMA"
