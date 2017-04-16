@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-04-15 21:41+0000\n"
-"PO-Revision-Date: 2017-04-16 08:37+0000\n"
-"Last-Translator: anonymous <>\n"
+"PO-Revision-Date: 2017-04-16 08:51+0000\n"
+"Last-Translator: Ali M. Shiple <syrian-hux@hotmail.ru>\n"
 "Language-Team: Arabic "
 "<https://translate.apkpure.com/projects/apkpure/apkpurecom/ar/>\n"
 "Language: ar\n"
@@ -93,7 +93,7 @@ msgstr "تطبيق"
 
 msgctxt "[\"GAMES\"]"
 msgid "Games"
-msgstr "ألعاب"
+msgstr "العاب"
 
 msgctxt "[\"APPS\"]"
 msgid "Apps"
@@ -109,7 +109,7 @@ msgstr "XAPK"
 
 msgctxt "[\"XAPK-GAMES\"]"
 msgid "XAPK Games"
-msgstr "ألعاب XAPK"
+msgstr "العاب XAPK"
 
 msgctxt "[\"XAPK-APPS\"]"
 msgid "XAPK Apps"
@@ -273,7 +273,7 @@ msgstr "ألعاب مدفوعة"
 
 msgctxt "[\"DETAIL-PAID_APP\"]"
 msgid "Paid App"
-msgstr "تطبيقات مدفوعة"
+msgstr "تطبيق مدفوع"
 
 msgctxt "[\"DETAIL-PAID_GAME_DES\"]"
 msgid "Paid games are not available to download"
@@ -285,7 +285,7 @@ msgstr "التطبيقات المدفوعة ليست متاحة للتحميل"
 
 msgctxt "[\"DETAIL-WHY_SAFE\"]"
 msgid "Why we can guarantee APK 100% safe?"
-msgstr "لماذا لا يمكننا ضمان APK 100٪ آمنة؟"
+msgstr "لماذا يمكننا ضمان أن الـ APK آمن 100% ؟"
 
 msgctxt "[\"DETAIL-SAFE\"]"
 msgid "Verification passed"
@@ -293,11 +293,12 @@ msgstr "تم التحقق منه"
 
 msgctxt "[\"DETAIL-XAPK_SHORT_DES\"]"
 msgid "XAPK is APK with OBB data, Click to get XAPK Installer"
-msgstr "XAPK غير APK مع البيانات OBB، انقر للحصول على XAPK المثبت"
+msgstr ""
+"XAPK هو ملف التطبيق(APK) مع ملفات البيانات (OBB) ، انقر للحصول على مثبت XAPK"
 
 msgctxt "[\"DETAIL-MOBILE_XAPK_SHORT_DES\"]"
 msgid "Click to get XAPK Installer"
-msgstr "انقر للحصول على XAPK للتثبيت"
+msgstr "انقر للحصول على مثبت XAPK"
 
 msgctxt "[\"DETAIL-CATEGORY\"]"
 msgid "Category"
@@ -313,7 +314,7 @@ msgstr "تاريخ النشر"
 
 msgctxt "[\"DETAIL-GET_IT_ON\"]"
 msgid "Get it on"
-msgstr "الحصول عليه على"
+msgstr "إحصل عليه من"
 
 msgctxt "[\"DETAIL-REQUIREMENTS\"]"
 msgid "Requirements"
@@ -337,7 +338,7 @@ msgstr "الأصوات"
 
 msgctxt "[\"DETAIL-THE_DESCRIPTION\"]"
 msgid "The description of {0}"
-msgstr "هذا الوصف ل {0}"
+msgstr "وصف الـ {0}"
 
 msgctxt "[\"DETAIL-OFFICIAL_TRAILER\"]"
 msgid "{0} for Android official Trailer"
@@ -361,7 +362,7 @@ msgstr "ملف SHA1"
 
 msgctxt "[\"DETAIL-APK_FILE_SHA1\"]"
 msgid "APK File SHA1"
-msgstr "APK ملف SHA1"
+msgstr "SHA1 لملف التطبيق"
 
 msgctxt "[\"DETAIL-XAPK_FILE_SHA1\"]"
 msgid "XAPK File SHA1"
@@ -405,11 +406,11 @@ msgstr "احصل على المزيد {0}"
 
 msgctxt "[\"DETAIL-REMOVED\"]"
 msgid "Removed"
-msgstr "إزالة"
+msgstr "تمت إزالته"
 
 msgctxt "[\"DETAIL-CATEGORY_GAME\"]"
 msgid "{0} GAME"
-msgstr "{0} ألعاب"
+msgstr "{0} لعبة"
 
 msgctxt "[\"DETAIL-CATEGORY_APP\"]"
 msgid "{0} APP"
@@ -457,7 +458,7 @@ msgstr "جار التحميل"
 
 msgctxt "[\"DETAIL_DOWNLOAD-DOWNLOADING_DES\"]"
 msgid "If the download doesn't start,"
-msgstr "في حالة عدم بدء عملية التنزيل،"
+msgstr "في حالة عدم بدء عملية التنزيل,"
 
 msgctxt "[\"DETAIL_DOWNLOAD-DOWNLOADING_DES_CLICK\"]"
 msgid "click here"
