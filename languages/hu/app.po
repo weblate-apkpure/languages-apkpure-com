@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-03-22 06:52+0000\n"
-"PO-Revision-Date: 2016-12-26 14:49+0000\n"
+"PO-Revision-Date: 2017-04-20 03:22+0000\n"
 "Last-Translator: Zoltán Magyar <zityisoft@gmail.com>\n"
 "Language-Team: Hungarian "
 "<https://translate.apkpure.com/projects/apkpure/apkpurecom/hu/>\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 2.10-dev\n"
+"X-Generator: Weblate 2.12\n"
 
 msgctxt "[\"NAV-GAME\"]"
 msgid "GAME"
@@ -1801,3 +1801,249 @@ msgstr ""
 "Népszerű alternatíva {app_type} - {app_name} Androidra, Android táblagép és "
 "egyebek. Legjobb letöltése {similar_count} {app_type} mint a(z) {app_name}, "
 "{app_type} APKPure által javasolt."
+
+msgctxt "[\"CANCEL\"]"
+msgid "Cancel"
+msgstr "Mégse"
+
+msgctxt "[\"COMMENT-REPORT\"]"
+msgid "Report"
+msgstr "Jelentés"
+
+msgctxt "[\"COMMENT-COMMENTS\"]"
+msgid "Comments"
+msgstr "Hozzászólások"
+
+msgctxt "[\"COMMENT-REPLY\"]"
+msgid "Reply"
+msgstr "Válasz"
+
+msgctxt "[\"COMMENT-NAME\"]"
+msgid "Name"
+msgstr "Név"
+
+msgctxt "[\"COMMENT-EMAIL\"]"
+msgid "Email"
+msgstr "E-mail cím"
+
+msgctxt "[\"COMMENT-SORT_BY_NEWEST\"]"
+msgid "Sort by newest"
+msgstr "Rendezés a legújabb szerint"
+
+msgctxt "[\"COMMENT-SORT_BY_NEW\"]"
+msgid "Sort by newest"
+msgstr "Rendezés a legújabb szerint"
+
+msgctxt "[\"COMMENT-SORT_BY_OLDEST\"]"
+msgid "Sort by oldest"
+msgstr "Rendezés a legrégebbi szerint"
+
+msgctxt "[\"COMMENT-SORT_BY_BEST\"]"
+msgid "Sort by best"
+msgstr "Rendezés a legjobb szerint"
+
+msgctxt "[\"COMMENT-SORT_BY_MOST_RECENT\"]"
+msgid "Sort by most recent"
+msgstr "Rendezés a legfrissebb szerint"
+
+msgctxt "[\"COMMENT-NEWEST\"]"
+msgid "Newest"
+msgstr "Legújabb"
+
+msgctxt "[\"COMMENT-OLDEST\"]"
+msgid "Oldest"
+msgstr "Legrégebbi"
+
+msgctxt "[\"COMMENT-BEST\"]"
+msgid "Best"
+msgstr "Legjobb"
+
+msgctxt "[\"COMMENT-RATING_REQUIRED\"]"
+msgid "Rating required"
+msgstr "Értékelés szükséges"
+
+msgctxt "[\"COMMENT-GUEST\"]"
+msgid "Guest"
+msgstr "Vendég"
+
+msgctxt "[\"COMMENT-OR_POST_AS_GUEST\"]"
+msgid "Or post as guest"
+msgstr "Vagy szóljon hozzá vendégként"
+
+msgctxt "[\"COMMENT-LOGOUT\"]"
+msgid "Logout"
+msgstr "Kijelentkezés"
+
+msgctxt "[\"COMMENT-WEBSITE\"]"
+msgid "Website"
+msgstr "Weboldal"
+
+msgctxt "[\"COMMENT-TO_BE_FIRST\"]"
+msgid "Be the first to comment."
+msgstr "Legyen Ön az első hozzászóló."
+
+msgctxt "[\"COMMENT-ERR_QUICK_LOGIN\"]"
+msgid "Quick login error, please try again."
+msgstr "Gyors bejelentkezési hiba. Kérjük, próbálkozzon újra."
+
+msgctxt "[\"COMMENT-ERR_EMAIL_NAME\"]"
+msgid "Incorrect mail or name"
+msgstr "Nem megfelelő e-mail cím vagy név"
+
+msgctxt "[\"COMMENT-DELETED\"]"
+msgid "Deleted!"
+msgstr "Törölve!"
+
+msgctxt "[\"COMMENT-DEL\"]"
+msgid "Delete"
+msgstr "Törlés"
+
+msgctxt "[\"COMMENT-ARE_YOU_SURE\"]"
+msgid "Are you sure?"
+msgstr "Biztos benne?"
+
+msgctxt "[\"USER-ACCOUNT_EXIST\"]"
+msgid "The username is already in use."
+msgstr "A felhasználónév már használatban van."
+
+msgctxt "[\"USER-ACCOUNT_NOT_EXIST\"]"
+msgid "The account you entered does not exist."
+msgstr "A megadott fiók nem létezik."
+
+msgctxt "[\"USER-DISPLAY_NAME_EXIST\"]"
+msgid "The nickname is already in use."
+msgstr "A becenév már használatban van."
+
+msgctxt "[\"USER-INCORRECT_EMAIL\"]"
+msgid "The e-mail address you entered is invalid."
+msgstr "A megadott e-mail cím érvénytelen."
+
+msgctxt "[\"USER-INCORRECT_PASSWORD\"]"
+msgid "The password you entered is invalid."
+msgstr "A megadott jelszó érvénytelen."
+
+msgctxt "[\"USER-INCORRECT_ACCOUNT\"]"
+msgid "The username you entered is invalid."
+msgstr "A megadott felhasználónév érvénytelen."
+
+msgctxt "[\"USER-UNKNOWN_ERROR\"]"
+msgid "unknown mistake."
+msgstr "ismeretlen hiba."
+
+msgctxt "[\"USER-FEMALE\"]"
+msgid "Female"
+msgstr "Nő"
+
+msgctxt "[\"USER-MALE\"]"
+msgid "Male"
+msgstr "Férfi"
+
+msgctxt "[\"COPYRIGHT\"]"
+msgid "Copyright © 2014-2017 APKPure. All rights reserved."
+msgstr "Szerzői jog © 2014-2017 APKPure. Minden jog fenntartva."
+
+msgctxt "[\"COPYRIGHT_MOBILE\"]"
+msgid "APKPure.com © 2014-2017"
+msgstr "APKPure.com © 2014-2017"
+
+msgctxt "[\"FOOTER-REPORT_ABUSE\"]"
+msgid "Report abuse"
+msgstr "Visszaélés jelentése"
+
+msgctxt "[\"js\"][\"CANCEL\"]"
+msgid "Cancel"
+msgstr "Mégse"
+
+msgctxt "[\"js\"][\"COMMENT-DELETE\"]"
+msgid "Yes,delete it!"
+msgstr "Igen, törölje!"
+
+msgctxt "[\"js\"][\"COMMENT-DELETED\"]"
+msgid "Deleted!"
+msgstr "Törölve!"
+
+msgctxt "[\"js\"][\"COMMENT-ARE_YOU_SURE\"]"
+msgid "Are you sure?"
+msgstr "Biztos benne?"
+
+msgctxt "[\"meta\"][\"Category_featured_editors-picks\"][\"description\"]"
+msgid "Play with millions of free apps in APKPure style on Android phones, tablets, TV ,etc. Download the best must have android games you should play 2017."
+msgstr ""
+"Játsszon ingyenes alkalmazások millióival APKPure stílusban androidos "
+"telefonokon, táblagépeken, TV-n, stb. Töltse le a legjobb 2017-es android "
+"játékokat."
+
+msgctxt "[\"DETAIL-DELETED_COPYRIGHT_GOOGLE_PLAY_DES\"]"
+msgid "{app_name} All rights reserved ©2017 {developer}. {developer} and the {developer} logo are trademarks of {developer} in the U.S. and/or other countries.All other trademarks are the property of their respective owners."
+msgstr ""
+"{app_name} Minden jog fenntartva ©2017 {developer}. A(z) {developer} és a(z) "
+"{developer} logó a(z) {developer} védjegyei az USA-ban és/vagy más "
+"országokban. Minden egyéb védjegy a megfelelő tulajdonosok tulajdonát képezi."
+
+msgctxt "[\"COMMENT-POST\"]"
+msgid "Post"
+msgstr "Hozzászólás"
+
+msgctxt "[\"COMMENT-LOG_IN_WITH\"]"
+msgid "Log in with"
+msgstr "Bejelentkezés a következővel:"
+
+msgctxt "[\"COMMENT-COMMENTS_CANT_BE_BLANK\"]"
+msgid "Comments can't be blank."
+msgstr "A hozzászólások mező nem lehet üres."
+
+msgctxt "[\"COMMENT-ERR_LINK_AUDIT\"]"
+msgid "Your post contains link and is pending approval by an admin"
+msgstr "Az üzenet linket tartalmaz, és adminisztrátori jóváhagyásra vár"
+
+msgctxt "[\"COMMENT-ERR_FAILURE\"]"
+msgid "Comment unknown"
+msgstr "Ismeretlen hozzászólás"
+
+msgctxt "[\"COMMENT-ERR_INVALID_PARAMETER\"]"
+msgid "Invalid comment parameter"
+msgstr "Érvénytelen hozzászólás paraméter"
+
+msgctxt "[\"COMMENT-DELETE\"]"
+msgid "Yes,delete it!"
+msgstr "Igen, törölje!"
+
+msgctxt "[\"meta\"][\"Similar\"][\"title\"]"
+msgid "Top best alternative {app_category} {app_type} like {app_name} for Android 2017-2018 | APKPure.com"
+msgstr ""
+"A legjobb alternatíva {app_category} {app_type} - {app_name} Androidra 2017-"
+"2018 | APKPure.com"
+
+msgctxt "[\"COMMENT-START_THE_DISCUSSION\"]"
+msgid "Start the discussion…"
+msgstr "Megbeszélés indítása…"
+
+msgctxt "[\"COMMENT-ERR_DISCUSSION\"]"
+msgid "Incorrect in discussion"
+msgstr "Hiba a beszélgetésben"
+
+msgctxt "[\"COMMENT-ERR_RATE\"]"
+msgid "Vote failed, repeated"
+msgstr "A szavazás sikertelen, megismételve"
+
+msgctxt "[\"COMMENT-ERR_FORBIDDEN\"]"
+msgid "Comment forbidden"
+msgstr "Tiltott hozzászólás"
+
+msgctxt "[\"DETAIL-RATING1\"]"
+msgid "average: {rating_average} out of {rating_best}"
+msgstr "átlag: {rating_average} - {rating_best}"
+
+msgctxt "[\"COMMENT-ERR_SENSITIVE_WORD\"]"
+msgid "Defeat,your post contains sensitive terms"
+msgstr "Hiba, a bejegyzés érzékeny kifejezéseket tartalmaz"
+
+msgctxt "[\"COMMENT-ERR_SENSITIVE_WORD_AUDIT\"]"
+msgid "Your post contains sensitive terms and is pending approval by an admin"
+msgstr ""
+"A bejegyzés érzékeny kifejezéseket tartalmaz, és a rendszergazda "
+"jóváhagyására vár"
+
+msgctxt "[\"USER-BAD_NAME\"]"
+msgid "Your input includes sensitive vocabulary."
+msgstr "A bevitt adatok érzékeny szójegyzéket tartalmaznak."
