@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-03-22 06:56+0000\n"
-"PO-Revision-Date: 2016-12-17 14:28+0000\n"
-"Last-Translator: Thắng Kim Tiền <thangrau24h@gmail.com>\n"
+"PO-Revision-Date: 2017-04-30 15:26+0000\n"
+"Last-Translator: pethuy <tuan1skate@gmail.com>\n"
 "Language-Team: Vietnamese "
 "<https://translate.apkpure.com/projects/apkpure/apkpurecom/vi/>\n"
 "Language: vi\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 2.10-dev\n"
+"X-Generator: Weblate 2.12\n"
 
 msgctxt "[\"NAV-GAME\"]"
 msgid "GAME"
@@ -22,62 +22,76 @@ msgctxt "[\"NAV-APP\"]"
 msgid "APP"
 msgstr "ỨNG DỤNG"
 
+#, fuzzy
 msgctxt "[\"NAV-XAPK\"]"
 msgid "XAPK"
 msgstr "X-APK"
 
+#, fuzzy
 msgctxt "[\"NAV-NEW\"]"
 msgid "NEW"
 msgstr "MỚI"
 
+#, fuzzy
 msgctxt "[\"NAV-PRODUCTS\"]"
 msgid "PRODUCTS"
 msgstr "SẢN PHẨM"
 
+#, fuzzy
 msgctxt "[\"NAV-NEW_GAME\"]"
 msgid "NEW GAME"
-msgstr "TRÒ CHƠI MỚI"
+msgstr "NEW GAME"
 
+#, fuzzy
 msgctxt "[\"NAV-NEW_APP\"]"
 msgid "NEW APP"
-msgstr "ỨNG DỤNG MỚI"
+msgstr "NEW APP"
 
+#, fuzzy
 msgctxt "[\"NAV-XAPK_GAME\"]"
 msgid "XAPK GAME"
 msgstr "TRÒ CHƠI XAPK"
 
+#, fuzzy
 msgctxt "[\"NAV-XAPK_APP\"]"
 msgid "XAPK APP"
 msgstr "ỨNG DỤNG XAPK"
 
+#, fuzzy
 msgctxt "[\"NAV-APK_INSTALL\"]"
 msgid "APK Install"
-msgstr "Cài đặt APK"
+msgstr "APK Install"
 
+#, fuzzy
 msgctxt "[\"NAV-APK_DOWNLOAD\"]"
 msgid "APK Download"
-msgstr "Tải về APK"
+msgstr "APK Download"
 
+#, fuzzy
 msgctxt "[\"NAV-APK_VERIFICATION\"]"
 msgid "APK Verification"
-msgstr "Xác minh APK"
+msgstr "APK Verification"
 
+#, fuzzy
 msgctxt "[\"NAV-APKPURE_APP\"]"
 msgid "APKPure App"
-msgstr "Ứng dụng APKPure"
+msgstr "APKPure App"
 
 msgctxt "[\"DOWNLOAD\"]"
 msgid "Download"
 msgstr "Tải về"
 
+#, fuzzy
 msgctxt "[\"SELECT_LANGUAGE\"]"
 msgid "Select Language"
-msgstr "Chọn ngôn ngữ"
+msgstr "Select Language"
 
+#, fuzzy
 msgctxt "[\"FREE\"]"
 msgid "Free"
 msgstr "Miễn phí"
 
+#, fuzzy
 msgctxt "[\"READ_MORE\"]"
 msgid "Read More"
 msgstr "Xem nhiều hơn"
@@ -98,6 +112,7 @@ msgctxt "[\"APPS\"]"
 msgid "Apps"
 msgstr "Ứng dụng"
 
+#, fuzzy
 msgctxt "[\"MORE\"]"
 msgid "More"
 msgstr "Nhiều hơn"
@@ -1379,10 +1394,12 @@ msgctxt "[\"category\"][\"APP_WIDGETS\"]"
 msgid "Widgets"
 msgstr "Tiện ích"
 
+#, fuzzy
 msgctxt "[\"NAV-GAME\"]"
 msgid "GAMES"
 msgstr "TRÒ CHƠI"
 
+#, fuzzy
 msgctxt "[\"NAV-APP\"]"
 msgid "APPS"
 msgstr "ỨNG DỤNG"
