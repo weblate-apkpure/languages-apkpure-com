@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-04-17 11:47+0000\n"
-"PO-Revision-Date: 2017-04-27 00:11+0000\n"
-"Last-Translator: Re NEW <rnew755@gmail.com>\n"
+"PO-Revision-Date: 2017-05-04 15:09+0000\n"
+"Last-Translator: Joytou Wu <1540294142@qq.com>\n"
 "Language-Team: Chinese (Simplified) "
 "<https://translate.apkpure.com/projects/apkpure/apkpurecom/zh_Hans/>\n"
 "Language: zh_CN\n"
@@ -12,16 +12,15 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 2.12\n"
+"X-Generator: Weblate 2.13.1\n"
 
 msgctxt "[\"NAV-GAME\"]"
 msgid "GAMES"
 msgstr "游戏"
 
-#, fuzzy
 msgctxt "[\"NAV-APP\"]"
 msgid "APPS"
-msgstr "APPS"
+msgstr "应用"
 
 #, fuzzy
 msgctxt "[\"NAV-XAPK\"]"
@@ -131,7 +130,7 @@ msgstr "最热门"
 
 msgctxt "[\"DOWNLOADS\"]"
 msgid "Downloads"
-msgstr "下载最多"
+msgstr "下载更多"
 
 msgctxt "[\"NEWEST\"]"
 msgid "Newest"
