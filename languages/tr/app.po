@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-03-22 06:56+0000\n"
-"PO-Revision-Date: 2017-04-30 10:11+0000\n"
-"Last-Translator: Kemal Oktay Aktoğan <oktayaktogan@gmail.com>\n"
+"PO-Revision-Date: 2017-05-18 09:29+0000\n"
+"Last-Translator: Ahmet FAHLIOGULLARI <realzed2001@gmail.com>\n"
 "Language-Team: Turkish "
 "<https://translate.apkpure.com/projects/apkpure/apkpurecom/tr/>\n"
 "Language: tr\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 2.12\n"
+"X-Generator: Weblate 2.13.1\n"
 
 msgctxt "[\"NAV-GAME\"]"
 msgid "GAME"
@@ -1854,3 +1854,112 @@ msgstr ""
 "Popüler Alternatif {app_type} veya {app_name} Android, Android tablet ve "
 "Diğerleri için. Hit İndirmer {similar_count} {app_type} Beğeni{app_name}, "
 "Hepsi {app_type} APKPure tarafından önerildi."
+
+msgctxt "[\"CANCEL\"]"
+msgid "Cancel"
+msgstr "İptal"
+
+msgctxt "[\"COMMENT-REPLY\"]"
+msgid "Reply"
+msgstr "Cevap Yaz"
+
+msgctxt "[\"COMMENT-NAME\"]"
+msgid "Name"
+msgstr "İsim"
+
+msgctxt "[\"COMMENT-EMAIL\"]"
+msgid "Email"
+msgstr "E-Posta"
+
+msgctxt "[\"COMMENT-SORT_BY_NEWEST\"]"
+msgid "Sort by newest"
+msgstr "En yeniden sırala"
+
+msgctxt "[\"COMMENT-SORT_BY_NEW\"]"
+msgid "Sort by newest"
+msgstr "En yeniden sırala"
+
+msgctxt "[\"COMMENT-SORT_BY_OLDEST\"]"
+msgid "Sort by oldest"
+msgstr "En eskiden sırala"
+
+msgctxt "[\"COMMENT-SORT_BY_BEST\"]"
+msgid "Sort by best"
+msgstr "En iyiden sırala"
+
+msgctxt "[\"COMMENT-NEWEST\"]"
+msgid "Newest"
+msgstr "En yeni"
+
+msgctxt "[\"COMMENT-OLDEST\"]"
+msgid "Oldest"
+msgstr "En eski"
+
+msgctxt "[\"COMMENT-BEST\"]"
+msgid "Best"
+msgstr "En iyi"
+
+msgctxt "[\"COMMENT-RATING_REQUIRED\"]"
+msgid "Rating required"
+msgstr "Puan ver"
+
+msgctxt "[\"COMMENT-GUEST\"]"
+msgid "Guest"
+msgstr "Misafir"
+
+msgctxt "[\"COMMENT-START_THE_DISCUSSION\"]"
+msgid "Start the discussion…"
+msgstr "Tartışmayı başlat…"
+
+msgctxt "[\"COMMENT-LOG_IN_WITH\"]"
+msgid "Log in with"
+msgstr "Giriş için kullan"
+
+msgctxt "[\"COMMENT-COMMENTS_CANT_BE_BLANK\"]"
+msgid "Comments can't be blank."
+msgstr "Yorum boş bırakılamaz."
+
+msgctxt "[\"COMMENT-OR_POST_AS_GUEST\"]"
+msgid "Or post as guest"
+msgstr "Misafir olarak gönder"
+
+msgctxt "[\"COMMENT-LOGOUT\"]"
+msgid "Logout"
+msgstr "Çıkış yap"
+
+msgctxt "[\"COMMENT-WEBSITE\"]"
+msgid "Website"
+msgstr "Web sitesi"
+
+msgctxt "[\"COMMENT-TO_BE_FIRST\"]"
+msgid "Be the first to comment."
+msgstr "İlk yorumu yaz."
+
+msgctxt "[\"COMMENT-ERR_QUICK_LOGIN\"]"
+msgid "Quick login error, please try again."
+msgstr "Hızlı giriş hatası, lütfen tekrar deneyin."
+
+msgctxt "[\"COMMENT-ERR_EMAIL_NAME\"]"
+msgid "Incorrect mail or name"
+msgstr "Hatalı e-posta veya isim"
+
+msgctxt "[\"COMMENT-ERR_RATE\"]"
+msgid "Vote failed, repeated"
+msgstr "Oylama hatası, tekrarlanmış"
+
+msgctxt "[\"COMMENT-ERR_SENSITIVE_WORD\"]"
+msgid "Defeat,your post contains sensitive terms"
+msgstr ""
+"Geçersiz ileti, Mesajınız kurallara uymuyor veya hepsi büyük harf olamaz"
+
+msgctxt "[\"COMMENT-ERR_SENSITIVE_WORD_AUDIT\"]"
+msgid "Your post contains sensitive terms and is pending approval by an admin"
+msgstr "Gönderdiğiniz iletinin yönetici tarafından onaylanması bekleniyor"
+
+msgctxt "[\"COMMENT-ERR_LINK_AUDIT\"]"
+msgid "Your post contains link and is pending approval by an admin"
+msgstr "Gönderinizdeki link yönetici tarafından onaylanması bekleniyor"
+
+msgctxt "[\"COMMENT-ERR_FORBIDDEN\"]"
+msgid "Comment forbidden"
+msgstr "İletiniz reddedildi"
