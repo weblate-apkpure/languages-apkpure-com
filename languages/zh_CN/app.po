@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-04-17 11:47+0000\n"
-"PO-Revision-Date: 2017-05-17 06:21+0000\n"
-"Last-Translator: CAT <catcto.com@gmail.com>\n"
+"PO-Revision-Date: 2017-05-18 07:14+0000\n"
+"Last-Translator: bcusee <pwh365@163.com>\n"
 "Language-Team: Chinese (Simplified) "
 "<https://translate.apkpure.com/projects/apkpure/apkpurecom/zh_Hans/>\n"
 "Language: zh_CN\n"
@@ -22,15 +22,13 @@ msgctxt "[\"NAV-APP\"]"
 msgid "APPS"
 msgstr "应用"
 
-#, fuzzy
 msgctxt "[\"NAV-XAPK\"]"
 msgid "XAPK"
 msgstr "XAPK"
 
-#, fuzzy
 msgctxt "[\"NAV-NEW\"]"
 msgid "NEW"
-msgstr "最新"
+msgstr "最近更新"
 
 msgctxt "[\"NAV-PRODUCTS\"]"
 msgid "PRODUCTS"
@@ -38,35 +36,35 @@ msgstr "产品"
 
 msgctxt "[\"NAV-NEW_GAME\"]"
 msgid "NEW GAME"
-msgstr "最近更新游戏"
+msgstr "最近更新的游戏"
 
 msgctxt "[\"NAV-NEW_APP\"]"
 msgid "NEW APP"
-msgstr "最近更新应用"
+msgstr "最近更新的应用"
 
 msgctxt "[\"NAV-XAPK_GAME\"]"
 msgid "XAPK GAME"
-msgstr "XAPK 游戏"
+msgstr "含数据包的游戏"
 
 msgctxt "[\"NAV-XAPK_APP\"]"
 msgid "XAPK APP"
-msgstr "XAPK 应用"
+msgstr "含数据包的应用"
 
 msgctxt "[\"NAV-APK_INSTALL\"]"
 msgid "APK Install"
-msgstr "APK 安装器"
+msgstr "安装应用"
 
 msgctxt "[\"NAV-APK_DOWNLOAD\"]"
 msgid "APK Download"
-msgstr "APK 下载器"
+msgstr "应用下载"
 
 msgctxt "[\"NAV-APK_VERIFICATION\"]"
 msgid "APK Verification"
-msgstr "APK 签名校验器"
+msgstr "应用签名校验"
 
 msgctxt "[\"NAV-APKPURE_APP\"]"
 msgid "APKPure App"
-msgstr "APKPure 客户端"
+msgstr "纯-原生应用商店客户端"
 
 msgctxt "[\"DOWNLOAD\"]"
 msgid "Download"
@@ -74,7 +72,7 @@ msgstr "下载"
 
 msgctxt "[\"SELECT_LANGUAGE\"]"
 msgid "Select Language"
-msgstr "选择语言"
+msgstr "请选择语言"
 
 msgctxt "[\"FREE\"]"
 msgid "Free"
@@ -106,15 +104,15 @@ msgstr "更多"
 
 msgctxt "[\"XAPK\"]"
 msgid "XAPK"
-msgstr "XAPK"
+msgstr "含数据包应用"
 
 msgctxt "[\"XAPK-GAMES\"]"
 msgid "XAPK Games"
-msgstr "XAPK 游戏"
+msgstr "含数据包的游戏"
 
 msgctxt "[\"XAPK-APPS\"]"
 msgid "XAPK Apps"
-msgstr "XAPK 应用"
+msgstr "含数据包的应用"
 
 msgctxt "[\"HOME\"]"
 msgid "Home"
@@ -130,11 +128,11 @@ msgstr "最热门"
 
 msgctxt "[\"DOWNLOADS\"]"
 msgid "Downloads"
-msgstr "下载更多"
+msgstr "下载"
 
 msgctxt "[\"NEWEST\"]"
 msgid "Newest"
-msgstr "最近更新"
+msgstr "最新"
 
 msgctxt "[\"RATING\"]"
 msgid "Rating"
@@ -150,7 +148,7 @@ msgstr "{app_category}{app_type}"
 
 msgctxt "[\"SHOW_MORE\"]"
 msgid "Show More"
-msgstr "更多"
+msgstr "展开"
 
 msgctxt "[\"SHOW_LESS\"]"
 msgid "Show less"
@@ -158,19 +156,19 @@ msgstr "收起"
 
 msgctxt "[\"HAVE_PRODUCTS\"]"
 msgid "have {0} products"
-msgstr "找到 {0} 个"
+msgstr "找到 {0} 个产品"
 
 msgctxt "[\"DEVELOPER\"]"
 msgid "Developer"
-msgstr "开发者"
+msgstr "开发者选项"
 
 msgctxt "[\"POPULAR_GAMES_IN_LAST_HOURS\"]"
 msgid "Popular Games In Last {0} Hours"
-msgstr "{0} 小时热门游戏"
+msgstr "{0} 小时内热门游戏"
 
 msgctxt "[\"POPULAR_APPS_IN_LAST_HOURS\"]"
 msgid "Popular Apps In Last {0} Hours"
-msgstr "{0} 小时热门应用"
+msgstr "{0} 小时内热门应用"
 
 msgctxt "[\"POPULAR_APPS_IN_TODAY\"]"
 msgid "Popular Apps In Today"
@@ -198,11 +196,11 @@ msgstr "用户评论"
 
 msgctxt "[\"LATEST_UPDATE_GAMES\"]"
 msgid "Latest Update Games"
-msgstr "最近更新游戏"
+msgstr "最近更新的游戏"
 
 msgctxt "[\"LATEST_UPDATE_APPS\"]"
 msgid "Latest Update Apps"
-msgstr "最近更新应用"
+msgstr "最近更新的应用"
 
 msgctxt "[\"LATEST_UPDATE\"]"
 msgid "Latest Update"
@@ -210,11 +208,11 @@ msgstr "最近更新"
 
 msgctxt "[\"XAPK_IS_APK_WITH_OBB_DATA\"]"
 msgid "XAPK is APK with OBB data"
-msgstr "XAPK 包含数据包的 APK"
+msgstr "XAPK是指包含数据包的应用程序安装包"
 
 msgctxt "[\"MOST_POPULAR_IN_TODAY\"]"
 msgid "Most Popular In Today"
-msgstr "今日最受欢迎的"
+msgstr "今日最受欢迎"
 
 msgctxt "[\"SIMILAR_OR_RELATED\"]"
 msgid "Similar Or Related"
@@ -250,11 +248,11 @@ msgstr "验证码"
 
 msgctxt "[\"VERIFICATION_INCORRECT\"]"
 msgid "The verification code is incorrect!"
-msgstr "验证码不正确!"
+msgstr "验证码错误！"
 
 msgctxt "[\"VERIFICATION_DOWN\"]"
 msgid "Enter the code(s) as you see in the image, then click \"Download\"."
-msgstr "请您输入显示的验证码后点击下载"
+msgstr "请输入图片中的验证码，然后点击下载"
 
 msgctxt "[\"TOPICS\"]"
 msgid "Topics"
@@ -262,7 +260,7 @@ msgstr "专题"
 
 msgctxt "[\"SIMILAR_TO\"]"
 msgid "Similar to {0}"
-msgstr "类似于 {0}"
+msgstr "有 {0}个相似"
 
 msgctxt "[\"CANCEL\"]"
 msgid "Cancel"
@@ -270,11 +268,11 @@ msgstr "取消"
 
 msgctxt "[\"DETAIL-PAID_GAME\"]"
 msgid "Paid Game"
-msgstr "收费游戏"
+msgstr "付费游戏"
 
 msgctxt "[\"DETAIL-PAID_APP\"]"
 msgid "Paid App"
-msgstr "收费应用"
+msgstr "付费应用"
 
 msgctxt "[\"DETAIL-PAID_GAME_DES\"]"
 msgid "Paid games are not available to download"
