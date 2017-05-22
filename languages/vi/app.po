@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-03-22 06:56+0000\n"
-"PO-Revision-Date: 2017-04-30 15:26+0000\n"
-"Last-Translator: pethuy <tuan1skate@gmail.com>\n"
+"PO-Revision-Date: 2017-05-22 15:10+0000\n"
+"Last-Translator: anonymous <>\n"
 "Language-Team: Vietnamese "
 "<https://translate.apkpure.com/projects/apkpure/apkpurecom/vi/>\n"
 "Language: vi\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 2.12\n"
+"X-Generator: Weblate 2.14\n"
 
 msgctxt "[\"NAV-GAME\"]"
 msgid "GAME"
@@ -22,7 +22,6 @@ msgctxt "[\"NAV-APP\"]"
 msgid "APP"
 msgstr "ỨNG DỤNG"
 
-#, fuzzy
 msgctxt "[\"NAV-XAPK\"]"
 msgid "XAPK"
 msgstr "X-APK"
@@ -32,45 +31,37 @@ msgctxt "[\"NAV-NEW\"]"
 msgid "NEW"
 msgstr "MỚI"
 
-#, fuzzy
 msgctxt "[\"NAV-PRODUCTS\"]"
 msgid "PRODUCTS"
 msgstr "SẢN PHẨM"
 
-#, fuzzy
 msgctxt "[\"NAV-NEW_GAME\"]"
 msgid "NEW GAME"
-msgstr "NEW GAME"
+msgstr "Trò chơi mới"
 
-#, fuzzy
 msgctxt "[\"NAV-NEW_APP\"]"
 msgid "NEW APP"
-msgstr "NEW APP"
+msgstr "Ứng dụng mới\n"
 
-#, fuzzy
 msgctxt "[\"NAV-XAPK_GAME\"]"
 msgid "XAPK GAME"
 msgstr "TRÒ CHƠI XAPK"
 
-#, fuzzy
 msgctxt "[\"NAV-XAPK_APP\"]"
 msgid "XAPK APP"
-msgstr "ỨNG DỤNG XAPK"
+msgstr "ỨNG DỤNG X-APK"
 
-#, fuzzy
 msgctxt "[\"NAV-APK_INSTALL\"]"
 msgid "APK Install"
-msgstr "APK Install"
+msgstr "Tải APK\n"
 
-#, fuzzy
 msgctxt "[\"NAV-APK_DOWNLOAD\"]"
 msgid "APK Download"
-msgstr "APK Download"
+msgstr "Tải APK "
 
-#, fuzzy
 msgctxt "[\"NAV-APK_VERIFICATION\"]"
 msgid "APK Verification"
-msgstr "APK Verification"
+msgstr "Xác minh APK"
 
 #, fuzzy
 msgctxt "[\"NAV-APKPURE_APP\"]"
