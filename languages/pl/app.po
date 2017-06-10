@@ -236,7 +236,7 @@ msgstr "Jak pobrać pliki apk?"
 
 msgctxt "[\"INDEX-FAQ\"]"
 msgid "FAQ"
-msgstr "Często zadawane pytania \n"
+msgstr "Często zadawane pytania"
 
 msgctxt "[\"INDEX-POPULAR_CATEGORIES\"]"
 msgid "Popular categories"
@@ -475,7 +475,7 @@ msgstr "Nazwa Kraju lub kod Regionu"
 
 msgctxt "[\"REGION_DOWN-MOBILE_TITLE\"]"
 msgid "APK Downloader"
-msgstr "APK Downloader"
+msgstr "APK Pobierz"
 
 msgctxt "[\"REGION_DOWN-MOBILE_DES\"]"
 msgid "All Region Games and Apps Download."
@@ -593,7 +593,7 @@ msgstr "Wyszukiwanie..."
 
 msgctxt "[\"FOOTER-APK_DOWNLOADER_SEO\"]"
 msgid "APK Downloader"
-msgstr "APK Downloader"
+msgstr "APK Pobierz"
 
 msgctxt "[\"FOOTER-APK_DOWNLOADS_SEO\"]"
 msgid "APK Downloads"
