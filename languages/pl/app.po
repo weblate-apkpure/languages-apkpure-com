@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-09-06 12:51+0000\n"
-"PO-Revision-Date: 2017-06-08 18:14+0000\n"
-"Last-Translator: aallfik11 <amnieckarz@interia.pl>\n"
+"PO-Revision-Date: 2017-06-10 22:34+0000\n"
+"Last-Translator: Piotr Harder <mrpiotrek34@gmail.com>\n"
 "Language-Team: Polish "
 "<https://translate.apkpure.com/projects/apkpure/apkpurecom/pl/>\n"
 "Language: pl\n"
@@ -17,7 +17,10 @@ msgstr ""
 
 msgctxt "[\"NAV-GAME\"]"
 msgid "GAMES"
-msgstr "GRY"
+msgstr ""
+"GRY\t\n"
+"\t\n"
+"\t\t\t\t\t\t"
 
 msgctxt "[\"NAV-APP\"]"
 msgid "APPS"
@@ -680,7 +683,6 @@ msgctxt "[\"FOOTER-TOP_ANDROID_GAMES\"]"
 msgid "TOP ANDROID GAMES"
 msgstr "TOP GRY ANDROID"
 
-#, fuzzy
 msgctxt "[\"FOOTER-TRANSLATE\"]"
 msgid "Help translate APKPure"
 msgstr "Pomóż przetłumaczyć APKPure"
@@ -830,7 +832,6 @@ msgctxt "[\"FLAG-Europe\"]"
 msgid "Europe"
 msgstr "Europa"
 
-#, fuzzy
 msgctxt "[\"FLAG-Oceania\"]"
 msgid "Oceania"
 msgstr "Oceania"
@@ -913,7 +914,6 @@ msgctxt "[\"tip\"][\"QR_DOWN\"]"
 msgid "{0} QR code download"
 msgstr "{0} kod QR pobrania"
 
-#, fuzzy
 msgctxt "[\"tip\"][\"SAFE_VERIFIED\"]"
 msgid "{0} safe verified"
 msgstr "{0} bezpieczeństwo gwarantowane"
@@ -1276,14 +1276,12 @@ msgctxt "[\"meta\"][\"Index\"][\"title\"]"
 msgid "Download APK free online downloader | APKPure.com"
 msgstr "Pobierz program do pobierania darmowych APK z internetu | APKPure.com"
 
-#, fuzzy
 msgctxt "[\"meta\"][\"Index\"][\"keywords\"]"
 msgid "apk download, apk downloader, android apk download"
 msgstr ""
 "pobieranie aplikacji, program do pobierania aplikacji, pobieranie aplikacji "
 "na androida"
 
-#, fuzzy
 msgctxt "[\"meta\"][\"Index\"][\"description\"]"
 msgid "Download apk for Android with APKPure APK downloader. NoAds, Faster apk downloads and apk file update speed. Best of all, it's free"
 msgstr ""
@@ -1297,7 +1295,6 @@ msgstr ""
 "{app_name} APK Download - Darmowe {app_category} {app_type} na Androida | "
 "APKPure.com"
 
-#, fuzzy
 msgctxt "[\"meta\"][\"Details\"][\"keywords\"]"
 msgid "{app_name} apk, {app_name} apk download, {app_name} download, {app_name}.apk, {app_name} android, {app_category} {app_type} download"
 msgstr ""
@@ -1697,7 +1694,6 @@ msgctxt "[\"SIMILAR_TO\"]"
 msgid "Similar to {0}"
 msgstr "Podobne do {0}"
 
-#, fuzzy
 msgctxt "[\"meta\"][\"Similar\"][\"description\"]"
 msgid "Popular alternative {app_type} to {app_name} for Android, Android tablet and more. Download top {similar_count} {app_type} like {app_name}, all {app_type} suggested by APKPure."
 msgstr ""
