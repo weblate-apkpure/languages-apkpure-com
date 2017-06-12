@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-03-22 06:53+0000\n"
-"PO-Revision-Date: 2017-01-12 11:24+0000\n"
-"Last-Translator: Madefakeng <dhymasreynaldi@gmail.com>\n"
+"PO-Revision-Date: 2017-06-08 11:24+0000\n"
+"Last-Translator: Elmer Fiqi <elmerfiqi@gmail.com>\n"
 "Language-Team: Indonesian "
 "<https://translate.apkpure.com/projects/apkpure/apkpurecom/id/>\n"
 "Language: id\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 2.10-dev\n"
+"X-Generator: Weblate 2.14\n"
 
 msgctxt "[\"NAV-GAME\"]"
 msgid "GAME"
@@ -40,7 +40,7 @@ msgstr "PERMAINAN TERBARU"
 
 msgctxt "[\"NAV-NEW_APP\"]"
 msgid "NEW APP"
-msgstr "APLIKASI TERBARU"
+msgstr "APLIKASI BARU"
 
 msgctxt "[\"NAV-XAPK_GAME\"]"
 msgid "XAPK GAME"
@@ -136,7 +136,7 @@ msgstr "Terbaru"
 
 msgctxt "[\"RATING\"]"
 msgid "Rating"
-msgstr "Rating"
+msgstr "Skor"
 
 msgctxt "[\"CATEGORY\"]"
 msgid "Category"
@@ -1397,7 +1397,10 @@ msgstr "Widget"
 
 msgctxt "[\"NAV-GAME\"]"
 msgid "GAMES"
-msgstr "PERMAINAN"
+msgstr ""
+"PERMAINAN—–--‘”\t\n"
+"\t\n"
+"\t\t\t\t\t\t"
 
 msgctxt "[\"NAV-APP\"]"
 msgid "APPS"
@@ -1791,3 +1794,131 @@ msgstr ""
 "Alternatif populer {app_type} ke {app_name} untuk Android, Android tablet "
 "dan lainnya. Unduhan teratas {similar_count} {app_type} seperti {app_name}, "
 "semua {app_type} disarankan oleh APKPure."
+
+msgctxt "[\"CANCEL\"]"
+msgid "Cancel"
+msgstr "Batal"
+
+msgctxt "[\"DETAIL-RATING1\"]"
+msgid "average: {rating_average} out of {rating_best}"
+msgstr "Rata-rata: {rating_average} dari {rating_best}"
+
+msgctxt "[\"COMMENT-REPORT\"]"
+msgid "Report"
+msgstr "Laporkan"
+
+msgctxt "[\"COMMENT-POST\"]"
+msgid "Post"
+msgstr "Terbitkan"
+
+msgctxt "[\"COMMENT-COMMENTS\"]"
+msgid "Comments"
+msgstr "Komentar"
+
+msgctxt "[\"COMMENT-REPLY\"]"
+msgid "Reply"
+msgstr "Balas"
+
+msgctxt "[\"COMMENT-NAME\"]"
+msgid "Name"
+msgstr "Nama"
+
+msgctxt "[\"COMMENT-EMAIL\"]"
+msgid "Email"
+msgstr "Email"
+
+msgctxt "[\"COMMENT-SORT_BY_NEWEST\"]"
+msgid "Sort by newest"
+msgstr "Urutkan berdasarkan terbaru"
+
+msgctxt "[\"COMMENT-SORT_BY_NEW\"]"
+msgid "Sort by newest"
+msgstr "Urutkan berdasarkan terbaru"
+
+msgctxt "[\"COMMENT-SORT_BY_OLDEST\"]"
+msgid "Sort by oldest"
+msgstr "Urutkan berdasarkan terlama"
+
+msgctxt "[\"COMMENT-SORT_BY_BEST\"]"
+msgid "Sort by best"
+msgstr "Urutkan berdasarkan terbaik"
+
+msgctxt "[\"COMMENT-NEWEST\"]"
+msgid "Newest"
+msgstr "Terbaru"
+
+msgctxt "[\"COMMENT-OLDEST\"]"
+msgid "Oldest"
+msgstr "Terlama"
+
+msgctxt "[\"COMMENT-BEST\"]"
+msgid "Best"
+msgstr "Terbaik"
+
+msgctxt "[\"COMMENT-GUEST\"]"
+msgid "Guest"
+msgstr "Tamu"
+
+msgctxt "[\"COMMENT-START_THE_DISCUSSION\"]"
+msgid "Start the discussion…"
+msgstr "Mulai diskusi…"
+
+msgctxt "[\"COMMENT-LOG_IN_WITH\"]"
+msgid "Log in with"
+msgstr "Masuk dengan"
+
+msgctxt "[\"COMMENT-COMMENTS_CANT_BE_BLANK\"]"
+msgid "Comments can't be blank."
+msgstr "Komentar tidak bisa kosong"
+
+msgctxt "[\"COMMENT-OR_POST_AS_GUEST\"]"
+msgid "Or post as guest"
+msgstr "Atau terbitkan sebagai tamu"
+
+msgctxt "[\"COMMENT-LOGOUT\"]"
+msgid "Logout"
+msgstr "Keluar"
+
+msgctxt "[\"COMMENT-WEBSITE\"]"
+msgid "Website"
+msgstr "Situs"
+
+msgctxt "[\"COMMENT-TO_BE_FIRST\"]"
+msgid "Be the first to comment."
+msgstr "Jadilah komentator pertama"
+
+msgctxt "[\"COMMENT-ERR_QUICK_LOGIN\"]"
+msgid "Quick login error, please try again."
+msgstr "Gagal masuk, coba lagi."
+
+msgctxt "[\"COMMENT-ERR_EMAIL_NAME\"]"
+msgid "Incorrect mail or name"
+msgstr "Email atau nama salah"
+
+msgctxt "[\"COMMENT-ERR_DISCUSSION\"]"
+msgid "Incorrect in discussion"
+msgstr "Kesalahan dalam diskusi"
+
+msgctxt "[\"COMMENT-ERR_FAILURE\"]"
+msgid "Comment unknown"
+msgstr "Komentar tidak diketahui"
+
+msgctxt "[\"COMMENT-DELETE\"]"
+msgid "Yes,delete it!"
+msgstr "Ya, hapus!"
+
+msgctxt "[\"COMMENT-DELETED\"]"
+msgid "Deleted!"
+msgstr "Terhapus!"
+
+msgctxt "[\"COMMENT-DEL\"]"
+msgid "Delete"
+msgstr "Hapus"
+
+msgctxt "[\"COMMENT-ARE_YOU_SURE\"]"
+msgid "Are you sure?"
+msgstr "Anda yakin?"
+
+msgctxt "[\"USER-ACCOUNT_NOT_EXIST\"]"
+msgid "The account you entered does not exist."
+msgstr "Akun yang Anda masukkan tidak ada"
