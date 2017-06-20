@@ -3,9 +3,10 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-05-26 07:13+0000\n"
-"PO-Revision-Date: 2017-06-09 05:43+0000\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2017-06-18 19:12+0000\n"
+"Last-Translator: Steven Dino Windfeld <stevendinowindfeld@gmail.com>\n"
+"Language-Team: Danish "
+"<https://translate.apkpure.com/projects/apkpure/apkpurecom/da/>\n"
 "Language: da\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -16,246 +17,253 @@ msgstr ""
 msgctxt "[\"NAV-GAME\"]"
 msgid "GAMES"
 msgstr ""
+"SPIL\n"
+"\t\n"
+"\t\t\t\t\t\t"
 
 msgctxt "[\"NAV-APP\"]"
 msgid "APPS"
-msgstr ""
+msgstr "APPS"
 
 msgctxt "[\"NAV-XAPK\"]"
 msgid "XAPK"
-msgstr ""
+msgstr "XAPK"
 
 msgctxt "[\"NAV-NEW\"]"
 msgid "NEW"
-msgstr ""
+msgstr "NYHEDER"
 
 msgctxt "[\"NAV-PRODUCTS\"]"
 msgid "PRODUCTS"
-msgstr ""
+msgstr "PRODUKTER"
 
 msgctxt "[\"NAV-NEW_GAME\"]"
 msgid "NEW GAME"
-msgstr ""
+msgstr "NYE SPIL"
 
 msgctxt "[\"NAV-NEW_APP\"]"
 msgid "NEW APP"
-msgstr ""
+msgstr "NYE APPS"
 
 msgctxt "[\"NAV-XAPK_GAME\"]"
 msgid "XAPK GAME"
-msgstr ""
+msgstr "XAPK SPIL"
 
 msgctxt "[\"NAV-XAPK_APP\"]"
 msgid "XAPK APP"
-msgstr ""
+msgstr "XAPK APP"
 
 msgctxt "[\"NAV-APK_INSTALL\"]"
 msgid "APK Install"
-msgstr ""
+msgstr "APK Installation"
 
 msgctxt "[\"NAV-APK_DOWNLOAD\"]"
 msgid "APK Download"
-msgstr ""
+msgstr "APK Download"
 
 msgctxt "[\"NAV-APK_VERIFICATION\"]"
 msgid "APK Verification"
-msgstr ""
+msgstr "APK Verifikation"
 
 msgctxt "[\"NAV-APKPURE_APP\"]"
 msgid "APKPure App"
-msgstr ""
+msgstr "APKPure App"
 
 msgctxt "[\"DOWNLOAD\"]"
 msgid "Download"
-msgstr ""
+msgstr "Download"
 
 msgctxt "[\"SELECT_LANGUAGE\"]"
 msgid "Select Language"
-msgstr ""
+msgstr "Vælg Sprog"
 
 msgctxt "[\"FREE\"]"
 msgid "Free"
-msgstr ""
+msgstr "Gratis"
 
 msgctxt "[\"READ_MORE\"]"
 msgid "Read More"
-msgstr ""
+msgstr "Læs Mere"
 
 msgctxt "[\"GAME\"]"
 msgid "GAME"
-msgstr ""
+msgstr "SPIL"
 
 msgctxt "[\"APP\"]"
 msgid "APP"
-msgstr ""
+msgstr "APP"
 
 msgctxt "[\"GAMES\"]"
 msgid "Games"
-msgstr ""
+msgstr "SPIL"
 
 msgctxt "[\"APPS\"]"
 msgid "Apps"
-msgstr ""
+msgstr "Apps"
 
 msgctxt "[\"MORE\"]"
 msgid "More"
-msgstr ""
+msgstr "Mere"
 
 msgctxt "[\"XAPK\"]"
 msgid "XAPK"
-msgstr ""
+msgstr "XAPK"
 
 msgctxt "[\"XAPK-GAMES\"]"
 msgid "XAPK Games"
-msgstr ""
+msgstr "XAPK Spil"
 
 msgctxt "[\"XAPK-APPS\"]"
 msgid "XAPK Apps"
-msgstr ""
+msgstr "XAPK Apps"
 
 msgctxt "[\"HOME\"]"
 msgid "Home"
-msgstr ""
+msgstr "Hjem"
 
 msgctxt "[\"SORT_BY\"]"
 msgid "Sort by"
-msgstr ""
+msgstr "Sorter efter"
 
 msgctxt "[\"HOT\"]"
 msgid "Hot"
-msgstr ""
+msgstr "Populære"
 
 msgctxt "[\"DOWNLOADS\"]"
 msgid "Downloads"
-msgstr ""
+msgstr "Downloads"
 
 msgctxt "[\"NEWEST\"]"
 msgid "Newest"
-msgstr ""
+msgstr "Nyeste"
 
 msgctxt "[\"RATING\"]"
 msgid "Rating"
-msgstr ""
+msgstr "Bedømmelse"
 
 msgctxt "[\"CATEGORY\"]"
 msgid "Category"
-msgstr ""
+msgstr "Kategori"
 
 msgctxt "[\"CATEGORY_JOIN\"]"
 msgid "{app_category} {app_type}"
-msgstr ""
+msgstr "{app_kategori} {app_type}"
 
 msgctxt "[\"SHOW_MORE\"]"
 msgid "Show More"
-msgstr ""
+msgstr "Vis Mere"
 
 msgctxt "[\"SHOW_LESS\"]"
 msgid "Show less"
-msgstr ""
+msgstr "Vis Mindre"
 
 msgctxt "[\"HAVE_PRODUCTS\"]"
 msgid "have {0} products"
-msgstr ""
+msgstr "har {0} produkter"
 
 msgctxt "[\"DEVELOPER\"]"
 msgid "Developer"
-msgstr ""
+msgstr "Udvikler"
 
+#, fuzzy
 msgctxt "[\"POPULAR_GAMES_IN_LAST_HOURS\"]"
 msgid "Popular Games In Last {0} Hours"
-msgstr ""
+msgstr "Populære spil i de seneste {0} Timer"
 
+#, fuzzy
 msgctxt "[\"POPULAR_APPS_IN_LAST_HOURS\"]"
 msgid "Popular Apps In Last {0} Hours"
-msgstr ""
+msgstr "Populære Apps i de seneste {0} Timer"
 
 msgctxt "[\"POPULAR_APPS_IN_TODAY\"]"
 msgid "Popular Apps In Today"
-msgstr ""
+msgstr "Populære Apps I Dag"
 
 msgctxt "[\"POPULAR_GAMES_IN_TODAY\"]"
 msgid "Popular Games In Today"
-msgstr ""
+msgstr "Populære Spil I Dag"
 
 msgctxt "[\"HOT_GAMES\"]"
 msgid "Hot Games"
-msgstr ""
+msgstr "Populære Spil"
 
 msgctxt "[\"HOT_APPS\"]"
 msgid "Hot Apps"
-msgstr ""
+msgstr "Populære Apps"
 
 msgctxt "[\"CLOSE\"]"
 msgid "Close"
-msgstr ""
+msgstr "Luk"
 
 msgctxt "[\"COMMENTS\"]"
 msgid "Comments"
-msgstr ""
+msgstr "Kommentarer"
 
 msgctxt "[\"LATEST_UPDATE_GAMES\"]"
 msgid "Latest Update Games"
-msgstr ""
+msgstr "Nyligt Opdateret Spil"
 
 msgctxt "[\"LATEST_UPDATE_APPS\"]"
 msgid "Latest Update Apps"
-msgstr ""
+msgstr "Nyligt Opdateret Apps"
 
 msgctxt "[\"LATEST_UPDATE\"]"
 msgid "Latest Update"
-msgstr ""
+msgstr "Seneste Opdateringer"
 
 msgctxt "[\"XAPK_IS_APK_WITH_OBB_DATA\"]"
 msgid "XAPK is APK with OBB data"
-msgstr ""
+msgstr "XAPK er APK med OBB data"
 
 msgctxt "[\"MOST_POPULAR_IN_TODAY\"]"
 msgid "Most Popular In Today"
-msgstr ""
+msgstr "Dagens Mest Populære"
 
 msgctxt "[\"SIMILAR_OR_RELATED\"]"
 msgid "Similar Or Related"
-msgstr ""
+msgstr "Lignende Eller Relateret"
 
 msgctxt "[\"INDEX-TITLE\"]"
 msgid "Download free Android Games and Android Apps."
-msgstr ""
+msgstr "Download gratis Android Spil og Android Apps."
 
 msgctxt "[\"INDEX-MOBILE_TITLE\"]"
 msgid "Download free Android Games and Apps."
-msgstr ""
+msgstr "Download gratis Android Spil og Apps."
 
 msgctxt "[\"INDEX-HOW_TO_DOWNLOAD\"]"
 msgid "How to download apk files?"
-msgstr ""
+msgstr "Hvordan downloader man apk filer?"
 
 msgctxt "[\"INDEX-FAQ\"]"
 msgid "FAQ"
-msgstr ""
+msgstr "Ofte Stillede Spørgsmål"
 
 msgctxt "[\"INDEX-POPULAR_CATEGORIES\"]"
 msgid "Popular categories"
-msgstr ""
+msgstr "Populære Kategorier"
 
 msgctxt "[\"DOWNLOAD_APK\"]"
 msgid "Download APK"
-msgstr ""
+msgstr "Download APK"
 
 msgctxt "[\"VERIFICATION_CODE\"]"
 msgid "Verification code"
-msgstr ""
+msgstr "Verifikations kode"
 
 msgctxt "[\"VERIFICATION_INCORRECT\"]"
 msgid "The verification code is incorrect!"
-msgstr ""
+msgstr "Verifikations koden er ikke korrekt!"
 
 msgctxt "[\"VERIFICATION_DOWN\"]"
 msgid "Enter the code(s) as you see in the image, then click \"Download\"."
 msgstr ""
+"Indtast koden/koderne fra det vidste billede, klik efterfølgende på \""
+"Download\"."
 
 msgctxt "[\"TOPICS\"]"
 msgid "Topics"
-msgstr ""
+msgstr "Emner"
 
 msgctxt "[\"SIMILAR_TO\"]"
 msgid "Similar to {0}"
@@ -263,131 +271,135 @@ msgstr ""
 
 msgctxt "[\"CANCEL\"]"
 msgid "Cancel"
-msgstr ""
+msgstr "Afbryd"
 
 msgctxt "[\"DETAIL-PAID_GAME\"]"
 msgid "Paid Game"
-msgstr ""
+msgstr "Betalt Spil"
 
 msgctxt "[\"DETAIL-PAID_APP\"]"
 msgid "Paid App"
-msgstr ""
+msgstr "Betalt App"
 
+#, fuzzy
 msgctxt "[\"DETAIL-PAID_GAME_DES\"]"
 msgid "Paid games are not available to download"
-msgstr ""
+msgstr "Det er ikke muligt at downloade betalte spil"
 
+#, fuzzy
 msgctxt "[\"DETAIL-PAID_APP_DES\"]"
 msgid "Paid apps are not available to download"
-msgstr ""
+msgstr "Det er ikke muligt at downloade betalte apps"
 
+#, fuzzy
 msgctxt "[\"DETAIL-WHY_SAFE\"]"
 msgid "Why we can guarantee APK 100% safe?"
-msgstr ""
+msgstr "Hvorfor kan vi  garanterer 100% sikker APK?"
 
 msgctxt "[\"DETAIL-SAFE\"]"
 msgid "Verification passed"
-msgstr ""
+msgstr "Verifikation godkendt"
 
 msgctxt "[\"DETAIL-XAPK_SHORT_DES\"]"
 msgid "XAPK is APK with OBB data, Click to get XAPK Installer"
-msgstr ""
+msgstr "XAPK er APK med OBB data, klik for at få XAPK Installeren"
 
+#, fuzzy
 msgctxt "[\"DETAIL-MOBILE_XAPK_SHORT_DES\"]"
 msgid "Click to get XAPK Installer"
-msgstr ""
+msgstr "Klik for at få XAPK Installeren"
 
 msgctxt "[\"DETAIL-CATEGORY\"]"
 msgid "Category"
-msgstr ""
+msgstr "Kategori"
 
 msgctxt "[\"DETAIL-LATEST_VERSION\"]"
 msgid "Latest Version"
-msgstr ""
+msgstr "Seneste Version"
 
 msgctxt "[\"DETAIL-PUBLISH_DATE\"]"
 msgid "Publish Date"
-msgstr ""
+msgstr "Udgivelses Dato"
 
 msgctxt "[\"DETAIL-GET_IT_ON\"]"
 msgid "Get it on"
-msgstr ""
+msgstr "Få den her"
 
 msgctxt "[\"DETAIL-REQUIREMENTS\"]"
 msgid "Requirements"
-msgstr ""
+msgstr "Krav"
 
 msgctxt "[\"DETAIL-AUTHOR\"]"
 msgid "Author"
-msgstr ""
+msgstr "Forfatter"
 
 msgctxt "[\"DETAIL-REPORT\"]"
 msgid "Report"
-msgstr ""
+msgstr "Rapporter"
 
 msgctxt "[\"DETAIL-FLAG_AS_INAPPROPRIATE\"]"
 msgid "Flag as inappropriate"
-msgstr ""
+msgstr "Afmærk som upassende"
 
 msgctxt "[\"DETAIL-VOTES\"]"
 msgid "votes"
-msgstr ""
+msgstr "stemmer"
 
 msgctxt "[\"DETAIL-THE_DESCRIPTION\"]"
 msgid "The description of {0}"
-msgstr ""
+msgstr "Beskrivelsen af {0}"
 
 msgctxt "[\"DETAIL-OFFICIAL_TRAILER\"]"
 msgid "{0} for Android official Trailer"
-msgstr ""
+msgstr "{0} for den officielle Android Trailer"
 
 msgctxt "[\"DETAIL-VERSION\"]"
 msgid "Version"
-msgstr ""
+msgstr "Version"
 
 msgctxt "[\"DETAIL-UPDATE_ON\"]"
 msgid "Update on"
-msgstr ""
+msgstr "Opdateret den"
 
 msgctxt "[\"DETAIL-SIGNATURE\"]"
 msgid "Signature"
-msgstr ""
+msgstr "Signatur"
 
 msgctxt "[\"DETAIL-FILE_SHA1\"]"
 msgid "File SHA1"
-msgstr ""
+msgstr "Fil SHA1"
 
 msgctxt "[\"DETAIL-APK_FILE_SHA1\"]"
 msgid "APK File SHA1"
-msgstr ""
+msgstr "APK Fil SHA1"
 
 msgctxt "[\"DETAIL-XAPK_FILE_SHA1\"]"
 msgid "XAPK File SHA1"
-msgstr ""
+msgstr "XAPK Fil SHA1"
 
 msgctxt "[\"DETAIL-WHATS_NEW\"]"
 msgid "What's new"
-msgstr ""
+msgstr "Nyt"
 
 msgctxt "[\"DETAIL-VERSION_HISTORY\"]"
 msgid "Version History"
-msgstr ""
+msgstr "Versions Historik"
 
 msgctxt "[\"DETAIL-MORE_FROM_DEVELOPER\"]"
 msgid "More From Developer"
-msgstr ""
+msgstr "Mere fra Udvikleren"
 
 msgctxt "[\"DETAIL-COMMENTS\"]"
 msgid "Comments"
-msgstr ""
+msgstr "Kommentarer"
 
 msgctxt "[\"DETAIL-FOLLOW_UPDATES\"]"
 msgid "Follow Updates"
-msgstr ""
+msgstr "Følg Opdateringer"
 
 msgctxt "[\"DETAIL-REQUEST_UPDATE\"]"
 msgid "Request Update"
-msgstr ""
+msgstr "Anmod om Opdatering"
 
 msgctxt "[\"DETAIL-RATING\"]"
 msgid "{votes} votes, average: {rating_average} out of {rating_best}"
