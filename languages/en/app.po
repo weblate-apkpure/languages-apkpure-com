@@ -1,25 +1,6 @@
-msgid ""
-msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-05-26 07:13+0000\n"
-"PO-Revision-Date: 2017-06-15 04:34+0000\n"
-"Last-Translator: leaomett <leaomett@gmail.com>\n"
-"Language-Team: English "
-"<https://translate.apkpure.com/projects/apkpure/apkpurecom/en/>\n"
-"Language: en\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 2.14\n"
-
 msgctxt "[\"NAV-GAME\"]"
 msgid "GAMES"
-msgstr ""
-"GAMES\n"
-"\t\n"
-"\t\t\t\t\t\t"
+msgstr "GAMES"
 
 msgctxt "[\"NAV-APP\"]"
 msgid "APPS"
@@ -41,7 +22,6 @@ msgctxt "[\"NAV-NEW_GAME\"]"
 msgid "NEW GAME"
 msgstr "NEW GAME"
 
-#, fuzzy
 msgctxt "[\"NAV-NEW_APP\"]"
 msgid "NEW APP"
 msgstr "NEW APP"
@@ -474,6 +454,10 @@ msgctxt "[\"COMMENT-REPORT\"]"
 msgid "Report"
 msgstr "Report"
 
+msgctxt "[\"COMMENT-COLLAPSED\"]"
+msgid "comment collapsed"
+msgstr "comment collapsed"
+
 msgctxt "[\"COMMENT-POST\"]"
 msgid "Post"
 msgstr "Post"
@@ -495,36 +479,28 @@ msgid "Email"
 msgstr "Email"
 
 msgctxt "[\"COMMENT-SORT_BY_NEWEST\"]"
-msgid "Sort by newest"
-msgstr "Sort by newest"
-
-msgctxt "[\"COMMENT-SORT_BY_NEW\"]"
-msgid "Sort by newest"
-msgstr "Sort by newest"
-
-msgctxt "[\"COMMENT-SORT_BY_OLDEST\"]"
-msgid "Sort by oldest"
-msgstr "Sort by oldest"
-
-msgctxt "[\"COMMENT-SORT_BY_BEST\"]"
-msgid "Sort by best"
-msgstr "Sort by best"
-
-msgctxt "[\"COMMENT-SORT_BY_MOST_RECENT\"]"
-msgid "Sort by most recent"
-msgstr "Sort by most recent"
-
-msgctxt "[\"COMMENT-NEWEST\"]"
 msgid "Newest"
 msgstr "Newest"
 
-msgctxt "[\"COMMENT-OLDEST\"]"
+msgctxt "[\"COMMENT-SORT_BY_NEW\"]"
+msgid "Newest"
+msgstr "Newest"
+
+msgctxt "[\"COMMENT-SORT_BY_OLDEST\"]"
 msgid "Oldest"
 msgstr "Oldest"
 
-msgctxt "[\"COMMENT-BEST\"]"
+msgctxt "[\"COMMENT-SORT_BY_BEST\"]"
 msgid "Best"
 msgstr "Best"
+
+msgctxt "[\"COMMENT-SORT_BY_MOST_RECENT\"]"
+msgid "Most Recent"
+msgstr "Most Recent"
+
+msgctxt "[\"COMMENT-SORT_BY_DEFAULT\"]"
+msgid "Sort by default"
+msgstr "Sort by default"
 
 msgctxt "[\"COMMENT-RATING_REQUIRED\"]"
 msgid "Rating required"
@@ -546,9 +522,9 @@ msgctxt "[\"COMMENT-COMMENTS_CANT_BE_BLANK\"]"
 msgid "Comments can't be blank."
 msgstr "Comments can't be blank."
 
-msgctxt "[\"COMMENT-OR_POST_AS_GUEST\"]"
-msgid "Or post as guest"
-msgstr "Or post as guest"
+msgctxt "[\"COMMENT-POST_AS_GUEST\"]"
+msgid "Post As a Guest"
+msgstr "Post As a Guest"
 
 msgctxt "[\"COMMENT-LOGOUT\"]"
 msgid "Logout"
@@ -561,6 +537,10 @@ msgstr "Website"
 msgctxt "[\"COMMENT-TO_BE_FIRST\"]"
 msgid "Be the first to comment."
 msgstr "Be the first to comment."
+
+msgctxt "[\"COMMENT-VOTE\"]"
+msgid "Vote"
+msgstr "Vote"
 
 msgctxt "[\"COMMENT-ERR_QUICK_LOGIN\"]"
 msgid "Quick login error, please try again."
@@ -602,6 +582,10 @@ msgctxt "[\"COMMENT-ERR_INVALID_PARAMETER\"]"
 msgid "Invalid comment parameter"
 msgstr "Invalid comment parameter"
 
+msgctxt "[\"COMMENT-ERR_INVALID_VIDEO_URL\"]"
+msgid "Invalid Video URL"
+msgstr "Invalid Video URL"
+
 msgctxt "[\"COMMENT-DELETE\"]"
 msgid "Yes,delete it!"
 msgstr "Yes,delete it!"
@@ -617,6 +601,10 @@ msgstr "Delete"
 msgctxt "[\"COMMENT-ARE_YOU_SURE\"]"
 msgid "Are you sure?"
 msgstr "Are you sure?"
+
+msgctxt "[\"COMMENT-LOADING\"]"
+msgid "Comment Loading..."
+msgstr "Comment Loading..."
 
 msgctxt "[\"USER-ACCOUNT_EXIST\"]"
 msgid "The username is already in use."
@@ -657,6 +645,50 @@ msgstr "Female"
 msgctxt "[\"USER-MALE\"]"
 msgid "Male"
 msgstr "Male"
+
+msgctxt "[\"USER-USER_LOGIN\"]"
+msgid "User Login"
+msgstr "User Login"
+
+msgctxt "[\"USER-USERNAME\"]"
+msgid "Username"
+msgstr "Username"
+
+msgctxt "[\"USER-PASSWORD\"]"
+msgid "Password"
+msgstr "Password"
+
+msgctxt "[\"USER-NEW_USER_REGISTRATION\"]"
+msgid "New User Registration"
+msgstr "New User Registration"
+
+msgctxt "[\"USER-SIGN_IN_BTN\"]"
+msgid "SIGN IN"
+msgstr "SIGN IN"
+
+msgctxt "[\"USER-SIGN_IN\"]"
+msgid "Sign In"
+msgstr "Sign In"
+
+msgctxt "[\"USER-SIGN_IN_WITH\"]"
+msgid "Or sign in with"
+msgstr "Or sign in with"
+
+msgctxt "[\"USER-SIGN_UP_BTN\"]"
+msgid "SIGN UP"
+msgstr "SIGN UP"
+
+msgctxt "[\"USER-SIGN_UP\"]"
+msgid "Sign Up"
+msgstr "Sign Up"
+
+msgctxt "[\"USER-CONFIRM_PASSWORD\"]"
+msgid "Confirm Password"
+msgstr "Confirm Password"
+
+msgctxt "[\"USER-TERMS_SERVICE\"]"
+msgid "By signing up you agree to our <a href='/terms-service.html' target='_blank'>terms of service</a>"
+msgstr "By signing up you agree to our <a href='/terms-service.html' target='_blank'>terms of service</a>"
 
 msgctxt "[\"REGION_DOWN-TITLE\"]"
 msgid "Region free APK download"
@@ -882,7 +914,6 @@ msgctxt "[\"FOOTER-TOP_ANDROID_GAMES\"]"
 msgid "TOP ANDROID GAMES"
 msgstr "TOP ANDROID GAMES"
 
-#, fuzzy
 msgctxt "[\"FOOTER-TRANSLATE\"]"
 msgid "Help translate APKPure"
 msgstr "Help translate APKPure"
@@ -1215,6 +1246,26 @@ msgctxt "[\"js\"][\"CANCEL\"]"
 msgid "Cancel"
 msgstr "Cancel"
 
+msgctxt "[\"js\"][\"USER-PASSWORD_NOT_MATCH\"]"
+msgid "Passwords do not match"
+msgstr "Passwords do not match"
+
+msgctxt "[\"js\"][\"USER-PASSWORD_MUST\"]"
+msgid "Password must be 6-32 characters long"
+msgstr "Password must be 6-32 characters long"
+
+msgctxt "[\"js\"][\"USER-USERNAME_MUST\"]"
+msgid "Username must be 1-20 characters long and special characters are not allowed."
+msgstr "Username must be 1-20 characters long and special characters are not allowed."
+
+msgctxt "[\"js\"][\"USER-INCORRECT_ACCOUNT\"]"
+msgid "The username you entered is invalid."
+msgstr "The username you entered is invalid."
+
+msgctxt "[\"js\"][\"USER-INCORRECT_PASSWORD\"]"
+msgid "The password you entered is invalid."
+msgstr "The password you entered is invalid."
+
 msgctxt "[\"js\"][\"COMMENT-DELETE\"]"
 msgid "Yes,delete it!"
 msgstr "Yes,delete it!"
@@ -1226,6 +1277,10 @@ msgstr "Deleted!"
 msgctxt "[\"js\"][\"COMMENT-ARE_YOU_SURE\"]"
 msgid "Are you sure?"
 msgstr "Are you sure?"
+
+msgctxt "[\"js\"][\"COMMENT-VOTE\"]"
+msgid "Vote"
+msgstr "Vote"
 
 msgctxt "[\"meta\"][\"Index\"][\"title\"]"
 msgid "Download APK free online downloader | APKPure.com"

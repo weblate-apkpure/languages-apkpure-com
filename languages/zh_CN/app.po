@@ -1,19 +1,3 @@
-msgid ""
-msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-04-17 11:47+0000\n"
-"PO-Revision-Date: 2017-05-20 22:12+0000\n"
-"Last-Translator: Bojun Li <bojun.lee@gmail.com>\n"
-"Language-Team: Chinese (Simplified) "
-"<https://translate.apkpure.com/projects/apkpure/apkpurecom/zh_Hans/>\n"
-"Language: zh_CN\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 2.13.1\n"
-
 msgctxt "[\"NAV-GAME\"]"
 msgid "GAMES"
 msgstr "游戏"
@@ -28,7 +12,7 @@ msgstr "XAPK"
 
 msgctxt "[\"NAV-NEW\"]"
 msgid "NEW"
-msgstr "最近更新"
+msgstr "最新"
 
 msgctxt "[\"NAV-PRODUCTS\"]"
 msgid "PRODUCTS"
@@ -36,35 +20,35 @@ msgstr "产品"
 
 msgctxt "[\"NAV-NEW_GAME\"]"
 msgid "NEW GAME"
-msgstr "最近更新的游戏"
+msgstr "最近更新游戏"
 
 msgctxt "[\"NAV-NEW_APP\"]"
 msgid "NEW APP"
-msgstr "最近更新的应用"
+msgstr "最近更新应用"
 
 msgctxt "[\"NAV-XAPK_GAME\"]"
 msgid "XAPK GAME"
-msgstr "含数据包的游戏"
+msgstr "XAPK 游戏"
 
 msgctxt "[\"NAV-XAPK_APP\"]"
 msgid "XAPK APP"
-msgstr "含数据包的应用"
+msgstr "XAPK 应用"
 
 msgctxt "[\"NAV-APK_INSTALL\"]"
 msgid "APK Install"
-msgstr "安装应用"
+msgstr "APK 安装器"
 
 msgctxt "[\"NAV-APK_DOWNLOAD\"]"
 msgid "APK Download"
-msgstr "应用下载"
+msgstr "APK 下载器"
 
 msgctxt "[\"NAV-APK_VERIFICATION\"]"
 msgid "APK Verification"
-msgstr "应用签名校验"
+msgstr "APK 签名校验器"
 
 msgctxt "[\"NAV-APKPURE_APP\"]"
 msgid "APKPure App"
-msgstr "纯-原生应用商店客户端"
+msgstr "APKPure 客户端"
 
 msgctxt "[\"DOWNLOAD\"]"
 msgid "Download"
@@ -72,7 +56,7 @@ msgstr "下载"
 
 msgctxt "[\"SELECT_LANGUAGE\"]"
 msgid "Select Language"
-msgstr "请选择语言"
+msgstr "选择语言"
 
 msgctxt "[\"FREE\"]"
 msgid "Free"
@@ -104,15 +88,15 @@ msgstr "更多"
 
 msgctxt "[\"XAPK\"]"
 msgid "XAPK"
-msgstr "含数据包应用"
+msgstr "XAPK"
 
 msgctxt "[\"XAPK-GAMES\"]"
 msgid "XAPK Games"
-msgstr "含数据包的游戏"
+msgstr "XAPK游戏"
 
 msgctxt "[\"XAPK-APPS\"]"
 msgid "XAPK Apps"
-msgstr "含数据包的应用"
+msgstr "XAPK应用"
 
 msgctxt "[\"HOME\"]"
 msgid "Home"
@@ -128,15 +112,15 @@ msgstr "最热门"
 
 msgctxt "[\"DOWNLOADS\"]"
 msgid "Downloads"
-msgstr "下载"
+msgstr "下载最多"
 
 msgctxt "[\"NEWEST\"]"
 msgid "Newest"
-msgstr "最新"
+msgstr "最近更新"
 
 msgctxt "[\"RATING\"]"
 msgid "Rating"
-msgstr "评分"
+msgstr "评级"
 
 msgctxt "[\"CATEGORY\"]"
 msgid "Category"
@@ -148,7 +132,7 @@ msgstr "{app_category}{app_type}"
 
 msgctxt "[\"SHOW_MORE\"]"
 msgid "Show More"
-msgstr "展开"
+msgstr "更多"
 
 msgctxt "[\"SHOW_LESS\"]"
 msgid "Show less"
@@ -156,19 +140,19 @@ msgstr "收起"
 
 msgctxt "[\"HAVE_PRODUCTS\"]"
 msgid "have {0} products"
-msgstr "找到 {0} 个产品"
+msgstr "找到 {0} 个"
 
 msgctxt "[\"DEVELOPER\"]"
 msgid "Developer"
-msgstr "开发者选项"
+msgstr "开发者"
 
 msgctxt "[\"POPULAR_GAMES_IN_LAST_HOURS\"]"
 msgid "Popular Games In Last {0} Hours"
-msgstr "{0} 小时内热门游戏"
+msgstr "{0} 小时热门游戏"
 
 msgctxt "[\"POPULAR_APPS_IN_LAST_HOURS\"]"
 msgid "Popular Apps In Last {0} Hours"
-msgstr "{0} 小时内热门应用"
+msgstr "{0} 小时热门应用"
 
 msgctxt "[\"POPULAR_APPS_IN_TODAY\"]"
 msgid "Popular Apps In Today"
@@ -196,11 +180,11 @@ msgstr "用户评论"
 
 msgctxt "[\"LATEST_UPDATE_GAMES\"]"
 msgid "Latest Update Games"
-msgstr "最近更新的游戏"
+msgstr "最近更新游戏"
 
 msgctxt "[\"LATEST_UPDATE_APPS\"]"
 msgid "Latest Update Apps"
-msgstr "最近更新的应用"
+msgstr "最近更新应用"
 
 msgctxt "[\"LATEST_UPDATE\"]"
 msgid "Latest Update"
@@ -208,11 +192,11 @@ msgstr "最近更新"
 
 msgctxt "[\"XAPK_IS_APK_WITH_OBB_DATA\"]"
 msgid "XAPK is APK with OBB data"
-msgstr "XAPK是指包含数据包的应用程序安装包"
+msgstr "XAPK 包含数据包的 APK"
 
 msgctxt "[\"MOST_POPULAR_IN_TODAY\"]"
 msgid "Most Popular In Today"
-msgstr "今日最受欢迎"
+msgstr "今日最受欢迎的"
 
 msgctxt "[\"SIMILAR_OR_RELATED\"]"
 msgid "Similar Or Related"
@@ -220,7 +204,7 @@ msgstr "猜你喜欢"
 
 msgctxt "[\"INDEX-TITLE\"]"
 msgid "Download free Android Games and Android Apps."
-msgstr "免费下载安卓游戏及应用。"
+msgstr "下载免费的安卓游戏及应用"
 
 msgctxt "[\"INDEX-MOBILE_TITLE\"]"
 msgid "Download free Android Games and Apps."
@@ -248,11 +232,11 @@ msgstr "验证码"
 
 msgctxt "[\"VERIFICATION_INCORRECT\"]"
 msgid "The verification code is incorrect!"
-msgstr "验证码错误！"
+msgstr "验证码不正确!"
 
 msgctxt "[\"VERIFICATION_DOWN\"]"
 msgid "Enter the code(s) as you see in the image, then click \"Download\"."
-msgstr "请输入图片中的验证码，然后点击下载"
+msgstr "请您输入显示的验证码后点击下载"
 
 msgctxt "[\"TOPICS\"]"
 msgid "Topics"
@@ -260,7 +244,7 @@ msgstr "专题"
 
 msgctxt "[\"SIMILAR_TO\"]"
 msgid "Similar to {0}"
-msgstr "有 {0}个相似"
+msgstr "类似于 {0}"
 
 msgctxt "[\"CANCEL\"]"
 msgid "Cancel"
@@ -268,11 +252,11 @@ msgstr "取消"
 
 msgctxt "[\"DETAIL-PAID_GAME\"]"
 msgid "Paid Game"
-msgstr "付费游戏"
+msgstr "收费游戏"
 
 msgctxt "[\"DETAIL-PAID_APP\"]"
 msgid "Paid App"
-msgstr "付费应用"
+msgstr "收费应用"
 
 msgctxt "[\"DETAIL-PAID_GAME_DES\"]"
 msgid "Paid games are not available to download"
@@ -470,6 +454,10 @@ msgctxt "[\"COMMENT-REPORT\"]"
 msgid "Report"
 msgstr "举报"
 
+msgctxt "[\"COMMENT-COLLAPSED\"]"
+msgid "comment collapsed"
+msgstr "已折叠"
+
 msgctxt "[\"COMMENT-POST\"]"
 msgid "Post"
 msgstr "提交"
@@ -491,36 +479,28 @@ msgid "Email"
 msgstr "电子邮件"
 
 msgctxt "[\"COMMENT-SORT_BY_NEWEST\"]"
-msgid "Sort by newest"
-msgstr "按最新排序"
+msgid "Newest"
+msgstr "最新评论"
 
 msgctxt "[\"COMMENT-SORT_BY_NEW\"]"
-msgid "Sort by newest"
-msgstr "按最新排序"
-
-msgctxt "[\"COMMENT-SORT_BY_OLDEST\"]"
-msgid "Sort by oldest"
-msgstr "按最早排序"
-
-msgctxt "[\"COMMENT-SORT_BY_BEST\"]"
-msgid "Sort by best"
-msgstr "按推荐排序"
-
-msgctxt "[\"COMMENT-SORT_BY_MOST_RECENT\"]"
-msgid "Sort by most recent"
-msgstr "按最近回复排序"
-
-msgctxt "[\"COMMENT-NEWEST\"]"
 msgid "Newest"
 msgstr "最新"
 
-msgctxt "[\"COMMENT-OLDEST\"]"
+msgctxt "[\"COMMENT-SORT_BY_OLDEST\"]"
 msgid "Oldest"
 msgstr "最早"
 
-msgctxt "[\"COMMENT-BEST\"]"
+msgctxt "[\"COMMENT-SORT_BY_BEST\"]"
 msgid "Best"
-msgstr "推荐"
+msgstr "最热"
+
+msgctxt "[\"COMMENT-SORT_BY_MOST_RECENT\"]"
+msgid "Most Recent"
+msgstr "最近回复"
+
+msgctxt "[\"COMMENT-SORT_BY_DEFAULT\"]"
+msgid "Sort by default"
+msgstr "默认排序"
 
 msgctxt "[\"COMMENT-RATING_REQUIRED\"]"
 msgid "Rating required"
@@ -542,9 +522,9 @@ msgctxt "[\"COMMENT-COMMENTS_CANT_BE_BLANK\"]"
 msgid "Comments can't be blank."
 msgstr "评论不能为空。"
 
-msgctxt "[\"COMMENT-OR_POST_AS_GUEST\"]"
-msgid "Or post as guest"
-msgstr "或以游客方式讨论"
+msgctxt "[\"COMMENT-POST_AS_GUEST\"]"
+msgid "Post As a Guest"
+msgstr "以游客身份"
 
 msgctxt "[\"COMMENT-LOGOUT\"]"
 msgid "Logout"
@@ -557,6 +537,10 @@ msgstr "网站"
 msgctxt "[\"COMMENT-TO_BE_FIRST\"]"
 msgid "Be the first to comment."
 msgstr "第一个来评论。"
+
+msgctxt "[\"COMMENT-VOTE\"]"
+msgid "Vote"
+msgstr "投票"
 
 msgctxt "[\"COMMENT-ERR_QUICK_LOGIN\"]"
 msgid "Quick login error, please try again."
@@ -598,6 +582,10 @@ msgctxt "[\"COMMENT-ERR_INVALID_PARAMETER\"]"
 msgid "Invalid comment parameter"
 msgstr "不正确的评论参数"
 
+msgctxt "[\"COMMENT-ERR_INVALID_VIDEO_URL\"]"
+msgid "Invalid Video URL"
+msgstr "无效的视频链接"
+
 msgctxt "[\"COMMENT-DELETE\"]"
 msgid "Yes,delete it!"
 msgstr "删除"
@@ -613,6 +601,10 @@ msgstr "删除"
 msgctxt "[\"COMMENT-ARE_YOU_SURE\"]"
 msgid "Are you sure?"
 msgstr "你确定？"
+
+msgctxt "[\"COMMENT-LOADING\"]"
+msgid "Comment Loading..."
+msgstr "评论载入中..."
 
 msgctxt "[\"USER-ACCOUNT_EXIST\"]"
 msgid "The username is already in use."
@@ -653,6 +645,50 @@ msgstr "女"
 msgctxt "[\"USER-MALE\"]"
 msgid "Male"
 msgstr "男"
+
+msgctxt "[\"USER-USER_LOGIN\"]"
+msgid "User Login"
+msgstr "用户登录"
+
+msgctxt "[\"USER-USERNAME\"]"
+msgid "Username"
+msgstr "用户名"
+
+msgctxt "[\"USER-PASSWORD\"]"
+msgid "Password"
+msgstr "密码"
+
+msgctxt "[\"USER-NEW_USER_REGISTRATION\"]"
+msgid "New User Registration"
+msgstr "新用户注册"
+
+msgctxt "[\"USER-SIGN_IN_BTN\"]"
+msgid "SIGN IN"
+msgstr "登录"
+
+msgctxt "[\"USER-SIGN_IN\"]"
+msgid "Sign In"
+msgstr "登录"
+
+msgctxt "[\"USER-SIGN_IN_WITH\"]"
+msgid "Or sign in with"
+msgstr "或使用三方账号登录"
+
+msgctxt "[\"USER-SIGN_UP_BTN\"]"
+msgid "SIGN UP"
+msgstr "注册"
+
+msgctxt "[\"USER-SIGN_UP\"]"
+msgid "Sign Up"
+msgstr "注册"
+
+msgctxt "[\"USER-CONFIRM_PASSWORD\"]"
+msgid "Confirm Password"
+msgstr "确认密码"
+
+msgctxt "[\"USER-TERMS_SERVICE\"]"
+msgid "By signing up you agree to our <a href='/terms-service.html' target='_blank'>terms of service</a>"
+msgstr "我已阅读并接受APKPure<a href='/terms-service.html' target='_blank'>相关条款</a>"
 
 msgctxt "[\"REGION_DOWN-TITLE\"]"
 msgid "Region free APK download"
@@ -1036,23 +1072,23 @@ msgstr "无法在当前区域下载此 APK，请更改区域重新尝试。"
 
 msgctxt "[\"error\"][\"DOWN-LimitedDevice\"]"
 msgid "Sorry, download failed, the APK does not support our device."
-msgstr "很抱歉，下载失败，该 APK 不支持我们的设备。"
+msgstr "未知错误，我们将尽快修复此问题。"
 
 msgctxt "[\"error\"][\"DOWN-UnknownError\"]"
 msgid "Download failed because of an unknown error. We will fix this problem soon."
-msgstr "由于发生了未知错误，因此下载失败。我们将尽快修复此问题。"
+msgstr "未知错误，我们将尽快修复此问题。"
 
 msgctxt "[\"error\"][\"DOWN-LimitedCarrier\"]"
 msgid "Download failed because of an unknown error. We will fix this problem soon."
-msgstr "由于发生了未知错误，因此下载失败。我们将尽快修复此问题。"
+msgstr "未知错误，我们将尽快修复此问题。"
 
 msgctxt "[\"error\"][\"DOWN-PreRegister\"]"
 msgid "It's a Pre-registration App, you can't download."
-msgstr "由于这是“预注册应用”，因此您不能下载。"
+msgstr "这是一个预注册应用，试试更改区域？"
 
 msgctxt "[\"error\"][\"DOWN-RunOutOfDevice\"]"
 msgid "Download failed, please try again in 5 minutes."
-msgstr "下载失败，请 5 分钟后再试。"
+msgstr "请求量过大，请5分钟后再试。"
 
 msgctxt "[\"tip\"][\"ICON\"]"
 msgid "{0} icon"
@@ -1210,6 +1246,26 @@ msgctxt "[\"js\"][\"CANCEL\"]"
 msgid "Cancel"
 msgstr "取消"
 
+msgctxt "[\"js\"][\"USER-PASSWORD_NOT_MATCH\"]"
+msgid "Passwords do not match"
+msgstr "密码不匹配"
+
+msgctxt "[\"js\"][\"USER-PASSWORD_MUST\"]"
+msgid "Password must be 6-32 characters long"
+msgstr "密码长度必须为6-32个字符"
+
+msgctxt "[\"js\"][\"USER-USERNAME_MUST\"]"
+msgid "Username must be 1-20 characters long and special characters are not allowed."
+msgstr "用户名必须为1-20个字符，不允许使用特殊字符。"
+
+msgctxt "[\"js\"][\"USER-INCORRECT_ACCOUNT\"]"
+msgid "The username you entered is invalid."
+msgstr "您输入的用户名无效。"
+
+msgctxt "[\"js\"][\"USER-INCORRECT_PASSWORD\"]"
+msgid "The password you entered is invalid."
+msgstr "您输入的密码无效。"
+
 msgctxt "[\"js\"][\"COMMENT-DELETE\"]"
 msgid "Yes,delete it!"
 msgstr "删除"
@@ -1221,6 +1277,10 @@ msgstr "已删除！"
 msgctxt "[\"js\"][\"COMMENT-ARE_YOU_SURE\"]"
 msgid "Are you sure?"
 msgstr "你确定？"
+
+msgctxt "[\"js\"][\"COMMENT-VOTE\"]"
+msgid "Vote"
+msgstr "投票"
 
 msgctxt "[\"meta\"][\"Index\"][\"title\"]"
 msgid "Download APK free online downloader | APKPure.com"
@@ -1288,11 +1348,11 @@ msgstr "编辑推荐 | APKPure.com"
 
 msgctxt "[\"meta\"][\"Category_featured_editors-picks\"][\"keywords\"]"
 msgid "android apps, android games, must have android games, must have android apps, game download"
-msgstr "安卓游戏, 安卓应用"
+msgstr "android apps, android games, must have android games, must have android apps, game download"
 
 msgctxt "[\"meta\"][\"Category_featured_editors-picks\"][\"description\"]"
 msgid "Play with millions of free apps in APKPure style on Android phones, tablets, TV ,etc. Download the best must have android games you should play 2017."
-msgstr "游玩免费游戏，软件于APKPure，运行于手机，TV ,还有更多。下载最佳的2017可玩的游戏。"
+msgstr "Play with millions of free apps in APKPure style on Android phones, tablets, TV ,etc. Download the best must have android games you should play 2017."
 
 msgctxt "[\"meta\"][\"Category_app\"][\"title\"]"
 msgid "Download {0} APK Android App Online - Free Pure APK Downloader"

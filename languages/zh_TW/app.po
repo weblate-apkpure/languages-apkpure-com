@@ -1,19 +1,3 @@
-msgid ""
-msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-05-18 01:43+0000\n"
-"PO-Revision-Date: 2017-05-18 10:38+0000\n"
-"Last-Translator: bcusee <pwh365@163.com>\n"
-"Language-Team: Chinese (Traditional) "
-"<https://translate.apkpure.com/projects/apkpure/apkpurecom/zh_Hant/>\n"
-"Language: zh_TW\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 2.13.1\n"
-
 msgctxt "[\"NAV-GAME\"]"
 msgid "GAMES"
 msgstr "遊戲"
@@ -44,11 +28,11 @@ msgstr "最近更新應用"
 
 msgctxt "[\"NAV-XAPK_GAME\"]"
 msgid "XAPK GAME"
-msgstr "含數據包的遊戲"
+msgstr "XAPK 遊戲"
 
 msgctxt "[\"NAV-XAPK_APP\"]"
 msgid "XAPK APP"
-msgstr "含數據包的應用"
+msgstr "XAPK 應用"
 
 msgctxt "[\"NAV-APK_INSTALL\"]"
 msgid "APK Install"
@@ -56,15 +40,15 @@ msgstr "APK 安裝器"
 
 msgctxt "[\"NAV-APK_DOWNLOAD\"]"
 msgid "APK Download"
-msgstr "應用程式下載"
+msgstr "APK 下載器"
 
 msgctxt "[\"NAV-APK_VERIFICATION\"]"
 msgid "APK Verification"
-msgstr "應用程式簽名檢驗"
+msgstr "APK 簽名校驗器"
 
 msgctxt "[\"NAV-APKPURE_APP\"]"
 msgid "APKPure App"
-msgstr "純-原生應用商店客戶端"
+msgstr "APKPure 客戶端"
 
 msgctxt "[\"DOWNLOAD\"]"
 msgid "Download"
@@ -88,7 +72,7 @@ msgstr "遊戲"
 
 msgctxt "[\"APP\"]"
 msgid "APP"
-msgstr "應用程式"
+msgstr "應用"
 
 msgctxt "[\"GAMES\"]"
 msgid "Games"
@@ -96,7 +80,7 @@ msgstr "遊戲"
 
 msgctxt "[\"APPS\"]"
 msgid "Apps"
-msgstr "應用程式"
+msgstr "應用"
 
 msgctxt "[\"MORE\"]"
 msgid "More"
@@ -108,11 +92,11 @@ msgstr "XAPK"
 
 msgctxt "[\"XAPK-GAMES\"]"
 msgid "XAPK Games"
-msgstr "含數據包的遊戲"
+msgstr "XAPK遊戲"
 
 msgctxt "[\"XAPK-APPS\"]"
 msgid "XAPK Apps"
-msgstr "含數據包的應用"
+msgstr "XAPK應用"
 
 msgctxt "[\"HOME\"]"
 msgid "Home"
@@ -148,7 +132,7 @@ msgstr "{app_category}{app_type}"
 
 msgctxt "[\"SHOW_MORE\"]"
 msgid "Show More"
-msgstr "展開"
+msgstr "更多"
 
 msgctxt "[\"SHOW_LESS\"]"
 msgid "Show less"
@@ -156,19 +140,19 @@ msgstr "收起"
 
 msgctxt "[\"HAVE_PRODUCTS\"]"
 msgid "have {0} products"
-msgstr "找到 {0} 個產品"
+msgstr "找到 {0} 個"
 
 msgctxt "[\"DEVELOPER\"]"
 msgid "Developer"
-msgstr "開發者選項"
+msgstr "開發者"
 
 msgctxt "[\"POPULAR_GAMES_IN_LAST_HOURS\"]"
 msgid "Popular Games In Last {0} Hours"
-msgstr "{0} 小時內熱門遊戲"
+msgstr "{0} 小時熱門遊戲"
 
 msgctxt "[\"POPULAR_APPS_IN_LAST_HOURS\"]"
 msgid "Popular Apps In Last {0} Hours"
-msgstr "{0} 小時內熱門應用"
+msgstr "{0} 小時熱門應用"
 
 msgctxt "[\"POPULAR_APPS_IN_TODAY\"]"
 msgid "Popular Apps In Today"
@@ -196,11 +180,11 @@ msgstr "用戶評論"
 
 msgctxt "[\"LATEST_UPDATE_GAMES\"]"
 msgid "Latest Update Games"
-msgstr "最近更新的遊戲"
+msgstr "最近更新遊戲"
 
 msgctxt "[\"LATEST_UPDATE_APPS\"]"
 msgid "Latest Update Apps"
-msgstr "最近更新的應用"
+msgstr "最近更新應用"
 
 msgctxt "[\"LATEST_UPDATE\"]"
 msgid "Latest Update"
@@ -208,11 +192,11 @@ msgstr "最近更新"
 
 msgctxt "[\"XAPK_IS_APK_WITH_OBB_DATA\"]"
 msgid "XAPK is APK with OBB data"
-msgstr "XAPK是指含數據包的應用程式安裝包"
+msgstr "XAPK 包含數據包的 APK"
 
 msgctxt "[\"MOST_POPULAR_IN_TODAY\"]"
 msgid "Most Popular In Today"
-msgstr "今日熱門"
+msgstr "今日最受歡迎的"
 
 msgctxt "[\"SIMILAR_OR_RELATED\"]"
 msgid "Similar Or Related"
@@ -220,7 +204,7 @@ msgstr "猜你喜歡"
 
 msgctxt "[\"INDEX-TITLE\"]"
 msgid "Download free Android Games and Android Apps."
-msgstr "免費下載安卓遊戲及應用"
+msgstr "下載免費的安卓遊戲及應用"
 
 msgctxt "[\"INDEX-MOBILE_TITLE\"]"
 msgid "Download free Android Games and Apps."
@@ -240,7 +224,7 @@ msgstr "熱門分類"
 
 msgctxt "[\"DOWNLOAD_APK\"]"
 msgid "Download APK"
-msgstr "下載安裝包"
+msgstr "下載APK"
 
 msgctxt "[\"VERIFICATION_CODE\"]"
 msgid "Verification code"
@@ -252,7 +236,7 @@ msgstr "驗證碼不正確!"
 
 msgctxt "[\"VERIFICATION_DOWN\"]"
 msgid "Enter the code(s) as you see in the image, then click \"Download\"."
-msgstr "請您輸入圖片中的驗證碼後點擊下載"
+msgstr "請您輸入顯示的驗證碼後點擊下載"
 
 msgctxt "[\"TOPICS\"]"
 msgid "Topics"
@@ -292,7 +276,7 @@ msgstr "安全認證"
 
 msgctxt "[\"DETAIL-XAPK_SHORT_DES\"]"
 msgid "XAPK is APK with OBB data, Click to get XAPK Installer"
-msgstr "XAPK 是包含數據包的應用程式安裝包, 點擊下載XAPK安裝器"
+msgstr "XAPK 是包含 obb 數據及 APK 的可安裝文件格式, 點擊下載XAPK安裝器"
 
 msgctxt "[\"DETAIL-MOBILE_XAPK_SHORT_DES\"]"
 msgid "Click to get XAPK Installer"
@@ -336,11 +320,11 @@ msgstr "評級"
 
 msgctxt "[\"DETAIL-THE_DESCRIPTION\"]"
 msgid "The description of {0}"
-msgstr "{0}個描述"
+msgstr "{0}"
 
 msgctxt "[\"DETAIL-OFFICIAL_TRAILER\"]"
 msgid "{0} for Android official Trailer"
-msgstr "{0}個官方預告片"
+msgstr "Android 版預告片"
 
 msgctxt "[\"DETAIL-VERSION\"]"
 msgid "Version"
@@ -470,6 +454,10 @@ msgctxt "[\"COMMENT-REPORT\"]"
 msgid "Report"
 msgstr "舉報"
 
+msgctxt "[\"COMMENT-COLLAPSED\"]"
+msgid "comment collapsed"
+msgstr "已折疊"
+
 msgctxt "[\"COMMENT-POST\"]"
 msgid "Post"
 msgstr "提交"
@@ -491,36 +479,28 @@ msgid "Email"
 msgstr "電子郵件"
 
 msgctxt "[\"COMMENT-SORT_BY_NEWEST\"]"
-msgid "Sort by newest"
-msgstr "按最新排序"
-
-msgctxt "[\"COMMENT-SORT_BY_NEW\"]"
-msgid "Sort by newest"
-msgstr "按最新排序"
-
-msgctxt "[\"COMMENT-SORT_BY_OLDEST\"]"
-msgid "Sort by oldest"
-msgstr "按最早排序"
-
-msgctxt "[\"COMMENT-SORT_BY_BEST\"]"
-msgid "Sort by best"
-msgstr "按推薦排序"
-
-msgctxt "[\"COMMENT-SORT_BY_MOST_RECENT\"]"
-msgid "Sort by most recent"
-msgstr "按最近回复排序"
-
-msgctxt "[\"COMMENT-NEWEST\"]"
 msgid "Newest"
 msgstr "最新"
 
-msgctxt "[\"COMMENT-OLDEST\"]"
-msgid "Oldest"
-msgstr "最早"
+msgctxt "[\"COMMENT-SORT_BY_NEW\"]"
+msgid "Newest"
+msgstr "按最新排序"
 
-msgctxt "[\"COMMENT-BEST\"]"
+msgctxt "[\"COMMENT-SORT_BY_OLDEST\"]"
+msgid "Oldest"
+msgstr "按最早排序"
+
+msgctxt "[\"COMMENT-SORT_BY_BEST\"]"
 msgid "Best"
-msgstr "推薦"
+msgstr "按推薦排序"
+
+msgctxt "[\"COMMENT-SORT_BY_MOST_RECENT\"]"
+msgid "Most Recent"
+msgstr "最新回复"
+
+msgctxt "[\"COMMENT-SORT_BY_DEFAULT\"]"
+msgid "Sort by default"
+msgstr "按默認排序"
 
 msgctxt "[\"COMMENT-RATING_REQUIRED\"]"
 msgid "Rating required"
@@ -542,9 +522,9 @@ msgctxt "[\"COMMENT-COMMENTS_CANT_BE_BLANK\"]"
 msgid "Comments can't be blank."
 msgstr "評論不能為空。"
 
-msgctxt "[\"COMMENT-OR_POST_AS_GUEST\"]"
-msgid "Or post as guest"
-msgstr "或以遊客方式討論"
+msgctxt "[\"COMMENT-POST_AS_GUEST\"]"
+msgid "Post As a Guest"
+msgstr "以遊客身份"
 
 msgctxt "[\"COMMENT-LOGOUT\"]"
 msgid "Logout"
@@ -557,6 +537,10 @@ msgstr "網站"
 msgctxt "[\"COMMENT-TO_BE_FIRST\"]"
 msgid "Be the first to comment."
 msgstr "第一個來評論。"
+
+msgctxt "[\"COMMENT-VOTE\"]"
+msgid "Vote"
+msgstr "投票"
 
 msgctxt "[\"COMMENT-ERR_QUICK_LOGIN\"]"
 msgid "Quick login error, please try again."
@@ -598,6 +582,10 @@ msgctxt "[\"COMMENT-ERR_INVALID_PARAMETER\"]"
 msgid "Invalid comment parameter"
 msgstr "不正確的評論參數"
 
+msgctxt "[\"COMMENT-ERR_INVALID_VIDEO_URL\"]"
+msgid "Invalid Video URL"
+msgstr "無效的視頻鏈接"
+
 msgctxt "[\"COMMENT-DELETE\"]"
 msgid "Yes,delete it!"
 msgstr "刪除"
@@ -613,6 +601,10 @@ msgstr "刪除"
 msgctxt "[\"COMMENT-ARE_YOU_SURE\"]"
 msgid "Are you sure?"
 msgstr "你確定？"
+
+msgctxt "[\"COMMENT-LOADING\"]"
+msgid "Comment Loading..."
+msgstr "評論載入中..."
 
 msgctxt "[\"USER-ACCOUNT_EXIST\"]"
 msgid "The username is already in use."
@@ -653,6 +645,50 @@ msgstr "女"
 msgctxt "[\"USER-MALE\"]"
 msgid "Male"
 msgstr "男"
+
+msgctxt "[\"USER-USER_LOGIN\"]"
+msgid "User Login"
+msgstr "用戶登錄"
+
+msgctxt "[\"USER-USERNAME\"]"
+msgid "Username"
+msgstr "用戶名"
+
+msgctxt "[\"USER-PASSWORD\"]"
+msgid "Password"
+msgstr "密碼"
+
+msgctxt "[\"USER-NEW_USER_REGISTRATION\"]"
+msgid "New User Registration"
+msgstr "新用戶註冊"
+
+msgctxt "[\"USER-SIGN_IN_BTN\"]"
+msgid "SIGN IN"
+msgstr "登錄"
+
+msgctxt "[\"USER-SIGN_IN\"]"
+msgid "Sign In"
+msgstr "登錄"
+
+msgctxt "[\"USER-SIGN_IN_WITH\"]"
+msgid "Or sign in with"
+msgstr "或使用三方賬號登錄"
+
+msgctxt "[\"USER-SIGN_UP_BTN\"]"
+msgid "SIGN UP"
+msgstr "註冊"
+
+msgctxt "[\"USER-SIGN_UP\"]"
+msgid "Sign Up"
+msgstr "註冊"
+
+msgctxt "[\"USER-CONFIRM_PASSWORD\"]"
+msgid "Confirm Password"
+msgstr "確認密碼"
+
+msgctxt "[\"USER-TERMS_SERVICE\"]"
+msgid "By signing up you agree to our <a href='/terms-service.html' target='_blank'>terms of service</a>"
+msgstr "我已閱讀並接受饒<a href='/terms-service.html' target='_blank'>相關條款</a>"
 
 msgctxt "[\"REGION_DOWN-TITLE\"]"
 msgid "Region free APK download"
@@ -1210,6 +1246,26 @@ msgctxt "[\"js\"][\"CANCEL\"]"
 msgid "Cancel"
 msgstr "取消"
 
+msgctxt "[\"js\"][\"USER-PASSWORD_NOT_MATCH\"]"
+msgid "Passwords do not match"
+msgstr "密碼不匹配"
+
+msgctxt "[\"js\"][\"USER-PASSWORD_MUST\"]"
+msgid "Password must be 6-32 characters long"
+msgstr "密碼長度必須為6-32個字符"
+
+msgctxt "[\"js\"][\"USER-USERNAME_MUST\"]"
+msgid "Username must be 1-20 characters long and special characters are not allowed."
+msgstr "用戶名必須為1-20個字符，不允許使用特殊字符。"
+
+msgctxt "[\"js\"][\"USER-INCORRECT_ACCOUNT\"]"
+msgid "The username you entered is invalid."
+msgstr "您輸入的用戶名無效。"
+
+msgctxt "[\"js\"][\"USER-INCORRECT_PASSWORD\"]"
+msgid "The password you entered is invalid."
+msgstr "您輸入的密碼無效。"
+
 msgctxt "[\"js\"][\"COMMENT-DELETE\"]"
 msgid "Yes,delete it!"
 msgstr "刪除"
@@ -1221,6 +1277,10 @@ msgstr "已刪除！"
 msgctxt "[\"js\"][\"COMMENT-ARE_YOU_SURE\"]"
 msgid "Are you sure?"
 msgstr "你確定？"
+
+msgctxt "[\"js\"][\"COMMENT-VOTE\"]"
+msgid "Vote"
+msgstr "投票"
 
 msgctxt "[\"meta\"][\"Index\"][\"title\"]"
 msgid "Download APK free online downloader | APKPure.com"
@@ -1364,31 +1424,31 @@ msgstr "最新安卓{0}apk下載, {0}更新, 熱門安卓{0}下載, 安卓熱門
 
 msgctxt "[\"meta\"][\"New\"][\"description\"]"
 msgid "Daily update top free {0} apk download."
-msgstr "每日更新免費榜{0}apk下載"
+msgstr "安卓熱門{0}apk更新下載。每日更新，海量免費遊戲應用。"
 
 msgctxt "[\"meta\"][\"Verify\"][\"title\"]"
 msgid "APK Signature Verification, Official Version APK Detection Service"
-msgstr "APK簽名校驗，官方版本安裝包檢測服務"
+msgstr "APK簽名校驗，在線簽名校驗工具 - APKPure簽名校驗工具"
 
 msgctxt "[\"meta\"][\"Verify\"][\"keywords\"]"
 msgid "apk signature verification, apk signature verify, apk signature checker, apk signature viewer, modified apk, free, online, scanner"
-msgstr "apk簽名校驗, apk簽名驗證,  apk簽名校驗工具, apk簽名查看器, 已檢驗安裝包，免費，在線，掃碼"
+msgstr "apk簽名校驗, apk簽名, apk簽名驗證, apk簽名校驗工具, apk簽名查看器, apk修改查看"
 
 msgctxt "[\"meta\"][\"Verify\"][\"description\"]"
 msgid "APK Signature verification will verify Android app package signature to keep Android users away from potentially harmful APK files before APK installing."
-msgstr "APKPure簽名校驗器可驗證安卓應用安裝包簽名，以幫助用戶在安裝之前識別有潛在危害的安裝包。"
+msgstr "APKPure簽名校驗器可幫助用戶在線掃描可疑的APK安裝文件。"
 
 msgctxt "[\"meta\"][\"Download\"][\"title\"]"
 msgid "Region free APK download daily update apps and games"
-msgstr "不受區域限制下載並滿足日常更新應用和遊戲"
+msgstr "完美解決下載應用區域限制問題，支持跨區域應用下載更新 - APKPure APK下載器"
 
 msgctxt "[\"meta\"][\"Download\"][\"keywords\"]"
 msgid "apk download, region free apk download"
-msgstr "apk下載, 不受區域限制下載apk"
+msgstr "apk下載, apk更新, 應用下載器"
 
 msgctxt "[\"meta\"][\"Download\"][\"description\"]"
 msgid "download free apps APK for Android phone and tablet."
-msgstr "下載免費的手機或平板應用安裝包"
+msgstr "APKPure APK下載器，突破區域下載限制，支持安卓手機平板，在線下載正版遊戲應用。"
 
 msgctxt "[\"meta\"][\"Error\"][\"title\"]"
 msgid "Error"
@@ -1412,7 +1472,7 @@ msgstr "安卓應用分類,安卓遊戲分類"
 
 msgctxt "[\"meta\"][\"Category\"][\"description\"]"
 msgid "Android games and apps category"
-msgstr "安卓遊戲與應用分類"
+msgstr "下載最新版安卓遊戲，安卓應用APK海量應用免費下載升級。"
 
 msgctxt "[\"meta\"][\"Topics\"][\"title\"]"
 msgid "Topics | APKPure.com"
