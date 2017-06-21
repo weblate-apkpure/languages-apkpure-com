@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-03-22 06:53+0000\n"
-"PO-Revision-Date: 2017-06-15 03:59+0000\n"
-"Last-Translator: 刘燕 <liuyan0330@gmail.com>\n"
+"PO-Revision-Date: 2017-06-20 09:24+0000\n"
+"Last-Translator: zhangmumu <nianxi2011@163.com>\n"
 "Language-Team: Japanese "
 "<https://translate.apkpure.com/projects/apkpure/apkpurecom/ja/>\n"
 "Language: ja\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 2.14\n"
+"X-Generator: Weblate 2.14.1\n"
 
 msgctxt "[\"NAV-GAME\"]"
 msgid "GAME"
@@ -40,7 +40,7 @@ msgstr "最新ゲーム"
 
 msgctxt "[\"NAV-NEW_APP\"]"
 msgid "NEW APP"
-msgstr "新しいアプリ"
+msgstr "新作アプリ"
 
 msgctxt "[\"NAV-XAPK_GAME\"]"
 msgid "XAPK GAME"
@@ -1970,3 +1970,117 @@ msgstr ""
 msgctxt "[\"CANCEL\"]"
 msgid "Cancel"
 msgstr "キャンセル"
+
+msgctxt "[\"COMMENT-SORT_BY_NEW\"]"
+msgid "Newest"
+msgstr "最新"
+
+msgctxt "[\"COMMENT-SORT_BY_OLDEST\"]"
+msgid "Oldest"
+msgstr "古い"
+
+msgctxt "[\"COMMENT-SORT_BY_BEST\"]"
+msgid "Best"
+msgstr "人気"
+
+#, fuzzy
+msgctxt "[\"COMMENT-SORT_BY_MOST_RECENT\"]"
+msgid "Most Recent"
+msgstr "最近回復"
+
+msgctxt "[\"COMMENT-SORT_BY_DEFAULT\"]"
+msgid "Sort by default"
+msgstr "デフォルトの並び順"
+
+msgctxt "[\"COMMENT-POST_AS_GUEST\"]"
+msgid "Post As a Guest"
+msgstr "ゲストとして投稿"
+
+msgctxt "[\"COMMENT-VOTE\"]"
+msgid "Vote"
+msgstr "投票"
+
+msgctxt "[\"COMMENT-ERR_INVALID_VIDEO_URL\"]"
+msgid "Invalid Video URL"
+msgstr "無効なビデオURL"
+
+msgctxt "[\"COMMENT-LOADING\"]"
+msgid "Comment Loading..."
+msgstr "コメントをよみこんでいます..."
+
+msgctxt "[\"USER-USER_LOGIN\"]"
+msgid "User Login"
+msgstr "ユーザーログイン"
+
+msgctxt "[\"USER-USERNAME\"]"
+msgid "Username"
+msgstr "ユーザー名前"
+
+msgctxt "[\"USER-PASSWORD\"]"
+msgid "Password"
+msgstr "パスワード"
+
+msgctxt "[\"USER-NEW_USER_REGISTRATION\"]"
+msgid "New User Registration"
+msgstr "新規会員登録"
+
+msgctxt "[\"USER-SIGN_IN_BTN\"]"
+msgid "SIGN IN"
+msgstr "ログイン"
+
+msgctxt "[\"USER-SIGN_IN\"]"
+msgid "Sign In"
+msgstr "ログイン"
+
+msgctxt "[\"USER-TERMS_SERVICE\"]"
+msgid "By signing up you agree to our <a href='/terms-service.html' target='_blank'>terms of service</a>"
+msgstr ""
+"APKPure<a href='/terms-service.html' target='_blank'>利用規約</a>をお読みいただき、同意しています"
+
+msgctxt "[\"js\"][\"USER-PASSWORD_NOT_MATCH\"]"
+msgid "Passwords do not match"
+msgstr "パスワードが一致しません"
+
+msgctxt "[\"js\"][\"USER-PASSWORD_MUST\"]"
+msgid "Password must be 6-32 characters long"
+msgstr "パスワードは6文字以上32文字以内で設定してください"
+
+msgctxt "[\"js\"][\"USER-USERNAME_MUST\"]"
+msgid "Username must be 1-20 characters long and special characters are not allowed."
+msgstr "ユーザー名は１ー20文字以内で設定してください、特殊記号不可です。"
+
+msgctxt "[\"js\"][\"USER-INCORRECT_ACCOUNT\"]"
+msgid "The username you entered is invalid."
+msgstr "入力したユーザー名は無効です。"
+
+msgctxt "[\"js\"][\"COMMENT-VOTE\"]"
+msgid "Vote"
+msgstr "投票 する"
+
+msgctxt "[\"js\"][\"USER-INCORRECT_PASSWORD\"]"
+msgid "The password you entered is invalid."
+msgstr "入力したパスワードが無効です。"
+
+msgctxt "[\"USER-CONFIRM_PASSWORD\"]"
+msgid "Confirm Password"
+msgstr "パスワードをご確認ください"
+
+msgctxt "[\"USER-SIGN_UP\"]"
+msgid "Sign Up"
+msgstr "登録"
+
+msgctxt "[\"USER-SIGN_UP_BTN\"]"
+msgid "SIGN UP"
+msgstr "新規登録"
+
+msgctxt "[\"COMMENT-SORT_BY_NEWEST\"]"
+msgid "Newest"
+msgstr "最新"
+
+msgctxt "[\"COMMENT-COLLAPSED\"]"
+msgid "comment collapsed"
+msgstr "コメントが折りたたまれた"
+
+msgctxt "[\"USER-SIGN_IN_WITH\"]"
+msgid "Or sign in with"
+msgstr "他サイトのIDでログイン"
