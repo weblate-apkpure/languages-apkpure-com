@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-04-14 20:32+0000\n"
-"PO-Revision-Date: 2017-06-16 17:30+0000\n"
+"PO-Revision-Date: 2017-06-22 10:59+0000\n"
 "Last-Translator: Igor Ferrare <ferrare42@gmail.com>\n"
 "Language-Team: Portuguese (Brazil) "
 "<https://translate.apkpure.com/projects/apkpure/apkpurecom/pt_BR/>\n"
@@ -12,14 +12,11 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 2.14\n"
+"X-Generator: Weblate 2.14.1\n"
 
 msgctxt "[\"NAV-GAME\"]"
 msgid "GAMES"
-msgstr ""
-"JOGOS\n"
-"\t\n"
-"\t\t\t\t\t\t"
+msgstr "JOGOS"
 
 msgctxt "[\"NAV-APP\"]"
 msgid "APPS"
@@ -1489,3 +1486,121 @@ msgstr ""
 "Alternativa popular {app_type} para {app_name} para Android ,  Tablet "
 "Android  e muito mais. Download top {similar_count} {app_type} Gostar "
 "{app_name}, todos {app_type} Sugerido pelo APKPure."
+
+msgctxt "[\"COMMENT-COLLAPSED\"]"
+msgid "comment collapsed"
+msgstr "Comentário colapsado"
+
+msgctxt "[\"COMMENT-SORT_BY_NEWEST\"]"
+msgid "Newest"
+msgstr "O mais novo"
+
+msgctxt "[\"COMMENT-SORT_BY_NEW\"]"
+msgid "Newest"
+msgstr "O mais novo"
+
+msgctxt "[\"COMMENT-SORT_BY_OLDEST\"]"
+msgid "Oldest"
+msgstr "Mais antigo"
+
+msgctxt "[\"COMMENT-SORT_BY_BEST\"]"
+msgid "Best"
+msgstr "Melhor"
+
+msgctxt "[\"COMMENT-SORT_BY_MOST_RECENT\"]"
+msgid "Most Recent"
+msgstr "Mais recente"
+
+msgctxt "[\"COMMENT-SORT_BY_DEFAULT\"]"
+msgid "Sort by default"
+msgstr "Classificar por padrão"
+
+msgctxt "[\"COMMENT-POST_AS_GUEST\"]"
+msgid "Post As a Guest"
+msgstr "Poste como convidado"
+
+msgctxt "[\"COMMENT-VOTE\"]"
+msgid "Vote"
+msgstr "Voto"
+
+msgctxt "[\"COMMENT-ERR_INVALID_VIDEO_URL\"]"
+msgid "Invalid Video URL"
+msgstr "URL de vídeo inválido"
+
+msgctxt "[\"COMMENT-LOADING\"]"
+msgid "Comment Loading..."
+msgstr "Comentário Carregando..."
+
+msgctxt "[\"USER-USER_LOGIN\"]"
+msgid "User Login"
+msgstr "Login de usuário"
+
+msgctxt "[\"USER-USERNAME\"]"
+msgid "Username"
+msgstr "Nome de usuário"
+
+msgctxt "[\"USER-PASSWORD\"]"
+msgid "Password"
+msgstr "Senha"
+
+msgctxt "[\"USER-NEW_USER_REGISTRATION\"]"
+msgid "New User Registration"
+msgstr "Registrar novo usuário"
+
+msgctxt "[\"USER-SIGN_IN_BTN\"]"
+msgid "SIGN IN"
+msgstr "ASSINAR EM"
+
+msgctxt "[\"USER-SIGN_IN\"]"
+msgid "Sign In"
+msgstr "Assinar em"
+
+msgctxt "[\"USER-SIGN_IN_WITH\"]"
+msgid "Or sign in with"
+msgstr "Ou faça o login com"
+
+msgctxt "[\"USER-SIGN_UP_BTN\"]"
+msgid "SIGN UP"
+msgstr "INSCREVER-SE"
+
+msgctxt "[\"USER-SIGN_UP\"]"
+msgid "Sign Up"
+msgstr "Inscrever-se"
+
+msgctxt "[\"USER-CONFIRM_PASSWORD\"]"
+msgid "Confirm Password"
+msgstr "Confirmar Senha"
+
+msgctxt "[\"USER-TERMS_SERVICE\"]"
+msgid "By signing up you agree to our <a href='/terms-service.html' target='_blank'>terms of service</a>"
+msgstr ""
+"Ao se inscrever, você concorda com o <a href='/terms-service.html' "
+"target='_blank'>\n"
+"termos de serviço\n"
+"</a>"
+
+msgctxt "[\"js\"][\"USER-PASSWORD_NOT_MATCH\"]"
+msgid "Passwords do not match"
+msgstr "As senhas não combinam"
+
+msgctxt "[\"js\"][\"USER-PASSWORD_MUST\"]"
+msgid "Password must be 6-32 characters long"
+msgstr "A senha deve ter 6-32 caracteres de duração"
+
+msgctxt "[\"js\"][\"USER-USERNAME_MUST\"]"
+msgid "Username must be 1-20 characters long and special characters are not allowed."
+msgstr ""
+"O nome de usuário deve ter entre 1 e 20 caracteres e caracteres especiais "
+"não são permitidos."
+
+msgctxt "[\"js\"][\"USER-INCORRECT_ACCOUNT\"]"
+msgid "The username you entered is invalid."
+msgstr "O nome de usuário que você inseriu é inválido."
+
+msgctxt "[\"js\"][\"USER-INCORRECT_PASSWORD\"]"
+msgid "The password you entered is invalid."
+msgstr "A senha que você inseriu é inválida."
+
+msgctxt "[\"js\"][\"COMMENT-VOTE\"]"
+msgid "Vote"
+msgstr "Voto"
