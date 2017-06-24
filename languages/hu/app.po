@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-03-22 06:52+0000\n"
-"PO-Revision-Date: 2017-06-17 11:45+0000\n"
+"PO-Revision-Date: 2017-06-24 14:51+0000\n"
 "Last-Translator: Zoltán Magyar <zityisoft@gmail.com>\n"
 "Language-Team: Hungarian "
 "<https://translate.apkpure.com/projects/apkpure/apkpurecom/hu/>\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 2.14\n"
+"X-Generator: Weblate 2.14.1\n"
 
 msgctxt "[\"NAV-GAME\"]"
 msgid "GAME"
@@ -1406,10 +1406,7 @@ msgstr ""
 
 msgctxt "[\"NAV-GAME\"]"
 msgid "GAMES"
-msgstr ""
-"JÁTÉKOK\n"
-"\t\n"
-"\t\t\t\t\t\t"
+msgstr "JÁTÉKOK"
 
 msgctxt "[\"NAV-APP\"]"
 msgid "APPS"
@@ -2050,3 +2047,119 @@ msgstr ""
 msgctxt "[\"USER-BAD_NAME\"]"
 msgid "Your input includes sensitive vocabulary."
 msgstr "A bevitt adatok érzékeny szójegyzéket tartalmaznak."
+
+msgctxt "[\"COMMENT-COLLAPSED\"]"
+msgid "comment collapsed"
+msgstr "megjegyzés összevonva"
+
+msgctxt "[\"COMMENT-SORT_BY_NEWEST\"]"
+msgid "Newest"
+msgstr "Legújabb"
+
+msgctxt "[\"COMMENT-SORT_BY_NEW\"]"
+msgid "Newest"
+msgstr "Legújabb"
+
+msgctxt "[\"COMMENT-SORT_BY_OLDEST\"]"
+msgid "Oldest"
+msgstr "Legrégebbi"
+
+msgctxt "[\"COMMENT-SORT_BY_BEST\"]"
+msgid "Best"
+msgstr "Legjobb"
+
+msgctxt "[\"COMMENT-SORT_BY_MOST_RECENT\"]"
+msgid "Most Recent"
+msgstr "Legutóbbi"
+
+msgctxt "[\"COMMENT-SORT_BY_DEFAULT\"]"
+msgid "Sort by default"
+msgstr "Rendezés alapértelmezés szerint"
+
+msgctxt "[\"COMMENT-POST_AS_GUEST\"]"
+msgid "Post As a Guest"
+msgstr "Küldés vendégként"
+
+msgctxt "[\"COMMENT-VOTE\"]"
+msgid "Vote"
+msgstr "Szavazás"
+
+msgctxt "[\"COMMENT-ERR_INVALID_VIDEO_URL\"]"
+msgid "Invalid Video URL"
+msgstr "Érvénytelen videó URL"
+
+msgctxt "[\"COMMENT-LOADING\"]"
+msgid "Comment Loading..."
+msgstr "Megjegyzés betöltése..."
+
+msgctxt "[\"USER-USER_LOGIN\"]"
+msgid "User Login"
+msgstr "Felhasználó bejelentkezése"
+
+msgctxt "[\"USER-USERNAME\"]"
+msgid "Username"
+msgstr "Felhasználónév"
+
+msgctxt "[\"USER-PASSWORD\"]"
+msgid "Password"
+msgstr "Jelszó"
+
+msgctxt "[\"USER-NEW_USER_REGISTRATION\"]"
+msgid "New User Registration"
+msgstr "Új felhasználó regisztrálása"
+
+msgctxt "[\"USER-SIGN_IN_BTN\"]"
+msgid "SIGN IN"
+msgstr "BEJELENTKEZÉS"
+
+msgctxt "[\"USER-SIGN_IN\"]"
+msgid "Sign In"
+msgstr "Bejelentkezés"
+
+msgctxt "[\"USER-SIGN_IN_WITH\"]"
+msgid "Or sign in with"
+msgstr "Vagy jelentkezzen be a következővel:"
+
+msgctxt "[\"USER-SIGN_UP_BTN\"]"
+msgid "SIGN UP"
+msgstr "REGISZTRÁCIÓ"
+
+msgctxt "[\"USER-SIGN_UP\"]"
+msgid "Sign Up"
+msgstr "Regisztráció"
+
+msgctxt "[\"USER-CONFIRM_PASSWORD\"]"
+msgid "Confirm Password"
+msgstr "Jelszó megerősítése"
+
+msgctxt "[\"USER-TERMS_SERVICE\"]"
+msgid "By signing up you agree to our <a href='/terms-service.html' target='_blank'>terms of service</a>"
+msgstr ""
+"A regisztrációval elfogadja <a href='/terms-service.html' target='_blank'>"
+"szolgáltatási feltételeinket</a>"
+
+msgctxt "[\"js\"][\"USER-PASSWORD_NOT_MATCH\"]"
+msgid "Passwords do not match"
+msgstr "A jelszavak nem egyeznek"
+
+msgctxt "[\"js\"][\"USER-PASSWORD_MUST\"]"
+msgid "Password must be 6-32 characters long"
+msgstr "A jelszónak 6-32 karakter hosszúnak kell lennie"
+
+msgctxt "[\"js\"][\"USER-USERNAME_MUST\"]"
+msgid "Username must be 1-20 characters long and special characters are not allowed."
+msgstr ""
+"A felhasználónévnek 1-20 karakter hosszúnak kell lennie, és a speciális "
+"karakterek nem megengedettek."
+
+msgctxt "[\"js\"][\"USER-INCORRECT_ACCOUNT\"]"
+msgid "The username you entered is invalid."
+msgstr "A megadott felhasználónév érvénytelen."
+
+msgctxt "[\"js\"][\"USER-INCORRECT_PASSWORD\"]"
+msgid "The password you entered is invalid."
+msgstr "A megadott jelszó érvénytelen."
+
+msgctxt "[\"js\"][\"COMMENT-VOTE\"]"
+msgid "Vote"
+msgstr "Szavazás"
