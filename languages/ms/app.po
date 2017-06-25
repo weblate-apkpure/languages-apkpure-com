@@ -4,7 +4,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-10-29 17:26+0000\n"
 "PO-Revision-Date: 2017-06-25 15:56+0000\n"
-"Last-Translator: Muhd Amirul <amirulfcso@gmail.com>\n"
+"Last-Translator: anonymous <>\n"
 "Language-Team: Malay "
 "<https://translate.apkpure.com/projects/apkpure/apkpurecom/ms/>\n"
 "Language: ms\n"
@@ -41,10 +41,9 @@ msgctxt "[\"NAV-NEW_GAME\"]"
 msgid "NEW GAME"
 msgstr "PERMAINAN BARU"
 
-#, fuzzy
 msgctxt "[\"NAV-NEW_APP\"]"
 msgid "NEW APP"
-msgstr "NEW APP"
+msgstr "APLIKASI BAHARU"
 
 #, fuzzy
 msgctxt "[\"NAV-XAPK_GAME\"]"
