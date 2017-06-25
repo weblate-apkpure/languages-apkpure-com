@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-10-29 17:26+0000\n"
-"PO-Revision-Date: 2017-06-25 15:56+0000\n"
-"Last-Translator: anonymous <>\n"
+"PO-Revision-Date: 2017-06-25 16:19+0000\n"
+"Last-Translator: Muhd Amirul <amirulfcso@gmail.com>\n"
 "Language-Team: Malay "
 "<https://translate.apkpure.com/projects/apkpure/apkpurecom/ms/>\n"
 "Language: ms\n"
@@ -14,12 +14,10 @@ msgstr ""
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Generator: Weblate 2.14.1\n"
 
-#, fuzzy
 msgctxt "[\"NAV-GAME\"]"
 msgid "GAMES"
 msgstr "Permainan"
 
-#, fuzzy
 msgctxt "[\"NAV-APP\"]"
 msgid "APPS"
 msgstr "APLIKASI"
@@ -28,64 +26,54 @@ msgctxt "[\"NAV-XAPK\"]"
 msgid "XAPK"
 msgstr "XAPK"
 
-#, fuzzy
 msgctxt "[\"NAV-NEW\"]"
 msgid "NEW"
-msgstr "BARU"
+msgstr "Baharu"
 
 msgctxt "[\"NAV-PRODUCTS\"]"
 msgid "PRODUCTS"
-msgstr "PRODUK"
+msgstr "Produk"
 
 msgctxt "[\"NAV-NEW_GAME\"]"
 msgid "NEW GAME"
-msgstr "PERMAINAN BARU"
+msgstr "Permainan Baharu"
 
 msgctxt "[\"NAV-NEW_APP\"]"
 msgid "NEW APP"
-msgstr "APLIKASI BAHARU"
+msgstr "Aplikasi Baharu"
 
-#, fuzzy
 msgctxt "[\"NAV-XAPK_GAME\"]"
 msgid "XAPK GAME"
-msgstr "XAPK GAME"
+msgstr "Permainan XAPK"
 
-#, fuzzy
 msgctxt "[\"NAV-XAPK_APP\"]"
 msgid "XAPK APP"
 msgstr "APLIKASI XAPK"
 
-#, fuzzy
 msgctxt "[\"NAV-APK_INSTALL\"]"
 msgid "APK Install"
 msgstr "Pasang APK"
 
-#, fuzzy
 msgctxt "[\"NAV-APK_DOWNLOAD\"]"
 msgid "APK Download"
-msgstr "MUAT TURUN APK"
+msgstr "MUAT TURUN APLIKASI"
 
-#, fuzzy
 msgctxt "[\"NAV-APK_VERIFICATION\"]"
 msgid "APK Verification"
-msgstr "VERIFIKASI APK"
+msgstr "PENGESAHAN APK"
 
-#, fuzzy
 msgctxt "[\"NAV-APKPURE_APP\"]"
 msgid "APKPure App"
 msgstr "APLIKASI APKPure"
 
-#, fuzzy
 msgctxt "[\"DOWNLOAD\"]"
 msgid "Download"
 msgstr "MUAT TURUN"
 
-#, fuzzy
 msgctxt "[\"SELECT_LANGUAGE\"]"
 msgid "Select Language"
 msgstr "PILIH BAHASA"
 
-#, fuzzy
 msgctxt "[\"FREE\"]"
 msgid "Free"
 msgstr "PERCUMA"
@@ -118,17 +106,14 @@ msgctxt "[\"XAPK\"]"
 msgid "XAPK"
 msgstr "XAPK"
 
-#, fuzzy
 msgctxt "[\"XAPK-GAMES\"]"
 msgid "XAPK Games"
 msgstr "PERMAINAN XAPK"
 
-#, fuzzy
 msgctxt "[\"XAPK-APPS\"]"
 msgid "XAPK Apps"
 msgstr "APLIKASI XAPK"
 
-#, fuzzy
 msgctxt "[\"HOME\"]"
 msgid "Home"
 msgstr "LAMAN UTAMA"
@@ -151,7 +136,7 @@ msgstr "TERBARU"
 
 msgctxt "[\"RATING\"]"
 msgid "Rating"
-msgstr ""
+msgstr "PENARAFAN"
 
 msgctxt "[\"CATEGORY\"]"
 msgid "Category"
@@ -159,7 +144,7 @@ msgstr "KATEGORI"
 
 msgctxt "[\"CATEGORY_JOIN\"]"
 msgid "{app_category} {app_type}"
-msgstr ""
+msgstr "{katogeri_aplikasi} {jenis_aplikasi}"
 
 msgctxt "[\"SHOW_MORE\"]"
 msgid "Show More"
@@ -171,99 +156,99 @@ msgstr "TUNJUKKAN KURANG"
 
 msgctxt "[\"HAVE_PRODUCTS\"]"
 msgid "have {0} products"
-msgstr ""
+msgstr "mempunyai {0} produk"
 
 msgctxt "[\"DEVELOPER\"]"
 msgid "Developer"
-msgstr ""
+msgstr "Pemaju"
 
 msgctxt "[\"POPULAR_GAMES_IN_LAST_HOURS\"]"
 msgid "Popular Games In Last {0} Hours"
-msgstr ""
+msgstr "Permainan Popular Dalam Masa Terakhir {0} Jam"
 
 msgctxt "[\"POPULAR_APPS_IN_LAST_HOURS\"]"
 msgid "Popular Apps In Last {0} Hours"
-msgstr ""
+msgstr "Aplikasi Popular Dalam Masa Terakhir {0} Jam"
 
 msgctxt "[\"POPULAR_APPS_IN_TODAY\"]"
 msgid "Popular Apps In Today"
-msgstr ""
+msgstr "Aplikasi Popular Hari Ini"
 
 msgctxt "[\"POPULAR_GAMES_IN_TODAY\"]"
 msgid "Popular Games In Today"
-msgstr ""
+msgstr "Permainan Popular Hari Ini"
 
 msgctxt "[\"HOT_GAMES\"]"
 msgid "Hot Games"
-msgstr ""
+msgstr "Permainan Panas"
 
 msgctxt "[\"HOT_APPS\"]"
 msgid "Hot Apps"
-msgstr ""
+msgstr "Aplikasi Terhangat"
 
 msgctxt "[\"CLOSE\"]"
 msgid "Close"
-msgstr ""
+msgstr "Tutup"
 
 msgctxt "[\"COMMENTS\"]"
 msgid "Comments"
-msgstr ""
+msgstr "Komen"
 
 msgctxt "[\"LATEST_UPDATE_GAMES\"]"
 msgid "Latest Update Games"
-msgstr ""
+msgstr "Kemaskini Terakhir Permainan"
 
 msgctxt "[\"LATEST_UPDATE_APPS\"]"
 msgid "Latest Update Apps"
-msgstr ""
+msgstr "Kemaskini Terbaru Aplikasi"
 
 msgctxt "[\"LATEST_UPDATE\"]"
 msgid "Latest Update"
-msgstr ""
+msgstr "Kemaskini Terbaru"
 
 msgctxt "[\"XAPK_IS_APK_WITH_OBB_DATA\"]"
 msgid "XAPK is APK with OBB data"
-msgstr ""
+msgstr "XAPK adalah APK dengan data OBB"
 
 msgctxt "[\"MOST_POPULAR_IN_TODAY\"]"
 msgid "Most Popular In Today"
-msgstr ""
+msgstr "Paling Popular Hari Ini"
 
 msgctxt "[\"SIMILAR_OR_RELATED\"]"
 msgid "Similar Or Related"
-msgstr ""
+msgstr "Serupa atau Berkaitan"
 
 msgctxt "[\"INDEX-TITLE\"]"
 msgid "Download free Android Games and Android Apps."
-msgstr ""
+msgstr "Muat turun percuma Aplikasi dan Permainan Android."
 
 msgctxt "[\"INDEX-MOBILE_TITLE\"]"
 msgid "Download free Android Games and Apps."
-msgstr ""
+msgstr "Muat turun Permainan dan Aplikasi Android percuma."
 
 msgctxt "[\"INDEX-HOW_TO_DOWNLOAD\"]"
 msgid "How to download apk files?"
-msgstr ""
+msgstr "Bagaimana untuk memuat turun fail apk?"
 
 msgctxt "[\"INDEX-FAQ\"]"
 msgid "FAQ"
-msgstr ""
+msgstr "FAQ"
 
 msgctxt "[\"INDEX-POPULAR_CATEGORIES\"]"
 msgid "Popular categories"
-msgstr ""
+msgstr "Kategori popular"
 
 msgctxt "[\"DOWNLOAD_APK\"]"
 msgid "Download APK"
-msgstr ""
+msgstr "Muat turun APK"
 
 msgctxt "[\"DETAIL-PAID_GAME\"]"
 msgid "Paid Game"
-msgstr ""
+msgstr "Permainan Berbayar"
 
 msgctxt "[\"DETAIL-PAID_APP\"]"
 msgid "Paid App"
-msgstr ""
+msgstr "Aplikasi Berbayar"
 
 msgctxt "[\"DETAIL-PAID_GAME_DES\"]"
 msgid "Paid games are not available to download"
@@ -1604,3 +1589,27 @@ msgstr ""
 msgctxt "[\"category\"][\"APP_WIDGETS\"]"
 msgid "Widgets"
 msgstr ""
+
+msgctxt "[\"VERIFICATION_CODE\"]"
+msgid "Verification code"
+msgstr "Kod pengesahan"
+
+msgctxt "[\"VERIFICATION_INCORRECT\"]"
+msgid "The verification code is incorrect!"
+msgstr "Kod pengesahan tidak betul!"
+
+msgctxt "[\"VERIFICATION_DOWN\"]"
+msgid "Enter the code(s) as you see in the image, then click \"Download\"."
+msgstr "Masukkan kod yang anda lihat dalam imej, kemudian klik \"Muat turun\"."
+
+msgctxt "[\"TOPICS\"]"
+msgid "Topics"
+msgstr "Topik"
+
+msgctxt "[\"SIMILAR_TO\"]"
+msgid "Similar to {0}"
+msgstr "Sama seperti {0}"
+
+msgctxt "[\"CANCEL\"]"
+msgid "Cancel"
+msgstr "Batalkan"
