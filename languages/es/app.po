@@ -1,10 +1,26 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-07-07 06:46+0000\n"
+"PO-Revision-Date: 2017-07-07 07:09+0000\n"
+"Last-Translator: Ennui <Summon360@hotmail.es>\n"
+"Language-Team: Spanish "
+"<https://translate.apkpure.com/projects/apkpure/apkpurecom/es/>\n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 2.14.1\n"
+
 msgctxt "[\"NAV-GAME\"]"
 msgid "GAMES"
-msgstr "Juegos"
+msgstr "JUEGOS"
 
 msgctxt "[\"NAV-APP\"]"
 msgid "APPS"
-msgstr "Aplicaciones"
+msgstr "APLICACIONES"
 
 msgctxt "[\"NAV-XAPK\"]"
 msgid "XAPK"
@@ -12,16 +28,18 @@ msgstr "XAPK"
 
 msgctxt "[\"NAV-NEW\"]"
 msgid "NEW"
-msgstr "Nuevo"
+msgstr "NUEVO"
 
 msgctxt "[\"NAV-PRODUCTS\"]"
 msgid "PRODUCTS"
-msgstr "Productos"
+msgstr "PRODUCTOS"
 
+#, fuzzy
 msgctxt "[\"NAV-NEW_GAME\"]"
 msgid "NEW GAME"
 msgstr "Juegos nuevos"
 
+#, fuzzy
 msgctxt "[\"NAV-NEW_APP\"]"
 msgid "NEW APP"
 msgstr "Aplicaciones nuevas"
@@ -1433,3 +1451,118 @@ msgstr "{app_name} alternative, {app_name} similar {app_type}, {app_category} {a
 msgctxt "[\"meta\"][\"Similar\"][\"description\"]"
 msgid "Popular alternative {app_type} to {app_name} for Android, Android tablet and more. Download top {similar_count} {app_type} like {app_name}, all {app_type} suggested by APKPure."
 msgstr "Popular alternative {app_type} to {app_name} for Android, Android tablet and more. Download top {similar_count} {app_type} like {app_name}, all {app_type} suggested by APKPure."
+
+msgctxt "[\"COMMENT-SORT_BY_NEWEST\"]"
+msgid "Newest"
+msgstr "Más nuevo"
+
+msgctxt "[\"COMMENT-SORT_BY_NEW\"]"
+msgid "Newest"
+msgstr "Más nuevo"
+
+msgctxt "[\"COMMENT-SORT_BY_OLDEST\"]"
+msgid "Oldest"
+msgstr "Más antiguo"
+
+msgctxt "[\"COMMENT-SORT_BY_BEST\"]"
+msgid "Best"
+msgstr "Mejor"
+
+msgctxt "[\"COMMENT-SORT_BY_MOST_RECENT\"]"
+msgid "Most Recent"
+msgstr "Más reciente"
+
+#, fuzzy
+msgctxt "[\"COMMENT-SORT_BY_DEFAULT\"]"
+msgid "Sort by default"
+msgstr "Ordenar por defecto"
+
+msgctxt "[\"COMMENT-POST_AS_GUEST\"]"
+msgid "Post As a Guest"
+msgstr "Publicar como invitado"
+
+msgctxt "[\"COMMENT-VOTE\"]"
+msgid "Vote"
+msgstr "Votar"
+
+msgctxt "[\"COMMENT-ERR_INVALID_VIDEO_URL\"]"
+msgid "Invalid Video URL"
+msgstr "URL de video inválida"
+
+msgctxt "[\"COMMENT-LOADING\"]"
+msgid "Comment Loading..."
+msgstr "Cargando comentario..."
+
+#, fuzzy
+msgctxt "[\"USER-USER_LOGIN\"]"
+msgid "User Login"
+msgstr "Inicio de sesión"
+
+msgctxt "[\"USER-USERNAME\"]"
+msgid "Username"
+msgstr "Nombre de usuario"
+
+msgctxt "[\"USER-PASSWORD\"]"
+msgid "Password"
+msgstr "Contraseña"
+
+#, fuzzy
+msgctxt "[\"USER-NEW_USER_REGISTRATION\"]"
+msgid "New User Registration"
+msgstr "Registrar nuevo usuario"
+
+msgctxt "[\"USER-SIGN_IN_BTN\"]"
+msgid "SIGN IN"
+msgstr "REGISTRARSE"
+
+msgctxt "[\"USER-SIGN_IN\"]"
+msgid "Sign In"
+msgstr "Registrarse"
+
+msgctxt "[\"USER-SIGN_IN_WITH\"]"
+msgid "Or sign in with"
+msgstr "O registrarse con"
+
+msgctxt "[\"USER-SIGN_UP_BTN\"]"
+msgid "SIGN UP"
+msgstr "REGISTRARSE"
+
+msgctxt "[\"USER-SIGN_UP\"]"
+msgid "Sign Up"
+msgstr "Registrarse"
+
+msgctxt "[\"USER-CONFIRM_PASSWORD\"]"
+msgid "Confirm Password"
+msgstr "Confirmar contraseña"
+
+msgctxt "[\"USER-TERMS_SERVICE\"]"
+msgid "By signing up you agree to our <a href='/terms-service.html' target='_blank'>terms of service</a>"
+msgstr ""
+"Al registrarse está de acuerdo con nuestros <a href='/terms-service.html' "
+"target='_blank'>términos de servicio</a>"
+
+msgctxt "[\"js\"][\"USER-PASSWORD_NOT_MATCH\"]"
+msgid "Passwords do not match"
+msgstr "Las contraseñas no coinciden"
+
+msgctxt "[\"js\"][\"USER-PASSWORD_MUST\"]"
+msgid "Password must be 6-32 characters long"
+msgstr "La contraseña debe tener 6-32 caracteres de largo"
+
+msgctxt "[\"js\"][\"USER-USERNAME_MUST\"]"
+msgid "Username must be 1-20 characters long and special characters are not allowed."
+msgstr ""
+"El nombre de usuario debe tener 1-20 caracteres de largo y los caracteres "
+"especiales no están permitidos."
+
+msgctxt "[\"js\"][\"USER-INCORRECT_ACCOUNT\"]"
+msgid "The username you entered is invalid."
+msgstr "El nombre de usuario que has introducido no es válido."
+
+msgctxt "[\"js\"][\"USER-INCORRECT_PASSWORD\"]"
+msgid "The password you entered is invalid."
+msgstr "La contraseña que has introducido no es válida."
+
+msgctxt "[\"js\"][\"COMMENT-VOTE\"]"
+msgid "Vote"
+msgstr "Votar"
