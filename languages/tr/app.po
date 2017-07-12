@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-03-22 06:56+0000\n"
-"PO-Revision-Date: 2017-07-10 17:54+0000\n"
-"Last-Translator: Onur Yaşar <arbedeci@gmail.com>\n"
+"PO-Revision-Date: 2017-07-12 08:43+0000\n"
+"Last-Translator: Isabella Heath <isabellaheath9@gmail.com>\n"
 "Language-Team: Turkish "
 "<https://translate.apkpure.com/projects/apkpure/apkpurecom/tr/>\n"
 "Language: tr\n"
@@ -226,6 +226,7 @@ msgctxt "[\"INDEX-MOBILE_TITLE\"]"
 msgid "Download free Android Games and Apps."
 msgstr "Android Oyunlar ve Uygulamaları ücretsiz indirin."
 
+#, fuzzy
 msgctxt "[\"INDEX-HOW_TO_DOWNLOAD\"]"
 msgid "How to download apk files?"
 msgstr "Apk dosyalarını nasıl indiririm?"
@@ -308,7 +309,7 @@ msgstr "{0} Android için resmi Fragmanı"
 
 msgctxt "[\"DETAIL-VERSION\"]"
 msgid "Version"
-msgstr "Sürüm"
+msgstr "Versiyon"
 
 msgctxt "[\"DETAIL-UPDATE_ON\"]"
 msgid "Update on"
@@ -320,7 +321,7 @@ msgstr "İmza"
 
 msgctxt "[\"DETAIL-FILE_SHA1\"]"
 msgid "File SHA1"
-msgstr "SHA1 Değeri"
+msgstr "SHA1 Dosyası"
 
 msgctxt "[\"DETAIL-WHATS_NEW\"]"
 msgid "What's new"
@@ -393,7 +394,7 @@ msgstr ""
 
 msgctxt "[\"REGION_DOWN-SEARCH\"]"
 msgid "Search"
-msgstr "Ara"
+msgstr "Arama"
 
 msgctxt "[\"REGION_DOWN-COUNTRY_NAME\"]"
 msgid "Country name or Region code"
@@ -437,7 +438,7 @@ msgstr "İmza"
 
 msgctxt "[\"SIGN_VERIFY-FILE_SHA1\"]"
 msgid "File SHA1"
-msgstr "SHA1 Değeri"
+msgstr "SHA1 Dosyası"
 
 msgctxt "[\"SIGN_VERIFY-FILE_SIZE\"]"
 msgid "File Size"
@@ -1093,6 +1094,7 @@ msgctxt "[\"meta\"][\"Category_featured\"][\"description\"]"
 msgid "{0}"
 msgstr "{0}"
 
+#, fuzzy
 msgctxt "[\"meta\"][\"Category_app\"][\"title\"]"
 msgid "Download {0} APK Android App Online - Free Pure APK Downloader"
 msgstr "{0} APK Android App Online İndir - Ücretsiz Pure APK Downloader"
@@ -1103,12 +1105,14 @@ msgstr ""
 "{0} apk indir, ücretsiz {0} indir, {0} apk indir, {0} apk indir, {0} apk "
 "indirici, {0} android"
 
+#, fuzzy
 msgctxt "[\"meta\"][\"Category_app\"][\"description\"]"
 msgid "Download free and best {0}  for Android phone and tablet with online apk downloader on APKPure.com, including (tool apps, shopping apps, communication apps) and more."
 msgstr ""
 "Ücretsiz ve en iyi uygulamaları {0} Android telefonlarınıza ve "
 "tabletlerinize APKPure.com üzerinden indirin."
 
+#, fuzzy
 msgctxt "[\"meta\"][\"Category_game\"][\"title\"]"
 msgid "Download {0} APK Android App Online - Free Pure APK Downloader"
 msgstr "{0} APK Android App Online İndir - Ücretsiz Pure APK Downloader"
@@ -1119,6 +1123,7 @@ msgstr ""
 "{0} apk indir, ücretsiz {0} indir, {0} apk indir, {0} apk indirici, {0} "
 "android, {0} uygulaması indir"
 
+#, fuzzy
 msgctxt "[\"meta\"][\"Category_game\"][\"description\"]"
 msgid "Download free and best {0} for Android phone and tablet with online apk downloader on APKPure.com, including (driving games, shooting games, fighting games) and more."
 msgstr ""
@@ -1157,7 +1162,7 @@ msgstr "{0} arama sonucu | APKPure.com"
 
 msgctxt "[\"meta\"][\"Search\"][\"keywords\"]"
 msgid "{0} apk download, download {0} apk"
-msgstr "{0} apk indir"
+msgstr "{0} apk indir, indir {0} apk"
 
 msgctxt "[\"meta\"][\"Search\"][\"description\"]"
 msgid "{0}"
@@ -1425,7 +1430,7 @@ msgstr "APK SHA1 Dosyası"
 
 msgctxt "[\"DETAIL-XAPK_FILE_SHA1\"]"
 msgid "XAPK File SHA1"
-msgstr "XAPK SHA1 Değeri"
+msgstr "XAPK SHA1 Dosyası"
 
 msgctxt "[\"DETAIL-GP_DOWNLOAD\"]"
 msgid "Install on Google Play"
@@ -1762,7 +1767,7 @@ msgstr ""
 
 msgctxt "[\"FOOTER-APK_DOWNLOAD\"]"
 msgid "APK Downloader (Region free)"
-msgstr "APK Downloader (Bölge sınırlamasız)"
+msgstr "APK İndirici(Bölge sınırlamasız)"
 
 msgctxt "[\"meta\"][\"Index\"][\"description\"]"
 msgid "Download apk for Android with APKPure APK downloader. NoAds, Faster apk downloads and apk file update speed. Best of all, it's free"
@@ -1783,6 +1788,7 @@ msgctxt "[\"meta\"][\"Category_featured_editors-picks\"][\"title\"]"
 msgid "APKPure Editors' Picks for the best Android Games & Apps"
 msgstr "APKPure Editörleri en iyi Android Oyunlarını ve Uygulamalarını Seçiyor"
 
+#, fuzzy
 msgctxt "[\"meta\"][\"Category_featured_editors-picks\"][\"keywords\"]"
 msgid "android apps, android games, must have android games, must have android apps, game download"
 msgstr "android uygulamaları, android oyunları, oyun indir"
