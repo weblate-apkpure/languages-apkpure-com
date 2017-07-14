@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-03-22 06:56+0000\n"
-"PO-Revision-Date: 2017-06-26 20:34+0000\n"
-"Last-Translator: BLACKBERRY-ECD5 <gameovermylord@gmail.com>\n"
+"PO-Revision-Date: 2017-07-14 05:57+0000\n"
+"Last-Translator: Phan Thanh Huy <saovang1993.pth@gmail.com>\n"
 "Language-Team: Vietnamese "
 "<https://translate.apkpure.com/projects/apkpure/apkpurecom/vi/>\n"
 "Language: vi\n"
@@ -41,7 +41,7 @@ msgstr "TRÒ CHƠI MỚI"
 
 msgctxt "[\"NAV-NEW_APP\"]"
 msgid "NEW APP"
-msgstr "Ứng dụng mới\n"
+msgstr "ỨNG DỤNG MỚI"
 
 msgctxt "[\"NAV-XAPK_GAME\"]"
 msgid "XAPK GAME"
@@ -53,7 +53,7 @@ msgstr "ỨNG DỤNG X-APK"
 
 msgctxt "[\"NAV-APK_INSTALL\"]"
 msgid "APK Install"
-msgstr "Tải APK\n"
+msgstr "Lắp đặt APK"
 
 msgctxt "[\"NAV-APK_DOWNLOAD\"]"
 msgid "APK Download"
@@ -72,10 +72,9 @@ msgctxt "[\"DOWNLOAD\"]"
 msgid "Download"
 msgstr "Tải về"
 
-#, fuzzy
 msgctxt "[\"SELECT_LANGUAGE\"]"
 msgid "Select Language"
-msgstr "Select Language"
+msgstr "Chọn ngôn ngữ"
 
 #, fuzzy
 msgctxt "[\"FREE\"]"
@@ -130,7 +129,7 @@ msgstr "Sắp xếp theo"
 
 msgctxt "[\"HOT\"]"
 msgid "Hot"
-msgstr "Đang nóng"
+msgstr "Nóng"
 
 msgctxt "[\"DOWNLOADS\"]"
 msgid "Downloads"
