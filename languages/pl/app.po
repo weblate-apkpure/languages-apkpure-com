@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-09-06 12:51+0000\n"
-"PO-Revision-Date: 2017-07-21 12:53+0000\n"
-"Last-Translator: MrBartek Mistrzu <mrbartek4@gmail.com>\n"
+"PO-Revision-Date: 2017-07-23 08:29+0000\n"
+"Last-Translator: Mathuseek <rysiak22@gmail.com>\n"
 "Language-Team: Polish "
 "<https://translate.apkpure.com/projects/apkpure/apkpurecom/pl/>\n"
 "Language: pl\n"
@@ -1973,3 +1973,85 @@ msgid "{app_name} alternative, {app_name} similar {app_type}, {app_category} {ap
 msgstr ""
 "{app_name} alternatywa, {app_name} podobne {app_type}, {app_category} "
 "{app_type} podobne {app_name}"
+
+msgctxt "[\"COMMENT-SORT_BY_NEWEST\"]"
+msgid "Newest"
+msgstr "Najnowszy"
+
+msgctxt "[\"COMMENT-SORT_BY_NEW\"]"
+msgid "Newest"
+msgstr "Najnowszy"
+
+msgctxt "[\"COMMENT-SORT_BY_OLDEST\"]"
+msgid "Oldest"
+msgstr "Najstarsze"
+
+msgctxt "[\"COMMENT-SORT_BY_BEST\"]"
+msgid "Best"
+msgstr "Najpopularniejsze"
+
+msgctxt "[\"COMMENT-SORT_BY_DEFAULT\"]"
+msgid "Sort by default"
+msgstr "Sortuj domyślnie"
+
+msgctxt "[\"COMMENT-POST_AS_GUEST\"]"
+msgid "Post As a Guest"
+msgstr "Skomentuj jako gość"
+
+msgctxt "[\"COMMENT-VOTE\"]"
+msgid "Vote"
+msgstr "Zagłosuj"
+
+msgctxt "[\"COMMENT-ERR_INVALID_VIDEO_URL\"]"
+msgid "Invalid Video URL"
+msgstr "Nieprawidłowy adres URL wideo"
+
+msgctxt "[\"COMMENT-LOADING\"]"
+msgid "Comment Loading..."
+msgstr "Wczytywanie komentarzy..."
+
+msgctxt "[\"USER-USERNAME\"]"
+msgid "Username"
+msgstr "Nazwa użytkownika"
+
+msgctxt "[\"USER-PASSWORD\"]"
+msgid "Password"
+msgstr "Hasło"
+
+msgctxt "[\"USER-SIGN_IN_BTN\"]"
+msgid "SIGN IN"
+msgstr "ZALOGUJ SIĘ"
+
+msgctxt "[\"USER-SIGN_IN\"]"
+msgid "Sign In"
+msgstr "Zaloguj się"
+
+msgctxt "[\"USER-SIGN_IN_WITH\"]"
+msgid "Or sign in with"
+msgstr "Lub zaloguj się przez"
+
+msgctxt "[\"USER-SIGN_UP_BTN\"]"
+msgid "SIGN UP"
+msgstr "ZAREJESTRUJ SIĘ"
+
+msgctxt "[\"USER-SIGN_UP\"]"
+msgid "Sign Up"
+msgstr "Zarejestruj się"
+
+msgctxt "[\"USER-CONFIRM_PASSWORD\"]"
+msgid "Confirm Password"
+msgstr "Potwierdź hasło"
+
+msgctxt "[\"USER-TERMS_SERVICE\"]"
+msgid "By signing up you agree to our <a href='/terms-service.html' target='_blank'>terms of service</a>"
+msgstr ""
+"Poprzez rejestrację akceptujesz nasz <a href='/terms-service.html' "
+"target='_blank'>regulamin</a>"
+
+msgctxt "[\"js\"][\"USER-PASSWORD_NOT_MATCH\"]"
+msgid "Passwords do not match"
+msgstr "Hasła nie są takie same"
+
+msgctxt "[\"js\"][\"USER-PASSWORD_MUST\"]"
+msgid "Password must be 6-32 characters long"
+msgstr "Hasła muszą mieć od 6 do 32 znaków"
