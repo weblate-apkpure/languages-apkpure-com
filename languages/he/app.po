@@ -2,45 +2,43 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-12-15 16:38+0000\n"
-"PO-Revision-Date: 2017-06-23 13:00+0000\n"
-"Last-Translator: Saddam Sk <ssk42830@gmail.com>\n"
-"Language-Team: Dutch (Belgium) "
-"<https://translate.apkpure.com/projects/apkpure/apkpurecom/nl_BE/>\n"
-"Language: nl_BE\n"
+"POT-Creation-Date: 2017-07-12 14:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: he\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 2.14.1\n"
+"X-Generator: Translate Toolkit 2.1.0\n"
 
 msgctxt "[\"NAV-GAME\"]"
 msgid "GAMES"
-msgstr "Bangli"
+msgstr ""
 
 msgctxt "[\"NAV-APP\"]"
 msgid "APPS"
-msgstr "Apps"
+msgstr ""
 
 msgctxt "[\"NAV-XAPK\"]"
 msgid "XAPK"
-msgstr "XAPK"
+msgstr ""
 
 msgctxt "[\"NAV-NEW\"]"
 msgid "NEW"
-msgstr "Nieuw"
+msgstr ""
 
 msgctxt "[\"NAV-PRODUCTS\"]"
 msgid "PRODUCTS"
-msgstr "Producten"
+msgstr ""
 
 msgctxt "[\"NAV-NEW_GAME\"]"
 msgid "NEW GAME"
-msgstr "Nieuw spelletje"
+msgstr ""
 
 msgctxt "[\"NAV-NEW_APP\"]"
 msgid "NEW APP"
-msgstr "Nieuwe app"
+msgstr ""
 
 msgctxt "[\"NAV-XAPK_GAME\"]"
 msgid "XAPK GAME"
@@ -76,60 +74,55 @@ msgstr ""
 
 msgctxt "[\"FREE\"]"
 msgid "Free"
-msgstr "Gratis"
+msgstr ""
 
 msgctxt "[\"READ_MORE\"]"
 msgid "Read More"
-msgstr "Lees meer"
+msgstr ""
 
 msgctxt "[\"GAME\"]"
 msgid "GAME"
 msgstr ""
 
-#, fuzzy
 msgctxt "[\"APP\"]"
 msgid "APP"
-msgstr "APP"
+msgstr ""
 
 msgctxt "[\"GAMES\"]"
 msgid "Games"
 msgstr ""
 
-#, fuzzy
 msgctxt "[\"APPS\"]"
 msgid "Apps"
-msgstr "Apps"
+msgstr ""
 
 msgctxt "[\"MORE\"]"
 msgid "More"
-msgstr "Meer"
+msgstr ""
 
-#, fuzzy
 msgctxt "[\"XAPK\"]"
 msgid "XAPK"
-msgstr "XAPK"
+msgstr ""
 
 msgctxt "[\"XAPK-GAMES\"]"
 msgid "XAPK Games"
 msgstr ""
 
-#, fuzzy
 msgctxt "[\"XAPK-APPS\"]"
 msgid "XAPK Apps"
-msgstr "XAPK Apps"
+msgstr ""
 
 msgctxt "[\"HOME\"]"
 msgid "Home"
-msgstr "Thuis"
+msgstr ""
 
 msgctxt "[\"SORT_BY\"]"
 msgid "Sort by"
-msgstr "Sorteren op"
+msgstr ""
 
-#, fuzzy
 msgctxt "[\"HOT\"]"
 msgid "Hot"
-msgstr "Hot"
+msgstr ""
 
 msgctxt "[\"DOWNLOADS\"]"
 msgid "Downloads"
@@ -137,15 +130,15 @@ msgstr ""
 
 msgctxt "[\"NEWEST\"]"
 msgid "Newest"
-msgstr "Nieuwste"
+msgstr ""
 
 msgctxt "[\"RATING\"]"
 msgid "Rating"
-msgstr "Waardering"
+msgstr ""
 
 msgctxt "[\"CATEGORY\"]"
 msgid "Category"
-msgstr "Kategorie"
+msgstr ""
 
 msgctxt "[\"CATEGORY_JOIN\"]"
 msgid "{app_category} {app_type}"
@@ -153,11 +146,11 @@ msgstr ""
 
 msgctxt "[\"SHOW_MORE\"]"
 msgid "Show More"
-msgstr "Toon meer"
+msgstr ""
 
 msgctxt "[\"SHOW_LESS\"]"
 msgid "Show less"
-msgstr "Toon minder"
+msgstr ""
 
 msgctxt "[\"HAVE_PRODUCTS\"]"
 msgid "have {0} products"
@@ -261,6 +254,14 @@ msgstr ""
 
 msgctxt "[\"TOPICS\"]"
 msgid "Topics"
+msgstr ""
+
+msgctxt "[\"SIMILAR_TO\"]"
+msgid "Similar to {0}"
+msgstr ""
+
+msgctxt "[\"CANCEL\"]"
+msgid "Cancel"
 msgstr ""
 
 msgctxt "[\"DETAIL-PAID_GAME\"]"
@@ -391,6 +392,10 @@ msgctxt "[\"DETAIL-RATING\"]"
 msgid "{votes} votes, average: {rating_average} out of {rating_best}"
 msgstr ""
 
+msgctxt "[\"DETAIL-RATING1\"]"
+msgid "average: {rating_average} out of {rating_best}"
+msgstr ""
+
 msgctxt "[\"DETAIL-MORE_DEVELOPER\"]"
 msgid "Get more from {0}"
 msgstr ""
@@ -436,7 +441,7 @@ msgid "Download on Google Play"
 msgstr ""
 
 msgctxt "[\"DETAIL-DELETED_COPYRIGHT_GOOGLE_PLAY_DES\"]"
-msgid "{app_name} All rights reserved ©2016 {developer}. {developer} and the {developer} logo are trademarks of {developer} in the U.S. and/or other countries.All other trademarks are the property of their respective owners."
+msgid "{app_name} All rights reserved ©2017 {developer}. {developer} and the {developer} logo are trademarks of {developer} in the U.S. and/or other countries.All other trademarks are the property of their respective owners."
 msgstr ""
 
 msgctxt "[\"DETAIL_DOWNLOAD-NAV_DOWNLOAD\"]"
@@ -457,6 +462,246 @@ msgstr ""
 
 msgctxt "[\"DETAIL_DOWNLOAD-HOW_TO_INSTALL_APK\"]"
 msgid "How to install APK / XAPK file"
+msgstr ""
+
+msgctxt "[\"COMMENT-REPORT\"]"
+msgid "Report"
+msgstr ""
+
+msgctxt "[\"COMMENT-COLLAPSED\"]"
+msgid "comment collapsed"
+msgstr ""
+
+msgctxt "[\"COMMENT-POST\"]"
+msgid "Post"
+msgstr ""
+
+msgctxt "[\"COMMENT-COMMENTS\"]"
+msgid "Comments"
+msgstr ""
+
+msgctxt "[\"COMMENT-REPLY\"]"
+msgid "Reply"
+msgstr ""
+
+msgctxt "[\"COMMENT-NAME\"]"
+msgid "Name"
+msgstr ""
+
+msgctxt "[\"COMMENT-EMAIL\"]"
+msgid "Email"
+msgstr ""
+
+msgctxt "[\"COMMENT-SORT_BY_NEWEST\"]"
+msgid "Newest"
+msgstr ""
+
+msgctxt "[\"COMMENT-SORT_BY_NEW\"]"
+msgid "Newest"
+msgstr ""
+
+msgctxt "[\"COMMENT-SORT_BY_OLDEST\"]"
+msgid "Oldest"
+msgstr ""
+
+msgctxt "[\"COMMENT-SORT_BY_BEST\"]"
+msgid "Best"
+msgstr ""
+
+msgctxt "[\"COMMENT-SORT_BY_MOST_RECENT\"]"
+msgid "Most Recent"
+msgstr ""
+
+msgctxt "[\"COMMENT-SORT_BY_DEFAULT\"]"
+msgid "Sort by default"
+msgstr ""
+
+msgctxt "[\"COMMENT-RATING_REQUIRED\"]"
+msgid "Rating required"
+msgstr ""
+
+msgctxt "[\"COMMENT-GUEST\"]"
+msgid "Guest"
+msgstr ""
+
+msgctxt "[\"COMMENT-START_THE_DISCUSSION\"]"
+msgid "Start the discussion…"
+msgstr ""
+
+msgctxt "[\"COMMENT-LOG_IN_WITH\"]"
+msgid "Log in with"
+msgstr ""
+
+msgctxt "[\"COMMENT-COMMENTS_CANT_BE_BLANK\"]"
+msgid "Comments can't be blank."
+msgstr ""
+
+msgctxt "[\"COMMENT-POST_AS_GUEST\"]"
+msgid "Post As a Guest"
+msgstr ""
+
+msgctxt "[\"COMMENT-LOGOUT\"]"
+msgid "Logout"
+msgstr ""
+
+msgctxt "[\"COMMENT-WEBSITE\"]"
+msgid "Website"
+msgstr ""
+
+msgctxt "[\"COMMENT-TO_BE_FIRST\"]"
+msgid "Be the first to comment."
+msgstr ""
+
+msgctxt "[\"COMMENT-VOTE\"]"
+msgid "Vote"
+msgstr ""
+
+msgctxt "[\"COMMENT-ERR_QUICK_LOGIN\"]"
+msgid "Quick login error, please try again."
+msgstr ""
+
+msgctxt "[\"COMMENT-ERR_EMAIL_NAME\"]"
+msgid "Incorrect mail or name"
+msgstr ""
+
+msgctxt "[\"COMMENT-ERR_DISCUSSION\"]"
+msgid "Incorrect in discussion"
+msgstr ""
+
+msgctxt "[\"COMMENT-ERR_RATE\"]"
+msgid "Vote failed, repeated"
+msgstr ""
+
+msgctxt "[\"COMMENT-ERR_SENSITIVE_WORD\"]"
+msgid "Defeat,your post contains sensitive terms"
+msgstr ""
+
+msgctxt "[\"COMMENT-ERR_SENSITIVE_WORD_AUDIT\"]"
+msgid "Your post contains sensitive terms and is pending approval by an admin"
+msgstr ""
+
+msgctxt "[\"COMMENT-ERR_LINK_AUDIT\"]"
+msgid "Your post contains link and is pending approval by an admin"
+msgstr ""
+
+msgctxt "[\"COMMENT-ERR_FORBIDDEN\"]"
+msgid "Comment forbidden"
+msgstr ""
+
+msgctxt "[\"COMMENT-ERR_FAILURE\"]"
+msgid "Comment unknown"
+msgstr ""
+
+msgctxt "[\"COMMENT-ERR_INVALID_PARAMETER\"]"
+msgid "Invalid comment parameter"
+msgstr ""
+
+msgctxt "[\"COMMENT-ERR_INVALID_VIDEO_URL\"]"
+msgid "Invalid Video URL"
+msgstr ""
+
+msgctxt "[\"COMMENT-DELETE\"]"
+msgid "Yes,delete it!"
+msgstr ""
+
+msgctxt "[\"COMMENT-DELETED\"]"
+msgid "Deleted!"
+msgstr ""
+
+msgctxt "[\"COMMENT-DEL\"]"
+msgid "Delete"
+msgstr ""
+
+msgctxt "[\"COMMENT-ARE_YOU_SURE\"]"
+msgid "Are you sure?"
+msgstr ""
+
+msgctxt "[\"COMMENT-LOADING\"]"
+msgid "Comment Loading..."
+msgstr ""
+
+msgctxt "[\"USER-ACCOUNT_EXIST\"]"
+msgid "The username is already in use."
+msgstr ""
+
+msgctxt "[\"USER-ACCOUNT_NOT_EXIST\"]"
+msgid "The account you entered does not exist."
+msgstr ""
+
+msgctxt "[\"USER-DISPLAY_NAME_EXIST\"]"
+msgid "The nickname is already in use."
+msgstr ""
+
+msgctxt "[\"USER-INCORRECT_EMAIL\"]"
+msgid "The e-mail address you entered is invalid."
+msgstr ""
+
+msgctxt "[\"USER-INCORRECT_PASSWORD\"]"
+msgid "The password you entered is invalid."
+msgstr ""
+
+msgctxt "[\"USER-INCORRECT_ACCOUNT\"]"
+msgid "The username you entered is invalid."
+msgstr ""
+
+msgctxt "[\"USER-UNKNOWN_ERROR\"]"
+msgid "unknown mistake."
+msgstr ""
+
+msgctxt "[\"USER-BAD_NAME\"]"
+msgid "Your input includes sensitive vocabulary."
+msgstr ""
+
+msgctxt "[\"USER-FEMALE\"]"
+msgid "Female"
+msgstr ""
+
+msgctxt "[\"USER-MALE\"]"
+msgid "Male"
+msgstr ""
+
+msgctxt "[\"USER-USER_LOGIN\"]"
+msgid "User Login"
+msgstr ""
+
+msgctxt "[\"USER-USERNAME\"]"
+msgid "Username"
+msgstr ""
+
+msgctxt "[\"USER-PASSWORD\"]"
+msgid "Password"
+msgstr ""
+
+msgctxt "[\"USER-NEW_USER_REGISTRATION\"]"
+msgid "New User Registration"
+msgstr ""
+
+msgctxt "[\"USER-SIGN_IN_BTN\"]"
+msgid "SIGN IN"
+msgstr ""
+
+msgctxt "[\"USER-SIGN_IN\"]"
+msgid "Sign In"
+msgstr ""
+
+msgctxt "[\"USER-SIGN_IN_WITH\"]"
+msgid "Or sign in with"
+msgstr ""
+
+msgctxt "[\"USER-SIGN_UP_BTN\"]"
+msgid "SIGN UP"
+msgstr ""
+
+msgctxt "[\"USER-SIGN_UP\"]"
+msgid "Sign Up"
+msgstr ""
+
+msgctxt "[\"USER-CONFIRM_PASSWORD\"]"
+msgid "Confirm Password"
+msgstr ""
+
+msgctxt "[\"USER-TERMS_SERVICE\"]"
+msgid "By signing up you agree to our <a href='/terms-service.html' target='_blank'>terms of service</a>"
 msgstr ""
 
 msgctxt "[\"REGION_DOWN-TITLE\"]"
@@ -576,11 +821,11 @@ msgid "It seems that page you are looking for no longer exists.<br />You can exp
 msgstr ""
 
 msgctxt "[\"COPYRIGHT\"]"
-msgid "Copyright © 2014-2016 APKPure. All rights reserved."
+msgid "Copyright © 2014-2017 APKPure. All rights reserved."
 msgstr ""
 
 msgctxt "[\"COPYRIGHT_MOBILE\"]"
-msgid "APKPure.com © 2014-2016"
+msgid "APKPure.com © 2014-2017"
 msgstr ""
 
 msgctxt "[\"COMING_SOON\"]"
@@ -697,6 +942,10 @@ msgstr ""
 
 msgctxt "[\"FOOTER-XAPK\"]"
 msgid "XAPK"
+msgstr ""
+
+msgctxt "[\"FOOTER-REPORT_ABUSE\"]"
+msgid "Report abuse"
 msgstr ""
 
 msgctxt "[\"MARKET-QR\"]"
@@ -1007,6 +1256,46 @@ msgctxt "[\"js\"][\"FILE_UPLOAD_FAILED\"]"
 msgid "File upload failed!"
 msgstr ""
 
+msgctxt "[\"js\"][\"CANCEL\"]"
+msgid "Cancel"
+msgstr ""
+
+msgctxt "[\"js\"][\"USER-PASSWORD_NOT_MATCH\"]"
+msgid "Passwords do not match"
+msgstr ""
+
+msgctxt "[\"js\"][\"USER-PASSWORD_MUST\"]"
+msgid "Password must be 6-32 characters long"
+msgstr ""
+
+msgctxt "[\"js\"][\"USER-USERNAME_MUST\"]"
+msgid "Username must be 1-20 characters long and special characters are not allowed."
+msgstr ""
+
+msgctxt "[\"js\"][\"USER-INCORRECT_ACCOUNT\"]"
+msgid "The username you entered is invalid."
+msgstr ""
+
+msgctxt "[\"js\"][\"USER-INCORRECT_PASSWORD\"]"
+msgid "The password you entered is invalid."
+msgstr ""
+
+msgctxt "[\"js\"][\"COMMENT-DELETE\"]"
+msgid "Yes,delete it!"
+msgstr ""
+
+msgctxt "[\"js\"][\"COMMENT-DELETED\"]"
+msgid "Deleted!"
+msgstr ""
+
+msgctxt "[\"js\"][\"COMMENT-ARE_YOU_SURE\"]"
+msgid "Are you sure?"
+msgstr ""
+
+msgctxt "[\"js\"][\"COMMENT-VOTE\"]"
+msgid "Vote"
+msgstr ""
+
 msgctxt "[\"meta\"][\"Index\"][\"title\"]"
 msgid "Download APK free online downloader | APKPure.com"
 msgstr ""
@@ -1076,7 +1365,7 @@ msgid "android apps, android games, must have android games, must have android a
 msgstr ""
 
 msgctxt "[\"meta\"][\"Category_featured_editors-picks\"][\"description\"]"
-msgid "Play with millions of free apps in APKPure style on Android phones, tablets, TV ,etc. Download the best must have android games you should play 2016."
+msgid "Play with millions of free apps in APKPure style on Android phones, tablets, TV ,etc. Download the best must have android games you should play 2017."
 msgstr ""
 
 msgctxt "[\"meta\"][\"Category_app\"][\"title\"]"
@@ -1221,4 +1510,16 @@ msgstr ""
 
 msgctxt "[\"meta\"][\"Topic\"][\"description\"]"
 msgid "{0}"
+msgstr ""
+
+msgctxt "[\"meta\"][\"Similar\"][\"title\"]"
+msgid "Top best alternative {app_category} {app_type} like {app_name} for Android 2017-2018 | APKPure.com"
+msgstr ""
+
+msgctxt "[\"meta\"][\"Similar\"][\"keywords\"]"
+msgid "{app_name} alternative, {app_name} similar {app_type}, {app_category} {app_type} like {app_name}"
+msgstr ""
+
+msgctxt "[\"meta\"][\"Similar\"][\"description\"]"
+msgid "Popular alternative {app_type} to {app_name} for Android, Android tablet and more. Download top {similar_count} {app_type} like {app_name}, all {app_type} suggested by APKPure."
 msgstr ""

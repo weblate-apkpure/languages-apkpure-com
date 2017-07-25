@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-03-22 06:56+0000\n"
-"PO-Revision-Date: 2017-06-18 02:10+0000\n"
-"Last-Translator: mehmet erdogan <erdogan666@gmail.com>\n"
+"PO-Revision-Date: 2017-07-13 19:30+0000\n"
+"Last-Translator: Can YİĞİTEROL (cyerol) <canyigiterolmsn@gmail.com>\n"
 "Language-Team: Turkish "
 "<https://translate.apkpure.com/projects/apkpure/apkpurecom/tr/>\n"
 "Language: tr\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 2.14\n"
+"X-Generator: Weblate 2.14.1\n"
 
 msgctxt "[\"NAV-GAME\"]"
 msgid "GAME"
@@ -308,7 +308,7 @@ msgstr "{0} Android için resmi Fragmanı"
 
 msgctxt "[\"DETAIL-VERSION\"]"
 msgid "Version"
-msgstr "Sürüm"
+msgstr "Versiyon"
 
 msgctxt "[\"DETAIL-UPDATE_ON\"]"
 msgid "Update on"
@@ -320,7 +320,7 @@ msgstr "İmza"
 
 msgctxt "[\"DETAIL-FILE_SHA1\"]"
 msgid "File SHA1"
-msgstr "SHA1 Değeri"
+msgstr "SHA1 Dosyası"
 
 msgctxt "[\"DETAIL-WHATS_NEW\"]"
 msgid "What's new"
@@ -380,7 +380,7 @@ msgstr "Çevir"
 
 msgctxt "[\"REGION_DOWN-TITLE\"]"
 msgid "Region free APK download"
-msgstr "Ülkeye göre ücretsiz APK indir"
+msgstr "Ülkeye bağlı olmaksızın apk indir"
 
 msgctxt "[\"REGION_DOWN-DES\"]"
 msgid "Break all Google Play Store restricted region locking rules to download free apps APK for Android phone and tablet."
@@ -393,7 +393,7 @@ msgstr ""
 
 msgctxt "[\"REGION_DOWN-SEARCH\"]"
 msgid "Search"
-msgstr "Ara"
+msgstr "Arama"
 
 msgctxt "[\"REGION_DOWN-COUNTRY_NAME\"]"
 msgid "Country name or Region code"
@@ -437,7 +437,7 @@ msgstr "İmza"
 
 msgctxt "[\"SIGN_VERIFY-FILE_SHA1\"]"
 msgid "File SHA1"
-msgstr "SHA1 Değeri"
+msgstr "SHA1 Dosyası"
 
 msgctxt "[\"SIGN_VERIFY-FILE_SIZE\"]"
 msgid "File Size"
@@ -1093,6 +1093,7 @@ msgctxt "[\"meta\"][\"Category_featured\"][\"description\"]"
 msgid "{0}"
 msgstr "{0}"
 
+#, fuzzy
 msgctxt "[\"meta\"][\"Category_app\"][\"title\"]"
 msgid "Download {0} APK Android App Online - Free Pure APK Downloader"
 msgstr "{0} APK Android App Online İndir - Ücretsiz Pure APK Downloader"
@@ -1103,12 +1104,14 @@ msgstr ""
 "{0} apk indir, ücretsiz {0} indir, {0} apk indir, {0} apk indir, {0} apk "
 "indirici, {0} android"
 
+#, fuzzy
 msgctxt "[\"meta\"][\"Category_app\"][\"description\"]"
 msgid "Download free and best {0}  for Android phone and tablet with online apk downloader on APKPure.com, including (tool apps, shopping apps, communication apps) and more."
 msgstr ""
 "Ücretsiz ve en iyi uygulamaları {0} Android telefonlarınıza ve "
 "tabletlerinize APKPure.com üzerinden indirin."
 
+#, fuzzy
 msgctxt "[\"meta\"][\"Category_game\"][\"title\"]"
 msgid "Download {0} APK Android App Online - Free Pure APK Downloader"
 msgstr "{0} APK Android App Online İndir - Ücretsiz Pure APK Downloader"
@@ -1119,6 +1122,7 @@ msgstr ""
 "{0} apk indir, ücretsiz {0} indir, {0} apk indir, {0} apk indirici, {0} "
 "android, {0} uygulaması indir"
 
+#, fuzzy
 msgctxt "[\"meta\"][\"Category_game\"][\"description\"]"
 msgid "Download free and best {0} for Android phone and tablet with online apk downloader on APKPure.com, including (driving games, shooting games, fighting games) and more."
 msgstr ""
@@ -1157,7 +1161,7 @@ msgstr "{0} arama sonucu | APKPure.com"
 
 msgctxt "[\"meta\"][\"Search\"][\"keywords\"]"
 msgid "{0} apk download, download {0} apk"
-msgstr "{0} apk indir"
+msgstr "{0} apk indir, indir {0} apk"
 
 msgctxt "[\"meta\"][\"Search\"][\"description\"]"
 msgid "{0}"
@@ -1405,10 +1409,7 @@ msgstr "Widget'lar"
 
 msgctxt "[\"NAV-GAME\"]"
 msgid "GAMES"
-msgstr ""
-"OYUNLAR\n"
-"\t\n"
-"\t\t\t\t\t\t"
+msgstr "OYUNLAR"
 
 msgctxt "[\"NAV-APP\"]"
 msgid "APPS"
@@ -1428,7 +1429,7 @@ msgstr "APK SHA1 Dosyası"
 
 msgctxt "[\"DETAIL-XAPK_FILE_SHA1\"]"
 msgid "XAPK File SHA1"
-msgstr "XAPK SHA1 Değeri"
+msgstr "XAPK SHA1 Dosyası"
 
 msgctxt "[\"DETAIL-GP_DOWNLOAD\"]"
 msgid "Install on Google Play"
@@ -1765,7 +1766,7 @@ msgstr ""
 
 msgctxt "[\"FOOTER-APK_DOWNLOAD\"]"
 msgid "APK Downloader (Region free)"
-msgstr "APK Downloader (Bölge sınırlamasız)"
+msgstr "APK İndirici(Bölge sınırlamasız)"
 
 msgctxt "[\"meta\"][\"Index\"][\"description\"]"
 msgid "Download apk for Android with APKPure APK downloader. NoAds, Faster apk downloads and apk file update speed. Best of all, it's free"
@@ -1786,6 +1787,7 @@ msgctxt "[\"meta\"][\"Category_featured_editors-picks\"][\"title\"]"
 msgid "APKPure Editors' Picks for the best Android Games & Apps"
 msgstr "APKPure Editörleri en iyi Android Oyunlarını ve Uygulamalarını Seçiyor"
 
+#, fuzzy
 msgctxt "[\"meta\"][\"Category_featured_editors-picks\"][\"keywords\"]"
 msgid "android apps, android games, must have android games, must have android apps, game download"
 msgstr "android uygulamaları, android oyunları, oyun indir"
@@ -2101,3 +2103,119 @@ msgstr ""
 msgctxt "[\"COMMENT-ERR_DISCUSSION\"]"
 msgid "Incorrect in discussion"
 msgstr "Hatalı yorum"
+
+msgctxt "[\"COMMENT-COLLAPSED\"]"
+msgid "comment collapsed"
+msgstr "yorum kısmı hata verdi"
+
+msgctxt "[\"COMMENT-SORT_BY_NEWEST\"]"
+msgid "Newest"
+msgstr "En yeni"
+
+msgctxt "[\"COMMENT-SORT_BY_NEW\"]"
+msgid "Newest"
+msgstr "En yeni"
+
+msgctxt "[\"COMMENT-SORT_BY_OLDEST\"]"
+msgid "Oldest"
+msgstr "En eski"
+
+msgctxt "[\"COMMENT-SORT_BY_BEST\"]"
+msgid "Best"
+msgstr "En iyi"
+
+msgctxt "[\"COMMENT-SORT_BY_MOST_RECENT\"]"
+msgid "Most Recent"
+msgstr "En son"
+
+msgctxt "[\"COMMENT-POST_AS_GUEST\"]"
+msgid "Post As a Guest"
+msgstr "Misafir olarak paylaş"
+
+msgctxt "[\"COMMENT-VOTE\"]"
+msgid "Vote"
+msgstr "Oyla"
+
+msgctxt "[\"COMMENT-ERR_INVALID_VIDEO_URL\"]"
+msgid "Invalid Video URL"
+msgstr "Yanlış video URL'si"
+
+msgctxt "[\"COMMENT-LOADING\"]"
+msgid "Comment Loading..."
+msgstr "Yorum Yükleniyor..."
+
+msgctxt "[\"USER-USER_LOGIN\"]"
+msgid "User Login"
+msgstr "Kullanıcı Girişi"
+
+msgctxt "[\"USER-USERNAME\"]"
+msgid "Username"
+msgstr "Kullanıcı Adı"
+
+msgctxt "[\"USER-PASSWORD\"]"
+msgid "Password"
+msgstr "Şifre"
+
+msgctxt "[\"USER-NEW_USER_REGISTRATION\"]"
+msgid "New User Registration"
+msgstr "Yeni Kullanıcı Kaydı"
+
+msgctxt "[\"USER-SIGN_IN_BTN\"]"
+msgid "SIGN IN"
+msgstr "GİRİŞ YAP"
+
+msgctxt "[\"USER-SIGN_IN\"]"
+msgid "Sign In"
+msgstr "Giriş"
+
+msgctxt "[\"USER-SIGN_UP_BTN\"]"
+msgid "SIGN UP"
+msgstr "Kayıt Ol"
+
+msgctxt "[\"USER-SIGN_UP\"]"
+msgid "Sign Up"
+msgstr "Kayıt"
+
+msgctxt "[\"USER-CONFIRM_PASSWORD\"]"
+msgid "Confirm Password"
+msgstr "Şifreni Doğrula"
+
+msgctxt "[\"js\"][\"USER-PASSWORD_NOT_MATCH\"]"
+msgid "Passwords do not match"
+msgstr "Şifre eşleşmiyor"
+
+msgctxt "[\"js\"][\"USER-PASSWORD_MUST\"]"
+msgid "Password must be 6-32 characters long"
+msgstr "Şifre 6-32 karakter olmalı"
+
+msgctxt "[\"js\"][\"USER-INCORRECT_ACCOUNT\"]"
+msgid "The username you entered is invalid."
+msgstr "Girdiğin kullanıcı adı yanlış."
+
+msgctxt "[\"COMMENT-SORT_BY_DEFAULT\"]"
+msgid "Sort by default"
+msgstr "Varsayılan sıralama"
+
+msgctxt "[\"USER-SIGN_IN_WITH\"]"
+msgid "Or sign in with"
+msgstr "Yada şununla giriş yap"
+
+msgctxt "[\"USER-TERMS_SERVICE\"]"
+msgid "By signing up you agree to our <a href='/terms-service.html' target='_blank'>terms of service</a>"
+msgstr ""
+"Kayıt olduğunuzda <a href='/terms-service.html' target='_blank'>Kullanım "
+"Şartları</a> kabul etmiş sayılırsınız"
+
+msgctxt "[\"js\"][\"USER-USERNAME_MUST\"]"
+msgid "Username must be 1-20 characters long and special characters are not allowed."
+msgstr ""
+"Kullanıcı adı 1-20 karakter uzunluğunda olmalı ve özel karakterlere izin "
+"verilmemekte."
+
+msgctxt "[\"js\"][\"USER-INCORRECT_PASSWORD\"]"
+msgid "The password you entered is invalid."
+msgstr "Girdiğiniz şifre maalesef geçersiz."
+
+msgctxt "[\"js\"][\"COMMENT-VOTE\"]"
+msgid "Vote"
+msgstr "Oy ver"

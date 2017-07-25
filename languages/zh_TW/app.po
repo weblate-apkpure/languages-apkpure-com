@@ -1,19 +1,40 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-06-30 07:03+0000\n"
+"PO-Revision-Date: 2017-07-09 07:36+0000\n"
+"Last-Translator: Shippo Hsu <shippo.hsu@gmail.com>\n"
+"Language-Team: Chinese (Traditional) "
+"<https://translate.apkpure.com/projects/apkpure/apkpurecom/zh_Hant/>\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 2.14.1\n"
+
+#, fuzzy
 msgctxt "[\"NAV-GAME\"]"
 msgid "GAMES"
 msgstr "遊戲"
 
+#, fuzzy
 msgctxt "[\"NAV-APP\"]"
 msgid "APPS"
-msgstr "應用"
+msgstr "應用程式"
 
+#, fuzzy
 msgctxt "[\"NAV-XAPK\"]"
 msgid "XAPK"
 msgstr "XAPK"
 
+#, fuzzy
 msgctxt "[\"NAV-NEW\"]"
 msgid "NEW"
 msgstr "最新"
 
+#, fuzzy
 msgctxt "[\"NAV-PRODUCTS\"]"
 msgid "PRODUCTS"
 msgstr "產品"
@@ -22,9 +43,10 @@ msgctxt "[\"NAV-NEW_GAME\"]"
 msgid "NEW GAME"
 msgstr "最近更新遊戲"
 
+#, fuzzy
 msgctxt "[\"NAV-NEW_APP\"]"
 msgid "NEW APP"
-msgstr "最近更新應用"
+msgstr "新應用"
 
 msgctxt "[\"NAV-XAPK_GAME\"]"
 msgid "XAPK GAME"
@@ -36,19 +58,20 @@ msgstr "XAPK 應用"
 
 msgctxt "[\"NAV-APK_INSTALL\"]"
 msgid "APK Install"
-msgstr "APK 安裝器"
+msgstr "APK 安裝"
 
 msgctxt "[\"NAV-APK_DOWNLOAD\"]"
 msgid "APK Download"
 msgstr "APK 下載器"
 
+#, fuzzy
 msgctxt "[\"NAV-APK_VERIFICATION\"]"
 msgid "APK Verification"
-msgstr "APK 簽名校驗器"
+msgstr "APK 簽名驗證器"
 
 msgctxt "[\"NAV-APKPURE_APP\"]"
 msgid "APKPure App"
-msgstr "APKPure 客戶端"
+msgstr "APKPure 應用程式"
 
 msgctxt "[\"DOWNLOAD\"]"
 msgid "Download"
@@ -64,7 +87,7 @@ msgstr "免費"
 
 msgctxt "[\"READ_MORE\"]"
 msgid "Read More"
-msgstr "查看更多"
+msgstr "閱讀更多"
 
 msgctxt "[\"GAME\"]"
 msgid "GAME"
@@ -212,7 +235,7 @@ msgstr "免費下載安卓遊戲及應用"
 
 msgctxt "[\"INDEX-HOW_TO_DOWNLOAD\"]"
 msgid "How to download apk files?"
-msgstr "如何下載 APK 文件？"
+msgstr "如何下載 APK 檔？"
 
 msgctxt "[\"INDEX-FAQ\"]"
 msgid "FAQ"
@@ -704,7 +727,7 @@ msgstr "com.facebook.katana 或 https://play.google.com...?id=com.facebook.katan
 
 msgctxt "[\"REGION_DOWN-SEARCH\"]"
 msgid "Search"
-msgstr "區域下載搜索"
+msgstr "搜尋"
 
 msgctxt "[\"REGION_DOWN-COUNTRY_NAME\"]"
 msgid "Country name or Region code"
@@ -728,7 +751,7 @@ msgstr "APK在線簽名校驗"
 
 msgctxt "[\"SIGN_VERIFY-CLICK_UPLOAD\"]"
 msgid "Click Upload APK file"
-msgstr "點擊上傳 APK 文件"
+msgstr "點擊上傳 APK 檔"
 
 msgctxt "[\"SIGN_VERIFY-MAXIMUM\"]"
 msgid "Maximum file size"
@@ -740,7 +763,7 @@ msgstr "APKPure簽名校驗器可幫助用戶在線掃描可疑的APK安裝文�
 
 msgctxt "[\"SIGN_VERIFY-PACKAGE_NAME\"]"
 msgid "Package Name"
-msgstr "包名"
+msgstr "套件名稱"
 
 msgctxt "[\"SIGN_VERIFY-SIGNATURE\"]"
 msgid "Signature"
@@ -748,23 +771,23 @@ msgstr "簽名"
 
 msgctxt "[\"SIGN_VERIFY-FILE_SHA1\"]"
 msgid "File SHA1"
-msgstr "文件SHA1"
+msgstr "檔案SHA1"
 
 msgctxt "[\"SIGN_VERIFY-FILE_SIZE\"]"
 msgid "File Size"
-msgstr "文件大小"
+msgstr "檔案大小"
 
 msgctxt "[\"SEARCH-ADVANCED_SEARCH\"]"
 msgid "Advanced Search"
-msgstr "高級搜索"
+msgstr "進階搜尋"
 
 msgctxt "[\"SEARCH-SEARCH_RESULTS\"]"
 msgid "{0} search results found."
-msgstr "找到{0}個搜索結果。"
+msgstr "找到{0}個搜尋結果。"
 
 msgctxt "[\"SEARCH-NO_RESULTS_FOUND\"]"
 msgid "No results found? Try to advanced search again."
-msgstr "沒找到？請嘗試切換到高級搜索。"
+msgstr "沒找到？請嘗試切換到進階搜尋。"
 
 msgctxt "[\"SEARCH-SELECT_REGION\"]"
 msgid "Select a region you want to search with"
@@ -772,7 +795,7 @@ msgstr "選擇國家"
 
 msgctxt "[\"SEARCH-ABOUT_RESULTS\"]"
 msgid "About {0} results"
-msgstr "個搜索結果"
+msgstr "關於 {0} 結果"
 
 msgctxt "[\"SEARCH-PLACEHOLDER1\"]"
 msgid "APKPure or com.apkpure.aegon"
@@ -780,11 +803,11 @@ msgstr "APKPure 或 com.apkpure.aegon"
 
 msgctxt "[\"SEARCH-PLACEHOLDER2\"]"
 msgid "Search..."
-msgstr "搜索..."
+msgstr "搜尋..."
 
 msgctxt "[\"SEARCH-PLACEHOLDER3\"]"
 msgid "Name Or Package Name"
-msgstr "應用名或包名"
+msgstr "應用名稱或套件名稱"
 
 msgctxt "[\"SEARCH-TITLE\"]"
 msgid "Enter App Name, Package Name, Package ID"
@@ -792,7 +815,7 @@ msgstr "請輸入應用名或包名"
 
 msgctxt "[\"SEARCH-APK\"]"
 msgid "Search APK"
-msgstr "搜索"
+msgstr "搜尋APK"
 
 msgctxt "[\"404-OOPS\"]"
 msgid "OOPS!,"
@@ -800,7 +823,7 @@ msgstr "哇！"
 
 msgctxt "[\"404-Error_404\"]"
 msgid "Error 404!"
-msgstr "404了！"
+msgstr "404錯誤了！"
 
 msgctxt "[\"404-DES\"]"
 msgid "It seems that page you are looking for no longer exists.<br />You can explore more Android Games and Apps below!"
@@ -820,7 +843,7 @@ msgstr "即將上架"
 
 msgctxt "[\"SEARCHING\"]"
 msgid "Searching..."
-msgstr "搜索中..."
+msgstr "搜尋中..."
 
 msgctxt "[\"FOOTER-APK_DOWNLOADER_SEO\"]"
 msgid "APK Downloader"
@@ -1404,11 +1427,11 @@ msgstr "{0}所有安卓遊戲免費下載，最新版下載更新。"
 
 msgctxt "[\"meta\"][\"Search\"][\"title\"]"
 msgid "{0} search results | APKPure.com"
-msgstr "APKPure應用商店站內搜索{0}"
+msgstr "{0}筆搜尋結果 | APKPure.com"
 
 msgctxt "[\"meta\"][\"Search\"][\"keywords\"]"
 msgid "{0} apk download, download {0} apk"
-msgstr "{0}安卓版APK下載，下載最新版{0}APK安裝包"
+msgstr "{0}APK下載，下載{0}APK"
 
 msgctxt "[\"meta\"][\"Search\"][\"description\"]"
 msgid "{0}"
@@ -1436,7 +1459,7 @@ msgstr "apk簽名校驗, apk簽名, apk簽名驗證, apk簽名校驗工具, apk�
 
 msgctxt "[\"meta\"][\"Verify\"][\"description\"]"
 msgid "APK Signature verification will verify Android app package signature to keep Android users away from potentially harmful APK files before APK installing."
-msgstr "APKPure簽名校驗器可幫助用戶在線掃描可疑的APK安裝文件。"
+msgstr "APK簽名校驗器可幫助使用者線上掃描可疑的APK安裝檔。"
 
 msgctxt "[\"meta\"][\"Download\"][\"title\"]"
 msgid "Region free APK download daily update apps and games"
@@ -1464,15 +1487,15 @@ msgstr "錯誤"
 
 msgctxt "[\"meta\"][\"Category\"][\"title\"]"
 msgid "Browse Category | APKPure.com"
-msgstr "安卓手機遊戲APK免費下載,Android手機軟件,手機遊戲下載 - APKPure應用商店"
+msgstr "瀏覽分類 | APKPure.com"
 
 msgctxt "[\"meta\"][\"Category\"][\"keywords\"]"
 msgid "app category,game category"
-msgstr "安卓應用分類,安卓遊戲分類"
+msgstr "Android應用程式分類,Android遊戲分類"
 
 msgctxt "[\"meta\"][\"Category\"][\"description\"]"
 msgid "Android games and apps category"
-msgstr "下載最新版安卓遊戲，安卓應用APK海量應用免費下載升級。"
+msgstr "Android遊戲與應用程式分類"
 
 msgctxt "[\"meta\"][\"Topics\"][\"title\"]"
 msgid "Topics | APKPure.com"
@@ -1500,7 +1523,9 @@ msgstr "{0}"
 
 msgctxt "[\"meta\"][\"Similar\"][\"title\"]"
 msgid "Top best alternative {app_category} {app_type} like {app_name} for Android 2017-2018 | APKPure.com"
-msgstr "類似{app_name}的安卓{app_category}{app_type}， 2017-2018安卓{app_category}{app_type}大全 | APKPure.com"
+msgstr ""
+"類似{app_name}的 Android {app_category}{app_type}， 2017-2018 Android "
+"{app_category}{app_type}大全 | APKPure.com"
 
 msgctxt "[\"meta\"][\"Similar\"][\"keywords\"]"
 msgid "{app_name} alternative, {app_name} similar {app_type}, {app_category} {app_type} like {app_name}"
@@ -1508,4 +1533,6 @@ msgstr "{app_name}類似遊戲, {app_name}同類{app_type}, {app_name}{app_categ
 
 msgctxt "[\"meta\"][\"Similar\"][\"description\"]"
 msgid "Popular alternative {app_type} to {app_name} for Android, Android tablet and more. Download top {similar_count} {app_type} like {app_name}, all {app_type} suggested by APKPure."
-msgstr "類似{app_name}的手游，{app_name}同類游戲,安卓平板遊戲下載。 APKPure力荐{similar_count}款類似{app_name}的經典{app_category}類{app_type}。"
+msgstr ""
+"類似{app_name}的手遊，{app_name}同類遊戲，Android平板遊戲下載。 "
+"APKPure力荐{similar_count}款類似{app_name}的經典{app_category}類{app_type}。"

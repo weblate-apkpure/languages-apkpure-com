@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-08-14 08:12+0000\n"
-"PO-Revision-Date: 2017-06-16 19:08+0000\n"
+"PO-Revision-Date: 2017-07-05 20:58+0000\n"
 "Last-Translator: Goudarz Jafari <goudarz.jafari@gmail.com>\n"
 "Language-Team: Persian "
 "<https://translate.apkpure.com/projects/apkpure/apkpurecom/fa/>\n"
@@ -12,14 +12,11 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 2.14\n"
+"X-Generator: Weblate 2.14.1\n"
 
 msgctxt "[\"NAV-GAME\"]"
 msgid "GAMES"
-msgstr ""
-"بازی‌ها\n"
-"\t\n"
-"\t\t\t\t\t\t"
+msgstr "بازی‌ها"
 
 msgctxt "[\"NAV-APP\"]"
 msgid "APPS"
@@ -2014,3 +2011,119 @@ msgid "Your post contains sensitive terms and is pending approval by an admin"
 msgstr ""
 "نظر شما داری اصطلاحات و محتوای حساس می‌باشد که پس از تایید مدیریت منتشر "
 "می‌شود"
+
+msgctxt "[\"COMMENT-SORT_BY_NEWEST\"]"
+msgid "Newest"
+msgstr "جدیدترین"
+
+msgctxt "[\"COMMENT-SORT_BY_NEW\"]"
+msgid "Newest"
+msgstr "جدیدترین"
+
+msgctxt "[\"COMMENT-SORT_BY_OLDEST\"]"
+msgid "Oldest"
+msgstr "قدیمی‌ترین"
+
+msgctxt "[\"COMMENT-SORT_BY_BEST\"]"
+msgid "Best"
+msgstr "بهترین"
+
+msgctxt "[\"COMMENT-SORT_BY_MOST_RECENT\"]"
+msgid "Most Recent"
+msgstr "ارسال‌های اخیر"
+
+msgctxt "[\"COMMENT-SORT_BY_DEFAULT\"]"
+msgid "Sort by default"
+msgstr "مرتب‌سازی به‌صورت پیش‌فرض"
+
+msgctxt "[\"COMMENT-POST_AS_GUEST\"]"
+msgid "Post As a Guest"
+msgstr "ارسال به عنوان مهمان"
+
+msgctxt "[\"COMMENT-VOTE\"]"
+msgid "Vote"
+msgstr "رای"
+
+msgctxt "[\"COMMENT-ERR_INVALID_VIDEO_URL\"]"
+msgid "Invalid Video URL"
+msgstr "آدرس ویدیو نامعتبر است"
+
+msgctxt "[\"COMMENT-LOADING\"]"
+msgid "Comment Loading..."
+msgstr "نظر در حال بارگیری..."
+
+msgctxt "[\"USER-USER_LOGIN\"]"
+msgid "User Login"
+msgstr "ورود کاربر"
+
+msgctxt "[\"USER-USERNAME\"]"
+msgid "Username"
+msgstr "نام‌کاربری"
+
+msgctxt "[\"USER-PASSWORD\"]"
+msgid "Password"
+msgstr "رمز عبور"
+
+msgctxt "[\"USER-NEW_USER_REGISTRATION\"]"
+msgid "New User Registration"
+msgstr "ثبت‌نام کاربر جدید"
+
+msgctxt "[\"USER-SIGN_IN_BTN\"]"
+msgid "SIGN IN"
+msgstr "ورود"
+
+msgctxt "[\"USER-SIGN_IN\"]"
+msgid "Sign In"
+msgstr "ورود"
+
+msgctxt "[\"USER-SIGN_IN_WITH\"]"
+msgid "Or sign in with"
+msgstr "یا وارد شوید با"
+
+msgctxt "[\"USER-SIGN_UP_BTN\"]"
+msgid "SIGN UP"
+msgstr "ثبت نام"
+
+msgctxt "[\"USER-SIGN_UP\"]"
+msgid "Sign Up"
+msgstr "ثبت نام"
+
+msgctxt "[\"USER-CONFIRM_PASSWORD\"]"
+msgid "Confirm Password"
+msgstr "تایید رمز عبور"
+
+msgctxt "[\"USER-TERMS_SERVICE\"]"
+msgid "By signing up you agree to our <a href='/terms-service.html' target='_blank'>terms of service</a>"
+msgstr ""
+"زمانی که شما ثبت نام کرده اید با <a href='/terms-service.html' "
+"target='_blank'>شرایط و خدمات ما</a> موافقت کرده‌اید"
+
+msgctxt "[\"js\"][\"USER-PASSWORD_NOT_MATCH\"]"
+msgid "Passwords do not match"
+msgstr "رمزهای عبور با هم مطابقت ندارند"
+
+msgctxt "[\"js\"][\"USER-PASSWORD_MUST\"]"
+msgid "Password must be 6-32 characters long"
+msgstr "رمز عبور باید بین 6-32 کارکتر طولانی باشد"
+
+msgctxt "[\"js\"][\"USER-USERNAME_MUST\"]"
+msgid "Username must be 1-20 characters long and special characters are not allowed."
+msgstr ""
+"نام کاربری باید بین 1-20 کارکتر طولانی باشد و از کارکتر‌های ویژه نیز مجاز به "
+"استفاده نیستید."
+
+msgctxt "[\"js\"][\"USER-INCORRECT_ACCOUNT\"]"
+msgid "The username you entered is invalid."
+msgstr "نام کاربری که وارد کردید نامعتبر است."
+
+msgctxt "[\"js\"][\"USER-INCORRECT_PASSWORD\"]"
+msgid "The password you entered is invalid."
+msgstr "رمز عبور که وارد کردید نامعتبر است."
+
+msgctxt "[\"js\"][\"COMMENT-VOTE\"]"
+msgid "Vote"
+msgstr "رای"
+
+msgctxt "[\"COMMENT-COLLAPSED\"]"
+msgid "comment collapsed"
+msgstr "نظر جمع شده"
