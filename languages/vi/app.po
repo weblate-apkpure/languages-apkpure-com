@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-03-22 06:56+0000\n"
-"PO-Revision-Date: 2017-07-27 04:28+0000\n"
-"Last-Translator: tientran18101998 <tientran18101998@gmail.com>\n"
+"PO-Revision-Date: 2017-07-30 12:35+0000\n"
+"Last-Translator: Đăng Nguyễn <dangnguyen8877@gmail.com>\n"
 "Language-Team: Vietnamese "
 "<https://translate.apkpure.com/projects/apkpure/apkpurecom/vi/>\n"
 "Language: vi\n"
@@ -26,7 +26,6 @@ msgctxt "[\"NAV-XAPK\"]"
 msgid "XAPK"
 msgstr "X-APK"
 
-#, fuzzy
 msgctxt "[\"NAV-NEW\"]"
 msgid "NEW"
 msgstr "MỚI"
@@ -75,15 +74,13 @@ msgctxt "[\"SELECT_LANGUAGE\"]"
 msgid "Select Language"
 msgstr "Chọn ngôn ngữ"
 
-#, fuzzy
 msgctxt "[\"FREE\"]"
 msgid "Free"
 msgstr "Miễn phí"
 
-#, fuzzy
 msgctxt "[\"READ_MORE\"]"
 msgid "Read More"
-msgstr "Xem nhiều hơn"
+msgstr "Xem thêm"
 
 msgctxt "[\"GAME\"]"
 msgid "GAME"
@@ -101,7 +98,6 @@ msgctxt "[\"APPS\"]"
 msgid "Apps"
 msgstr "Ứng dụng"
 
-#, fuzzy
 msgctxt "[\"MORE\"]"
 msgid "More"
 msgstr "Nhiều hơn"
@@ -1383,11 +1379,11 @@ msgctxt "[\"category\"][\"APP_WIDGETS\"]"
 msgid "Widgets"
 msgstr "Tiện ích"
 
+#, fuzzy
 msgctxt "[\"NAV-GAME\"]"
 msgid "GAMES"
 msgstr "TRÒ CHƠI"
 
-#, fuzzy
 msgctxt "[\"NAV-APP\"]"
 msgid "APPS"
 msgstr "ỨNG DỤNG"
@@ -1874,3 +1870,23 @@ msgstr "Địa chỉ e-mail bạn nhập không hợp lệ."
 msgctxt "[\"USER-INCORRECT_PASSWORD\"]"
 msgid "The password you entered is invalid."
 msgstr "Mật khẩu không hợp lệ."
+
+msgctxt "[\"COMMENT-ERR_INVALID_VIDEO_URL\"]"
+msgid "Invalid Video URL"
+msgstr "URL video không hợp lệ"
+
+msgctxt "[\"USER-DISPLAY_NAME_EXIST\"]"
+msgid "The nickname is already in use."
+msgstr "Tên đã được sử dụng"
+
+msgctxt "[\"USER-INCORRECT_ACCOUNT\"]"
+msgid "The username you entered is invalid."
+msgstr "Tên không hợp lệ"
+
+msgctxt "[\"USER-FEMALE\"]"
+msgid "Female"
+msgstr "Nữ"
+
+msgctxt "[\"USER-MALE\"]"
+msgid "Male"
+msgstr "Nam"
