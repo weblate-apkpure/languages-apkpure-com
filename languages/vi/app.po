@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-03-22 06:56+0000\n"
-"PO-Revision-Date: 2017-07-30 12:35+0000\n"
-"Last-Translator: Đăng Nguyễn <dangnguyen8877@gmail.com>\n"
+"PO-Revision-Date: 2017-08-04 11:37+0000\n"
+"Last-Translator: Nguyễn Lam <tojidotakarin@gmail.com>\n"
 "Language-Team: Vietnamese "
 "<https://translate.apkpure.com/projects/apkpure/apkpurecom/vi/>\n"
 "Language: vi\n"
@@ -1106,50 +1106,60 @@ msgstr ""
 msgctxt "[\"meta\"][\"Category_game\"][\"description\"]"
 msgid "Download free and best {0} for Android phone and tablet with online apk downloader on APKPure.com, including (driving games, shooting games, fighting games) and more."
 msgstr ""
+"Tải ứng dụng miễn phí và tốt nhất {0} cho điện thoại Android và máy tính "
+"bảng với trình tải apk trực tuyến trên APKPure.com, bao gồm (game đua xe, "
+"game bắn súng, game chiến đấu) và nhiều hơn nữa."
 
 msgctxt "[\"meta\"][\"FAQ\"][\"title\"]"
 msgid "{0} FAQ | APKPure.com"
-msgstr ""
+msgstr "{0} Câu hỏi thường gặp | APKPure.com"
 
+#, fuzzy
 msgctxt "[\"meta\"][\"FAQ\"][\"keywords\"]"
 msgid "{0}"
-msgstr ""
+msgstr "{0}"
 
+#, fuzzy
 msgctxt "[\"meta\"][\"FAQ\"][\"description\"]"
 msgid "{0}"
-msgstr ""
+msgstr "{0}"
 
 msgctxt "[\"meta\"][\"Developer\"][\"title\"]"
 msgid "All {0} free Android apps apk download | APKPure.com"
-msgstr ""
+msgstr "Tất cả {0} tải apk ứng dụng Android | APKPure.com"
 
 msgctxt "[\"meta\"][\"Developer\"][\"keywords\"]"
 msgid "{0} apk download, download {0} free app, {0} games for android,  {0} games app list, {0} app update, {0} app apk downloader"
 msgstr ""
+"{0} tải apk, tải {0} ứng dụng miễn phí, {0} trò chơi cho android,  {0} danh "
+"sách ứng dụng các trò chơi, {0} ứng dụng cập nhật, {0} trình tải apk ứng dụng"
 
 msgctxt "[\"meta\"][\"Developer\"][\"description\"]"
 msgid "All Apps or Games Published by \"{0}\""
-msgstr ""
+msgstr "Tất cả ứng dụng và trò chơi đã phát hành bởi \"{0}\""
 
 msgctxt "[\"meta\"][\"Search\"][\"title\"]"
 msgid "{0} search results | APKPure.com"
-msgstr ""
+msgstr "{0} kết quả tìm kiếm | APKPure.com"
 
 msgctxt "[\"meta\"][\"Search\"][\"keywords\"]"
 msgid "{0} apk download, download {0} apk"
-msgstr ""
+msgstr "{0} tải apk, tải {0} apk"
 
+#, fuzzy
 msgctxt "[\"meta\"][\"Search\"][\"description\"]"
 msgid "{0}"
-msgstr ""
+msgstr "{0}"
 
 msgctxt "[\"meta\"][\"New\"][\"title\"]"
 msgid "Download the latest {0} APK | APKPure.com"
-msgstr ""
+msgstr "Tải phần mới nhất {0} APK | APKPure.com"
 
 msgctxt "[\"meta\"][\"New\"][\"keywords\"]"
 msgid "{0} apk download, {0} update, free top {0} download, free {0} downloader,  best {0} for Android,"
 msgstr ""
+"{0} tải apk, {0} cập nhật, đỉnh cao miễn phí {0} tải, miễn phí {0} trình "
+"tải, toost nhất {0} cho Android,"
 
 msgctxt "[\"meta\"][\"New\"][\"description\"]"
 msgid "Daily update top free Google Play {0} apk download."
@@ -1890,3 +1900,122 @@ msgstr "Nữ"
 msgctxt "[\"USER-MALE\"]"
 msgid "Male"
 msgstr "Nam"
+
+msgctxt "[\"COMMENT-ERR_LINK_AUDIT\"]"
+msgid "Your post contains link and is pending approval by an admin"
+msgstr ""
+"Bài đăng của bạn chứa liên kết và đang được kiểm duyệt bởi người quản trị"
+
+msgctxt "[\"USER-UNKNOWN_ERROR\"]"
+msgid "unknown mistake."
+msgstr "lỗi không xác định."
+
+msgctxt "[\"USER-USER_LOGIN\"]"
+msgid "User Login"
+msgstr "Người dùng đăng nhập"
+
+msgctxt "[\"USER-USERNAME\"]"
+msgid "Username"
+msgstr "Tên người dùng"
+
+msgctxt "[\"USER-PASSWORD\"]"
+msgid "Password"
+msgstr "Mật khẩu"
+
+msgctxt "[\"USER-NEW_USER_REGISTRATION\"]"
+msgid "New User Registration"
+msgstr "Đăng ký người dùng mới"
+
+msgctxt "[\"USER-SIGN_IN_BTN\"]"
+msgid "SIGN IN"
+msgstr "ĐĂNG NHẬP"
+
+msgctxt "[\"USER-SIGN_IN\"]"
+msgid "Sign In"
+msgstr "Đăng nhập"
+
+msgctxt "[\"USER-SIGN_IN_WITH\"]"
+msgid "Or sign in with"
+msgstr "Hoặc đăng nhập với"
+
+msgctxt "[\"USER-SIGN_UP_BTN\"]"
+msgid "SIGN UP"
+msgstr "ĐĂNG KÝ"
+
+msgctxt "[\"USER-SIGN_UP\"]"
+msgid "Sign Up"
+msgstr "Đăng ký"
+
+msgctxt "[\"USER-CONFIRM_PASSWORD\"]"
+msgid "Confirm Password"
+msgstr "Xác nhận mật khẩu"
+
+msgctxt "[\"COPYRIGHT\"]"
+msgid "Copyright © 2014-2017 APKPure. All rights reserved."
+msgstr "Bản quyền © 2014-2017 APKPure. Tác giả giữ toàn quyền."
+
+#, fuzzy
+msgctxt "[\"COPYRIGHT_MOBILE\"]"
+msgid "APKPure.com © 2014-2017"
+msgstr "APKPure.com © 2014-2017"
+
+msgctxt "[\"FOOTER-REPORT_ABUSE\"]"
+msgid "Report abuse"
+msgstr "Báo cáo lạm dụng"
+
+msgctxt "[\"js\"][\"CANCEL\"]"
+msgid "Cancel"
+msgstr "Hủy bỏ"
+
+msgctxt "[\"js\"][\"USER-PASSWORD_NOT_MATCH\"]"
+msgid "Passwords do not match"
+msgstr "Mật khẩu không trùng khớp"
+
+msgctxt "[\"js\"][\"USER-PASSWORD_MUST\"]"
+msgid "Password must be 6-32 characters long"
+msgstr "Mật khẩu phải từ 6-32 độ dài ký tự"
+
+msgctxt "[\"js\"][\"USER-USERNAME_MUST\"]"
+msgid "Username must be 1-20 characters long and special characters are not allowed."
+msgstr ""
+"Tên người dùng phải dài từ 1-20 ký tự và các ký tự đặc biệt không được chấp "
+"nhận."
+
+msgctxt "[\"js\"][\"USER-INCORRECT_ACCOUNT\"]"
+msgid "The username you entered is invalid."
+msgstr "Tên người dùng bạn nhập không đúng."
+
+msgctxt "[\"js\"][\"USER-INCORRECT_PASSWORD\"]"
+msgid "The password you entered is invalid."
+msgstr "Mật khẩu bạn nhập chưa đúng."
+
+msgctxt "[\"js\"][\"COMMENT-DELETE\"]"
+msgid "Yes,delete it!"
+msgstr "Vâng, xóa nó!"
+
+msgctxt "[\"js\"][\"COMMENT-DELETED\"]"
+msgid "Deleted!"
+msgstr "Đã xóa!"
+
+msgctxt "[\"js\"][\"COMMENT-ARE_YOU_SURE\"]"
+msgid "Are you sure?"
+msgstr "Bạn chắc chứ?"
+
+msgctxt "[\"js\"][\"COMMENT-VOTE\"]"
+msgid "Vote"
+msgstr "Bầu chọn"
+
+msgctxt "[\"meta\"][\"Category_featured_editors-picks\"][\"description\"]"
+msgid "Play with millions of free apps in APKPure style on Android phones, tablets, TV ,etc. Download the best must have android games you should play 2017."
+msgstr ""
+"Khám phá hàng triệu ứng dụng miễn phí với phong cách APKPure trên điện thoại "
+"Android, máy tính bảng, TV, v.v... Tải những trò chơi tốt nhất phải có mà "
+"bạn nên chơi năm 2017."
+
+msgctxt "[\"meta\"][\"New\"][\"description\"]"
+msgid "Daily update top free {0} apk download."
+msgstr "Cập nhật hàng đầu mỗi ngày miễn phí {0} tải apk."
+
+msgctxt "[\"meta\"][\"Verify\"][\"title\"]"
+msgid "APK Signature Verification, Official Version APK Detection Service"
+msgstr "Chữ ký APK xác nhận, Phiên bản APK chính thức xuất hiện dịch vụ"
