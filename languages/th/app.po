@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-03-31 09:34+0000\n"
-"PO-Revision-Date: 2017-08-03 23:41+0000\n"
-"Last-Translator: wimol sarapo <mmaayy292@gmail.com>\n"
+"PO-Revision-Date: 2017-08-06 22:38+0000\n"
+"Last-Translator: TeEJa Teeparow <chareonsaktee@gmail.com>\n"
 "Language-Team: Thai "
 "<https://translate.apkpure.com/projects/apkpure/apkpurecom/th/>\n"
 "Language: th\n"
@@ -236,9 +236,10 @@ msgctxt "[\"INDEX-FAQ\"]"
 msgid "FAQ"
 msgstr "FAQ"
 
+#, fuzzy
 msgctxt "[\"DOWNLOAD_APK\"]"
 msgid "Download APK"
-msgstr "ดาวน์โหลดไฟล์ APK"
+msgstr "ดาว์โหลดapk"
 
 #, fuzzy
 msgctxt "[\"DETAIL-PAID_GAME\"]"
@@ -1411,7 +1412,7 @@ msgstr "แอพ"
 #, fuzzy
 msgctxt "[\"INDEX-POPULAR_CATEGORIES\"]"
 msgid "Popular categories"
-msgstr "หมวดหมู่ยอดนิยม"
+msgstr "Popular categories"
 
 msgctxt "[\"DETAIL-REPORT\"]"
 msgid "Report"
@@ -1421,13 +1422,15 @@ msgctxt "[\"DETAIL-FLAG_AS_INAPPROPRIATE\"]"
 msgid "Flag as inappropriate"
 msgstr "ปักธงว่าไม่เหมาะสม"
 
+#, fuzzy
 msgctxt "[\"VERIFICATION_CODE\"]"
 msgid "Verification code"
-msgstr "ตรวจสอบโค๊ด"
+msgstr "Verification code"
 
+#, fuzzy
 msgctxt "[\"VERIFICATION_INCORRECT\"]"
 msgid "The verification code is incorrect!"
-msgstr "การตรวจโค๊ดเสร็จสมบูรณ์!"
+msgstr "The verification code is incorrect!"
 
 #, fuzzy
 msgctxt "[\"VERIFICATION_DOWN\"]"
