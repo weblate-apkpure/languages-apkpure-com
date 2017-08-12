@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-05-21 13:42+0000\n"
-"PO-Revision-Date: 2017-06-21 23:42+0000\n"
-"Last-Translator: Mirmillon <MirmillonArkay@gmail.com>\n"
+"PO-Revision-Date: 2017-08-12 03:51+0000\n"
+"Last-Translator: Shychara <vanjavs@mail.ru>\n"
 "Language-Team: Russian "
 "<https://translate.apkpure.com/projects/apkpure/apkpurecom/ru/>\n"
 "Language: ru\n"
@@ -41,7 +41,7 @@ msgstr "НОВЫЕ ИГРЫ"
 
 msgctxt "[\"NAV-NEW_APP\"]"
 msgid "NEW APP"
-msgstr "НОВЫЕ ПРИЛОЖЕНИЯ"
+msgstr "НОВОЕ ПРИЛОЖЕНИЕ"
 
 msgctxt "[\"NAV-XAPK_GAME\"]"
 msgid "XAPK GAME"
@@ -883,7 +883,7 @@ msgstr "ЛУЧШИЕ ИГРЫ ДЛЯ ANDROID"
 
 msgctxt "[\"FOOTER-TRANSLATE\"]"
 msgid "Help translate APKPure"
-msgstr "Перевести APKPure"
+msgstr "Помочь перевести APKPure"
 
 msgctxt "[\"FOOTER-DEVELOPER\"]"
 msgid "Submit Your App"
@@ -1463,3 +1463,119 @@ msgstr ""
 "Популярная альтернатива {app_type} для {app_name} для Android, Android "
 "планшета и больше. Загрузить топ {similar_count} {app_type} такое как "
 "{app_name}, все {app_type} предложено APKPure."
+
+msgctxt "[\"COMMENT-SORT_BY_NEWEST\"]"
+msgid "Newest"
+msgstr "Новые"
+
+msgctxt "[\"COMMENT-SORT_BY_NEW\"]"
+msgid "Newest"
+msgstr "Новые"
+
+msgctxt "[\"COMMENT-SORT_BY_OLDEST\"]"
+msgid "Oldest"
+msgstr "Старые"
+
+msgctxt "[\"COMMENT-SORT_BY_BEST\"]"
+msgid "Best"
+msgstr "Лучшие"
+
+msgctxt "[\"COMMENT-SORT_BY_MOST_RECENT\"]"
+msgid "Most Recent"
+msgstr "Самые последние"
+
+msgctxt "[\"COMMENT-SORT_BY_DEFAULT\"]"
+msgid "Sort by default"
+msgstr "Сортировать по умолчанию"
+
+msgctxt "[\"COMMENT-POST_AS_GUEST\"]"
+msgid "Post As a Guest"
+msgstr "Опубликовать в качестве гостя"
+
+msgctxt "[\"COMMENT-VOTE\"]"
+msgid "Vote"
+msgstr "Голосовать"
+
+msgctxt "[\"COMMENT-ERR_INVALID_VIDEO_URL\"]"
+msgid "Invalid Video URL"
+msgstr "Недопустимый URL-адрес видео"
+
+msgctxt "[\"COMMENT-LOADING\"]"
+msgid "Comment Loading..."
+msgstr "Загрузка комментариев..."
+
+msgctxt "[\"COMMENT-COLLAPSED\"]"
+msgid "comment collapsed"
+msgstr "Комментарий свернут"
+
+msgctxt "[\"USER-USER_LOGIN\"]"
+msgid "User Login"
+msgstr "Вход пользователя"
+
+msgctxt "[\"USER-USERNAME\"]"
+msgid "Username"
+msgstr "Имя пользователя"
+
+msgctxt "[\"USER-PASSWORD\"]"
+msgid "Password"
+msgstr "Пароль"
+
+msgctxt "[\"USER-NEW_USER_REGISTRATION\"]"
+msgid "New User Registration"
+msgstr "Регистрация нового пользователя"
+
+msgctxt "[\"USER-SIGN_IN_BTN\"]"
+msgid "SIGN IN"
+msgstr "ВОЙТИ"
+
+msgctxt "[\"USER-SIGN_IN\"]"
+msgid "Sign In"
+msgstr "Войти"
+
+msgctxt "[\"USER-SIGN_IN_WITH\"]"
+msgid "Or sign in with"
+msgstr "Или войдите с"
+
+msgctxt "[\"USER-SIGN_UP_BTN\"]"
+msgid "SIGN UP"
+msgstr "РЕГИСТРАЦИЯ"
+
+msgctxt "[\"USER-SIGN_UP\"]"
+msgid "Sign Up"
+msgstr "Регистрация"
+
+msgctxt "[\"USER-CONFIRM_PASSWORD\"]"
+msgid "Confirm Password"
+msgstr "Подтвердите пароль"
+
+msgctxt "[\"USER-TERMS_SERVICE\"]"
+msgid "By signing up you agree to our <a href='/terms-service.html' target='_blank'>terms of service</a>"
+msgstr ""
+"Зарегистрировавшись, вы соглашаетесь с нашими <a href='/terms-service.html' "
+"target='_blank'>условиями использования</a>"
+
+msgctxt "[\"js\"][\"USER-PASSWORD_NOT_MATCH\"]"
+msgid "Passwords do not match"
+msgstr "Пароли не совпадают"
+
+msgctxt "[\"js\"][\"USER-PASSWORD_MUST\"]"
+msgid "Password must be 6-32 characters long"
+msgstr "Пароль должен иметь длину 6-32 символов"
+
+msgctxt "[\"js\"][\"USER-USERNAME_MUST\"]"
+msgid "Username must be 1-20 characters long and special characters are not allowed."
+msgstr ""
+"Длина имени пользователя не должна превышать 1-20 символов, а специальные "
+"символы не разрешены."
+
+msgctxt "[\"js\"][\"USER-INCORRECT_ACCOUNT\"]"
+msgid "The username you entered is invalid."
+msgstr "Введено недопустимое имя пользователя."
+
+msgctxt "[\"js\"][\"USER-INCORRECT_PASSWORD\"]"
+msgid "The password you entered is invalid."
+msgstr "Введён неправильный пароль."
+
+msgctxt "[\"js\"][\"COMMENT-VOTE\"]"
+msgid "Vote"
+msgstr "Голосовать"
