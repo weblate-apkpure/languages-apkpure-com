@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-03-22 06:52+0000\n"
-"PO-Revision-Date: 2017-07-14 14:30+0000\n"
-"Last-Translator: Dom P. (BigDom) <baskelboler@gmail.com>\n"
+"PO-Revision-Date: 2017-08-09 16:56+0000\n"
+"Last-Translator: Eric Schneider <erics465@web.de>\n"
 "Language-Team: German "
 "<https://translate.apkpure.com/projects/apkpure/apkpurecom/de/>\n"
 "Language: de\n"
@@ -34,22 +34,18 @@ msgctxt "[\"NAV-PRODUCTS\"]"
 msgid "PRODUCTS"
 msgstr "PRODUKTE"
 
-#, fuzzy
 msgctxt "[\"NAV-NEW_GAME\"]"
 msgid "NEW GAME"
 msgstr "NEUES SPIEL"
 
-#, fuzzy
 msgctxt "[\"NAV-NEW_APP\"]"
 msgid "NEW APP"
 msgstr "NEUE APP"
 
-#, fuzzy
 msgctxt "[\"NAV-XAPK_GAME\"]"
 msgid "XAPK GAME"
 msgstr "XAPK SPIEL"
 
-#, fuzzy
 msgctxt "[\"NAV-XAPK_APP\"]"
 msgid "XAPK APP"
 msgstr "XAPK APP"
@@ -82,16 +78,14 @@ msgctxt "[\"FREE\"]"
 msgid "Free"
 msgstr "Gratis"
 
-#, fuzzy
 msgctxt "[\"READ_MORE\"]"
 msgid "Read More"
-msgstr "mehr lesen..."
+msgstr "Mehr lesen"
 
 msgctxt "[\"GAME\"]"
 msgid "GAME"
 msgstr "SPIEL"
 
-#, fuzzy
 msgctxt "[\"APP\"]"
 msgid "APP"
 msgstr "APP"
@@ -100,7 +94,6 @@ msgctxt "[\"GAMES\"]"
 msgid "Games"
 msgstr "Spiele"
 
-#, fuzzy
 msgctxt "[\"APPS\"]"
 msgid "Apps"
 msgstr "Apps"
@@ -117,7 +110,6 @@ msgctxt "[\"XAPK-GAMES\"]"
 msgid "XAPK Games"
 msgstr "XAPK-Spiele"
 
-#, fuzzy
 msgctxt "[\"XAPK-APPS\"]"
 msgid "XAPK Apps"
 msgstr "XAPK-Apps"
@@ -162,7 +154,6 @@ msgctxt "[\"SHOW_LESS\"]"
 msgid "Show less"
 msgstr "Weniger anzeigen"
 
-#, fuzzy
 msgctxt "[\"HAVE_PRODUCTS\"]"
 msgid "have {0} products"
 msgstr "habe {0} Produkte"
@@ -175,17 +166,14 @@ msgctxt "[\"POPULAR_GAMES_IN_LAST_HOURS\"]"
 msgid "Popular Games In Last {0} Hours"
 msgstr "Beliebte Spiele in den letzten {0} Stunden"
 
-#, fuzzy
 msgctxt "[\"POPULAR_APPS_IN_LAST_HOURS\"]"
 msgid "Popular Apps In Last {0} Hours"
 msgstr "Beliebte Apps in den letzten {0} Stunden"
 
-#, fuzzy
 msgctxt "[\"POPULAR_APPS_IN_TODAY\"]"
 msgid "Popular Apps In Today"
 msgstr "Beliebte Apps von heute"
 
-#, fuzzy
 msgctxt "[\"POPULAR_GAMES_IN_TODAY\"]"
 msgid "Popular Games In Today"
 msgstr "Beliebte Spiele von heute"
@@ -194,7 +182,6 @@ msgctxt "[\"HOT_GAMES\"]"
 msgid "Hot Games"
 msgstr "Angesagte Spiele"
 
-#, fuzzy
 msgctxt "[\"HOT_APPS\"]"
 msgid "Hot Apps"
 msgstr "Angesagte Apps"
@@ -207,22 +194,18 @@ msgctxt "[\"COMMENTS\"]"
 msgid "Comments"
 msgstr "Kommentare"
 
-#, fuzzy
 msgctxt "[\"LATEST_UPDATE_GAMES\"]"
 msgid "Latest Update Games"
 msgstr "Zuletzt aktualisierte Spiele"
 
-#, fuzzy
 msgctxt "[\"LATEST_UPDATE_APPS\"]"
 msgid "Latest Update Apps"
 msgstr "Zuletzt aktualisierte Apps"
 
-#, fuzzy
 msgctxt "[\"LATEST_UPDATE\"]"
 msgid "Latest Update"
 msgstr "Letzte Aktualisierung"
 
-#, fuzzy
 msgctxt "[\"XAPK_IS_APK_WITH_OBB_DATA\"]"
 msgid "XAPK is APK with OBB data"
 msgstr "XAPK ist eine APK mit OBB-Daten"
@@ -231,17 +214,14 @@ msgctxt "[\"MOST_POPULAR_IN_TODAY\"]"
 msgid "Most Popular In Today"
 msgstr "Heute am beliebtesten"
 
-#, fuzzy
 msgctxt "[\"SIMILAR_OR_RELATED\"]"
 msgid "Similar Or Related"
 msgstr "Ähnlich oder verwandt"
 
-#, fuzzy
 msgctxt "[\"INDEX-TITLE\"]"
 msgid "Download free Android Games and Android Apps."
 msgstr "Lade kostenlose Spiele und Apps für Android herunter."
 
-#, fuzzy
 msgctxt "[\"INDEX-MOBILE_TITLE\"]"
 msgid "Download free Android Games and Apps."
 msgstr "Lade kostenlose Spiele und Apps für Android herunter."
@@ -254,7 +234,6 @@ msgctxt "[\"INDEX-FAQ\"]"
 msgid "FAQ"
 msgstr "Häufige Fragen"
 
-#, fuzzy
 msgctxt "[\"DOWNLOAD_APK\"]"
 msgid "Download APK"
 msgstr "APK herunterladen"
@@ -1478,13 +1457,9 @@ msgctxt "[\"category\"][\"APP_WIDGETS\"]"
 msgid "Widgets"
 msgstr "Widgets"
 
-#, fuzzy
 msgctxt "[\"NAV-GAME\"]"
 msgid "GAMES"
-msgstr ""
-"SPIELE—–--‘”\t\n"
-"\t\n"
-"\t\t\t\t\t\t"
+msgstr "SPIELE"
 
 msgctxt "[\"NAV-APP\"]"
 msgid "APPS"
@@ -1851,7 +1826,6 @@ msgctxt "[\"TOPICS\"]"
 msgid "Topics"
 msgstr "Themen"
 
-#, fuzzy
 msgctxt "[\"SIMILAR_TO\"]"
 msgid "Similar to {0}"
 msgstr "Ähnlich zu {0}"
@@ -1880,7 +1854,6 @@ msgctxt "[\"meta\"][\"New\"][\"description\"]"
 msgid "Daily update top free {0} apk download."
 msgstr "Tägliches Update top, kostenlos {0} APK-Download."
 
-#, fuzzy
 msgctxt "[\"CANCEL\"]"
 msgid "Cancel"
 msgstr "Abbrechen"

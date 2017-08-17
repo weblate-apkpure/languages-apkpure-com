@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-06-20 07:21+0000\n"
-"PO-Revision-Date: 2017-06-20 07:26+0000\n"
-"Last-Translator: CAT <catcto.com@gmail.com>\n"
+"PO-Revision-Date: 2017-07-26 04:10+0000\n"
+"Last-Translator: Jam G <z9979v@gmail.com>\n"
 "Language-Team: Chinese (Simplified) "
 "<https://translate.apkpure.com/projects/apkpure/apkpurecom/zh_Hans/>\n"
 "Language: zh_CN\n"
@@ -52,15 +52,15 @@ msgstr "XAPK 应用"
 
 msgctxt "[\"NAV-APK_INSTALL\"]"
 msgid "APK Install"
-msgstr "APK 安装器"
+msgstr "APK 安装"
 
 msgctxt "[\"NAV-APK_DOWNLOAD\"]"
 msgid "APK Download"
-msgstr "APK 下载器"
+msgstr "APK 下载"
 
 msgctxt "[\"NAV-APK_VERIFICATION\"]"
 msgid "APK Verification"
-msgstr "APK 签名校验器"
+msgstr "APK 校验"
 
 msgctxt "[\"NAV-APKPURE_APP\"]"
 msgid "APKPure App"
@@ -108,11 +108,11 @@ msgstr "XAPK"
 
 msgctxt "[\"XAPK-GAMES\"]"
 msgid "XAPK Games"
-msgstr "XAPK游戏"
+msgstr "XAPK 游戏"
 
 msgctxt "[\"XAPK-APPS\"]"
 msgid "XAPK Apps"
-msgstr "XAPK应用"
+msgstr "XAPK 应用"
 
 msgctxt "[\"HOME\"]"
 msgid "Home"
@@ -124,19 +124,19 @@ msgstr "排序方式"
 
 msgctxt "[\"HOT\"]"
 msgid "Hot"
-msgstr "最热门"
+msgstr "热门"
 
 msgctxt "[\"DOWNLOADS\"]"
 msgid "Downloads"
-msgstr "下载最多"
+msgstr "下载"
 
 msgctxt "[\"NEWEST\"]"
 msgid "Newest"
-msgstr "最近更新"
+msgstr "最新"
 
 msgctxt "[\"RATING\"]"
 msgid "Rating"
-msgstr "评级"
+msgstr "评分"
 
 msgctxt "[\"CATEGORY\"]"
 msgid "Category"
@@ -144,11 +144,11 @@ msgstr "分类"
 
 msgctxt "[\"CATEGORY_JOIN\"]"
 msgid "{app_category} {app_type}"
-msgstr "{app_category}{app_type}"
+msgstr "{app_category} {app_type}"
 
 msgctxt "[\"SHOW_MORE\"]"
 msgid "Show More"
-msgstr "更多"
+msgstr "显示更多"
 
 msgctxt "[\"SHOW_LESS\"]"
 msgid "Show less"
@@ -164,19 +164,19 @@ msgstr "开发者"
 
 msgctxt "[\"POPULAR_GAMES_IN_LAST_HOURS\"]"
 msgid "Popular Games In Last {0} Hours"
-msgstr "{0} 小时热门游戏"
+msgstr "最近 {0} 小时的热门游戏"
 
 msgctxt "[\"POPULAR_APPS_IN_LAST_HOURS\"]"
 msgid "Popular Apps In Last {0} Hours"
-msgstr "{0} 小时热门应用"
+msgstr "最近 {0} 小时的热门应用"
 
 msgctxt "[\"POPULAR_APPS_IN_TODAY\"]"
 msgid "Popular Apps In Today"
-msgstr "今日最受欢迎的应用"
+msgstr "今日受欢迎的应用"
 
 msgctxt "[\"POPULAR_GAMES_IN_TODAY\"]"
 msgid "Popular Games In Today"
-msgstr "今日最受欢迎的游戏"
+msgstr "今日受欢迎的游戏"
 
 msgctxt "[\"HOT_GAMES\"]"
 msgid "Hot Games"
@@ -192,15 +192,15 @@ msgstr "关闭"
 
 msgctxt "[\"COMMENTS\"]"
 msgid "Comments"
-msgstr "用户评论"
+msgstr "评论"
 
 msgctxt "[\"LATEST_UPDATE_GAMES\"]"
 msgid "Latest Update Games"
-msgstr "最近更新游戏"
+msgstr "最近更新的游戏"
 
 msgctxt "[\"LATEST_UPDATE_APPS\"]"
 msgid "Latest Update Apps"
-msgstr "最近更新应用"
+msgstr "最近更新的应用"
 
 msgctxt "[\"LATEST_UPDATE\"]"
 msgid "Latest Update"
@@ -208,11 +208,11 @@ msgstr "最近更新"
 
 msgctxt "[\"XAPK_IS_APK_WITH_OBB_DATA\"]"
 msgid "XAPK is APK with OBB data"
-msgstr "XAPK 包含数据包的 APK"
+msgstr "XAPK 是 包含数据包的 APK"
 
 msgctxt "[\"MOST_POPULAR_IN_TODAY\"]"
 msgid "Most Popular In Today"
-msgstr "今日最受欢迎的"
+msgstr "今日最受欢迎"
 
 msgctxt "[\"SIMILAR_OR_RELATED\"]"
 msgid "Similar Or Related"

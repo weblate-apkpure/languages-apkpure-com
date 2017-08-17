@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-10-28 13:15+0000\n"
-"PO-Revision-Date: 2016-10-28 14:14+0000\n"
-"Last-Translator: Royal Pokno <poknoroyal68@gmail.com>\n"
+"PO-Revision-Date: 2017-08-16 09:19+0000\n"
+"Last-Translator: RoYal Pokno <royalpokno68@gmail.com>\n"
 "Language-Team: Central Khmer "
 "<https://translate.apkpure.com/projects/apkpure/apkpurecom/km/>\n"
 "Language: km\n"
@@ -12,14 +12,12 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 2.9-dev\n"
+"X-Generator: Weblate 2.14.1\n"
 
-#, fuzzy
 msgctxt "[\"NAV-GAME\"]"
 msgid "GAMES"
 msgstr "ហ្គេម"
 
-#, fuzzy
 msgctxt "[\"NAV-APP\"]"
 msgid "APPS"
 msgstr "កម្មវិធី"
@@ -102,9 +100,8 @@ msgstr "កម្មវិធី"
 
 msgctxt "[\"MORE\"]"
 msgid "More"
-msgstr "បន្ថែម"
+msgstr "បន្ថែម​ទៀត​"
 
-#, fuzzy
 msgctxt "[\"XAPK\"]"
 msgid "XAPK"
 msgstr "XAPK"
@@ -127,7 +124,7 @@ msgstr "តម្រៀប ដោយ"
 
 msgctxt "[\"HOT\"]"
 msgid "Hot"
-msgstr "ក្ដៅ"
+msgstr "ក្ដៅៗ"
 
 msgctxt "[\"DOWNLOADS\"]"
 msgid "Downloads"
@@ -145,278 +142,278 @@ msgctxt "[\"CATEGORY\"]"
 msgid "Category"
 msgstr "ចំណាត់ក្រុម"
 
-#, fuzzy
 msgctxt "[\"CATEGORY_JOIN\"]"
 msgid "{app_category} {app_type}"
 msgstr "{app_category} {app_type}"
 
 msgctxt "[\"SHOW_MORE\"]"
 msgid "Show More"
-msgstr "បង្ហាញបន្ថែម"
+msgstr "បង្ហាញ​បន្ថែម​ទៀត​"
 
 msgctxt "[\"SHOW_LESS\"]"
 msgid "Show less"
-msgstr ""
+msgstr "បង្ហាញ​តិច​វិញ​"
 
 msgctxt "[\"HAVE_PRODUCTS\"]"
 msgid "have {0} products"
-msgstr ""
+msgstr "មាន{0} ផលិតផល​"
 
 msgctxt "[\"DEVELOPER\"]"
 msgid "Developer"
-msgstr ""
+msgstr "អ្នក​អភិវឌ្ឍន៍​"
 
 msgctxt "[\"POPULAR_GAMES_IN_LAST_HOURS\"]"
 msgid "Popular Games In Last {0} Hours"
-msgstr ""
+msgstr "ហ្គេម​ពេញនិយម​បំផុត​ក្នុង​{0} ម៉ោង​មុន​"
 
 msgctxt "[\"POPULAR_APPS_IN_LAST_HOURS\"]"
 msgid "Popular Apps In Last {0} Hours"
-msgstr ""
+msgstr "កម្មវិធី​ពេញនិយម​បំផុត​ក្នុង​{0} ម៉ោង​មុន​"
 
 msgctxt "[\"POPULAR_APPS_IN_TODAY\"]"
 msgid "Popular Apps In Today"
-msgstr ""
+msgstr "កម្មវិធី​ពេញនិយម​នៅ​ថ្ងៃ​នេះ​"
 
 msgctxt "[\"POPULAR_GAMES_IN_TODAY\"]"
 msgid "Popular Games In Today"
-msgstr ""
+msgstr "ហ្គេម​ពេញនិយមនៅ​ថ្ងៃ​នេះ​"
 
 msgctxt "[\"HOT_GAMES\"]"
 msgid "Hot Games"
-msgstr ""
+msgstr "ហ្គេម​ក្ដៅ​ៗ"
 
 msgctxt "[\"HOT_APPS\"]"
 msgid "Hot Apps"
-msgstr ""
+msgstr "កម្មវិធី​ក្ដៅ​ៗ"
 
 msgctxt "[\"CLOSE\"]"
 msgid "Close"
-msgstr ""
+msgstr "បិទ"
 
 msgctxt "[\"COMMENTS\"]"
 msgid "Comments"
-msgstr ""
+msgstr "មតិ"
 
 msgctxt "[\"LATEST_UPDATE_GAMES\"]"
 msgid "Latest Update Games"
-msgstr ""
+msgstr "ហ្គេម​អាប់​ដេត​ចុងក្រោយ​"
 
 msgctxt "[\"LATEST_UPDATE_APPS\"]"
 msgid "Latest Update Apps"
-msgstr ""
+msgstr "កម្មវិធី​អាប់ដេតចុងក្រោយ"
 
 msgctxt "[\"LATEST_UPDATE\"]"
 msgid "Latest Update"
-msgstr ""
+msgstr "​ការអាប់ដេតចុងក្រោយ"
 
 msgctxt "[\"XAPK_IS_APK_WITH_OBB_DATA\"]"
 msgid "XAPK is APK with OBB data"
-msgstr ""
+msgstr "XAPK គឺជាឯកសារAPK ជាមួយ​ទិន្នន័យ ​OBB"
 
 msgctxt "[\"MOST_POPULAR_IN_TODAY\"]"
 msgid "Most Popular In Today"
-msgstr ""
+msgstr "ការពេញនិយម​បំផុត នៅ​ថ្ងៃ​នេះ​"
 
 msgctxt "[\"SIMILAR_OR_RELATED\"]"
 msgid "Similar Or Related"
-msgstr ""
+msgstr "ស្រដៀងគ្នា​ ឫ​ទាក់ទង​គ្នា​"
 
 msgctxt "[\"INDEX-TITLE\"]"
 msgid "Download free Android Games and Android Apps."
-msgstr ""
+msgstr "ទាញ​យក​កម្មវិធី​Android និង​ហ្គេម​Android ឥតគិតថ្លៃ។"
 
 msgctxt "[\"INDEX-MOBILE_TITLE\"]"
 msgid "Download free Android Games and Apps."
-msgstr ""
+msgstr "ទាញ​យក​កម្មវិធី​ និង​ហ្គេម​Android ដោយឥតគិតថ្លៃ​។"
 
 msgctxt "[\"INDEX-HOW_TO_DOWNLOAD\"]"
 msgid "How to download apk files?"
-msgstr ""
+msgstr "តើធ្វើដូចម្តេចដើម្បីទាញយកឯកសារ APK?"
 
 msgctxt "[\"INDEX-FAQ\"]"
 msgid "FAQ"
-msgstr ""
+msgstr "សំណួរ​ចម្លើយ​"
 
 msgctxt "[\"INDEX-POPULAR_CATEGORIES\"]"
 msgid "Popular categories"
-msgstr ""
+msgstr "ចំណាត់​ក្រុម​ដែល​ពេញ​និយម​"
 
 msgctxt "[\"DOWNLOAD_APK\"]"
 msgid "Download APK"
-msgstr ""
+msgstr "ទាញ​យក ​APK"
 
 msgctxt "[\"DETAIL-PAID_GAME\"]"
 msgid "Paid Game"
-msgstr ""
+msgstr "ហ្គេម​បង់ប្រាក់​"
 
 msgctxt "[\"DETAIL-PAID_APP\"]"
 msgid "Paid App"
-msgstr ""
+msgstr "កម្មវិធី​បង់ប្រាក់​"
 
 msgctxt "[\"DETAIL-PAID_GAME_DES\"]"
 msgid "Paid games are not available to download"
-msgstr ""
+msgstr "ហ្គេម​បង់ប្រាក់​ ដែល​មិន​ទាន់​អាច​ទាញ​យក​បាន​"
 
 msgctxt "[\"DETAIL-PAID_APP_DES\"]"
 msgid "Paid apps are not available to download"
-msgstr ""
+msgstr "កម្មវិធី​បង់ប្រាក់​ ដែល​មិន​ទាន់​អាច​ទាញ​យក​បាន"
 
 msgctxt "[\"DETAIL-WHY_SAFE\"]"
 msgid "Why we can guarantee APK 100% safe?"
-msgstr ""
+msgstr "តេី​ហេតុ​អ្វី​បាន​ជា​យើង​អាច​ធានា​ថា​APK នេះសុវត្ថិភាព​100%?"
 
 msgctxt "[\"DETAIL-SAFE\"]"
 msgid "Verification passed"
-msgstr ""
+msgstr "ការផ្ទៀងផ្ទាត់បានអនុម័ត"
 
 msgctxt "[\"DETAIL-XAPK_SHORT_DES\"]"
 msgid "XAPK is APK with OBB data, Click to get XAPK Installer"
 msgstr ""
+"XAPK គឺជាឯកសារAPK ជាមួយ​ទិន្នន័យ​OBB សូម​ចុច​ដើម្បី​ទទួល​បាន​ការ​តម្លើង​XAPK​"
 
 msgctxt "[\"DETAIL-MOBILE_XAPK_SHORT_DES\"]"
 msgid "Click to get XAPK Installer"
-msgstr ""
+msgstr "សូម​ចុច​ដើម្បី​ទទួល​បាន​ការ​តម្លើង​XAPK"
 
 msgctxt "[\"DETAIL-CATEGORY\"]"
 msgid "Category"
-msgstr ""
+msgstr "ចំណាត់​ក្រុម​"
 
 msgctxt "[\"DETAIL-LATEST_VERSION\"]"
 msgid "Latest Version"
-msgstr ""
+msgstr "ជំនាន់​ចុងក្រោយ​"
 
 msgctxt "[\"DETAIL-PUBLISH_DATE\"]"
 msgid "Publish Date"
-msgstr ""
+msgstr "ថ្ងៃ​ចេញ​ផ្សាយ​"
 
 msgctxt "[\"DETAIL-GET_IT_ON\"]"
 msgid "Get it on"
-msgstr ""
+msgstr "ទាញ​យកវា​លេី"
 
 msgctxt "[\"DETAIL-REQUIREMENTS\"]"
 msgid "Requirements"
-msgstr ""
+msgstr "ការ​ទាមទារ​"
 
 msgctxt "[\"DETAIL-AUTHOR\"]"
 msgid "Author"
-msgstr ""
+msgstr "អ្នក​និពន្ធ​"
 
 msgctxt "[\"DETAIL-REPORT\"]"
 msgid "Report"
-msgstr ""
+msgstr "រាយការណ៍​"
 
 msgctxt "[\"DETAIL-FLAG_AS_INAPPROPRIATE\"]"
 msgid "Flag as inappropriate"
-msgstr ""
+msgstr "ដាក់​ទង់​ថា​មិន​ត្រឹម​ត្រូវ​"
 
 msgctxt "[\"DETAIL-VOTES\"]"
 msgid "votes"
-msgstr ""
+msgstr "បោះឆ្នោត​"
 
 msgctxt "[\"DETAIL-THE_DESCRIPTION\"]"
 msgid "The description of {0}"
-msgstr ""
+msgstr "សេចក្តី​អធិប្បាយ​នៃ{0}"
 
 msgctxt "[\"DETAIL-OFFICIAL_TRAILER\"]"
 msgid "{0} for Android official Trailer"
-msgstr ""
+msgstr "{0} សម្រាប់​ឈុត​​ខ្លី​ៗនៃAndroid ផ្លូវ​ការ​"
 
 msgctxt "[\"DETAIL-VERSION\"]"
 msgid "Version"
-msgstr ""
+msgstr "ជំនាន់"
 
 msgctxt "[\"DETAIL-UPDATE_ON\"]"
 msgid "Update on"
-msgstr ""
+msgstr "អាប់ដេតលើ"
 
 msgctxt "[\"DETAIL-SIGNATURE\"]"
 msgid "Signature"
-msgstr ""
+msgstr "ហត្ថលេខា"
 
 msgctxt "[\"DETAIL-FILE_SHA1\"]"
 msgid "File SHA1"
-msgstr ""
+msgstr "ឯកសារ​ SHA1"
 
 msgctxt "[\"DETAIL-APK_FILE_SHA1\"]"
 msgid "APK File SHA1"
-msgstr ""
+msgstr "ឯកសារ APK SHA1"
 
 msgctxt "[\"DETAIL-XAPK_FILE_SHA1\"]"
 msgid "XAPK File SHA1"
-msgstr ""
+msgstr "ឯកសារ XAPK SHA1"
 
 msgctxt "[\"DETAIL-WHATS_NEW\"]"
 msgid "What's new"
-msgstr ""
+msgstr "មានអ្វីថ្មី"
 
 msgctxt "[\"DETAIL-VERSION_HISTORY\"]"
 msgid "Version History"
-msgstr ""
+msgstr "ប្រវត្តិនៃជំនាន់"
 
 msgctxt "[\"DETAIL-MORE_FROM_DEVELOPER\"]"
 msgid "More From Developer"
-msgstr ""
+msgstr "មើលច្រើនទៀតពីអ្នកអភិវឌ្ឍន៍នេះ"
 
 msgctxt "[\"DETAIL-COMMENTS\"]"
 msgid "Comments"
-msgstr ""
+msgstr "មតិ"
 
 msgctxt "[\"DETAIL-FOLLOW_UPDATES\"]"
 msgid "Follow Updates"
-msgstr ""
+msgstr "តាមដានការអាប់ដេត"
 
 msgctxt "[\"DETAIL-REQUEST_UPDATE\"]"
 msgid "Request Update"
-msgstr ""
+msgstr "ការរអាប់ដេតថ្មីៗ"
 
 msgctxt "[\"DETAIL-RATING\"]"
 msgid "{votes} votes, average: {rating_average} out of {rating_best}"
-msgstr ""
+msgstr "ការបោះឆ្នោត​{votes}, ជាមធ្យម៖ {rating_average} ចេញពី {rating_best}"
 
 msgctxt "[\"DETAIL-MORE_DEVELOPER\"]"
 msgid "Get more from {0}"
-msgstr ""
+msgstr "ទទួលយកផ្សេងទៀតពី​ {0}"
 
 msgctxt "[\"DETAIL-REMOVED\"]"
 msgid "Removed"
-msgstr ""
+msgstr "បានដកចេញ"
 
 msgctxt "[\"DETAIL-CATEGORY_GAME\"]"
 msgid "{0} GAME"
-msgstr ""
+msgstr "{0} ហ្គេម"
 
 msgctxt "[\"DETAIL-CATEGORY_APP\"]"
 msgid "{0} APP"
-msgstr ""
+msgstr "{0} កម្មវិធី"
 
 msgctxt "[\"DETAIL-VERSION_LOAD_MORE\"]"
 msgid "Load more"
-msgstr ""
+msgstr "ផ្ទុកបន្ថែមទៀត"
 
 msgctxt "[\"DETAIL-VERSION_MORE\"]"
 msgid "More..."
-msgstr ""
+msgstr "បន្ថែមទៀត..."
 
 msgctxt "[\"DETAIL-TRANSLATE\"]"
 msgid "Translate"
-msgstr ""
+msgstr "ការបកប្រែ"
 
 msgctxt "[\"DETAIL-GP_DOWNLOAD\"]"
 msgid "Install on Google Play"
-msgstr ""
+msgstr "តម្លើងនៅលើ Google Play"
 
 msgctxt "[\"DETAIL-ITUNE_DOWNLOAD\"]"
 msgid "Install on iTunes"
-msgstr ""
+msgstr "តម្លើងនៅលើ iTunes"
 
 msgctxt "[\"DETAIL-MORE_DOWNLOAD\"]"
 msgid "More Download Locations:"
-msgstr ""
+msgstr "ទីតាំង​ទាញ​យក​ផ្សេង​ទៀត៖"
 
 msgctxt "[\"DETAIL-DELETED_COPYRIGHT_GOOGLE_PLAY_URL\"]"
 msgid "Download on Google Play"
-msgstr ""
+msgstr "ទាញយកលើ Google Play"
 
 msgctxt "[\"DETAIL-DELETED_COPYRIGHT_GOOGLE_PLAY_DES\"]"
 msgid "{app_name} All rights reserved ©2016 {developer}. {developer} and the {developer} logo are trademarks of {developer} in the U.S. and/or other countries.All other trademarks are the property of their respective owners."
@@ -424,23 +421,23 @@ msgstr ""
 
 msgctxt "[\"DETAIL_DOWNLOAD-NAV_DOWNLOAD\"]"
 msgid "Download"
-msgstr ""
+msgstr "ទាញយក"
 
 msgctxt "[\"DETAIL_DOWNLOAD-DOWNLOADING\"]"
 msgid "Downloading"
-msgstr ""
+msgstr "កំពុងទាញយក"
 
 msgctxt "[\"DETAIL_DOWNLOAD-DOWNLOADING_DES\"]"
 msgid "If the download doesn't start,"
-msgstr ""
+msgstr "ប្រសិនបើ ការទាញយកមិនបាន​ ចាប់ផ្ដើម"
 
 msgctxt "[\"DETAIL_DOWNLOAD-DOWNLOADING_DES_CLICK\"]"
 msgid "click here"
-msgstr ""
+msgstr "ចុចទីនេះ"
 
 msgctxt "[\"DETAIL_DOWNLOAD-HOW_TO_INSTALL_APK\"]"
 msgid "How to install APK / XAPK file"
-msgstr ""
+msgstr "របៀបក្នុងការទាញយកឯកសារ APK / XAPK"
 
 msgctxt "[\"REGION_DOWN-TITLE\"]"
 msgid "Region free APK download"
@@ -1593,3 +1590,141 @@ msgstr ""
 msgctxt "[\"category\"][\"APP_WIDGETS\"]"
 msgid "Widgets"
 msgstr ""
+
+msgctxt "[\"VERIFICATION_CODE\"]"
+msgid "Verification code"
+msgstr "កូដ​ផ្ទៀង​ផ្ទាត់​"
+
+msgctxt "[\"VERIFICATION_INCORRECT\"]"
+msgid "The verification code is incorrect!"
+msgstr "កូដ​ផ្ទៀងផ្ទាត់​ គឺមិនត្រឹមត្រូវ​ទេ!"
+
+msgctxt "[\"VERIFICATION_DOWN\"]"
+msgid "Enter the code(s) as you see in the image, then click \"Download\"."
+msgstr "វាយ​បញ្ចូល​កូដដែល​អ្នក​ឃេីញ​ក្នុង​រូបភាព​ បន្ទាប់​មក​សូម​ចុច​“ទាញ​យក​“។"
+
+msgctxt "[\"TOPICS\"]"
+msgid "Topics"
+msgstr "ប្រធានបទ​"
+
+msgctxt "[\"SIMILAR_TO\"]"
+msgid "Similar to {0}"
+msgstr "ស្រដៀង​គ្នា​ទៅ​នឹង​{0}"
+
+msgctxt "[\"CANCEL\"]"
+msgid "Cancel"
+msgstr "ច្រានចោល"
+
+msgctxt "[\"COMMENT-REPORT\"]"
+msgid "Report"
+msgstr "រាយការណ៍"
+
+msgctxt "[\"COMMENT-COLLAPSED\"]"
+msgid "comment collapsed"
+msgstr "បង្រួមមតិ"
+
+msgctxt "[\"COMMENT-POST\"]"
+msgid "Post"
+msgstr "ប្រកាស"
+
+msgctxt "[\"COMMENT-COMMENTS\"]"
+msgid "Comments"
+msgstr "មតិ"
+
+msgctxt "[\"COMMENT-REPLY\"]"
+msgid "Reply"
+msgstr "ឆ្លើយតប"
+
+msgctxt "[\"COMMENT-NAME\"]"
+msgid "Name"
+msgstr "ឈ្មោះ"
+
+msgctxt "[\"COMMENT-EMAIL\"]"
+msgid "Email"
+msgstr "អ៊ីម៉ែល"
+
+msgctxt "[\"COMMENT-SORT_BY_NEWEST\"]"
+msgid "Newest"
+msgstr "ថ្មីបំផុត"
+
+msgctxt "[\"COMMENT-SORT_BY_NEW\"]"
+msgid "Newest"
+msgstr "ថ្មីបំផុត"
+
+msgctxt "[\"COMMENT-SORT_BY_OLDEST\"]"
+msgid "Oldest"
+msgstr "ចាស់បំផុត"
+
+msgctxt "[\"COMMENT-SORT_BY_BEST\"]"
+msgid "Best"
+msgstr "ល្អបំផុត"
+
+msgctxt "[\"DETAIL-RATING1\"]"
+msgid "average: {rating_average} out of {rating_best}"
+msgstr ""
+"ជា​មធ្យម៖ {rating_average}\n"
+" ចេញពី​ {rating_best}"
+
+msgctxt "[\"DETAIL-DELETED_COPYRIGHT_GOOGLE_PLAY_DES\"]"
+msgid "{app_name} All rights reserved ©2017 {developer}. {developer} and the {developer} logo are trademarks of {developer} in the U.S. and/or other countries.All other trademarks are the property of their respective owners."
+msgstr ""
+"{app_name} រក្សា​សិទ្ធិ​គ្រប់យ៉ាង​ ©2017 {developer}, {developer} ហេីយ "
+"{developer} ជាឡូហ្គោ​ម៉ាក​សញ្ញា​ពាណិជ្ជ​កម្ម​នៃ​ {developer} "
+"ស្ថិតនៅ​ក្នុង​ស.រ/ឫ​ប្រទេស​ដទៃទៀត។ គ្រប់​ស្លាក​សញ្ញា​ពាណិជ្ជ​កម្ម​ទាំងអស់​ "
+"គឺជា​ទ្រព្យ​សម្បត្តិ​និង​កម្មសិទ្ធិ​ស្របច្បាប់​របស់​ពួកគេ។"
+
+msgctxt "[\"COMMENT-SORT_BY_MOST_RECENT\"]"
+msgid "Most Recent"
+msgstr "ពេញនិយម​បំផុត​ពេល​ថ្មី​ៗ"
+
+msgctxt "[\"COMMENT-SORT_BY_DEFAULT\"]"
+msgid "Sort by default"
+msgstr "តម្រៀប​ដោយ​លំនាំ​ដេីម​"
+
+msgctxt "[\"COMMENT-RATING_REQUIRED\"]"
+msgid "Rating required"
+msgstr "ទាមទារ​ឲ្យ​បោះឆ្នោត​"
+
+msgctxt "[\"COMMENT-GUEST\"]"
+msgid "Guest"
+msgstr "ភ្ញៀវ"
+
+msgctxt "[\"COMMENT-START_THE_DISCUSSION\"]"
+msgid "Start the discussion…"
+msgstr "ចាប់​ផ្ដើម​ជជែក​ពិភាក្សា​គ្នា…"
+
+msgctxt "[\"COMMENT-LOG_IN_WITH\"]"
+msgid "Log in with"
+msgstr "ចូល​គណនី​ជាមួយ​"
+
+msgctxt "[\"COMMENT-COMMENTS_CANT_BE_BLANK\"]"
+msgid "Comments can't be blank."
+msgstr "មតិ មិន​អាច​ទទេ​ឡើយ។"
+
+msgctxt "[\"COMMENT-POST_AS_GUEST\"]"
+msgid "Post As a Guest"
+msgstr "ប្រកាស​ថាជា ភ្ញៀវ​"
+
+msgctxt "[\"COMMENT-LOGOUT\"]"
+msgid "Logout"
+msgstr "ចាកចេញ​"
+
+msgctxt "[\"COMMENT-WEBSITE\"]"
+msgid "Website"
+msgstr "វែបសាយ"
+
+msgctxt "[\"COMMENT-TO_BE_FIRST\"]"
+msgid "Be the first to comment."
+msgstr "ជាមនុស្សមុនគេ ដែល​មានមតិ"
+
+msgctxt "[\"COMMENT-VOTE\"]"
+msgid "Vote"
+msgstr "បោះ​ឆ្នោត​"
+
+msgctxt "[\"COMMENT-ERR_QUICK_LOGIN\"]"
+msgid "Quick login error, please try again."
+msgstr "ការចូល​គណនី​រហ័ស​ជាប់​គាំង,​ សូម​ព្យាយាម​ម្ដង ទៀត។"
+
+msgctxt "[\"COMMENT-ERR_EMAIL_NAME\"]"
+msgid "Incorrect mail or name"
+msgstr "ឈ្មោះ​និងម៉ែល ដែល​មិន​ត្រឹម​ត្រូវ​"
