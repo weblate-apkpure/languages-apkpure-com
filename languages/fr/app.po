@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-09-05 10:22+0000\n"
-"PO-Revision-Date: 2017-07-26 14:07+0000\n"
-"Last-Translator: 배은완 <bernyerwann@gmail.com>\n"
+"PO-Revision-Date: 2017-08-17 09:32+0000\n"
+"Last-Translator: Timothée DURAND <timdurde70@gmail.com>\n"
 "Language-Team: French "
 "<https://translate.apkpure.com/projects/apkpure/apkpurecom/fr/>\n"
 "Language: fr\n"
@@ -833,7 +833,6 @@ msgctxt "[\"ERROR-OOPS\"]"
 msgid "OOPS!,"
 msgstr "OUPS !"
 
-#, fuzzy
 msgctxt "[\"ERROR-SUBTITLE\"]"
 msgid "You can visit the following Games and Apps instead"
 msgstr "Vous pouvez aussi voir les jeux et applications suivantes"
@@ -866,17 +865,24 @@ msgstr ""
 "Le téléchargement s'est arrêté à cause d'une erreur inconnue. Nous allons "
 "bientôt la fixer."
 
+#, fuzzy
 msgctxt "[\"error\"][\"DOWN-LimitedCarrier\"]"
 msgid "Download failed because of an unknown error. We will fix this problem soon."
 msgstr ""
+"Votre téléchargement n'a pas pu être mené à bien à cause d'une erreur "
+"inconnue, nous allons régler ce problème rapidement."
 
+#, fuzzy
 msgctxt "[\"error\"][\"DOWN-PreRegister\"]"
 msgid "It's a Pre-registration App, you can't download."
-msgstr ""
+msgstr "Le téléchargement de cette application nécessite de s'inscrire."
 
+#, fuzzy
 msgctxt "[\"error\"][\"DOWN-RunOutOfDevice\"]"
 msgid "Download failed, please try again in 5 minutes."
 msgstr ""
+"Votre téléchargement n'a pas pu s'effectuer, merci de recommencer dans 5 "
+"minutes"
 
 msgctxt "[\"tip\"][\"ICON\"]"
 msgid "{0} icon"
@@ -885,26 +891,31 @@ msgstr ""
 msgctxt "[\"tip\"][\"LIST_ICON\"]"
 msgid "{0} APK"
 msgstr ""
+"\n"
+"{0} APK\n"
 
+#, fuzzy
 msgctxt "[\"tip\"][\"LIST_TITLE\"]"
 msgid "{0} APK"
-msgstr ""
+msgstr "{0} APK"
 
+#, fuzzy
 msgctxt "[\"tip\"][\"LIST_DOWN\"]"
 msgid "Download {0} latest version apk"
-msgstr ""
+msgstr "Télécharger la dernière version de {0} apk"
 
+#, fuzzy
 msgctxt "[\"tip\"][\"LIST_DOWN_XAPK\"]"
 msgid "Download {0} latest version xapk"
-msgstr ""
+msgstr "Télécharger la dernière version de {0} xpak"
 
 msgctxt "[\"tip\"][\"VERSION_DOWN\"]"
 msgid "Download {app_name} {version_name} ({version_code}) {file_type}"
-msgstr ""
+msgstr "Télécharger {app_name} {version_name} ({version_code}) {file_type}"
 
 msgctxt "[\"tip\"][\"RATING\"]"
 msgid "{app_name} average rating {rating_average}"
-msgstr ""
+msgstr "{app_name} note moyenne {rating_average}"
 
 msgctxt "[\"tip\"][\"QR_DOWN\"]"
 msgid "{0} QR code download"
