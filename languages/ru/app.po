@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-05-21 13:42+0000\n"
-"PO-Revision-Date: 2017-08-18 08:18+0000\n"
-"Last-Translator: Максуд <mansurov.maksud@gmail.com>\n"
+"PO-Revision-Date: 2017-08-22 09:15+0000\n"
+"Last-Translator: Shychara <vanjavs@mail.ru>\n"
 "Language-Team: Russian "
 "<https://translate.apkpure.com/projects/apkpure/apkpurecom/ru/>\n"
 "Language: ru\n"
@@ -21,7 +21,7 @@ msgstr "ИГРЫ"
 
 msgctxt "[\"NAV-APP\"]"
 msgid "APPS"
-msgstr "Приложения"
+msgstr "ПРИЛОЖЕНИЯ"
 
 msgctxt "[\"NAV-XAPK\"]"
 msgid "XAPK"
@@ -29,7 +29,7 @@ msgstr "XAPK"
 
 msgctxt "[\"NAV-NEW\"]"
 msgid "NEW"
-msgstr "Новинки"
+msgstr "НОВИНКИ"
 
 msgctxt "[\"NAV-PRODUCTS\"]"
 msgid "PRODUCTS"
@@ -1189,7 +1189,7 @@ msgstr "Скрыть"
 
 msgctxt "[\"js\"][\"LOADING\"]"
 msgid "loading..."
-msgstr "загружается..."
+msgstr "загрузка..."
 
 msgctxt "[\"js\"][\"DOWNLOAD_APK\"]"
 msgid "Download APK"
@@ -1205,7 +1205,7 @@ msgstr "Заливается..."
 
 msgctxt "[\"js\"][\"VALIDATING\"]"
 msgid "Validating..."
-msgstr "Проверяется..."
+msgstr "Проверка..."
 
 msgctxt "[\"js\"][\"FILE_UPLOAD_FAILED\"]"
 msgid "File upload failed!"
@@ -1213,7 +1213,7 @@ msgstr "Ошибка заливки файла!"
 
 msgctxt "[\"js\"][\"CANCEL\"]"
 msgid "Cancel"
-msgstr "Oтменить"
+msgstr "Oтмена"
 
 msgctxt "[\"js\"][\"COMMENT-DELETE\"]"
 msgid "Yes,delete it!"
@@ -1391,7 +1391,7 @@ msgstr "Региононезависимый APK скачать ежедневн
 
 msgctxt "[\"meta\"][\"Download\"][\"keywords\"]"
 msgid "apk download, region free apk download"
-msgstr " "
+msgstr "скачать apk, область бесплатного скачивания apk"
 
 msgctxt "[\"meta\"][\"Download\"][\"description\"]"
 msgid "download free apps APK for Android phone and tablet."
@@ -1427,11 +1427,11 @@ msgstr "Тема | APKPure.com"
 
 msgctxt "[\"meta\"][\"Topics\"][\"keywords\"]"
 msgid "Topics"
-msgstr "Тема"
+msgstr "Топы"
 
 msgctxt "[\"meta\"][\"Topics\"][\"description\"]"
 msgid "Topics"
-msgstr "Тема"
+msgstr "Топы"
 
 msgctxt "[\"meta\"][\"Topic\"][\"title\"]"
 msgid "{0} | APKPure.com"
