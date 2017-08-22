@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-10-28 13:15+0000\n"
-"PO-Revision-Date: 2017-08-16 09:19+0000\n"
+"PO-Revision-Date: 2017-08-19 07:43+0000\n"
 "Last-Translator: RoYal Pokno <royalpokno68@gmail.com>\n"
 "Language-Team: Central Khmer "
 "<https://translate.apkpure.com/projects/apkpure/apkpurecom/km/>\n"
@@ -441,7 +441,7 @@ msgstr "របៀបក្នុងការទាញយកឯកសារ APK /
 
 msgctxt "[\"REGION_DOWN-TITLE\"]"
 msgid "Region free APK download"
-msgstr ""
+msgstr "ទាញ​យក​ ​APK​ តំបន់​សេរី​"
 
 msgctxt "[\"REGION_DOWN-DES\"]"
 msgid "- Download your favorite Android Apps with APK Downloader (Free Apps Only).<br>- Your download will begin automatically after you paste a package id and click the download button.<br>- Download failed? Please manually change country setting and try again.<br>- Want to tell us more about your problems? <a style='color:#FFFF00' href='contact-us.html'>Contact us here</a>"
@@ -449,23 +449,23 @@ msgstr ""
 
 msgctxt "[\"REGION_DOWN-PLACEHOLDER\"]"
 msgid "com.facebook.katana or https://play.google.com...?id=com.facebook.katana"
-msgstr ""
+msgstr "com.facebook.katana ឫ https://play.google.com...?id=com.facebook.katana"
 
 msgctxt "[\"REGION_DOWN-SEARCH\"]"
 msgid "Search"
-msgstr ""
+msgstr "ស្វែងរក​"
 
 msgctxt "[\"REGION_DOWN-COUNTRY_NAME\"]"
 msgid "Country name or Region code"
-msgstr ""
+msgstr "ឈ្មោះ​ប្រទេស​ ឫ​កូដ​តំបន់​"
 
 msgctxt "[\"REGION_DOWN-MOBILE_TITLE\"]"
 msgid "APK Downloader"
-msgstr ""
+msgstr "កម្មវិធី​ទាញ​យក​ APK​"
 
 msgctxt "[\"REGION_DOWN-MOBILE_DES\"]"
 msgid "All Region Games and Apps Download."
-msgstr ""
+msgstr "ទាញ​យក​កម្មវិធី​និង​ហ្គេម​ គ្រប់​តំបន់"
 
 msgctxt "[\"LAST_DOWNLOAD\"]"
 msgid "Last Download"
@@ -1715,7 +1715,7 @@ msgstr "វែបសាយ"
 
 msgctxt "[\"COMMENT-TO_BE_FIRST\"]"
 msgid "Be the first to comment."
-msgstr "ជាមនុស្សមុនគេ ដែល​មានមតិ"
+msgstr "ធ្វើ​ជាមនុស្សមុនគេ ដែល​បានផ្ដល់មតិ។"
 
 msgctxt "[\"COMMENT-VOTE\"]"
 msgid "Vote"
@@ -1728,3 +1728,137 @@ msgstr "ការចូល​គណនី​រហ័ស​ជាប់​គា
 msgctxt "[\"COMMENT-ERR_EMAIL_NAME\"]"
 msgid "Incorrect mail or name"
 msgstr "ឈ្មោះ​និងម៉ែល ដែល​មិន​ត្រឹម​ត្រូវ​"
+
+msgctxt "[\"COMMENT-ERR_RATE\"]"
+msgid "Vote failed, repeated"
+msgstr "បោះឆ្នោត​បរាជ័យ,​ ម្តង​ទៀត​"
+
+msgctxt "[\"COMMENT-ERR_SENSITIVE_WORD\"]"
+msgid "Defeat,your post contains sensitive terms"
+msgstr "បរាជ័យ, ការ​ប្រកាស​របស់​អ្នក​មាន​ផ្ទុក​ពាក្យ​រសេីប"
+
+msgctxt "[\"COMMENT-ERR_SENSITIVE_WORD_AUDIT\"]"
+msgid "Your post contains sensitive terms and is pending approval by an admin"
+msgstr ""
+"ការ​ប្រកាស​របស់​អ្នក​មាន​ផ្ទុក​នូវ​ពាក្យ​រសេីប​ "
+"និងត្រូវរង់ចាំ​ការ​សម្រេច​ពី​អភិបាល"
+
+msgctxt "[\"COMMENT-ERR_LINK_AUDIT\"]"
+msgid "Your post contains link and is pending approval by an admin"
+msgstr ""
+"ការ​ប្រកាស​របស់​អ្នក​មាន​ផ្ទុក​នូវ​តំណ​ភ្ជាប់​​ "
+"និងត្រូវ​រង់ចាំការអនុម័ត​ពី​អភិបាលសិន"
+
+msgctxt "[\"COMMENT-ERR_FORBIDDEN\"]"
+msgid "Comment forbidden"
+msgstr "មតិ​ដែល​បាន​ហាមឃាត់"
+
+msgctxt "[\"COMMENT-ERR_FAILURE\"]"
+msgid "Comment unknown"
+msgstr "មតិ​ដែល​មិន​បាន​ស្គាល់​ឈ្មោះ​"
+
+msgctxt "[\"COMMENT-ERR_INVALID_PARAMETER\"]"
+msgid "Invalid comment parameter"
+msgstr "បារ៉ាម៉ែត្រនៃមតិមិនត្រឹមត្រូ"
+
+msgctxt "[\"COMMENT-ERR_INVALID_VIDEO_URL\"]"
+msgid "Invalid Video URL"
+msgstr "URL វីដេអូ​របស់អ្នក​មិន​ត្រឹម​ត្រូវ​ទេ​"
+
+msgctxt "[\"COMMENT-DELETE\"]"
+msgid "Yes,delete it!"
+msgstr "បាទ/ចាស៎ លុប​វា​ចោល!"
+
+msgctxt "[\"COMMENT-DELETED\"]"
+msgid "Deleted!"
+msgstr "បានលុប!"
+
+msgctxt "[\"COMMENT-DEL\"]"
+msgid "Delete"
+msgstr "លុប"
+
+msgctxt "[\"COMMENT-ARE_YOU_SURE\"]"
+msgid "Are you sure?"
+msgstr "តេីអ្នក​ប្រាកដ​ដែរ​ឫ​ទេ?"
+
+msgctxt "[\"COMMENT-LOADING\"]"
+msgid "Comment Loading..."
+msgstr "កំពុង​ផ្ទុក​មតិ​ឡេីង..."
+
+msgctxt "[\"USER-ACCOUNT_EXIST\"]"
+msgid "The username is already in use."
+msgstr "ឈ្មោះ​អ្នក​ប្រើប្រាស់​នេះ​ គឺមានប្រេីរួចហើយ។"
+
+msgctxt "[\"USER-ACCOUNT_NOT_EXIST\"]"
+msgid "The account you entered does not exist."
+msgstr "គណនី​ដែល​អ្នក​បានវាយបញ្ចូល មិនទាន់​មានទេ។"
+
+msgctxt "[\"USER-DISPLAY_NAME_EXIST\"]"
+msgid "The nickname is already in use."
+msgstr "ឈ្មោះ​ហៅ​ក្រៅ​ គឺមាន​ប្រេី​រួចហើយ។"
+
+msgctxt "[\"USER-INCORRECT_EMAIL\"]"
+msgid "The e-mail address you entered is invalid."
+msgstr "អាស័យ​ដ្ឋាន​អ៊ីមែល​របស់​អ្នក​គឺមិនត្រឹមត្រូវ​ទេ។"
+
+msgctxt "[\"USER-FEMALE\"]"
+msgid "Female"
+msgstr "ស្រ្តី​"
+
+msgctxt "[\"USER-INCORRECT_PASSWORD\"]"
+msgid "The password you entered is invalid."
+msgstr "ពាក្យ​សម្ងាត់​ដែល​អ្នក​បាន​បញ្ជូល គឺមិនត្រឹមត្រូវ​ទេ។"
+
+msgctxt "[\"USER-INCORRECT_ACCOUNT\"]"
+msgid "The username you entered is invalid."
+msgstr "ឈ្មោះ​អ្នកប្រើប្រាស់​ដែល​អ្នក​បាន​បញ្ជូល គឺមិនត្រឹមត្រូវ​ទេ។"
+
+msgctxt "[\"USER-MALE\"]"
+msgid "Male"
+msgstr "បុរស​"
+
+msgctxt "[\"USER-USER_LOGIN\"]"
+msgid "User Login"
+msgstr "ចូល​គណនី​អ្នក​ប្រេី​"
+
+msgctxt "[\"USER-USERNAME\"]"
+msgid "Username"
+msgstr "ឈ្មោះ​អ្នកប្រើប្រាស់"
+
+msgctxt "[\"USER-PASSWORD\"]"
+msgid "Password"
+msgstr "ពាក្យ​សម្ងាត់​"
+
+msgctxt "[\"USER-NEW_USER_REGISTRATION\"]"
+msgid "New User Registration"
+msgstr "ការចុះឈ្មោះអ្នកប្រេីប្រាស់"
+
+msgctxt "[\"USER-SIGN_IN_BTN\"]"
+msgid "SIGN IN"
+msgstr "ចូល​គណនី"
+
+msgctxt "[\"USER-SIGN_IN\"]"
+msgid "Sign In"
+msgstr "ចូល​គណនី​"
+
+msgctxt "[\"USER-SIGN_IN_WITH\"]"
+msgid "Or sign in with"
+msgstr "ឫ ចូល​គណនី​ជាមួយ​"
+
+msgctxt "[\"USER-SIGN_UP_BTN\"]"
+msgid "SIGN UP"
+msgstr "ចុះឈ្មោះ​"
+
+msgctxt "[\"USER-SIGN_UP\"]"
+msgid "Sign Up"
+msgstr "ចុះឈ្មោះ​"
+
+msgctxt "[\"USER-CONFIRM_PASSWORD\"]"
+msgid "Confirm Password"
+msgstr "ផ្ទៀង​ផ្ទាត់​ពាក្យ​សម្ងាត់​"
+
+msgctxt "[\"USER-TERMS_SERVICE\"]"
+msgid "By signing up you agree to our <a href='/terms-service.html' target='_blank'>terms of service</a>"
+msgstr ""
+"ដោយ​ការ​ចុះឈ្មោះ​ចូល​ អ្នក​បាន​យល់ព្រម​ទៅ​នឹង​<a href='/terms-service.html' "
+"target='_blank'>លក្ខខណ្ឌ​នៃ​សេវាកម្ម​</a>របស់​ពួក​យើង"
