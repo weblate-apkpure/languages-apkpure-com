@@ -1,27 +1,10 @@
-msgid ""
-msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-05-21 13:42+0000\n"
-"PO-Revision-Date: 2017-08-22 09:15+0000\n"
-"Last-Translator: Shychara <vanjavs@mail.ru>\n"
-"Language-Team: Russian "
-"<https://translate.apkpure.com/projects/apkpure/apkpurecom/ru/>\n"
-"Language: ru\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<="
-"4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 2.14.1\n"
-
 msgctxt "[\"NAV-GAME\"]"
 msgid "GAMES"
 msgstr "ИГРЫ"
 
 msgctxt "[\"NAV-APP\"]"
 msgid "APPS"
-msgstr "ПРИЛОЖЕНИЯ"
+msgstr "Приложения"
 
 msgctxt "[\"NAV-XAPK\"]"
 msgid "XAPK"
@@ -29,7 +12,7 @@ msgstr "XAPK"
 
 msgctxt "[\"NAV-NEW\"]"
 msgid "NEW"
-msgstr "НОВИНКИ"
+msgstr "Новинки"
 
 msgctxt "[\"NAV-PRODUCTS\"]"
 msgid "PRODUCTS"
@@ -41,7 +24,7 @@ msgstr "НОВЫЕ ИГРЫ"
 
 msgctxt "[\"NAV-NEW_APP\"]"
 msgid "NEW APP"
-msgstr "НОВОЕ ПРИЛОЖЕНИЕ"
+msgstr "НОВЫЕ ПРИЛОЖЕНИЯ"
 
 msgctxt "[\"NAV-XAPK_GAME\"]"
 msgid "XAPK GAME"
@@ -245,15 +228,15 @@ msgstr "Скачать APK"
 
 msgctxt "[\"VERIFICATION_CODE\"]"
 msgid "Verification code"
-msgstr "Код подтверждения"
+msgstr "Verification code"
 
 msgctxt "[\"VERIFICATION_INCORRECT\"]"
 msgid "The verification code is incorrect!"
-msgstr "Код подтверждения неверен!"
+msgstr "The verification code is incorrect!"
 
 msgctxt "[\"VERIFICATION_DOWN\"]"
 msgid "Enter the code(s) as you see in the image, then click \"Download\"."
-msgstr "Введите код(ы), который вы видите на картинке, и нажмите \"Загрузить\"."
+msgstr "Enter the code(s) as you see in the image, then click \"Download\"."
 
 msgctxt "[\"TOPICS\"]"
 msgid "Topics"
@@ -266,6 +249,10 @@ msgstr "Похоже на: {0}"
 msgctxt "[\"CANCEL\"]"
 msgid "Cancel"
 msgstr "Oтменить"
+
+msgctxt "[\"UPDATE\"]"
+msgid "Update"
+msgstr "Обновить"
 
 msgctxt "[\"DETAIL-PAID_GAME\"]"
 msgid "Paid Game"
@@ -379,6 +366,10 @@ msgctxt "[\"DETAIL-MORE_FROM_DEVELOPER\"]"
 msgid "More From Developer"
 msgstr "Ещё от разработчика"
 
+msgctxt "[\"DETAIL-MORE_FROM\"]"
+msgid "More From {0}"
+msgstr "Ещё от {0}"
+
 msgctxt "[\"DETAIL-COMMENTS\"]"
 msgid "Comments"
 msgstr "Комментарии"
@@ -417,7 +408,7 @@ msgstr "{0} Приложение"
 
 msgctxt "[\"DETAIL-VERSION_LOAD_MORE\"]"
 msgid "Load more"
-msgstr "Загрузить больше"
+msgstr "Показать"
 
 msgctxt "[\"DETAIL-VERSION_MORE\"]"
 msgid "More..."
@@ -467,9 +458,25 @@ msgctxt "[\"DETAIL_DOWNLOAD-HOW_TO_INSTALL_APK\"]"
 msgid "How to install APK / XAPK file"
 msgstr "Как установить APK / XAPK файлы"
 
+msgctxt "[\"VERSION-PREVIOUS\"]"
+msgid "Previous versions"
+msgstr "Предыдущие версии"
+
+msgctxt "[\"VERSION-VERSIONS\"]"
+msgid "Versions"
+msgstr "Versions"
+
+msgctxt "[\"VERSION-REQUIRES_ANDROID\"]"
+msgid "Requires Android"
+msgstr "Требуемая версия Android"
+
 msgctxt "[\"COMMENT-REPORT\"]"
 msgid "Report"
-msgstr "Пожаловаться"
+msgstr "доклад"
+
+msgctxt "[\"COMMENT-COLLAPSED\"]"
+msgid "comment collapsed"
+msgstr "comment collapsed"
 
 msgctxt "[\"COMMENT-POST\"]"
 msgid "Post"
@@ -492,36 +499,28 @@ msgid "Email"
 msgstr "Эл. адрес"
 
 msgctxt "[\"COMMENT-SORT_BY_NEWEST\"]"
-msgid "Sort by newest"
-msgstr "Новое в начале"
+msgid "Newest"
+msgstr "новейший"
 
 msgctxt "[\"COMMENT-SORT_BY_NEW\"]"
-msgid "Sort by newest"
+msgid "Newest"
 msgstr "Новое в начале"
 
 msgctxt "[\"COMMENT-SORT_BY_OLDEST\"]"
-msgid "Sort by oldest"
+msgid "Oldest"
 msgstr "Старое в начале"
 
 msgctxt "[\"COMMENT-SORT_BY_BEST\"]"
-msgid "Sort by best"
+msgid "Best"
 msgstr "Лучшее в начале"
 
 msgctxt "[\"COMMENT-SORT_BY_MOST_RECENT\"]"
-msgid "Sort by most recent"
-msgstr "Сортировать по последним"
+msgid "Most Recent"
+msgstr "Самые последние"
 
-msgctxt "[\"COMMENT-NEWEST\"]"
-msgid "Newest"
-msgstr "Новые"
-
-msgctxt "[\"COMMENT-OLDEST\"]"
-msgid "Oldest"
-msgstr "Старые"
-
-msgctxt "[\"COMMENT-BEST\"]"
-msgid "Best"
-msgstr "Лучшие"
+msgctxt "[\"COMMENT-SORT_BY_DEFAULT\"]"
+msgid "Sort by default"
+msgstr "Сортировка по умолчанию"
 
 msgctxt "[\"COMMENT-RATING_REQUIRED\"]"
 msgid "Rating required"
@@ -543,9 +542,9 @@ msgctxt "[\"COMMENT-COMMENTS_CANT_BE_BLANK\"]"
 msgid "Comments can't be blank."
 msgstr "Комментарий не может быть пустым."
 
-msgctxt "[\"COMMENT-OR_POST_AS_GUEST\"]"
-msgid "Or post as guest"
-msgstr "Или разместить в качестве гостя"
+msgctxt "[\"COMMENT-POST_AS_GUEST\"]"
+msgid "Post As a Guest"
+msgstr "Опубликовать в качестве гостя"
 
 msgctxt "[\"COMMENT-LOGOUT\"]"
 msgid "Logout"
@@ -559,47 +558,53 @@ msgctxt "[\"COMMENT-TO_BE_FIRST\"]"
 msgid "Be the first to comment."
 msgstr "Оставьте первый комментарий."
 
+msgctxt "[\"COMMENT-VOTE\"]"
+msgid "Vote"
+msgstr "Голос"
+
 msgctxt "[\"COMMENT-ERR_QUICK_LOGIN\"]"
 msgid "Quick login error, please try again."
-msgstr "Ошибка быстрого входа, повторите попытку."
+msgstr "Quick login error, please try again."
 
 msgctxt "[\"COMMENT-ERR_EMAIL_NAME\"]"
 msgid "Incorrect mail or name"
-msgstr "Неправильная почта или имя"
+msgstr "Incorrect mail or name"
 
 msgctxt "[\"COMMENT-ERR_DISCUSSION\"]"
 msgid "Incorrect in discussion"
-msgstr "Неверно в обсуждении"
+msgstr "Incorrect in discussion"
 
 msgctxt "[\"COMMENT-ERR_RATE\"]"
 msgid "Vote failed, repeated"
-msgstr "Голосование неудачно, повторение"
+msgstr "Vote failed, repeated"
 
 msgctxt "[\"COMMENT-ERR_SENSITIVE_WORD\"]"
 msgid "Defeat,your post contains sensitive terms"
-msgstr "Поразитесь, ваше сообщение содержит чувствительные термины"
+msgstr "Defeat,your post contains sensitive terms"
 
 msgctxt "[\"COMMENT-ERR_SENSITIVE_WORD_AUDIT\"]"
 msgid "Your post contains sensitive terms and is pending approval by an admin"
-msgstr ""
-"Ваше сообщение содержит чувствительные термины и ожидает утверждения "
-"администратором"
+msgstr "Your post contains sensitive terms and is pending approval by an admin"
 
 msgctxt "[\"COMMENT-ERR_LINK_AUDIT\"]"
 msgid "Your post contains link and is pending approval by an admin"
-msgstr "Ваше сообщение содержит ссылку и ожидает утверждения администратором"
+msgstr "Your post contains link and is pending approval by an admin"
 
 msgctxt "[\"COMMENT-ERR_FORBIDDEN\"]"
 msgid "Comment forbidden"
-msgstr "Комментарий запрещен"
+msgstr "Comment forbidden"
 
 msgctxt "[\"COMMENT-ERR_FAILURE\"]"
 msgid "Comment unknown"
-msgstr "Комментарий неизвестен"
+msgstr "Comment unknown"
 
 msgctxt "[\"COMMENT-ERR_INVALID_PARAMETER\"]"
 msgid "Invalid comment parameter"
-msgstr "Недопустимый параметр комментария"
+msgstr "Invalid comment parameter"
+
+msgctxt "[\"COMMENT-ERR_INVALID_VIDEO_URL\"]"
+msgid "Invalid Video URL"
+msgstr "Invalid Video URL"
 
 msgctxt "[\"COMMENT-DELETE\"]"
 msgid "Yes,delete it!"
@@ -616,6 +621,10 @@ msgstr "Удалить"
 msgctxt "[\"COMMENT-ARE_YOU_SURE\"]"
 msgid "Are you sure?"
 msgstr "Вы уверены?"
+
+msgctxt "[\"COMMENT-LOADING\"]"
+msgid "Comment Loading..."
+msgstr "Комментарий Загрузка..."
 
 msgctxt "[\"USER-ACCOUNT_EXIST\"]"
 msgid "The username is already in use."
@@ -656,6 +665,50 @@ msgstr "женский"
 msgctxt "[\"USER-MALE\"]"
 msgid "Male"
 msgstr "мужчина"
+
+msgctxt "[\"USER-USER_LOGIN\"]"
+msgid "User Login"
+msgstr "Логин пользователя"
+
+msgctxt "[\"USER-USERNAME\"]"
+msgid "Username"
+msgstr "Имя пользователя"
+
+msgctxt "[\"USER-PASSWORD\"]"
+msgid "Password"
+msgstr "пароль"
+
+msgctxt "[\"USER-NEW_USER_REGISTRATION\"]"
+msgid "New User Registration"
+msgstr "Регистрация нового пользователя"
+
+msgctxt "[\"USER-SIGN_IN_BTN\"]"
+msgid "SIGN IN"
+msgstr "ВОЙТИ В СИСТЕМУ"
+
+msgctxt "[\"USER-SIGN_IN\"]"
+msgid "Sign In"
+msgstr "Войти в систему"
+
+msgctxt "[\"USER-SIGN_IN_WITH\"]"
+msgid "Or sign in with"
+msgstr "Или войдите с помощью"
+
+msgctxt "[\"USER-SIGN_UP_BTN\"]"
+msgid "SIGN UP"
+msgstr "ЗАРЕГИСТРИРОВАТЬСЯ"
+
+msgctxt "[\"USER-SIGN_UP\"]"
+msgid "Sign Up"
+msgstr "Зарегистрироваться"
+
+msgctxt "[\"USER-CONFIRM_PASSWORD\"]"
+msgid "Confirm Password"
+msgstr "Подтвердите Пароль"
+
+msgctxt "[\"USER-TERMS_SERVICE\"]"
+msgid "By signing up you agree to our <a href='/terms-service.html' target='_blank'>terms of service</a>"
+msgstr "Регистрируясь, вы принимаете наши <a href='/terms-service.html' target='_blank'>условия предоставления услуг</a>"
 
 msgctxt "[\"REGION_DOWN-TITLE\"]"
 msgid "Region free APK download"
@@ -775,7 +828,7 @@ msgstr "Похоже, что страница, которую вы ищете б
 
 msgctxt "[\"COPYRIGHT\"]"
 msgid "Copyright © 2014-2017 APKPure. All rights reserved."
-msgstr "Авторские права © 2014-2017 APKPure. Все права защищены."
+msgstr "Авторские права © 2014-2017 APKPure. Все права защищены. Android является торговой маркой компании Google Inc."
 
 msgctxt "[\"COPYRIGHT_MOBILE\"]"
 msgid "APKPure.com © 2014-2017"
@@ -883,7 +936,7 @@ msgstr "ЛУЧШИЕ ИГРЫ ДЛЯ ANDROID"
 
 msgctxt "[\"FOOTER-TRANSLATE\"]"
 msgid "Help translate APKPure"
-msgstr "Помочь перевести APKPure"
+msgstr "Перевести APKPure"
 
 msgctxt "[\"FOOTER-DEVELOPER\"]"
 msgid "Submit Your App"
@@ -891,7 +944,7 @@ msgstr "Разработчики"
 
 msgctxt "[\"FOOTER-COOPERATION\"]"
 msgid "Business Cooperation"
-msgstr "Деловое сотрудничество"
+msgstr "Business Cooperation"
 
 msgctxt "[\"FOOTER-XAPK\"]"
 msgid "XAPK"
@@ -899,7 +952,7 @@ msgstr "XAPK"
 
 msgctxt "[\"FOOTER-REPORT_ABUSE\"]"
 msgid "Report abuse"
-msgstr "Сообщить о нарушении"
+msgstr "Report abuse"
 
 msgctxt "[\"MARKET-QR\"]"
 msgid "Download<br>APKPure App"
@@ -1039,9 +1092,7 @@ msgstr "Ой! Измените свой регион и попробуйте с�
 
 msgctxt "[\"error\"][\"DOWN-LimitedDevice\"]"
 msgid "Sorry, download failed, the APK does not support our device."
-msgstr ""
-"Извините, загрузка не удалась, приложение не поддерживается вашим "
-"устройством."
+msgstr "Извините, загрузка не удалась, приложение не поддерживается нашим устройством."
 
 msgctxt "[\"error\"][\"DOWN-UnknownError\"]"
 msgid "Download failed because of an unknown error. We will fix this problem soon."
@@ -1059,9 +1110,21 @@ msgctxt "[\"error\"][\"DOWN-RunOutOfDevice\"]"
 msgid "Download failed, please try again in 5 minutes."
 msgstr "Загрузка не удалась, попробуйте еще раз через 5 минут."
 
+msgctxt "[\"tip\"][\"SHORT_NAME\"]"
+msgid "{0}"
+msgstr "{0}"
+
+msgctxt "[\"tip\"][\"VERSION\"]"
+msgid "Download {app_short_name} v{version_name} for android"
+msgstr "Загрузить {app_short_name} v {version_name} для Android"
+
 msgctxt "[\"tip\"][\"ICON\"]"
 msgid "{0} icon"
 msgstr "{0} иконка"
+
+msgctxt "[\"tip\"][\"PREVIOUS_VERSIONS\"]"
+msgid "{0} Previous Versions"
+msgstr "{0} Предыдущие версии"
 
 msgctxt "[\"tip\"][\"LIST_ICON\"]"
 msgid "{0} APK"
@@ -1102,6 +1165,10 @@ msgstr "{0} постер"
 msgctxt "[\"tip\"][\"SCREEN\"]"
 msgid "{0} apk screenshot"
 msgstr "{0} скриншот приложения"
+
+msgctxt "[\"tip\"][\"SCREEN_INDEX\"]"
+msgid "{0} screenshot {1}"
+msgstr "{0} скриншот {1}"
 
 msgctxt "[\"tip\"][\"CATEGORY_GAME\"]"
 msgid "Download more {0} games"
@@ -1189,7 +1256,7 @@ msgstr "Скрыть"
 
 msgctxt "[\"js\"][\"LOADING\"]"
 msgid "loading..."
-msgstr "загрузка..."
+msgstr "загружается..."
 
 msgctxt "[\"js\"][\"DOWNLOAD_APK\"]"
 msgid "Download APK"
@@ -1205,7 +1272,7 @@ msgstr "Заливается..."
 
 msgctxt "[\"js\"][\"VALIDATING\"]"
 msgid "Validating..."
-msgstr "Проверка..."
+msgstr "Проверяется..."
 
 msgctxt "[\"js\"][\"FILE_UPLOAD_FAILED\"]"
 msgid "File upload failed!"
@@ -1213,7 +1280,27 @@ msgstr "Ошибка заливки файла!"
 
 msgctxt "[\"js\"][\"CANCEL\"]"
 msgid "Cancel"
-msgstr "Oтмена"
+msgstr "Oтменить"
+
+msgctxt "[\"js\"][\"USER-PASSWORD_NOT_MATCH\"]"
+msgid "Passwords do not match"
+msgstr "Пароли не совпадают"
+
+msgctxt "[\"js\"][\"USER-PASSWORD_MUST\"]"
+msgid "Password must be 6-32 characters long"
+msgstr "Пароль должен содержать от 6 до 32 символов"
+
+msgctxt "[\"js\"][\"USER-USERNAME_MUST\"]"
+msgid "Username must be 1-20 characters long and special characters are not allowed."
+msgstr "Имя пользователя должно содержать от 1 до 20 символов, а специальные символы - запрещены."
+
+msgctxt "[\"js\"][\"USER-INCORRECT_ACCOUNT\"]"
+msgid "The username you entered is invalid."
+msgstr "Введенное вами имя пользователя недействительно."
+
+msgctxt "[\"js\"][\"USER-INCORRECT_PASSWORD\"]"
+msgid "The password you entered is invalid."
+msgstr "Указан неверный пароль."
 
 msgctxt "[\"js\"][\"COMMENT-DELETE\"]"
 msgid "Yes,delete it!"
@@ -1226,6 +1313,10 @@ msgstr "Удаляется!"
 msgctxt "[\"js\"][\"COMMENT-ARE_YOU_SURE\"]"
 msgid "Are you sure?"
 msgstr "Вы уверены?"
+
+msgctxt "[\"js\"][\"COMMENT-VOTE\"]"
+msgid "Vote"
+msgstr "Голос"
 
 msgctxt "[\"meta\"][\"Index\"][\"title\"]"
 msgid "Download APK free online downloader | APKPure.com"
@@ -1249,9 +1340,31 @@ msgstr "{app_name} apk, скачать {app_name} apk, скачать {app_name}
 
 msgctxt "[\"meta\"][\"Details\"][\"description\"]"
 msgid "Download {app_short_name} apk {version_name} and all version history for Android. {app_short_description}"
-msgstr ""
-"Скачать {app_short_name} apk {version_name} и предыдущие версии для Android. "
-"{app_short_description}"
+msgstr "Скачать {app_short_name} apk {version_name} и предыдущие версии для Андроид. {app_short_description}"
+
+msgctxt "[\"meta\"][\"Details_new\"][\"title\"]"
+msgid "{app_short_name} for Android - APK Download"
+msgstr "{app_short_name} for Android - APK Download"
+
+msgctxt "[\"meta\"][\"Details_new\"][\"keywords\"]"
+msgid "{app_short_name}, {app_short_name} for android, {app_short_name} android download, {app_short_name} apk, {app_short_name} android apk, {app_short_name} download"
+msgstr "{app_short_name}, {app_short_name} for android, {app_short_name} android download, {app_short_name} apk, {app_short_name} android apk, {app_short_name} download"
+
+msgctxt "[\"meta\"][\"Details_new\"][\"description\"]"
+msgid "Download {app_short_name} apk {version_name} for Android. {app_short_description}"
+msgstr "Download {app_short_name} apk {version_name} for Android. {app_short_description}"
+
+msgctxt "[\"meta\"][\"Versions\"][\"title\"]"
+msgid "{app_short_name} update version history for Android - APK Download"
+msgstr "{app_short_name} update version history for Android - APK Download"
+
+msgctxt "[\"meta\"][\"Versions\"][\"keywords\"]"
+msgid "{app_short_name}, download, old, version history, apk, release date, changelog"
+msgstr "{app_short_name}, download, old, version history, apk, release date, changelog"
+
+msgctxt "[\"meta\"][\"Versions\"][\"description\"]"
+msgid "Download {app_short_name} old versions Android APK or update to {app_short_name} latest version. Review {app_short_name} release date, changelog and more."
+msgstr "Download {app_short_name} old versions Android APK or update to {app_short_name} latest version. Review {app_short_name} release date, changelog and more."
 
 msgctxt "[\"meta\"][\"Details_download\"][\"title\"]"
 msgid "Download {app_name} {version_name} APK | APKPure.com"
@@ -1264,6 +1377,26 @@ msgstr "{app_name} apk, скачать {app_name} apk, скачать {app_name}
 msgctxt "[\"meta\"][\"Details_download\"][\"description\"]"
 msgid "{app_name} {version_name} APK Download"
 msgstr "Скачать {app_name} {version_name} APK"
+
+msgctxt "[\"meta\"][\"Details_download_new\"][\"title\"]"
+msgid "Download {app_short_name} latest {version_name} Android APK"
+msgstr "Download {app_short_name} latest {version_name} Android APK"
+
+msgctxt "[\"meta\"][\"Details_download_new\"][\"title_old\"]"
+msgid "Download {app_short_name} {version_name} Android APK"
+msgstr "Download {app_short_name} {version_name} Android APK"
+
+msgctxt "[\"meta\"][\"Details_download_new\"][\"keywords\"]"
+msgid "{app_short_name}, android, apk, download, {app_short_name} android, {app_short_name} download"
+msgstr "{app_short_name}, android, apk, download, {app_short_name} android, {app_short_name} download"
+
+msgctxt "[\"meta\"][\"Details_download_new\"][\"description\"]"
+msgid "{app_short_name} Android latest {version_name} APK Download and Install. {app_short_description}"
+msgstr "{app_short_name} Android latest {version_name} APK Download and Install. {app_short_description}"
+
+msgctxt "[\"meta\"][\"Details_download_new\"][\"description_old\"]"
+msgid "{app_short_name} Android {version_name} APK Download and Install. {app_short_description}"
+msgstr "{app_short_name} Android {version_name} APK Download and Install. {app_short_description}"
 
 msgctxt "[\"meta\"][\"Category_xapk\"][\"title\"]"
 msgid "XAPK ( apk with obb file) {0}.apk for Android download"
@@ -1391,7 +1524,7 @@ msgstr "Региононезависимый APK скачать ежедневн
 
 msgctxt "[\"meta\"][\"Download\"][\"keywords\"]"
 msgid "apk download, region free apk download"
-msgstr "скачать apk, область бесплатного скачивания apk"
+msgstr " "
 
 msgctxt "[\"meta\"][\"Download\"][\"description\"]"
 msgid "download free apps APK for Android phone and tablet."
@@ -1427,11 +1560,11 @@ msgstr "Тема | APKPure.com"
 
 msgctxt "[\"meta\"][\"Topics\"][\"keywords\"]"
 msgid "Topics"
-msgstr "Топы"
+msgstr "Тема"
 
 msgctxt "[\"meta\"][\"Topics\"][\"description\"]"
 msgid "Topics"
-msgstr "Топы"
+msgstr "Тема"
 
 msgctxt "[\"meta\"][\"Topic\"][\"title\"]"
 msgid "{0} | APKPure.com"
@@ -1446,136 +1579,13 @@ msgid "{0}"
 msgstr "{0}"
 
 msgctxt "[\"meta\"][\"Similar\"][\"title\"]"
-msgid "Top best alternative {app_category} {app_type} like {app_name} for Android 2017-2018 | APKPure.com"
-msgstr ""
-"Лучшая альтернатива {app_category} {app_type} такая как {app_name} для "
-"Android 2017-2018 | APKPure.com"
+msgid "{app_type} Like {app_short_name}"
+msgstr "{app_type} Like {app_short_name}"
 
 msgctxt "[\"meta\"][\"Similar\"][\"keywords\"]"
-msgid "{app_name} alternative, {app_name} similar {app_type}, {app_category} {app_type} like {app_name}"
-msgstr ""
-"{app_name} альтернатива, {app_name} аналогичное {app_type}, {app_category} "
-"{app_type} такое как {app_name}"
+msgid "{app_short_name} alternative, {app_short_name} similar {app_type}, {app_category} {app_type} like {app_short_name}"
+msgstr "{app_short_name} alternative, {app_short_name} similar {app_type}, {app_category} {app_type} like {app_short_name}"
 
 msgctxt "[\"meta\"][\"Similar\"][\"description\"]"
-msgid "Popular alternative {app_type} to {app_name} for Android, Android tablet and more. Download top {similar_count} {app_type} like {app_name}, all {app_type} suggested by APKPure."
-msgstr ""
-"Популярная альтернатива {app_type} для {app_name} для Android, Android "
-"планшета и больше. Загрузить топ {similar_count} {app_type} такое как "
-"{app_name}, все {app_type} предложено APKPure."
-
-msgctxt "[\"COMMENT-SORT_BY_NEWEST\"]"
-msgid "Newest"
-msgstr "Новые"
-
-msgctxt "[\"COMMENT-SORT_BY_NEW\"]"
-msgid "Newest"
-msgstr "Новые"
-
-msgctxt "[\"COMMENT-SORT_BY_OLDEST\"]"
-msgid "Oldest"
-msgstr "Старые"
-
-msgctxt "[\"COMMENT-SORT_BY_BEST\"]"
-msgid "Best"
-msgstr "Лучшие"
-
-msgctxt "[\"COMMENT-SORT_BY_MOST_RECENT\"]"
-msgid "Most Recent"
-msgstr "Самые последние"
-
-msgctxt "[\"COMMENT-SORT_BY_DEFAULT\"]"
-msgid "Sort by default"
-msgstr "Сортировать по умолчанию"
-
-msgctxt "[\"COMMENT-POST_AS_GUEST\"]"
-msgid "Post As a Guest"
-msgstr "Опубликовать в качестве гостя"
-
-msgctxt "[\"COMMENT-VOTE\"]"
-msgid "Vote"
-msgstr "Голосовать"
-
-msgctxt "[\"COMMENT-ERR_INVALID_VIDEO_URL\"]"
-msgid "Invalid Video URL"
-msgstr "Недопустимый URL-адрес видео"
-
-msgctxt "[\"COMMENT-LOADING\"]"
-msgid "Comment Loading..."
-msgstr "Загрузка комментариев..."
-
-msgctxt "[\"COMMENT-COLLAPSED\"]"
-msgid "comment collapsed"
-msgstr "Комментарий свёрнут"
-
-msgctxt "[\"USER-USER_LOGIN\"]"
-msgid "User Login"
-msgstr "Вход пользователя"
-
-msgctxt "[\"USER-USERNAME\"]"
-msgid "Username"
-msgstr "Имя пользователя"
-
-msgctxt "[\"USER-PASSWORD\"]"
-msgid "Password"
-msgstr "Пароль"
-
-msgctxt "[\"USER-NEW_USER_REGISTRATION\"]"
-msgid "New User Registration"
-msgstr "Регистрация нового пользователя"
-
-msgctxt "[\"USER-SIGN_IN_BTN\"]"
-msgid "SIGN IN"
-msgstr "ВОЙТИ"
-
-msgctxt "[\"USER-SIGN_IN\"]"
-msgid "Sign In"
-msgstr "Войти"
-
-msgctxt "[\"USER-SIGN_IN_WITH\"]"
-msgid "Or sign in with"
-msgstr "Или войдите с"
-
-msgctxt "[\"USER-SIGN_UP_BTN\"]"
-msgid "SIGN UP"
-msgstr "РЕГИСТРАЦИЯ"
-
-msgctxt "[\"USER-SIGN_UP\"]"
-msgid "Sign Up"
-msgstr "Регистрация"
-
-msgctxt "[\"USER-CONFIRM_PASSWORD\"]"
-msgid "Confirm Password"
-msgstr "Подтвердите пароль"
-
-msgctxt "[\"USER-TERMS_SERVICE\"]"
-msgid "By signing up you agree to our <a href='/terms-service.html' target='_blank'>terms of service</a>"
-msgstr ""
-"Зарегистрировавшись, вы соглашаетесь с нашими <a href='/terms-service.html' "
-"target='_blank'>условиями использования</a>"
-
-msgctxt "[\"js\"][\"USER-PASSWORD_NOT_MATCH\"]"
-msgid "Passwords do not match"
-msgstr "Пароли не совпадают"
-
-msgctxt "[\"js\"][\"USER-PASSWORD_MUST\"]"
-msgid "Password must be 6-32 characters long"
-msgstr "Пароль должен иметь длину 6-32 символов"
-
-msgctxt "[\"js\"][\"USER-USERNAME_MUST\"]"
-msgid "Username must be 1-20 characters long and special characters are not allowed."
-msgstr ""
-"Длина имени пользователя не должна превышать 1-20 символов, а специальные "
-"символы не разрешены."
-
-msgctxt "[\"js\"][\"USER-INCORRECT_ACCOUNT\"]"
-msgid "The username you entered is invalid."
-msgstr "Введено недопустимое имя пользователя."
-
-msgctxt "[\"js\"][\"USER-INCORRECT_PASSWORD\"]"
-msgid "The password you entered is invalid."
-msgstr "Введён неправильный пароль."
-
-msgctxt "[\"js\"][\"COMMENT-VOTE\"]"
-msgid "Vote"
-msgstr "Голосовать"
+msgid "Popular alternative {app_type} to {app_short_name} for Android, Android tablet and more. Download top {similar_count} {app_type} like {app_short_name}, all {app_type} suggested by APKPure."
+msgstr "Popular alternative {app_type} to {app_short_name} for Android, Android tablet and more. Download top {similar_count} {app_type} like {app_short_name}, all {app_type} suggested by APKPure."

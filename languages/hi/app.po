@@ -250,6 +250,10 @@ msgctxt "[\"CANCEL\"]"
 msgid "Cancel"
 msgstr "रद्द करना"
 
+msgctxt "[\"UPDATE\"]"
+msgid "Update"
+msgstr "अद्यतन"
+
 msgctxt "[\"DETAIL-PAID_GAME\"]"
 msgid "Paid Game"
 msgstr "भुगतान की गेम"
@@ -362,6 +366,10 @@ msgctxt "[\"DETAIL-MORE_FROM_DEVELOPER\"]"
 msgid "More From Developer"
 msgstr "विकासकार से अधिक"
 
+msgctxt "[\"DETAIL-MORE_FROM\"]"
+msgid "More From {0}"
+msgstr "{0} से अधिक"
+
 msgctxt "[\"DETAIL-COMMENTS\"]"
 msgid "Comments"
 msgstr "टिप्पणियाँ"
@@ -450,9 +458,25 @@ msgctxt "[\"DETAIL_DOWNLOAD-HOW_TO_INSTALL_APK\"]"
 msgid "How to install APK / XAPK file"
 msgstr "APK / XAPK फाइल कैसे इन्स्टॉल करें"
 
+msgctxt "[\"VERSION-PREVIOUS\"]"
+msgid "Previous versions"
+msgstr "पिछला संस्करण"
+
+msgctxt "[\"VERSION-VERSIONS\"]"
+msgid "Versions"
+msgstr "Versions"
+
+msgctxt "[\"VERSION-REQUIRES_ANDROID\"]"
+msgid "Requires Android"
+msgstr "Android आवश्यक है"
+
 msgctxt "[\"COMMENT-REPORT\"]"
 msgid "Report"
 msgstr "रिपोर्ट"
+
+msgctxt "[\"COMMENT-COLLAPSED\"]"
+msgid "comment collapsed"
+msgstr "comment collapsed"
 
 msgctxt "[\"COMMENT-POST\"]"
 msgid "Post"
@@ -475,36 +499,28 @@ msgid "Email"
 msgstr "ईमेल"
 
 msgctxt "[\"COMMENT-SORT_BY_NEWEST\"]"
-msgid "Sort by newest"
-msgstr "द्वारा क्रमबद्ध नवीनतम"
-
-msgctxt "[\"COMMENT-SORT_BY_NEW\"]"
-msgid "Sort by newest"
-msgstr "द्वारा क्रमबद्ध नवीनतम"
-
-msgctxt "[\"COMMENT-SORT_BY_OLDEST\"]"
-msgid "Sort by oldest"
-msgstr "द्वारा क्रमबद्ध प्राचीनतम"
-
-msgctxt "[\"COMMENT-SORT_BY_BEST\"]"
-msgid "Sort by best"
-msgstr "द्वारा क्रमबद्ध सबसे अच्छा"
-
-msgctxt "[\"COMMENT-SORT_BY_MOST_RECENT\"]"
-msgid "Sort by most recent"
-msgstr "सबसे हालिया द्वारा क्रमबद्ध करें"
-
-msgctxt "[\"COMMENT-NEWEST\"]"
 msgid "Newest"
 msgstr "नवीनतम"
 
-msgctxt "[\"COMMENT-OLDEST\"]"
-msgid "Oldest"
-msgstr "पुराना"
+msgctxt "[\"COMMENT-SORT_BY_NEW\"]"
+msgid "Newest"
+msgstr "द्वारा क्रमबद्ध नवीनतम"
 
-msgctxt "[\"COMMENT-BEST\"]"
+msgctxt "[\"COMMENT-SORT_BY_OLDEST\"]"
+msgid "Oldest"
+msgstr "द्वारा क्रमबद्ध प्राचीनतम"
+
+msgctxt "[\"COMMENT-SORT_BY_BEST\"]"
 msgid "Best"
-msgstr "श्रेष्ठ"
+msgstr "द्वारा क्रमबद्ध सबसे अच्छा"
+
+msgctxt "[\"COMMENT-SORT_BY_MOST_RECENT\"]"
+msgid "Most Recent"
+msgstr "सबसे हाल का"
+
+msgctxt "[\"COMMENT-SORT_BY_DEFAULT\"]"
+msgid "Sort by default"
+msgstr "डिफ़ॉल्ट रूप से क्रमित करें"
 
 msgctxt "[\"COMMENT-RATING_REQUIRED\"]"
 msgid "Rating required"
@@ -526,9 +542,9 @@ msgctxt "[\"COMMENT-COMMENTS_CANT_BE_BLANK\"]"
 msgid "Comments can't be blank."
 msgstr "टिप्पणियाँ खाली नहीं हो सकता।"
 
-msgctxt "[\"COMMENT-OR_POST_AS_GUEST\"]"
-msgid "Or post as guest"
-msgstr "या अतिथि के रूप में पोस्ट"
+msgctxt "[\"COMMENT-POST_AS_GUEST\"]"
+msgid "Post As a Guest"
+msgstr "एक अतिथि के रूप में पोस्ट करें"
 
 msgctxt "[\"COMMENT-LOGOUT\"]"
 msgid "Logout"
@@ -541,6 +557,10 @@ msgstr "वेबसाइट"
 msgctxt "[\"COMMENT-TO_BE_FIRST\"]"
 msgid "Be the first to comment."
 msgstr "टिप्पणी करने वाला पहला व्यक्ति बनें।"
+
+msgctxt "[\"COMMENT-VOTE\"]"
+msgid "Vote"
+msgstr "वोट"
 
 msgctxt "[\"COMMENT-ERR_QUICK_LOGIN\"]"
 msgid "Quick login error, please try again."
@@ -582,6 +602,10 @@ msgctxt "[\"COMMENT-ERR_INVALID_PARAMETER\"]"
 msgid "Invalid comment parameter"
 msgstr "Invalid comment parameter"
 
+msgctxt "[\"COMMENT-ERR_INVALID_VIDEO_URL\"]"
+msgid "Invalid Video URL"
+msgstr "Invalid Video URL"
+
 msgctxt "[\"COMMENT-DELETE\"]"
 msgid "Yes,delete it!"
 msgstr "हाँ, इसे हटा!"
@@ -597,6 +621,10 @@ msgstr "हटाएं"
 msgctxt "[\"COMMENT-ARE_YOU_SURE\"]"
 msgid "Are you sure?"
 msgstr "तुम्हें यकीन है?"
+
+msgctxt "[\"COMMENT-LOADING\"]"
+msgid "Comment Loading..."
+msgstr "टिप्पणी लोड हो रहा है..."
 
 msgctxt "[\"USER-ACCOUNT_EXIST\"]"
 msgid "The username is already in use."
@@ -637,6 +665,50 @@ msgstr "महिला"
 msgctxt "[\"USER-MALE\"]"
 msgid "Male"
 msgstr "नर"
+
+msgctxt "[\"USER-USER_LOGIN\"]"
+msgid "User Login"
+msgstr "उपयोगकर्ता लॉगिन"
+
+msgctxt "[\"USER-USERNAME\"]"
+msgid "Username"
+msgstr "उपयोगकर्ता नाम"
+
+msgctxt "[\"USER-PASSWORD\"]"
+msgid "Password"
+msgstr "पासवर्ड"
+
+msgctxt "[\"USER-NEW_USER_REGISTRATION\"]"
+msgid "New User Registration"
+msgstr "नया उपयोगकर्ता पंजीकरण"
+
+msgctxt "[\"USER-SIGN_IN_BTN\"]"
+msgid "SIGN IN"
+msgstr "साइन इन करें"
+
+msgctxt "[\"USER-SIGN_IN\"]"
+msgid "Sign In"
+msgstr "साइन इन करें"
+
+msgctxt "[\"USER-SIGN_IN_WITH\"]"
+msgid "Or sign in with"
+msgstr "या इसके साथ साइन इन करें"
+
+msgctxt "[\"USER-SIGN_UP_BTN\"]"
+msgid "SIGN UP"
+msgstr "साइन अप करें"
+
+msgctxt "[\"USER-SIGN_UP\"]"
+msgid "Sign Up"
+msgstr "साइन अप करें"
+
+msgctxt "[\"USER-CONFIRM_PASSWORD\"]"
+msgid "Confirm Password"
+msgstr "पासवर्ड की पुष्टि कीजिये"
+
+msgctxt "[\"USER-TERMS_SERVICE\"]"
+msgid "By signing up you agree to our <a href='/terms-service.html' target='_blank'>terms of service</a>"
+msgstr "साइन अप करके आप हमारे <a href='/terms-service.html' target='_blank'> सेवा की शर्तों से सहमत हैं </a>"
 
 msgctxt "[\"REGION_DOWN-TITLE\"]"
 msgid "Region free APK download"
@@ -1038,9 +1110,21 @@ msgctxt "[\"error\"][\"DOWN-RunOutOfDevice\"]"
 msgid "Download failed, please try again in 5 minutes."
 msgstr "डाउनलोड नहीं हो पाई, कृपया 5 मिनट में दुबारा कोशिश करें।"
 
+msgctxt "[\"tip\"][\"SHORT_NAME\"]"
+msgid "{0}"
+msgstr "{0}"
+
+msgctxt "[\"tip\"][\"VERSION\"]"
+msgid "Download {app_short_name} v{version_name} for android"
+msgstr "एंड्रॉइड के लिए {app_short_name} वी {version_name} डाउनलोड करें"
+
 msgctxt "[\"tip\"][\"ICON\"]"
 msgid "{0} icon"
 msgstr "{0} आइकन"
+
+msgctxt "[\"tip\"][\"PREVIOUS_VERSIONS\"]"
+msgid "{0} Previous Versions"
+msgstr "{0} पिछला संस्करण"
 
 msgctxt "[\"tip\"][\"LIST_ICON\"]"
 msgid "{0} APK"
@@ -1081,6 +1165,10 @@ msgstr "{0} पोस्टर"
 msgctxt "[\"tip\"][\"SCREEN\"]"
 msgid "{0} apk screenshot"
 msgstr "{0} apk स्क्रीनशॉट"
+
+msgctxt "[\"tip\"][\"SCREEN_INDEX\"]"
+msgid "{0} screenshot {1}"
+msgstr "{0} स्क्रीनशॉट {1}"
 
 msgctxt "[\"tip\"][\"CATEGORY_GAME\"]"
 msgid "Download more {0} games"
@@ -1194,6 +1282,26 @@ msgctxt "[\"js\"][\"CANCEL\"]"
 msgid "Cancel"
 msgstr "रद्द करना"
 
+msgctxt "[\"js\"][\"USER-PASSWORD_NOT_MATCH\"]"
+msgid "Passwords do not match"
+msgstr "पासवर्ड मेल नहीं खाते"
+
+msgctxt "[\"js\"][\"USER-PASSWORD_MUST\"]"
+msgid "Password must be 6-32 characters long"
+msgstr "पासवर्ड 632 अक्षर लंबा होना चाहिए"
+
+msgctxt "[\"js\"][\"USER-USERNAME_MUST\"]"
+msgid "Username must be 1-20 characters long and special characters are not allowed."
+msgstr "उपयोगकर्ता नाम 1-20 वर्ण लंबा होना चाहिए और विशेष वर्णों की अनुमति नहीं है।"
+
+msgctxt "[\"js\"][\"USER-INCORRECT_ACCOUNT\"]"
+msgid "The username you entered is invalid."
+msgstr "आपके द्वारा दर्ज उपयोगकर्ता नाम अमान्य है"
+
+msgctxt "[\"js\"][\"USER-INCORRECT_PASSWORD\"]"
+msgid "The password you entered is invalid."
+msgstr "आपके द्वारा दर्ज किया गया पासवर्ड अमान्य है।"
+
 msgctxt "[\"js\"][\"COMMENT-DELETE\"]"
 msgid "Yes,delete it!"
 msgstr "हाँ, इसे हटा!"
@@ -1205,6 +1313,10 @@ msgstr "हटाए गए!"
 msgctxt "[\"js\"][\"COMMENT-ARE_YOU_SURE\"]"
 msgid "Are you sure?"
 msgstr "तुम्हें यकीन है?"
+
+msgctxt "[\"js\"][\"COMMENT-VOTE\"]"
+msgid "Vote"
+msgstr "वोट"
 
 msgctxt "[\"meta\"][\"Index\"][\"title\"]"
 msgid "Download APK free online downloader | APKPure.com"
@@ -1230,6 +1342,30 @@ msgctxt "[\"meta\"][\"Details\"][\"description\"]"
 msgid "Download {app_short_name} apk {version_name} and all version history for Android. {app_short_description}"
 msgstr "एंडरॉयड के लिए {app_short_name} apk {version_name} व पूरा संस्करण इतिहास डाउनलोड करें। {app_short_description}"
 
+msgctxt "[\"meta\"][\"Details_new\"][\"title\"]"
+msgid "{app_short_name} for Android - APK Download"
+msgstr "{app_short_name} for Android - APK Download"
+
+msgctxt "[\"meta\"][\"Details_new\"][\"keywords\"]"
+msgid "{app_short_name}, {app_short_name} for android, {app_short_name} android download, {app_short_name} apk, {app_short_name} android apk, {app_short_name} download"
+msgstr "{app_short_name}, {app_short_name} for android, {app_short_name} android download, {app_short_name} apk, {app_short_name} android apk, {app_short_name} download"
+
+msgctxt "[\"meta\"][\"Details_new\"][\"description\"]"
+msgid "Download {app_short_name} apk {version_name} for Android. {app_short_description}"
+msgstr "Download {app_short_name} apk {version_name} for Android. {app_short_description}"
+
+msgctxt "[\"meta\"][\"Versions\"][\"title\"]"
+msgid "{app_short_name} update version history for Android - APK Download"
+msgstr "{app_short_name} update version history for Android - APK Download"
+
+msgctxt "[\"meta\"][\"Versions\"][\"keywords\"]"
+msgid "{app_short_name}, download, old, version history, apk, release date, changelog"
+msgstr "{app_short_name}, download, old, version history, apk, release date, changelog"
+
+msgctxt "[\"meta\"][\"Versions\"][\"description\"]"
+msgid "Download {app_short_name} old versions Android APK or update to {app_short_name} latest version. Review {app_short_name} release date, changelog and more."
+msgstr "Download {app_short_name} old versions Android APK or update to {app_short_name} latest version. Review {app_short_name} release date, changelog and more."
+
 msgctxt "[\"meta\"][\"Details_download\"][\"title\"]"
 msgid "Download {app_name} {version_name} APK | APKPure.com"
 msgstr "{app_name} {version_name} APK डाउनलोड करें | APKPure.com"
@@ -1241,6 +1377,26 @@ msgstr "{app_name} apk, {app_name} apk डाउनलोड, {app_name} डा�
 msgctxt "[\"meta\"][\"Details_download\"][\"description\"]"
 msgid "{app_name} {version_name} APK Download"
 msgstr "{app_name} {version_name} APK डाउनलोड"
+
+msgctxt "[\"meta\"][\"Details_download_new\"][\"title\"]"
+msgid "Download {app_short_name} latest {version_name} Android APK"
+msgstr "Download {app_short_name} latest {version_name} Android APK"
+
+msgctxt "[\"meta\"][\"Details_download_new\"][\"title_old\"]"
+msgid "Download {app_short_name} {version_name} Android APK"
+msgstr "Download {app_short_name} {version_name} Android APK"
+
+msgctxt "[\"meta\"][\"Details_download_new\"][\"keywords\"]"
+msgid "{app_short_name}, android, apk, download, {app_short_name} android, {app_short_name} download"
+msgstr "{app_short_name}, android, apk, download, {app_short_name} android, {app_short_name} download"
+
+msgctxt "[\"meta\"][\"Details_download_new\"][\"description\"]"
+msgid "{app_short_name} Android latest {version_name} APK Download and Install. {app_short_description}"
+msgstr "{app_short_name} Android latest {version_name} APK Download and Install. {app_short_description}"
+
+msgctxt "[\"meta\"][\"Details_download_new\"][\"description_old\"]"
+msgid "{app_short_name} Android {version_name} APK Download and Install. {app_short_description}"
+msgstr "{app_short_name} Android {version_name} APK Download and Install. {app_short_description}"
 
 msgctxt "[\"meta\"][\"Category_xapk\"][\"title\"]"
 msgid "XAPK ( apk with obb file) {0}.apk for Android download"
@@ -1423,13 +1579,13 @@ msgid "{0}"
 msgstr "{0}"
 
 msgctxt "[\"meta\"][\"Similar\"][\"title\"]"
-msgid "Top best alternative {app_category} {app_type} like {app_name} for Android 2017-2018 | APKPure.com"
-msgstr "Top best alternative {app_category} {app_type} like {app_name} for Android 2017-2018 | APKPure.com"
+msgid "{app_type} Like {app_short_name}"
+msgstr "{app_type} Like {app_short_name}"
 
 msgctxt "[\"meta\"][\"Similar\"][\"keywords\"]"
-msgid "{app_name} alternative, {app_name} similar {app_type}, {app_category} {app_type} like {app_name}"
-msgstr "{app_name} alternative, {app_name} similar {app_type}, {app_category} {app_type} like {app_name}"
+msgid "{app_short_name} alternative, {app_short_name} similar {app_type}, {app_category} {app_type} like {app_short_name}"
+msgstr "{app_short_name} alternative, {app_short_name} similar {app_type}, {app_category} {app_type} like {app_short_name}"
 
 msgctxt "[\"meta\"][\"Similar\"][\"description\"]"
-msgid "Popular alternative {app_type} to {app_name} for Android, Android tablet and more. Download top {similar_count} {app_type} like {app_name}, all {app_type} suggested by APKPure."
-msgstr "Popular alternative {app_type} to {app_name} for Android, Android tablet and more. Download top {similar_count} {app_type} like {app_name}, all {app_type} suggested by APKPure."
+msgid "Popular alternative {app_type} to {app_short_name} for Android, Android tablet and more. Download top {similar_count} {app_type} like {app_short_name}, all {app_type} suggested by APKPure."
+msgstr "Popular alternative {app_type} to {app_short_name} for Android, Android tablet and more. Download top {similar_count} {app_type} like {app_short_name}, all {app_type} suggested by APKPure."

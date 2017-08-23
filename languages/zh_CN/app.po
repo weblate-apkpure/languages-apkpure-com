@@ -1,19 +1,3 @@
-msgid ""
-msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-06-20 07:21+0000\n"
-"PO-Revision-Date: 2017-07-26 04:10+0000\n"
-"Last-Translator: Jam G <z9979v@gmail.com>\n"
-"Language-Team: Chinese (Simplified) "
-"<https://translate.apkpure.com/projects/apkpure/apkpurecom/zh_Hans/>\n"
-"Language: zh_CN\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 2.14.1\n"
-
 msgctxt "[\"NAV-GAME\"]"
 msgid "GAMES"
 msgstr "游戏"
@@ -52,15 +36,15 @@ msgstr "XAPK 应用"
 
 msgctxt "[\"NAV-APK_INSTALL\"]"
 msgid "APK Install"
-msgstr "APK 安装"
+msgstr "APK 安装器"
 
 msgctxt "[\"NAV-APK_DOWNLOAD\"]"
 msgid "APK Download"
-msgstr "APK 下载"
+msgstr "APK 下载器"
 
 msgctxt "[\"NAV-APK_VERIFICATION\"]"
 msgid "APK Verification"
-msgstr "APK 校验"
+msgstr "APK 签名校验器"
 
 msgctxt "[\"NAV-APKPURE_APP\"]"
 msgid "APKPure App"
@@ -108,11 +92,11 @@ msgstr "XAPK"
 
 msgctxt "[\"XAPK-GAMES\"]"
 msgid "XAPK Games"
-msgstr "XAPK 游戏"
+msgstr "XAPK游戏"
 
 msgctxt "[\"XAPK-APPS\"]"
 msgid "XAPK Apps"
-msgstr "XAPK 应用"
+msgstr "XAPK应用"
 
 msgctxt "[\"HOME\"]"
 msgid "Home"
@@ -124,19 +108,19 @@ msgstr "排序方式"
 
 msgctxt "[\"HOT\"]"
 msgid "Hot"
-msgstr "热门"
+msgstr "最热门"
 
 msgctxt "[\"DOWNLOADS\"]"
 msgid "Downloads"
-msgstr "下载"
+msgstr "下载最多"
 
 msgctxt "[\"NEWEST\"]"
 msgid "Newest"
-msgstr "最新"
+msgstr "最近更新"
 
 msgctxt "[\"RATING\"]"
 msgid "Rating"
-msgstr "评分"
+msgstr "评级"
 
 msgctxt "[\"CATEGORY\"]"
 msgid "Category"
@@ -144,11 +128,11 @@ msgstr "分类"
 
 msgctxt "[\"CATEGORY_JOIN\"]"
 msgid "{app_category} {app_type}"
-msgstr "{app_category} {app_type}"
+msgstr "{app_category}{app_type}"
 
 msgctxt "[\"SHOW_MORE\"]"
 msgid "Show More"
-msgstr "显示更多"
+msgstr "更多"
 
 msgctxt "[\"SHOW_LESS\"]"
 msgid "Show less"
@@ -164,19 +148,19 @@ msgstr "开发者"
 
 msgctxt "[\"POPULAR_GAMES_IN_LAST_HOURS\"]"
 msgid "Popular Games In Last {0} Hours"
-msgstr "最近 {0} 小时的热门游戏"
+msgstr "{0} 小时热门游戏"
 
 msgctxt "[\"POPULAR_APPS_IN_LAST_HOURS\"]"
 msgid "Popular Apps In Last {0} Hours"
-msgstr "最近 {0} 小时的热门应用"
+msgstr "{0} 小时热门应用"
 
 msgctxt "[\"POPULAR_APPS_IN_TODAY\"]"
 msgid "Popular Apps In Today"
-msgstr "今日受欢迎的应用"
+msgstr "今日最受欢迎的应用"
 
 msgctxt "[\"POPULAR_GAMES_IN_TODAY\"]"
 msgid "Popular Games In Today"
-msgstr "今日受欢迎的游戏"
+msgstr "今日最受欢迎的游戏"
 
 msgctxt "[\"HOT_GAMES\"]"
 msgid "Hot Games"
@@ -192,15 +176,15 @@ msgstr "关闭"
 
 msgctxt "[\"COMMENTS\"]"
 msgid "Comments"
-msgstr "评论"
+msgstr "用户评论"
 
 msgctxt "[\"LATEST_UPDATE_GAMES\"]"
 msgid "Latest Update Games"
-msgstr "最近更新的游戏"
+msgstr "最近更新游戏"
 
 msgctxt "[\"LATEST_UPDATE_APPS\"]"
 msgid "Latest Update Apps"
-msgstr "最近更新的应用"
+msgstr "最近更新应用"
 
 msgctxt "[\"LATEST_UPDATE\"]"
 msgid "Latest Update"
@@ -208,11 +192,11 @@ msgstr "最近更新"
 
 msgctxt "[\"XAPK_IS_APK_WITH_OBB_DATA\"]"
 msgid "XAPK is APK with OBB data"
-msgstr "XAPK 是 包含数据包的 APK"
+msgstr "XAPK 包含数据包的 APK"
 
 msgctxt "[\"MOST_POPULAR_IN_TODAY\"]"
 msgid "Most Popular In Today"
-msgstr "今日最受欢迎"
+msgstr "今日最受欢迎的"
 
 msgctxt "[\"SIMILAR_OR_RELATED\"]"
 msgid "Similar Or Related"
@@ -265,6 +249,10 @@ msgstr "类似于 {0}"
 msgctxt "[\"CANCEL\"]"
 msgid "Cancel"
 msgstr "取消"
+
+msgctxt "[\"UPDATE\"]"
+msgid "Update"
+msgstr "更新"
 
 msgctxt "[\"DETAIL-PAID_GAME\"]"
 msgid "Paid Game"
@@ -378,6 +366,10 @@ msgctxt "[\"DETAIL-MORE_FROM_DEVELOPER\"]"
 msgid "More From Developer"
 msgstr "开发者其他应用"
 
+msgctxt "[\"DETAIL-MORE_FROM\"]"
+msgid "More From {0}"
+msgstr "{0}的其他应用"
+
 msgctxt "[\"DETAIL-COMMENTS\"]"
 msgid "Comments"
 msgstr "用户评论"
@@ -465,6 +457,18 @@ msgstr "请点我"
 msgctxt "[\"DETAIL_DOWNLOAD-HOW_TO_INSTALL_APK\"]"
 msgid "How to install APK / XAPK file"
 msgstr "如何安装 APK / XAPK 文件"
+
+msgctxt "[\"VERSION-PREVIOUS\"]"
+msgid "Previous versions"
+msgstr "历史版本"
+
+msgctxt "[\"VERSION-VERSIONS\"]"
+msgid "Versions"
+msgstr "所有版本"
+
+msgctxt "[\"VERSION-REQUIRES_ANDROID\"]"
+msgid "Requires Android"
+msgstr "Android系统版本要求"
 
 msgctxt "[\"COMMENT-REPORT\"]"
 msgid "Report"
@@ -932,7 +936,7 @@ msgstr "热门安卓游戏"
 
 msgctxt "[\"FOOTER-TRANSLATE\"]"
 msgid "Help translate APKPure"
-msgstr "帮助翻"
+msgstr "帮助翻译 APKPure"
 
 msgctxt "[\"FOOTER-DEVELOPER\"]"
 msgid "Submit Your App"
@@ -1106,9 +1110,21 @@ msgctxt "[\"error\"][\"DOWN-RunOutOfDevice\"]"
 msgid "Download failed, please try again in 5 minutes."
 msgstr "请求量过大，请5分钟后再试。"
 
+msgctxt "[\"tip\"][\"SHORT_NAME\"]"
+msgid "{0}"
+msgstr "{0}"
+
+msgctxt "[\"tip\"][\"VERSION\"]"
+msgid "Download {app_short_name} v{version_name} for android"
+msgstr "下载{app_short_name}安卓版 v {version_name}"
+
 msgctxt "[\"tip\"][\"ICON\"]"
 msgid "{0} icon"
 msgstr "{0} 图标"
+
+msgctxt "[\"tip\"][\"PREVIOUS_VERSIONS\"]"
+msgid "{0} Previous Versions"
+msgstr "{0}历史版本"
 
 msgctxt "[\"tip\"][\"LIST_ICON\"]"
 msgid "{0} APK"
@@ -1149,6 +1165,10 @@ msgstr "{0} 海报"
 msgctxt "[\"tip\"][\"SCREEN\"]"
 msgid "{0} apk screenshot"
 msgstr "{0} apk 截图"
+
+msgctxt "[\"tip\"][\"SCREEN_INDEX\"]"
+msgid "{0} screenshot {1}"
+msgstr "{0} 截图 {1}"
 
 msgctxt "[\"tip\"][\"CATEGORY_GAME\"]"
 msgid "Download more {0} games"
@@ -1322,6 +1342,30 @@ msgctxt "[\"meta\"][\"Details\"][\"description\"]"
 msgid "Download {app_short_name} apk {version_name} and all version history for Android. {app_short_description}"
 msgstr "{app_short_name} APK免费下载，{app_short_name}最新版安卓apk {version_name} 下载。{app_short_description}"
 
+msgctxt "[\"meta\"][\"Details_new\"][\"title\"]"
+msgid "{app_short_name} for Android - APK Download"
+msgstr "{app_short_name}安卓下载，安卓版APK | 免费下载"
+
+msgctxt "[\"meta\"][\"Details_new\"][\"keywords\"]"
+msgid "{app_short_name}, {app_short_name} for android, {app_short_name} android download, {app_short_name} apk, {app_short_name} android apk, {app_short_name} download"
+msgstr "{app_short_name}, {app_short_name}安卓版, {app_short_name}安卓下载, {app_short_name}apk, {app_short_name}安卓apk, {app_short_name}下载"
+
+msgctxt "[\"meta\"][\"Details_new\"][\"description\"]"
+msgid "Download {app_short_name} apk {version_name} for Android. {app_short_description}"
+msgstr "{app_short_name}安卓版{version_name}APK免费下载。{app_short_description}"
+
+msgctxt "[\"meta\"][\"Versions\"][\"title\"]"
+msgid "{app_short_name} update version history for Android - APK Download"
+msgstr "{app_short_name}历史更新版本，{app_short_name}安卓版下载 - {app_short_name}APK安装包下载"
+
+msgctxt "[\"meta\"][\"Versions\"][\"keywords\"]"
+msgid "{app_short_name}, download, old, version history, apk, release date, changelog"
+msgstr "{app_short_name}，下载，旧版本，历史版本，apk, 发布日期，更新记录"
+
+msgctxt "[\"meta\"][\"Versions\"][\"description\"]"
+msgid "Download {app_short_name} old versions Android APK or update to {app_short_name} latest version. Review {app_short_name} release date, changelog and more."
+msgstr "下载{app_short_name}安卓老版本apk，{app_short_name}最新版更新，查看{app_short_name}发布日期，改动历史信息等。"
+
 msgctxt "[\"meta\"][\"Details_download\"][\"title\"]"
 msgid "Download {app_name} {version_name} APK | APKPure.com"
 msgstr "下载 {app_name} {version_name} APK | APKPure应用市场"
@@ -1333,6 +1377,26 @@ msgstr "{app_name} apk, {app_name} apk 下载, {app_name} 下载"
 msgctxt "[\"meta\"][\"Details_download\"][\"description\"]"
 msgid "{app_name} {version_name} APK Download"
 msgstr "{app_name} {version_name} APK 下载"
+
+msgctxt "[\"meta\"][\"Details_download_new\"][\"title\"]"
+msgid "Download {app_short_name} latest {version_name} Android APK"
+msgstr "{app_short_name}免费下载 | 下载{app_short_name}最新{version_name}安卓版APK"
+
+msgctxt "[\"meta\"][\"Details_download_new\"][\"title_old\"]"
+msgid "Download {app_short_name} {version_name} Android APK"
+msgstr "{app_short_name}免费下载 | 下载{app_short_name}{version_name}安卓版APK"
+
+msgctxt "[\"meta\"][\"Details_download_new\"][\"keywords\"]"
+msgid "{app_short_name}, android, apk, download, {app_short_name} android, {app_short_name} download"
+msgstr "{app_short_name}, 安卓, apk, download, {app_short_name} 安卓版, {app_short_name}下载"
+
+msgctxt "[\"meta\"][\"Details_download_new\"][\"description\"]"
+msgid "{app_short_name} Android latest {version_name} APK Download and Install. {app_short_description}"
+msgstr "{app_short_name}下载，{app_short_name}安卓最新版{version_name}APK免费下载。{app_short_description}"
+
+msgctxt "[\"meta\"][\"Details_download_new\"][\"description_old\"]"
+msgid "{app_short_name} Android {version_name} APK Download and Install. {app_short_description}"
+msgstr "{app_short_name}下载，{app_short_name}安卓版{version_name}APK免费下载。{app_short_description}"
 
 msgctxt "[\"meta\"][\"Category_xapk\"][\"title\"]"
 msgid "XAPK ( apk with obb file) {0}.apk for Android download"
@@ -1364,7 +1428,7 @@ msgstr "编辑推荐 | APKPure.com"
 
 msgctxt "[\"meta\"][\"Category_featured_editors-picks\"][\"keywords\"]"
 msgid "android apps, android games, must have android games, must have android apps, game download"
-msgstr "Android 软件, Android 游戏, 这里有Android 游戏, 这里有Android 软件, 游戏下载"
+msgstr "android apps, android games, must have android games, must have android apps, game download"
 
 msgctxt "[\"meta\"][\"Category_featured_editors-picks\"][\"description\"]"
 msgid "Play with millions of free apps in APKPure style on Android phones, tablets, TV ,etc. Download the best must have android games you should play 2017."
@@ -1515,13 +1579,13 @@ msgid "{0}"
 msgstr "{0}"
 
 msgctxt "[\"meta\"][\"Similar\"][\"title\"]"
-msgid "Top best alternative {app_category} {app_type} like {app_name} for Android 2017-2018 | APKPure.com"
-msgstr "类似{app_name}的安卓{app_category}{app_type}， 2017-2018安卓{app_category}{app_type}大全 | APKPure.com"
+msgid "{app_type} Like {app_short_name}"
+msgstr "类似{app_short_name}的安卓{app_type}"
 
 msgctxt "[\"meta\"][\"Similar\"][\"keywords\"]"
-msgid "{app_name} alternative, {app_name} similar {app_type}, {app_category} {app_type} like {app_name}"
-msgstr "{app_name}类似游戏, {app_name}同类{app_type}, {app_name}{app_category}类{app_type}, {app_name}游戏下载"
+msgid "{app_short_name} alternative, {app_short_name} similar {app_type}, {app_category} {app_type} like {app_short_name}"
+msgstr "{app_short_name}类似游戏, {app_short_name}同类{app_type}, {app_short_name}{app_category}类{app_type}, {app_short_name}游戏下载"
 
 msgctxt "[\"meta\"][\"Similar\"][\"description\"]"
-msgid "Popular alternative {app_type} to {app_name} for Android, Android tablet and more. Download top {similar_count} {app_type} like {app_name}, all {app_type} suggested by APKPure."
-msgstr "类似{app_name}的手游，{app_name}同类游戏,安卓平板游戏下载。APKPure力荐{similar_count}款类似{app_name}的经典{app_category}类{app_type}。"
+msgid "Popular alternative {app_type} to {app_short_name} for Android, Android tablet and more. Download top {similar_count} {app_type} like {app_short_name}, all {app_type} suggested by APKPure."
+msgstr "类似{app_short_name}的手游，{app_short_name}同类游戏,安卓平板游戏下载。APKPure力荐{similar_count}款类似{app_short_name}的经典{app_category}类{app_type}。"

@@ -1,23 +1,6 @@
-msgid ""
-msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-04-15 21:41+0000\n"
-"PO-Revision-Date: 2017-06-29 11:57+0000\n"
-"Last-Translator: Karim Barsa <karimbarsa645@gmail.com>\n"
-"Language-Team: Arabic "
-"<https://translate.apkpure.com/projects/apkpure/apkpurecom/ar/>\n"
-"Language: ar\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 "
-"&& n%100<=10 ? 3 : n%100>=11 ? 4 : 5;\n"
-"X-Generator: Weblate 2.14.1\n"
-
 msgctxt "[\"NAV-GAME\"]"
 msgid "GAMES"
-msgstr "العاب"
+msgstr "ألعاب"
 
 msgctxt "[\"NAV-APP\"]"
 msgid "APPS"
@@ -29,7 +12,7 @@ msgstr "XAPK"
 
 msgctxt "[\"NAV-NEW\"]"
 msgid "NEW"
-msgstr "‘‘‘…جديد"
+msgstr "جديد"
 
 msgctxt "[\"NAV-PRODUCTS\"]"
 msgid "PRODUCTS"
@@ -53,7 +36,7 @@ msgstr "تطبيق XAPK"
 
 msgctxt "[\"NAV-APK_INSTALL\"]"
 msgid "APK Install"
-msgstr "تثبيت ملف APK"
+msgstr "تثبيت APK"
 
 msgctxt "[\"NAV-APK_DOWNLOAD\"]"
 msgid "APK Download"
@@ -73,7 +56,7 @@ msgstr "تحميل"
 
 msgctxt "[\"SELECT_LANGUAGE\"]"
 msgid "Select Language"
-msgstr "اللغة المغربية"
+msgstr "تغير اللغة"
 
 msgctxt "[\"FREE\"]"
 msgid "Free"
@@ -93,7 +76,7 @@ msgstr "تطبيق"
 
 msgctxt "[\"GAMES\"]"
 msgid "Games"
-msgstr "العاب"
+msgstr "ألعاب"
 
 msgctxt "[\"APPS\"]"
 msgid "Apps"
@@ -109,7 +92,7 @@ msgstr "XAPK"
 
 msgctxt "[\"XAPK-GAMES\"]"
 msgid "XAPK Games"
-msgstr "العاب XAPK"
+msgstr "ألعاب XAPK"
 
 msgctxt "[\"XAPK-APPS\"]"
 msgid "XAPK Apps"
@@ -245,15 +228,15 @@ msgstr "تحميل APK"
 
 msgctxt "[\"VERIFICATION_CODE\"]"
 msgid "Verification code"
-msgstr "رمز التحقق"
+msgstr "Verification code"
 
 msgctxt "[\"VERIFICATION_INCORRECT\"]"
 msgid "The verification code is incorrect!"
-msgstr "رمز التحقق خاطئ!"
+msgstr "The verification code is incorrect!"
 
 msgctxt "[\"VERIFICATION_DOWN\"]"
 msgid "Enter the code(s) as you see in the image, then click \"Download\"."
-msgstr "ادخل الرمز(الرموز) كما تراها في الصورة, ثم اضغط \"تحميل\"."
+msgstr "Enter the code(s) as you see in the image, then click \"Download\"."
 
 msgctxt "[\"TOPICS\"]"
 msgid "Topics"
@@ -267,13 +250,17 @@ msgctxt "[\"CANCEL\"]"
 msgid "Cancel"
 msgstr "إلغاء"
 
+msgctxt "[\"UPDATE\"]"
+msgid "Update"
+msgstr "تحديث"
+
 msgctxt "[\"DETAIL-PAID_GAME\"]"
 msgid "Paid Game"
 msgstr "ألعاب مدفوعة"
 
 msgctxt "[\"DETAIL-PAID_APP\"]"
 msgid "Paid App"
-msgstr "تطبيق مدفوع"
+msgstr "تطبيقات مدفوعة"
 
 msgctxt "[\"DETAIL-PAID_GAME_DES\"]"
 msgid "Paid games are not available to download"
@@ -285,7 +272,7 @@ msgstr "التطبيقات المدفوعة ليست متاحة للتحميل"
 
 msgctxt "[\"DETAIL-WHY_SAFE\"]"
 msgid "Why we can guarantee APK 100% safe?"
-msgstr "لماذا يمكننا ضمان أن الـ APK آمن 100% ؟"
+msgstr "لماذا لا يمكننا ضمان APK 100٪ آمنة؟"
 
 msgctxt "[\"DETAIL-SAFE\"]"
 msgid "Verification passed"
@@ -293,12 +280,11 @@ msgstr "تم التحقق منه"
 
 msgctxt "[\"DETAIL-XAPK_SHORT_DES\"]"
 msgid "XAPK is APK with OBB data, Click to get XAPK Installer"
-msgstr ""
-"XAPK هو ملف التطبيق(APK) مع ملفات البيانات (OBB) ، انقر للحصول على مثبت XAPK"
+msgstr "XAPK غير APK مع البيانات OBB، انقر للحصول على XAPK المثبت"
 
 msgctxt "[\"DETAIL-MOBILE_XAPK_SHORT_DES\"]"
 msgid "Click to get XAPK Installer"
-msgstr "انقر للحصول على مثبت XAPK"
+msgstr "انقر للحصول على XAPK للتثبيت"
 
 msgctxt "[\"DETAIL-CATEGORY\"]"
 msgid "Category"
@@ -314,7 +300,7 @@ msgstr "تاريخ النشر"
 
 msgctxt "[\"DETAIL-GET_IT_ON\"]"
 msgid "Get it on"
-msgstr "إحصل عليه من"
+msgstr "الحصول عليه على"
 
 msgctxt "[\"DETAIL-REQUIREMENTS\"]"
 msgid "Requirements"
@@ -338,7 +324,7 @@ msgstr "الأصوات"
 
 msgctxt "[\"DETAIL-THE_DESCRIPTION\"]"
 msgid "The description of {0}"
-msgstr "وصف الـ {0}"
+msgstr "هذا الوصف ل {0}"
 
 msgctxt "[\"DETAIL-OFFICIAL_TRAILER\"]"
 msgid "{0} for Android official Trailer"
@@ -362,7 +348,7 @@ msgstr "ملف SHA1"
 
 msgctxt "[\"DETAIL-APK_FILE_SHA1\"]"
 msgid "APK File SHA1"
-msgstr "SHA1 لملف التطبيق"
+msgstr "APK ملف SHA1"
 
 msgctxt "[\"DETAIL-XAPK_FILE_SHA1\"]"
 msgid "XAPK File SHA1"
@@ -379,6 +365,10 @@ msgstr "تاريخ الإصدار"
 msgctxt "[\"DETAIL-MORE_FROM_DEVELOPER\"]"
 msgid "More From Developer"
 msgstr "المزيد من المطور"
+
+msgctxt "[\"DETAIL-MORE_FROM\"]"
+msgid "More From {0}"
+msgstr "المزيد من {0}"
 
 msgctxt "[\"DETAIL-COMMENTS\"]"
 msgid "Comments"
@@ -398,7 +388,7 @@ msgstr "{votes} تصويتات، المعدل: {rating_average} بعيدا عن 
 
 msgctxt "[\"DETAIL-RATING1\"]"
 msgid "average: {rating_average} out of {rating_best}"
-msgstr "معدل : {rating_average} من اصل {rating_best}"
+msgstr " تصويتات: {rating_average} بعيدا عن {rating_best}"
 
 msgctxt "[\"DETAIL-MORE_DEVELOPER\"]"
 msgid "Get more from {0}"
@@ -406,11 +396,11 @@ msgstr "احصل على المزيد {0}"
 
 msgctxt "[\"DETAIL-REMOVED\"]"
 msgid "Removed"
-msgstr "تمت إزالته"
+msgstr "إزالة"
 
 msgctxt "[\"DETAIL-CATEGORY_GAME\"]"
 msgid "{0} GAME"
-msgstr "{0} لعبة"
+msgstr "{0} ألعاب"
 
 msgctxt "[\"DETAIL-CATEGORY_APP\"]"
 msgid "{0} APP"
@@ -458,7 +448,7 @@ msgstr "جار التحميل"
 
 msgctxt "[\"DETAIL_DOWNLOAD-DOWNLOADING_DES\"]"
 msgid "If the download doesn't start,"
-msgstr "في حالة عدم بدء عملية التنزيل,"
+msgstr "في حالة عدم بدء عملية التنزيل،"
 
 msgctxt "[\"DETAIL_DOWNLOAD-DOWNLOADING_DES_CLICK\"]"
 msgid "click here"
@@ -468,9 +458,25 @@ msgctxt "[\"DETAIL_DOWNLOAD-HOW_TO_INSTALL_APK\"]"
 msgid "How to install APK / XAPK file"
 msgstr "كيفية تثبيت APK / ملف XAPK"
 
+msgctxt "[\"VERSION-PREVIOUS\"]"
+msgid "Previous versions"
+msgstr "الإصدارات السابقة"
+
+msgctxt "[\"VERSION-VERSIONS\"]"
+msgid "Versions"
+msgstr "Versions"
+
+msgctxt "[\"VERSION-REQUIRES_ANDROID\"]"
+msgid "Requires Android"
+msgstr "يتطلب Android"
+
 msgctxt "[\"COMMENT-REPORT\"]"
 msgid "Report"
 msgstr "أبلغ عن"
+
+msgctxt "[\"COMMENT-COLLAPSED\"]"
+msgid "comment collapsed"
+msgstr "comment collapsed"
 
 msgctxt "[\"COMMENT-POST\"]"
 msgid "Post"
@@ -493,36 +499,28 @@ msgid "Email"
 msgstr "البريد الإلكتروني"
 
 msgctxt "[\"COMMENT-SORT_BY_NEWEST\"]"
-msgid "Sort by newest"
-msgstr "رتب طبقاً للأحدث"
-
-msgctxt "[\"COMMENT-SORT_BY_NEW\"]"
-msgid "Sort by newest"
-msgstr "رتب طبقاً للأحدث"
-
-msgctxt "[\"COMMENT-SORT_BY_OLDEST\"]"
-msgid "Sort by oldest"
-msgstr "رتب طبقاً للأقدم"
-
-msgctxt "[\"COMMENT-SORT_BY_BEST\"]"
-msgid "Sort by best"
-msgstr "رتب طبقاً للأفضل"
-
-msgctxt "[\"COMMENT-SORT_BY_MOST_RECENT\"]"
-msgid "Sort by most recent"
-msgstr "ترتيب حسب الأحدث"
-
-msgctxt "[\"COMMENT-NEWEST\"]"
 msgid "Newest"
 msgstr "الأحدث"
 
-msgctxt "[\"COMMENT-OLDEST\"]"
-msgid "Oldest"
-msgstr "الأقدم"
+msgctxt "[\"COMMENT-SORT_BY_NEW\"]"
+msgid "Newest"
+msgstr "رتب طبقاً للأحدث"
 
-msgctxt "[\"COMMENT-BEST\"]"
+msgctxt "[\"COMMENT-SORT_BY_OLDEST\"]"
+msgid "Oldest"
+msgstr "رتب طبقاً للأقدم"
+
+msgctxt "[\"COMMENT-SORT_BY_BEST\"]"
 msgid "Best"
-msgstr "الأفضل"
+msgstr "رتب طبقاً للأفضل"
+
+msgctxt "[\"COMMENT-SORT_BY_MOST_RECENT\"]"
+msgid "Most Recent"
+msgstr "الأحدث"
+
+msgctxt "[\"COMMENT-SORT_BY_DEFAULT\"]"
+msgid "Sort by default"
+msgstr "الترتيب افتراضيا"
 
 msgctxt "[\"COMMENT-RATING_REQUIRED\"]"
 msgid "Rating required"
@@ -530,7 +528,7 @@ msgstr "التقييم مطلوب"
 
 msgctxt "[\"COMMENT-GUEST\"]"
 msgid "Guest"
-msgstr "زائر"
+msgstr "ضيف"
 
 msgctxt "[\"COMMENT-START_THE_DISCUSSION\"]"
 msgid "Start the discussion…"
@@ -544,9 +542,9 @@ msgctxt "[\"COMMENT-COMMENTS_CANT_BE_BLANK\"]"
 msgid "Comments can't be blank."
 msgstr "تعليقات لا يمكن أن يكون فارغا."
 
-msgctxt "[\"COMMENT-OR_POST_AS_GUEST\"]"
-msgid "Or post as guest"
-msgstr "أو إضافة كضيف"
+msgctxt "[\"COMMENT-POST_AS_GUEST\"]"
+msgid "Post As a Guest"
+msgstr "المشاركة كضيف"
 
 msgctxt "[\"COMMENT-LOGOUT\"]"
 msgid "Logout"
@@ -560,45 +558,53 @@ msgctxt "[\"COMMENT-TO_BE_FIRST\"]"
 msgid "Be the first to comment."
 msgstr "كن أول من يعلق."
 
+msgctxt "[\"COMMENT-VOTE\"]"
+msgid "Vote"
+msgstr "تصويت"
+
 msgctxt "[\"COMMENT-ERR_QUICK_LOGIN\"]"
 msgid "Quick login error, please try again."
-msgstr "خطئ دخول سريع, رجاءا حاول من جديد."
+msgstr "Quick login error, please try again."
 
 msgctxt "[\"COMMENT-ERR_EMAIL_NAME\"]"
 msgid "Incorrect mail or name"
-msgstr "ايميل او اسم خاطئ"
+msgstr "Incorrect mail or name"
 
 msgctxt "[\"COMMENT-ERR_DISCUSSION\"]"
 msgid "Incorrect in discussion"
-msgstr "خطئ في النقاش"
+msgstr "Incorrect in discussion"
 
 msgctxt "[\"COMMENT-ERR_RATE\"]"
 msgid "Vote failed, repeated"
-msgstr "التصويلت فشل , مكرر"
+msgstr "Vote failed, repeated"
 
 msgctxt "[\"COMMENT-ERR_SENSITIVE_WORD\"]"
 msgid "Defeat,your post contains sensitive terms"
-msgstr "تراجع, تعليقك يحتوي على كلمات حساسة"
+msgstr "Defeat,your post contains sensitive terms"
 
 msgctxt "[\"COMMENT-ERR_SENSITIVE_WORD_AUDIT\"]"
 msgid "Your post contains sensitive terms and is pending approval by an admin"
-msgstr "تعليقك يحتوي على كلمات حساسة وهو بإنتظار الموافقة من الادمن"
+msgstr "Your post contains sensitive terms and is pending approval by an admin"
 
 msgctxt "[\"COMMENT-ERR_LINK_AUDIT\"]"
 msgid "Your post contains link and is pending approval by an admin"
-msgstr "تعليقك يحتوي على رابط وهو بانتظار الموافقة من الادمن"
+msgstr "Your post contains link and is pending approval by an admin"
 
 msgctxt "[\"COMMENT-ERR_FORBIDDEN\"]"
 msgid "Comment forbidden"
-msgstr "التعليق ممنوع"
+msgstr "Comment forbidden"
 
 msgctxt "[\"COMMENT-ERR_FAILURE\"]"
 msgid "Comment unknown"
-msgstr "تعليق غير معروف"
+msgstr "Comment unknown"
 
 msgctxt "[\"COMMENT-ERR_INVALID_PARAMETER\"]"
 msgid "Invalid comment parameter"
-msgstr "معامل تعليق غير صالح"
+msgstr "Invalid comment parameter"
+
+msgctxt "[\"COMMENT-ERR_INVALID_VIDEO_URL\"]"
+msgid "Invalid Video URL"
+msgstr "Invalid Video URL"
 
 msgctxt "[\"COMMENT-DELETE\"]"
 msgid "Yes,delete it!"
@@ -615,6 +621,10 @@ msgstr "حذف"
 msgctxt "[\"COMMENT-ARE_YOU_SURE\"]"
 msgid "Are you sure?"
 msgstr "هل أنت متأكد؟"
+
+msgctxt "[\"COMMENT-LOADING\"]"
+msgid "Comment Loading..."
+msgstr "تعليق لوادينغ..."
 
 msgctxt "[\"USER-ACCOUNT_EXIST\"]"
 msgid "The username is already in use."
@@ -655,6 +665,50 @@ msgstr "إناثا"
 msgctxt "[\"USER-MALE\"]"
 msgid "Male"
 msgstr "الذكر"
+
+msgctxt "[\"USER-USER_LOGIN\"]"
+msgid "User Login"
+msgstr "تسجيل دخول المستخدم"
+
+msgctxt "[\"USER-USERNAME\"]"
+msgid "Username"
+msgstr "اسم المستخدم"
+
+msgctxt "[\"USER-PASSWORD\"]"
+msgid "Password"
+msgstr "كلمه السر"
+
+msgctxt "[\"USER-NEW_USER_REGISTRATION\"]"
+msgid "New User Registration"
+msgstr "تسجيل مستخدم جديد"
+
+msgctxt "[\"USER-SIGN_IN_BTN\"]"
+msgid "SIGN IN"
+msgstr "تسجيل الدخول"
+
+msgctxt "[\"USER-SIGN_IN\"]"
+msgid "Sign In"
+msgstr "تسجيل الدخول"
+
+msgctxt "[\"USER-SIGN_IN_WITH\"]"
+msgid "Or sign in with"
+msgstr "أو تسجيل الدخول باستخدام"
+
+msgctxt "[\"USER-SIGN_UP_BTN\"]"
+msgid "SIGN UP"
+msgstr "سجل"
+
+msgctxt "[\"USER-SIGN_UP\"]"
+msgid "Sign Up"
+msgstr "سجل"
+
+msgctxt "[\"USER-CONFIRM_PASSWORD\"]"
+msgid "Confirm Password"
+msgstr "تأكيد كلمة المرور"
+
+msgctxt "[\"USER-TERMS_SERVICE\"]"
+msgid "By signing up you agree to our <a href='/terms-service.html' target='_blank'>terms of service</a>"
+msgstr "عن طريق الاشتراك كنت توافق على موقعنا <a href='/terms-service.html' target='_blank'>شروط الخدمة</a>"
 
 msgctxt "[\"REGION_DOWN-TITLE\"]"
 msgid "Region free APK download"
@@ -774,7 +828,7 @@ msgstr "يبدو أن الصفحة التي كنت تبحث عنها لم يعد
 
 msgctxt "[\"COPYRIGHT\"]"
 msgid "Copyright © 2014-2017 APKPure. All rights reserved."
-msgstr "حقوق النشر © 2014-2017 APKPure. كامل الحقوق محفوظة."
+msgstr "APKPure.com © 2014-2017"
 
 msgctxt "[\"COPYRIGHT_MOBILE\"]"
 msgid "APKPure.com © 2014-2017"
@@ -890,7 +944,7 @@ msgstr "المطورون"
 
 msgctxt "[\"FOOTER-COOPERATION\"]"
 msgid "Business Cooperation"
-msgstr "تعاون تجاري"
+msgstr "Business Cooperation"
 
 msgctxt "[\"FOOTER-XAPK\"]"
 msgid "XAPK"
@@ -898,7 +952,7 @@ msgstr "XAPK"
 
 msgctxt "[\"FOOTER-REPORT_ABUSE\"]"
 msgid "Report abuse"
-msgstr "تبليغ عن اساءة"
+msgstr "Report abuse"
 
 msgctxt "[\"MARKET-QR\"]"
 msgid "Download<br>APKPure App"
@@ -970,9 +1024,7 @@ msgstr "باستخدام  APKPure App يمكنك ترقية <strong>{0}</strong>
 
 msgctxt "[\"MARKET-BOTTOM_BANNER_DETAIL_XAPK_DES_TITLE\"]"
 msgid "Using APKPure App to upgrade {0}, install xapk, fast, free and save your internet data."
-msgstr ""
-"استخدام تطبيق  APKPure لترقية {0}, وتثبيت ملفات XAPK ,بسرعة,ومجاناً ولتوفر "
-"بيانات الانترنت الخاصة بك."
+msgstr "باستخدام APKPure App يمكنك ترقية {0}، وتثبيت APK بسرعة ومجانا والحفاظ على بياناتك على الانترنت."
 
 msgctxt "[\"MARKET-BOTTOM_BANNER_DOWNLOAD_BTN\"]"
 msgid "Download APP"
@@ -980,27 +1032,19 @@ msgstr "تحميل التطبيق"
 
 msgctxt "[\"MARKET-PROMOTION_BANNER_MOBILE1\"]"
 msgid "<p class=\"desc\">Using APKPure App to download/update this apk, faster, free and saving data!</p>"
-msgstr ""
-"<p class=\"desc\">باستخدام  تطبيق APKPure لتحميل / تحديث هذا الـ APK, بسرعة "
-", ومجانا وحافظ على رصيد بياناتك!</p>"
+msgstr "<p class=\"desc\">باستخدام APKPure التطبيقات لتحميل / تحديث هذه APK، يمكنك تحميل أحدث إصدار بسرعة وبحماية كاملة!</p>"
 
 msgctxt "[\"MARKET-PROMOTION_BANNER_MOBILE1_XAPK\"]"
 msgid "<p class=\"desc\">Using APKPure App to install this XAPK, faster, free and saving data!</p>"
-msgstr ""
-"<p class=\"desc\">باستخدام تطبيق APKPure لتثبيت هذا XAPK، يمكنك تحميل أحدث "
-"إصدار بسرعة وبحماية كاملة!</p>"
+msgstr "<p class=\"desc\">باستخدام APKPure التطبيقات لتثبيت هذا APK، يمكنك تحميل أحدث إصدار بسرعة وبحماية كاملة!</p>"
 
 msgctxt "[\"MARKET-PROMOTION_BANNER_MOBILE2\"]"
 msgid "<p class=\"tit\">Using APKPure App</p><p class=\"des\">Faster, free and saving data!</p>"
-msgstr ""
-"<p class=\"tit\">باستخدام تطبيق APKPure </p><p class=\"des\">يمكنك تحميل "
-"أحدث إصدار بسرعة وبحماية كاملة!</p>"
+msgstr "<p class=\"tit\">باستخدام APKPure التطبيقات</p><p class=\"des\">يمكنك تحميل أحدث إصدار بسرعة وبحماية كاملة!</p>"
 
 msgctxt "[\"MARKET-PROMOTION_BANNER_MOBILE2_XAPK\"]"
 msgid "<p class=\"tit\">Using APKPure App</p><p class=\"des\">Install XAPK, Faster, free and saving data!</p>"
-msgstr ""
-"<p class=\"tit\">استخدام تطبيق APKPure </p><p class=\"des\">لتثبيت XAPK، "
-"يمكنك تحميل أحدث إصدار بسرعة وبحماية كاملة!</p>"
+msgstr "<p class=\"tit\">باستخدام APKPure التطبيقات</p><p class=\"des\">تثبيت XAPK، يمكنك تحميل أحدث إصدار بسرعة وبحماية كاملة!</p>"
 
 msgctxt "[\"FLAG-Africa\"]"
 msgid "Africa"
@@ -1008,7 +1052,7 @@ msgstr "أفريقيا"
 
 msgctxt "[\"FLAG-Americas\"]"
 msgid "Americas"
-msgstr "الأمريكتين"
+msgstr "أمريكا"
 
 msgctxt "[\"FLAG-Asia\"]"
 msgid "Asia"
@@ -1040,11 +1084,11 @@ msgstr "عذرا، تطبيقات المدفوعة ليست متاحة للتح�
 
 msgctxt "[\"error\"][\"DOWN-ItemNotFound\"]"
 msgid "Sorry, download failed, the APK cannot be found."
-msgstr "عذرا, التحميل فشل , لايمكن العثور على ملف الـAPK."
+msgstr "عذرا، فشل التحميل، APK لا يمكن العثور على Google play."
 
 msgctxt "[\"error\"][\"DOWN-LimitedRegion\"]"
 msgid "Oops! Change your region and try download again."
-msgstr "عفوا !قم بتغيير المنطقة وحاول من جديد."
+msgstr "عفوا! تغيير المنطقة ومحاولة تحميل مرة أخرى."
 
 msgctxt "[\"error\"][\"DOWN-LimitedDevice\"]"
 msgid "Sorry, download failed, the APK does not support our device."
@@ -1066,9 +1110,21 @@ msgctxt "[\"error\"][\"DOWN-RunOutOfDevice\"]"
 msgid "Download failed, please try again in 5 minutes."
 msgstr "تحميل فشل، يرجى المحاولة مرة أخرى في 5 دقائق."
 
+msgctxt "[\"tip\"][\"SHORT_NAME\"]"
+msgid "{0}"
+msgstr "{0}"
+
+msgctxt "[\"tip\"][\"VERSION\"]"
+msgid "Download {app_short_name} v{version_name} for android"
+msgstr "تنزيل {app_short_name} v {version_name} للروبوت"
+
 msgctxt "[\"tip\"][\"ICON\"]"
 msgid "{0} icon"
 msgstr "{0} أيقونة"
+
+msgctxt "[\"tip\"][\"PREVIOUS_VERSIONS\"]"
+msgid "{0} Previous Versions"
+msgstr "{0} الإصدارات السابقة"
 
 msgctxt "[\"tip\"][\"LIST_ICON\"]"
 msgid "{0} APK"
@@ -1109,6 +1165,10 @@ msgstr "{0} الملصق"
 msgctxt "[\"tip\"][\"SCREEN\"]"
 msgid "{0} apk screenshot"
 msgstr "{0} apk تصوير الشاشة"
+
+msgctxt "[\"tip\"][\"SCREEN_INDEX\"]"
+msgid "{0} screenshot {1}"
+msgstr "{0} تصوير الشاشة {1}"
 
 msgctxt "[\"tip\"][\"CATEGORY_GAME\"]"
 msgid "Download more {0} games"
@@ -1222,6 +1282,26 @@ msgctxt "[\"js\"][\"CANCEL\"]"
 msgid "Cancel"
 msgstr "إلغاء"
 
+msgctxt "[\"js\"][\"USER-PASSWORD_NOT_MATCH\"]"
+msgid "Passwords do not match"
+msgstr "كلمات المرور غير متطابقة"
+
+msgctxt "[\"js\"][\"USER-PASSWORD_MUST\"]"
+msgid "Password must be 6-32 characters long"
+msgstr "يجب أن تتكون كلمة المرور من 6-32 حرفا"
+
+msgctxt "[\"js\"][\"USER-USERNAME_MUST\"]"
+msgid "Username must be 1-20 characters long and special characters are not allowed."
+msgstr "يجب أن يكون اسم المستخدم من 1 إلى 20 حرفا ولا يسمح بالأحرف الخاصة."
+
+msgctxt "[\"js\"][\"USER-INCORRECT_ACCOUNT\"]"
+msgid "The username you entered is invalid."
+msgstr "اسم المستخدم الذي أدخلته غير صالح."
+
+msgctxt "[\"js\"][\"USER-INCORRECT_PASSWORD\"]"
+msgid "The password you entered is invalid."
+msgstr "كلمة المرور التي أدخلتها غير صالحة."
+
 msgctxt "[\"js\"][\"COMMENT-DELETE\"]"
 msgid "Yes,delete it!"
 msgstr "نعم، حذفه!"
@@ -1233,6 +1313,10 @@ msgstr "تم الحذف!"
 msgctxt "[\"js\"][\"COMMENT-ARE_YOU_SURE\"]"
 msgid "Are you sure?"
 msgstr "هل أنت متأكد؟"
+
+msgctxt "[\"js\"][\"COMMENT-VOTE\"]"
+msgid "Vote"
+msgstr "تصويت"
 
 msgctxt "[\"meta\"][\"Index\"][\"title\"]"
 msgid "Download APK free online downloader | APKPure.com"
@@ -1252,13 +1336,35 @@ msgstr "{app_name} APK تحميل - مجاني {app_category} {app_type} لأن�
 
 msgctxt "[\"meta\"][\"Details\"][\"keywords\"]"
 msgid "{app_name} apk, {app_name} apk download, {app_name} download, {app_name}.apk, {app_name} android, {app_category} {app_type} download"
-msgstr ""
-"{app_name} apk, {app_name} apk تحميل, {app_name} تحميل, {app_name}.apk, "
-"{app_name} أندرويد, {app_name} google play, {app_category} {app_type}"
+msgstr "{app_name} apk, {app_name} apk تحميل, {app_name} تحميل, {app_name}.apk, {app_name} أندرويد, {app_name} google play, {app_category} {app_type}"
 
 msgctxt "[\"meta\"][\"Details\"][\"description\"]"
 msgid "Download {app_short_name} apk {version_name} and all version history for Android. {app_short_description}"
 msgstr "تحمسل {app_short_name} apk {version_name} وجميع الإصدار التاريخ لأندرويد. {app_short_description}"
+
+msgctxt "[\"meta\"][\"Details_new\"][\"title\"]"
+msgid "{app_short_name} for Android - APK Download"
+msgstr "{app_short_name} for Android - APK Download"
+
+msgctxt "[\"meta\"][\"Details_new\"][\"keywords\"]"
+msgid "{app_short_name}, {app_short_name} for android, {app_short_name} android download, {app_short_name} apk, {app_short_name} android apk, {app_short_name} download"
+msgstr "{app_short_name}, {app_short_name} for android, {app_short_name} android download, {app_short_name} apk, {app_short_name} android apk, {app_short_name} download"
+
+msgctxt "[\"meta\"][\"Details_new\"][\"description\"]"
+msgid "Download {app_short_name} apk {version_name} for Android. {app_short_description}"
+msgstr "Download {app_short_name} apk {version_name} for Android. {app_short_description}"
+
+msgctxt "[\"meta\"][\"Versions\"][\"title\"]"
+msgid "{app_short_name} update version history for Android - APK Download"
+msgstr "{app_short_name} update version history for Android - APK Download"
+
+msgctxt "[\"meta\"][\"Versions\"][\"keywords\"]"
+msgid "{app_short_name}, download, old, version history, apk, release date, changelog"
+msgstr "{app_short_name}, download, old, version history, apk, release date, changelog"
+
+msgctxt "[\"meta\"][\"Versions\"][\"description\"]"
+msgid "Download {app_short_name} old versions Android APK or update to {app_short_name} latest version. Review {app_short_name} release date, changelog and more."
+msgstr "Download {app_short_name} old versions Android APK or update to {app_short_name} latest version. Review {app_short_name} release date, changelog and more."
 
 msgctxt "[\"meta\"][\"Details_download\"][\"title\"]"
 msgid "Download {app_name} {version_name} APK | APKPure.com"
@@ -1271,6 +1377,26 @@ msgstr "{app_name} apk, {app_name} apk تحميل, {app_name} تحميل"
 msgctxt "[\"meta\"][\"Details_download\"][\"description\"]"
 msgid "{app_name} {version_name} APK Download"
 msgstr "{app_name} {version_name} APK تحميل"
+
+msgctxt "[\"meta\"][\"Details_download_new\"][\"title\"]"
+msgid "Download {app_short_name} latest {version_name} Android APK"
+msgstr "Download {app_short_name} latest {version_name} Android APK"
+
+msgctxt "[\"meta\"][\"Details_download_new\"][\"title_old\"]"
+msgid "Download {app_short_name} {version_name} Android APK"
+msgstr "Download {app_short_name} {version_name} Android APK"
+
+msgctxt "[\"meta\"][\"Details_download_new\"][\"keywords\"]"
+msgid "{app_short_name}, android, apk, download, {app_short_name} android, {app_short_name} download"
+msgstr "{app_short_name}, android, apk, download, {app_short_name} android, {app_short_name} download"
+
+msgctxt "[\"meta\"][\"Details_download_new\"][\"description\"]"
+msgid "{app_short_name} Android latest {version_name} APK Download and Install. {app_short_description}"
+msgstr "{app_short_name} Android latest {version_name} APK Download and Install. {app_short_description}"
+
+msgctxt "[\"meta\"][\"Details_download_new\"][\"description_old\"]"
+msgid "{app_short_name} Android {version_name} APK Download and Install. {app_short_description}"
+msgstr "{app_short_name} Android {version_name} APK Download and Install. {app_short_description}"
 
 msgctxt "[\"meta\"][\"Category_xapk\"][\"title\"]"
 msgid "XAPK ( apk with obb file) {0}.apk for Android download"
@@ -1453,20 +1579,13 @@ msgid "{0}"
 msgstr "{0}"
 
 msgctxt "[\"meta\"][\"Similar\"][\"title\"]"
-msgid "Top best alternative {app_category} {app_type} like {app_name} for Android 2017-2018 | APKPure.com"
-msgstr ""
-"أفضل بدائل {app_category} {app_type} مثل{app_name} للاندرويد 2017-2018 | "
-"APKPure.com"
+msgid "{app_type} Like {app_short_name}"
+msgstr "{app_type} Like {app_short_name}"
 
 msgctxt "[\"meta\"][\"Similar\"][\"keywords\"]"
-msgid "{app_name} alternative, {app_name} similar {app_type}, {app_category} {app_type} like {app_name}"
-msgstr ""
-"{app_name} بدائل , {app_name} مشابه {app_type}, {app_category} {app_type} "
-"مثل {app_name}"
+msgid "{app_short_name} alternative, {app_short_name} similar {app_type}, {app_category} {app_type} like {app_short_name}"
+msgstr "{app_short_name} alternative, {app_short_name} similar {app_type}, {app_category} {app_type} like {app_short_name}"
 
 msgctxt "[\"meta\"][\"Similar\"][\"description\"]"
-msgid "Popular alternative {app_type} to {app_name} for Android, Android tablet and more. Download top {similar_count} {app_type} like {app_name}, all {app_type} suggested by APKPure."
-msgstr ""
-"بدائل شائعة {app_type} الى {app_name} للاندرويد, الجهاز اللوحي و اكثر. حمل "
-"افضل  {similar_count} {app_type} مثل {app_name}, كل {app_type} مقترحة من  "
-"APKPure."
+msgid "Popular alternative {app_type} to {app_short_name} for Android, Android tablet and more. Download top {similar_count} {app_type} like {app_short_name}, all {app_type} suggested by APKPure."
+msgstr "Popular alternative {app_type} to {app_short_name} for Android, Android tablet and more. Download top {similar_count} {app_type} like {app_short_name}, all {app_type} suggested by APKPure."
