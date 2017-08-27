@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-08-14 08:12+0000\n"
-"PO-Revision-Date: 2017-07-05 20:58+0000\n"
+"PO-Revision-Date: 2017-08-27 12:38+0000\n"
 "Last-Translator: Goudarz Jafari <goudarz.jafari@gmail.com>\n"
 "Language-Team: Persian "
 "<https://translate.apkpure.com/projects/apkpure/apkpurecom/fa/>\n"
@@ -2127,3 +2127,73 @@ msgstr "رای"
 msgctxt "[\"COMMENT-COLLAPSED\"]"
 msgid "comment collapsed"
 msgstr "نظر جمع شده"
+
+msgctxt "[\"UPDATE\"]"
+msgid "Update"
+msgstr "به‌روزرسانی"
+
+msgctxt "[\"DETAIL-MORE_FROM\"]"
+msgid "More From {0}"
+msgstr "بیشتر از {0}"
+
+msgctxt "[\"VERSION-PREVIOUS\"]"
+msgid "Previous versions"
+msgstr "نسخه‌های قبلی"
+
+msgctxt "[\"VERSION-VERSIONS\"]"
+msgid "Versions"
+msgstr "نسخه‌ها"
+
+msgctxt "[\"tip\"][\"SHORT_NAME\"]"
+msgid "{0}"
+msgstr "{0}"
+
+msgctxt "[\"tip\"][\"PREVIOUS_VERSIONS\"]"
+msgid "{0} Previous Versions"
+msgstr "{0} نسخه‌های قبلی"
+
+msgctxt "[\"VERSION-REQUIRES_ANDROID\"]"
+msgid "Requires Android"
+msgstr "نیاز به اندروید"
+
+msgctxt "[\"tip\"][\"SCREEN_INDEX\"]"
+msgid "{0} screenshot {1}"
+msgstr "{0} اسکرین‌شات {1}"
+
+msgctxt "[\"meta\"][\"Details_new\"][\"title\"]"
+msgid "{app_short_name} for Android - APK Download"
+msgstr "{app_short_name} برای اندروید - دانلود APK"
+
+msgctxt "[\"meta\"][\"Details_new\"][\"keywords\"]"
+msgid "{app_short_name}, {app_short_name} for android, {app_short_name} android download, {app_short_name} apk, {app_short_name} android apk, {app_short_name} download"
+msgstr ""
+"{app_short_name}, {app_short_name} برای اندروید, {app_short_name} دانلود "
+"اندروید, {app_short_name} apk, {app_short_name} اندروید apk, {app_short_name}"
+" دانلود"
+
+msgctxt "[\"meta\"][\"Details_new\"][\"description\"]"
+msgid "Download {app_short_name} apk {version_name} for Android. {app_short_description}"
+msgstr ""
+"دانلود {app_short_name} apk {version_name} برای اندروید. "
+"{app_short_description}"
+
+msgctxt "[\"meta\"][\"Versions\"][\"title\"]"
+msgid "{app_short_name} update version history for Android - APK Download"
+msgstr "{app_short_name} تاریخچه به‌روزرسانی نسخه برای اندروید - دانلود APK"
+
+msgctxt "[\"meta\"][\"Versions\"][\"keywords\"]"
+msgid "{app_short_name}, download, old, version history, apk, release date, changelog"
+msgstr ""
+"{app_short_name}, دانلود, قدیمی, تاریخچه نسخه, apk, تاریخ انتشار, تغییرات"
+
+msgctxt "[\"tip\"][\"VERSION\"]"
+msgid "Download {app_short_name} v{version_name} for android"
+msgstr "دانلود {app_short_name} و{version_name} برای اندروید"
+
+msgctxt "[\"meta\"][\"Details_download_new\"][\"title\"]"
+msgid "Download {app_short_name} latest {version_name} Android APK"
+msgstr "دانلود {app_short_name} آخرین نسخه {version_name} ای‌پی‌کا اندروید"
+
+msgctxt "[\"meta\"][\"Details_download_new\"][\"title_old\"]"
+msgid "Download {app_short_name} {version_name} Android APK"
+msgstr "دانلود {app_short_name} {version_name} ای‌پی‌کا اندروید"
