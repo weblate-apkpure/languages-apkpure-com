@@ -54,6 +54,14 @@ msgctxt "[\"DOWNLOAD\"]"
 msgid "Download"
 msgstr "Download"
 
+msgctxt "[\"IGNORE\"]"
+msgid "Ignore"
+msgstr "Ignore"
+
+msgctxt "[\"OK\"]"
+msgid "OK"
+msgstr "OK"
+
 msgctxt "[\"SELECT_LANGUAGE\"]"
 msgid "Select Language"
 msgstr "Select Language"
@@ -814,6 +822,14 @@ msgctxt "[\"SEARCH-APK\"]"
 msgid "Search APK"
 msgstr "Search APK"
 
+msgctxt "[\"SEARCH-TRENDING\"]"
+msgid "trending searches"
+msgstr "trending searches"
+
+msgctxt "[\"SEARCH-HISTORY\"]"
+msgid "Search history"
+msgstr "Search history"
+
 msgctxt "[\"404-OOPS\"]"
 msgid "OOPS!,"
 msgstr "OOPS!,"
@@ -1202,6 +1218,114 @@ msgctxt "[\"tip\"][\"DOWNLOAD_APK\"]"
 msgid "Download APK"
 msgstr "Download APK"
 
+msgctxt "[\"js\"][\"LANG_TIP\"][\"tw\"]"
+msgid "你是否把當前語言切換成<strong>繁體中文</strong>？"
+msgstr "你是否把當前語言切換成<strong>繁體中文</strong>？"
+
+msgctxt "[\"js\"][\"LANG_TIP\"][\"es\"]"
+msgid "¿Quiere cambiar su idioma de preferencia a <strong>español</strong>?"
+msgstr "¿Quiere cambiar su idioma de preferencia a <strong>español</strong>?"
+
+msgctxt "[\"js\"][\"LANG_TIP\"][\"ru\"]"
+msgid "Вы хотите изменить язык предпочтений на <strong>русский</strong>?"
+msgstr "Вы хотите изменить язык предпочтений на <strong>русский</strong>?"
+
+msgctxt "[\"js\"][\"LANG_TIP\"][\"ar\"]"
+msgid "هل تريد تغيير لغة التفضيل إلى </strong>اللغة العربية<strong>؟"
+msgstr "هل تريد تغيير لغة التفضيل إلى </strong>اللغة العربية<strong>؟"
+
+msgctxt "[\"js\"][\"LANG_TIP\"][\"in\"]"
+msgid "क्या आप अपनी वरीयता भाषा को <strong>हिंदी</strong> में बदलना चाहते हैं?"
+msgstr "क्या आप अपनी वरीयता भाषा को <strong>हिंदी</strong> में बदलना चाहते हैं?"
+
+msgctxt "[\"js\"][\"LANG_TIP\"][\"id\"]"
+msgid "Apakah Anda ingin mengubah bahasa pilihan Anda <strong>ke bahasa Indonesia</strong>?"
+msgstr "Apakah Anda ingin mengubah bahasa pilihan Anda <strong>ke bahasa Indonesia</strong>?"
+
+msgctxt "[\"js\"][\"LANG_TIP\"][\"it\"]"
+msgid "Vuoi cambiare la tua lingua preferenziale in <strong>italiano</strong>?"
+msgstr "Vuoi cambiare la tua lingua preferenziale in <strong>italiano</strong>?"
+
+msgctxt "[\"js\"][\"LANG_TIP\"][\"nl\"]"
+msgid "Wilt u uw voorkeurstaal naar <strong>Nederlands</strong> veranderen?"
+msgstr "Wilt u uw voorkeurstaal naar <strong>Nederlands</strong> veranderen?"
+
+msgctxt "[\"js\"][\"LANG_TIP\"][\"jp\"]"
+msgid "あなたの嗜好言語を<strong>日本語</strong>に変更したいですか？"
+msgstr "あなたの嗜好言語を<strong>日本語</strong>に変更したいですか？"
+
+msgctxt "[\"js\"][\"LANG_IGNORE\"][\"tw\"]"
+msgid "忽略"
+msgstr "忽略"
+
+msgctxt "[\"js\"][\"LANG_IGNORE\"][\"es\"]"
+msgid "Ignorar"
+msgstr "Ignorar"
+
+msgctxt "[\"js\"][\"LANG_IGNORE\"][\"ru\"]"
+msgid "игнорировать"
+msgstr "игнорировать"
+
+msgctxt "[\"js\"][\"LANG_IGNORE\"][\"ar\"]"
+msgid "تجاهل"
+msgstr "تجاهل"
+
+msgctxt "[\"js\"][\"LANG_IGNORE\"][\"in\"]"
+msgid "नज़रअंदाज़ करना"
+msgstr "नज़रअंदाज़ करना"
+
+msgctxt "[\"js\"][\"LANG_IGNORE\"][\"id\"]"
+msgid "Mengabaikan"
+msgstr "Mengabaikan"
+
+msgctxt "[\"js\"][\"LANG_IGNORE\"][\"it\"]"
+msgid "Ignorare"
+msgstr "Ignorare"
+
+msgctxt "[\"js\"][\"LANG_IGNORE\"][\"nl\"]"
+msgid "Negeren"
+msgstr "Negeren"
+
+msgctxt "[\"js\"][\"LANG_IGNORE\"][\"jp\"]"
+msgid "無視する"
+msgstr "無視する"
+
+msgctxt "[\"js\"][\"LANG_OK\"][\"tw\"]"
+msgid "好的"
+msgstr "好的"
+
+msgctxt "[\"js\"][\"LANG_OK\"][\"es\"]"
+msgid "DE ACUERDO"
+msgstr "DE ACUERDO"
+
+msgctxt "[\"js\"][\"LANG_OK\"][\"ru\"]"
+msgid "ОК"
+msgstr "ОК"
+
+msgctxt "[\"js\"][\"LANG_OK\"][\"ar\"]"
+msgid "حسنا"
+msgstr "حسنا"
+
+msgctxt "[\"js\"][\"LANG_OK\"][\"in\"]"
+msgid "ठीक"
+msgstr "ठीक"
+
+msgctxt "[\"js\"][\"LANG_OK\"][\"id\"]"
+msgid "baik"
+msgstr "baik"
+
+msgctxt "[\"js\"][\"LANG_OK\"][\"it\"]"
+msgid "ok"
+msgstr "ok"
+
+msgctxt "[\"js\"][\"LANG_OK\"][\"nl\"]"
+msgid "OK"
+msgstr "OK"
+
+msgctxt "[\"js\"][\"LANG_OK\"][\"jp\"]"
+msgid "[OK]"
+msgstr "[OK]"
+
 msgctxt "[\"js\"][\"SIGN_VERIFY-OFFICIAL\"]"
 msgid "[Official] This {0} APK is the unmodified official version."
 msgstr "[Official] This {0} APK is the unmodified official version."
@@ -1493,6 +1617,18 @@ msgstr "{0} apk download, download {0} apk"
 msgctxt "[\"meta\"][\"Search\"][\"description\"]"
 msgid "{0}"
 msgstr "{0}"
+
+msgctxt "[\"meta\"][\"Search_hot\"][\"title\"]"
+msgid "Search - APKPure Android App Store"
+msgstr "Search - APKPure Android App Store"
+
+msgctxt "[\"meta\"][\"Search_hot\"][\"keywords\"]"
+msgid "Search {add_trending}"
+msgstr "Search {add_trending}"
+
+msgctxt "[\"meta\"][\"Search_hot\"][\"description\"]"
+msgid "Discover Android games free download on APKPure Android App Store."
+msgstr "Discover Android games free download on APKPure Android App Store."
 
 msgctxt "[\"meta\"][\"New\"][\"title\"]"
 msgid "Download the latest {0} APK | APKPure.com"
