@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-08-23 06:21+0000\n"
-"PO-Revision-Date: 2017-08-03 23:47+0000\n"
-"Last-Translator: Rolf Katgert <rolfbutterfly12@gmail.com>\n"
+"PO-Revision-Date: 2017-08-23 23:52+0000\n"
+"Last-Translator: cirino schrijver <cfb.schrijver@hotmail.com>\n"
 "Language-Team: Dutch "
 "<https://translate.apkpure.com/projects/apkpure/apkpurecom/nl/>\n"
 "Language: nl\n"
@@ -14,7 +14,6 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: Weblate 2.14.1\n"
 
-#, fuzzy
 msgctxt "[\"NAV-GAME\"]"
 msgid "GAMES"
 msgstr "SPELLEN"
@@ -169,11 +168,11 @@ msgstr "Populaire spellen de afgelopen {0} uur"
 
 msgctxt "[\"POPULAR_APPS_IN_LAST_HOURS\"]"
 msgid "Popular Apps In Last {0} Hours"
-msgstr "Populaire apps in de afgelopen {0} uur"
+msgstr "Populaire Apps in de Afgelopen {0} Uur"
 
 msgctxt "[\"POPULAR_APPS_IN_TODAY\"]"
 msgid "Popular Apps In Today"
-msgstr "Populaire apps vandaag"
+msgstr "Populaire Apps Vandaag"
 
 msgctxt "[\"POPULAR_GAMES_IN_TODAY\"]"
 msgid "Popular Games In Today"
@@ -185,7 +184,7 @@ msgstr "Populaire spellen"
 
 msgctxt "[\"HOT_APPS\"]"
 msgid "Hot Apps"
-msgstr "Populaire apps"
+msgstr "Populaire Apps"
 
 msgctxt "[\"CLOSE\"]"
 msgid "Close"
@@ -201,7 +200,7 @@ msgstr "Recent geüpdate spellen"
 
 msgctxt "[\"LATEST_UPDATE_APPS\"]"
 msgid "Latest Update Apps"
-msgstr "Recent geüpdate apps"
+msgstr "Recent Geüpdate Apps"
 
 msgctxt "[\"LATEST_UPDATE\"]"
 msgid "Latest Update"
@@ -213,7 +212,7 @@ msgstr "XAPK is een APK-bestand met OBB-data"
 
 msgctxt "[\"MOST_POPULAR_IN_TODAY\"]"
 msgid "Most Popular In Today"
-msgstr "Meest populair vandaag"
+msgstr "Meest Populair Vandaag"
 
 msgctxt "[\"SIMILAR_OR_RELATED\"]"
 msgid "Similar Or Related"
@@ -489,7 +488,7 @@ msgstr "Online handtekeningverificatie"
 
 msgctxt "[\"SIGN_VERIFY-CLICK_UPLOAD\"]"
 msgid "Click Upload APK file"
-msgstr "Klik om een APK-bestand te uploaden"
+msgstr "Klik om een APK-bestand te Uploaden"
 
 msgctxt "[\"SIGN_VERIFY-MAXIMUM\"]"
 msgid "Maximum file size"
@@ -746,7 +745,7 @@ msgstr "Installeer, beheer en update je apps"
 
 msgctxt "[\"MARKET-BOTTOM_BANNER_TITLE\"]"
 msgid "APKPure App"
-msgstr "APKPure-app"
+msgstr "APKPure-App"
 
 msgctxt "[\"MARKET-BOTTOM_BANNER_DES\"]"
 msgid "Try APKPure App - Download, update and install apks on your Android."
@@ -1438,7 +1437,7 @@ msgstr "Dagelijks geüpdate beste gratis {0} apk downloaden."
 
 msgctxt "[\"meta\"][\"Verify\"][\"title\"]"
 msgid "APK Signature Verification, Official Version APK Detection Service"
-msgstr "APK-handtekeningverificatie, APK-detectieservice van Officiële Versies"
+msgstr "APK-Handtekeningverificatie, APK-Detectieservice van Officiële Versies"
 
 msgctxt "[\"meta\"][\"Verify\"][\"keywords\"]"
 msgid "apk signature verification, apk signature verify, apk signature checker, apk signature viewer, modified apk, free, online, scanner"
@@ -2020,3 +2019,103 @@ msgid "Top best alternative {app_category} {app_type} like {app_name} for Androi
 msgstr ""
 "Top beste alternatieve {app_category} {app_type} zoals {app_name} voor "
 "Android 2017-2018 | APKPure.com"
+
+msgctxt "[\"UPDATE\"]"
+msgid "Update"
+msgstr "Bijwerken"
+
+msgctxt "[\"DETAIL-MORE_FROM\"]"
+msgid "More From {0}"
+msgstr "Meer van {0}"
+
+msgctxt "[\"VERSION-PREVIOUS\"]"
+msgid "Previous versions"
+msgstr "Vorige versies"
+
+msgctxt "[\"VERSION-VERSIONS\"]"
+msgid "Versions"
+msgstr "Versies"
+
+msgctxt "[\"VERSION-REQUIRES_ANDROID\"]"
+msgid "Requires Android"
+msgstr "Android Vereist"
+
+msgctxt "[\"COMMENT-COLLAPSED\"]"
+msgid "comment collapsed"
+msgstr "Reactie ingestort"
+
+msgctxt "[\"COMMENT-SORT_BY_NEWEST\"]"
+msgid "Newest"
+msgstr "Nieuwste"
+
+msgctxt "[\"COMMENT-SORT_BY_NEW\"]"
+msgid "Newest"
+msgstr "Nieuwste"
+
+msgctxt "[\"COMMENT-SORT_BY_OLDEST\"]"
+msgid "Oldest"
+msgstr "Oudste"
+
+msgctxt "[\"COMMENT-SORT_BY_BEST\"]"
+msgid "Best"
+msgstr "Besten"
+
+msgctxt "[\"COMMENT-SORT_BY_MOST_RECENT\"]"
+msgid "Most Recent"
+msgstr "Meest Recent"
+
+msgctxt "[\"COMMENT-SORT_BY_DEFAULT\"]"
+msgid "Sort by default"
+msgstr "Sorteer op standaard"
+
+msgctxt "[\"COMMENT-VOTE\"]"
+msgid "Vote"
+msgstr "Beoordeel"
+
+msgctxt "[\"COMMENT-ERR_INVALID_VIDEO_URL\"]"
+msgid "Invalid Video URL"
+msgstr "Ongeldig Video URL"
+
+msgctxt "[\"COMMENT-LOADING\"]"
+msgid "Comment Loading..."
+msgstr "Bericht Laden..."
+
+msgctxt "[\"USER-USER_LOGIN\"]"
+msgid "User Login"
+msgstr "Gebruiker Login"
+
+msgctxt "[\"USER-USERNAME\"]"
+msgid "Username"
+msgstr "Gebruikersnaam"
+
+msgctxt "[\"USER-PASSWORD\"]"
+msgid "Password"
+msgstr "Wachtwoord"
+
+msgctxt "[\"USER-NEW_USER_REGISTRATION\"]"
+msgid "New User Registration"
+msgstr "Nieuwe Gebruiker Registratie"
+
+msgctxt "[\"USER-SIGN_IN_BTN\"]"
+msgid "SIGN IN"
+msgstr "AANMELDEN"
+
+msgctxt "[\"USER-SIGN_IN\"]"
+msgid "Sign In"
+msgstr "Aanmelden"
+
+msgctxt "[\"USER-SIGN_IN_WITH\"]"
+msgid "Or sign in with"
+msgstr "Of meld aan met"
+
+msgctxt "[\"USER-SIGN_UP_BTN\"]"
+msgid "SIGN UP"
+msgstr "AANMELDEN NIEUW"
+
+msgctxt "[\"USER-SIGN_UP\"]"
+msgid "Sign Up"
+msgstr "Aanmelden Nieuw"
+
+msgctxt "[\"USER-CONFIRM_PASSWORD\"]"
+msgid "Confirm Password"
+msgstr "Wachtwoord Herhalen"
