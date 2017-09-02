@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-03-22 06:52+0000\n"
-"PO-Revision-Date: 2017-08-24 15:17+0000\n"
+"PO-Revision-Date: 2017-09-02 16:15+0000\n"
 "Last-Translator: Zoltán Magyar <zityisoft@gmail.com>\n"
 "Language-Team: Hungarian "
 "<https://translate.apkpure.com/projects/apkpure/apkpurecom/hu/>\n"
@@ -2276,3 +2276,141 @@ msgstr ""
 "{app_short_name} régi verziójú Android APK letöltése vagy frissítése a(z) "
 "{app_short_name} legújabb verzióra. {app_short_name} megjelenési dátumának, "
 "változásnaplójának, stb. áttekintése."
+
+msgctxt "[\"IGNORE\"]"
+msgid "Ignore"
+msgstr "Kihagyás"
+
+msgctxt "[\"OK\"]"
+msgid "OK"
+msgstr "OK"
+
+msgctxt "[\"SEARCH-HISTORY\"]"
+msgid "Search history"
+msgstr "Keresési előzmények"
+
+msgctxt "[\"js\"][\"LANG_IGNORE\"][\"in\"]"
+msgid "नज़रअंदाज़ करना"
+msgstr "Kihagyás"
+
+msgctxt "[\"js\"][\"LANG_TIP\"][\"tw\"]"
+msgid "你是否把當前語言切換成<strong>繁體中文</strong>？"
+msgstr "你是否把當前語言切換成<strong>繁體中文</strong>？"
+
+msgctxt "[\"meta\"][\"Search_hot\"][\"description\"]"
+msgid "Discover Android games free download on APKPure Android App Store."
+msgstr ""
+"Fedezze fel az ingyenesen letölthető Android játékokat az APKPure Android "
+"App Store alkalmazásban."
+
+msgctxt "[\"meta\"][\"Search_hot\"][\"title\"]"
+msgid "Search - APKPure Android App Store"
+msgstr "Keresés - APKPure Android App Store"
+
+msgctxt "[\"meta\"][\"Search_hot\"][\"keywords\"]"
+msgid "Search {add_trending}"
+msgstr "Keresés {add_trending}"
+
+msgctxt "[\"js\"][\"LANG_OK\"][\"ru\"]"
+msgid "ОК"
+msgstr "OK"
+
+msgctxt "[\"js\"][\"LANG_OK\"][\"ar\"]"
+msgid "حسنا"
+msgstr "OK"
+
+msgctxt "[\"js\"][\"LANG_OK\"][\"in\"]"
+msgid "ठीक"
+msgstr "OK"
+
+msgctxt "[\"js\"][\"LANG_OK\"][\"id\"]"
+msgid "baik"
+msgstr "OK"
+
+msgctxt "[\"js\"][\"LANG_OK\"][\"it\"]"
+msgid "ok"
+msgstr "OK"
+
+msgctxt "[\"js\"][\"LANG_OK\"][\"nl\"]"
+msgid "OK"
+msgstr "OK"
+
+msgctxt "[\"js\"][\"LANG_OK\"][\"jp\"]"
+msgid "[OK]"
+msgstr "OK"
+
+msgctxt "[\"js\"][\"LANG_OK\"][\"tw\"]"
+msgid "好的"
+msgstr "OK"
+
+msgctxt "[\"js\"][\"LANG_OK\"][\"es\"]"
+msgid "DE ACUERDO"
+msgstr "OK"
+
+msgctxt "[\"SEARCH-TRENDING\"]"
+msgid "trending searches"
+msgstr "felkapott keresések"
+
+msgctxt "[\"js\"][\"LANG_TIP\"][\"es\"]"
+msgid "¿Quiere cambiar su idioma de preferencia a <strong>español</strong>?"
+msgstr "Módosítja a nyelvi beállításokat? <strong>Spanyol</strong>?"
+
+msgctxt "[\"js\"][\"LANG_TIP\"][\"ru\"]"
+msgid "Вы хотите изменить язык предпочтений на <strong>русский</strong>?"
+msgstr "Módosítja a nyelvi beállításokat? <strong>Orosz</strong>?"
+
+msgctxt "[\"js\"][\"LANG_TIP\"][\"ar\"]"
+msgid "هل تريد تغيير لغة التفضيل إلى </strong>اللغة العربية<strong>؟"
+msgstr "Módosítja a nyelvi beállításokat? </strong>Arab<strong>؟"
+
+msgctxt "[\"js\"][\"LANG_TIP\"][\"in\"]"
+msgid "क्या आप अपनी वरीयता भाषा को <strong>हिंदी</strong> में बदलना चाहते हैं?"
+msgstr "Módosítja a nyelvi beállításokat? <strong>Hindi</strong>"
+
+msgctxt "[\"js\"][\"LANG_TIP\"][\"id\"]"
+msgid "Apakah Anda ingin mengubah bahasa pilihan Anda <strong>ke bahasa Indonesia</strong>?"
+msgstr "Módosítja a nyelvi beállításokat? <strong>Indonéz</strong>"
+
+msgctxt "[\"js\"][\"LANG_TIP\"][\"it\"]"
+msgid "Vuoi cambiare la tua lingua preferenziale in <strong>italiano</strong>?"
+msgstr "Módosítja a nyelvi beállításokat? <strong>Olasz</strong>"
+
+msgctxt "[\"js\"][\"LANG_TIP\"][\"nl\"]"
+msgid "Wilt u uw voorkeurstaal naar <strong>Nederlands</strong> veranderen?"
+msgstr "Átvált <strong>Holland</strong> nyelvre?"
+
+msgctxt "[\"js\"][\"LANG_TIP\"][\"jp\"]"
+msgid "あなたの嗜好言語を<strong>日本語</strong>に変更したいですか？"
+msgstr "Átvált<strong>japán</strong>nyelvre?"
+
+msgctxt "[\"js\"][\"LANG_IGNORE\"][\"tw\"]"
+msgid "忽略"
+msgstr "Kihagyás"
+
+msgctxt "[\"js\"][\"LANG_IGNORE\"][\"es\"]"
+msgid "Ignorar"
+msgstr "Kihagyás"
+
+msgctxt "[\"js\"][\"LANG_IGNORE\"][\"ru\"]"
+msgid "игнорировать"
+msgstr "Kihagyás"
+
+msgctxt "[\"js\"][\"LANG_IGNORE\"][\"ar\"]"
+msgid "تجاهل"
+msgstr "Kihagyás"
+
+msgctxt "[\"js\"][\"LANG_IGNORE\"][\"id\"]"
+msgid "Mengabaikan"
+msgstr "Kihagyás"
+
+msgctxt "[\"js\"][\"LANG_IGNORE\"][\"it\"]"
+msgid "Ignorare"
+msgstr "Kihagyás"
+
+msgctxt "[\"js\"][\"LANG_IGNORE\"][\"nl\"]"
+msgid "Negeren"
+msgstr "Kihagyás"
+
+msgctxt "[\"js\"][\"LANG_IGNORE\"][\"jp\"]"
+msgid "無視する"
+msgstr "Kihagyás"
