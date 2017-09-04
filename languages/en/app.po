@@ -70,6 +70,14 @@ msgctxt "[\"FREE\"]"
 msgid "Free"
 msgstr "Free"
 
+msgctxt "[\"TOP-UPDATED-APPS\"]"
+msgid "Top Updated Apps"
+msgstr "Top Updated Apps"
+
+msgctxt "[\"TOP-UPDATED-GAMES\"]"
+msgid "Top Updated Games"
+msgstr "Top Updated Games"
+
 msgctxt "[\"READ_MORE\"]"
 msgid "Read More"
 msgstr "Read More"
