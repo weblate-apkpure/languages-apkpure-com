@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-03-31 09:34+0000\n"
-"PO-Revision-Date: 2017-09-04 18:38+0000\n"
-"Last-Translator: *PhetOfFuX* <phetlovephet@gmail.com>\n"
+"PO-Revision-Date: 2017-09-05 03:08+0000\n"
+"Last-Translator: boon song <songb954@gmail.com>\n"
 "Language-Team: Thai "
 "<https://translate.apkpure.com/projects/apkpure/apkpurecom/th/>\n"
 "Language: th\n"
@@ -270,10 +270,12 @@ msgctxt "[\"DETAIL-MOBILE_XAPK_SHORT_DES\"]"
 msgid "Click to get XAPK Installer"
 msgstr "คลิกเพื่อรับตัวติดตั้ง XAPK"
 
+#, fuzzy
 msgctxt "[\"DETAIL-CATEGORY\"]"
 msgid "Category"
 msgstr "หมวดหมู่"
 
+#, fuzzy
 msgctxt "[\"DETAIL-LATEST_VERSION\"]"
 msgid "Latest Version"
 msgstr "เวอรชั่นล่าสุด"
@@ -283,6 +285,7 @@ msgctxt "[\"DETAIL-PUBLISH_DATE\"]"
 msgid "Publish Date"
 msgstr "วันที่ลง"
 
+#, fuzzy
 msgctxt "[\"DETAIL-GET_IT_ON\"]"
 msgid "Get it on"
 msgstr "รับได้ที่"
@@ -292,6 +295,7 @@ msgctxt "[\"DETAIL-REQUIREMENTS\"]"
 msgid "Requirements"
 msgstr "ความต้องการของระบบ"
 
+#, fuzzy
 msgctxt "[\"DETAIL-AUTHOR\"]"
 msgid "Author"
 msgstr "ผู้เขียน"
@@ -1405,10 +1409,12 @@ msgctxt "[\"INDEX-POPULAR_CATEGORIES\"]"
 msgid "Popular categories"
 msgstr "หมวดหมู่ยอดนิยม"
 
+#, fuzzy
 msgctxt "[\"DETAIL-REPORT\"]"
 msgid "Report"
 msgstr "รายงาน"
 
+#, fuzzy
 msgctxt "[\"DETAIL-FLAG_AS_INAPPROPRIATE\"]"
 msgid "Flag as inappropriate"
 msgstr "ปักธงว่าไม่เหมาะสม"
