@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-03-22 06:53+0000\n"
-"PO-Revision-Date: 2017-09-04 10:04+0000\n"
-"Last-Translator: tatsu u <utatsu716@gmail.com>\n"
+"PO-Revision-Date: 2017-09-11 06:27+0000\n"
+"Last-Translator: leao mett <leaomett@gmail.com>\n"
 "Language-Team: Japanese "
 "<https://translate.apkpure.com/projects/apkpure/apkpurecom/ja/>\n"
 "Language: ja\n"
@@ -735,11 +735,11 @@ msgstr "{0} APK"
 
 msgctxt "[\"tip\"][\"LIST_DOWN\"]"
 msgid "Download {0} latest version apk"
-msgstr "apk最新版 {0}をダウンローダしてください"
+msgstr "apk 最新版 {0}をダウンローダしてください"
 
 msgctxt "[\"tip\"][\"LIST_DOWN_XAPK\"]"
 msgid "Download {0} latest version xapk"
-msgstr "apk最新版 {0}をダウンローダしてください"
+msgstr "apk 最新版 {0} をダウンローダしてください"
 
 msgctxt "[\"tip\"][\"VERSION_DOWN\"]"
 msgid "Download {app_name} {version_name} ({version_code}) {file_type}"
@@ -747,31 +747,31 @@ msgstr "ダウンローダ {app_name} {version_name} ({version_code}) {file_type
 
 msgctxt "[\"tip\"][\"RATING\"]"
 msgid "{app_name} average rating {rating_average}"
-msgstr "{app_name} 格付け{rating_average}"
+msgstr "{app_name} 格付け {rating_average}"
 
 msgctxt "[\"tip\"][\"QR_DOWN\"]"
 msgid "{0} QR code download"
-msgstr "{0}QRコードダウンローダ"
+msgstr "{0} QRコードダウンローダ"
 
 msgctxt "[\"tip\"][\"SAFE_VERIFIED\"]"
 msgid "{0} safe verified"
-msgstr "{0}安全実証"
+msgstr "{0} 安全実証"
 
 msgctxt "[\"tip\"][\"SCREEN_POSTER\"]"
 msgid "{0} poster"
-msgstr "{0}ポスター"
+msgstr "{0} ポスター"
 
 msgctxt "[\"tip\"][\"SCREEN\"]"
 msgid "{0} apk screenshot"
-msgstr "{0} apkスクリーンショット"
+msgstr "{0} apk スクリーンショット"
 
 msgctxt "[\"tip\"][\"CATEGORY_GAME\"]"
 msgid "Download more {0} games"
-msgstr "もっと多くの{0}ゲームをダウンローダする"
+msgstr "もっと多くの {0} titleゲームをダウンローダする"
 
 msgctxt "[\"tip\"][\"CATEGORY_APP\"]"
 msgid "Download more {0} apps"
-msgstr "もっと多くの{0} appsをダウンローダする"
+msgstr "もっと多くの {0} appsをダウンローダする"
 
 msgctxt "[\"tip\"][\"GET_IT_ON_GOOGLE_PLAY\"]"
 msgid "Get {0} on Google Play"
@@ -1035,7 +1035,8 @@ msgstr ""
 
 msgctxt "[\"meta\"][\"Details\"][\"title\"]"
 msgid "{app_name} APK Download - Free {app_category} {app_type} for Android | APKPure.com"
-msgstr "{app_name}APKダウンロード-無料 {app_category} {app_type}Android用- APKPure公式サイト"
+msgstr ""
+"{app_name} APK ダウンロード- 無料 {app_category} {app_type} Android 用 | APKPure公式サイト"
 
 msgctxt "[\"meta\"][\"Details\"][\"keywords\"]"
 msgid "{app_name} apk, {app_name} apk download, {app_name} download, {app_name}.apk, {app_name} android, {app_name} google play, {app_category} {app_type} download"
@@ -1621,7 +1622,7 @@ msgstr "[ご注意を] {0} APKは改造版です。インストールをお勧�
 
 msgctxt "[\"meta\"][\"Index\"][\"title\"]"
 msgid "Download APK free online downloader | APKPure.com"
-msgstr "APKPure APKを通じてオンラインでAPKをダウンローダする | APKPure公式サイト"
+msgstr "APKPure APKを通じてオンラインで APK をダウンローダする | APKPure公式サイト"
 
 msgctxt "[\"meta\"][\"Index\"][\"keywords\"]"
 msgid "apk download, apk downloader, android apk download"
@@ -2122,12 +2123,13 @@ msgstr "{0} スクリーンショット {1}"
 
 msgctxt "[\"meta\"][\"Details_new\"][\"title\"]"
 msgid "{app_short_name} for Android - APK Download"
-msgstr "Android用の{app_short_name} APKをダウンロード"
+msgstr "Android 用の {app_short_name} APKをダウンロード"
 
 msgctxt "[\"meta\"][\"Details_new\"][\"description\"]"
 msgid "Download {app_short_name} apk {version_name} for Android. {app_short_description}"
 msgstr ""
-"Android用の{app_short_name} apk {version_name}をダウンロード。 {app_short_description}"
+"Android 用の{app_short_name} apk {version_name} をダウンロード。 "
+"{app_short_description}"
 
 msgctxt "[\"meta\"][\"Details_new\"][\"keywords\"]"
 msgid "{app_short_name}, {app_short_name} for android, {app_short_name} android download, {app_short_name} apk, {app_short_name} android apk, {app_short_name} download"
@@ -2211,7 +2213,7 @@ msgstr "検索履歴"
 
 msgctxt "[\"js\"][\"LANG_TIP\"][\"tw\"]"
 msgid "你是否把當前語言切換成<strong>繁體中文</strong>？"
-msgstr ""
+msgstr "你是否把當前語言切換成<strong> 1繁體中文</strong> 2？"
 
 msgctxt "[\"js\"][\"LANG_IGNORE\"][\"tw\"]"
 msgid "忽略"
@@ -2219,7 +2221,7 @@ msgstr "無視する"
 
 msgctxt "[\"js\"][\"LANG_IGNORE\"][\"es\"]"
 msgid "Ignorar"
-msgstr ""
+msgstr "Ignorar"
 
 msgctxt "[\"meta\"][\"Search_hot\"][\"keywords\"]"
 msgid "Search {add_trending}"
@@ -2240,3 +2242,59 @@ msgstr "最新のアプリバージョン"
 msgctxt "[\"TOP-UPDATED-GAMES\"]"
 msgid "Top Updated Games"
 msgstr "最新のゲームバージョン"
+
+msgctxt "[\"js\"][\"LANG_TIP\"][\"es\"]"
+msgid "¿Quiere cambiar su idioma de preferencia a <strong>español</strong>?"
+msgstr ""
+"¿Quiere cambiar su idioma de preferencia a <strong> 1español</strong> 2?"
+
+msgctxt "[\"js\"][\"LANG_TIP\"][\"ru\"]"
+msgid "Вы хотите изменить язык предпочтений на <strong>русский</strong>?"
+msgstr "Вы хотите изменить язык предпочтений на <strong> 1русский</strong> 2?"
+
+msgctxt "[\"js\"][\"LANG_TIP\"][\"ar\"]"
+msgid "هل تريد تغيير لغة التفضيل إلى </strong>اللغة العربية<strong>؟"
+msgstr "هل تريد تغيير لغة التفضيل إلى </strong>اللغة العربية<strong>؟"
+
+msgctxt "[\"js\"][\"LANG_TIP\"][\"in\"]"
+msgid "क्या आप अपनी वरीयता भाषा को <strong>हिंदी</strong> में बदलना चाहते हैं?"
+msgstr "क्या आप अपनी वरीयता भाषा को <strong>हिंदी</strong> में बदलना चाहते हैं?"
+
+msgctxt "[\"js\"][\"LANG_TIP\"][\"id\"]"
+msgid "Apakah Anda ingin mengubah bahasa pilihan Anda <strong>ke bahasa Indonesia</strong>?"
+msgstr ""
+"Apakah Anda ingin mengubah bahasa pilihan Anda <strong>ke bahasa "
+"Indonesia</strong>?"
+
+msgctxt "[\"js\"][\"LANG_TIP\"][\"it\"]"
+msgid "Vuoi cambiare la tua lingua preferenziale in <strong>italiano</strong>?"
+msgstr "Vuoi cambiare la tua lingua preferenziale in <strong>italiano</strong>?"
+
+msgctxt "[\"js\"][\"LANG_TIP\"][\"nl\"]"
+msgid "Wilt u uw voorkeurstaal naar <strong>Nederlands</strong> veranderen?"
+msgstr ""
+"Wilt u uw voorkeurstaal naar <strong> 1Nederlands</strong> 2 veranderen?"
+
+msgctxt "[\"js\"][\"LANG_IGNORE\"][\"ru\"]"
+msgid "игнорировать"
+msgstr "игнорировать"
+
+msgctxt "[\"js\"][\"LANG_IGNORE\"][\"ar\"]"
+msgid "تجاهل"
+msgstr "تجاهل"
+
+msgctxt "[\"js\"][\"LANG_IGNORE\"][\"in\"]"
+msgid "नज़रअंदाज़ करना"
+msgstr "नज़रअंदाज़ करना"
+
+msgctxt "[\"js\"][\"LANG_IGNORE\"][\"id\"]"
+msgid "Mengabaikan"
+msgstr "Mengabaikan"
+
+msgctxt "[\"js\"][\"LANG_IGNORE\"][\"it\"]"
+msgid "Ignorare"
+msgstr "Ignorare"
+
+msgctxt "[\"js\"][\"LANG_IGNORE\"][\"nl\"]"
+msgid "Negeren"
+msgstr "Negeren"
