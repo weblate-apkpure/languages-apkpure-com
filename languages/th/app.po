@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-03-31 09:34+0000\n"
-"PO-Revision-Date: 2017-08-31 10:25+0000\n"
-"Last-Translator: BaKSiTzaa NoTiMe <baksitzaa@gmail.com>\n"
+"PO-Revision-Date: 2017-09-05 03:08+0000\n"
+"Last-Translator: boon song <songb954@gmail.com>\n"
 "Language-Team: Thai "
 "<https://translate.apkpure.com/projects/apkpure/apkpurecom/th/>\n"
 "Language: th\n"
@@ -38,10 +38,9 @@ msgctxt "[\"NAV-NEW_GAME\"]"
 msgid "NEW GAME"
 msgstr "เกมส์ใหม่ล่าสุด"
 
-#, fuzzy
 msgctxt "[\"NAV-NEW_APP\"]"
 msgid "NEW APP"
-msgstr "NEW APP"
+msgstr "แอปใหม่ล่าสุด"
 
 msgctxt "[\"NAV-XAPK_GAME\"]"
 msgid "XAPK GAME"
@@ -207,7 +206,6 @@ msgctxt "[\"LATEST_UPDATE\"]"
 msgid "Latest Update"
 msgstr "อัพเดตล่าสุด"
 
-#, fuzzy
 msgctxt "[\"XAPK_IS_APK_WITH_OBB_DATA\"]"
 msgid "XAPK is APK with OBB data"
 msgstr "XAPK คือ  APK ที่มาพร้อมไฟล์ OBB"
@@ -224,10 +222,9 @@ msgctxt "[\"INDEX-TITLE\"]"
 msgid "Download free Android Games and Android Apps."
 msgstr "ดาวน์โหลดแอปแอนดรอยด์และเกมส์แอนดรอยด์ฟรี"
 
-#, fuzzy
 msgctxt "[\"INDEX-MOBILE_TITLE\"]"
 msgid "Download free Android Games and Apps."
-msgstr "ดาวน์โหลดเกมและแอพแอนดรอยด์ฟรี"
+msgstr "ดาวน์โหลดเกมส์และแอพแอนดรอยด์ฟรี"
 
 msgctxt "[\"INDEX-HOW_TO_DOWNLOAD\"]"
 msgid "How to download apk files?"
@@ -237,25 +234,21 @@ msgctxt "[\"INDEX-FAQ\"]"
 msgid "FAQ"
 msgstr "FAQ"
 
-#, fuzzy
 msgctxt "[\"DOWNLOAD_APK\"]"
 msgid "Download APK"
-msgstr "ดาว์โหลดapk"
+msgstr "ดาวน์โหลดAPK"
 
-#, fuzzy
 msgctxt "[\"DETAIL-PAID_GAME\"]"
 msgid "Paid Game"
-msgstr "เกมที่เสียเงิน"
+msgstr "เกมเสียเงิน"
 
-#, fuzzy
 msgctxt "[\"DETAIL-PAID_APP\"]"
 msgid "Paid App"
-msgstr "แอพที่เสียเงิน"
+msgstr "แอพเสียเงิน"
 
-#, fuzzy
 msgctxt "[\"DETAIL-PAID_GAME_DES\"]"
 msgid "Paid games are not available to download"
-msgstr "เกมที่เสียเงินจะไม่สามารถดาวน์โหลดได้"
+msgstr "เกมเสียเงินจะไม่สามารถดาวน์โหลดได้"
 
 msgctxt "[\"DETAIL-PAID_APP_DES\"]"
 msgid "Paid apps are not available to download"
@@ -265,10 +258,9 @@ msgctxt "[\"DETAIL-WHY_SAFE\"]"
 msgid "Why we can guarantee APK 100% safe?"
 msgstr "ไฟล์ APK ปลอดภัยหรือเปล่า?"
 
-#, fuzzy
 msgctxt "[\"DETAIL-SAFE\"]"
 msgid "Verification passed"
-msgstr "ผ่านการตรวจสอบ"
+msgstr "ผ่านการตรวจสอบแล้ว"
 
 msgctxt "[\"DETAIL-XAPK_SHORT_DES\"]"
 msgid "XAPK is APK with OBB data, Click to get XAPK Installer"
@@ -278,10 +270,12 @@ msgctxt "[\"DETAIL-MOBILE_XAPK_SHORT_DES\"]"
 msgid "Click to get XAPK Installer"
 msgstr "คลิกเพื่อรับตัวติดตั้ง XAPK"
 
+#, fuzzy
 msgctxt "[\"DETAIL-CATEGORY\"]"
 msgid "Category"
 msgstr "หมวดหมู่"
 
+#, fuzzy
 msgctxt "[\"DETAIL-LATEST_VERSION\"]"
 msgid "Latest Version"
 msgstr "เวอรชั่นล่าสุด"
@@ -291,6 +285,7 @@ msgctxt "[\"DETAIL-PUBLISH_DATE\"]"
 msgid "Publish Date"
 msgstr "วันที่ลง"
 
+#, fuzzy
 msgctxt "[\"DETAIL-GET_IT_ON\"]"
 msgid "Get it on"
 msgstr "รับได้ที่"
@@ -303,7 +298,7 @@ msgstr "ความต้องการของระบบ"
 #, fuzzy
 msgctxt "[\"DETAIL-AUTHOR\"]"
 msgid "Author"
-msgstr "ผู้แต่ง"
+msgstr "ผู้เขียน"
 
 msgctxt "[\"DETAIL-VOTES\"]"
 msgid "votes"
@@ -325,19 +320,17 @@ msgctxt "[\"DETAIL-UPDATE_ON\"]"
 msgid "Update on"
 msgstr "อัพเดตเมื่อ"
 
-#, fuzzy
 msgctxt "[\"DETAIL-SIGNATURE\"]"
 msgid "Signature"
-msgstr ""
+msgstr "แนะนำ"
 
-#, fuzzy
 msgctxt "[\"DETAIL-FILE_SHA1\"]"
 msgid "File SHA1"
-msgstr ""
+msgstr "ฆ่าไฟล์1"
 
 msgctxt "[\"DETAIL-WHATS_NEW\"]"
 msgid "What's new"
-msgstr "มีอะไรใหม่?"
+msgstr "มีอะไรใหม่"
 
 msgctxt "[\"DETAIL-VERSION_HISTORY\"]"
 msgid "Version History"
@@ -345,7 +338,7 @@ msgstr "เวอร์ชั่นทั้งหมด"
 
 msgctxt "[\"DETAIL-MORE_FROM_DEVELOPER\"]"
 msgid "More From Developer"
-msgstr "เพิ่มเติมสำหรับผู้พัฒนา"
+msgstr "เพิ่มเติมจากผู้พัฒนา"
 
 msgctxt "[\"DETAIL-COMMENTS\"]"
 msgid "Comments"
@@ -355,54 +348,45 @@ msgctxt "[\"DETAIL-FOLLOW_UPDATES\"]"
 msgid "Follow Updates"
 msgstr "ติดตามข่าวสาร"
 
-#, fuzzy
 msgctxt "[\"DETAIL-REQUEST_UPDATE\"]"
 msgid "Request Update"
-msgstr "แจ้งการอัพเดต"
+msgstr "มีอัพเดทใหม่"
 
-#, fuzzy
 msgctxt "[\"DETAIL-RATING\"]"
 msgid "{votes} votes, average: {rating_average} out of {rating_best}"
-msgstr ""
+msgstr "{votes} โหวตโดยเฉลี่ย: {rating_averaged} มากกว่า {rating_best}"
 
-#, fuzzy
 msgctxt "[\"DETAIL-MORE_DEVELOPER\"]"
 msgid "Get more from {0}"
-msgstr ""
+msgstr "ต้องการแอพอื่นจาก {0}"
 
-#, fuzzy
 msgctxt "[\"DETAIL-REMOVED\"]"
 msgid "Removed"
-msgstr ""
+msgstr "ลบออกแล้ว"
 
-#, fuzzy
 msgctxt "[\"DETAIL-CATEGORY_GAME\"]"
 msgid "{0} GAME"
-msgstr ""
+msgstr "{0} เกม"
 
-#, fuzzy
 msgctxt "[\"DETAIL-CATEGORY_APP\"]"
 msgid "{0} APP"
-msgstr ""
+msgstr "{0} แอพ"
 
-#, fuzzy
 msgctxt "[\"DETAIL-VERSION_LOAD_MORE\"]"
 msgid "Load more"
-msgstr ""
+msgstr "ดูเพิ่มเติม"
 
-#, fuzzy
 msgctxt "[\"DETAIL-VERSION_MORE\"]"
 msgid "More..."
-msgstr ""
+msgstr "เพิ่มเติม..."
 
 msgctxt "[\"DETAIL-TRANSLATE\"]"
 msgid "Translate"
-msgstr ""
+msgstr "แปลภาษา"
 
-#, fuzzy
 msgctxt "[\"DETAIL-DELETED_COPYRIGHT_GOOGLE_PLAY_URL\"]"
 msgid "Download on Google Play"
-msgstr ""
+msgstr "ดาวน์โหลดผ่าน Google Play"
 
 msgctxt "[\"DETAIL-DELETED_COPYRIGHT_GOOGLE_PLAY_DES\"]"
 msgid "{app_name} All rights reserved ©2016 {developer}. {developer} and the {developer} logo are trademarks of {developer} in the U.S. and/or other countries.All other trademarks are the property of their respective owners."
@@ -410,7 +394,7 @@ msgstr ""
 
 msgctxt "[\"REGION_DOWN-TITLE\"]"
 msgid "Region free APK download"
-msgstr ""
+msgstr "ดาวน์โหลดฟรี APK ในภูมิภาค"
 
 msgctxt "[\"REGION_DOWN-DES\"]"
 msgid "Break all Google Play Store restricted region locking rules to download free apps APK for Android phone and tablet."
@@ -419,38 +403,39 @@ msgstr ""
 msgctxt "[\"REGION_DOWN-PLACEHOLDER\"]"
 msgid "com.facebook.katana or https://play.google.com...?id=com.facebook.katana"
 msgstr ""
+"com.facebook.katana หรือ https://play.google.com...?id=com.facebook.katana"
 
 msgctxt "[\"REGION_DOWN-SEARCH\"]"
 msgid "Search"
-msgstr ""
+msgstr "ค้นหา"
 
 msgctxt "[\"REGION_DOWN-COUNTRY_NAME\"]"
 msgid "Country name or Region code"
-msgstr ""
+msgstr "ชื่อประเทศหรือรหัสภูมิภาค"
 
 msgctxt "[\"REGION_DOWN-MOBILE_TITLE\"]"
 msgid "APK Downloader"
-msgstr ""
+msgstr "APK ดาวน์โหลดเดอร์"
 
 msgctxt "[\"REGION_DOWN-MOBILE_DES\"]"
 msgid "All Region Games and Apps Download."
-msgstr ""
+msgstr "ดาวน์โหลดเกมส์และแอพทุกภูมิภาค"
 
 msgctxt "[\"LAST_DOWNLOAD\"]"
 msgid "Last Download"
-msgstr ""
+msgstr "ดาวน์โหลดล่าสุด"
 
 msgctxt "[\"SIGN_VERIFY-TITLE\"]"
 msgid "Signature Verification Online"
-msgstr ""
+msgstr "การยืนยันการแนะนำออนไลน์"
 
 msgctxt "[\"SIGN_VERIFY-CLICK_UPLOAD\"]"
 msgid "Click Upload APK file"
-msgstr ""
+msgstr "อัพโหลดไฟล์ APK"
 
 msgctxt "[\"SIGN_VERIFY-MAXIMUM\"]"
 msgid "Maximum file size"
-msgstr ""
+msgstr "ขนากไฟล์มากสุด"
 
 msgctxt "[\"SIGN_VERIFY-DES\"]"
 msgid "APK Signature verification will verify Android app package signature to keep Android users away from potentially harmful APK files (Modified version .apk or not official version download from Google Play Store) before APK installing."
@@ -458,39 +443,39 @@ msgstr ""
 
 msgctxt "[\"SIGN_VERIFY-PACKAGE_NAME\"]"
 msgid "Package Name"
-msgstr ""
+msgstr "ชื่อแพ็คเก็ต"
 
 msgctxt "[\"SIGN_VERIFY-SIGNATURE\"]"
 msgid "Signature"
-msgstr ""
+msgstr "แนะนำ"
 
 msgctxt "[\"SIGN_VERIFY-FILE_SHA1\"]"
 msgid "File SHA1"
-msgstr ""
+msgstr "ฆ่าไฟล์1"
 
 msgctxt "[\"SIGN_VERIFY-FILE_SIZE\"]"
 msgid "File Size"
-msgstr ""
+msgstr "ขนาดไฟล์"
 
 msgctxt "[\"SEARCH-ADVANCED_SEARCH\"]"
 msgid "Advanced Search"
-msgstr ""
+msgstr "การค้นหาขั้นสูง"
 
 msgctxt "[\"SEARCH-SEARCH_RESULTS\"]"
 msgid "{0} search results found."
-msgstr ""
+msgstr "พบ {0} จากการค้นหา"
 
 msgctxt "[\"SEARCH-NO_RESULTS_FOUND\"]"
 msgid "No results found? Try to advanced search again."
-msgstr ""
+msgstr "ไม่เจอผลการค้นหาเหรอ? ลองค้นหาขั้นสูงอีกครั้ง"
 
 msgctxt "[\"SEARCH-SELECT_REGION\"]"
 msgid "Select a region you want to search with"
-msgstr ""
+msgstr "เลือกภูมิภาคเพื่อค้นหา"
 
 msgctxt "[\"SEARCH-ABOUT_RESULTS\"]"
 msgid "About {0} results"
-msgstr ""
+msgstr "พบเพิ่มเติม {0}"
 
 msgctxt "[\"SEARCH-PLACEHOLDER1\"]"
 msgid "APKPure or com.apkpure.aegon or https://play.google.com/store/apps/details?id=com.facebook.katana"
@@ -498,11 +483,11 @@ msgstr ""
 
 msgctxt "[\"SEARCH-PLACEHOLDER2\"]"
 msgid "Search..."
-msgstr ""
+msgstr "ค้นหา..."
 
 msgctxt "[\"SEARCH-PLACEHOLDER3\"]"
 msgid "Name Or Package Name"
-msgstr ""
+msgstr "ชื่อหรือชื่อแพ็คเก็ต"
 
 msgctxt "[\"SEARCH-TITLE\"]"
 msgid "Enter App Name, Package Name, Package ID, or Google Play URL"
@@ -510,15 +495,15 @@ msgstr ""
 
 msgctxt "[\"SEARCH-APK\"]"
 msgid "Search APK"
-msgstr ""
+msgstr "ค้นหา APK"
 
 msgctxt "[\"404-OOPS\"]"
 msgid "OOPS!,"
-msgstr ""
+msgstr "ซวยแล้วล่ะ"
 
 msgctxt "[\"404-Error_404\"]"
 msgid "Error 404!"
-msgstr ""
+msgstr "ผิดพลาด 404!"
 
 msgctxt "[\"404-DES\"]"
 msgid "It seems that page you are looking for no longer exists.<br />You can explore more Android Games and Apps below！"
@@ -534,19 +519,19 @@ msgstr ""
 
 msgctxt "[\"COMING_SOON\"]"
 msgid "COMING SOON"
-msgstr ""
+msgstr "เร็วๆนี้"
 
 msgctxt "[\"SEARCHING\"]"
 msgid "Searching..."
-msgstr ""
+msgstr "กำลังค้นหา..."
 
 msgctxt "[\"FOOTER-APK_DOWNLOADER_SEO\"]"
 msgid "APK Downloader"
-msgstr ""
+msgstr "APK ดาวน์โหลดเดอร์"
 
 msgctxt "[\"FOOTER-APK_DOWNLOADS_SEO\"]"
 msgid "APK Downloads"
-msgstr ""
+msgstr "APK ดาวน์โหลดเดอร์"
 
 msgctxt "[\"FOOTER-APK_DOWNLOAD\"]"
 msgid "APK Download"
@@ -554,19 +539,19 @@ msgstr ""
 
 msgctxt "[\"FOOTER-APK_INSTALL\"]"
 msgid "APK Install"
-msgstr ""
+msgstr "ติดตั้ง APK"
 
 msgctxt "[\"FOOTER-APK_SIGNATURE_VERIFICATION\"]"
 msgid "APK Signature Verification"
-msgstr ""
+msgstr "APK การแนะนำยืนยัน"
 
 msgctxt "[\"FOOTER-APK_TO_APPX\"]"
 msgid "APK to APPX"
-msgstr ""
+msgstr "APK ไปยัง APPX"
 
 msgctxt "[\"FOOTER-PRIVACY_POLICY\"]"
 msgid "Privacy Policy"
-msgstr ""
+msgstr "ข้อตกลงของผู้สมัคร"
 
 msgctxt "[\"FOOTER-DMCA\"]"
 msgid "DMCA"
@@ -1420,90 +1405,417 @@ msgctxt "[\"NAV-APP\"]"
 msgid "APPS"
 msgstr "แอพ"
 
-#, fuzzy
 msgctxt "[\"INDEX-POPULAR_CATEGORIES\"]"
 msgid "Popular categories"
-msgstr "Popular categories"
+msgstr "หมวดหมู่ยอดนิยม"
 
+#, fuzzy
 msgctxt "[\"DETAIL-REPORT\"]"
 msgid "Report"
 msgstr "รายงาน"
 
+#, fuzzy
 msgctxt "[\"DETAIL-FLAG_AS_INAPPROPRIATE\"]"
 msgid "Flag as inappropriate"
 msgstr "ปักธงว่าไม่เหมาะสม"
 
-#, fuzzy
 msgctxt "[\"VERIFICATION_CODE\"]"
 msgid "Verification code"
-msgstr "Verification code"
+msgstr "รหัสยืนยันตัวตน"
 
-#, fuzzy
 msgctxt "[\"VERIFICATION_INCORRECT\"]"
 msgid "The verification code is incorrect!"
-msgstr "The verification code is incorrect!"
+msgstr "รหัสยืนยันตัวตนผิด!"
 
-#, fuzzy
 msgctxt "[\"VERIFICATION_DOWN\"]"
 msgid "Enter the code(s) as you see in the image, then click \"Download\"."
-msgstr "Enter the code(s) as you see in the image, then click \"Download\"."
+msgstr "เติมคำที่เห็นในรูปภาพ แล้วคลิ๊ก \"ดาวน์โหลด\"."
 
 msgctxt "[\"TOPICS\"]"
 msgid "Topics"
-msgstr ""
+msgstr "หัวข้อ"
 
-#, fuzzy
 msgctxt "[\"SIMILAR_TO\"]"
 msgid "Similar to {0}"
-msgstr ""
+msgstr "คล้ายคลึงกัน {0}"
 
-#, fuzzy
 msgctxt "[\"CANCEL\"]"
 msgid "Cancel"
-msgstr ""
+msgstr "ยกเลิก"
 
-#, fuzzy
 msgctxt "[\"DETAIL-APK_FILE_SHA1\"]"
 msgid "APK File SHA1"
-msgstr ""
+msgstr "APK ฆ่าไฟล์1"
 
-#, fuzzy
 msgctxt "[\"DETAIL-XAPK_FILE_SHA1\"]"
 msgid "XAPK File SHA1"
-msgstr ""
+msgstr "XAPK ฆ่าไฟล์1"
 
-#, fuzzy
 msgctxt "[\"DETAIL-RATING1\"]"
 msgid "average: {rating_average} out of {rating_best}"
-msgstr ""
+msgstr "เฉลี่ย: {rating_average} มากกว่า {rating_best}"
 
 msgctxt "[\"DETAIL-GP_DOWNLOAD\"]"
 msgid "Install on Google Play"
-msgstr ""
+msgstr "ติดตั้งผ่าน Google Play"
 
-#, fuzzy
 msgctxt "[\"DETAIL-ITUNE_DOWNLOAD\"]"
 msgid "Install on iTunes"
-msgstr ""
+msgstr "ติดตั้งผ่าน iTunes"
 
-#, fuzzy
 msgctxt "[\"DETAIL-MORE_DOWNLOAD\"]"
 msgid "More Download Locations:"
-msgstr ""
+msgstr "ตำแหน่งดาวน์โหลดเพิ่มเติม:"
 
 msgctxt "[\"DETAIL-DELETED_COPYRIGHT_GOOGLE_PLAY_DES\"]"
 msgid "{app_name} All rights reserved ©2017 {developer}. {developer} and the {developer} logo are trademarks of {developer} in the U.S. and/or other countries.All other trademarks are the property of their respective owners."
 msgstr ""
-"{app_name} All rights reserved ©2017 {developer}. {developer} and the "
-"{developer} logo are trademarks of {developer} in the U.S. and/or other "
-"countries.All other trademarks are the property of their respective owners."
+"{app_name} สงวนลิขสิทธิ์ © 2017 {developer}. {developer} และ {developer} "
+"เครื่องหมายการค้าของ {developer} ในประเทศสหรัฐกับ/หรือประเทศอื่นๆ "
+"เครื่องหมายการค้าอื่น ๆ ทั้งหมดเป็นทรัพย์สินของเจ้าของที่เกี่ยวข"
 
-#, fuzzy
 msgctxt "[\"DETAIL_DOWNLOAD-NAV_DOWNLOAD\"]"
 msgid "Download"
-msgstr ""
+msgstr "ดาวน์โหลด"
 
-#, fuzzy
 msgctxt "[\"DETAIL_DOWNLOAD-DOWNLOADING\"]"
 msgid "Downloading"
+msgstr "กำลังดาวน์โหลด"
+
+msgctxt "[\"IGNORE\"]"
+msgid "Ignore"
+msgstr "ไม่สนใจ"
+
+msgctxt "[\"OK\"]"
+msgid "OK"
+msgstr "ตกลง"
+
+msgctxt "[\"TOP-UPDATED-APPS\"]"
+msgid "Top Updated Apps"
+msgstr "แอปอัพเดทยอดนิยม"
+
+msgctxt "[\"TOP-UPDATED-GAMES\"]"
+msgid "Top Updated Games"
+msgstr "เกมส์อัพเดทยอดนิยม"
+
+msgctxt "[\"UPDATE\"]"
+msgid "Update"
+msgstr "อัพเดท"
+
+msgctxt "[\"DETAIL-MORE_FROM\"]"
+msgid "More From {0}"
+msgstr "อื่นๆจาก {0}"
+
+msgctxt "[\"DETAIL_DOWNLOAD-DOWNLOADING_DES\"]"
+msgid "If the download doesn't start,"
+msgstr "ถ้าการดาวน์โหลดไม่ตอบสนอง"
+
+msgctxt "[\"DETAIL_DOWNLOAD-DOWNLOADING_DES_CLICK\"]"
+msgid "click here"
+msgstr "กดที่นี่"
+
+msgctxt "[\"DETAIL_DOWNLOAD-HOW_TO_INSTALL_APK\"]"
+msgid "How to install APK / XAPK file"
+msgstr "วิธีการติดตั้ง APK / XAPK"
+
+msgctxt "[\"VERSION-PREVIOUS\"]"
+msgid "Previous versions"
+msgstr "เวอร์ชั่นก่อนหน้า"
+
+msgctxt "[\"VERSION-VERSIONS\"]"
+msgid "Versions"
+msgstr "เวอร์ชั่น"
+
+msgctxt "[\"VERSION-REQUIRES_ANDROID\"]"
+msgid "Requires Android"
+msgstr "ความต้องระบบของแอนดรอยด์"
+
+msgctxt "[\"COMMENT-REPORT\"]"
+msgid "Report"
+msgstr "แจ้งปัญหา"
+
+msgctxt "[\"COMMENT-COLLAPSED\"]"
+msgid "comment collapsed"
+msgstr "ยุบความคิดเห็น"
+
+msgctxt "[\"COMMENT-POST\"]"
+msgid "Post"
+msgstr "โพสต์"
+
+msgctxt "[\"COMMENT-COMMENTS\"]"
+msgid "Comments"
+msgstr "ความคิดเห็น"
+
+msgctxt "[\"COMMENT-REPLY\"]"
+msgid "Reply"
+msgstr "ตอบกลับ"
+
+msgctxt "[\"COMMENT-NAME\"]"
+msgid "Name"
+msgstr "ชื่อ"
+
+msgctxt "[\"COMMENT-EMAIL\"]"
+msgid "Email"
+msgstr "อีเมล"
+
+msgctxt "[\"COMMENT-SORT_BY_NEWEST\"]"
+msgid "Newest"
+msgstr "ใหม่สุด"
+
+msgctxt "[\"COMMENT-SORT_BY_NEW\"]"
+msgid "Newest"
+msgstr "ใหม่สุด"
+
+msgctxt "[\"COMMENT-SORT_BY_OLDEST\"]"
+msgid "Oldest"
+msgstr "เก่าสุด"
+
+msgctxt "[\"COMMENT-SORT_BY_BEST\"]"
+msgid "Best"
+msgstr "ยอดนิยม"
+
+msgctxt "[\"COMMENT-SORT_BY_MOST_RECENT\"]"
+msgid "Most Recent"
+msgstr "เมื่อเร็วๆนี้"
+
+msgctxt "[\"COMMENT-SORT_BY_DEFAULT\"]"
+msgid "Sort by default"
+msgstr "ประเภทเดิม"
+
+msgctxt "[\"COMMENT-RATING_REQUIRED\"]"
+msgid "Rating required"
+msgstr "ความต้องการระดับคะแนน"
+
+msgctxt "[\"COMMENT-GUEST\"]"
+msgid "Guest"
+msgstr "ผู้มาเยี่ยมเยียน"
+
+msgctxt "[\"COMMENT-START_THE_DISCUSSION\"]"
+msgid "Start the discussion…"
+msgstr "เริ่มการหักล้าง…"
+
+msgctxt "[\"COMMENT-LOG_IN_WITH\"]"
+msgid "Log in with"
+msgstr "เข้าสู่ระบบด้วย"
+
+msgctxt "[\"COMMENT-COMMENTS_CANT_BE_BLANK\"]"
+msgid "Comments can't be blank."
+msgstr "ความคิดเห็นต้องไม่ว่างเปล่า"
+
+msgctxt "[\"COMMENT-POST_AS_GUEST\"]"
+msgid "Post As a Guest"
+msgstr "โพสต์ในฐานะผู้เยี่ยมเยียน"
+
+msgctxt "[\"COMMENT-LOGOUT\"]"
+msgid "Logout"
+msgstr "ออกจากระบบ"
+
+msgctxt "[\"COMMENT-WEBSITE\"]"
+msgid "Website"
+msgstr "เว็บไซต์"
+
+msgctxt "[\"COMMENT-TO_BE_FIRST\"]"
+msgid "Be the first to comment."
+msgstr "เป็นความคิดเห็นแรก"
+
+msgctxt "[\"COMMENT-VOTE\"]"
+msgid "Vote"
+msgstr "โหวต"
+
+msgctxt "[\"COMMENT-ERR_QUICK_LOGIN\"]"
+msgid "Quick login error, please try again."
+msgstr "การเข้าสู้ระบบรวดเร็วล้มเหลว โปรดลองใหม่อีกครั้ง"
+
+msgctxt "[\"COMMENT-ERR_EMAIL_NAME\"]"
+msgid "Incorrect mail or name"
+msgstr "อีเมลหรือชื่อไม่ถูกต้อง"
+
+msgctxt "[\"COMMENT-ERR_DISCUSSION\"]"
+msgid "Incorrect in discussion"
+msgstr "การสนทนาล้มเหลว"
+
+msgctxt "[\"COMMENT-ERR_RATE\"]"
+msgid "Vote failed, repeated"
+msgstr "โหวตล้มเหลว ซ้ำแล้วซ้าอีก"
+
+msgctxt "[\"COMMENT-ERR_SENSITIVE_WORD\"]"
+msgid "Defeat,your post contains sensitive terms"
+msgstr "ล้มเหลว โพสต์ของคุณมีคำที่ละเอียดอ่อนเกินไป"
+
+msgctxt "[\"COMMENT-ERR_SENSITIVE_WORD_AUDIT\"]"
+msgid "Your post contains sensitive terms and is pending approval by an admin"
+msgstr "โพสต์ของคุณมีข้อกำหนดที่ละเอียดอ่อนและกำลังรอการอนุมัติจากผู้ดูแลระบบ"
+
+msgctxt "[\"COMMENT-ERR_LINK_AUDIT\"]"
+msgid "Your post contains link and is pending approval by an admin"
+msgstr "โพสต์ของคุณมีลิงก์อยู่และรอการอนุมัติโดยผู้ดูแลระบบ"
+
+msgctxt "[\"COMMENT-ERR_FORBIDDEN\"]"
+msgid "Comment forbidden"
+msgstr "แสดงความคิดเห็นที่ซ่อนไว้"
+
+msgctxt "[\"COMMENT-ERR_FAILURE\"]"
+msgid "Comment unknown"
+msgstr "ความคิดเห็นที่ไม่รู้จัก"
+
+msgctxt "[\"COMMENT-ERR_INVALID_PARAMETER\"]"
+msgid "Invalid comment parameter"
+msgstr "แสดงความคิดเห็นไม่ถูกต้อง"
+
+msgctxt "[\"COMMENT-ERR_INVALID_VIDEO_URL\"]"
+msgid "Invalid Video URL"
+msgstr "URL วิดีโอ ไม่ถูกต้อง"
+
+msgctxt "[\"COMMENT-DELETE\"]"
+msgid "Yes,delete it!"
+msgstr "ใช่ ลบมันเลย!"
+
+msgctxt "[\"COMMENT-DELETED\"]"
+msgid "Deleted!"
+msgstr "ลบแล้ว!"
+
+msgctxt "[\"COMMENT-DEL\"]"
+msgid "Delete"
+msgstr "ลบ"
+
+msgctxt "[\"COMMENT-ARE_YOU_SURE\"]"
+msgid "Are you sure?"
+msgstr "คุณแน่ใจแล้วใช่มั้ย?"
+
+msgctxt "[\"COMMENT-LOADING\"]"
+msgid "Comment Loading..."
+msgstr "กำลังโหลดความคิดเห็น..."
+
+msgctxt "[\"USER-ACCOUNT_EXIST\"]"
+msgid "The username is already in use."
+msgstr "ชื่อนี้พร้อมสำหรับใช้งาน"
+
+msgctxt "[\"USER-ACCOUNT_NOT_EXIST\"]"
+msgid "The account you entered does not exist."
+msgstr "แอคเคาท์ที่ป้อนนั้นไม่มี"
+
+msgctxt "[\"USER-DISPLAY_NAME_EXIST\"]"
+msgid "The nickname is already in use."
+msgstr "ชื่อเล่นนี้พร้องใช้งาน"
+
+msgctxt "[\"USER-INCORRECT_EMAIL\"]"
+msgid "The e-mail address you entered is invalid."
+msgstr "อีเมลที่คุณป้อน ไม่ถูกต้อง"
+
+msgctxt "[\"USER-INCORRECT_PASSWORD\"]"
+msgid "The password you entered is invalid."
+msgstr "รหัสผ่านที่คุณป้อน ไม่ถูกต้อง"
+
+msgctxt "[\"USER-INCORRECT_ACCOUNT\"]"
+msgid "The username you entered is invalid."
+msgstr "ชื่อที่คุณป้อน ไม่ถูกต้อง"
+
+msgctxt "[\"USER-UNKNOWN_ERROR\"]"
+msgid "unknown mistake."
+msgstr "ไม่รู้จักที่มา"
+
+msgctxt "[\"USER-BAD_NAME\"]"
+msgid "Your input includes sensitive vocabulary."
+msgstr "ข้อความที่ป้อนมีคำที่ไม่ถูกต้อง"
+
+msgctxt "[\"USER-FEMALE\"]"
+msgid "Female"
+msgstr "ผู้หญิง"
+
+msgctxt "[\"USER-MALE\"]"
+msgid "Male"
+msgstr "ผู้ชาย"
+
+msgctxt "[\"USER-USER_LOGIN\"]"
+msgid "User Login"
+msgstr "เข้าสู่ระบบผู้ใช้งาน"
+
+msgctxt "[\"USER-USERNAME\"]"
+msgid "Username"
+msgstr "ชื่อผู้ใช้งาน"
+
+msgctxt "[\"USER-PASSWORD\"]"
+msgid "Password"
+msgstr "รหัสผ่าน"
+
+msgctxt "[\"USER-NEW_USER_REGISTRATION\"]"
+msgid "New User Registration"
+msgstr "สมัครเป็นผู้ใช้งาน"
+
+msgctxt "[\"USER-SIGN_IN_BTN\"]"
+msgid "SIGN IN"
+msgstr "เข้าสู่ระบบ"
+
+msgctxt "[\"USER-SIGN_IN\"]"
+msgid "Sign In"
+msgstr "เข้าสู่ระบบ"
+
+msgctxt "[\"USER-SIGN_IN_WITH\"]"
+msgid "Or sign in with"
+msgstr "หรือเข้าสู่ระบบผ่าน"
+
+msgctxt "[\"USER-SIGN_UP_BTN\"]"
+msgid "SIGN UP"
+msgstr "สมัครใหม่"
+
+msgctxt "[\"USER-SIGN_UP\"]"
+msgid "Sign Up"
+msgstr "สมัครใหม่"
+
+msgctxt "[\"USER-CONFIRM_PASSWORD\"]"
+msgid "Confirm Password"
+msgstr "ยืนยันรหัสผ่าน"
+
+msgctxt "[\"USER-TERMS_SERVICE\"]"
+msgid "By signing up you agree to our <a href='/terms-service.html' target='_blank'>terms of service</a>"
 msgstr ""
+"คุณยอมรับการสมัครใหม่ <a href='/terms-service.html' target='_blank'> และข้"
+"อตกลง </a>"
+
+msgctxt "[\"REGION_DOWN-DES\"]"
+msgid "- Download your favorite Android Apps with APK Downloader (Free Apps Only).<br>- Your download will begin automatically after you paste a package id and click the download button.<br>- Download failed? Please manually change country setting and try again.<br>- Want to tell us more about your problems? <a style='color:#FFFF00' href='contact-us.html'>Contact us here</a>"
+msgstr ""
+"- ดาวน์โหลด APK ผ่าน APK Download er (แอพฟรีเท่านั้น)<br>- "
+"การดาวน์โหลดจะเริ่มอัตโนมัติหลังจากคุณวาง id แพ็คเก็ต และกดที่ปุ่มดาวน์โหลด "
+"<br>- ดาวน์โหลดไม่ได้เหรอ? โปรดตั้งค่าการเลือกประเทศแล้วลองอีกครั้ง <br>- "
+"หากต้องการแจ้งปัญหากับเรา แจ้งที่ <a style='color:#FFFF00' href='contact-"
+"us.html'>Contact us here</a>"
+
+msgctxt "[\"SIGN_VERIFY-DES\"]"
+msgid "APK Signature verification will verify Android app package signature to keep Android users away from potentially harmful APK files before APK installing."
+msgstr ""
+"APK การยืนยันแนะนำ จะยืนยัน Android แอพ package signature to keep Android "
+"users away from potentially harmful APK files before APK installing."
+
+msgctxt "[\"SEARCH-PLACEHOLDER1\"]"
+msgid "APKPure or com.apkpure.aegon"
+msgstr "APKPure หรือ com.apkpure.aegon"
+
+msgctxt "[\"SEARCH-TITLE\"]"
+msgid "Enter App Name, Package Name, Package ID"
+msgstr "ป้อน ชื่อแอพ,ชื่อแพ็คเก็ต,id แพ็คเก็ต"
+
+msgctxt "[\"SEARCH-TRENDING\"]"
+msgid "trending searches"
+msgstr "การค้นหายอดนิยม"
+
+msgctxt "[\"SEARCH-HISTORY\"]"
+msgid "Search history"
+msgstr "ประวัติการค้นหา"
+
+msgctxt "[\"404-DES\"]"
+msgid "It seems that page you are looking for no longer exists.<br />You can explore more Android Games and Apps below!"
+msgstr ""
+"ดูเหมือนว่าหน้าแอพนี้ ไม่มีแล้ว <br /> ลองค้นหาแอพหรือเกมส์อื่นที่ถูกใจดูนะ!"
+
+msgctxt "[\"COPYRIGHT\"]"
+msgid "Copyright © 2014-2017 APKPure. All rights reserved."
+msgstr "APKPure สงวนลิขสิทธิ์ © 2014-2017"
+
+msgctxt "[\"COPYRIGHT_MOBILE\"]"
+msgid "APKPure.com © 2014-2017"
+msgstr "APKPure.com สงวนลิขสิธิ์ © 2014-2017"
+
+msgctxt "[\"FOOTER-APK_DOWNLOAD\"]"
+msgid "APK Downloader (Region free)"
+msgstr "APK ดาวน์โหลดเดอร์ (เลือกภูมิภาคได้อิสระ)"

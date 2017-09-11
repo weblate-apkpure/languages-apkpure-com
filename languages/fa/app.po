@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-08-14 08:12+0000\n"
-"PO-Revision-Date: 2017-08-29 19:15+0000\n"
+"PO-Revision-Date: 2017-09-05 20:15+0000\n"
 "Last-Translator: Goudarz Jafari <goudarz.jafari@gmail.com>\n"
 "Language-Team: Persian "
 "<https://translate.apkpure.com/projects/apkpure/apkpurecom/fa/>\n"
@@ -1983,7 +1983,9 @@ msgstr "ورودی شما شامل واژگان حساس است، یک کلمه 
 
 msgctxt "[\"COPYRIGHT\"]"
 msgid "Copyright © 2014-2017 APKPure. All rights reserved."
-msgstr "کپی‌رایت © 2014-2017 APKPure. کلیه حقوق محفوظ است."
+msgstr ""
+"کپی‌رایت © 2014-2017 APKPure کلیه حقوق محفوظ است. ترجمه شده به فارسی توسط "
+"گودرز جعفری."
 
 msgctxt "[\"FOOTER-REPORT_ABUSE\"]"
 msgid "Report abuse"
@@ -2197,3 +2199,27 @@ msgstr "دانلود {app_short_name} آخرین نسخه {version_name} ای‌
 msgctxt "[\"meta\"][\"Details_download_new\"][\"title_old\"]"
 msgid "Download {app_short_name} {version_name} Android APK"
 msgstr "دانلود {app_short_name} {version_name} ای‌پی‌کا اندروید"
+
+msgctxt "[\"IGNORE\"]"
+msgid "Ignore"
+msgstr "نادیده گرفتن"
+
+msgctxt "[\"OK\"]"
+msgid "OK"
+msgstr "باشه"
+
+msgctxt "[\"SEARCH-HISTORY\"]"
+msgid "Search history"
+msgstr "تاریخچه جستجو"
+
+msgctxt "[\"meta\"][\"Search_hot\"][\"keywords\"]"
+msgid "Search {add_trending}"
+msgstr "جستجو {add_trending}"
+
+msgctxt "[\"TOP-UPDATED-APPS\"]"
+msgid "Top Updated Apps"
+msgstr "برترین برنامه‌های به‌روز‌شده"
+
+msgctxt "[\"TOP-UPDATED-GAMES\"]"
+msgid "Top Updated Games"
+msgstr "برترین بازی‌های به‌روزشده"
