@@ -971,8 +971,8 @@ msgid "It seems that page you are looking for no longer exists.<br />You can exp
 msgstr "It seems that page you are looking for no longer exists.<br />You can explore more Android Games and Apps below!"
 
 msgctxt "[\"COPYRIGHT\"]"
-msgid "Copyright © 2014-2017 APKPure. All rights reserved."
-msgstr "Copyright © 2014-2017 APKPure. All rights reserved."
+msgid "Copyright © 2014-2017 APKPure All rights reserved."
+msgstr "Copyright © 2014-2017 APKPure All rights reserved."
 
 msgctxt "[\"COPYRIGHT_MOBILE\"]"
 msgid "APKPure.com © 2014-2017"
