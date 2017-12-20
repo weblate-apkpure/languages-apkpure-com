@@ -54,6 +54,10 @@ msgctxt "[\"DOWNLOAD\"]"
 msgid "Download"
 msgstr "Download"
 
+msgctxt "[\"FAST_DOWNLOAD\"]"
+msgid "Fast Download"
+msgstr "Fast Download"
+
 msgctxt "[\"IGNORE\"]"
 msgid "Ignore"
 msgstr "Ignore"
@@ -61,6 +65,10 @@ msgstr "Ignore"
 msgctxt "[\"OK\"]"
 msgid "OK"
 msgstr "OK"
+
+msgctxt "[\"BUY\"]"
+msgid "Buy"
+msgstr "Buy"
 
 msgctxt "[\"SELECT_LANGUAGE\"]"
 msgid "Select Language"
@@ -155,8 +163,8 @@ msgid "Show less"
 msgstr "Show less"
 
 msgctxt "[\"HAVE_PRODUCTS\"]"
-msgid "have {0} products"
-msgstr "have {0} products"
+msgid "All {0} Apps"
+msgstr "All {0} Apps"
 
 msgctxt "[\"DEVELOPER\"]"
 msgid "Developer"
@@ -269,6 +277,10 @@ msgstr "Cancel"
 msgctxt "[\"UPDATE\"]"
 msgid "Update"
 msgstr "Update"
+
+msgctxt "[\"DETAIL-MAIGHT_LIKE\"]"
+msgid "You Might Also Like"
+msgstr "You Might Also Like"
 
 msgctxt "[\"DETAIL-PAID_GAME\"]"
 msgid "Paid Game"
@@ -1238,6 +1250,30 @@ msgctxt "[\"ERROR-SUBTITLE\"]"
 msgid "You can visit the following Games and Apps instead"
 msgstr "You can visit the following Games and Apps instead"
 
+msgctxt "[\"MARKET-TOP_COUNTRY\"][\"en-US\"]"
+msgid "USA"
+msgstr "USA"
+
+msgctxt "[\"MARKET-TOP_COUNTRY\"][\"ja\"]"
+msgid "Japan"
+msgstr "Japan"
+
+msgctxt "[\"MARKET-TOP_COUNTRY\"][\"zh-CN\"]"
+msgid "China"
+msgstr "China"
+
+msgctxt "[\"MARKET-TOP_COUNTRY\"][\"ko-KR\"]"
+msgid "Korea"
+msgstr "Korea"
+
+msgctxt "[\"MARKET-TOP_COUNTRY\"][\"id-ID\"]"
+msgid "Indonesia"
+msgstr "Indonesia"
+
+msgctxt "[\"MARKET-TOP_COUNTRY\"][\"pt-BR\"]"
+msgid "Brazil"
+msgstr "Brazil"
+
 msgctxt "[\"error\"][\"DOWN-ItemNotFree\"]"
 msgid "Sorry, paid apps are not available to download with our APK Download Service."
 msgstr "Sorry, paid apps are not available to download with our APK Download Service."
@@ -1362,10 +1398,6 @@ msgctxt "[\"tip\"][\"DOWNLOAD_APK\"]"
 msgid "Download APK"
 msgstr "Download APK"
 
-msgctxt "[\"js\"][\"LANG_TIP\"][\"tw\"]"
-msgid "你是否把當前語言切換成<strong>繁體中文</strong>？"
-msgstr "你是否把當前語言切換成<strong>繁體中文</strong>？"
-
 msgctxt "[\"js\"][\"LANG_TIP\"][\"es\"]"
 msgid "¿Quiere cambiar su idioma de preferencia a <strong>español</strong>?"
 msgstr "¿Quiere cambiar su idioma de preferencia a <strong>español</strong>?"
@@ -1373,14 +1405,6 @@ msgstr "¿Quiere cambiar su idioma de preferencia a <strong>español</strong>?"
 msgctxt "[\"js\"][\"LANG_TIP\"][\"ru\"]"
 msgid "Вы хотите изменить язык предпочтений на <strong>русский</strong>?"
 msgstr "Вы хотите изменить язык предпочтений на <strong>русский</strong>?"
-
-msgctxt "[\"js\"][\"LANG_TIP\"][\"ar\"]"
-msgid "هل تريد تغيير لغة التفضيل إلى </strong>اللغة العربية<strong>؟"
-msgstr "هل تريد تغيير لغة التفضيل إلى </strong>اللغة العربية<strong>؟"
-
-msgctxt "[\"js\"][\"LANG_TIP\"][\"in\"]"
-msgid "क्या आप अपनी वरीयता भाषा को <strong>हिंदी</strong> में बदलना चाहते हैं?"
-msgstr "क्या आप अपनी वरीयता भाषा को <strong>हिंदी</strong> में बदलना चाहते हैं?"
 
 msgctxt "[\"js\"][\"LANG_TIP\"][\"id\"]"
 msgid "Apakah Anda ingin mengubah bahasa pilihan Anda <strong>ke bahasa Indonesia</strong>?"
@@ -1394,14 +1418,6 @@ msgctxt "[\"js\"][\"LANG_TIP\"][\"nl\"]"
 msgid "Wilt u uw voorkeurstaal naar <strong>Nederlands</strong> veranderen?"
 msgstr "Wilt u uw voorkeurstaal naar <strong>Nederlands</strong> veranderen?"
 
-msgctxt "[\"js\"][\"LANG_TIP\"][\"jp\"]"
-msgid "あなたの嗜好言語を<strong>日本語</strong>に変更したいですか？"
-msgstr "あなたの嗜好言語を<strong>日本語</strong>に変更したいですか？"
-
-msgctxt "[\"js\"][\"LANG_IGNORE\"][\"tw\"]"
-msgid "忽略"
-msgstr "忽略"
-
 msgctxt "[\"js\"][\"LANG_IGNORE\"][\"es\"]"
 msgid "Ignorar"
 msgstr "Ignorar"
@@ -1409,14 +1425,6 @@ msgstr "Ignorar"
 msgctxt "[\"js\"][\"LANG_IGNORE\"][\"ru\"]"
 msgid "игнорировать"
 msgstr "игнорировать"
-
-msgctxt "[\"js\"][\"LANG_IGNORE\"][\"ar\"]"
-msgid "تجاهل"
-msgstr "تجاهل"
-
-msgctxt "[\"js\"][\"LANG_IGNORE\"][\"in\"]"
-msgid "नज़रअंदाज़ करना"
-msgstr "नज़रअंदाज़ करना"
 
 msgctxt "[\"js\"][\"LANG_IGNORE\"][\"id\"]"
 msgid "Mengabaikan"
@@ -1430,14 +1438,6 @@ msgctxt "[\"js\"][\"LANG_IGNORE\"][\"nl\"]"
 msgid "Negeren"
 msgstr "Negeren"
 
-msgctxt "[\"js\"][\"LANG_IGNORE\"][\"jp\"]"
-msgid "無視する"
-msgstr "無視する"
-
-msgctxt "[\"js\"][\"LANG_OK\"][\"tw\"]"
-msgid "好的"
-msgstr "好的"
-
 msgctxt "[\"js\"][\"LANG_OK\"][\"es\"]"
 msgid "DE ACUERDO"
 msgstr "DE ACUERDO"
@@ -1445,14 +1445,6 @@ msgstr "DE ACUERDO"
 msgctxt "[\"js\"][\"LANG_OK\"][\"ru\"]"
 msgid "ОК"
 msgstr "ОК"
-
-msgctxt "[\"js\"][\"LANG_OK\"][\"ar\"]"
-msgid "حسنا"
-msgstr "حسنا"
-
-msgctxt "[\"js\"][\"LANG_OK\"][\"in\"]"
-msgid "ठीक"
-msgstr "ठीक"
 
 msgctxt "[\"js\"][\"LANG_OK\"][\"id\"]"
 msgid "baik"
@@ -1465,10 +1457,6 @@ msgstr "ok"
 msgctxt "[\"js\"][\"LANG_OK\"][\"nl\"]"
 msgid "OK"
 msgstr "OK"
-
-msgctxt "[\"js\"][\"LANG_OK\"][\"jp\"]"
-msgid "[OK]"
-msgstr "[OK]"
 
 msgctxt "[\"js\"][\"SIGN_VERIFY-OFFICIAL\"]"
 msgid "[Official] This {0} APK is the unmodified official version."
