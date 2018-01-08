@@ -463,8 +463,8 @@ msgid "Download on Google Play"
 msgstr "Google Play पर डाउनलोड करें"
 
 msgctxt "[\"DETAIL-DELETED_COPYRIGHT_GOOGLE_PLAY_DES\"]"
-msgid "{app_name} All rights reserved ©2017 {developer}. {developer} and the {developer} logo are trademarks of {developer} in the U.S. and/or other countries.All other trademarks are the property of their respective owners."
-msgstr "{app_name} सभी अधिकार सुरक्षित हैं ©2017 {developer}. {developer} और {developer} लोगो अमेरिका और/अथवा अन्य देश के ट्रेडमार्क {developer} हैं। सभी अन्य ट्रेडमार्क उनके सबंधित मालिकों की संपत्ति हैं।"
+msgid "{app_name} All rights reserved ©2018 {developer}. {developer} and the {developer} logo are trademarks of {developer} in the U.S. and/or other countries.All other trademarks are the property of their respective owners."
+msgstr "{app_name} सभी अधिकार सुरक्षित हैं ©2018 {developer}. {developer} और {developer} लोगो अमेरिका और/अथवा अन्य देश के ट्रेडमार्क {developer} हैं। सभी अन्य ट्रेडमार्क उनके सबंधित मालिकों की संपत्ति हैं।"
 
 msgctxt "[\"DETAIL_DOWNLOAD-NAV_DOWNLOAD\"]"
 msgid "Download"
@@ -983,12 +983,12 @@ msgid "It seems that page you are looking for no longer exists.<br />You can exp
 msgstr "ऐसा लगता है कि जो पृष्ठ आप खोज रहे हैं, वह अब मौजूद नहीं है।<br />आप नीचे अधिक एंडरॉयड गेम्स व ऐप्स एक्सप्लोर कर सकते हैं!"
 
 msgctxt "[\"COPYRIGHT\"]"
-msgid "Copyright © 2014-2017 APKPure All rights reserved."
-msgstr "कॉपीराइट © 2014-2017 APKPure. सभी अधिकार सुरक्षित हैं।"
+msgid "Copyright © 2014-2018 APKPure All rights reserved."
+msgstr "कॉपीराइट © 2014-2018 APKPure. सभी अधिकार सुरक्षित हैं।"
 
 msgctxt "[\"COPYRIGHT_MOBILE\"]"
-msgid "APKPure.com © 2014-2017"
-msgstr "APKPure.com © 2014-2017"
+msgid "APKPure.com © 2014-2018"
+msgstr "APKPure.com © 2014-2018"
 
 msgctxt "[\"COMING_SOON\"]"
 msgid "COMING SOON"
@@ -1398,6 +1398,10 @@ msgctxt "[\"tip\"][\"DOWNLOAD_APK\"]"
 msgid "Download APK"
 msgstr "डाउनलोड APK"
 
+msgctxt "[\"js\"][\"LANG_TIP\"][\"pl\"]"
+msgid "Czy chcesz zmienić język preferencji na <strong> Polski </strong>?"
+msgstr "Czy chcesz zmienić język preferencji na <strong> Polski </strong>?"
+
 msgctxt "[\"js\"][\"LANG_TIP\"][\"es\"]"
 msgid "¿Quiere cambiar su idioma de preferencia a <strong>español</strong>?"
 msgstr "¿Quiere cambiar su idioma de preferencia a <strong>español</strong>?"
@@ -1418,6 +1422,10 @@ msgctxt "[\"js\"][\"LANG_TIP\"][\"nl\"]"
 msgid "Wilt u uw voorkeurstaal naar <strong>Nederlands</strong> veranderen?"
 msgstr "Wilt u uw voorkeurstaal naar <strong>Nederlands</strong> veranderen?"
 
+msgctxt "[\"js\"][\"LANG_IGNORE\"][\"pl\"]"
+msgid "Ignorować"
+msgstr "Ignorować"
+
 msgctxt "[\"js\"][\"LANG_IGNORE\"][\"es\"]"
 msgid "Ignorar"
 msgstr "Ignorar"
@@ -1437,6 +1445,10 @@ msgstr "Ignorare"
 msgctxt "[\"js\"][\"LANG_IGNORE\"][\"nl\"]"
 msgid "Negeren"
 msgstr "Negeren"
+
+msgctxt "[\"js\"][\"LANG_OK\"][\"pl\"]"
+msgid "ok"
+msgstr "ok"
 
 msgctxt "[\"js\"][\"LANG_OK\"][\"es\"]"
 msgid "DE ACUERDO"
@@ -1691,8 +1703,8 @@ msgid "android apps, android games, must have android games, must have android a
 msgstr "एंडरॉयड ऐप्स, एंडरॉयड गेम्स, जरूरी एंडरॉयड गेम्स, जरूरी एंडरॉयड ऐप्स, गेम डाउनलोड"
 
 msgctxt "[\"meta\"][\"Category_featured_editors-picks\"][\"description\"]"
-msgid "Play with millions of free apps in APKPure style on Android phones, tablets, TV ,etc. Download the best must have android games you should play 2017."
-msgstr "एंडरॉयड फोनों, टैबलेट्स, टीवी पर APKPure स्टाइल में लाखों मुफ्त ऐप्स के साथ खेलें। बेहतर व जरूरी एंडरॉयड गेम्स डाउनलोड करें जो आपको 2017 में खेलनी चाहिएं।"
+msgid "Play with millions of free apps in APKPure style on Android phones, tablets, TV ,etc. Download the best must have android games you should play 2018."
+msgstr "एंडरॉयड फोनों, टैबलेट्स, टीवी पर APKPure स्टाइल में लाखों मुफ्त ऐप्स के साथ खेलें। बेहतर व जरूरी एंडरॉयड गेम्स डाउनलोड करें जो आपको 2018 में खेलनी चाहिएं।"
 
 msgctxt "[\"meta\"][\"Category_app\"][\"title\"]"
 msgid "Download {0} APK Android App Online - Free Pure APK Downloader"

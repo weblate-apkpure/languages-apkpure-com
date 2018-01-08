@@ -463,8 +463,8 @@ msgid "Download on Google Play"
 msgstr "Baixar no Google Play"
 
 msgctxt "[\"DETAIL-DELETED_COPYRIGHT_GOOGLE_PLAY_DES\"]"
-msgid "{app_name} All rights reserved ©2017 {developer}. {developer} and the {developer} logo are trademarks of {developer} in the U.S. and/or other countries.All other trademarks are the property of their respective owners."
-msgstr "{App_name} Todos os direitos reservados © 2017 {desenvolvedor}. {developer} e o logótipo {developer} são marcas comerciais da {developer} nos Estados Unidos e / ou de outros países. Todas as outras marcas comerciais pertencem aos seus respectivos proprietários."
+msgid "{app_name} All rights reserved ©2018 {developer}. {developer} and the {developer} logo are trademarks of {developer} in the U.S. and/or other countries.All other trademarks are the property of their respective owners."
+msgstr "{App_name} Todos os direitos reservados © 2018 {desenvolvedor}. {developer} e o logótipo {developer} são marcas comerciais da {developer} nos Estados Unidos e / ou de outros países. Todas as outras marcas comerciais pertencem aos seus respectivos proprietários."
 
 msgctxt "[\"DETAIL_DOWNLOAD-NAV_DOWNLOAD\"]"
 msgid "Download"
@@ -983,12 +983,12 @@ msgid "It seems that page you are looking for no longer exists.<br />You can exp
 msgstr "Parece que a página que você está procurando não existe mais. <br /> 1 Você pode explorar mais Jogos e Aplicativos Android abaixo!"
 
 msgctxt "[\"COPYRIGHT\"]"
-msgid "Copyright © 2014-2017 APKPure All rights reserved."
-msgstr "Copyright © 2014-2017 APKPure. Todos os direitos reservados."
+msgid "Copyright © 2014-2018 APKPure All rights reserved."
+msgstr "Copyright © 2014-2018 APKPure. Todos os direitos reservados."
 
 msgctxt "[\"COPYRIGHT_MOBILE\"]"
-msgid "APKPure.com © 2014-2017"
-msgstr "APKPure.com © 2014-2017"
+msgid "APKPure.com © 2014-2018"
+msgstr "APKPure.com © 2014-2018"
 
 msgctxt "[\"COMING_SOON\"]"
 msgid "COMING SOON"
@@ -1398,6 +1398,10 @@ msgctxt "[\"tip\"][\"DOWNLOAD_APK\"]"
 msgid "Download APK"
 msgstr "Baixe APK"
 
+msgctxt "[\"js\"][\"LANG_TIP\"][\"pl\"]"
+msgid "Czy chcesz zmienić język preferencji na <strong> Polski </strong>?"
+msgstr "Czy chcesz zmienić język preferencji na <strong> Polski </strong>?"
+
 msgctxt "[\"js\"][\"LANG_TIP\"][\"es\"]"
 msgid "¿Quiere cambiar su idioma de preferencia a <strong>español</strong>?"
 msgstr "¿Quiere cambiar su idioma de preferencia a <strong>español</strong>?"
@@ -1418,6 +1422,10 @@ msgctxt "[\"js\"][\"LANG_TIP\"][\"nl\"]"
 msgid "Wilt u uw voorkeurstaal naar <strong>Nederlands</strong> veranderen?"
 msgstr "Wilt u uw voorkeurstaal naar <strong>Nederlands</strong> veranderen?"
 
+msgctxt "[\"js\"][\"LANG_IGNORE\"][\"pl\"]"
+msgid "Ignorować"
+msgstr "Ignorować"
+
 msgctxt "[\"js\"][\"LANG_IGNORE\"][\"es\"]"
 msgid "Ignorar"
 msgstr "Ignorar"
@@ -1437,6 +1445,10 @@ msgstr "Ignorare"
 msgctxt "[\"js\"][\"LANG_IGNORE\"][\"nl\"]"
 msgid "Negeren"
 msgstr "Negeren"
+
+msgctxt "[\"js\"][\"LANG_OK\"][\"pl\"]"
+msgid "ok"
+msgstr "ok"
 
 msgctxt "[\"js\"][\"LANG_OK\"][\"es\"]"
 msgid "DE ACUERDO"
@@ -1691,8 +1703,8 @@ msgid "android apps, android games, must have android games, must have android a
 msgstr "android aplicativos, jogos para Android, deve ter jogos para Android, deve ter aplicativos para Android, jogo download"
 
 msgctxt "[\"meta\"][\"Category_featured_editors-picks\"][\"description\"]"
-msgid "Play with millions of free apps in APKPure style on Android phones, tablets, TV ,etc. Download the best must have android games you should play 2017."
-msgstr "Jogar com milhões de aplicativos gratuitos em estilo APKPure em telefones Android, tablets, TV, etc. Baixe o melhor deve ter android jogos que você deve jogar de 2017."
+msgid "Play with millions of free apps in APKPure style on Android phones, tablets, TV ,etc. Download the best must have android games you should play 2018."
+msgstr "Jogar com milhões de aplicativos gratuitos em estilo APKPure em telefones Android, tablets, TV, etc. Baixe o melhor deve ter android jogos que você deve jogar de 2018."
 
 msgctxt "[\"meta\"][\"Category_app\"][\"title\"]"
 msgid "Download {0} APK Android App Online - Free Pure APK Downloader"
