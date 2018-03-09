@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-03-22 06:56+0000\n"
-"PO-Revision-Date: 2017-08-31 15:34+0000\n"
-"Last-Translator: Comics Video <comicsrovio@gmail.com>\n"
+"PO-Revision-Date: 2018-03-09 03:24+0000\n"
+"Last-Translator: Nguyễn Tùng Lâm <olwagbb@gmail.com>\n"
 "Language-Team: Vietnamese "
 "<https://translate.apkpure.com/projects/apkpure/apkpurecom/vi/>\n"
 "Language: vi\n"
@@ -296,7 +296,7 @@ msgstr "Tác giả"
 
 msgctxt "[\"DETAIL-VOTES\"]"
 msgid "votes"
-msgstr "đánh giá"
+msgstr "Đánh giá"
 
 msgctxt "[\"DETAIL-THE_DESCRIPTION\"]"
 msgid "The description of {0}"
@@ -1427,9 +1427,10 @@ msgctxt "[\"DETAIL-ITUNE_DOWNLOAD\"]"
 msgid "Install on iTunes"
 msgstr "Cài đặt từ iTunes"
 
+#, fuzzy
 msgctxt "[\"DETAIL-MORE_DOWNLOAD\"]"
 msgid "More Download Locations:"
-msgstr "Nhiều địa điểm tải về:"
+msgstr "Thêm địa chỉ tải về:"
 
 msgctxt "[\"DETAIL-DELETED_COPYRIGHT_GOOGLE_PLAY_URL\"]"
 msgid "Download on Google Play"
@@ -2217,3 +2218,39 @@ msgstr ""
 "Thay thế {app_type} phổ biến bằng {app_short_name} cho Android, máy tính bản "
 "Android và nhiều hơn. Tải về {similar_count} {app_type} hàng đầu như "
 "{app_short_name}, tất cả {app_type} được đề nghị bởi APKPure."
+
+#, fuzzy
+msgctxt "[\"FAST_DOWNLOAD\"]"
+msgid "Fast Download"
+msgstr "Tải nhanh"
+
+msgctxt "[\"IGNORE\"]"
+msgid "Ignore"
+msgstr "Bỏ qua"
+
+msgctxt "[\"OK\"]"
+msgid "OK"
+msgstr "Đồng ý"
+
+msgctxt "[\"BUY\"]"
+msgid "Buy"
+msgstr "Mua"
+
+#, fuzzy
+msgctxt "[\"TOP-UPDATED-APPS\"]"
+msgid "Top Updated Apps"
+msgstr "Ứng dụng mới cập nhật"
+
+#, fuzzy
+msgctxt "[\"TOP-UPDATED-GAMES\"]"
+msgid "Top Updated Games"
+msgstr "Trò chơi mới cập nhật"
+
+#, fuzzy
+msgctxt "[\"HAVE_PRODUCTS\"]"
+msgid "All {0} Apps"
+msgstr "Tất cả {0} Ứng dụng"
+
+msgctxt "[\"DETAIL-MAIGHT_LIKE\"]"
+msgid "You Might Also Like"
+msgstr "Có thể bạn sẽ thích"
