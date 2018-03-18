@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-03-22 06:56+0000\n"
-"PO-Revision-Date: 2018-03-09 11:31+0000\n"
-"Last-Translator: Chal <nachalpro@gmail.com>\n"
+"PO-Revision-Date: 2018-03-18 04:22+0000\n"
+"Last-Translator: Bùi Văn Xía <buivanxia10@gmail.com>\n"
 "Language-Team: Vietnamese "
 "<https://translate.apkpure.com/projects/apkpure/apkpurecom/vi/>\n"
 "Language: vi\n"
@@ -30,7 +30,6 @@ msgctxt "[\"NAV-NEW\"]"
 msgid "NEW"
 msgstr "MỚI"
 
-#, fuzzy
 msgctxt "[\"NAV-PRODUCTS\"]"
 msgid "PRODUCTS"
 msgstr "SẢN PHẨM"
@@ -1428,7 +1427,6 @@ msgctxt "[\"DETAIL-ITUNE_DOWNLOAD\"]"
 msgid "Install on iTunes"
 msgstr "Cài đặt từ iTunes"
 
-#, fuzzy
 msgctxt "[\"DETAIL-MORE_DOWNLOAD\"]"
 msgid "More Download Locations:"
 msgstr "Thêm địa chỉ tải về:"
@@ -1746,7 +1744,7 @@ msgstr "Báo cáo"
 
 msgctxt "[\"COMMENT-COLLAPSED\"]"
 msgid "comment collapsed"
-msgstr "Hiển thị danh sách các bình luận"
+msgstr "nhận xét bị xoá"
 
 msgctxt "[\"COMMENT-POST\"]"
 msgid "Post"
@@ -2220,7 +2218,6 @@ msgstr ""
 "Android và nhiều hơn. Tải về {similar_count} {app_type} hàng đầu như "
 "{app_short_name}, tất cả {app_type} được đề nghị bởi APKPure."
 
-#, fuzzy
 msgctxt "[\"FAST_DOWNLOAD\"]"
 msgid "Fast Download"
 msgstr "Tải nhanh"
@@ -2237,17 +2234,14 @@ msgctxt "[\"BUY\"]"
 msgid "Buy"
 msgstr "Mua"
 
-#, fuzzy
 msgctxt "[\"TOP-UPDATED-APPS\"]"
 msgid "Top Updated Apps"
-msgstr "Ứng dụng mới cập nhật"
+msgstr "Ứng dụng đã cập nhật Hàng đầu"
 
-#, fuzzy
 msgctxt "[\"TOP-UPDATED-GAMES\"]"
 msgid "Top Updated Games"
-msgstr "Trò chơi mới cập nhật"
+msgstr "Trò chơi Đã cập nhật Hàng đầu"
 
-#, fuzzy
 msgctxt "[\"HAVE_PRODUCTS\"]"
 msgid "All {0} Apps"
 msgstr "Tất cả {0} Ứng dụng"
@@ -2255,3 +2249,58 @@ msgstr "Tất cả {0} Ứng dụng"
 msgctxt "[\"DETAIL-MAIGHT_LIKE\"]"
 msgid "You Might Also Like"
 msgstr "Có thể bạn sẽ thích"
+
+msgctxt "[\"DETAIL-DELETED_COPYRIGHT_GOOGLE_PLAY_DES\"]"
+msgid "{app_name} All rights reserved ©2018 {developer}. {developer} and the {developer} logo are trademarks of {developer} in the U.S. and/or other countries.All other trademarks are the property of their respective owners."
+msgstr ""
+"{app_name} Đã đăng ký Bản quyền ©2018 {developer}. {developer} và logo "
+"{developer} là thương hiệu của {developer} tại Hoa Kỳ và/hoặc quốc gia khác. "
+"Tất cả các thương hiệu khác là tài sản của chủ sở hữu tương ứng."
+
+msgctxt "[\"COMMENT-ADD_NEW_DISCUSSION\"]"
+msgid "Add A New Discussion"
+msgstr "Thêm Thảo luận mới"
+
+msgctxt "[\"COMMENT-REPLIES\"]"
+msgid "Replies"
+msgstr "Trả lời"
+
+msgctxt "[\"COMMENT-DISCUSSIONS\"]"
+msgid "Discussions"
+msgstr "Thảo luận"
+
+msgctxt "[\"COMMENT-ALL_DISCUSSIONS\"]"
+msgid "See all discussions"
+msgstr "Xem tất cả các thảo luận"
+
+msgctxt "[\"COMMENT-SEE_ALL_DISCUSSIONS\"]"
+msgid "See all {0} discussions"
+msgstr "Xem tất cả {0} thảo luận"
+
+msgctxt "[\"COMMENT-JOIN_IN_GROUP\"]"
+msgid "Join {0} group"
+msgstr "Tham gia nhóm {0}"
+
+msgctxt "[\"COMMENT-JOIN_GROUP\"]"
+msgid "Join Group"
+msgstr "Tham gia Nhóm"
+
+msgctxt "[\"COMMENT-GROUP\"]"
+msgid "Group"
+msgstr "Nhóm"
+
+msgctxt "[\"COMMENT-TITLE_POST\"]"
+msgid "Post"
+msgstr "Bài viết"
+
+msgctxt "[\"COMMENT-ADD\"]"
+msgid "Add Comment"
+msgstr "Thêm Bình luận"
+
+msgctxt "[\"COMMENT-ALL-REPLY\"]"
+msgid "All {0} replies"
+msgstr "Tất cả {0} câu trả lời"
+
+msgctxt "[\"COMMENT-VIEWS\"]"
+msgid "Views"
+msgstr "Lượt xem"
