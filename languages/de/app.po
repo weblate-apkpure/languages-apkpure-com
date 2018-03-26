@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-03-22 06:52+0000\n"
-"PO-Revision-Date: 2018-03-02 20:51+0000\n"
-"Last-Translator: SeucheAnemone 56 <chris.kathi24@gmail.com>\n"
+"PO-Revision-Date: 2018-03-26 07:35+0000\n"
+"Last-Translator: Anja <82327128@qq.com>\n"
 "Language-Team: German "
 "<https://translate.apkpure.com/projects/apkpure/apkpurecom/de/>\n"
 "Language: de\n"
@@ -279,7 +279,7 @@ msgstr "Kategorie"
 
 msgctxt "[\"DETAIL-LATEST_VERSION\"]"
 msgid "Latest Version"
-msgstr "Aktuellste Version"
+msgstr "Aktuelle Version"
 
 msgctxt "[\"DETAIL-PUBLISH_DATE\"]"
 msgid "Publish Date"
@@ -327,7 +327,7 @@ msgstr "Datei SHA1"
 
 msgctxt "[\"DETAIL-WHATS_NEW\"]"
 msgid "What's new"
-msgstr "Was ist neu"
+msgstr "Was gibt es Neues"
 
 msgctxt "[\"DETAIL-VERSION_HISTORY\"]"
 msgid "Version History"
@@ -1649,7 +1649,7 @@ msgstr ""
 
 msgctxt "[\"INDEX-POPULAR_CATEGORIES\"]"
 msgid "Popular categories"
-msgstr "Populäre Kategorien"
+msgstr "Beliebte Kategorien"
 
 msgctxt "[\"REGION_DOWN-DES\"]"
 msgid "- Download your favorite Android Apps with APK Downloader (Free Apps Only).<br>- Your download will begin automatically after you paste a package id and click the download button.<br>- Download failed? Please manually change country setting and try again.<br>- Want to tell us more about your problems? <a style='color:#FFFF00' href='contact-us.html'>Contact us here</a>"
@@ -1795,7 +1795,7 @@ msgstr "Android {0} XAPK, Vollversion mit OBB-Datei herunterladen."
 
 msgctxt "[\"VERIFICATION_DOWN\"]"
 msgid "Enter the code(s) as you see in the image, then click \"Download\"."
-msgstr "Geben Sie den Code vom Bild ein und klicken auf \"Download\"."
+msgstr "Geben Sie den Code vom Bild ein und klicken Sie auf \"Download\"."
 
 msgctxt "[\"TOPICS\"]"
 msgid "Topics"
@@ -2271,3 +2271,43 @@ msgid "By signing up you agree to our <a href='/terms-service.html' target='_bl
 msgstr ""
 "Mit der Anmeldung sind Sie mit unseren <a href='/terms-service.html' "
 "target='_blank'>AGBs</a> einverstanden"
+
+msgctxt "[\"FAST_DOWNLOAD\"]"
+msgid "Fast Download"
+msgstr "Schnell Herunterladen"
+
+msgctxt "[\"IGNORE\"]"
+msgid "Ignore"
+msgstr "Ignorieren"
+
+msgctxt "[\"OK\"]"
+msgid "OK"
+msgstr "OK"
+
+msgctxt "[\"BUY\"]"
+msgid "Buy"
+msgstr "Kaufen"
+
+msgctxt "[\"TOP-UPDATED-APPS\"]"
+msgid "Top Updated Apps"
+msgstr "Topaktualisierte Apps"
+
+msgctxt "[\"TOP-UPDATED-GAMES\"]"
+msgid "Top Updated Games"
+msgstr "Topaktualisierte Spiele"
+
+msgctxt "[\"HAVE_PRODUCTS\"]"
+msgid "All {0} Apps"
+msgstr "Alle {0} Apps"
+
+msgctxt "[\"DETAIL-MAIGHT_LIKE\"]"
+msgid "You Might Also Like"
+msgstr "Vielleicht gefällt Ihnen auch"
+
+msgctxt "[\"DETAIL-DELETED_COPYRIGHT_GOOGLE_PLAY_DES\"]"
+msgid "{app_name} All rights reserved ©2018 {developer}. {developer} and the {developer} logo are trademarks of {developer} in the U.S. and/or other countries.All other trademarks are the property of their respective owners."
+msgstr ""
+"{app_name} Alle Rechte vorbehalten ©2018 {developer}. {developer} und das "
+"{developer} Logo sind Markenzeichens von {developer} in U.S. und/oder "
+"anderer Staaten. Alle andere Markenzeichens sind das Eigentum der jeweiligen "
+"Inhaber."
