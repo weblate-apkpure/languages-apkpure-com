@@ -1,22 +1,41 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-03-13 07:30+0000\n"
+"PO-Revision-Date: 2018-03-29 08:24+0000\n"
+"Last-Translator: tatsu u <utatsu716@gmail.com>\n"
+"Language-Team: Japanese "
+"<https://translate.apkpure.com/projects/apkpure/apkpurecom/ja/>\n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 2.14.1\n"
+
+#, fuzzy
 msgctxt "[\"NAV-GAME\"]"
 msgid "GAMES"
 msgstr "ゲーム"
 
 msgctxt "[\"NAV-APP\"]"
 msgid "APPS"
-msgstr "アプリ"
+msgstr "…h TBH Iggyアプリ"
 
 msgctxt "[\"NAV-XAPK\"]"
 msgid "XAPK"
-msgstr "XAPK"
+msgstr ""
+"Happy Birthday\n"
+"Aloha Melia Nalu"
 
 msgctxt "[\"NAV-NEW\"]"
 msgid "NEW"
-msgstr "最新"
+msgstr "今次"
 
 msgctxt "[\"NAV-PRODUCTS\"]"
 msgid "PRODUCTS"
-msgstr "製品"
+msgstr "プロダクト"
 
 msgctxt "[\"NAV-NEW_GAME\"]"
 msgid "NEW GAME"
@@ -48,7 +67,7 @@ msgstr "APK検証"
 
 msgctxt "[\"NAV-APKPURE_APP\"]"
 msgid "APKPure App"
-msgstr "APKPure アプリ"
+msgstr "アプリAPKPure"
 
 msgctxt "[\"DOWNLOAD\"]"
 msgid "Download"
@@ -56,7 +75,7 @@ msgstr "ダウンロード"
 
 msgctxt "[\"FAST_DOWNLOAD\"]"
 msgid "Fast Download"
-msgstr "Fast Download"
+msgstr "高速ダウンロード"
 
 msgctxt "[\"IGNORE\"]"
 msgid "Ignore"
@@ -144,7 +163,7 @@ msgstr "最新"
 
 msgctxt "[\"RATING\"]"
 msgid "Rating"
-msgstr "レーティング"
+msgstr "レート"
 
 msgctxt "[\"CATEGORY\"]"
 msgid "Category"
@@ -280,7 +299,7 @@ msgstr "アップデート"
 
 msgctxt "[\"DETAIL-MAIGHT_LIKE\"]"
 msgid "You Might Also Like"
-msgstr "You Might Also Like"
+msgstr "あなたも好きかもしれない"
 
 msgctxt "[\"DETAIL-PAID_GAME\"]"
 msgid "Paid Game"
@@ -412,7 +431,7 @@ msgstr "アップデートをリクエスト"
 
 msgctxt "[\"DETAIL-RATING\"]"
 msgid "{votes} votes, average: {rating_average} out of {rating_best}"
-msgstr "{votes} 票,  平均{rating_average} 星"
+msgstr "{votes} 票,  平均{rating_average}"
 
 msgctxt "[\"DETAIL-RATING1\"]"
 msgid "average: {rating_average} out of {rating_best}"
@@ -576,7 +595,7 @@ msgstr "電子メール"
 
 msgctxt "[\"COMMENT-SORT_BY_NEWEST\"]"
 msgid "Newest"
-msgstr "最新"
+msgstr "最近のオススメ"
 
 msgctxt "[\"COMMENT-SORT_BY_NEW\"]"
 msgid "Newest"
@@ -708,11 +727,11 @@ msgstr "コメントをよみこんでいます..."
 
 msgctxt "[\"USER-PROFILE\"]"
 msgid "Profile"
-msgstr "Profile"
+msgstr "プロフィール"
 
 msgctxt "[\"USER-CHANGE_PASSWORD\"]"
 msgid "Change Password"
-msgstr "Change Password"
+msgstr "パスワードを変更する"
 
 msgctxt "[\"USER-MESSAGES\"]"
 msgid "Messages"
@@ -720,23 +739,23 @@ msgstr "Messages"
 
 msgctxt "[\"USER-COMMENTS\"]"
 msgid "Comments"
-msgstr "Comments"
+msgstr "コメント"
 
 msgctxt "[\"USER-MY_FAVORITE\"]"
 msgid "My Favorite"
-msgstr "My Favorite"
+msgstr "私のお気に入り"
 
 msgctxt "[\"USER-LIKED_COMMENTS\"]"
 msgid "Liked Comments"
-msgstr "Liked Comments"
+msgstr "好きなコメント"
 
 msgctxt "[\"USER-NEW_PASSWORD\"]"
 msgid "New password"
-msgstr "New password"
+msgstr "新しいパスワード"
 
 msgctxt "[\"USER-CURRENT_PASSWORD\"]"
 msgid "Current password"
-msgstr "Current password"
+msgstr "現在のパスワード"
 
 msgctxt "[\"USER-ACCOUNT_EXIST\"]"
 msgid "The username is already in use."
@@ -764,11 +783,11 @@ msgstr "入力されたユーザーネームが無効です。"
 
 msgctxt "[\"USER-INCORRECT_BIRTHDAY\"]"
 msgid "You have entered an invalid birthday."
-msgstr "You have entered an invalid birthday."
+msgstr "無効な誕生日を入力しました。"
 
 msgctxt "[\"USER-INCORRECT_INTRO\"]"
 msgid "Information you have entered contains invalid characters."
-msgstr "Information you have entered contains invalid characters."
+msgstr "入力した情報に無効な文字が含まれています。"
 
 msgctxt "[\"USER-UNKNOWN_ERROR\"]"
 msgid "unknown mistake."
@@ -776,7 +795,7 @@ msgstr "不明なエラーが発生しました。"
 
 msgctxt "[\"USER-BAD_NAME\"]"
 msgid "Your input includes sensitive vocabulary."
-msgstr "入力したものは不適切な用語が含まれている。"
+msgstr "入力した文に不適切な用語が含まれています。"
 
 msgctxt "[\"USER-FEMALE\"]"
 msgid "Female"
@@ -1072,7 +1091,7 @@ msgstr "私たちに関しては"
 
 msgctxt "[\"FOOTER-SOLUTIONS\"]"
 msgid "SOLUTIONS"
-msgstr "解決方法"
+msgstr "エラー対処"
 
 msgctxt "[\"FOOTER-CUSTOMER_SERVICE\"]"
 msgid "CUSTOMER SERVICE"
@@ -1112,55 +1131,57 @@ msgstr "乱用に関する通告"
 
 msgctxt "[\"MARKET-POP_TITLE\"]"
 msgid "APKPure AppStore App"
-msgstr "APKPure AppStore App"
+msgstr "APKPure AppStore アプリ"
 
 msgctxt "[\"MARKET-POP_CHANGE_TITLE\"]"
 msgid "Change Profile Settings"
-msgstr "Change Profile Settings"
+msgstr "プロフィール設定を変更する"
 
 msgctxt "[\"MARKET-POP_ADD_IMAGE\"]"
 msgid "Add Images To Post"
-msgstr "Add Images To Post"
+msgstr "画像を投稿に追加"
 
 msgctxt "[\"MARKET-QR\"]"
 msgid "Download<br>APKPure App"
-msgstr "APKPureアプリをダウンローダする"
+msgstr "APKPureアプリをダウンロードする"
 
 msgctxt "[\"MARKET-QR-TITLE\"]"
 msgid "Download APKPure App"
-msgstr "APKPure アプリをダウンローダする"
+msgstr "APKPure アプリをダウンロードする"
 
 msgctxt "[\"MARKET-INDEX_SHORT_DES\"]"
 msgid "Try <strong title=\"Download APKPure APK\">APKPure App</strong> - Download, update and install apks on your Android."
-msgstr "<strong title=\" APKPure APKダウンロード\"> APKPure App</strong> を通じてAndroidのapks ゲーム アップデートをダウンロードおよびインストールします。"
+msgstr ""
+"<strong title=\"Download APKPure APK\"> APKPure アプリ</strong> - "
+"Android上でAPKをダウンロード、アップデート、インストールします。"
 
 msgctxt "[\"MARKET-INDEX_SHORT_DES_TITLE\"]"
 msgid "Try APKPure Mobile app, to install, manage and update your Android apps."
-msgstr "APKPureを利用してモバイルに無料で Android appsをダウンロード、アップデートする。"
+msgstr "Androidアプリをインストール、管理、アップデートするには、APKPure Mobileアプリをお試しください。"
 
 msgctxt "[\"MARKET-DETAIL_APK_SHORT_DES\"]"
 msgid "Faster apks download and update on APKPure App"
-msgstr "APKPure Appを利用してapksをダウンローダ、アップデートする"
+msgstr "APKPure アプリを利用してより高速にapkをダウンロード、アップデートする"
 
 msgctxt "[\"MARKET-DETAIL_APK_SHORT_DES_MOBILE\"]"
 msgid "Download and update on APKPure App"
-msgstr "APKPure アプリを利用してダウンローダ、アップデートする"
+msgstr "APKPure アプリを利用してダウンロード、アップデートする"
 
 msgctxt "[\"MARKET-DETAIL_APK_SHORT_DES_TITLE\"]"
 msgid "Faster apks download and update on APKPure"
-msgstr "APKPure Appを利用してapksをダウンローダ、アップデートする"
+msgstr "APKPureでより高速にapkをダウンロード、アップデートする"
 
 msgctxt "[\"MARKET-DETAIL_XAPK_SHORT_DES\"]"
 msgid "Install and update XAPK with APKPure App"
-msgstr "APKPureアプリを通じて XAPKアップデートをダウンロードしてインストールする"
+msgstr "APKPureアプリを通じてXAPKをインストール、アップデートする"
 
 msgctxt "[\"MARKET-DETAIL_XAPK_SHORT_DES_MOBILE\"]"
 msgid "Click to get XAPK Installer"
-msgstr "クリックして XAPKインストーラーをダウンローダする"
+msgstr "クリックしてXAPKインストーラを取得する"
 
 msgctxt "[\"MARKET-DETAIL_XAPK_SHORT_DES_TITLE\"]"
 msgid "Install and update XAPK with APKPure App"
-msgstr "APKPureアプリを利用してXAPKアップデートをダウンロードしてインストールする"
+msgstr "APKPureアプリでXAPKをインストール、アップデートする"
 
 msgctxt "[\"MARKET-INDEX_BANNER_TITLE\"]"
 msgid "APKPure APP"
@@ -1168,7 +1189,7 @@ msgstr "APKPure アプリ"
 
 msgctxt "[\"MARKET-INDEX_BANNER_DES\"]"
 msgid "Install,manage and update your apps"
-msgstr "Androidゲームとアプリを無料でダウンロード、アップデートする"
+msgstr "アプリをインストール、管理、アップデートする"
 
 msgctxt "[\"MARKET-BOTTOM_BANNER_TITLE\"]"
 msgid "APKPure App"
@@ -1176,7 +1197,7 @@ msgstr "APKPure アプリ"
 
 msgctxt "[\"MARKET-BOTTOM_BANNER_DES\"]"
 msgid "Try APKPure App - Download, update and install apks on your Android."
-msgstr "APKPure アプリを使用してAndroidのapks を無料でダウンローダ、アップデートすることができます。"
+msgstr "アプリAPKPureを利用してアンドロイドのapksファイルを無料でダウンロード、アップデートすることができます。"
 
 msgctxt "[\"MARKET-BOTTOM_BANNER_DETAIL_APK_DES\"]"
 msgid "Using APKPure App to upgrade <strong>{0}</strong>, fast, free and save your internet data."
@@ -1492,7 +1513,7 @@ msgstr "安全"
 
 msgctxt "[\"js\"][\"SIGN_VERIFY-UNSAFE\"]"
 msgid "unsafe"
-msgstr "危険"
+msgstr "注意"
 
 msgctxt "[\"js\"][\"SIGN_VERIFY-CLICK_UPLOAD\"]"
 msgid "Click Upload APK file"
@@ -1576,7 +1597,7 @@ msgstr "Saved Successfully"
 
 msgctxt "[\"js\"][\"COMMENT-DELETE\"]"
 msgid "Yes,delete it!"
-msgstr "削除！"
+msgstr "はい、削除してください！"
 
 msgctxt "[\"js\"][\"COMMENT-DELETED\"]"
 msgid "Deleted!"
@@ -1756,7 +1777,7 @@ msgstr "\"{0}\"が開発した全てのAppsとゲーム"
 
 msgctxt "[\"meta\"][\"Search\"][\"title\"]"
 msgid "{0} search results | APKPure.com"
-msgstr "{0} 件の検索結果 | APKPure.com"
+msgstr "{0} 件見つかりました | APKPure.com"
 
 msgctxt "[\"meta\"][\"Search\"][\"keywords\"]"
 msgid "{0} apk download, download {0} apk"
@@ -1828,7 +1849,7 @@ msgstr "エラー"
 
 msgctxt "[\"meta\"][\"Category\"][\"title\"]"
 msgid "Browse Category | APKPure.com"
-msgstr "カテゴリーを見る | APKPure.com"
+msgstr "カテゴリー | APKPure.com"
 
 msgctxt "[\"meta\"][\"Category\"][\"keywords\"]"
 msgid "app category,game category"
@@ -1876,47 +1897,51 @@ msgstr "その他のAndroid・Androidのタブレットなど向けの人気 {ap
 
 msgctxt "[\"meta\"][\"Login\"][\"title\"]"
 msgid "Sign in account for APKPure Android App Store"
-msgstr "Sign in account for APKPure Android App Store"
+msgstr "APKPure Androidアプリストアのアカウントでログイン"
 
 msgctxt "[\"meta\"][\"Login\"][\"keywords\"]"
 msgid "login, new member, account, registration"
-msgstr "login, new member, account, registration"
+msgstr "ログイン、新規メンバー、アカウント、登録"
 
 msgctxt "[\"meta\"][\"Login\"][\"description\"]"
 msgid "To join community group or vote on APKPure App Store, you must be registered. Register your APKPure account today!"
-msgstr "To join community group or vote on APKPure App Store, you must be registered. Register your APKPure account today!"
+msgstr ""
+"APKPure App "
+"Storeでコミュニティグループに参加、または投票するには登録する必要があります。今すぐAPKPureアカウントを登録してください！"
 
 msgctxt "[\"meta\"][\"Password\"][\"title\"]"
 msgid "Change Password"
-msgstr "Change Password"
+msgstr "パスワードの変更"
 
 msgctxt "[\"meta\"][\"Password\"][\"description\"]"
 msgid "Change or reset my password."
-msgstr "Change or reset my password."
+msgstr "パスワードを変更またはリセットする。"
 
 msgctxt "[\"meta\"][\"User\"][\"title\"]"
 msgid "{user_name}: Profile and Activity - APKPure AppStore"
-msgstr "{user_name}: Profile and Activity - APKPure AppStore"
+msgstr "{user_name}: プロファイルとアクティビティ - APKPure AppStore"
 
 msgctxt "[\"meta\"][\"User\"][\"description\"]"
 msgid "My APKPure AppStore profile and activity page for {user_name}. Join APKPure AppStore to connect with {user_name}."
-msgstr "My APKPure AppStore profile and activity page for {user_name}. Join APKPure AppStore to connect with {user_name}."
+msgstr ""
+"私 {user_name}のAPKPure AppStoreプロフィールとアクティビティページ。APKPure "
+"AppStoreに参加して{user_name}をコネクトしてください。"
 
 msgctxt "[\"meta\"][\"Profile\"][\"title\"]"
 msgid "{user_name}'s profile on APKPure App Store"
-msgstr "{user_name}'s profile on APKPure App Store"
+msgstr "{user_name}のAPKPure App Storeでのプロフィール"
 
 msgctxt "[\"meta\"][\"Profile\"][\"description\"]"
 msgid "The APKPure member profile for {user_name}."
-msgstr "The APKPure member profile for {user_name}."
+msgstr "{user_name}のAPKPureメンバープロファイル。"
 
 msgctxt "[\"meta\"][\"Register\"][\"title\"]"
 msgid "Register account for APKPure Android App Store"
-msgstr "Register account for APKPure Android App Store"
+msgstr "APKPure Android アプリストアのアカウントを登録する"
 
 msgctxt "[\"meta\"][\"Register\"][\"keywords\"]"
 msgid "register, new member, account, registration"
-msgstr "register, new member, account, registration"
+msgstr "登録する、新規会員、アカウント、登録"
 
 msgctxt "[\"meta\"][\"Register\"][\"description\"]"
 msgid "To join community group or vote on APKPure App Store, you must be registered. Register your APKPure account today!"

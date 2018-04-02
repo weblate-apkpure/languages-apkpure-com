@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-10-28 13:15+0000\n"
-"PO-Revision-Date: 2017-09-08 07:41+0000\n"
+"PO-Revision-Date: 2018-03-18 04:11+0000\n"
 "Last-Translator: ប៉ុកណូ រ៉ូយ៉ាល់ <royalpokno68@gmail.com>\n"
 "Language-Team: Central Khmer "
 "<https://translate.apkpure.com/projects/apkpure/apkpurecom/km/>\n"
@@ -493,7 +493,7 @@ msgstr "ឈ្មោះកញ្ចប់"
 
 msgctxt "[\"SIGN_VERIFY-SIGNATURE\"]"
 msgid "Signature"
-msgstr ""
+msgstr "ហត្ថលេខា"
 
 msgctxt "[\"SIGN_VERIFY-FILE_SHA1\"]"
 msgid "File SHA1"
@@ -509,7 +509,7 @@ msgstr "ការស្វែងរកកំរិតខ្ពស់"
 
 msgctxt "[\"SEARCH-SEARCH_RESULTS\"]"
 msgid "{0} search results found."
-msgstr ""
+msgstr "រកឃើញលទ្ធផលស្វែងរក {0} ។"
 
 msgctxt "[\"SEARCH-NO_RESULTS_FOUND\"]"
 msgid "No results found? Try to advanced search again."
@@ -517,7 +517,7 @@ msgstr ""
 
 msgctxt "[\"SEARCH-SELECT_REGION\"]"
 msgid "Select a region you want to search with"
-msgstr ""
+msgstr "ជ្រើសតំបន់ដែលអ្នកចង់ស្វែងរកជាំមួយ"
 
 msgctxt "[\"SEARCH-ABOUT_RESULTS\"]"
 msgid "About {0} results"
@@ -533,23 +533,23 @@ msgstr "ស្វែងរក..."
 
 msgctxt "[\"SEARCH-PLACEHOLDER3\"]"
 msgid "Name Or Package Name"
-msgstr ""
+msgstr "ឈ្មោះ ឬ ឈ្មោះកញ្ចាប់"
 
 msgctxt "[\"SEARCH-TITLE\"]"
 msgid "Enter App Name, Package Name, Package ID"
-msgstr ""
+msgstr "វាយឈ្មោះកម្មវិធី ឈ្មោះកញ្ចប់"
 
 msgctxt "[\"SEARCH-APK\"]"
 msgid "Search APK"
-msgstr ""
+msgstr "ស្វែងរក APK"
 
 msgctxt "[\"404-OOPS\"]"
 msgid "OOPS!,"
-msgstr ""
+msgstr "អុញ!"
 
 msgctxt "[\"404-Error_404\"]"
 msgid "Error 404!"
-msgstr ""
+msgstr "កំហុស ៤០៤!"
 
 msgctxt "[\"404-DES\"]"
 msgid "It seems that page you are looking for no longer exists.<br />You can explore more Android Games and Apps below!"
@@ -565,27 +565,27 @@ msgstr ""
 
 msgctxt "[\"COMING_SOON\"]"
 msgid "COMING SOON"
-msgstr ""
+msgstr "ឆាប់ៗនេះ"
 
 msgctxt "[\"SEARCHING\"]"
 msgid "Searching..."
-msgstr ""
+msgstr "កំពុងស្វែងរក..."
 
 msgctxt "[\"FOOTER-APK_DOWNLOADER_SEO\"]"
 msgid "APK Downloader"
-msgstr ""
+msgstr "កម្មវិធីទាញយក APK"
 
 msgctxt "[\"FOOTER-APK_DOWNLOADS_SEO\"]"
 msgid "APK Downloads"
-msgstr ""
+msgstr "ទាញយក APK"
 
 msgctxt "[\"FOOTER-APK_DOWNLOAD\"]"
 msgid "APK Downloader (Region free)"
-msgstr ""
+msgstr "កម្មវិធីទាញយក APK (តំបន់សេរី)"
 
 msgctxt "[\"FOOTER-APK_INSTALL\"]"
 msgid "APK Install"
-msgstr ""
+msgstr "តម្លើង APK"
 
 msgctxt "[\"FOOTER-APK_SIGNATURE_VERIFICATION\"]"
 msgid "APK Signature Verification"
@@ -593,35 +593,35 @@ msgstr ""
 
 msgctxt "[\"FOOTER-APK_TO_APPX\"]"
 msgid "APK to APPX"
-msgstr ""
+msgstr "APK ទៅ APPX"
 
 msgctxt "[\"FOOTER-PRIVACY_POLICY\"]"
 msgid "Privacy Policy"
-msgstr ""
+msgstr "​ឯកជន​ភាព & គោលការណ៍"
 
 msgctxt "[\"FOOTER-DMCA\"]"
 msgid "DMCA Disclaimer"
-msgstr ""
+msgstr "ការបដិសេធ លDMCA"
 
 msgctxt "[\"FOOTER-DMCA_TITLE\"]"
 msgid "DMCA Disclaimer"
-msgstr ""
+msgstr "ការបដិសេធ DMCA"
 
 msgctxt "[\"FOOTER-TERM_OF_USE\"]"
 msgid "Term of Use"
-msgstr ""
+msgstr "លក្ខខ័ណ្ឌនៃការប្រើប្រាស់"
 
 msgctxt "[\"FOOTER-MARKET_FOR_ANDROID\"]"
 msgid "APKPure For Android"
-msgstr ""
+msgstr "APKPure សម្រាប់ Android"
 
 msgctxt "[\"FOOTER-EXPLORE_XAPK_GAMES\"]"
 msgid "Explore XAPK Games"
-msgstr ""
+msgstr "រុករកហ្គេម XAPK"
 
 msgctxt "[\"FOOTER-EXPLORE_XAPK_APPS\"]"
 msgid "Explore XAPK Apps"
-msgstr ""
+msgstr "រុករកកម្មវិធី XAPK"
 
 msgctxt "[\"FOOTER-DESKTOP_VERSION\"]"
 msgid "Desktop Version"
@@ -665,19 +665,19 @@ msgstr ""
 
 msgctxt "[\"FOOTER-TRANSLATE\"]"
 msgid "Help translate APKPure"
-msgstr ""
+msgstr "ជួយបកប្រែ កម្មវិធីAPKPure"
 
 msgctxt "[\"FOOTER-DEVELOPER\"]"
 msgid "Submit Your App"
-msgstr ""
+msgstr "ស្នើបញ្ចូលកម្មវិធីរបស់អ្នក"
 
 msgctxt "[\"FOOTER-COOPERATION\"]"
 msgid "Business Cooperation"
-msgstr ""
+msgstr "កិច្ចសហប្រតិបត្តិការជំនួញ"
 
 msgctxt "[\"FOOTER-XAPK\"]"
 msgid "XAPK"
-msgstr ""
+msgstr "XAPK"
 
 msgctxt "[\"MARKET-QR\"]"
 msgid "Download<br>APKPure App"
@@ -773,43 +773,45 @@ msgstr ""
 
 msgctxt "[\"FLAG-Africa\"]"
 msgid "Africa"
-msgstr ""
+msgstr "អាហ្វ្រិក"
 
 msgctxt "[\"FLAG-Americas\"]"
 msgid "Americas"
-msgstr ""
+msgstr "អាមេរិច"
 
 msgctxt "[\"FLAG-Asia\"]"
 msgid "Asia"
-msgstr ""
+msgstr "អាស៊ី"
 
 msgctxt "[\"FLAG-Europe\"]"
 msgid "Europe"
-msgstr ""
+msgstr "អ៊ឺរ៉ុប"
 
 msgctxt "[\"FLAG-Oceania\"]"
 msgid "Oceania"
-msgstr ""
+msgstr "អូសេអានី"
 
 msgctxt "[\"FLAG-Rest_of_the_world\"]"
 msgid "Rest of the world"
-msgstr ""
+msgstr "នៅលើពិភពលោក"
 
 msgctxt "[\"ERROR-OOPS\"]"
 msgid "OOPS!,"
-msgstr ""
+msgstr "អុញ!"
 
 msgctxt "[\"ERROR-SUBTITLE\"]"
 msgid "You can visit the following Games and Apps instead"
-msgstr ""
+msgstr "អ្នកអាចទស្សនាកម្មវិធីនិងហ្គេមដែលបានតាមដានដោយផ្ទាល់"
 
 msgctxt "[\"error\"][\"DOWN-ItemNotFree\"]"
 msgid "Sorry, paid apps are not available to download with our APK Download Service."
 msgstr ""
+"សូមទោស, កម្មវិធីបង់ប្រាក់ មិនអាចប្រើបានទេ ក្នុងការទាញយកជាមួយសេវាកម្មទាញយក​ "
+"APK ។"
 
 msgctxt "[\"error\"][\"DOWN-ItemNotFound\"]"
 msgid "Sorry, download failed, the APK cannot be found."
-msgstr ""
+msgstr "សូមទោស, ​ការទាញយកបរាជ័យ, APK មិនអាចរកឃើញ។"
 
 msgctxt "[\"error\"][\"DOWN-LimitedRegion\"]"
 msgid "Oops! Change your region and try download again."
@@ -1910,3 +1912,197 @@ msgstr "កំពូលកម្មវិធីដែលបានអាប់ដ
 msgctxt "[\"TOP-UPDATED-GAMES\"]"
 msgid "Top Updated Games"
 msgstr "កំពូលហ្គេមដែលបានអាប់ដេត"
+
+msgctxt "[\"FAST_DOWNLOAD\"]"
+msgid "Fast Download"
+msgstr "ការទាញយករហ័ស"
+
+msgctxt "[\"BUY\"]"
+msgid "Buy"
+msgstr "ទិញ"
+
+msgctxt "[\"HAVE_PRODUCTS\"]"
+msgid "All {0} Apps"
+msgstr "កម្មវិធី {0} ទាំងអស់"
+
+msgctxt "[\"DETAIL-MAIGHT_LIKE\"]"
+msgid "You Might Also Like"
+msgstr "អ្នកគួរតែអាចចូលចិត្តផងដែរ"
+
+msgctxt "[\"COMMENT-ADD_NEW_DISCUSSION\"]"
+msgid "Add A New Discussion"
+msgstr "បន្ថែមការជជែកពិភាក្សាគ្នាថ្មី"
+
+msgctxt "[\"COMMENT-REPLIES\"]"
+msgid "Replies"
+msgstr "ឆ្លើយតប"
+
+msgctxt "[\"COMMENT-DISCUSSIONS\"]"
+msgid "Discussions"
+msgstr "ការជជែកពិភាក្សាគ្នា"
+
+msgctxt "[\"meta\"][\"Invit\"][\"keywords\"]"
+msgid "group, {app_name}, {app_category}, {app_type}, {app_developer}, {app_short_name} community"
+msgstr ""
+"ក្រុម {app_name}, {app_category}, {app_type}, {app_developer}, "
+"{app_short_name} បណ្ដាញទំនាក់ទំនង"
+
+msgctxt "[\"DETAIL-DELETED_COPYRIGHT_GOOGLE_PLAY_DES\"]"
+msgid "{app_name} All rights reserved ©2018 {developer}. {developer} and the {developer} logo are trademarks of {developer} in the U.S. and/or other countries.All other trademarks are the property of their respective owners."
+msgstr ""
+"{app_name} ©2018 រក្សា​រ​សិទ្ធ​គ្រប់យ៉ាងដោយ  {developer}. {developer} "
+"និងនិមិត្តសញ្ញា {developer} គឺជាស្លាកសញ្ញាពាណិជ្ជកម្មនៃ​ {developer} "
+"ស្ថិតក្នង​ U.S. ហើយ/ឬ ប្រទេសផ្សេងទៀត។ រាល់ស្លាកសញ្ញាពាណិជ្ជកម្មផ្សេងទៀត "
+"ជាទ្រព្យសម្បត្តិរបស់ម្ចាស់កម្មសិទ្ធិផ្សេងទៀត។"
+
+msgctxt "[\"COMMENT-ALL_DISCUSSIONS\"]"
+msgid "See all discussions"
+msgstr "មើលការពិភាក្សាទាំងអស់"
+
+msgctxt "[\"COMMENT-SEE_ALL_DISCUSSIONS\"]"
+msgid "See all {0} discussions"
+msgstr "មើលការពិភាក្សាពី {0} ទាំងអស់"
+
+msgctxt "[\"COMMENT-JOIN_IN_GROUP\"]"
+msgid "Join {0} group"
+msgstr "ចូលរួមក្រុម {0}"
+
+msgctxt "[\"COMMENT-JOIN_GROUP\"]"
+msgid "Join Group"
+msgstr "ចូលរួមក្រុម"
+
+msgctxt "[\"COMMENT-GROUP\"]"
+msgid "Group"
+msgstr "ក្រុម"
+
+msgctxt "[\"COMMENT-TITLE_POST\"]"
+msgid "Post"
+msgstr "ប្រកាស"
+
+msgctxt "[\"COMMENT-ADD\"]"
+msgid "Add Comment"
+msgstr "បន្ថែមមតិ"
+
+msgctxt "[\"COMMENT-ALL-REPLY\"]"
+msgid "All {0} replies"
+msgstr "ការឆ្លើយតបទាំង {0}"
+
+msgctxt "[\"COMMENT-VIEWS\"]"
+msgid "Views"
+msgstr "មើល"
+
+msgctxt "[\"COMMENT-SORT_BY_BEST_LONG\"]"
+msgid "Sort by best"
+msgstr "ច្រោះយកល្អបំផុត"
+
+msgctxt "[\"USER-PROFILE\"]"
+msgid "Profile"
+msgstr "ពត៌មានផ្ទាល់ខ្លួន"
+
+msgctxt "[\"USER-CHANGE_PASSWORD\"]"
+msgid "Change Password"
+msgstr "ផ្លាស់ប្ដូរពាក្យសម្ងាត់"
+
+msgctxt "[\"USER-MESSAGES\"]"
+msgid "Messages"
+msgstr "សារ"
+
+msgctxt "[\"USER-COMMENTS\"]"
+msgid "Comments"
+msgstr "មតិ"
+
+msgctxt "[\"USER-MY_FAVORITE\"]"
+msgid "My Favorite"
+msgstr "ចំណង់ចំណូលចិត្ត"
+
+msgctxt "[\"USER-LIKED_COMMENTS\"]"
+msgid "Liked Comments"
+msgstr "មតិដែលបានចូលចិត្ត"
+
+msgctxt "[\"USER-NEW_PASSWORD\"]"
+msgid "New password"
+msgstr "ពាក្យសម្ងាត់ថ្មី"
+
+msgctxt "[\"USER-CURRENT_PASSWORD\"]"
+msgid "Current password"
+msgstr "ពាក្យសម្ងាត់ចាស់"
+
+msgctxt "[\"USER-INCORRECT_BIRTHDAY\"]"
+msgid "You have entered an invalid birthday."
+msgstr "អ្នកបានវាយថ្ងៃកំណើតដែលមិនត្រឹមត្រូវ។"
+
+msgctxt "[\"USER-INCORRECT_INTRO\"]"
+msgid "Information you have entered contains invalid characters."
+msgstr "ពត៌មានរបស់អ្នកបានផ្ទុកតួអក្សរដែលមិនត្រឹមត្រូវ។"
+
+msgctxt "[\"USER-NICKNAME\"]"
+msgid "Nickname"
+msgstr "ឈ្មោះហៅក្រៅ"
+
+msgctxt "[\"USER-BIRTHDAY\"]"
+msgid "Birthday"
+msgstr "ថ្ងៃកំណើត"
+
+msgctxt "[\"USER-GENDER\"]"
+msgid "Gender"
+msgstr "ភេទ"
+
+msgctxt "[\"USER-SAVE\"]"
+msgid "Save"
+msgstr "រក្សាទុក"
+
+msgctxt "[\"USER-SAVING\"]"
+msgid "Saving..."
+msgstr "រក្សាទុក"
+
+msgctxt "[\"USER-MY_PICTURE\"]"
+msgid "My Picture"
+msgstr "រូបភាពរបស់ខ្ងុំ"
+
+msgctxt "[\"USER-CHANGE_PICTURE\"]"
+msgid "Change Picture"
+msgstr "ផ្លាស់ប្ដូររូបភាព"
+
+msgctxt "[\"SEARCH-TRENDING\"]"
+msgid "trending searches"
+msgstr "ការស្វែងរកដែលសកម្ម"
+
+msgctxt "[\"SEARCH-HISTORY\"]"
+msgid "Search history"
+msgstr "ប្រវត្តិនៃការស្វែងរក"
+
+msgctxt "[\"COPYRIGHT\"]"
+msgid "Copyright © 2014-2018 APKPure All rights reserved."
+msgstr "រក្សាសិទិ្ធ © 2014-2018 APKPure រាល់ស្លាកសញ្ញាទាំងអសស់"
+
+msgctxt "[\"COPYRIGHT_MOBILE\"]"
+msgid "APKPure.com © 2014-2018"
+msgstr "APKPure.com © 2014-2018"
+
+msgctxt "[\"FOOTER-REPORT_ABUSE\"]"
+msgid "Report abuse"
+msgstr "រាយការណ៍ រំលោភកម្មសិទ្ទិ"
+
+msgctxt "[\"MARKET-TOP_COUNTRY\"][\"en-US\"]"
+msgid "USA"
+msgstr "អាមេរិក"
+
+msgctxt "[\"MARKET-TOP_COUNTRY\"][\"ja\"]"
+msgid "Japan"
+msgstr "ជប៉ុន"
+
+msgctxt "[\"MARKET-TOP_COUNTRY\"][\"zh-CN\"]"
+msgid "China"
+msgstr "ចិន"
+
+msgctxt "[\"MARKET-TOP_COUNTRY\"][\"ko-KR\"]"
+msgid "Korea"
+msgstr "កូរ៉េ"
+
+msgctxt "[\"MARKET-TOP_COUNTRY\"][\"id-ID\"]"
+msgid "Indonesia"
+msgstr "ឥណ្ឌូនេស៊ី"
+
+msgctxt "[\"MARKET-TOP_COUNTRY\"][\"pt-BR\"]"
+msgid "Brazil"
+msgstr "ប្រេស៊ីល"
