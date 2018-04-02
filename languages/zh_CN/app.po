@@ -1,22 +1,6 @@
-msgid ""
-msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-03-18 14:00+0000\n"
-"PO-Revision-Date: 2018-03-18 14:00+0000\n"
-"Last-Translator: Jude Bayabay <bayabayjude@gmail.com>\n"
-"Language-Team: Chinese (Simplified) "
-"<https://translate.apkpure.com/projects/apkpure/apkpurecom/zh_Hans/>\n"
-"Language: zh_CN\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 2.14.1\n"
-
 msgctxt "[\"NAV-GAME\"]"
 msgid "GAMES"
-msgstr "English"
+msgstr "游戏"
 
 msgctxt "[\"NAV-APP\"]"
 msgid "APPS"
@@ -150,9 +134,17 @@ msgctxt "[\"HOT\"]"
 msgid "Hot"
 msgstr "最热门"
 
+msgctxt "[\"ATTACHMENT\"]"
+msgid "Attachment"
+msgstr "附件"
+
 msgctxt "[\"DOWNLOADS\"]"
 msgid "Downloads"
 msgstr "下载最多"
+
+msgctxt "[\"DOWNLOADS_ATTACHMENT\"]"
+msgid "Downloads"
+msgstr "下载数"
 
 msgctxt "[\"NEWEST\"]"
 msgid "Newest"
@@ -217,6 +209,10 @@ msgstr "关闭"
 msgctxt "[\"COMMENTS\"]"
 msgid "Comments"
 msgstr "用户评论"
+
+msgctxt "[\"NOT_FOUND\"]"
+msgid "Not Found"
+msgstr "没有找到"
 
 msgctxt "[\"LATEST_UPDATE_GAMES\"]"
 msgid "Latest Update Games"
@@ -698,6 +694,10 @@ msgctxt "[\"COMMENT-ERR_INVALID_PARAMETER\"]"
 msgid "Invalid comment parameter"
 msgstr "不正确的评论参数"
 
+msgctxt "[\"COMMENT-ERR_INVALID_USER\"]"
+msgid "You're banned from APKPure by using or posting content containing nudity images. Please edit or remove the images before contacting Admin to restore your account."
+msgstr "您使用或发布的内容中含有裸露图片您已被禁止使用APKPure。 在联系管理员恢复您的帐户之前，请先编辑或删除违规图片。"
+
 msgctxt "[\"COMMENT-ERR_INVALID_VIDEO_URL\"]"
 msgid "Invalid Video URL"
 msgstr "无效的视频链接"
@@ -721,6 +721,58 @@ msgstr "你确定？"
 msgctxt "[\"COMMENT-LOADING\"]"
 msgid "Comment Loading..."
 msgstr "评论载入中..."
+
+msgctxt "[\"COMMENT-DOWNLOAD_APK\"]"
+msgid "Download the APK file on APKPure."
+msgstr "去 APKPure APP 下载文件。"
+
+msgctxt "[\"PRE-REGISTER\"]"
+msgid "Pre-register"
+msgstr "预注册"
+
+msgctxt "[\"PRE-REGISTRANTS\"]"
+msgid "Pre-registrants"
+msgstr "预约人数"
+
+msgctxt "[\"PRE-REGISTER_DETAILS\"]"
+msgid "Pre-register Details"
+msgstr "预约信息"
+
+msgctxt "[\"PRE-REGISTER_DATE\"]"
+msgid "Release Date"
+msgstr "发布日期"
+
+msgctxt "[\"PRE-REGISTER_REWARDS\"]"
+msgid "Register Rewards"
+msgstr "注册奖励"
+
+msgctxt "[\"PRE-REGISTER_PAGE\"]"
+msgid "Pre-register Page"
+msgstr "预注册页面"
+
+msgctxt "[\"USER-FOLLOWING\"]"
+msgid "Following"
+msgstr "关注"
+
+msgctxt "[\"USER-FOLLOWER\"]"
+msgid "Follower"
+msgstr "粉丝"
+
+msgctxt "[\"USER-LIKES\"]"
+msgid "Likes"
+msgstr "获赞"
+
+msgctxt "[\"USER-POSTS\"]"
+msgid "Posts"
+msgstr "评论"
+
+msgctxt "[\"USER-FAVORITES\"]"
+msgid "Favorites"
+msgstr "收藏"
+
+msgctxt "[\"USER-REPLIES\"]"
+msgid "Replies"
+msgstr "回复"
 
 msgctxt "[\"USER-PROFILE\"]"
 msgid "Profile"
@@ -938,6 +990,10 @@ msgctxt "[\"SIGN_VERIFY-FILE_SIZE\"]"
 msgid "File Size"
 msgstr "文件大小"
 
+msgctxt "[\"SEARCH-ON_THE_APP_STORE\"]"
+msgid "{0} On the App Store"
+msgstr "{0} On the App Store"
+
 msgctxt "[\"SEARCH-ADVANCED_SEARCH\"]"
 msgid "Advanced Search"
 msgstr "高级搜索"
@@ -1137,6 +1193,10 @@ msgstr "修改个人信息"
 msgctxt "[\"MARKET-POP_ADD_IMAGE\"]"
 msgid "Add Images To Post"
 msgstr "添加图片"
+
+msgctxt "[\"MARKET-POP_ADD_NEW_POST\"]"
+msgid "Add New Post or Comment"
+msgstr "添加新帖或评论"
 
 msgctxt "[\"MARKET-QR\"]"
 msgid "Download<br>APKPure App"
