@@ -1,26 +1,7 @@
-msgid ""
-msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-02-27 23:23+0000\n"
-"PO-Revision-Date: 2018-02-27 23:23+0000\n"
-"Last-Translator: none77087 <n7708f@gmail.com>\n"
-"Language-Team: Arabic "
-"<https://translate.apkpure.com/projects/apkpure/apkpurecom/ar/>\n"
-"Language: ar\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 "
-"&& n%100<=10 ? 3 : n%100>=11 ? 4 : 5;\n"
-"X-Generator: Weblate 2.14.1\n"
-
-#, fuzzy
 msgctxt "[\"NAV-GAME\"]"
 msgid "GAMES"
 msgstr "ألعاب"
 
-#, fuzzy
 msgctxt "[\"NAV-APP\"]"
 msgid "APPS"
 msgstr "تطبيقات"
@@ -153,7 +134,15 @@ msgctxt "[\"HOT\"]"
 msgid "Hot"
 msgstr "الأكثر استخدام"
 
+msgctxt "[\"ATTACHMENT\"]"
+msgid "Attachment"
+msgstr "Attachment"
+
 msgctxt "[\"DOWNLOADS\"]"
+msgid "Downloads"
+msgstr "تحميلات"
+
+msgctxt "[\"DOWNLOADS_ATTACHMENT\"]"
 msgid "Downloads"
 msgstr "تحميلات"
 
@@ -220,6 +209,10 @@ msgstr "إنهاء"
 msgctxt "[\"COMMENTS\"]"
 msgid "Comments"
 msgstr "التعليقات"
+
+msgctxt "[\"NOT_FOUND\"]"
+msgid "Not Found"
+msgstr "Not Found"
 
 msgctxt "[\"LATEST_UPDATE_GAMES\"]"
 msgid "Latest Update Games"
@@ -701,6 +694,10 @@ msgctxt "[\"COMMENT-ERR_INVALID_PARAMETER\"]"
 msgid "Invalid comment parameter"
 msgstr "Invalid comment parameter"
 
+msgctxt "[\"COMMENT-ERR_INVALID_USER\"]"
+msgid "You're banned from APKPure by using or posting content containing nudity images. Please edit or remove the images before contacting Admin to restore your account."
+msgstr "You're banned from APKPure by using or posting content containing nudity images. Please edit or remove the images before contacting Admin to restore your account."
+
 msgctxt "[\"COMMENT-ERR_INVALID_VIDEO_URL\"]"
 msgid "Invalid Video URL"
 msgstr "Invalid Video URL"
@@ -724,6 +721,58 @@ msgstr "هل أنت متأكد؟"
 msgctxt "[\"COMMENT-LOADING\"]"
 msgid "Comment Loading..."
 msgstr "تعليق لوادينغ..."
+
+msgctxt "[\"COMMENT-DOWNLOAD_APK\"]"
+msgid "Download the APK file on APKPure."
+msgstr "Download the APK file on APKPure."
+
+msgctxt "[\"PRE-REGISTER\"]"
+msgid "Pre-register"
+msgstr "Pre-register"
+
+msgctxt "[\"PRE-REGISTRANTS\"]"
+msgid "Pre-registrants"
+msgstr "Pre-registrants"
+
+msgctxt "[\"PRE-REGISTER_DETAILS\"]"
+msgid "Pre-register Details"
+msgstr "Pre-register Details"
+
+msgctxt "[\"PRE-REGISTER_DATE\"]"
+msgid "Release Date"
+msgstr "Release Date"
+
+msgctxt "[\"PRE-REGISTER_REWARDS\"]"
+msgid "Register Rewards"
+msgstr "Register Rewards"
+
+msgctxt "[\"PRE-REGISTER_PAGE\"]"
+msgid "Pre-register Page"
+msgstr "Pre-register Page"
+
+msgctxt "[\"USER-FOLLOWING\"]"
+msgid "Following"
+msgstr "Following"
+
+msgctxt "[\"USER-FOLLOWER\"]"
+msgid "Follower"
+msgstr "Follower"
+
+msgctxt "[\"USER-LIKES\"]"
+msgid "Likes"
+msgstr "Likes"
+
+msgctxt "[\"USER-POSTS\"]"
+msgid "Posts"
+msgstr "Posts"
+
+msgctxt "[\"USER-FAVORITES\"]"
+msgid "Favorites"
+msgstr "Favorites"
+
+msgctxt "[\"USER-REPLIES\"]"
+msgid "Replies"
+msgstr "Replies"
 
 msgctxt "[\"USER-PROFILE\"]"
 msgid "Profile"
@@ -941,6 +990,10 @@ msgctxt "[\"SIGN_VERIFY-FILE_SIZE\"]"
 msgid "File Size"
 msgstr "حجم الملف"
 
+msgctxt "[\"SEARCH-ON_THE_APP_STORE\"]"
+msgid "{0} On the App Store"
+msgstr "{0} On the App Store"
+
 msgctxt "[\"SEARCH-ADVANCED_SEARCH\"]"
 msgid "Advanced Search"
 msgstr "البحث المتقدم"
@@ -1140,6 +1193,10 @@ msgstr "Change Profile Settings"
 msgctxt "[\"MARKET-POP_ADD_IMAGE\"]"
 msgid "Add Images To Post"
 msgstr "Add Images To Post"
+
+msgctxt "[\"MARKET-POP_ADD_NEW_POST\"]"
+msgid "Add New Post or Comment"
+msgstr "Add New Post or Comment"
 
 msgctxt "[\"MARKET-QR\"]"
 msgid "Download<br>APKPure App"

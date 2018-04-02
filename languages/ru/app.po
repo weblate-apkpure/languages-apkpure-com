@@ -1,27 +1,10 @@
-msgid ""
-msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-03-09 11:03+0000\n"
-"PO-Revision-Date: 2018-03-09 22:19+0000\n"
-"Last-Translator: Tim <sossit4@gmail.com>\n"
-"Language-Team: Russian "
-"<https://translate.apkpure.com/projects/apkpure/apkpurecom/ru/>\n"
-"Language: ru\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<="
-"4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 2.14.1\n"
-
 msgctxt "[\"NAV-GAME\"]"
 msgid "GAMES"
 msgstr "ИГРЫ"
 
 msgctxt "[\"NAV-APP\"]"
 msgid "APPS"
-msgstr "ПРИЛОЖЕНИЯ"
+msgstr "Приложения"
 
 msgctxt "[\"NAV-XAPK\"]"
 msgid "XAPK"
@@ -151,7 +134,15 @@ msgctxt "[\"HOT\"]"
 msgid "Hot"
 msgstr "Горячие"
 
+msgctxt "[\"ATTACHMENT\"]"
+msgid "Attachment"
+msgstr "Attachment"
+
 msgctxt "[\"DOWNLOADS\"]"
+msgid "Downloads"
+msgstr "Загрузки"
+
+msgctxt "[\"DOWNLOADS_ATTACHMENT\"]"
 msgid "Downloads"
 msgstr "Загрузки"
 
@@ -219,6 +210,10 @@ msgctxt "[\"COMMENTS\"]"
 msgid "Comments"
 msgstr "Комментарии"
 
+msgctxt "[\"NOT_FOUND\"]"
+msgid "Not Found"
+msgstr "Not Found"
+
 msgctxt "[\"LATEST_UPDATE_GAMES\"]"
 msgid "Latest Update Games"
 msgstr "Последние обновлённые игры"
@@ -277,8 +272,7 @@ msgstr "Код подтверждения неверен!"
 
 msgctxt "[\"VERIFICATION_DOWN\"]"
 msgid "Enter the code(s) as you see in the image, then click \"Download\"."
-msgstr ""
-"Введите код(ы), как вы видите на изображении, затем нажмите «Загрузить»."
+msgstr "Введите код(ы), как вы видите на изображении, затем нажмите «Загрузить»."
 
 msgctxt "[\"TOPICS\"]"
 msgid "Topics"
@@ -682,9 +676,7 @@ msgstr "Ужас, ваше сообщение содержит чувствит�
 
 msgctxt "[\"COMMENT-ERR_SENSITIVE_WORD_AUDIT\"]"
 msgid "Your post contains sensitive terms and is pending approval by an admin"
-msgstr ""
-"Ваше сообщение содержит чувствительные термины и ожидает одобрения "
-"администратором"
+msgstr "Ваше сообщение содержит чувствительные термины и ожидает одобрения администратором"
 
 msgctxt "[\"COMMENT-ERR_LINK_AUDIT\"]"
 msgid "Your post contains link and is pending approval by an admin"
@@ -701,6 +693,10 @@ msgstr "Comment unknown"
 msgctxt "[\"COMMENT-ERR_INVALID_PARAMETER\"]"
 msgid "Invalid comment parameter"
 msgstr "Invalid comment parameter"
+
+msgctxt "[\"COMMENT-ERR_INVALID_USER\"]"
+msgid "You're banned from APKPure by using or posting content containing nudity images. Please edit or remove the images before contacting Admin to restore your account."
+msgstr "You're banned from APKPure by using or posting content containing nudity images. Please edit or remove the images before contacting Admin to restore your account."
 
 msgctxt "[\"COMMENT-ERR_INVALID_VIDEO_URL\"]"
 msgid "Invalid Video URL"
@@ -725,6 +721,58 @@ msgstr "Вы уверены?"
 msgctxt "[\"COMMENT-LOADING\"]"
 msgid "Comment Loading..."
 msgstr "Комментарий Загрузка..."
+
+msgctxt "[\"COMMENT-DOWNLOAD_APK\"]"
+msgid "Download the APK file on APKPure."
+msgstr "Download the APK file on APKPure."
+
+msgctxt "[\"PRE-REGISTER\"]"
+msgid "Pre-register"
+msgstr "Pre-register"
+
+msgctxt "[\"PRE-REGISTRANTS\"]"
+msgid "Pre-registrants"
+msgstr "Pre-registrants"
+
+msgctxt "[\"PRE-REGISTER_DETAILS\"]"
+msgid "Pre-register Details"
+msgstr "Pre-register Details"
+
+msgctxt "[\"PRE-REGISTER_DATE\"]"
+msgid "Release Date"
+msgstr "Release Date"
+
+msgctxt "[\"PRE-REGISTER_REWARDS\"]"
+msgid "Register Rewards"
+msgstr "Register Rewards"
+
+msgctxt "[\"PRE-REGISTER_PAGE\"]"
+msgid "Pre-register Page"
+msgstr "Pre-register Page"
+
+msgctxt "[\"USER-FOLLOWING\"]"
+msgid "Following"
+msgstr "Following"
+
+msgctxt "[\"USER-FOLLOWER\"]"
+msgid "Follower"
+msgstr "Follower"
+
+msgctxt "[\"USER-LIKES\"]"
+msgid "Likes"
+msgstr "Likes"
+
+msgctxt "[\"USER-POSTS\"]"
+msgid "Posts"
+msgstr "Posts"
+
+msgctxt "[\"USER-FAVORITES\"]"
+msgid "Favorites"
+msgstr "Favorites"
+
+msgctxt "[\"USER-REPLIES\"]"
+msgid "Replies"
+msgstr "Replies"
 
 msgctxt "[\"USER-PROFILE\"]"
 msgid "Profile"
@@ -942,6 +990,10 @@ msgctxt "[\"SIGN_VERIFY-FILE_SIZE\"]"
 msgid "File Size"
 msgstr "Размер файла"
 
+msgctxt "[\"SEARCH-ON_THE_APP_STORE\"]"
+msgid "{0} On the App Store"
+msgstr "{0} On the App Store"
+
 msgctxt "[\"SEARCH-ADVANCED_SEARCH\"]"
 msgid "Advanced Search"
 msgstr "Расширенный поиск"
@@ -1142,6 +1194,10 @@ msgctxt "[\"MARKET-POP_ADD_IMAGE\"]"
 msgid "Add Images To Post"
 msgstr "Add Images To Post"
 
+msgctxt "[\"MARKET-POP_ADD_NEW_POST\"]"
+msgid "Add New Post or Comment"
+msgstr "Add New Post or Comment"
+
 msgctxt "[\"MARKET-QR\"]"
 msgid "Download<br>APKPure App"
 msgstr "Скачать<br>приложение APKPure"
@@ -1188,7 +1244,7 @@ msgstr "Приложение APKPure"
 
 msgctxt "[\"MARKET-INDEX_BANNER_DES\"]"
 msgid "Install,manage and update your apps"
-msgstr "Устанавливайте, управляйте и обновляйте приложения для Android"
+msgstr "Устанавливйте, управляйте и обновляйте приложения для Android"
 
 msgctxt "[\"MARKET-BOTTOM_BANNER_TITLE\"]"
 msgid "APKPure App"
@@ -1892,10 +1948,7 @@ msgstr "{app_short_name} alternative, {app_short_name} similar {app_type}, {app_
 
 msgctxt "[\"meta\"][\"Similar\"][\"description\"]"
 msgid "Popular alternative {app_type} to {app_short_name} for Android, Android tablet and more. Download top {similar_count} {app_type} like {app_short_name}, all {app_type} suggested by APKPure."
-msgstr ""
-"Популярная альтернатива {app_type} - {app_short_name} для Android, планшета "
-"Android и многое другое. Загрузите топ {Similar_count} {app_type}, например "
-"{app_short_name}, все {app_type}, предложенные APKPure."
+msgstr "Popular alternative {app_type} to {app_short_name} for Android, Android tablet and more. Download top {similar_count} {app_type} like {app_short_name}, all {app_type} suggested by APKPure."
 
 msgctxt "[\"meta\"][\"Login\"][\"title\"]"
 msgid "Sign in account for APKPure Android App Store"

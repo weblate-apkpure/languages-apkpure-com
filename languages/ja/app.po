@@ -1,37 +1,18 @@
-msgid ""
-msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-03-13 07:30+0000\n"
-"PO-Revision-Date: 2018-03-29 08:24+0000\n"
-"Last-Translator: tatsu u <utatsu716@gmail.com>\n"
-"Language-Team: Japanese "
-"<https://translate.apkpure.com/projects/apkpure/apkpurecom/ja/>\n"
-"Language: ja\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 2.14.1\n"
-
-#, fuzzy
 msgctxt "[\"NAV-GAME\"]"
 msgid "GAMES"
 msgstr "ゲーム"
 
 msgctxt "[\"NAV-APP\"]"
 msgid "APPS"
-msgstr "…h TBH Iggyアプリ"
+msgstr "アプリ"
 
 msgctxt "[\"NAV-XAPK\"]"
 msgid "XAPK"
-msgstr ""
-"Happy Birthday\n"
-"Aloha Melia Nalu"
+msgstr "XAPK"
 
 msgctxt "[\"NAV-NEW\"]"
 msgid "NEW"
-msgstr "今次"
+msgstr "最新"
 
 msgctxt "[\"NAV-PRODUCTS\"]"
 msgid "PRODUCTS"
@@ -67,7 +48,7 @@ msgstr "APK検証"
 
 msgctxt "[\"NAV-APKPURE_APP\"]"
 msgid "APKPure App"
-msgstr "アプリAPKPure"
+msgstr "APKPure アプリ"
 
 msgctxt "[\"DOWNLOAD\"]"
 msgid "Download"
@@ -153,7 +134,15 @@ msgctxt "[\"HOT\"]"
 msgid "Hot"
 msgstr "人気"
 
+msgctxt "[\"ATTACHMENT\"]"
+msgid "Attachment"
+msgstr "Attachment"
+
 msgctxt "[\"DOWNLOADS\"]"
+msgid "Downloads"
+msgstr "ダウンロード"
+
+msgctxt "[\"DOWNLOADS_ATTACHMENT\"]"
 msgid "Downloads"
 msgstr "ダウンロード"
 
@@ -163,7 +152,7 @@ msgstr "最新"
 
 msgctxt "[\"RATING\"]"
 msgid "Rating"
-msgstr "レート"
+msgstr "レーティング"
 
 msgctxt "[\"CATEGORY\"]"
 msgid "Category"
@@ -220,6 +209,10 @@ msgstr "閉じる"
 msgctxt "[\"COMMENTS\"]"
 msgid "Comments"
 msgstr "コメント"
+
+msgctxt "[\"NOT_FOUND\"]"
+msgid "Not Found"
+msgstr "Not Found"
 
 msgctxt "[\"LATEST_UPDATE_GAMES\"]"
 msgid "Latest Update Games"
@@ -431,7 +424,7 @@ msgstr "アップデートをリクエスト"
 
 msgctxt "[\"DETAIL-RATING\"]"
 msgid "{votes} votes, average: {rating_average} out of {rating_best}"
-msgstr "{votes} 票,  平均{rating_average}"
+msgstr "{votes} 票,  平均{rating_average} 星"
 
 msgctxt "[\"DETAIL-RATING1\"]"
 msgid "average: {rating_average} out of {rating_best}"
@@ -595,7 +588,7 @@ msgstr "電子メール"
 
 msgctxt "[\"COMMENT-SORT_BY_NEWEST\"]"
 msgid "Newest"
-msgstr "最近のオススメ"
+msgstr "最新"
 
 msgctxt "[\"COMMENT-SORT_BY_NEW\"]"
 msgid "Newest"
@@ -701,6 +694,10 @@ msgctxt "[\"COMMENT-ERR_INVALID_PARAMETER\"]"
 msgid "Invalid comment parameter"
 msgstr "無効なコメントパラメーターの数"
 
+msgctxt "[\"COMMENT-ERR_INVALID_USER\"]"
+msgid "You're banned from APKPure by using or posting content containing nudity images. Please edit or remove the images before contacting Admin to restore your account."
+msgstr "You're banned from APKPure by using or posting content containing nudity images. Please edit or remove the images before contacting Admin to restore your account."
+
 msgctxt "[\"COMMENT-ERR_INVALID_VIDEO_URL\"]"
 msgid "Invalid Video URL"
 msgstr "無効なビデオURL"
@@ -724,6 +721,58 @@ msgstr "削除しますか？"
 msgctxt "[\"COMMENT-LOADING\"]"
 msgid "Comment Loading..."
 msgstr "コメントをよみこんでいます..."
+
+msgctxt "[\"COMMENT-DOWNLOAD_APK\"]"
+msgid "Download the APK file on APKPure."
+msgstr "Download the APK file on APKPure."
+
+msgctxt "[\"PRE-REGISTER\"]"
+msgid "Pre-register"
+msgstr "Pre-register"
+
+msgctxt "[\"PRE-REGISTRANTS\"]"
+msgid "Pre-registrants"
+msgstr "Pre-registrants"
+
+msgctxt "[\"PRE-REGISTER_DETAILS\"]"
+msgid "Pre-register Details"
+msgstr "Pre-register Details"
+
+msgctxt "[\"PRE-REGISTER_DATE\"]"
+msgid "Release Date"
+msgstr "Release Date"
+
+msgctxt "[\"PRE-REGISTER_REWARDS\"]"
+msgid "Register Rewards"
+msgstr "Register Rewards"
+
+msgctxt "[\"PRE-REGISTER_PAGE\"]"
+msgid "Pre-register Page"
+msgstr "Pre-register Page"
+
+msgctxt "[\"USER-FOLLOWING\"]"
+msgid "Following"
+msgstr "Following"
+
+msgctxt "[\"USER-FOLLOWER\"]"
+msgid "Follower"
+msgstr "Follower"
+
+msgctxt "[\"USER-LIKES\"]"
+msgid "Likes"
+msgstr "Likes"
+
+msgctxt "[\"USER-POSTS\"]"
+msgid "Posts"
+msgstr "Posts"
+
+msgctxt "[\"USER-FAVORITES\"]"
+msgid "Favorites"
+msgstr "Favorites"
+
+msgctxt "[\"USER-REPLIES\"]"
+msgid "Replies"
+msgstr "Replies"
 
 msgctxt "[\"USER-PROFILE\"]"
 msgid "Profile"
@@ -941,6 +990,10 @@ msgctxt "[\"SIGN_VERIFY-FILE_SIZE\"]"
 msgid "File Size"
 msgstr "ファイルサイズ"
 
+msgctxt "[\"SEARCH-ON_THE_APP_STORE\"]"
+msgid "{0} On the App Store"
+msgstr "{0} On the App Store"
+
 msgctxt "[\"SEARCH-ADVANCED_SEARCH\"]"
 msgid "Advanced Search"
 msgstr "高度な検索"
@@ -1091,7 +1144,7 @@ msgstr "私たちに関しては"
 
 msgctxt "[\"FOOTER-SOLUTIONS\"]"
 msgid "SOLUTIONS"
-msgstr "エラー対処"
+msgstr "解決方法"
 
 msgctxt "[\"FOOTER-CUSTOMER_SERVICE\"]"
 msgid "CUSTOMER SERVICE"
@@ -1141,19 +1194,21 @@ msgctxt "[\"MARKET-POP_ADD_IMAGE\"]"
 msgid "Add Images To Post"
 msgstr "画像を投稿に追加"
 
+msgctxt "[\"MARKET-POP_ADD_NEW_POST\"]"
+msgid "Add New Post or Comment"
+msgstr "Add New Post or Comment"
+
 msgctxt "[\"MARKET-QR\"]"
 msgid "Download<br>APKPure App"
-msgstr "APKPureアプリをダウンロードする"
+msgstr "APKPureアプリをダウンローダする"
 
 msgctxt "[\"MARKET-QR-TITLE\"]"
 msgid "Download APKPure App"
-msgstr "APKPure アプリをダウンロードする"
+msgstr "APKPure アプリをダウンローダする"
 
 msgctxt "[\"MARKET-INDEX_SHORT_DES\"]"
 msgid "Try <strong title=\"Download APKPure APK\">APKPure App</strong> - Download, update and install apks on your Android."
-msgstr ""
-"<strong title=\"Download APKPure APK\"> APKPure アプリ</strong> - "
-"Android上でAPKをダウンロード、アップデート、インストールします。"
+msgstr "<strong title=\" APKPure APKダウンロード\"> APKPure App</strong> を通じてAndroidのapks ゲーム アップデートをダウンロードおよびインストールします。"
 
 msgctxt "[\"MARKET-INDEX_SHORT_DES_TITLE\"]"
 msgid "Try APKPure Mobile app, to install, manage and update your Android apps."
@@ -1197,7 +1252,7 @@ msgstr "APKPure アプリ"
 
 msgctxt "[\"MARKET-BOTTOM_BANNER_DES\"]"
 msgid "Try APKPure App - Download, update and install apks on your Android."
-msgstr "アプリAPKPureを利用してアンドロイドのapksファイルを無料でダウンロード、アップデートすることができます。"
+msgstr "APKPure アプリを使用してAndroidのapks を無料でダウンローダ、アップデートすることができます。"
 
 msgctxt "[\"MARKET-BOTTOM_BANNER_DETAIL_APK_DES\"]"
 msgid "Using APKPure App to upgrade <strong>{0}</strong>, fast, free and save your internet data."
@@ -1513,7 +1568,7 @@ msgstr "安全"
 
 msgctxt "[\"js\"][\"SIGN_VERIFY-UNSAFE\"]"
 msgid "unsafe"
-msgstr "注意"
+msgstr "危険"
 
 msgctxt "[\"js\"][\"SIGN_VERIFY-CLICK_UPLOAD\"]"
 msgid "Click Upload APK file"
@@ -1777,7 +1832,7 @@ msgstr "\"{0}\"が開発した全てのAppsとゲーム"
 
 msgctxt "[\"meta\"][\"Search\"][\"title\"]"
 msgid "{0} search results | APKPure.com"
-msgstr "{0} 件見つかりました | APKPure.com"
+msgstr "{0} 件の検索結果 | APKPure.com"
 
 msgctxt "[\"meta\"][\"Search\"][\"keywords\"]"
 msgid "{0} apk download, download {0} apk"
@@ -1849,7 +1904,7 @@ msgstr "エラー"
 
 msgctxt "[\"meta\"][\"Category\"][\"title\"]"
 msgid "Browse Category | APKPure.com"
-msgstr "カテゴリー | APKPure.com"
+msgstr "カテゴリーを見る | APKPure.com"
 
 msgctxt "[\"meta\"][\"Category\"][\"keywords\"]"
 msgid "app category,game category"
@@ -1905,13 +1960,11 @@ msgstr "ログイン、新規メンバー、アカウント、登録"
 
 msgctxt "[\"meta\"][\"Login\"][\"description\"]"
 msgid "To join community group or vote on APKPure App Store, you must be registered. Register your APKPure account today!"
-msgstr ""
-"APKPure App "
-"Storeでコミュニティグループに参加、または投票するには登録する必要があります。今すぐAPKPureアカウントを登録してください！"
+msgstr "APKPure App Storeでコミュニティグループに参加、または投票するには登録する必要があります。今すぐAPKPureアカウントを登録してください！"
 
 msgctxt "[\"meta\"][\"Password\"][\"title\"]"
 msgid "Change Password"
-msgstr "パスワードの変更"
+msgstr "パスワードを変更する"
 
 msgctxt "[\"meta\"][\"Password\"][\"description\"]"
 msgid "Change or reset my password."
@@ -1923,9 +1976,7 @@ msgstr "{user_name}: プロファイルとアクティビティ - APKPure AppSto
 
 msgctxt "[\"meta\"][\"User\"][\"description\"]"
 msgid "My APKPure AppStore profile and activity page for {user_name}. Join APKPure AppStore to connect with {user_name}."
-msgstr ""
-"私 {user_name}のAPKPure AppStoreプロフィールとアクティビティページ。APKPure "
-"AppStoreに参加して{user_name}をコネクトしてください。"
+msgstr "私 {user_name}のAPKPure AppStoreプロフィールとアクティビティページ。APKPure AppStoreに参加して{user_name}をコネクトしてください。"
 
 msgctxt "[\"meta\"][\"Profile\"][\"title\"]"
 msgid "{user_name}'s profile on APKPure App Store"
