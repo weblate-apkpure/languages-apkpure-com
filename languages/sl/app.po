@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-03-25 11:25+0000\n"
-"PO-Revision-Date: 2018-03-29 13:22+0000\n"
+"PO-Revision-Date: 2018-04-02 10:31+0000\n"
 "Last-Translator: Stanislav Rupar <stanislav.rupar@gmail.com>\n"
 "Language-Team: Slovenian "
 "<https://translate.apkpure.com/projects/apkpure/apkpurecom/sl/>\n"
@@ -689,7 +689,8 @@ msgstr "Vaša objava vsebuje občutljive izraze in čaka na odobritev admin"
 
 msgctxt "[\"COMMENT-ERR_LINK_AUDIT\"]"
 msgid "Your post contains link and is pending approval by an admin"
-msgstr "Vaša objava vsebuje povezavo in čaka na odobritev s strani admin"
+msgstr ""
+"Vaša objava vsebuje povezavo in čaka na odobritev s strani administratorja"
 
 msgctxt "[\"COMMENT-ERR_FORBIDDEN\"]"
 msgid "Comment forbidden"
@@ -1617,7 +1618,7 @@ msgstr "Preklic"
 
 msgctxt "[\"js\"][\"USER-PASSWORD_NOT_MATCH\"]"
 msgid "Passwords do not match"
-msgstr "Geslo se ne ujema"
+msgstr "Gesli se ne ujemata"
 
 msgctxt "[\"js\"][\"USER-PASSWORD_MUST\"]"
 msgid "Password must be 6-32 characters long"
@@ -1821,7 +1822,7 @@ msgid "Download free and best {0}  for Android phone and tablet with online apk 
 msgstr ""
 "Prenesite brezplačno in najboljšo {0} za telefon in tablični računalnik "
 "Android s spletnim APK nalagalnikom na APKPure.com, vključno z (orodnimi "
-"programi, nakupovalnimi programi, komunikacijskimi aplikacijami) in več."
+"programi, nakupovalnimi programi, komunikacijskimi programi) in več."
 
 msgctxt "[\"meta\"][\"Category_game\"][\"title\"]"
 msgid "Download {0} APK Android App Online - Free Pure APK Downloader"
@@ -2108,3 +2109,82 @@ msgid "group, {app_name}, {app_category}, {app_type}, {app_developer}, {app_shor
 msgstr ""
 "skupina, {app_name}, {app_category}, {app_type}, {app_developer}, "
 "{app_short_name} skupnost"
+
+msgctxt "[\"ATTACHMENT\"]"
+msgid "Attachment"
+msgstr "Priponka"
+
+msgctxt "[\"DOWNLOADS_ATTACHMENT\"]"
+msgid "Downloads"
+msgstr "Prenosi"
+
+msgctxt "[\"NOT_FOUND\"]"
+msgid "Not Found"
+msgstr "Ni najdeno"
+
+msgctxt "[\"COMMENT-ERR_INVALID_USER\"]"
+msgid "You're banned from APKPure by using or posting content containing nudity images. Please edit or remove the images before contacting Admin to restore your account."
+msgstr ""
+"Imate prepoved s strani APKPure zaradi uporabe ali objavljanjem vsebine, ki "
+"vsebuje slike golote. Prosimo, uredite ali odstranite slike, preden se "
+"obrnete na skrbnika, da obnovite svoj račun."
+
+msgctxt "[\"COMMENT-DOWNLOAD_APK\"]"
+msgid "Download the APK file on APKPure."
+msgstr "Prenesite datoteko APK na APKPure."
+
+msgctxt "[\"PRE-REGISTER\"]"
+msgid "Pre-register"
+msgstr "Pred-registriranje"
+
+msgctxt "[\"PRE-REGISTRANTS\"]"
+msgid "Pre-registrants"
+msgstr "Predregistrirani"
+
+msgctxt "[\"PRE-REGISTER_DETAILS\"]"
+msgid "Pre-register Details"
+msgstr "Podrobnosti pred-registriranja"
+
+msgctxt "[\"PRE-REGISTER_DATE\"]"
+msgid "Release Date"
+msgstr "Datum izdaje"
+
+msgctxt "[\"PRE-REGISTER_REWARDS\"]"
+msgid "Register Rewards"
+msgstr "Spisek nagrad"
+
+msgctxt "[\"PRE-REGISTER_PAGE\"]"
+msgid "Pre-register Page"
+msgstr "Stran pred-registracije"
+
+msgctxt "[\"USER-FOLLOWING\"]"
+msgid "Following"
+msgstr "Sledite"
+
+msgctxt "[\"USER-FOLLOWER\"]"
+msgid "Follower"
+msgstr "Sledilec"
+
+msgctxt "[\"USER-LIKES\"]"
+msgid "Likes"
+msgstr "Všečki"
+
+msgctxt "[\"USER-POSTS\"]"
+msgid "Posts"
+msgstr "Objave"
+
+msgctxt "[\"USER-FAVORITES\"]"
+msgid "Favorites"
+msgstr "Priljubljeno"
+
+msgctxt "[\"USER-REPLIES\"]"
+msgid "Replies"
+msgstr "Odgovori"
+
+msgctxt "[\"SEARCH-ON_THE_APP_STORE\"]"
+msgid "{0} On the App Store"
+msgstr "{0} v shrambi aplikacij"
+
+msgctxt "[\"MARKET-POP_ADD_NEW_POST\"]"
+msgid "Add New Post or Comment"
+msgstr "Dodajte novo objavo ali komentar"
