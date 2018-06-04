@@ -9,7 +9,7 @@ And, generally, this repo will not accept direct pull requests any more.
 Usually, APKPure team staff handle submitions on [**Weblate**](https://translate.apkpure.com/projects/apkpure/apkpurecom/) and use GitHub just as a place to store code. Therefore it would be wonderful if you kindly submit your work on [**Weblate**](https://translate.apkpure.com/projects/apkpure/apkpurecom/). 
 
 ### Resources:
-[Translating using Weblate](https://docs.weblate.org/en/weblate-2.4/user/translating.html)
+[Translating using Weblate](https://docs.weblate.org/en/latest/user/translating.html)
 
 ---------
 
