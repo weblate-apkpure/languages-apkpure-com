@@ -3,16 +3,16 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-10-28 13:15+0000\n"
-"PO-Revision-Date: 2018-03-18 04:11+0000\n"
+"PO-Revision-Date: 2018-06-02 11:00+0000\n"
 "Last-Translator: ប៉ុកណូ រ៉ូយ៉ាល់ <royalpokno68@gmail.com>\n"
-"Language-Team: Central Khmer "
-"<https://translate.apkpure.com/projects/apkpure/apkpurecom/km/>\n"
+"Language-Team: Central Khmer <https://translate.apkpure.com/projects/apkpure/"
+"apkpurecom/km/>\n"
 "Language: km\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 2.14.1\n"
+"X-Generator: Weblate 2.20\n"
 
 msgctxt "[\"NAV-GAME\"]"
 msgid "GAMES"
@@ -446,6 +446,12 @@ msgstr "ទាញ​យក​ ​APK​ តំបន់​សេរី​"
 msgctxt "[\"REGION_DOWN-DES\"]"
 msgid "- Download your favorite Android Apps with APK Downloader (Free Apps Only).<br>- Your download will begin automatically after you paste a package id and click the download button.<br>- Download failed? Please manually change country setting and try again.<br>- Want to tell us more about your problems? <a style='color:#FFFF00' href='contact-us.html'>Contact us here</a>"
 msgstr ""
+"- ទាញយកកម្មវិធី Android ដែលអ្នកពេញចិត្ត ជាមួយកម្មវិធីទាញយកApk ( "
+"សម្រាប់កម្មវិធីឥតគិតថ្លៃតែប៉ុណ្ណោះ)។<be>- ការទាញយករបស់អ្នកនឹងចាប់ផ្ដើមដោយស្វ័"
+"យប្រវត្តិក្រោយពេលអ្នកបិទភ្ជាប់លេខសំគាល់កញ្ចប់ រួចចុចប៊ូតុងទាញយក។<br>- "
+"ការទាញយកបរាជ័យមែនដែរទេ? សូមផ្លាស់ប្ដូរការកំណត់ប្រទេសដោយដៃ "
+"និងព្យាយាមម្ដងទៀត។<br>- តើចង់និយាយប្រាប់ពួកយើងបន្ថែមអំពី បញ្ហារបស់អ្នកមែនទេ? "
+"<a style='color:#FFFF00' href='contact-us.html'> ទំនាក់ទំនងពួកយើងនៅទីនេះ</a>"
 
 msgctxt "[\"REGION_DOWN-PLACEHOLDER\"]"
 msgid "com.facebook.katana or https://play.google.com...?id=com.facebook.katana"
@@ -486,6 +492,9 @@ msgstr "ទំហំឯកសារអតិបរិមា"
 msgctxt "[\"SIGN_VERIFY-DES\"]"
 msgid "APK Signature verification will verify Android app package signature to keep Android users away from potentially harmful APK files before APK installing."
 msgstr ""
+"ការផ្ទៀងផ្ទាត់ហត្ថលេខា APK និងផ្ទៀងផ្ទាត់កញ្ចប់ហត្ថលេខាកម្មវិធី android "
+"និងរក្សាទុកអ្នកប្រើប្រាស់ android ជានិច្ចពី ឯកសារ apk ដែលមានគ្រោះថ្នាក់ "
+"មុនពេលធ្វើការដំឡើង apk។"
 
 msgctxt "[\"SIGN_VERIFY-PACKAGE_NAME\"]"
 msgid "Package Name"
@@ -513,7 +522,7 @@ msgstr "រកឃើញលទ្ធផលស្វែងរក {0} ។"
 
 msgctxt "[\"SEARCH-NO_RESULTS_FOUND\"]"
 msgid "No results found? Try to advanced search again."
-msgstr ""
+msgstr "មិនមានលទ្ធផលរកឃើញឬ? សាកល្បងការស្វែងរកកម្រិតខ្ពស់ម្ដងទៀត។"
 
 msgctxt "[\"SEARCH-SELECT_REGION\"]"
 msgid "Select a region you want to search with"
@@ -545,7 +554,7 @@ msgstr "ស្វែងរក APK"
 
 msgctxt "[\"404-OOPS\"]"
 msgid "OOPS!,"
-msgstr "អុញ!"
+msgstr "អុញ !,"
 
 msgctxt "[\"404-Error_404\"]"
 msgid "Error 404!"
@@ -554,6 +563,8 @@ msgstr "កំហុស ៤០៤!"
 msgctxt "[\"404-DES\"]"
 msgid "It seems that page you are looking for no longer exists.<br />You can explore more Android Games and Apps below!"
 msgstr ""
+"វាហាក់បីដូចជាទំព័រដែលអ្នកកំពុងរកមិនមានទៀតទេ។<br /> អ្នកអាចស្វែងរកកម្មវិធី "
+"និងហ្គេម android ផ្សេងទៀតនៅខាងក្រោមបាន!"
 
 msgctxt "[\"COPYRIGHT\"]"
 msgid "Copyright © 2014-2016 APKPure. All rights reserved."
@@ -589,7 +600,7 @@ msgstr "តម្លើង APK"
 
 msgctxt "[\"FOOTER-APK_SIGNATURE_VERIFICATION\"]"
 msgid "APK Signature Verification"
-msgstr ""
+msgstr "កាផ្ទៀងផ្ទាត់ហត្ថលេខា APK"
 
 msgctxt "[\"FOOTER-APK_TO_APPX\"]"
 msgid "APK to APPX"
@@ -625,43 +636,43 @@ msgstr "រុករកកម្មវិធី XAPK"
 
 msgctxt "[\"FOOTER-DESKTOP_VERSION\"]"
 msgid "Desktop Version"
-msgstr ""
+msgstr "កំណែកុំព្យូទ័រលើតុ"
 
 msgctxt "[\"FOOTER-MOBILE_VERSION\"]"
 msgid "Mobile Version"
-msgstr ""
+msgstr "កំណែទូរស័ព្ទ"
 
 msgctxt "[\"FOOTER-MOBILE_SITE\"]"
 msgid "Mobile Site"
-msgstr ""
+msgstr "កំណែទូរស័ព្ទ"
 
 msgctxt "[\"FOOTER-CONTACT_US\"]"
 msgid "Contact Us"
-msgstr ""
+msgstr "ទំនាក់ទំនងពួកយើង"
 
 msgctxt "[\"FOOTER-ABOUT\"]"
 msgid "About Us"
-msgstr ""
+msgstr "អំពីពួកយើង"
 
 msgctxt "[\"FOOTER-SOLUTIONS\"]"
 msgid "SOLUTIONS"
-msgstr ""
+msgstr "ដំណោះស្រាយ"
 
 msgctxt "[\"FOOTER-CUSTOMER_SERVICE\"]"
 msgid "CUSTOMER SERVICE"
-msgstr ""
+msgstr "សេវាបម្រើអតិថិជន"
 
 msgctxt "[\"FOOTER-FOLLOW_US\"]"
 msgid "FOLLOW US"
-msgstr ""
+msgstr "តាមដានពួកយើង"
 
 msgctxt "[\"FOOTER-TOP_ANDROID_APPS\"]"
 msgid "TOP ANDROID APPS"
-msgstr ""
+msgstr "កម្មវិធី android កំពូល"
 
 msgctxt "[\"FOOTER-TOP_ANDROID_GAMES\"]"
 msgid "TOP ANDROID GAMES"
-msgstr ""
+msgstr "ហ្គេម ANDROID កំពូល"
 
 msgctxt "[\"FOOTER-TRANSLATE\"]"
 msgid "Help translate APKPure"
@@ -681,11 +692,11 @@ msgstr "XAPK"
 
 msgctxt "[\"MARKET-QR\"]"
 msgid "Download<br>APKPure App"
-msgstr ""
+msgstr "ទាញយក<br>កម្មវិធី APKPure"
 
 msgctxt "[\"MARKET-QR-TITLE\"]"
 msgid "Download APKPure App"
-msgstr ""
+msgstr "ការទាញយកកម្មវិធីAPKPure"
 
 msgctxt "[\"MARKET-INDEX_SHORT_DES\"]"
 msgid "Try <strong title=\"Download APKPure APK\">APKPure App</strong> - Download, update and install apks on your Android."
@@ -694,82 +705,101 @@ msgstr ""
 msgctxt "[\"MARKET-INDEX_SHORT_DES_TITLE\"]"
 msgid "Try APKPure Mobile app, to install, manage and update your Android apps."
 msgstr ""
+"សាកល្បងកម្មវិធីទូរស័ព្ទ apkpure ដើម្បីទាញយក គ្រប់គ្រងនិង "
+"បច្ចុប្បន្នភាពកម្មវិធី android របស់អ្នក។"
 
 msgctxt "[\"MARKET-DETAIL_APK_SHORT_DES\"]"
 msgid "Faster apks download and update on APKPure App"
-msgstr ""
+msgstr "ការទាញយកនឹងបច្ចុប្បន្នភាព Apk រហ័សនៅលើកម្មវិធី apkpure"
 
 msgctxt "[\"MARKET-DETAIL_APK_SHORT_DES_MOBILE\"]"
 msgid "Download and update on APKPure App"
-msgstr ""
+msgstr "ទាញយកនិងបច្ចុប្បន្នភាព លើកម្មវិធី apkpure"
 
 msgctxt "[\"MARKET-DETAIL_APK_SHORT_DES_TITLE\"]"
 msgid "Faster apks download and update on APKPure"
-msgstr ""
+msgstr "ទាញយកនិងបច្ចុប្បន្នភាព apk រហ័សលើ apkpure"
 
 msgctxt "[\"MARKET-DETAIL_XAPK_SHORT_DES\"]"
 msgid "Install and update XAPK with APKPure App"
-msgstr ""
+msgstr "តំឡើងនិងបច្ចុប្បន្នភាព XAPK ជាមួយ កម្មវិធី APKPure"
 
 msgctxt "[\"MARKET-DETAIL_XAPK_SHORT_DES_MOBILE\"]"
 msgid "Click to get XAPK Installer"
-msgstr ""
+msgstr "ចុចដើម្បីទទួលបានការដំឡើង XAPK"
 
 msgctxt "[\"MARKET-DETAIL_XAPK_SHORT_DES_TITLE\"]"
 msgid "Install and update XAPK with APKPure App"
-msgstr ""
+msgstr "តំឡើងនិងបច្ចុប្បន្នភាព XAPK ជាមួយ កម្មវិធី APKPure"
 
 msgctxt "[\"MARKET-INDEX_BANNER_TITLE\"]"
 msgid "APKPure APP"
-msgstr ""
+msgstr "កម្មវិធីAPKPure"
 
 msgctxt "[\"MARKET-INDEX_BANNER_DES\"]"
 msgid "Install,manage and update your apps"
-msgstr ""
+msgstr "ទាញយក គ្រប់គ្រង នឹងបច្ចុប្បន្នភាព កម្មវិធីរបស់អ្នក"
 
 msgctxt "[\"MARKET-BOTTOM_BANNER_TITLE\"]"
 msgid "APKPure App"
-msgstr ""
+msgstr "កម្មវិធី APKPure"
 
 msgctxt "[\"MARKET-BOTTOM_BANNER_DES\"]"
 msgid "Try APKPure App - Download, update and install apks on your Android."
 msgstr ""
+"សាកល្បងកម្មវិធី apkpure - ទាញយក គ្រប់គ្រង និងដំឡើង apk លើ android របស់អ្នក។"
 
 msgctxt "[\"MARKET-BOTTOM_BANNER_DETAIL_APK_DES\"]"
 msgid "Using APKPure App to upgrade <strong>{0}</strong>, fast, free and save your internet data."
 msgstr ""
+"ការប្រើកម្មវិធី APKPure ដើម្បីបន្ទាន់សម័យ<strong>{0}</strong> រហ័ស ឥតគិតថ្លៃ "
+"និងសន្សំ ទិន្នន័យអ៊ីនធឺណេតរបស់លោកអ្នក។"
 
 msgctxt "[\"MARKET-BOTTOM_BANNER_DETAIL_APK_DES_TITLE\"]"
 msgid "Using APKPure App to upgrade {0}, fast, free and save your internet data."
 msgstr ""
+"ការប្រើកម្មវិធី APKPure ដើម្បីបន្ទាន់សម័យ{0} រហ័ស "
+"ឥតគិតថ្លៃនិងសន្សំទិន្នន័យអ៊ីនធឺណិតអ្នក។"
 
 msgctxt "[\"MARKET-BOTTOM_BANNER_DETAIL_XAPK_DES\"]"
 msgid "Using APKPure App to upgrade <strong>{0}</strong>, install xapk, fast, free and save your internet data."
 msgstr ""
+"ការប្រើកម្មវិធី APKPure ដើម្បីបន្ទាន់សម័យ <strong>{0}</strong> ដំឡើង xapk រហ័"
+"ស ឥតគិតថ្លៃនិងសន្សំ ទិន្នន័យអ៊ីនធឺណិតរបស់អ្នក។"
 
 msgctxt "[\"MARKET-BOTTOM_BANNER_DETAIL_XAPK_DES_TITLE\"]"
 msgid "Using APKPure App to upgrade {0}, install xapk, fast, free and save your internet data."
 msgstr ""
+"ការប្រើកម្មវិធី APKPure ដើម្បីបន្ទន់សម័យ ដំឡើង xapk រហ័ស ឥតគិតថ្លៃនិងសន្សំ "
+"ទិន្នន័យអ៊ីនធឺណិតរបស់អ្នក។"
 
 msgctxt "[\"MARKET-BOTTOM_BANNER_DOWNLOAD_BTN\"]"
 msgid "Download APP"
-msgstr ""
+msgstr "ទាញយកកម្មវិធី"
 
 msgctxt "[\"MARKET-PROMOTION_BANNER_MOBILE1\"]"
 msgid "<p class=\"desc\">Using APKPure App to download/update this apk, faster, free and saving data!</p>"
 msgstr ""
+"<p class=\"desc\"> ការប្រើកម្មវិធី APKPure ដើម្បីទាញយក/ធ្វើបច្ចុប្បន្ន "
+"ភាពឯកសារ apk រហ័ស ឥតគិតថ្លៃនិងសន្សំសំចៃទិន្នន័យ!</p>"
 
 msgctxt "[\"MARKET-PROMOTION_BANNER_MOBILE1_XAPK\"]"
 msgid "<p class=\"desc\">Using APKPure App to install this XAPK, faster, free and saving data!</p>"
 msgstr ""
+"<p class=\"desc\"> ការប្រើកម្មវិធី APKPure ដើម្បីដំឡើងឯកសារ XAPK នេះរហ័ស "
+"ឥតគិតថ្លៃនិងសន្សំសច្ចៃទិន្នន័យ!</p>"
 
 msgctxt "[\"MARKET-PROMOTION_BANNER_MOBILE2\"]"
 msgid "<p class=\"tit\">Using APKPure App</p><p class=\"des\">Faster, free and saving data!</p>"
 msgstr ""
+"<p class=\"tit\"> ការប្រើកម្មវិធី APKPure</p><p class=\"des\"> រហ័ស "
+"ឥតគិតថ្លៃនិងសន្សំសំចៃទិន្នន័យ!</p>"
 
 msgctxt "[\"MARKET-PROMOTION_BANNER_MOBILE2_XAPK\"]"
 msgid "<p class=\"tit\">Using APKPure App</p><p class=\"des\">Install XAPK, Faster, free and saving data!</p>"
 msgstr ""
+"<p class=\"tit\"> ការប្រើកម្មវិធី APKPure</p><p class=\"des\"> តំឡើងឯកសារ "
+"xapk រហ័ស ឥតគិតថ្លៃ និងសន្សំសំចៃទិន្នន័យ!</p>"
 
 msgctxt "[\"FLAG-Africa\"]"
 msgid "Africa"
@@ -797,7 +827,7 @@ msgstr "នៅលើពិភពលោក"
 
 msgctxt "[\"ERROR-OOPS\"]"
 msgid "OOPS!,"
-msgstr "អុញ!"
+msgstr "អុញ!,"
 
 msgctxt "[\"ERROR-SUBTITLE\"]"
 msgid "You can visit the following Games and Apps instead"
@@ -815,103 +845,105 @@ msgstr "សូមទោស, ​ការទាញយកបរាជ័យ, APK �
 
 msgctxt "[\"error\"][\"DOWN-LimitedRegion\"]"
 msgid "Oops! Change your region and try download again."
-msgstr ""
+msgstr "អុញ៎! ប្ដូរតំបន់របស់អ្នកនឹងព្យាយាមទាញយកម្ដងទៀត។"
 
 msgctxt "[\"error\"][\"DOWN-LimitedDevice\"]"
 msgid "Sorry, download failed, the APK does not support our device."
-msgstr ""
+msgstr "សូមអភ័យទោស, ការទាញយកបរាជ័យ APK មិនគាំទ្រឧបករណ៍ពួកយើងទេ។"
 
 msgctxt "[\"error\"][\"DOWN-UnknownError\"]"
 msgid "Download failed because of an unknown error. We will fix this problem soon."
 msgstr ""
+"ការទាញយកបានបរាជ័យ ពីព្រោះកំហុសមិនស្គាល់មួយ។ ពួកយើងនឹងកែសម្រួលបញ្ហានេះឆាប់ៗ។"
 
 msgctxt "[\"error\"][\"DOWN-LimitedCarrier\"]"
 msgid "Download failed because of an unknown error. We will fix this problem soon."
 msgstr ""
+"ការទាញយកបានបរាជ័យ ពីព្រោះកំហុសមិនស្គាល់មួយ។ ពួកយើងនឹងកែសម្រួលបញ្ហានេះឆាប់ៗ។"
 
 msgctxt "[\"error\"][\"DOWN-PreRegister\"]"
 msgid "It's a Pre-registration App, you can't download."
-msgstr ""
+msgstr "វាជាកម្មវិធីចុះឈ្មោះទុកមុន, អ្នកមិនអាចទាញយកបានទ្បើយ។"
 
 msgctxt "[\"error\"][\"DOWN-RunOutOfDevice\"]"
 msgid "Download failed, please try again in 5 minutes."
-msgstr ""
+msgstr "ការទាញយកបានបរាជ័យ, សូមព្យាយាមម្ដងទៀតក្នុងរយៈពេល 5 នាទី។"
 
 msgctxt "[\"tip\"][\"ICON\"]"
 msgid "{0} icon"
-msgstr ""
+msgstr "{0} រូបតំណាង"
 
 msgctxt "[\"tip\"][\"LIST_ICON\"]"
 msgid "{0} APK"
-msgstr ""
+msgstr "{0} APK"
 
 msgctxt "[\"tip\"][\"LIST_TITLE\"]"
 msgid "{0} APK"
-msgstr ""
+msgstr "{0} APK"
 
 msgctxt "[\"tip\"][\"LIST_DOWN\"]"
 msgid "Download {0} latest version apk"
-msgstr ""
+msgstr "ទាញយកជំនាន់apk ពីមុនរបស់ {0}"
 
 msgctxt "[\"tip\"][\"LIST_DOWN_XAPK\"]"
 msgid "Download {0} latest version xapk"
-msgstr ""
+msgstr "ទាញយកជំនាន់ xapk ចុងក្រោយរបស់ {0}"
 
 msgctxt "[\"tip\"][\"VERSION_DOWN\"]"
 msgid "Download {app_name} {version_name} ({version_code}) {file_type}"
-msgstr ""
+msgstr "ទាញយក {app_name} {version_name} ({version_code}) {file_type}"
 
 msgctxt "[\"tip\"][\"RATING\"]"
 msgid "{app_name} average rating {rating_average}"
-msgstr ""
+msgstr "{app_name} អត្រា មធ្យម{rating_average}"
 
 msgctxt "[\"tip\"][\"QR_DOWN\"]"
 msgid "{0} QR code download"
-msgstr ""
+msgstr "ទាញយក {0} QR code"
 
 msgctxt "[\"tip\"][\"SAFE_VERIFIED\"]"
 msgid "{0} safe verified"
-msgstr ""
+msgstr "{0} បានផ្ទៀងផ្ទាត់សុវត្ថិភាព"
 
 msgctxt "[\"tip\"][\"SCREEN_POSTER\"]"
 msgid "{0} poster"
-msgstr ""
+msgstr "ផ្ទាំងផ្សព្វផ្សាយ {0}"
 
 msgctxt "[\"tip\"][\"SCREEN\"]"
 msgid "{0} apk screenshot"
-msgstr ""
+msgstr "រូបថតអេក្រង់ {0} apk"
 
 msgctxt "[\"tip\"][\"CATEGORY_GAME\"]"
 msgid "Download more {0} games"
-msgstr ""
+msgstr "ទាញយកហ្គេម {0} ផ្សេងទៀត"
 
 msgctxt "[\"tip\"][\"CATEGORY_APP\"]"
 msgid "Download more {0} apps"
-msgstr ""
+msgstr "ទាញយកកម្មវិធី {0} ផ្សេងទៀត"
 
 msgctxt "[\"tip\"][\"GET_IT_ON_GOOGLE_PLAY\"]"
 msgid "Get {0} on Google Play"
-msgstr ""
+msgstr "ទទួលយក {0} លើGoogle Play"
 
 msgctxt "[\"tip\"][\"GET_IT_ON_OTHER\"]"
 msgid "Get {app_name} on {source_name}"
-msgstr ""
+msgstr "ទទួលយក {app_name} លើ {source_name}"
 
 msgctxt "[\"tip\"][\"REQUEST_UPDATE\"]"
 msgid "Request {0} Update"
-msgstr ""
+msgstr "ស្នើសុំធ្វើ {0} បច្ចុប្បន្នភាព"
 
 msgctxt "[\"tip\"][\"HOT_ANDROID_GAME\"]"
 msgid "hot android game apk"
-msgstr ""
+msgstr "ហ្គេម android apk ពេញនិយម"
 
 msgctxt "[\"tip\"][\"HOT_ANDROID_APP\"]"
 msgid "hot android app apk"
-msgstr ""
+msgstr "កម្មវិធី andriod apk ពេញនិយម"
 
 msgctxt "[\"tip\"][\"DOWNLOAD_APK\"]"
 msgid "Download APK"
-msgstr ""
+msgstr "ទាញយក APK"
 
 msgctxt "[\"js\"][\"SIGN_VERIFY-OFFICIAL\"]"
 msgid "[Official] This {0} APK is the unmodified official version."
@@ -2053,7 +2085,7 @@ msgstr "រក្សាទុក"
 
 msgctxt "[\"USER-SAVING\"]"
 msgid "Saving..."
-msgstr "រក្សាទុក"
+msgstr "រក្សាទុក…"
 
 msgctxt "[\"USER-MY_PICTURE\"]"
 msgid "My Picture"
@@ -2073,7 +2105,7 @@ msgstr "ប្រវត្តិនៃការស្វែងរក"
 
 msgctxt "[\"COPYRIGHT\"]"
 msgid "Copyright © 2014-2018 APKPure All rights reserved."
-msgstr "រក្សាសិទិ្ធ © 2014-2018 APKPure រាល់ស្លាកសញ្ញាទាំងអសស់"
+msgstr "©2014-2018 រក្សា​សិទ្ធិ​គ្រប់​យ៉ាង​ដោយ APKPure."
 
 msgctxt "[\"COPYRIGHT_MOBILE\"]"
 msgid "APKPure.com © 2014-2018"
@@ -2106,3 +2138,158 @@ msgstr "ឥណ្ឌូនេស៊ី"
 msgctxt "[\"MARKET-TOP_COUNTRY\"][\"pt-BR\"]"
 msgid "Brazil"
 msgstr "ប្រេស៊ីល"
+
+msgctxt "[\"ATTACHMENT\"]"
+msgid "Attachment"
+msgstr "ការភ្ជាប់"
+
+msgctxt "[\"DOWNLOADS_ATTACHMENT\"]"
+msgid "Downloads"
+msgstr "ទាញយក"
+
+msgctxt "[\"NOT_FOUND\"]"
+msgid "Not Found"
+msgstr "រកមិនឃើញ"
+
+msgctxt "[\"COMMENT-ERR_INVALID_USER\"]"
+msgid "You're banned from APKPure by using or posting content containing nudity images. Please edit or remove the images before contacting Admin to restore your account."
+msgstr ""
+"អ្នកត្រូវបានហាមឃាត់ដោយសារតែប្រើប្រាស់រឺមាតិកាដែលមានផ្ទុករូបភាពស្រាត។ "
+"សូមកែសម្រួលរឺយកវាចេញមុនពេលទាក់ទងអភិបាលដើម្បីស្ដារគណនីរបស់អ្នកឡើងវិញ។"
+
+msgctxt "[\"COMMENT-DOWNLOAD_APK\"]"
+msgid "Download the APK file on APKPure."
+msgstr "ទាញយកឯកសារAPKលើ APKPure។"
+
+msgctxt "[\"PRE-REGISTER\"]"
+msgid "Pre-register"
+msgstr "ចុះឈ្មោះទុកមុន"
+
+msgctxt "[\"PRE-REGISTRANTS\"]"
+msgid "Pre-registrants"
+msgstr "ការចុះឈ្មោះទុកមុន"
+
+msgctxt "[\"PRE-REGISTER_DETAILS\"]"
+msgid "Pre-register Details"
+msgstr "ការចុះឈ្មោះទុកមុនលម្អិត"
+
+msgctxt "[\"PRE-REGISTER_DATE\"]"
+msgid "Release Date"
+msgstr "ថ្ងៃចេញផ្សាយ"
+
+msgctxt "[\"PRE-REGISTER_REWARDS\"]"
+msgid "Register Rewards"
+msgstr "ការចុះឈ្មោះរង្វាន់"
+
+msgctxt "[\"PRE-REGISTER_PAGE\"]"
+msgid "Pre-register Page"
+msgstr "ទំព័រនៃការចុះឈ្មោះ"
+
+msgctxt "[\"USER-FOLLOWING\"]"
+msgid "Following"
+msgstr "ការតាមដាន"
+
+msgctxt "[\"USER-FOLLOWER\"]"
+msgid "Follower"
+msgstr "អ្នកតាមដាន"
+
+msgctxt "[\"USER-LIKES\"]"
+msgid "Likes"
+msgstr "ចូលចិត្ត"
+
+msgctxt "[\"USER-POSTS\"]"
+msgid "Posts"
+msgstr "ប្រកាស"
+
+msgctxt "[\"USER-FAVORITES\"]"
+msgid "Favorites"
+msgstr "ចំណូលចិត្ត"
+
+msgctxt "[\"USER-REPLIES\"]"
+msgid "Replies"
+msgstr "ការឆ្លើយតប"
+
+msgctxt "[\"SEARCH-ON_THE_APP_STORE\"]"
+msgid "{0} On the App Store"
+msgstr "{0} លើហាងកម្មវិធី"
+
+msgctxt "[\"MARKET-POP_TITLE\"]"
+msgid "APKPure AppStore App"
+msgstr "កម្មវិធីហាង APKPure"
+
+msgctxt "[\"MARKET-POP_CHANGE_TITLE\"]"
+msgid "Change Profile Settings"
+msgstr "ការផ្លាស់ប្ដូរការកំណត់ព័ត៌មាន"
+
+msgctxt "[\"MARKET-POP_ADD_IMAGE\"]"
+msgid "Add Images To Post"
+msgstr "បន្ថែមរូបភាពទៅប្រកាស"
+
+msgctxt "[\"MARKET-POP_ADD_NEW_POST\"]"
+msgid "Add New Post or Comment"
+msgstr "បន្ថែមប្រកាស ឬមតិថ្មី"
+
+msgctxt "[\"MARKET-PROMOTION_BANNER_DOWN\"]"
+msgid "<p class=\"tit\">Using APKPure App</p><p class=\"des\">Download / Update this {0}, faster, free and saving data!</p>"
+msgstr ""
+"<p class=\"tit\">ការប្រើកម្មវិធី APKPure</p><p class=\"des\"> "
+"ទាញយកធ្វើបច្ចុប្បន្នភាព {0} នេះ រហ័ស, ឥតគិតថ្លៃនិងសន្សំសំចៃទិន្នន័យ!</p>"
+
+msgctxt "[\"tip\"][\"SHORT_NAME\"]"
+msgid "{0}"
+msgstr "{0}"
+
+msgctxt "[\"tip\"][\"VERSION\"]"
+msgid "Download {app_short_name} v{version_name} for android"
+msgstr "ទាញយក {app_short_name} v{version_name} សម្រាប់ប្រព័ន្ធ android"
+
+msgctxt "[\"tip\"][\"PREVIOUS_VERSIONS\"]"
+msgid "{0} Previous Versions"
+msgstr "{0} ជំនាន់ពីមុន"
+
+msgctxt "[\"tip\"][\"SCREEN_INDEX\"]"
+msgid "{0} screenshot {1}"
+msgstr "{0} ថតអេក្រង់ {1}"
+
+#, fuzzy
+msgctxt "[\"js\"][\"LANG_IGNORE\"][\"pl\"]"
+msgid "Ignorować"
+msgstr "Ignorować"
+
+#, fuzzy
+msgctxt "[\"js\"][\"LANG_IGNORE\"][\"es\"]"
+msgid "Ignorar"
+msgstr "Ignorar"
+
+#, fuzzy
+msgctxt "[\"js\"][\"LANG_IGNORE\"][\"ru\"]"
+msgid "игнорировать"
+msgstr "игнорировать"
+
+#, fuzzy
+msgctxt "[\"js\"][\"LANG_IGNORE\"][\"id\"]"
+msgid "Mengabaikan"
+msgstr "Mengabaikan"
+
+#, fuzzy
+msgctxt "[\"js\"][\"LANG_IGNORE\"][\"nl\"]"
+msgid "Negeren"
+msgstr "Negeren"
+
+#, fuzzy
+msgctxt "[\"js\"][\"LANG_OK\"][\"es\"]"
+msgid "DE ACUERDO"
+msgstr "DE ACUERDO"
+
+msgctxt "[\"js\"][\"LANG_OK\"][\"ru\"]"
+msgid "ОК"
+msgstr "ОК"
+
+#, fuzzy
+msgctxt "[\"js\"][\"LANG_OK\"][\"it\"]"
+msgid "ok"
+msgstr "ok"
+
+msgctxt "[\"js\"][\"LANG_OK\"][\"nl\"]"
+msgid "OK"
+msgstr "OK"

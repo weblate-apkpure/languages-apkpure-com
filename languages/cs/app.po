@@ -3,25 +3,24 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-10-08 10:59+0000\n"
-"PO-Revision-Date: 2018-03-29 03:26+0000\n"
-"Last-Translator: iTs Winty <patrikmarkus35@gmail.com>\n"
-"Language-Team: Czech "
-"<https://translate.apkpure.com/projects/apkpure/apkpurecom/cs/>\n"
+"PO-Revision-Date: 2018-06-03 18:00+0000\n"
+"Last-Translator: Dami Ovčík <zemiakovec@gmail.com>\n"
+"Language-Team: Czech <https://translate.apkpure.com/projects/apkpure/"
+"apkpurecom/cs/>\n"
 "Language: cs\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
-"X-Generator: Weblate 2.14.1\n"
+"X-Generator: Weblate 2.20\n"
 
-#, fuzzy
 msgctxt "[\"NAV-GAME\"]"
 msgid "GAMES"
-msgstr "hry"
+msgstr "Hry"
 
 msgctxt "[\"NAV-APP\"]"
 msgid "APPS"
-msgstr "aplikace"
+msgstr "Aplikace"
 
 msgctxt "[\"NAV-XAPK\"]"
 msgid "XAPK"
@@ -53,11 +52,11 @@ msgstr "XAPK aplikace"
 
 msgctxt "[\"NAV-APK_INSTALL\"]"
 msgid "APK Install"
-msgstr "APK instalace"
+msgstr "Instalace APK"
 
 msgctxt "[\"NAV-APK_DOWNLOAD\"]"
 msgid "APK Download"
-msgstr "APK stažení"
+msgstr "Stažení APK"
 
 msgctxt "[\"NAV-APK_VERIFICATION\"]"
 msgid "APK Verification"
@@ -81,7 +80,7 @@ msgstr "Zdarma"
 
 msgctxt "[\"READ_MORE\"]"
 msgid "Read More"
-msgstr "Čtěte více"
+msgstr "Číst více"
 
 msgctxt "[\"GAME\"]"
 msgid "GAME"
@@ -253,7 +252,7 @@ msgstr "Placená aplikace"
 
 msgctxt "[\"DETAIL-PAID_GAME_DES\"]"
 msgid "Paid games are not available to download"
-msgstr "Placené hry nejsou k dispozici ke stažení."
+msgstr "Placené hry nejsou k dispozici ke stažení"
 
 msgctxt "[\"DETAIL-PAID_APP_DES\"]"
 msgid "Paid apps are not available to download"
@@ -289,7 +288,7 @@ msgstr "Datum vydání"
 
 msgctxt "[\"DETAIL-GET_IT_ON\"]"
 msgid "Get it on"
-msgstr ""
+msgstr "získat na"
 
 msgctxt "[\"DETAIL-REQUIREMENTS\"]"
 msgid "Requirements"
@@ -1390,31 +1389,31 @@ msgstr ""
 
 msgctxt "[\"meta\"][\"Download\"][\"description\"]"
 msgid "download free apps APK for Android phone and tablet."
-msgstr ""
+msgstr "Stáhněte si zdarma APK pro telefony a tablety Android."
 
 msgctxt "[\"meta\"][\"Error\"][\"title\"]"
 msgid "Error"
-msgstr ""
+msgstr "Chyba"
 
 msgctxt "[\"meta\"][\"Error\"][\"keywords\"]"
 msgid "error"
-msgstr ""
+msgstr "chyba"
 
 msgctxt "[\"meta\"][\"Error\"][\"description\"]"
 msgid "error"
-msgstr ""
+msgstr "chyba"
 
 msgctxt "[\"meta\"][\"Category\"][\"title\"]"
 msgid "Browse Category | APKPure.com"
-msgstr ""
+msgstr "Procházet kategorie  | APKPure.com"
 
 msgctxt "[\"meta\"][\"Category\"][\"keywords\"]"
 msgid "app category,game category"
-msgstr ""
+msgstr "kategorie aplikací, kategorie her"
 
 msgctxt "[\"meta\"][\"Category\"][\"description\"]"
 msgid "Android games and apps category"
-msgstr ""
+msgstr "Kategorie her a aplikací Android"
 
 msgctxt "[\"category\"][\"GAME_ACTION\"]"
 msgid "Action"
@@ -1594,7 +1593,7 @@ msgstr ""
 
 msgctxt "[\"VERIFICATION_CODE\"]"
 msgid "Verification code"
-msgstr "Ověřovací kód\n"
+msgstr "Ověřovací kód"
 
 msgctxt "[\"VERIFICATION_INCORRECT\"]"
 msgid "The verification code is incorrect!"
@@ -1623,3 +1622,296 @@ msgstr "průměr: {rating_average} z {honoceno_jako_nejlepší}"
 msgctxt "[\"COMMENT-REPORT\"]"
 msgid "Report"
 msgstr "Nahlásit"
+
+msgctxt "[\"FAST_DOWNLOAD\"]"
+msgid "Fast Download"
+msgstr "Rychlé stažení"
+
+msgctxt "[\"IGNORE\"]"
+msgid "Ignore"
+msgstr "Ignorovat"
+
+msgctxt "[\"OK\"]"
+msgid "OK"
+msgstr "Budiž"
+
+msgctxt "[\"BUY\"]"
+msgid "Buy"
+msgstr "Koupit"
+
+msgctxt "[\"TOP-UPDATED-APPS\"]"
+msgid "Top Updated Apps"
+msgstr "Top aktualizované aplikace"
+
+msgctxt "[\"TOP-UPDATED-GAMES\"]"
+msgid "Top Updated Games"
+msgstr "Top aktualizované hry"
+
+msgctxt "[\"meta\"][\"Group\"][\"description_app\"]"
+msgid "{app_name} group gathers most Android expert users, who like to share experience on how to use {app_short_name} and give {app_short_name} useful app reviews."
+msgstr ""
+"Skupina {app_name} shromažďuje většinu zkušených uživatelů Android, kteří "
+"rádi sdílejí zkušenosti s používáním {app_short_name} a poskytují "
+"{app_short_name} užitečné recenze aplikací."
+
+msgctxt "[\"meta\"][\"Register\"][\"description\"]"
+msgid "To join community group or vote on APKPure App Store, you must be registered. Register your APKPure account today!"
+msgstr ""
+"Chcete-li se připojit ke skupině komunity nebo hlasovat o APKPure App Store, "
+"musíte být zaregistrováni. Zaregistrujte svůj účet APKPure ještě dnes!"
+
+msgctxt "[\"meta\"][\"Group\"][\"title\"]"
+msgid "{app_name} {app_type} Discussion Group | APKPure Groups"
+msgstr "{app_name} {app_type} Diskusní skupina | Skupiny APKPure"
+
+msgctxt "[\"meta\"][\"Password\"][\"title\"]"
+msgid "Change Password"
+msgstr "Změnit heslo"
+
+msgctxt "[\"meta\"][\"Password\"][\"description\"]"
+msgid "Change or reset my password."
+msgstr "Změnit nebo resetovat mé heslo."
+
+msgctxt "[\"meta\"][\"Login\"][\"keywords\"]"
+msgid "login, new member, account, registration"
+msgstr "přihlášení, nový člen, účet, registrace"
+
+msgctxt "[\"meta\"][\"Similar\"][\"title\"]"
+msgid "{app_type} Like {app_short_name}"
+msgstr "{app_type} jako {app_short_name}"
+
+msgctxt "[\"meta\"][\"Similar\"][\"keywords\"]"
+msgid "{app_short_name} alternative, {app_short_name} similar {app_type}, {app_category} {app_type} like {app_short_name}"
+msgstr ""
+"{app_short_name} alternativa, {app_short_name} podobné {app_type}, "
+"{app_category} {app_type} jako {app_short_name}"
+
+msgctxt "[\"meta\"][\"Topic\"][\"title\"]"
+msgid "{0} | APKPure.com"
+msgstr "{0} | APKPure.com"
+
+msgctxt "[\"meta\"][\"Topics\"][\"title\"]"
+msgid "Topics | APKPure.com"
+msgstr "Témata | APKPure.com"
+
+msgctxt "[\"meta\"][\"Topics\"][\"keywords\"]"
+msgid "Topics"
+msgstr "Témata"
+
+msgctxt "[\"meta\"][\"Topics\"][\"description\"]"
+msgid "Topics"
+msgstr "Témata"
+
+msgctxt "[\"meta\"][\"Topic\"][\"keywords\"]"
+msgid "{0}"
+msgstr "{0}"
+
+msgctxt "[\"meta\"][\"Topic\"][\"description\"]"
+msgid "{0}"
+msgstr "{0}"
+
+msgctxt "[\"meta\"][\"Similar\"][\"description\"]"
+msgid "Popular alternative {app_type} to {app_short_name} for Android, Android tablet and more. Download top {similar_count} {app_type} like {app_short_name}, all {app_type} suggested by APKPure."
+msgstr ""
+"Populární alternativa {app_type} na {app_short_name} pro Android, tablety "
+"Android a další. Stáhněte si TOP {similar_count} {app_type} jako "
+"{app_short_name}, všechny {app_type} navržené společností APKPure."
+
+msgctxt "[\"meta\"][\"Login\"][\"title\"]"
+msgid "Sign in account for APKPure Android App Store"
+msgstr "Přihlaste se k účtu APKPure pro Android App Store"
+
+msgctxt "[\"meta\"][\"Login\"][\"description\"]"
+msgid "To join community group or vote on APKPure App Store, you must be registered. Register your APKPure account today!"
+msgstr ""
+"Chcete-li se připojit ke skupině komunity nebo hlasovat o APKPure App Store, "
+"musíte být zaregistrováni. Zaregistrujte svůj účet APKPure ještě dnes!"
+
+msgctxt "[\"meta\"][\"User\"][\"title\"]"
+msgid "{user_name}: Profile and Activity - APKPure AppStore"
+msgstr "{user_name}: Profil a aktivita - APKPure AppStore"
+
+msgctxt "[\"meta\"][\"User\"][\"description\"]"
+msgid "My APKPure AppStore profile and activity page for {user_name}. Join APKPure AppStore to connect with {user_name}."
+msgstr ""
+"Můj profil a stránka aktivit APKPure AppStore pro {user_name}. Připojte se k "
+"APKPure AppStore, abyste se spojili s {user_name}."
+
+msgctxt "[\"meta\"][\"Profile\"][\"title\"]"
+msgid "{user_name}'s profile on APKPure App Store"
+msgstr "{user_name} profil na APKPure App Store"
+
+msgctxt "[\"meta\"][\"Profile\"][\"description\"]"
+msgid "The APKPure member profile for {user_name}."
+msgstr "Profil člena APKPure pro {user_name}."
+
+msgctxt "[\"meta\"][\"Register\"][\"title\"]"
+msgid "Register account for APKPure Android App Store"
+msgstr "Zaregistrujte účet pro APKPure Android App Store"
+
+msgctxt "[\"meta\"][\"Group\"][\"keywords\"]"
+msgid "{app_name} group, {app_short_name} community, {app_name} forum, about {app_short_name}, {app_type} discussions"
+msgstr ""
+"skupina {app_name}, komunita {app_short_name}, fórum {app_name}, diskuze o "
+"{app_short_name}, {app_type} diskuse"
+
+msgctxt "[\"meta\"][\"Group\"][\"description_game\"]"
+msgid "Online discussions to share {app_name} tips, tricks and cheats. {app_short_description}"
+msgstr ""
+"Online diskuse ke sdílení tipů, triků a cheatů {app_name}. "
+"{app_short_description}"
+
+msgctxt "[\"meta\"][\"Invit\"][\"title\"]"
+msgid "{user_name} add a post under {app_name} Discussion Group | APKPure Group"
+msgstr ""
+"{user_name} přidat příspěvek pod diskusní skupinu {app_name} | Skupina "
+"APKPure"
+
+msgctxt "[\"meta\"][\"Invit\"][\"description\"]"
+msgid "View all {user_name}'s comments and posts on APKPure {app_type} discussion group. Join now to connect with {user_name}."
+msgstr ""
+"Zobrazit všechny komentáře a příspěvky uživatele {user_name} v diskusní "
+"skupině APKPure {app_type}. Připojte se nyní, abyste se sppojili s "
+"{user_name}."
+
+msgctxt "[\"meta\"][\"Invit\"][\"title_title\"]"
+msgid "{title} {app_type} Discussions | {app_name} Group"
+msgstr "{title} {app_type} Diskuse | {app_name} Skupina"
+
+msgctxt "[\"meta\"][\"Invit\"][\"description_title\"]"
+msgid "\"{post_details}\" sent by {user_name} in {app_name} {app_type} Discussions."
+msgstr ""
+"\"{post_details}\" odeslané {user_name} v {app_name} {app_type} Diskuze."
+
+msgctxt "[\"meta\"][\"Invit\"][\"keywords\"]"
+msgid "group, {app_name}, {app_category}, {app_type}, {app_developer}, {app_short_name} community"
+msgstr ""
+"skupina {app_name}, {app_category}, {app_type}, {app_developer}, "
+"{app_short_name} komunita"
+
+msgctxt "[\"ATTACHMENT\"]"
+msgid "Attachment"
+msgstr "Příloha"
+
+msgctxt "[\"DOWNLOADS_ATTACHMENT\"]"
+msgid "Downloads"
+msgstr "Stažené"
+
+msgctxt "[\"HAVE_PRODUCTS\"]"
+msgid "All {0} Apps"
+msgstr "Všechny {0} Aplikace"
+
+msgctxt "[\"NOT_FOUND\"]"
+msgid "Not Found"
+msgstr "Nenalezeno"
+
+msgctxt "[\"UPDATE\"]"
+msgid "Update"
+msgstr "Aktualizace"
+
+msgctxt "[\"DETAIL-MAIGHT_LIKE\"]"
+msgid "You Might Also Like"
+msgstr "Mohlo by se Vám také líbit"
+
+msgctxt "[\"DETAIL-MORE_FROM\"]"
+msgid "More From {0}"
+msgstr "Více od {0}"
+
+msgctxt "[\"DETAIL-DELETED_COPYRIGHT_GOOGLE_PLAY_DES\"]"
+msgid "{app_name} All rights reserved ©2018 {developer}. {developer} and the {developer} logo are trademarks of {developer} in the U.S. and/or other countries.All other trademarks are the property of their respective owners."
+msgstr ""
+"{app_name} všechna práva vyhrazena © 2018 {developer}. {developer} a logo "
+"{developer} jsou ochranné známky společnosti {developer} v USA a dalších "
+"zemích. Všechny ostatní ochranné známky jsou majetkem příslušných vlastníků."
+
+msgctxt "[\"VERSION-PREVIOUS\"]"
+msgid "Previous versions"
+msgstr "Předchozí verze"
+
+msgctxt "[\"VERSION-VERSIONS\"]"
+msgid "Versions"
+msgstr "Verze"
+
+msgctxt "[\"VERSION-REQUIRES_ANDROID\"]"
+msgid "Requires Android"
+msgstr "Vyžaduje Android"
+
+msgctxt "[\"COMMENT-ADD_NEW_DISCUSSION\"]"
+msgid "Add A New Discussion"
+msgstr "Přidejte novou diskusi"
+
+msgctxt "[\"COMMENT-REPLIES\"]"
+msgid "Replies"
+msgstr "Odpovědi"
+
+msgctxt "[\"COMMENT-DISCUSSIONS\"]"
+msgid "Discussions"
+msgstr "Diskuse"
+
+msgctxt "[\"COMMENT-ALL_DISCUSSIONS\"]"
+msgid "See all discussions"
+msgstr "Zobrazit všechny diskuse"
+
+msgctxt "[\"COMMENT-SEE_ALL_DISCUSSIONS\"]"
+msgid "See all {0} discussions"
+msgstr "Zobrazit všechny {0} diskuse"
+
+msgctxt "[\"COMMENT-JOIN_IN_GROUP\"]"
+msgid "Join {0} group"
+msgstr "Připojte se ke skupině {0}"
+
+msgctxt "[\"COMMENT-JOIN_GROUP\"]"
+msgid "Join Group"
+msgstr "Přidat se ke skupině"
+
+msgctxt "[\"COMMENT-GROUP\"]"
+msgid "Group"
+msgstr "Skupina"
+
+msgctxt "[\"COMMENT-TITLE_POST\"]"
+msgid "Post"
+msgstr "Příspěvek"
+
+msgctxt "[\"COMMENT-ADD\"]"
+msgid "Add Comment"
+msgstr "Přidat komentář"
+
+msgctxt "[\"COMMENT-ALL-REPLY\"]"
+msgid "All {0} replies"
+msgstr "Všechny odpovědi {0}"
+
+msgctxt "[\"COMMENT-VIEWS\"]"
+msgid "Views"
+msgstr "Zobrazení"
+
+msgctxt "[\"COMMENT-COLLAPSED\"]"
+msgid "comment collapsed"
+msgstr "Sbalit komentář"
+
+msgctxt "[\"COMMENT-POST\"]"
+msgid "Post"
+msgstr "Zveřejnit"
+
+msgctxt "[\"COMMENT-COMMENTS\"]"
+msgid "Comments"
+msgstr "Komentovat"
+
+msgctxt "[\"COMMENT-REPLY\"]"
+msgid "Reply"
+msgstr "Odpovědět"
+
+msgctxt "[\"COMMENT-EMAIL\"]"
+msgid "Email"
+msgstr "Email"
+
+msgctxt "[\"COMMENT-SORT_BY_NEWEST\"]"
+msgid "Newest"
+msgstr "Nejnovější"
+
+msgctxt "[\"COMMENT-SORT_BY_NEW\"]"
+msgid "Newest"
+msgstr "Nové"
+
+msgctxt "[\"COMMENT-SORT_BY_OLDEST\"]"
+msgid "Oldest"
+msgstr "Nejstarší"

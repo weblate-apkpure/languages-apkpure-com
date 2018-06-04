@@ -3,16 +3,16 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-03-22 06:56+0000\n"
-"PO-Revision-Date: 2018-04-14 12:43+0000\n"
-"Last-Translator: Serhat SungurNN <serhatsungurnn@gmail.com>\n"
-"Language-Team: Turkish "
-"<https://translate.apkpure.com/projects/apkpure/apkpurecom/tr/>\n"
+"PO-Revision-Date: 2018-06-04 03:03+0000\n"
+"Last-Translator: Fatih Öksüz <fthoksz78@gmail.com>\n"
+"Language-Team: Turkish <https://translate.apkpure.com/projects/apkpure/"
+"apkpurecom/tr/>\n"
 "Language: tr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 2.14.1\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 2.20\n"
 
 msgctxt "[\"NAV-GAME\"]"
 msgid "GAME"
@@ -30,6 +30,7 @@ msgctxt "[\"NAV-NEW\"]"
 msgid "NEW"
 msgstr "YENİ"
 
+#, fuzzy
 msgctxt "[\"NAV-PRODUCTS\"]"
 msgid "PRODUCTS"
 msgstr "ÜRÜNLER"
@@ -52,7 +53,7 @@ msgstr "XAPK UYGULAMA"
 
 msgctxt "[\"NAV-APK_INSTALL\"]"
 msgid "APK Install"
-msgstr "APK Kurulum"
+msgstr "APK Kurulumu"
 
 msgctxt "[\"NAV-APK_DOWNLOAD\"]"
 msgid "APK Download"
@@ -64,7 +65,7 @@ msgstr "APK Doğrulama"
 
 msgctxt "[\"NAV-APKPURE_APP\"]"
 msgid "APKPure App"
-msgstr "APKPure Uygulama"
+msgstr "APKPure Uygulaması"
 
 msgctxt "[\"DOWNLOAD\"]"
 msgid "Download"
@@ -2227,7 +2228,6 @@ msgctxt "[\"VERSION-PREVIOUS\"]"
 msgid "Previous versions"
 msgstr "Önceki sürümler"
 
-#, fuzzy
 msgctxt "[\"VERSION-VERSIONS\"]"
 msgid "Versions"
 msgstr "Versiyonlar"
@@ -2328,3 +2328,249 @@ msgstr "Tüm {0} Uygulamalar"
 msgctxt "[\"NOT_FOUND\"]"
 msgid "Not Found"
 msgstr "Bulunamadı"
+
+msgctxt "[\"DETAIL-MAIGHT_LIKE\"]"
+msgid "You Might Also Like"
+msgstr "Ayrıca ilginizi çekebilir"
+
+#, fuzzy
+msgctxt "[\"DETAIL-DELETED_COPYRIGHT_GOOGLE_PLAY_DES\"]"
+msgid "{app_name} All rights reserved ©2018 {developer}. {developer} and the {developer} logo are trademarks of {developer} in the U.S. and/or other countries.All other trademarks are the property of their respective owners."
+msgstr ""
+"[\"DETAIL-DELETED_COPYRIGHT_GOOGLE_PLAY_DES\"]{app_name} Tüm hakları "
+"saklıdır ©2018 {developer}. {developer} ve   {developer} logosu, {developer}"
+"'un ABD ve diğer ülkelerde tescilli markasıdır. Diğer tüm ticari markalar "
+"kendi sahiplerinin mülkiyetindedir."
+
+msgctxt "[\"COMMENT-ADD_NEW_DISCUSSION\"]"
+msgid "Add A New Discussion"
+msgstr "Yeni bir tartışma aç"
+
+msgctxt "[\"COMMENT-REPLIES\"]"
+msgid "Replies"
+msgstr "Yanıtlar"
+
+msgctxt "[\"COMMENT-DISCUSSIONS\"]"
+msgid "Discussions"
+msgstr "Tartışmalar"
+
+msgctxt "[\"COMMENT-ALL_DISCUSSIONS\"]"
+msgid "See all discussions"
+msgstr "Bütün tartışmaları gör"
+
+msgctxt "[\"COMMENT-SEE_ALL_DISCUSSIONS\"]"
+msgid "See all {0} discussions"
+msgstr "Bütün {0} tartışmaları gör"
+
+msgctxt "[\"COMMENT-JOIN_IN_GROUP\"]"
+msgid "Join {0} group"
+msgstr "{0} grubuna katıl"
+
+msgctxt "[\"COMMENT-JOIN_GROUP\"]"
+msgid "Join Group"
+msgstr "Gruba katıl"
+
+msgctxt "[\"COMMENT-GROUP\"]"
+msgid "Group"
+msgstr "Grup"
+
+msgctxt "[\"COMMENT-TITLE_POST\"]"
+msgid "Post"
+msgstr "Gönderi"
+
+msgctxt "[\"COMMENT-ADD\"]"
+msgid "Add Comment"
+msgstr "Yorum ekle"
+
+msgctxt "[\"COMMENT-ALL-REPLY\"]"
+msgid "All {0} replies"
+msgstr "Bütün {0} yanıtlar"
+
+msgctxt "[\"COMMENT-VIEWS\"]"
+msgid "Views"
+msgstr "Görüntülenme"
+
+msgctxt "[\"COMMENT-SORT_BY_BEST_LONG\"]"
+msgid "Sort by best"
+msgstr "En iyiye göre sırala"
+
+msgctxt "[\"COMMENT-ERR_INVALID_USER\"]"
+msgid "You're banned from APKPure by using or posting content containing nudity images. Please edit or remove the images before contacting Admin to restore your account."
+msgstr ""
+"Çıplak resim içeren içeriği kullandığınız veya gönderdiğiniz için "
+"APKPure'den engellendiniz. Yönetici ile hesabınızın geri alınması için "
+"iletişime geçmeden önce lütfen bu resimleri düzenleyin veya silin."
+
+msgctxt "[\"COMMENT-DOWNLOAD_APK\"]"
+msgid "Download the APK file on APKPure."
+msgstr "APK dosyasını APKPure üzerinden indirin."
+
+msgctxt "[\"PRE-REGISTER\"]"
+msgid "Pre-register"
+msgstr "Önkayıt"
+
+#, fuzzy
+msgctxt "[\"PRE-REGISTRANTS\"]"
+msgid "Pre-registrants"
+msgstr "Önkayıtlılar"
+
+msgctxt "[\"PRE-REGISTER_DETAILS\"]"
+msgid "Pre-register Details"
+msgstr "Önkayıt detayları"
+
+msgctxt "[\"PRE-REGISTER_DATE\"]"
+msgid "Release Date"
+msgstr "Yayımlanma tarihi"
+
+msgctxt "[\"PRE-REGISTER_REWARDS\"]"
+msgid "Register Rewards"
+msgstr "Kayıt ödülleri"
+
+msgctxt "[\"PRE-REGISTER_PAGE\"]"
+msgid "Pre-register Page"
+msgstr "Önkayıt sayfası"
+
+#, fuzzy
+msgctxt "[\"USER-FOLLOWING\"]"
+msgid "Following"
+msgstr "Takip ediliyor"
+
+msgctxt "[\"USER-FOLLOWER\"]"
+msgid "Follower"
+msgstr "Takipçi"
+
+msgctxt "[\"USER-LIKES\"]"
+msgid "Likes"
+msgstr "Beğeniler"
+
+msgctxt "[\"USER-POSTS\"]"
+msgid "Posts"
+msgstr "Gönderiler"
+
+msgctxt "[\"USER-FAVORITES\"]"
+msgid "Favorites"
+msgstr "Favoriler"
+
+msgctxt "[\"USER-REPLIES\"]"
+msgid "Replies"
+msgstr "Yanıtlar"
+
+msgctxt "[\"USER-PROFILE\"]"
+msgid "Profile"
+msgstr "Profil"
+
+msgctxt "[\"USER-CHANGE_PASSWORD\"]"
+msgid "Change Password"
+msgstr "Şifreyi değiştir"
+
+msgctxt "[\"USER-MESSAGES\"]"
+msgid "Messages"
+msgstr "Mesajlar"
+
+msgctxt "[\"USER-COMMENTS\"]"
+msgid "Comments"
+msgstr "Yorumlar"
+
+msgctxt "[\"USER-MY_FAVORITE\"]"
+msgid "My Favorite"
+msgstr "Favorilerim"
+
+msgctxt "[\"USER-LIKED_COMMENTS\"]"
+msgid "Liked Comments"
+msgstr "Beğenilen yorumlar"
+
+msgctxt "[\"USER-NEW_PASSWORD\"]"
+msgid "New password"
+msgstr "Yeni şifre"
+
+msgctxt "[\"USER-CURRENT_PASSWORD\"]"
+msgid "Current password"
+msgstr "Mevcut şifre"
+
+msgctxt "[\"USER-INCORRECT_BIRTHDAY\"]"
+msgid "You have entered an invalid birthday."
+msgstr "Geçersiz bir doğum günü girdiniz."
+
+msgctxt "[\"USER-INCORRECT_INTRO\"]"
+msgid "Information you have entered contains invalid characters."
+msgstr "Girdiğiniz bilgiler geçersiz karakterler içeriyor."
+
+msgctxt "[\"USER-NICKNAME\"]"
+msgid "Nickname"
+msgstr "Kullanıcı adı"
+
+msgctxt "[\"USER-BIRTHDAY\"]"
+msgid "Birthday"
+msgstr "Doğum günü"
+
+msgctxt "[\"USER-GENDER\"]"
+msgid "Gender"
+msgstr "Cinsiyet"
+
+msgctxt "[\"USER-SAVE\"]"
+msgid "Save"
+msgstr "Kaydet"
+
+msgctxt "[\"USER-SAVING\"]"
+msgid "Saving..."
+msgstr "Kaydediliyor..."
+
+msgctxt "[\"USER-MY_PICTURE\"]"
+msgid "My Picture"
+msgstr "Resmim"
+
+msgctxt "[\"USER-CHANGE_PICTURE\"]"
+msgid "Change Picture"
+msgstr "Resmi Değiştir"
+
+msgctxt "[\"SEARCH-ON_THE_APP_STORE\"]"
+msgid "{0} On the App Store"
+msgstr "{0} App Store'da"
+
+msgctxt "[\"COPYRIGHT\"]"
+msgid "Copyright © 2014-2018 APKPure All rights reserved."
+msgstr "Telif hakkı © 2014-2018 APKPure'a aittir. Tüm hakları saklıdır."
+
+msgctxt "[\"COPYRIGHT_MOBILE\"]"
+msgid "APKPure.com © 2014-2018"
+msgstr "APKPure.com © 2014-2018"
+
+msgctxt "[\"MARKET-POP_TITLE\"]"
+msgid "APKPure AppStore App"
+msgstr "APKPure AppStore Uygulaması"
+
+msgctxt "[\"MARKET-POP_CHANGE_TITLE\"]"
+msgid "Change Profile Settings"
+msgstr "Profil Ayarlarını Değiştir"
+
+msgctxt "[\"MARKET-POP_ADD_IMAGE\"]"
+msgid "Add Images To Post"
+msgstr "Gönderiye Resim Ekle"
+
+msgctxt "[\"MARKET-POP_ADD_NEW_POST\"]"
+msgid "Add New Post or Comment"
+msgstr "Yeni Gönderi veya Yorum Ekle"
+
+msgctxt "[\"MARKET-TOP_COUNTRY\"][\"en-US\"]"
+msgid "USA"
+msgstr "USA"
+
+msgctxt "[\"MARKET-TOP_COUNTRY\"][\"ja\"]"
+msgid "Japan"
+msgstr "Japonya"
+
+msgctxt "[\"MARKET-TOP_COUNTRY\"][\"zh-CN\"]"
+msgid "China"
+msgstr "Çin"
+
+msgctxt "[\"MARKET-TOP_COUNTRY\"][\"ko-KR\"]"
+msgid "Korea"
+msgstr "Kore"
+
+msgctxt "[\"MARKET-TOP_COUNTRY\"][\"id-ID\"]"
+msgid "Indonesia"
+msgstr "Endonezya"
+
+msgctxt "[\"MARKET-TOP_COUNTRY\"][\"pt-BR\"]"
+msgid "Brazil"
+msgstr "Brazilya"

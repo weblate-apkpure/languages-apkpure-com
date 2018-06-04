@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-04-04 10:10+0000\n"
-"PO-Revision-Date: 2018-04-04 10:36+0000\n"
+"PO-Revision-Date: 2018-05-04 10:13+0000\n"
 "Last-Translator: Igor Ferrare <ferrare42@gmail.com>\n"
 "Language-Team: Portuguese (Brazil) "
 "<https://translate.apkpure.com/projects/apkpure/apkpurecom/pt_BR/>\n"
@@ -52,7 +52,7 @@ msgstr "XAPK APLICATIVO"
 
 msgctxt "[\"NAV-APK_INSTALL\"]"
 msgid "APK Install"
-msgstr "Instalar APK"
+msgstr "Instalar Apk"
 
 msgctxt "[\"NAV-APK_DOWNLOAD\"]"
 msgid "APK Download"
@@ -1275,7 +1275,9 @@ msgstr "Tente App APKPure - Baixe, atualização e instalar apks no seu Android.
 
 msgctxt "[\"MARKET-BOTTOM_BANNER_DETAIL_APK_DES\"]"
 msgid "Using APKPure App to upgrade <strong>{0}</strong>, fast, free and save your internet data."
-msgstr "Utilizar o APKPure para atualizar<strong>{0}</strong> , rápido, livre e salvar seus dados de internet."
+msgstr ""
+"Utilizar o APKPure para atualizar<strong>{0}</strong> , rápido, livre e "
+"salva seus dados da internet."
 
 msgctxt "[\"MARKET-BOTTOM_BANNER_DETAIL_APK_DES_TITLE\"]"
 msgid "Using APKPure App to upgrade {0}, fast, free and save your internet data."
@@ -1287,7 +1289,9 @@ msgstr "Usando APKPure App para atualizar <strong>{0}</strong>, instale xapk, r�
 
 msgctxt "[\"MARKET-BOTTOM_BANNER_DETAIL_XAPK_DES_TITLE\"]"
 msgid "Using APKPure App to upgrade {0}, install xapk, fast, free and save your internet data."
-msgstr "Usando APKPure App para atualizar {0}, instale xapk, rápido, gratuito e salvar seus dados de internet."
+msgstr ""
+"Usando o app APKPure para atualizar {0}, instale xapk, rápido, gratuito e "
+"salva seus dados da internet."
 
 msgctxt "[\"MARKET-BOTTOM_BANNER_DOWNLOAD_BTN\"]"
 msgid "Download APP"
@@ -1875,7 +1879,8 @@ msgstr "Pesquisar {add_trending}"
 
 msgctxt "[\"meta\"][\"Search_hot\"][\"description\"]"
 msgid "Discover Android games free download on APKPure Android App Store."
-msgstr "Descubra downloads gratuito de jogos Android na APKPure App Store Android."
+msgstr ""
+"Descubra downloads gratuitos de jogos Android na APKPure App Store Android."
 
 msgctxt "[\"meta\"][\"New\"][\"title\"]"
 msgid "Download the latest {0} APK | APKPure.com"
