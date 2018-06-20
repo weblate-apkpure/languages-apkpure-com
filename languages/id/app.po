@@ -1,19 +1,3 @@
-msgid ""
-msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-04-15 06:05+0000\n"
-"PO-Revision-Date: 2018-05-31 04:00+0000\n"
-"Last-Translator: nextday <fw2k4@163.com>\n"
-"Language-Team: Indonesian <https://translate.apkpure.com/projects/apkpure/"
-"apkpurecom/id/>\n"
-"Language: id\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 2.20\n"
-
 msgctxt "[\"NAV-GAME\"]"
 msgid "GAMES"
 msgstr "PERMAINAN"
@@ -38,15 +22,13 @@ msgctxt "[\"NAV-NEW_GAME\"]"
 msgid "NEW GAME"
 msgstr "PERMAINAN TERBARU"
 
-#, fuzzy
 msgctxt "[\"NAV-NEW_APP\"]"
 msgid "NEW APP"
 msgstr "APLIKASI TERBARU"
 
-#, fuzzy
 msgctxt "[\"NAV-XAPK_GAME\"]"
 msgid "XAPK GAME"
-msgstr "XAPK GAME"
+msgstr "PERMAINAN XAPK"
 
 msgctxt "[\"NAV-XAPK_APP\"]"
 msgid "XAPK APP"
@@ -68,10 +50,9 @@ msgctxt "[\"NAV-APKPURE_APP\"]"
 msgid "APKPure App"
 msgstr "Apl APKPure"
 
-#, fuzzy
 msgctxt "[\"DOWNLOAD\"]"
 msgid "Download"
-msgstr "Download"
+msgstr "Unduh"
 
 msgctxt "[\"FAST_DOWNLOAD\"]"
 msgid "Fast Download"
@@ -85,7 +66,6 @@ msgctxt "[\"OK\"]"
 msgid "OK"
 msgstr "baik"
 
-#, fuzzy
 msgctxt "[\"BUY\"]"
 msgid "Buy"
 msgstr "Beli"
@@ -156,7 +136,7 @@ msgstr "Terbaik"
 
 msgctxt "[\"ATTACHMENT\"]"
 msgid "Attachment"
-msgstr ""
+msgstr "Attachment"
 
 msgctxt "[\"DOWNLOADS\"]"
 msgid "Downloads"
@@ -172,7 +152,7 @@ msgstr "Terbaru"
 
 msgctxt "[\"RATING\"]"
 msgid "Rating"
-msgstr ""
+msgstr "Rating"
 
 msgctxt "[\"CATEGORY\"]"
 msgid "Category"
@@ -232,7 +212,7 @@ msgstr "Komentar"
 
 msgctxt "[\"NOT_FOUND\"]"
 msgid "Not Found"
-msgstr ""
+msgstr "Not Found"
 
 msgctxt "[\"LATEST_UPDATE_GAMES\"]"
 msgid "Latest Update Games"
@@ -292,7 +272,7 @@ msgstr "Kode verifikasi tidak benar!"
 
 msgctxt "[\"VERIFICATION_DOWN\"]"
 msgid "Enter the code(s) as you see in the image, then click \"Download\"."
-msgstr ""
+msgstr "Enter the code(s) as you see in the image, then click \"Download\"."
 
 msgctxt "[\"TOPICS\"]"
 msgid "Topics"
@@ -310,9 +290,25 @@ msgctxt "[\"UPDATE\"]"
 msgid "Update"
 msgstr "Memperbarui"
 
+msgctxt "[\"DEV-INCORRECT_PKG_EMAIL\"]"
+msgid "Invalid package name or email"
+msgstr "Invalid package name or email"
+
+msgctxt "[\"DEV-SEND_EMAIL_ERR\"]"
+msgid "Failed to send mail"
+msgstr "Failed to send mail"
+
+msgctxt "[\"DEV-PKG_EXISTS\"]"
+msgid "Application has been claimed"
+msgstr "Application has been claimed"
+
+msgctxt "[\"DETAIL\"]"
+msgid "Detail"
+msgstr "Detail"
+
 msgctxt "[\"DETAIL-MAIGHT_LIKE\"]"
 msgid "You Might Also Like"
-msgstr ""
+msgstr "You Might Also Like"
 
 msgctxt "[\"DETAIL-PAID_GAME\"]"
 msgid "Paid Game"
@@ -530,6 +526,10 @@ msgctxt "[\"VERSION-REQUIRES_ANDROID\"]"
 msgid "Requires Android"
 msgstr "Perlu Android versi"
 
+msgctxt "[\"COMMENT-REVIEW_OTHER_LANG\"]"
+msgid "There are {0} reviews in other languages"
+msgstr "There are {0} reviews in other languages"
+
 msgctxt "[\"COMMENT-ADD_NEW_DISCUSSION\"]"
 msgid "Add A New Discussion"
 msgstr "Tambahkan Diskusi Baru"
@@ -630,6 +630,10 @@ msgctxt "[\"COMMENT-SORT_BY_MOST_RECENT\"]"
 msgid "Most Recent"
 msgstr "Terbaru"
 
+msgctxt "[\"COMMENT-SORT_BY_MOST_SCORE\"]"
+msgid "Top rated"
+msgstr "Top rated"
+
 msgctxt "[\"COMMENT-SORT_BY_DEFAULT\"]"
 msgid "Sort by default"
 msgstr "Urutkan secara default"
@@ -704,7 +708,7 @@ msgstr "Your post contains link and is pending approval by an admin"
 
 msgctxt "[\"COMMENT-ERR_FORBIDDEN\"]"
 msgid "Comment forbidden"
-msgstr ""
+msgstr "Comment forbidden"
 
 msgctxt "[\"COMMENT-ERR_FAILURE\"]"
 msgid "Comment unknown"
@@ -716,11 +720,11 @@ msgstr "Invalid comment parameter"
 
 msgctxt "[\"COMMENT-ERR_INVALID_USER\"]"
 msgid "You're banned from APKPure by using or posting content containing nudity images. Please edit or remove the images before contacting Admin to restore your account."
-msgstr ""
+msgstr "You're banned from APKPure by using or posting content containing nudity images. Please edit or remove the images before contacting Admin to restore your account."
 
 msgctxt "[\"COMMENT-ERR_INVALID_VIDEO_URL\"]"
 msgid "Invalid Video URL"
-msgstr ""
+msgstr "Invalid Video URL"
 
 msgctxt "[\"COMMENT-DELETE\"]"
 msgid "Yes,delete it!"
@@ -746,9 +750,13 @@ msgctxt "[\"COMMENT-DOWNLOAD_APK\"]"
 msgid "Download the APK file on APKPure."
 msgstr "Download the APK file on APKPure."
 
+msgctxt "[\"COMMENT-ERR_SHARE_APK_DENY\"]"
+msgid "This APP cannot be uploaded"
+msgstr "This APP cannot be uploaded"
+
 msgctxt "[\"PRE-REGISTER\"]"
 msgid "Pre-register"
-msgstr ""
+msgstr "Pre-register"
 
 msgctxt "[\"PRE-REGISTRANTS\"]"
 msgid "Pre-registrants"
@@ -785,6 +793,14 @@ msgstr "Likes"
 msgctxt "[\"USER-POSTS\"]"
 msgid "Posts"
 msgstr "Posts"
+
+msgctxt "[\"USER-REVIEWS\"]"
+msgid "Reviews"
+msgstr "Reviews"
+
+msgctxt "[\"USER-REVIEWS_NONE\"]"
+msgid "Too few users ratings"
+msgstr "Too few users ratings"
 
 msgctxt "[\"USER-FAVORITES\"]"
 msgid "Favorites"
@@ -1190,6 +1206,10 @@ msgctxt "[\"FOOTER-DEVELOPER\"]"
 msgid "Submit Your App"
 msgstr "Kirim app Anda"
 
+msgctxt "[\"FOOTER-DEVELOPER_CONSOLE\"]"
+msgid "Developer Console"
+msgstr "Developer Console"
+
 msgctxt "[\"FOOTER-COOPERATION\"]"
 msgid "Business Cooperation"
 msgstr "Kerjasama bisnis"
@@ -1345,6 +1365,30 @@ msgstr "OOPS!,"
 msgctxt "[\"ERROR-SUBTITLE\"]"
 msgid "You can visit the following Games and Apps instead"
 msgstr "Anda dapat mengunjungi permainan dan Apps berikutnya"
+
+msgctxt "[\"RECOMMENDED-POSTS\"]"
+msgid "Recommended Posts"
+msgstr "Recommended Posts"
+
+msgctxt "[\"USERS-RECOMMENDED\"]"
+msgid "User's Recommendation"
+msgstr "User's Recommendation"
+
+msgctxt "[\"REVIEW_PRIVACY_POLICY_DES_M\"]"
+msgid "We encourage you to read our updated <a target='_blank' href='{pp}'>Privacy Policy</a> and <a target='_blank' href='{cp}'>Cookies Policy</a>."
+msgstr "We encourage you to read our updated <a target='_blank' href='{pp}'>Privacy Policy</a> and <a target='_blank' href='{cp}'>Cookies Policy</a>."
+
+msgctxt "[\"REVIEW_PRIVACY_POLICY_DES\"]"
+msgid "We use cookies and other technologies on this website to enhance your user experience.<br> By clicking any link on this page you are giving your consent to our <a target='_blank' href='{pp}'>Privacy Policy</a> and <a target='_blank' href='{cp}'>Cookies Policy</a>."
+msgstr "We use cookies and other technologies on this website to enhance your user experience.<br> By clicking any link on this page you are giving your consent to our <a target='_blank' href='{pp}'>Privacy Policy</a> and <a target='_blank' href='{cp}'>Cookies Policy</a>."
+
+msgctxt "[\"REVIEW_PRIVACY_POLICY_BTN\"]"
+msgid "Ok I Agree"
+msgstr "Ok I Agree"
+
+msgctxt "[\"REVIEW_PRIVACY_POLICY_MORE\"]"
+msgid "Learn More"
+msgstr "Learn More"
 
 msgctxt "[\"MARKET-TOP_COUNTRY\"][\"en-US\"]"
 msgid "USA"
@@ -1514,6 +1558,10 @@ msgctxt "[\"js\"][\"LANG_TIP\"][\"it\"]"
 msgid "Vuoi cambiare la tua lingua preferenziale in <strong>italiano</strong>?"
 msgstr "Vuoi cambiare la tua lingua preferenziale in <strong>italiano</strong>?"
 
+msgctxt "[\"js\"][\"LANG_TIP\"][\"de\"]"
+msgid "Wil je de taal van je voorkeur wijzigen in <strong> Deutsch </strong>?"
+msgstr "Wil je de taal van je voorkeur wijzigen in <strong> Deutsch </strong>?"
+
 msgctxt "[\"js\"][\"LANG_TIP\"][\"nl\"]"
 msgid "Wilt u uw voorkeurstaal naar <strong>Nederlands</strong> veranderen?"
 msgstr "Wilt u uw voorkeurstaal naar <strong>Nederlands</strong> veranderen?"
@@ -1538,6 +1586,10 @@ msgctxt "[\"js\"][\"LANG_IGNORE\"][\"it\"]"
 msgid "Ignorare"
 msgstr "Ignorare"
 
+msgctxt "[\"js\"][\"LANG_IGNORE\"][\"de\"]"
+msgid "Negeren"
+msgstr "Negeren"
+
 msgctxt "[\"js\"][\"LANG_IGNORE\"][\"nl\"]"
 msgid "Negeren"
 msgstr "Negeren"
@@ -1561,6 +1613,10 @@ msgstr "baik"
 msgctxt "[\"js\"][\"LANG_OK\"][\"it\"]"
 msgid "ok"
 msgstr "ok"
+
+msgctxt "[\"js\"][\"LANG_OK\"][\"de\"]"
+msgid "OK"
+msgstr "OK"
 
 msgctxt "[\"js\"][\"LANG_OK\"][\"nl\"]"
 msgid "OK"
@@ -1646,6 +1702,14 @@ msgctxt "[\"js\"][\"CANCEL\"]"
 msgid "Cancel"
 msgstr "Membatalkan"
 
+msgctxt "[\"js\"][\"YOUTUBE_URL\"]"
+msgid "Enter Youtube video URL"
+msgstr "Enter Youtube video URL"
+
+msgctxt "[\"js\"][\"YOUTUBE_URL_ERR\"]"
+msgid "Invalid URL: Please enter a valid YouTube video URL"
+msgstr "Invalid URL: Please enter a valid YouTube video URL"
+
 msgctxt "[\"js\"][\"USER-PASSWORD_NOT_MATCH\"]"
 msgid "Passwords do not match"
 msgstr "Sandi tidak cocok"
@@ -1681,6 +1745,10 @@ msgstr "Dihapus!"
 msgctxt "[\"js\"][\"COMMENT-ARE_YOU_SURE\"]"
 msgid "Are you sure?"
 msgstr "Apakah Anda yakin?"
+
+msgctxt "[\"js\"][\"COMMENT-RATE_MUST\"]"
+msgid "Before writing a review or something, please rate the app first."
+msgstr "Before writing a review or something, please rate the app first."
 
 msgctxt "[\"js\"][\"COMMENT-VOTE\"]"
 msgid "Vote"

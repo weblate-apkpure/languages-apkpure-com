@@ -290,6 +290,22 @@ msgctxt "[\"UPDATE\"]"
 msgid "Update"
 msgstr "Update"
 
+msgctxt "[\"DEV-INCORRECT_PKG_EMAIL\"]"
+msgid "Invalid package name or email"
+msgstr "Invalid package name or email"
+
+msgctxt "[\"DEV-SEND_EMAIL_ERR\"]"
+msgid "Failed to send mail"
+msgstr "Failed to send mail"
+
+msgctxt "[\"DEV-PKG_EXISTS\"]"
+msgid "Application has been claimed"
+msgstr "Application has been claimed"
+
+msgctxt "[\"DETAIL\"]"
+msgid "Detail"
+msgstr "Detail"
+
 msgctxt "[\"DETAIL-MAIGHT_LIKE\"]"
 msgid "You Might Also Like"
 msgstr "You Might Also Like"
@@ -510,6 +526,10 @@ msgctxt "[\"VERSION-REQUIRES_ANDROID\"]"
 msgid "Requires Android"
 msgstr "Requires Android"
 
+msgctxt "[\"COMMENT-REVIEW_OTHER_LANG\"]"
+msgid "There are {0} reviews in other languages"
+msgstr "There are {0} reviews in other languages"
+
 msgctxt "[\"COMMENT-ADD_NEW_DISCUSSION\"]"
 msgid "Add A New Discussion"
 msgstr "Add A New Discussion"
@@ -609,6 +629,10 @@ msgstr "Sort by best"
 msgctxt "[\"COMMENT-SORT_BY_MOST_RECENT\"]"
 msgid "Most Recent"
 msgstr "Most Recent"
+
+msgctxt "[\"COMMENT-SORT_BY_MOST_SCORE\"]"
+msgid "Top rated"
+msgstr "Top rated"
 
 msgctxt "[\"COMMENT-SORT_BY_DEFAULT\"]"
 msgid "Sort by default"
@@ -726,6 +750,10 @@ msgctxt "[\"COMMENT-DOWNLOAD_APK\"]"
 msgid "Download the APK file on APKPure."
 msgstr "Download the APK file on APKPure."
 
+msgctxt "[\"COMMENT-ERR_SHARE_APK_DENY\"]"
+msgid "This APP cannot be uploaded"
+msgstr "This APP cannot be uploaded"
+
 msgctxt "[\"PRE-REGISTER\"]"
 msgid "Pre-register"
 msgstr "Pre-register"
@@ -765,6 +793,14 @@ msgstr "Likes"
 msgctxt "[\"USER-POSTS\"]"
 msgid "Posts"
 msgstr "Posts"
+
+msgctxt "[\"USER-REVIEWS\"]"
+msgid "Reviews"
+msgstr "Reviews"
+
+msgctxt "[\"USER-REVIEWS_NONE\"]"
+msgid "Too few users ratings"
+msgstr "Too few users ratings"
 
 msgctxt "[\"USER-FAVORITES\"]"
 msgid "Favorites"
@@ -1170,6 +1206,10 @@ msgctxt "[\"FOOTER-DEVELOPER\"]"
 msgid "Submit Your App"
 msgstr "Submit Your App"
 
+msgctxt "[\"FOOTER-DEVELOPER_CONSOLE\"]"
+msgid "Developer Console"
+msgstr "Developer Console"
+
 msgctxt "[\"FOOTER-COOPERATION\"]"
 msgid "Business Cooperation"
 msgstr "Business Cooperation"
@@ -1325,6 +1365,30 @@ msgstr "OOPS!,"
 msgctxt "[\"ERROR-SUBTITLE\"]"
 msgid "You can visit the following Games and Apps instead"
 msgstr "You can visit the following Games and Apps instead"
+
+msgctxt "[\"RECOMMENDED-POSTS\"]"
+msgid "Recommended Posts"
+msgstr "Recommended Posts"
+
+msgctxt "[\"USERS-RECOMMENDED\"]"
+msgid "User's Recommendation"
+msgstr "User's Recommendation"
+
+msgctxt "[\"REVIEW_PRIVACY_POLICY_DES_M\"]"
+msgid "We encourage you to read our updated <a target='_blank' href='{pp}'>Privacy Policy</a> and <a target='_blank' href='{cp}'>Cookies Policy</a>."
+msgstr "We encourage you to read our updated <a target='_blank' href='{pp}'>Privacy Policy</a> and <a target='_blank' href='{cp}'>Cookies Policy</a>."
+
+msgctxt "[\"REVIEW_PRIVACY_POLICY_DES\"]"
+msgid "We use cookies and other technologies on this website to enhance your user experience.<br> By clicking any link on this page you are giving your consent to our <a target='_blank' href='{pp}'>Privacy Policy</a> and <a target='_blank' href='{cp}'>Cookies Policy</a>."
+msgstr "We use cookies and other technologies on this website to enhance your user experience.<br> By clicking any link on this page you are giving your consent to our <a target='_blank' href='{pp}'>Privacy Policy</a> and <a target='_blank' href='{cp}'>Cookies Policy</a>."
+
+msgctxt "[\"REVIEW_PRIVACY_POLICY_BTN\"]"
+msgid "Ok I Agree"
+msgstr "Ok I Agree"
+
+msgctxt "[\"REVIEW_PRIVACY_POLICY_MORE\"]"
+msgid "Learn More"
+msgstr "Learn More"
 
 msgctxt "[\"MARKET-TOP_COUNTRY\"][\"en-US\"]"
 msgid "USA"
@@ -1494,6 +1558,10 @@ msgctxt "[\"js\"][\"LANG_TIP\"][\"it\"]"
 msgid "Vuoi cambiare la tua lingua preferenziale in <strong>italiano</strong>?"
 msgstr "Vuoi cambiare la tua lingua preferenziale in <strong>italiano</strong>?"
 
+msgctxt "[\"js\"][\"LANG_TIP\"][\"de\"]"
+msgid "Wil je de taal van je voorkeur wijzigen in <strong> Deutsch </strong>?"
+msgstr "Wil je de taal van je voorkeur wijzigen in <strong> Deutsch </strong>?"
+
 msgctxt "[\"js\"][\"LANG_TIP\"][\"nl\"]"
 msgid "Wilt u uw voorkeurstaal naar <strong>Nederlands</strong> veranderen?"
 msgstr "Wilt u uw voorkeurstaal naar <strong>Nederlands</strong> veranderen?"
@@ -1518,6 +1586,10 @@ msgctxt "[\"js\"][\"LANG_IGNORE\"][\"it\"]"
 msgid "Ignorare"
 msgstr "Ignorare"
 
+msgctxt "[\"js\"][\"LANG_IGNORE\"][\"de\"]"
+msgid "Negeren"
+msgstr "Negeren"
+
 msgctxt "[\"js\"][\"LANG_IGNORE\"][\"nl\"]"
 msgid "Negeren"
 msgstr "Negeren"
@@ -1541,6 +1613,10 @@ msgstr "baik"
 msgctxt "[\"js\"][\"LANG_OK\"][\"it\"]"
 msgid "ok"
 msgstr "ok"
+
+msgctxt "[\"js\"][\"LANG_OK\"][\"de\"]"
+msgid "OK"
+msgstr "OK"
 
 msgctxt "[\"js\"][\"LANG_OK\"][\"nl\"]"
 msgid "OK"
@@ -1626,6 +1702,14 @@ msgctxt "[\"js\"][\"CANCEL\"]"
 msgid "Cancel"
 msgstr "Cancel"
 
+msgctxt "[\"js\"][\"YOUTUBE_URL\"]"
+msgid "Enter Youtube video URL"
+msgstr "Enter Youtube video URL"
+
+msgctxt "[\"js\"][\"YOUTUBE_URL_ERR\"]"
+msgid "Invalid URL: Please enter a valid YouTube video URL"
+msgstr "Invalid URL: Please enter a valid YouTube video URL"
+
 msgctxt "[\"js\"][\"USER-PASSWORD_NOT_MATCH\"]"
 msgid "Passwords do not match"
 msgstr "Passwords do not match"
@@ -1661,6 +1745,10 @@ msgstr "Deleted!"
 msgctxt "[\"js\"][\"COMMENT-ARE_YOU_SURE\"]"
 msgid "Are you sure?"
 msgstr "Are you sure?"
+
+msgctxt "[\"js\"][\"COMMENT-RATE_MUST\"]"
+msgid "Before writing a review or something, please rate the app first."
+msgstr "Before writing a review or something, please rate the app first."
 
 msgctxt "[\"js\"][\"COMMENT-VOTE\"]"
 msgid "Vote"

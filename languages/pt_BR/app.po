@@ -1,19 +1,3 @@
-msgid ""
-msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-04-04 10:10+0000\n"
-"PO-Revision-Date: 2018-05-04 10:13+0000\n"
-"Last-Translator: Igor Ferrare <ferrare42@gmail.com>\n"
-"Language-Team: Portuguese (Brazil) "
-"<https://translate.apkpure.com/projects/apkpure/apkpurecom/pt_BR/>\n"
-"Language: pt_BR\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 2.14.1\n"
-
 msgctxt "[\"NAV-GAME\"]"
 msgid "GAMES"
 msgstr "JOGOS"
@@ -52,7 +36,7 @@ msgstr "XAPK APLICATIVO"
 
 msgctxt "[\"NAV-APK_INSTALL\"]"
 msgid "APK Install"
-msgstr "Instalar Apk"
+msgstr "Instalar APK"
 
 msgctxt "[\"NAV-APK_DOWNLOAD\"]"
 msgid "APK Download"
@@ -306,6 +290,22 @@ msgctxt "[\"UPDATE\"]"
 msgid "Update"
 msgstr "Atualizar"
 
+msgctxt "[\"DEV-INCORRECT_PKG_EMAIL\"]"
+msgid "Invalid package name or email"
+msgstr "Invalid package name or email"
+
+msgctxt "[\"DEV-SEND_EMAIL_ERR\"]"
+msgid "Failed to send mail"
+msgstr "Failed to send mail"
+
+msgctxt "[\"DEV-PKG_EXISTS\"]"
+msgid "Application has been claimed"
+msgstr "Application has been claimed"
+
+msgctxt "[\"DETAIL\"]"
+msgid "Detail"
+msgstr "Detalhe"
+
 msgctxt "[\"DETAIL-MAIGHT_LIKE\"]"
 msgid "You Might Also Like"
 msgstr "Você pode gostar também"
@@ -526,6 +526,10 @@ msgctxt "[\"VERSION-REQUIRES_ANDROID\"]"
 msgid "Requires Android"
 msgstr "Requer Android"
 
+msgctxt "[\"COMMENT-REVIEW_OTHER_LANG\"]"
+msgid "There are {0} reviews in other languages"
+msgstr "There are {0} reviews in other languages"
+
 msgctxt "[\"COMMENT-ADD_NEW_DISCUSSION\"]"
 msgid "Add A New Discussion"
 msgstr "Adicionar uma nova discussão"
@@ -626,6 +630,10 @@ msgctxt "[\"COMMENT-SORT_BY_MOST_RECENT\"]"
 msgid "Most Recent"
 msgstr "Mais recente"
 
+msgctxt "[\"COMMENT-SORT_BY_MOST_SCORE\"]"
+msgid "Top rated"
+msgstr "Top rated"
+
 msgctxt "[\"COMMENT-SORT_BY_DEFAULT\"]"
 msgid "Sort by default"
 msgstr "Ordenar por padrão"
@@ -712,10 +720,7 @@ msgstr "Parâmetro de comentário inválido"
 
 msgctxt "[\"COMMENT-ERR_INVALID_USER\"]"
 msgid "You're banned from APKPure by using or posting content containing nudity images. Please edit or remove the images before contacting Admin to restore your account."
-msgstr ""
-"Você é banido do APKPure ao usar ou postar conteúdo que contenha imagens de "
-"nudez. Edite ou remova as imagens antes de entrar em contato com o "
-"administrador para restaurar sua conta."
+msgstr "Você é banido do APKPure ao usar ou postar conteúdo que contenha imagens de nudez. Edite ou remova as imagens antes de entrar em contato com o administrador para restaurar sua conta."
 
 msgctxt "[\"COMMENT-ERR_INVALID_VIDEO_URL\"]"
 msgid "Invalid Video URL"
@@ -744,6 +749,10 @@ msgstr "Carregando Comentário..."
 msgctxt "[\"COMMENT-DOWNLOAD_APK\"]"
 msgid "Download the APK file on APKPure."
 msgstr "Faça o download do arquivo APK no APKPure."
+
+msgctxt "[\"COMMENT-ERR_SHARE_APK_DENY\"]"
+msgid "This APP cannot be uploaded"
+msgstr "This APP cannot be uploaded"
 
 msgctxt "[\"PRE-REGISTER\"]"
 msgid "Pre-register"
@@ -784,6 +793,14 @@ msgstr "Curtidas"
 msgctxt "[\"USER-POSTS\"]"
 msgid "Posts"
 msgstr "Postagens"
+
+msgctxt "[\"USER-REVIEWS\"]"
+msgid "Reviews"
+msgstr "Reviews"
+
+msgctxt "[\"USER-REVIEWS_NONE\"]"
+msgid "Too few users ratings"
+msgstr "Too few users ratings"
 
 msgctxt "[\"USER-FAVORITES\"]"
 msgid "Favorites"
@@ -1011,7 +1028,7 @@ msgstr "Tamanho do arquivo"
 
 msgctxt "[\"SEARCH-ON_THE_APP_STORE\"]"
 msgid "{0} On the App Store"
-msgstr "{0} na App Store"
+msgstr "{0} On the App Store"
 
 msgctxt "[\"SEARCH-ADVANCED_SEARCH\"]"
 msgid "Advanced Search"
@@ -1189,6 +1206,10 @@ msgctxt "[\"FOOTER-DEVELOPER\"]"
 msgid "Submit Your App"
 msgstr "Desenvolvedores"
 
+msgctxt "[\"FOOTER-DEVELOPER_CONSOLE\"]"
+msgid "Developer Console"
+msgstr "Developer Console"
+
 msgctxt "[\"FOOTER-COOPERATION\"]"
 msgid "Business Cooperation"
 msgstr "Cooperação empresarial"
@@ -1275,9 +1296,7 @@ msgstr "Tente App APKPure - Baixe, atualização e instalar apks no seu Android.
 
 msgctxt "[\"MARKET-BOTTOM_BANNER_DETAIL_APK_DES\"]"
 msgid "Using APKPure App to upgrade <strong>{0}</strong>, fast, free and save your internet data."
-msgstr ""
-"Utilizar o APKPure para atualizar<strong>{0}</strong> , rápido, livre e "
-"salva seus dados da internet."
+msgstr "Utilizar o APKPure para atualizar<strong>{0}</strong> , rápido, livre e salvar seus dados de internet."
 
 msgctxt "[\"MARKET-BOTTOM_BANNER_DETAIL_APK_DES_TITLE\"]"
 msgid "Using APKPure App to upgrade {0}, fast, free and save your internet data."
@@ -1289,9 +1308,7 @@ msgstr "Usando APKPure App para atualizar <strong>{0}</strong>, instale xapk, r�
 
 msgctxt "[\"MARKET-BOTTOM_BANNER_DETAIL_XAPK_DES_TITLE\"]"
 msgid "Using APKPure App to upgrade {0}, install xapk, fast, free and save your internet data."
-msgstr ""
-"Usando o app APKPure para atualizar {0}, instale xapk, rápido, gratuito e "
-"salva seus dados da internet."
+msgstr "Usando APKPure App para atualizar {0}, instale xapk, rápido, gratuito e salvar seus dados de internet."
 
 msgctxt "[\"MARKET-BOTTOM_BANNER_DOWNLOAD_BTN\"]"
 msgid "Download APP"
@@ -1348,6 +1365,30 @@ msgstr "OOPS!,"
 msgctxt "[\"ERROR-SUBTITLE\"]"
 msgid "You can visit the following Games and Apps instead"
 msgstr "Você pode visitar os seguintes Jogos e Aplicativos em vez disso"
+
+msgctxt "[\"RECOMMENDED-POSTS\"]"
+msgid "Recommended Posts"
+msgstr "Recommended Posts"
+
+msgctxt "[\"USERS-RECOMMENDED\"]"
+msgid "User's Recommendation"
+msgstr "Usuários recomendados"
+
+msgctxt "[\"REVIEW_PRIVACY_POLICY_DES_M\"]"
+msgid "We encourage you to read our updated <a target='_blank' href='{pp}'>Privacy Policy</a> and <a target='_blank' href='{cp}'>Cookies Policy</a>."
+msgstr "We encourage you to read our updated <a target='_blank' href='{pp}'>Privacy Policy</a> and <a target='_blank' href='{cp}'>Cookies Policy</a>."
+
+msgctxt "[\"REVIEW_PRIVACY_POLICY_DES\"]"
+msgid "We use cookies and other technologies on this website to enhance your user experience.<br> By clicking any link on this page you are giving your consent to our <a target='_blank' href='{pp}'>Privacy Policy</a> and <a target='_blank' href='{cp}'>Cookies Policy</a>."
+msgstr "We use cookies and other technologies on this website to enhance your user experience.<br> By clicking any link on this page you are giving your consent to our <a target='_blank' href='{pp}'>Privacy Policy</a> and <a target='_blank' href='{cp}'>Cookies Policy</a>."
+
+msgctxt "[\"REVIEW_PRIVACY_POLICY_BTN\"]"
+msgid "Ok I Agree"
+msgstr "Ok I Agree"
+
+msgctxt "[\"REVIEW_PRIVACY_POLICY_MORE\"]"
+msgid "Learn More"
+msgstr "Learn More"
 
 msgctxt "[\"MARKET-TOP_COUNTRY\"][\"en-US\"]"
 msgid "USA"
@@ -1499,63 +1540,67 @@ msgstr "Baixe APK"
 
 msgctxt "[\"js\"][\"LANG_TIP\"][\"pl\"]"
 msgid "Czy chcesz zmienić język preferencji na <strong> Polski </strong>?"
-msgstr ""
-"Você quer mudar o idioma de preferência para <strong> Polonês </strong>?"
+msgstr "Czy chcesz zmienić język preferencji na <strong> Polski </strong>?"
 
 msgctxt "[\"js\"][\"LANG_TIP\"][\"es\"]"
 msgid "¿Quiere cambiar su idioma de preferencia a <strong>español</strong>?"
-msgstr ""
-"Você quer mudar sua preferência de idioma para <strong>Espanhol</strong>?"
+msgstr "¿Quiere cambiar su idioma de preferencia a <strong>español</strong>?"
 
 msgctxt "[\"js\"][\"LANG_TIP\"][\"ru\"]"
 msgid "Вы хотите изменить язык предпочтений на <strong>русский</strong>?"
-msgstr "Você quer mudar o idioma de preferência para <strong>Russo</strong>?"
+msgstr "Вы хотите изменить язык предпочтений на <strong>русский</strong>?"
 
 msgctxt "[\"js\"][\"LANG_TIP\"][\"id\"]"
 msgid "Apakah Anda ingin mengubah bahasa pilihan Anda <strong>ke bahasa Indonesia</strong>?"
-msgstr ""
-"Você quer mudar o idioma de sua escolha para idioma <strong> "
-"Indonésio</strong>?"
+msgstr "Apakah Anda ingin mengubah bahasa pilihan Anda <strong>ke bahasa Indonesia</strong>?"
 
 msgctxt "[\"js\"][\"LANG_TIP\"][\"it\"]"
 msgid "Vuoi cambiare la tua lingua preferenziale in <strong>italiano</strong>?"
-msgstr "Quer mudar sua linguagem preferencial para <strong>Italiano</strong>?"
+msgstr "Vuoi cambiare la tua lingua preferenziale in <strong>italiano</strong>?"
+
+msgctxt "[\"js\"][\"LANG_TIP\"][\"de\"]"
+msgid "Wil je de taal van je voorkeur wijzigen in <strong> Deutsch </strong>?"
+msgstr "Wil je de taal van je voorkeur wijzigen in <strong> Deutsch </strong>?"
 
 msgctxt "[\"js\"][\"LANG_TIP\"][\"nl\"]"
 msgid "Wilt u uw voorkeurstaal naar <strong>Nederlands</strong> veranderen?"
-msgstr "Você quer que seu idioma preferencial para <strong>Dutch</strong>?"
+msgstr "Wilt u uw voorkeurstaal naar <strong>Nederlands</strong> veranderen?"
 
 msgctxt "[\"js\"][\"LANG_IGNORE\"][\"pl\"]"
 msgid "Ignorować"
-msgstr "ignorar"
+msgstr "Ignorować"
 
 msgctxt "[\"js\"][\"LANG_IGNORE\"][\"es\"]"
 msgid "Ignorar"
-msgstr "ignorar"
+msgstr "Ignorar"
 
 msgctxt "[\"js\"][\"LANG_IGNORE\"][\"ru\"]"
 msgid "игнорировать"
-msgstr "Ignorar"
+msgstr "игнорировать"
 
 msgctxt "[\"js\"][\"LANG_IGNORE\"][\"id\"]"
 msgid "Mengabaikan"
-msgstr "Ignorar"
+msgstr "Mengabaikan"
 
 msgctxt "[\"js\"][\"LANG_IGNORE\"][\"it\"]"
 msgid "Ignorare"
-msgstr "Ignorar"
+msgstr "Ignorare"
+
+msgctxt "[\"js\"][\"LANG_IGNORE\"][\"de\"]"
+msgid "Negeren"
+msgstr "Negeren"
 
 msgctxt "[\"js\"][\"LANG_IGNORE\"][\"nl\"]"
 msgid "Negeren"
-msgstr "Ignorar"
+msgstr "Negeren"
 
 msgctxt "[\"js\"][\"LANG_OK\"][\"pl\"]"
 msgid "ok"
-msgstr "Ok"
+msgstr "ok"
 
 msgctxt "[\"js\"][\"LANG_OK\"][\"es\"]"
 msgid "DE ACUERDO"
-msgstr "De acordo"
+msgstr "DE ACUERDO"
 
 msgctxt "[\"js\"][\"LANG_OK\"][\"ru\"]"
 msgid "ОК"
@@ -1563,11 +1608,15 @@ msgstr "ОК"
 
 msgctxt "[\"js\"][\"LANG_OK\"][\"id\"]"
 msgid "baik"
-msgstr "Ok"
+msgstr "baik"
 
 msgctxt "[\"js\"][\"LANG_OK\"][\"it\"]"
 msgid "ok"
-msgstr "Ok"
+msgstr "ok"
+
+msgctxt "[\"js\"][\"LANG_OK\"][\"de\"]"
+msgid "OK"
+msgstr "OK"
 
 msgctxt "[\"js\"][\"LANG_OK\"][\"nl\"]"
 msgid "OK"
@@ -1653,6 +1702,14 @@ msgctxt "[\"js\"][\"CANCEL\"]"
 msgid "Cancel"
 msgstr "Cancelar"
 
+msgctxt "[\"js\"][\"YOUTUBE_URL\"]"
+msgid "Enter Youtube video URL"
+msgstr "Enter Youtube video URL"
+
+msgctxt "[\"js\"][\"YOUTUBE_URL_ERR\"]"
+msgid "Invalid URL: Please enter a valid YouTube video URL"
+msgstr "Invalid URL: Please enter a valid YouTube video URL"
+
 msgctxt "[\"js\"][\"USER-PASSWORD_NOT_MATCH\"]"
 msgid "Passwords do not match"
 msgstr "As senhas não correspondem"
@@ -1688,6 +1745,10 @@ msgstr "Excluído!"
 msgctxt "[\"js\"][\"COMMENT-ARE_YOU_SURE\"]"
 msgid "Are you sure?"
 msgstr "Tem certeza?"
+
+msgctxt "[\"js\"][\"COMMENT-RATE_MUST\"]"
+msgid "Before writing a review or something, please rate the app first."
+msgstr "Before writing a review or something, please rate the app first."
 
 msgctxt "[\"js\"][\"COMMENT-VOTE\"]"
 msgid "Vote"
@@ -1879,8 +1940,7 @@ msgstr "Pesquisar {add_trending}"
 
 msgctxt "[\"meta\"][\"Search_hot\"][\"description\"]"
 msgid "Discover Android games free download on APKPure Android App Store."
-msgstr ""
-"Descubra downloads gratuitos de jogos Android na APKPure App Store Android."
+msgstr "Descubra downloads gratuito de jogos Android na APKPure App Store Android."
 
 msgctxt "[\"meta\"][\"New\"][\"title\"]"
 msgid "Download the latest {0} APK | APKPure.com"

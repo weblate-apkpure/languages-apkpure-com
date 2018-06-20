@@ -290,6 +290,22 @@ msgctxt "[\"UPDATE\"]"
 msgid "Update"
 msgstr "更新"
 
+msgctxt "[\"DEV-INCORRECT_PKG_EMAIL\"]"
+msgid "Invalid package name or email"
+msgstr "不正確的包名或郵箱"
+
+msgctxt "[\"DEV-SEND_EMAIL_ERR\"]"
+msgid "Failed to send mail"
+msgstr "發送郵件失敗"
+
+msgctxt "[\"DEV-PKG_EXISTS\"]"
+msgid "Application has been claimed"
+msgstr "應用已被認領"
+
+msgctxt "[\"DETAIL\"]"
+msgid "Detail"
+msgstr "詳情"
+
 msgctxt "[\"DETAIL-MAIGHT_LIKE\"]"
 msgid "You Might Also Like"
 msgstr "你可能喜歡的應用程式"
@@ -510,6 +526,10 @@ msgctxt "[\"VERSION-REQUIRES_ANDROID\"]"
 msgid "Requires Android"
 msgstr "Android 最低版本需求"
 
+msgctxt "[\"COMMENT-REVIEW_OTHER_LANG\"]"
+msgid "There are {0} reviews in other languages"
+msgstr "在其他語言中有{0}評價"
+
 msgctxt "[\"COMMENT-ADD_NEW_DISCUSSION\"]"
 msgid "Add A New Discussion"
 msgstr "添加新的討論"
@@ -609,6 +629,10 @@ msgstr "按熱門排序"
 msgctxt "[\"COMMENT-SORT_BY_MOST_RECENT\"]"
 msgid "Most Recent"
 msgstr "最新回复"
+
+msgctxt "[\"COMMENT-SORT_BY_MOST_SCORE\"]"
+msgid "Top rated"
+msgstr "最高评分"
 
 msgctxt "[\"COMMENT-SORT_BY_DEFAULT\"]"
 msgid "Sort by default"
@@ -726,6 +750,10 @@ msgctxt "[\"COMMENT-DOWNLOAD_APK\"]"
 msgid "Download the APK file on APKPure."
 msgstr "去 APKPure APP 下載文件。"
 
+msgctxt "[\"COMMENT-ERR_SHARE_APK_DENY\"]"
+msgid "This APP cannot be uploaded"
+msgstr "此應用無法上傳"
+
 msgctxt "[\"PRE-REGISTER\"]"
 msgid "Pre-register"
 msgstr "預註冊"
@@ -765,6 +793,14 @@ msgstr "獲贊"
 msgctxt "[\"USER-POSTS\"]"
 msgid "Posts"
 msgstr "評論"
+
+msgctxt "[\"USER-REVIEWS\"]"
+msgid "Reviews"
+msgstr "評價"
+
+msgctxt "[\"USER-REVIEWS_NONE\"]"
+msgid "Too few users ratings"
+msgstr "用戶評分過少"
 
 msgctxt "[\"USER-FAVORITES\"]"
 msgid "Favorites"
@@ -1170,6 +1206,10 @@ msgctxt "[\"FOOTER-DEVELOPER\"]"
 msgid "Submit Your App"
 msgstr "提交應用"
 
+msgctxt "[\"FOOTER-DEVELOPER_CONSOLE\"]"
+msgid "Developer Console"
+msgstr "開發者平台"
+
 msgctxt "[\"FOOTER-COOPERATION\"]"
 msgid "Business Cooperation"
 msgstr "商務合作"
@@ -1325,6 +1365,30 @@ msgstr ":("
 msgctxt "[\"ERROR-SUBTITLE\"]"
 msgid "You can visit the following Games and Apps instead"
 msgstr "試試搜索其他安卓應用，或者看看大家在下載什麼。"
+
+msgctxt "[\"RECOMMENDED-POSTS\"]"
+msgid "Recommended Posts"
+msgstr "評論推薦"
+
+msgctxt "[\"USERS-RECOMMENDED\"]"
+msgid "User's Recommendation"
+msgstr "用戶推薦"
+
+msgctxt "[\"REVIEW_PRIVACY_POLICY_DES_M\"]"
+msgid "We encourage you to read our updated <a target='_blank' href='{pp}'>Privacy Policy</a> and <a target='_blank' href='{cp}'>Cookies Policy</a>."
+msgstr "We encourage you to read our updated <a target='_blank' href='{pp}'>Privacy Policy</a> and <a target='_blank' href='{cp}'>Cookies Policy</a>."
+
+msgctxt "[\"REVIEW_PRIVACY_POLICY_DES\"]"
+msgid "We use cookies and other technologies on this website to enhance your user experience.<br> By clicking any link on this page you are giving your consent to our <a target='_blank' href='{pp}'>Privacy Policy</a> and <a target='_blank' href='{cp}'>Cookies Policy</a>."
+msgstr "We use cookies and other technologies on this website to enhance your user experience.<br> By clicking any link on this page you are giving your consent to our <a target='_blank' href='{pp}'>Privacy Policy</a> and <a target='_blank' href='{cp}'>Cookies Policy</a>."
+
+msgctxt "[\"REVIEW_PRIVACY_POLICY_BTN\"]"
+msgid "Ok I Agree"
+msgstr "Ok I Agree"
+
+msgctxt "[\"REVIEW_PRIVACY_POLICY_MORE\"]"
+msgid "Learn More"
+msgstr "Learn More"
 
 msgctxt "[\"MARKET-TOP_COUNTRY\"][\"en-US\"]"
 msgid "USA"
@@ -1494,6 +1558,10 @@ msgctxt "[\"js\"][\"LANG_TIP\"][\"it\"]"
 msgid "Vuoi cambiare la tua lingua preferenziale in <strong>italiano</strong>?"
 msgstr "Vuoi cambiare la tua lingua preferenziale in <strong>italiano</strong>?"
 
+msgctxt "[\"js\"][\"LANG_TIP\"][\"de\"]"
+msgid "Wil je de taal van je voorkeur wijzigen in <strong> Deutsch </strong>?"
+msgstr "Wil je de taal van je voorkeur wijzigen in <strong> Deutsch </strong>?"
+
 msgctxt "[\"js\"][\"LANG_TIP\"][\"nl\"]"
 msgid "Wilt u uw voorkeurstaal naar <strong>Nederlands</strong> veranderen?"
 msgstr "Wilt u uw voorkeurstaal naar <strong>Nederlands</strong> veranderen?"
@@ -1518,6 +1586,10 @@ msgctxt "[\"js\"][\"LANG_IGNORE\"][\"it\"]"
 msgid "Ignorare"
 msgstr "Ignorare"
 
+msgctxt "[\"js\"][\"LANG_IGNORE\"][\"de\"]"
+msgid "Negeren"
+msgstr "Negeren"
+
 msgctxt "[\"js\"][\"LANG_IGNORE\"][\"nl\"]"
 msgid "Negeren"
 msgstr "Negeren"
@@ -1541,6 +1613,10 @@ msgstr "baik"
 msgctxt "[\"js\"][\"LANG_OK\"][\"it\"]"
 msgid "ok"
 msgstr "ok"
+
+msgctxt "[\"js\"][\"LANG_OK\"][\"de\"]"
+msgid "OK"
+msgstr "OK"
 
 msgctxt "[\"js\"][\"LANG_OK\"][\"nl\"]"
 msgid "OK"
@@ -1626,6 +1702,14 @@ msgctxt "[\"js\"][\"CANCEL\"]"
 msgid "Cancel"
 msgstr "取消"
 
+msgctxt "[\"js\"][\"YOUTUBE_URL\"]"
+msgid "Enter Youtube video URL"
+msgstr "添加Youtube視頻鏈接"
+
+msgctxt "[\"js\"][\"YOUTUBE_URL_ERR\"]"
+msgid "Invalid URL: Please enter a valid YouTube video URL"
+msgstr "無效的鏈接：請輸入有效的Youtube視頻鏈接"
+
 msgctxt "[\"js\"][\"USER-PASSWORD_NOT_MATCH\"]"
 msgid "Passwords do not match"
 msgstr "密碼不匹配"
@@ -1661,6 +1745,10 @@ msgstr "已刪除！"
 msgctxt "[\"js\"][\"COMMENT-ARE_YOU_SURE\"]"
 msgid "Are you sure?"
 msgstr "你確定？"
+
+msgctxt "[\"js\"][\"COMMENT-RATE_MUST\"]"
+msgid "Before writing a review or something, please rate the app first."
+msgstr "發表評價前，請先評星！"
 
 msgctxt "[\"js\"][\"COMMENT-VOTE\"]"
 msgid "Vote"
