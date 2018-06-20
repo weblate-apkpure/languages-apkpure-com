@@ -1,19 +1,3 @@
-msgid ""
-msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-05-22 07:31+0000\n"
-"PO-Revision-Date: 2018-05-31 04:00+0000\n"
-"Last-Translator: tatsu u <utatsu716@gmail.com>\n"
-"Language-Team: Japanese <https://translate.apkpure.com/projects/apkpure/"
-"apkpurecom/ja/>\n"
-"Language: ja\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 2.20\n"
-
 msgctxt "[\"NAV-GAME\"]"
 msgid "GAMES"
 msgstr "ゲーム"
@@ -52,7 +36,7 @@ msgstr "XAPK アプリ"
 
 msgctxt "[\"NAV-APK_INSTALL\"]"
 msgid "APK Install"
-msgstr "APKのインストール"
+msgstr "APKをインストール"
 
 msgctxt "[\"NAV-APK_DOWNLOAD\"]"
 msgid "APK Download"
@@ -306,6 +290,22 @@ msgctxt "[\"UPDATE\"]"
 msgid "Update"
 msgstr "アップデート"
 
+msgctxt "[\"DEV-INCORRECT_PKG_EMAIL\"]"
+msgid "Invalid package name or email"
+msgstr "Invalid package name or email"
+
+msgctxt "[\"DEV-SEND_EMAIL_ERR\"]"
+msgid "Failed to send mail"
+msgstr "Failed to send mail"
+
+msgctxt "[\"DEV-PKG_EXISTS\"]"
+msgid "Application has been claimed"
+msgstr "Application has been claimed"
+
+msgctxt "[\"DETAIL\"]"
+msgid "Detail"
+msgstr "Dettaglio"
+
 msgctxt "[\"DETAIL-MAIGHT_LIKE\"]"
 msgid "You Might Also Like"
 msgstr "あなたも好きかもしれない"
@@ -526,6 +526,10 @@ msgctxt "[\"VERSION-REQUIRES_ANDROID\"]"
 msgid "Requires Android"
 msgstr "アンドロイド向け"
 
+msgctxt "[\"COMMENT-REVIEW_OTHER_LANG\"]"
+msgid "There are {0} reviews in other languages"
+msgstr "There are {0} reviews in other languages"
+
 msgctxt "[\"COMMENT-ADD_NEW_DISCUSSION\"]"
 msgid "Add A New Discussion"
 msgstr "新しいディスカッションを追加"
@@ -626,6 +630,10 @@ msgctxt "[\"COMMENT-SORT_BY_MOST_RECENT\"]"
 msgid "Most Recent"
 msgstr "新しい順"
 
+msgctxt "[\"COMMENT-SORT_BY_MOST_SCORE\"]"
+msgid "Top rated"
+msgstr "Top rated"
+
 msgctxt "[\"COMMENT-SORT_BY_DEFAULT\"]"
 msgid "Sort by default"
 msgstr "デフォルトの並び順"
@@ -712,9 +720,7 @@ msgstr "無効なコメントパラメーターの数"
 
 msgctxt "[\"COMMENT-ERR_INVALID_USER\"]"
 msgid "You're banned from APKPure by using or posting content containing nudity images. Please edit or remove the images before contacting Admin to restore your account."
-msgstr ""
-"ヌード画像を含むコンテンツを使用したり投稿したりすることによって、APKPureの使用を禁止されています。管理者に連絡してアカウントを復元する前に画像を編"
-"集または削除してください。"
+msgstr "ヌード画像を含むコンテンツを使用したり投稿したりすることによって、APKPureの使用を禁止されています。管理者に連絡してアカウントを復元する前に画像を編集または削除してください。"
 
 msgctxt "[\"COMMENT-ERR_INVALID_VIDEO_URL\"]"
 msgid "Invalid Video URL"
@@ -744,17 +750,21 @@ msgctxt "[\"COMMENT-DOWNLOAD_APK\"]"
 msgid "Download the APK file on APKPure."
 msgstr "APKPureでAPKファイルをダウンロードします。"
 
+msgctxt "[\"COMMENT-ERR_SHARE_APK_DENY\"]"
+msgid "This APP cannot be uploaded"
+msgstr "This APP cannot be uploaded"
+
 msgctxt "[\"PRE-REGISTER\"]"
 msgid "Pre-register"
-msgstr "事前登録"
+msgstr "Pre-register"
 
 msgctxt "[\"PRE-REGISTRANTS\"]"
 msgid "Pre-registrants"
-msgstr "事前登録者"
+msgstr "Pre-registrants"
 
 msgctxt "[\"PRE-REGISTER_DETAILS\"]"
 msgid "Pre-register Details"
-msgstr "事前登録の詳細"
+msgstr "Pre-register Details"
 
 msgctxt "[\"PRE-REGISTER_DATE\"]"
 msgid "Release Date"
@@ -762,19 +772,19 @@ msgstr "発売日"
 
 msgctxt "[\"PRE-REGISTER_REWARDS\"]"
 msgid "Register Rewards"
-msgstr "登録報酬"
+msgstr "Register Rewards"
 
 msgctxt "[\"PRE-REGISTER_PAGE\"]"
 msgid "Pre-register Page"
-msgstr "事前登録ページ"
+msgstr "Pre-register Page"
 
 msgctxt "[\"USER-FOLLOWING\"]"
 msgid "Following"
-msgstr "フォロー中"
+msgstr "Following"
 
 msgctxt "[\"USER-FOLLOWER\"]"
 msgid "Follower"
-msgstr "フォロワー"
+msgstr "Follower"
 
 msgctxt "[\"USER-LIKES\"]"
 msgid "Likes"
@@ -784,13 +794,21 @@ msgctxt "[\"USER-POSTS\"]"
 msgid "Posts"
 msgstr "Posts"
 
+msgctxt "[\"USER-REVIEWS\"]"
+msgid "Reviews"
+msgstr "Reviews"
+
+msgctxt "[\"USER-REVIEWS_NONE\"]"
+msgid "Too few users ratings"
+msgstr "Too few users ratings"
+
 msgctxt "[\"USER-FAVORITES\"]"
 msgid "Favorites"
-msgstr "お気に入り"
+msgstr "Favorites"
 
 msgctxt "[\"USER-REPLIES\"]"
 msgid "Replies"
-msgstr "返信"
+msgstr "Replies"
 
 msgctxt "[\"USER-PROFILE\"]"
 msgid "Profile"
@@ -1102,7 +1120,7 @@ msgstr "APKダウンローダー（地域制限解除）"
 
 msgctxt "[\"FOOTER-APK_INSTALL\"]"
 msgid "APK Install"
-msgstr "APKをインストール"
+msgstr "APKのインストール"
 
 msgctxt "[\"FOOTER-APK_SIGNATURE_VERIFICATION\"]"
 msgid "APK Signature Verification"
@@ -1187,6 +1205,10 @@ msgstr "APKPureの翻訳を手伝う"
 msgctxt "[\"FOOTER-DEVELOPER\"]"
 msgid "Submit Your App"
 msgstr "あなたのAppを提出する"
+
+msgctxt "[\"FOOTER-DEVELOPER_CONSOLE\"]"
+msgid "Developer Console"
+msgstr "Developer Console"
 
 msgctxt "[\"FOOTER-COOPERATION\"]"
 msgid "Business Cooperation"
@@ -1344,6 +1366,30 @@ msgctxt "[\"ERROR-SUBTITLE\"]"
 msgid "You can visit the following Games and Apps instead"
 msgstr "ほかのゲームとApps を探してみて、あるいは人気ゲームとAppsを探す"
 
+msgctxt "[\"RECOMMENDED-POSTS\"]"
+msgid "Recommended Posts"
+msgstr "Recommended Posts"
+
+msgctxt "[\"USERS-RECOMMENDED\"]"
+msgid "User's Recommendation"
+msgstr "User's Recommendation"
+
+msgctxt "[\"REVIEW_PRIVACY_POLICY_DES_M\"]"
+msgid "We encourage you to read our updated <a target='_blank' href='{pp}'>Privacy Policy</a> and <a target='_blank' href='{cp}'>Cookies Policy</a>."
+msgstr "We encourage you to read our updated <a target='_blank' href='{pp}'>Privacy Policy</a> and <a target='_blank' href='{cp}'>Cookies Policy</a>."
+
+msgctxt "[\"REVIEW_PRIVACY_POLICY_DES\"]"
+msgid "We use cookies and other technologies on this website to enhance your user experience.<br> By clicking any link on this page you are giving your consent to our <a target='_blank' href='{pp}'>Privacy Policy</a> and <a target='_blank' href='{cp}'>Cookies Policy</a>."
+msgstr "We use cookies and other technologies on this website to enhance your user experience.<br> By clicking any link on this page you are giving your consent to our <a target='_blank' href='{pp}'>Privacy Policy</a> and <a target='_blank' href='{cp}'>Cookies Policy</a>."
+
+msgctxt "[\"REVIEW_PRIVACY_POLICY_BTN\"]"
+msgid "Ok I Agree"
+msgstr "Ok I Agree"
+
+msgctxt "[\"REVIEW_PRIVACY_POLICY_MORE\"]"
+msgid "Learn More"
+msgstr "Learn More"
+
 msgctxt "[\"MARKET-TOP_COUNTRY\"][\"en-US\"]"
 msgid "USA"
 msgstr "米国"
@@ -1494,51 +1540,59 @@ msgstr "APKをダウンロード"
 
 msgctxt "[\"js\"][\"LANG_TIP\"][\"pl\"]"
 msgid "Czy chcesz zmienić język preferencji na <strong> Polski </strong>?"
-msgstr ""
+msgstr "Czy chcesz zmienić język preferencji na <strong> Polski </strong>?"
 
 msgctxt "[\"js\"][\"LANG_TIP\"][\"es\"]"
 msgid "¿Quiere cambiar su idioma de preferencia a <strong>español</strong>?"
-msgstr ""
+msgstr "¿Quiere cambiar su idioma de preferencia a <strong>español</strong>?"
 
 msgctxt "[\"js\"][\"LANG_TIP\"][\"ru\"]"
 msgid "Вы хотите изменить язык предпочтений на <strong>русский</strong>?"
-msgstr ""
+msgstr "Вы хотите изменить язык предпочтений на <strong>русский</strong>?"
 
 msgctxt "[\"js\"][\"LANG_TIP\"][\"id\"]"
 msgid "Apakah Anda ingin mengubah bahasa pilihan Anda <strong>ke bahasa Indonesia</strong>?"
-msgstr ""
+msgstr "Apakah Anda ingin mengubah bahasa pilihan Anda <strong>ke bahasa Indonesia</strong>?"
 
 msgctxt "[\"js\"][\"LANG_TIP\"][\"it\"]"
 msgid "Vuoi cambiare la tua lingua preferenziale in <strong>italiano</strong>?"
-msgstr ""
+msgstr "Vuoi cambiare la tua lingua preferenziale in <strong>italiano</strong>?"
+
+msgctxt "[\"js\"][\"LANG_TIP\"][\"de\"]"
+msgid "Wil je de taal van je voorkeur wijzigen in <strong> Deutsch </strong>?"
+msgstr "Wil je de taal van je voorkeur wijzigen in <strong> Deutsch </strong>?"
 
 msgctxt "[\"js\"][\"LANG_TIP\"][\"nl\"]"
 msgid "Wilt u uw voorkeurstaal naar <strong>Nederlands</strong> veranderen?"
-msgstr ""
+msgstr "Wilt u uw voorkeurstaal naar <strong>Nederlands</strong> veranderen?"
 
 msgctxt "[\"js\"][\"LANG_IGNORE\"][\"pl\"]"
 msgid "Ignorować"
-msgstr ""
+msgstr "Ignorować"
 
 msgctxt "[\"js\"][\"LANG_IGNORE\"][\"es\"]"
 msgid "Ignorar"
-msgstr ""
+msgstr "Ignorar"
 
 msgctxt "[\"js\"][\"LANG_IGNORE\"][\"ru\"]"
 msgid "игнорировать"
-msgstr ""
+msgstr "игнорировать"
 
 msgctxt "[\"js\"][\"LANG_IGNORE\"][\"id\"]"
 msgid "Mengabaikan"
-msgstr ""
+msgstr "Mengabaikan"
 
 msgctxt "[\"js\"][\"LANG_IGNORE\"][\"it\"]"
 msgid "Ignorare"
-msgstr ""
+msgstr "Ignorare"
+
+msgctxt "[\"js\"][\"LANG_IGNORE\"][\"de\"]"
+msgid "Negeren"
+msgstr "Negeren"
 
 msgctxt "[\"js\"][\"LANG_IGNORE\"][\"nl\"]"
 msgid "Negeren"
-msgstr ""
+msgstr "Negeren"
 
 msgctxt "[\"js\"][\"LANG_OK\"][\"pl\"]"
 msgid "ok"
@@ -1554,11 +1608,15 @@ msgstr "ОК"
 
 msgctxt "[\"js\"][\"LANG_OK\"][\"id\"]"
 msgid "baik"
-msgstr ""
+msgstr "baik"
 
 msgctxt "[\"js\"][\"LANG_OK\"][\"it\"]"
 msgid "ok"
 msgstr "ok"
+
+msgctxt "[\"js\"][\"LANG_OK\"][\"de\"]"
+msgid "OK"
+msgstr "OK"
 
 msgctxt "[\"js\"][\"LANG_OK\"][\"nl\"]"
 msgid "OK"
@@ -1566,7 +1624,7 @@ msgstr "OK"
 
 msgctxt "[\"js\"][\"SIGN_VERIFY-OFFICIAL\"]"
 msgid "[Official] This {0} APK is the unmodified official version."
-msgstr "[公式版]  この{0}  APK は、未変更の公式バージョンです。"
+msgstr "[公式版]  {0} APKは公式版です。"
 
 msgctxt "[\"js\"][\"SIGN_VERIFY-NOT_TRUSTED\"]"
 msgid "[Not Trusted] This {0} APK is a modified version, we don't recommend installing it."
@@ -1644,6 +1702,14 @@ msgctxt "[\"js\"][\"CANCEL\"]"
 msgid "Cancel"
 msgstr "キャンセル"
 
+msgctxt "[\"js\"][\"YOUTUBE_URL\"]"
+msgid "Enter Youtube video URL"
+msgstr "Enter Youtube video URL"
+
+msgctxt "[\"js\"][\"YOUTUBE_URL_ERR\"]"
+msgid "Invalid URL: Please enter a valid YouTube video URL"
+msgstr "Invalid URL: Please enter a valid YouTube video URL"
+
 msgctxt "[\"js\"][\"USER-PASSWORD_NOT_MATCH\"]"
 msgid "Passwords do not match"
 msgstr "パスワードが一致しません"
@@ -1679,6 +1745,10 @@ msgstr "削除済み！"
 msgctxt "[\"js\"][\"COMMENT-ARE_YOU_SURE\"]"
 msgid "Are you sure?"
 msgstr "削除しますか？"
+
+msgctxt "[\"js\"][\"COMMENT-RATE_MUST\"]"
+msgid "Before writing a review or something, please rate the app first."
+msgstr "Before writing a review or something, please rate the app first."
 
 msgctxt "[\"js\"][\"COMMENT-VOTE\"]"
 msgid "Vote"
@@ -2014,18 +2084,15 @@ msgstr "登録する、新規会員、アカウント、登録"
 
 msgctxt "[\"meta\"][\"Register\"][\"description\"]"
 msgid "To join community group or vote on APKPure App Store, you must be registered. Register your APKPure account today!"
-msgstr ""
-"コミュニティグループに参加したり、APKPureアプリストアに投票するには、登録する必要があります。 今すぐAPKPureアカウントを登録してください！"
+msgstr "コミュニティグループに参加したり、APKPureアプリストアに投票するには、登録する必要があります。 今すぐAPKPureアカウントを登録してください！"
 
 msgctxt "[\"meta\"][\"Group\"][\"title\"]"
 msgid "{app_name} {app_type} Discussion Group | APKPure Groups"
-msgstr "{app_name} {app_type}ディスカッショングループ| APKPureグループ"
+msgstr "{app_name} {app_type} ディスカッショングループ| APKPureグループ"
 
 msgctxt "[\"meta\"][\"Group\"][\"keywords\"]"
 msgid "{app_name} group, {app_short_name} community, {app_name} forum, about {app_short_name}, {app_type} discussions"
-msgstr ""
-"{app_name}グループ、{app_short_name}コミュニティ、{app_name}フォーラム、{app_short_name}について、{a"
-"pp_type}ディスカッション"
+msgstr "{app_name} グループ、 {app_short_name} コミュニティ、 {app_name} フォーラム、 {app_short_name} について、 {app_type} ディスカッション"
 
 msgctxt "[\"meta\"][\"Group\"][\"description_game\"]"
 msgid "Online discussions to share {app_name} tips, tricks and cheats. {app_short_description}"
@@ -2033,28 +2100,24 @@ msgstr "{app_name}のヒント、トリックや攻略を共有するオンラ�
 
 msgctxt "[\"meta\"][\"Group\"][\"description_app\"]"
 msgid "{app_name} group gathers most Android expert users, who like to share experience on how to use {app_short_name} and give {app_short_name} useful app reviews."
-msgstr ""
-"{app_name} グループは、{app_short_name} の使用方法についての経験を共有し、{app_short_name} "
-"便利なアプリレビューを提供する、ほとんどの Android エキスパートユーザーを集めています。"
+msgstr "{app_name} グループは、{app_short_name} の使用方法についての経験を共有し、{app_short_name} 便利なアプリレビューを提供する、ほとんどの Android エキスパートユーザーを集めています。"
 
 msgctxt "[\"meta\"][\"Invit\"][\"title\"]"
 msgid "{user_name} add a post under {app_name} Discussion Group | APKPure Group"
-msgstr ""
+msgstr "{user_name} add a post under {app_name} Discussion Group | APKPure Group"
 
 msgctxt "[\"meta\"][\"Invit\"][\"description\"]"
 msgid "View all {user_name}'s comments and posts on APKPure {app_type} discussion group. Join now to connect with {user_name}."
-msgstr ""
+msgstr "View all {user_name}'s comments and posts on APKPure {app_type} discussion group. Join now to connect with {user_name}."
 
 msgctxt "[\"meta\"][\"Invit\"][\"title_title\"]"
 msgid "{title} {app_type} Discussions | {app_name} Group"
-msgstr "{title} {app_type}ディスカッション| {app_name}グループ"
+msgstr "{title} {app_type} ディスカッション | {app_name} グループ"
 
 msgctxt "[\"meta\"][\"Invit\"][\"description_title\"]"
 msgid "\"{post_details}\" sent by {user_name} in {app_name} {app_type} Discussions."
-msgstr "{app_name} {app_type}ディスカッションで{user_name}によって送信された \"{post_details}\"。"
+msgstr "{app_name} {app_type} ディスカッションで {user_name} によって送信された \"{post_details}\"。"
 
 msgctxt "[\"meta\"][\"Invit\"][\"keywords\"]"
 msgid "group, {app_name}, {app_category}, {app_type}, {app_developer}, {app_short_name} community"
-msgstr ""
-"グループ、{app_name}、{app_category}、{app_type}、{app_developer}、{app_short_name}コミュ"
-"ニティ"
+msgstr "グループ、 {app_name}, {app_category}, {app_type}, {app_developer}, {app_short_name} コミュニティ"
