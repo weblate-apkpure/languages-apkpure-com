@@ -4,7 +4,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-03-22 06:56+0000\n"
 "PO-Revision-Date: 2018-06-23 03:24+0000\n"
-"Last-Translator: Batuhan Gindeközü <bthngndkz@gmail.com>\n"
+"Last-Translator: Harun BAYRAK <harunbayrak961@gmail.com>\n"
 "Language-Team: Turkish <https://translate.apkpure.com/projects/apkpure/"
 "apkpurecom/tr/>\n"
 "Language: tr\n"
@@ -1644,10 +1644,9 @@ msgctxt "[\"meta\"][\"Details_download\"][\"keywords\"]"
 msgid "{app_name} apk, {app_name} apk download, {app_name} download"
 msgstr "{app_name} apk, {app_name} apk indir, {app_name} indir"
 
-#, fuzzy
 msgctxt "[\"meta\"][\"Details_download\"][\"description\"]"
 msgid "{app_name} {version_name} APK Download"
-msgstr "{uygulama_adı} {versiyon_adı} APK İndir"
+msgstr "{app_name} {version_name} APK İndirme"
 
 msgctxt "[\"meta\"][\"Download\"][\"description\"]"
 msgid "download free apps APK for Android phone and tablet."
@@ -2244,7 +2243,7 @@ msgstr "{0} Ekran Görüntüsü {1}"
 
 msgctxt "[\"meta\"][\"Details_new\"][\"title\"]"
 msgid "{app_short_name} for Android - APK Download"
-msgstr ""
+msgstr "Android için {app_short_name} - APK'yı İndir"
 
 msgctxt "[\"meta\"][\"Details_new\"][\"keywords\"]"
 msgid "{app_short_name}, {app_short_name} for android, {app_short_name} android download, {app_short_name} apk, {app_short_name} android apk, {app_short_name} download"
@@ -2253,13 +2252,13 @@ msgstr ""
 msgctxt "[\"meta\"][\"Details_new\"][\"description\"]"
 msgid "Download {app_short_name} apk {version_name} for Android. {app_short_description}"
 msgstr ""
+"Android için {app_short_name}{version_name} indir.{app_short_description}"
 
-#, fuzzy
 msgctxt "[\"meta\"][\"Details_download_new\"][\"keywords\"]"
 msgid "{app_short_name}, android, apk, download, {app_short_name} android, {app_short_name} download"
 msgstr ""
-"{uygulama_kısa_ad}, android, apk, indir, {uygulama_kısa_ad} android, "
-"{uygulama_kısa_ad} indir"
+"{app_short_name}, android, apk, indirme, {app_short_name} android, "
+"{app_short_name} indirme"
 
 msgctxt "[\"IGNORE\"]"
 msgid "Ignore"
@@ -2571,3 +2570,79 @@ msgstr "Endonezya"
 msgctxt "[\"MARKET-TOP_COUNTRY\"][\"pt-BR\"]"
 msgid "Brazil"
 msgstr "Brazilya"
+
+msgctxt "[\"MARKET-PROMOTION_BANNER_DOWN\"]"
+msgid "<p class=\"tit\">Using APKPure App</p><p class=\"des\">Download / Update this {0}, faster, free and saving data!</p>"
+msgstr ""
+"<p class=\"tit\">APKPure Uygulamasını Kullanarak</p><p class=\"des\">Veri "
+"tasarrufuyla daha hızlı indir/güncelle! {0}</p>"
+
+msgctxt "[\"js\"][\"LANG_OK\"][\"pl\"]"
+msgid "ok"
+msgstr "Tamam"
+
+msgctxt "[\"js\"][\"USER-SAVED_SUCCESS\"]"
+msgid "Saved Successfully"
+msgstr "Başarıyla Kaydedildi"
+
+msgctxt "[\"meta\"][\"Versions\"][\"title\"]"
+msgid "{app_short_name} update version history for Android - APK Download"
+msgstr "Android için {app_short_name} Güncelleme versiyon geçmişi - APK İndirme"
+
+msgctxt "[\"meta\"][\"Versions\"][\"keywords\"]"
+msgid "{app_short_name}, download, old, version history, apk, release date, changelog"
+msgstr ""
+"{app_short_name}, indirme, eski, versiyon geçmişi, apk, yayınlanma tarihi, "
+"değişim günlüğü"
+
+msgctxt "[\"meta\"][\"Details_download_new\"][\"title_old\"]"
+msgid "Download {app_short_name} {version_name} Android APK"
+msgstr "{app_short_name} {version_name} Android APK'sı indir"
+
+msgctxt "[\"meta\"][\"Search_hot\"][\"title\"]"
+msgid "Search - APKPure Android App Store"
+msgstr "APKPure Android Uygulama Mağazasında Ara"
+
+msgctxt "[\"meta\"][\"Search_hot\"][\"keywords\"]"
+msgid "Search {add_trending}"
+msgstr "Ara {add_trending}"
+
+msgctxt "[\"meta\"][\"Search_hot\"][\"description\"]"
+msgid "Discover Android games free download on APKPure Android App Store."
+msgstr ""
+"Android oyunları keşfet ve APKPure uygulama mağazasından ücretsiz indir."
+
+#, fuzzy
+msgctxt "[\"meta\"][\"Similar\"][\"title\"]"
+msgid "{app_type} Like {app_short_name}"
+msgstr "{app_type} Beğen {app_short_name}"
+
+msgctxt "[\"meta\"][\"Login\"][\"title\"]"
+msgid "Sign in account for APKPure Android App Store"
+msgstr "APKPure Android Uygulama Mağazasında Oturum Aç"
+
+msgctxt "[\"meta\"][\"Login\"][\"keywords\"]"
+msgid "login, new member, account, registration"
+msgstr "giriş,yeni üye,hesap,kayıt"
+
+msgctxt "[\"meta\"][\"Login\"][\"description\"]"
+msgid "To join community group or vote on APKPure App Store, you must be registered. Register your APKPure account today!"
+msgstr ""
+"APKPure Uygulama Mağazası Topluluğuna Katılmak ya da Puanlama yapmak için "
+"kayıt olmalısın. Bugün APKPure hesabı oluştur!"
+
+msgctxt "[\"meta\"][\"Password\"][\"title\"]"
+msgid "Change Password"
+msgstr "Şifreyi Değiştir"
+
+msgctxt "[\"meta\"][\"Password\"][\"description\"]"
+msgid "Change or reset my password."
+msgstr "Şifremi sıfırla ya da değiştir."
+
+msgctxt "[\"meta\"][\"Register\"][\"title\"]"
+msgid "Register account for APKPure Android App Store"
+msgstr "APKPure Uygulama Mağazası İçin Kayıt Ol"
+
+msgctxt "[\"meta\"][\"Register\"][\"keywords\"]"
+msgid "register, new member, account, registration"
+msgstr "kayıt ol,yeni üye,hesap,kayıt"
