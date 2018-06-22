@@ -3,16 +3,16 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-03-22 06:56+0000\n"
-"PO-Revision-Date: 2018-04-30 23:43+0000\n"
-"Last-Translator: Cương Nguyễn <cuongnguyenmai9@gmail.com>\n"
-"Language-Team: Vietnamese "
-"<https://translate.apkpure.com/projects/apkpure/apkpurecom/vi/>\n"
+"PO-Revision-Date: 2018-06-23 11:00+0000\n"
+"Last-Translator: Channel Nguyễn Huy Minh <huyminh2606@gmail.com>\n"
+"Language-Team: Vietnamese <https://translate.apkpure.com/projects/apkpure/"
+"apkpurecom/vi/>\n"
 "Language: vi\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 2.14.1\n"
+"X-Generator: Weblate 3.0\n"
 
 msgctxt "[\"NAV-GAME\"]"
 msgid "GAME"
@@ -46,7 +46,6 @@ msgctxt "[\"NAV-XAPK_GAME\"]"
 msgid "XAPK GAME"
 msgstr "TRÒ CHƠI XAPK"
 
-#, fuzzy
 msgctxt "[\"NAV-XAPK_APP\"]"
 msgid "XAPK APP"
 msgstr "ỨNG DỤNG XAPK"
@@ -2239,9 +2238,10 @@ msgctxt "[\"BUY\"]"
 msgid "Buy"
 msgstr "Mua"
 
+#, fuzzy
 msgctxt "[\"TOP-UPDATED-APPS\"]"
 msgid "Top Updated Apps"
-msgstr "Ứng dụng đã cập nhật hàng đầu"
+msgstr "Các ứng dụng hàng đầu"
 
 msgctxt "[\"TOP-UPDATED-GAMES\"]"
 msgid "Top Updated Games"
@@ -2530,3 +2530,50 @@ msgstr "Nhóm thảo luận {app_name} {app_type} | Nhóm APKPure"
 msgctxt "[\"js\"][\"LANG_TIP\"][\"pl\"]"
 msgid "Czy chcesz zmienić język preferencji na <strong> Polski </strong>?"
 msgstr ""
+
+msgctxt "[\"COMMENT-ERR_INVALID_USER\"]"
+msgid "You're banned from APKPure by using or posting content containing nudity images. Please edit or remove the images before contacting Admin to restore your account."
+msgstr ""
+"Bạn đã bị cấm khỏi APKPure vì dùng hoặc đăng tải nội dung chứa ảnh khỏa "
+"thân. Hãy sửa hoặc xóa những bức ảnh đó trước khi liên hệ với Quản trị viên "
+"để khôi phục lại tài khoản của bạn."
+
+msgctxt "[\"COMMENT-DOWNLOAD_APK\"]"
+msgid "Download the APK file on APKPure."
+msgstr "Tải tệp APK trên APKPure."
+
+#, fuzzy
+msgctxt "[\"PRE-REGISTER\"]"
+msgid "Pre-register"
+msgstr "Đăng ký trước"
+
+#, fuzzy
+msgctxt "[\"PRE-REGISTRANTS\"]"
+msgid "Pre-registrants"
+msgstr "Trước khi đăng ký"
+
+#, fuzzy
+msgctxt "[\"PRE-REGISTER_DETAILS\"]"
+msgid "Pre-register Details"
+msgstr "Chi tiết đăng ký trước"
+
+msgctxt "[\"PRE-REGISTER_DATE\"]"
+msgid "Release Date"
+msgstr "Ngày phát hành"
+
+msgctxt "[\"PRE-REGISTER_REWARDS\"]"
+msgid "Register Rewards"
+msgstr "Phần thưởng đăng ký"
+
+#, fuzzy
+msgctxt "[\"PRE-REGISTER_PAGE\"]"
+msgid "Pre-register Page"
+msgstr "Trang đăng ký trước"
+
+msgctxt "[\"USER-FOLLOWING\"]"
+msgid "Following"
+msgstr "Đang theo dõi"
+
+msgctxt "[\"USER-FOLLOWER\"]"
+msgid "Follower"
+msgstr "Người theo dõi"
