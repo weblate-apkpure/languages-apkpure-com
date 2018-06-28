@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-03-22 06:56+0000\n"
-"PO-Revision-Date: 2018-06-23 11:00+0000\n"
-"Last-Translator: Channel Nguyễn Huy Minh <huyminh2606@gmail.com>\n"
+"PO-Revision-Date: 2018-06-29 13:00+0000\n"
+"Last-Translator: Dương Thái Bảo <hackgunny0@gmail.com>\n"
 "Language-Team: Vietnamese <https://translate.apkpure.com/projects/apkpure/"
 "apkpurecom/vi/>\n"
 "Language: vi\n"
@@ -50,7 +50,6 @@ msgctxt "[\"NAV-XAPK_APP\"]"
 msgid "XAPK APP"
 msgstr "ỨNG DỤNG XAPK"
 
-#, fuzzy
 msgctxt "[\"NAV-APK_INSTALL\"]"
 msgid "APK Install"
 msgstr "Cài đặt APK"
@@ -680,17 +679,20 @@ msgctxt "[\"FLAG-Oceania\"]"
 msgid "Oceania"
 msgstr "Châu Đại Dương"
 
+#, fuzzy
 msgctxt "[\"FLAG-Rest_of_the_world\"]"
 msgid "Rest of the world"
-msgstr "Phần còn lại của thế giới"
+msgstr "Các quốc gia còn lại"
 
+#, fuzzy
 msgctxt "[\"ERROR-OOPS\"]"
 msgid "OOPS!,"
-msgstr "Ôi!,"
+msgstr "Rất tiếc!,"
 
+#, fuzzy
 msgctxt "[\"ERROR-SUBTITLE\"]"
 msgid "You can visit the following Games and Apps instead"
-msgstr "Thay vì thế bạn có thể ghé thăm ứng dụng và trò chơi bên dưới"
+msgstr "Bạn có thể ghé thăm ứng dụng và trò chơi bên dưới"
 
 msgctxt "[\"error\"][\"DOWN-ItemNotFree\"]"
 msgid "Sorry, paid apps are not available to download with our APK Download Service."
@@ -1140,13 +1142,14 @@ msgstr ""
 "{0} tải apk, tải {0} ứng dụng miễn phí, {0} trò chơi cho android,  {0} danh "
 "sách ứng dụng các trò chơi, {0} ứng dụng cập nhật, {0} trình tải apk ứng dụng"
 
+#, fuzzy
 msgctxt "[\"meta\"][\"Developer\"][\"description\"]"
 msgid "All Apps or Games Published by \"{0}\""
-msgstr "Tất cả ứng dụng và trò chơi đã phát hành bởi \"{0}\""
+msgstr "Tất cả ứng dụng và trò chơi được phát hành bởi \"{0}\""
 
 msgctxt "[\"meta\"][\"Search\"][\"title\"]"
 msgid "{0} search results | APKPure.com"
-msgstr "{0} kết quả tìm kiếm | APKPure.com"
+msgstr "Có {0} kết quả tìm kiếm | APKPure.com"
 
 msgctxt "[\"meta\"][\"Search\"][\"keywords\"]"
 msgid "{0} apk download, download {0} apk"
@@ -2241,11 +2244,12 @@ msgstr "Mua"
 #, fuzzy
 msgctxt "[\"TOP-UPDATED-APPS\"]"
 msgid "Top Updated Apps"
-msgstr "Các ứng dụng hàng đầu"
+msgstr "Top Ứng Dụng Hằng Đầu"
 
+#, fuzzy
 msgctxt "[\"TOP-UPDATED-GAMES\"]"
 msgid "Top Updated Games"
-msgstr "Trò chơi đã cập nhật hàng đầu"
+msgstr "Top Trò Chơi Hằng Đầu"
 
 msgctxt "[\"HAVE_PRODUCTS\"]"
 msgid "All {0} Apps"
@@ -2577,3 +2581,23 @@ msgstr "Đang theo dõi"
 msgctxt "[\"USER-FOLLOWER\"]"
 msgid "Follower"
 msgstr "Người theo dõi"
+
+#, fuzzy
+msgctxt "[\"USER-LIKES\"]"
+msgid "Likes"
+msgstr "Lượt thích"
+
+#, fuzzy
+msgctxt "[\"USER-POSTS\"]"
+msgid "Posts"
+msgstr "Các bài đăng"
+
+#, fuzzy
+msgctxt "[\"USER-FAVORITES\"]"
+msgid "Favorites"
+msgstr "Mục ưa thích"
+
+#, fuzzy
+msgctxt "[\"USER-REPLIES\"]"
+msgid "Replies"
+msgstr "Các câu trả lời"
