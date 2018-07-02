@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-06-24 16:00+0000\n"
-"PO-Revision-Date: 2018-07-02 12:29+0000\n"
-"Last-Translator: TAREQ SALAH AZIZ <tarekaziz054@gmail.com>\n"
+"PO-Revision-Date: 2018-07-02 12:30+0000\n"
+"Last-Translator: haithamalmahab <ho68686868@gmail.com>\n"
 "Language-Team: Arabic <https://translate.apkpure.com/projects/apkpure/"
 "apkpurecom/ar/>\n"
 "Language: ar\n"
@@ -27,6 +27,7 @@ msgctxt "[\"NAV-XAPK\"]"
 msgid "XAPK"
 msgstr "XAPK"
 
+#, fuzzy
 msgctxt "[\"NAV-NEW\"]"
 msgid "NEW"
 msgstr "جديد"
@@ -35,54 +36,67 @@ msgctxt "[\"NAV-PRODUCTS\"]"
 msgid "PRODUCTS"
 msgstr "المنتوجات"
 
+#, fuzzy
 msgctxt "[\"NAV-NEW_GAME\"]"
 msgid "NEW GAME"
 msgstr "لعبة جديدة"
 
+#, fuzzy
 msgctxt "[\"NAV-NEW_APP\"]"
 msgid "NEW APP"
 msgstr "تطبيق جديد"
 
+#, fuzzy
 msgctxt "[\"NAV-XAPK_GAME\"]"
 msgid "XAPK GAME"
 msgstr "لعبة XAPK"
 
+#, fuzzy
 msgctxt "[\"NAV-XAPK_APP\"]"
 msgid "XAPK APP"
 msgstr "تطبيق XAPK"
 
+#, fuzzy
 msgctxt "[\"NAV-APK_INSTALL\"]"
 msgid "APK Install"
 msgstr "تثبيت APK"
 
+#, fuzzy
 msgctxt "[\"NAV-APK_DOWNLOAD\"]"
 msgid "APK Download"
 msgstr "تحميل APK"
 
+#, fuzzy
 msgctxt "[\"NAV-APK_VERIFICATION\"]"
 msgid "APK Verification"
 msgstr "التحقق APK"
 
+#, fuzzy
 msgctxt "[\"NAV-APKPURE_APP\"]"
 msgid "APKPure App"
 msgstr "تطبيق APKPure"
 
+#, fuzzy
 msgctxt "[\"DOWNLOAD\"]"
 msgid "Download"
 msgstr "تحميل"
 
+#, fuzzy
 msgctxt "[\"FAST_DOWNLOAD\"]"
 msgid "Fast Download"
 msgstr "Fast Download"
 
+#, fuzzy
 msgctxt "[\"IGNORE\"]"
 msgid "Ignore"
 msgstr "تجاهل"
 
+#, fuzzy
 msgctxt "[\"OK\"]"
 msgid "OK"
 msgstr "حسنا"
 
+#, fuzzy
 msgctxt "[\"BUY\"]"
 msgid "Buy"
 msgstr "Buy"
