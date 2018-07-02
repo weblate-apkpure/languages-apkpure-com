@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-06-24 16:00+0000\n"
-"PO-Revision-Date: 2018-07-02 12:30+0000\n"
+"PO-Revision-Date: 2018-07-03 13:00+0000\n"
 "Last-Translator: haithamalmahab <ho68686868@gmail.com>\n"
 "Language-Team: Arabic <https://translate.apkpure.com/projects/apkpure/"
 "apkpurecom/ar/>\n"
@@ -19,10 +19,12 @@ msgctxt "[\"NAV-GAME\"]"
 msgid "GAMES"
 msgstr "العربية"
 
+#, fuzzy
 msgctxt "[\"NAV-APP\"]"
 msgid "APPS"
 msgstr "تطبيقات"
 
+#, fuzzy
 msgctxt "[\"NAV-XAPK\"]"
 msgid "XAPK"
 msgstr "XAPK"
@@ -32,11 +34,11 @@ msgctxt "[\"NAV-NEW\"]"
 msgid "NEW"
 msgstr "جديد"
 
+#, fuzzy
 msgctxt "[\"NAV-PRODUCTS\"]"
 msgid "PRODUCTS"
 msgstr "المنتوجات"
 
-#, fuzzy
 msgctxt "[\"NAV-NEW_GAME\"]"
 msgid "NEW GAME"
 msgstr "لعبة جديدة"
@@ -81,7 +83,6 @@ msgctxt "[\"DOWNLOAD\"]"
 msgid "Download"
 msgstr "تحميل"
 
-#, fuzzy
 msgctxt "[\"FAST_DOWNLOAD\"]"
 msgid "Fast Download"
 msgstr "Fast Download"
@@ -113,6 +114,7 @@ msgctxt "[\"TOP-UPDATED-APPS\"]"
 msgid "Top Updated Apps"
 msgstr "أفضل التطبيقات المحدثة"
 
+#, fuzzy
 msgctxt "[\"TOP-UPDATED-GAMES\"]"
 msgid "Top Updated Games"
 msgstr "أفضل الالعاب المحدثة"
