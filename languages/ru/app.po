@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-07-05 03:00+0000\n"
-"PO-Revision-Date: 2018-07-05 03:00+0000\n"
+"PO-Revision-Date: 2018-07-10 05:00+0000\n"
 "Last-Translator: chenhsi Liang <lchenhsi@gmail.com>\n"
 "Language-Team: Russian <https://translate.apkpure.com/projects/apkpure/"
 "apkpurecom/ru/>\n"
@@ -245,7 +245,7 @@ msgstr "Последние обновления"
 
 msgctxt "[\"XAPK_IS_APK_WITH_OBB_DATA\"]"
 msgid "XAPK is APK with OBB data"
-msgstr "XAPK , это APK с  данными OBB"
+msgstr "XAPK , это APK с  OBB данными"
 
 msgctxt "[\"MOST_POPULAR_IN_TODAY\"]"
 msgid "Most Popular In Today"
@@ -257,7 +257,7 @@ msgstr "Схожие или близкие"
 
 msgctxt "[\"INDEX-TITLE\"]"
 msgid "Download free Android Games and Android Apps."
-msgstr "Скачать бесплатные игры и приложения для Андроида."
+msgstr "Скачать бесплатные игры и приложения для Андроид."
 
 msgctxt "[\"INDEX-MOBILE_TITLE\"]"
 msgid "Download free Android Games and Apps."
@@ -267,7 +267,6 @@ msgctxt "[\"INDEX-HOW_TO_DOWNLOAD\"]"
 msgid "How to download apk files?"
 msgstr "Как скачать APK-файлы?"
 
-#, fuzzy
 msgctxt "[\"INDEX-FAQ\"]"
 msgid "FAQ"
 msgstr "FAQ"
@@ -431,7 +430,7 @@ msgstr "XAPK-файла SHA1"
 
 msgctxt "[\"DETAIL-WHATS_NEW\"]"
 msgid "What's new"
-msgstr "Новые"
+msgstr "Что нового"
 
 msgctxt "[\"DETAIL-VERSION_HISTORY\"]"
 msgid "Version History"
@@ -519,7 +518,7 @@ msgstr "Скачать"
 
 msgctxt "[\"DETAIL_DOWNLOAD-DOWNLOADING\"]"
 msgid "Downloading"
-msgstr "Скачивание"
+msgstr "Загрузка"
 
 msgctxt "[\"DETAIL_DOWNLOAD-DOWNLOADING_DES\"]"
 msgid "If the download doesn't start,"
@@ -599,7 +598,7 @@ msgstr "Просмотры"
 
 msgctxt "[\"COMMENT-REPORT\"]"
 msgid "Report"
-msgstr "отчет"
+msgstr "Жаловаться"
 
 msgctxt "[\"COMMENT-COLLAPSED\"]"
 msgid "comment collapsed"
@@ -611,7 +610,7 @@ msgstr "Опубликовать"
 
 msgctxt "[\"COMMENT-COMMENTS\"]"
 msgid "Comments"
-msgstr "Комментарий"
+msgstr "Комментарии"
 
 msgctxt "[\"COMMENT-REPLY\"]"
 msgid "Reply"
@@ -627,11 +626,11 @@ msgstr "Эл. адрес"
 
 msgctxt "[\"COMMENT-SORT_BY_NEWEST\"]"
 msgid "Newest"
-msgstr "новейшие"
+msgstr "Новейшие"
 
 msgctxt "[\"COMMENT-SORT_BY_NEW\"]"
 msgid "Newest"
-msgstr "новейшие"
+msgstr "Новейшие"
 
 msgctxt "[\"COMMENT-SORT_BY_OLDEST\"]"
 msgid "Oldest"
@@ -709,7 +708,6 @@ msgctxt "[\"COMMENT-ERR_DISCUSSION\"]"
 msgid "Incorrect in discussion"
 msgstr "Некорректное в обсуждении"
 
-#, fuzzy
 msgctxt "[\"COMMENT-ERR_RATE\"]"
 msgid "Vote failed, repeated"
 msgstr "Ошибка голосования, повторно"
@@ -774,7 +772,7 @@ msgstr "Загрузка комментария"
 
 msgctxt "[\"COMMENT-DOWNLOAD_APK\"]"
 msgid "Download the APK file on APKPure."
-msgstr "Загрузите файл APK в APKPure."
+msgstr "Загрузите  APK файл в APKPure."
 
 msgctxt "[\"COMMENT-ERR_SHARE_APK_DENY\"]"
 msgid "This APP cannot be uploaded"
@@ -806,11 +804,11 @@ msgstr "Страница предварительной регистрации"
 
 msgctxt "[\"USER-FOLLOWING\"]"
 msgid "Following"
-msgstr ""
+msgstr "Подписка"
 
 msgctxt "[\"USER-FOLLOWER\"]"
 msgid "Follower"
-msgstr "Фолловер"
+msgstr "Подписчик"
 
 msgctxt "[\"USER-LIKES\"]"
 msgid "Likes"
@@ -854,7 +852,7 @@ msgstr "Комментарии"
 
 msgctxt "[\"USER-MY_FAVORITE\"]"
 msgid "My Favorite"
-msgstr "Мой любимый"
+msgstr "Избранное"
 
 msgctxt "[\"USER-LIKED_COMMENTS\"]"
 msgid "Liked Comments"
@@ -970,7 +968,7 @@ msgstr "Расписаться в прибытии"
 
 msgctxt "[\"USER-SIGN_IN_WITH\"]"
 msgid "Or sign in with"
-msgstr "Вы можете войти с помощью 或者可用以下方式登陆"
+msgstr "Или вы можете войти с помощью"
 
 msgctxt "[\"USER-SIGN_UP_BTN\"]"
 msgid "SIGN UP"
@@ -1926,7 +1924,9 @@ msgstr "Лучшие игры и приложения по мнению реда
 
 msgctxt "[\"meta\"][\"Category_featured_editors-picks\"][\"keywords\"]"
 msgid "android apps, android games, must have android games, must have android apps, game download"
-msgstr "андроид приложения, андроид игры, обязательные андроид игры, обязательные андроид приложения, скачай игру"
+msgstr ""
+"приложения для андроид,  игры для андроид, обязательно есть игры для "
+"андроид, обязательно есть  приложения для андроид, скачай игру"
 
 msgctxt "[\"meta\"][\"Category_featured_editors-picks\"][\"description\"]"
 msgid "Play with millions of free apps in APKPure style on Android phones, tablets, TV ,etc. Download the best must have android games you should play 2018."
@@ -1934,7 +1934,8 @@ msgstr "Пользуйтесь миллионами бесплатных при�
 
 msgctxt "[\"meta\"][\"Category_app\"][\"title\"]"
 msgid "Download {0} APK Android App Online - Free Pure APK Downloader"
-msgstr "Скачивайте {0} APK Андроид приложение онлайн - бесплатный APK Загрузчик"
+msgstr ""
+"Скачивайте {0} APK  приложение для Андроид онлайн - бесплатный APK Загрузчик"
 
 msgctxt "[\"meta\"][\"Category_app\"][\"keywords\"]"
 msgid "{0} apk download, free {0} download, {0} apk download, download {0} apk, {0} apk downloader, {0} android"
@@ -2019,10 +2020,9 @@ msgstr ""
 "{0} скачать apk , {0} обновить, скачать бесплатно топ {0} , скачать "
 "бесплатно {0} , лучший {0} для Андроид,"
 
-#, fuzzy
 msgctxt "[\"meta\"][\"New\"][\"description\"]"
 msgid "Daily update top free {0} apk download."
-msgstr "Ежедневное обновление топ бесплатный {0} apk скачать."
+msgstr "Ежедневное обновление топ  {0} бесплатных загрузок apk ."
 
 msgctxt "[\"meta\"][\"Verify\"][\"title\"]"
 msgid "APK Signature Verification, Official Version APK Detection Service"
