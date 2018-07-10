@@ -1,3 +1,20 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-06-24 16:00+0000\n"
+"PO-Revision-Date: 2018-07-09 10:00+0000\n"
+"Last-Translator: Mohammad shaban Azzouz <mohammadshabanazzouz@gmail.com>\n"
+"Language-Team: Arabic <https://translate.apkpure.com/projects/apkpure/"
+"apkpurecom/ar/>\n"
+"Language: ar\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 "
+"&& n%100<=10 ? 3 : n%100>=11 ? 4 : 5;\n"
+"X-Generator: Weblate 3.0\n"
+
 msgctxt "[\"NAV-GAME\"]"
 msgid "GAMES"
 msgstr "ألعاب"
@@ -16,7 +33,7 @@ msgstr "جديد"
 
 msgctxt "[\"NAV-PRODUCTS\"]"
 msgid "PRODUCTS"
-msgstr "المنتوجات"
+msgstr "منتجات"
 
 msgctxt "[\"NAV-NEW_GAME\"]"
 msgid "NEW GAME"
@@ -44,7 +61,7 @@ msgstr "تحميل APK"
 
 msgctxt "[\"NAV-APK_VERIFICATION\"]"
 msgid "APK Verification"
-msgstr "التحقق APK"
+msgstr "التحقق من APK"
 
 msgctxt "[\"NAV-APKPURE_APP\"]"
 msgid "APKPure App"
@@ -56,7 +73,7 @@ msgstr "تحميل"
 
 msgctxt "[\"FAST_DOWNLOAD\"]"
 msgid "Fast Download"
-msgstr "Fast Download"
+msgstr "تحميل سريع"
 
 msgctxt "[\"IGNORE\"]"
 msgid "Ignore"
@@ -68,11 +85,11 @@ msgstr "حسنا"
 
 msgctxt "[\"BUY\"]"
 msgid "Buy"
-msgstr "Buy"
+msgstr "شراء"
 
 msgctxt "[\"SELECT_LANGUAGE\"]"
 msgid "Select Language"
-msgstr "تغير اللغة"
+msgstr "إختيار اللغة"
 
 msgctxt "[\"FREE\"]"
 msgid "Free"
@@ -80,11 +97,11 @@ msgstr "مجاني"
 
 msgctxt "[\"TOP-UPDATED-APPS\"]"
 msgid "Top Updated Apps"
-msgstr "Top Updated Apps"
+msgstr "أفضل التطبيقات المحدثة"
 
 msgctxt "[\"TOP-UPDATED-GAMES\"]"
 msgid "Top Updated Games"
-msgstr "Top Updated Games"
+msgstr "أفضل الالعاب المحدثة"
 
 msgctxt "[\"READ_MORE\"]"
 msgid "Read More"
@@ -92,7 +109,7 @@ msgstr "قراءة المزيد"
 
 msgctxt "[\"GAME\"]"
 msgid "GAME"
-msgstr "ألعاب"
+msgstr "لعبة"
 
 msgctxt "[\"APP\"]"
 msgid "APP"
@@ -136,7 +153,7 @@ msgstr "الأكثر استخدام"
 
 msgctxt "[\"ATTACHMENT\"]"
 msgid "Attachment"
-msgstr "Attachment"
+msgstr "ملحق"
 
 msgctxt "[\"DOWNLOADS\"]"
 msgid "Downloads"
@@ -212,7 +229,7 @@ msgstr "التعليقات"
 
 msgctxt "[\"NOT_FOUND\"]"
 msgid "Not Found"
-msgstr "Not Found"
+msgstr "غير موجود"
 
 msgctxt "[\"LATEST_UPDATE_GAMES\"]"
 msgid "Latest Update Games"
@@ -264,15 +281,15 @@ msgstr "تحميل APK"
 
 msgctxt "[\"VERIFICATION_CODE\"]"
 msgid "Verification code"
-msgstr "Verification code"
+msgstr "كود التحقق"
 
 msgctxt "[\"VERIFICATION_INCORRECT\"]"
 msgid "The verification code is incorrect!"
-msgstr "The verification code is incorrect!"
+msgstr "رمز التحقق غير صحيح!"
 
 msgctxt "[\"VERIFICATION_DOWN\"]"
 msgid "Enter the code(s) as you see in the image, then click \"Download\"."
-msgstr "Enter the code(s) as you see in the image, then click \"Download\"."
+msgstr "أدخل الكود (الأكواد) مثل ما ترى في الصورة, ثم اضغط \"تحميل\"."
 
 msgctxt "[\"TOPICS\"]"
 msgid "Topics"
@@ -292,7 +309,7 @@ msgstr "تحديث"
 
 msgctxt "[\"DEV-INCORRECT_PKG_EMAIL\"]"
 msgid "Invalid package name or email"
-msgstr "Invalid package name or email"
+msgstr "اسم الحزمة غير صالح او البريد الالكتروني"
 
 msgctxt "[\"DEV-SEND_EMAIL_ERR\"]"
 msgid "Failed to send mail"
