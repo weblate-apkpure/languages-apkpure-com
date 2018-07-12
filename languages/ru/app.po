@@ -172,7 +172,7 @@ msgstr "Скрыть"
 
 msgctxt "[\"HAVE_PRODUCTS\"]"
 msgid "All {0} Apps"
-msgstr "есть {0} продуктов"
+msgstr "всего {0} приложений"
 
 msgctxt "[\"DEVELOPER\"]"
 msgid "Developer"
@@ -192,7 +192,7 @@ msgstr "Популярные приложения сегодня"
 
 msgctxt "[\"POPULAR_GAMES_IN_TODAY\"]"
 msgid "Popular Games In Today"
-msgstr "ППопулярные игры сдегоня"
+msgstr "Популярные игры сдегоня"
 
 msgctxt "[\"HOT_GAMES\"]"
 msgid "Hot Games"
@@ -228,7 +228,7 @@ msgstr "Последние обновления"
 
 msgctxt "[\"XAPK_IS_APK_WITH_OBB_DATA\"]"
 msgid "XAPK is APK with OBB data"
-msgstr "XAPK это APK с OBB данными"
+msgstr "XAPK , это APK с  OBB данными"
 
 msgctxt "[\"MOST_POPULAR_IN_TODAY\"]"
 msgid "Most Popular In Today"
@@ -276,7 +276,7 @@ msgstr "Введите код(ы), которые вы видите на изо�
 
 msgctxt "[\"TOPICS\"]"
 msgid "Topics"
-msgstr "Тема"
+msgstr "Темы"
 
 msgctxt "[\"SIMILAR_TO\"]"
 msgid "Similar to {0}"
@@ -500,7 +500,7 @@ msgstr "Скачать"
 
 msgctxt "[\"DETAIL_DOWNLOAD-DOWNLOADING\"]"
 msgid "Downloading"
-msgstr "Скачивание"
+msgstr "Загрузка"
 
 msgctxt "[\"DETAIL_DOWNLOAD-DOWNLOADING_DES\"]"
 msgid "If the download doesn't start,"
@@ -616,7 +616,7 @@ msgstr "Новейшие"
 
 msgctxt "[\"COMMENT-SORT_BY_NEW\"]"
 msgid "Newest"
-msgstr "Новое в начале"
+msgstr "Новейшие"
 
 msgctxt "[\"COMMENT-SORT_BY_OLDEST\"]"
 msgid "Oldest"
@@ -680,7 +680,7 @@ msgstr "Оставьте первый комментарий."
 
 msgctxt "[\"COMMENT-VOTE\"]"
 msgid "Vote"
-msgstr "Голос"
+msgstr "Голосование"
 
 msgctxt "[\"COMMENT-ERR_QUICK_LOGIN\"]"
 msgid "Quick login error, please try again."
@@ -768,15 +768,15 @@ msgstr "This APP cannot be uploaded"
 
 msgctxt "[\"PRE-REGISTER\"]"
 msgid "Pre-Registration Games"
-msgstr "Pre-Registration Games"
+msgstr "Предварительная регистрация"
 
 msgctxt "[\"PRE-REGISTRANTS\"]"
 msgid "Pre-Registrants"
-msgstr "Pre-Registrants"
+msgstr "Предварительная регистраторы"
 
 msgctxt "[\"PRE-REGISTER_DETAILS\"]"
 msgid "Pre-Register Details"
-msgstr "Pre-Register Details"
+msgstr "Подробности предварительной регистраций"
 
 msgctxt "[\"PRE-REGISTER_DATE\"]"
 msgid "Release Date"
@@ -784,11 +784,11 @@ msgstr "Дата выпуска"
 
 msgctxt "[\"PRE-REGISTER_REWARDS\"]"
 msgid "Register Rewards"
-msgstr "Register Rewards"
+msgstr "Награды регистрации"
 
 msgctxt "[\"PRE-REGISTER_PAGE\"]"
 msgid "Pre-Register Page"
-msgstr "Pre-Register Page"
+msgstr "Страница предварительной регистрации"
 
 msgctxt "[\"USER-FOLLOWING\"]"
 msgid "Following"
@@ -796,7 +796,7 @@ msgstr "Подписка"
 
 msgctxt "[\"USER-FOLLOWER\"]"
 msgid "Followers"
-msgstr "Followers"
+msgstr "Подписчик"
 
 msgctxt "[\"USER-LIKES\"]"
 msgid "Likes"
@@ -972,11 +972,11 @@ msgstr "Регистрация нового пользователя"
 
 msgctxt "[\"USER-SIGN_IN_BTN\"]"
 msgid "SIGN IN"
-msgstr "ВОЙТИ В СИСТЕМУ"
+msgstr "РАСПИСАТЬСЯ В ПРИБЫТИИ"
 
 msgctxt "[\"USER-SIGN_IN\"]"
 msgid "Sign In"
-msgstr "Войти в систему"
+msgstr "Расписаться в прибытии"
 
 msgctxt "[\"USER-SIGN_IN_WITH\"]"
 msgid "Or sign in with"
@@ -1420,7 +1420,7 @@ msgstr "Recommended Posts"
 
 msgctxt "[\"USERS-RECOMMENDED\"]"
 msgid "Users' Recommendations"
-msgstr "Users' Recommendations"
+msgstr "Рекомендуемые пользователи"
 
 msgctxt "[\"REVIEW_PRIVACY_POLICY_DES_M\"]"
 msgid "We encourage you to read our updated <a target='_blank' href='{pp}'>Privacy Policy</a> and <a target='_blank' href='{cp}'>Cookies Policy</a>."
@@ -1724,7 +1724,7 @@ msgstr "Посмотрите все {0} результатов поиска зд
 
 msgctxt "[\"js\"][\"REGION_DOWN-DOWNLOADING\"]"
 msgid "Downloading, please wait..."
-msgstr "Загружается, пожалуйста подождите..."
+msgstr "Загружается,  подождите пожалуйста..."
 
 msgctxt "[\"js\"][\"SHOW_MORE\"]"
 msgid "Show More"
@@ -1820,7 +1820,7 @@ msgstr "Скачайте бесплатный Загрузчик APK | APKPure.c
 
 msgctxt "[\"meta\"][\"Index\"][\"keywords\"]"
 msgid "apk download, apk downloader, android apk download"
-msgstr "скачать apk, загрузчик apk, андроид apk загрузчик"
+msgstr "скачать apk, загрузчик apk, apk загрузчик для android"
 
 msgctxt "[\"meta\"][\"Index\"][\"description\"]"
 msgid "Download apk for Android with APKPure APK downloader. NoAds, Faster apk downloads and apk file update speed. Best of all, it's free"
@@ -1840,27 +1840,27 @@ msgstr "Скачать {app_short_name} apk {version_name} и предыдущи
 
 msgctxt "[\"meta\"][\"Details_new\"][\"title\"]"
 msgid "{app_short_name} for Android - APK Download"
-msgstr "{app_short_name} for Android - APK Download"
+msgstr "{app_short_name} для Андроид - скачать APK"
 
 msgctxt "[\"meta\"][\"Details_new\"][\"keywords\"]"
 msgid "{app_short_name}, {app_short_name} for android, {app_short_name} android download, {app_short_name} apk, {app_short_name} android apk, {app_short_name} download"
-msgstr "{app_short_name}, {app_short_name} for android, {app_short_name} android download, {app_short_name} apk, {app_short_name} android apk, {app_short_name} download"
+msgstr "{app_short_name}, {app_short_name} для Андроид, {app_short_name} скачать APK, {app_short_name} apk, {app_short_name}  apk для Андроид, {app_short_name} скачать"
 
 msgctxt "[\"meta\"][\"Details_new\"][\"description\"]"
 msgid "Download {app_short_name} apk {version_name} for Android. {app_short_description}"
-msgstr "Download {app_short_name} apk {version_name} for Android. {app_short_description}"
+msgstr "скачать {app_short_name} apk {version_name} для Андроид. {app_short_description}"
 
 msgctxt "[\"meta\"][\"Versions\"][\"title\"]"
 msgid "{app_short_name} update version history for Android - APK Download"
-msgstr "{app_short_name} update version history for Android - APK Download"
+msgstr "{app_short_name} обновить историю версий для Android - скачать APK"
 
 msgctxt "[\"meta\"][\"Versions\"][\"keywords\"]"
 msgid "{app_short_name}, download, old, version history, apk, release date, changelog"
-msgstr "{app_short_name}, download, old, version history, apk, release date, changelog"
+msgstr "{app_short_name},скачать, предыдущий, история версий, apk, выпуск даты,изменить журнал"
 
 msgctxt "[\"meta\"][\"Versions\"][\"description\"]"
 msgid "Download {app_short_name} old versions Android APK or update to {app_short_name} latest version. Review {app_short_name} release date, changelog and more."
-msgstr "Download {app_short_name} old versions Android APK or update to {app_short_name} latest version. Review {app_short_name} release date, changelog and more."
+msgstr "Скачайте {app_short_name} старые версии Android APK или обновите последнюю версию {app_short_name}. Просмотрите дату публикации {app_short_name}, журнал изменений и другое"
 
 msgctxt "[\"meta\"][\"Details_download\"][\"title\"]"
 msgid "Download {app_name} {version_name} APK | APKPure.com"
@@ -1876,23 +1876,23 @@ msgstr "Скачать {app_name} {version_name} APK"
 
 msgctxt "[\"meta\"][\"Details_download_new\"][\"title\"]"
 msgid "Download {app_short_name} latest {version_name} Android APK"
-msgstr "Download {app_short_name} latest {version_name} Android APK"
+msgstr "Загрузить {app_short_name} последнее {version_name} APK для Android"
 
 msgctxt "[\"meta\"][\"Details_download_new\"][\"title_old\"]"
 msgid "Download {app_short_name} {version_name} Android APK"
-msgstr "Download {app_short_name} {version_name} Android APK"
+msgstr "Загрузить {app_short_name} {version_name} APK для Android"
 
 msgctxt "[\"meta\"][\"Details_download_new\"][\"keywords\"]"
 msgid "{app_short_name}, android, apk, download, {app_short_name} android, {app_short_name} download"
-msgstr "{app_short_name}, android, apk, download, {app_short_name} android, {app_short_name} download"
+msgstr "{app_short_name}, android, apk, Загрузить, {app_short_name} android, {app_short_name}Загрузить"
 
 msgctxt "[\"meta\"][\"Details_download_new\"][\"description\"]"
 msgid "{app_short_name} Android latest {version_name} APK Download and Install. {app_short_description}"
-msgstr "{app_short_name} Android latest {version_name} APK Download and Install. {app_short_description}"
+msgstr "{app_short_name} Загрузите и установите последнюю версию{version_name} APK для Android{app_short_description}"
 
 msgctxt "[\"meta\"][\"Details_download_new\"][\"description_old\"]"
 msgid "{app_short_name} Android {version_name} APK Download and Install. {app_short_description}"
-msgstr "{app_short_name} Android {version_name} APK Download and Install. {app_short_description}"
+msgstr "{app_short_name}Android {version_name} Загрузка и установка APK. {app_short_description}"
 
 msgctxt "[\"meta\"][\"Category_xapk\"][\"title\"]"
 msgid "XAPK ( apk with obb file) {0}.apk for Android download"
@@ -1924,7 +1924,7 @@ msgstr "Лучшие игры и приложения по мнению реда
 
 msgctxt "[\"meta\"][\"Category_featured_editors-picks\"][\"keywords\"]"
 msgid "android apps, android games, must have android games, must have android apps, game download"
-msgstr "андроид приложения, андроид игры, обязательные андроид игры, обязательные андроид приложения, скачай игру"
+msgstr "приложения для андроид,  игры для андроид, обязательно есть игры для андроид, обязательно есть  приложения для андроид, скачай игру"
 
 msgctxt "[\"meta\"][\"Category_featured_editors-picks\"][\"description\"]"
 msgid "Play with millions of free apps in APKPure style on Android phones, tablets, TV ,etc. Download the best must have android games you should play 2018."
@@ -1932,7 +1932,7 @@ msgstr "Пользуйтесь миллионами бесплатных при�
 
 msgctxt "[\"meta\"][\"Category_app\"][\"title\"]"
 msgid "Download {0} APK Android App Online - Free Pure APK Downloader"
-msgstr "Скачать {0} APK Андроид приложение оонлайн - бесплатный APK Загрузчик"
+msgstr "Скачивайте {0} APK  приложение для Андроид онлайн - бесплатный APK Загрузчик"
 
 msgctxt "[\"meta\"][\"Category_app\"][\"keywords\"]"
 msgid "{0} apk download, free {0} download, {0} apk download, download {0} apk, {0} apk downloader, {0} android"
@@ -1944,7 +1944,7 @@ msgstr "Скачайте лучшие бесплатные {0} для Андро
 
 msgctxt "[\"meta\"][\"Category_game\"][\"title\"]"
 msgid "Download {0} APK Android App Online - Free Pure APK Downloader"
-msgstr "Скачать {0} APK Андроид приложение онлайн - бесплатный APK Загрузчик"
+msgstr "Скачивайте {0} APK Андроид приложение онлайн - бесплатный APK Загрузчик"
 
 msgctxt "[\"meta\"][\"Category_game\"][\"keywords\"]"
 msgid "{0} apk download, free {0} download, download {0} apk, {0} apk downloader, {0} android, {0} app download"
@@ -1952,11 +1952,11 @@ msgstr "скачать {0} apk, скачать бесплатно {0}, скач�
 
 msgctxt "[\"meta\"][\"Category_game\"][\"description\"]"
 msgid "Download free and best {0} for Android phone and tablet with online apk downloader on APKPure.com, including (driving games, shooting games, fighting games) and more."
-msgstr "Скачай бесплатно лучший {0} для Андроид телефона и планшета с помощью онлайн apk загрузчика на сайте APKPure.com, включая (гоночные игры, шутеры, файтинги) и многое другое."
+msgstr "Скачайте бесплатно лучший {0} для Андроид телефона и планшета с помощью онлайн apk загрузчика на сайте APKPure.com, включая (гоночные игры, шутеры, файтинги) и многое другое."
 
 msgctxt "[\"meta\"][\"FAQ\"][\"title\"]"
 msgid "{0} FAQ | APKPure.com"
-msgstr "{0} FAQ | APKPure"
+msgstr "{0} FAQ | APKPure.com"
 
 msgctxt "[\"meta\"][\"FAQ\"][\"keywords\"]"
 msgid "{0}"
@@ -1972,7 +1972,7 @@ msgstr "Все {0} бесплатные Андроид приложения | AP
 
 msgctxt "[\"meta\"][\"Developer\"][\"keywords\"]"
 msgid "{0} apk download, download {0} free app, {0} games for android,  {0} games app list, {0} app update, {0} app apk downloader"
-msgstr "{0} apk скачать, скачать {0} приложение бесплатно, {0} игры для андроид, {0} список игр, {0} обновить приложение, {0} apk приложение скачать"
+msgstr "{0} скачать apk , скачать {0} приложение бесплатно, {0} игры для андроид, {0} список игр, {0} обновить приложение, {0} apk приложение скачать"
 
 msgctxt "[\"meta\"][\"Developer\"][\"description\"]"
 msgid "All Apps or Games Published by \"{0}\""
@@ -1980,11 +1980,11 @@ msgstr "Все приложения и игры от \"{0}\""
 
 msgctxt "[\"meta\"][\"Search\"][\"title\"]"
 msgid "{0} search results | APKPure.com"
-msgstr "{0} результаты поиска | APKPure.com"
+msgstr "{0} результатов поиска | APKPure.com"
 
 msgctxt "[\"meta\"][\"Search\"][\"keywords\"]"
 msgid "{0} apk download, download {0} apk"
-msgstr "{0} apk скачать, скачать {0} apk"
+msgstr "{0} скачать apk , скачать {0} apk"
 
 msgctxt "[\"meta\"][\"Search\"][\"description\"]"
 msgid "{0}"
@@ -1992,15 +1992,15 @@ msgstr "{0}"
 
 msgctxt "[\"meta\"][\"Search_hot\"][\"title\"]"
 msgid "Search - APKPure Android App Store"
-msgstr "Search - APKPure Android App Store"
+msgstr "Поиск в магазине приложений APKPure"
 
 msgctxt "[\"meta\"][\"Search_hot\"][\"keywords\"]"
 msgid "Search {add_trending}"
-msgstr "Search {add_trending}"
+msgstr "Поиск {add_trending}"
 
 msgctxt "[\"meta\"][\"Search_hot\"][\"description\"]"
 msgid "Discover Android games free download on APKPure Android App Store."
-msgstr "Discover Android games free download on APKPure Android App Store."
+msgstr "Откройте для себя Android игры бесплатно на Android App Store APKPure."
 
 msgctxt "[\"meta\"][\"New\"][\"title\"]"
 msgid "Download the latest {0} APK | APKPure.com"
@@ -2008,11 +2008,11 @@ msgstr "Скачать последний {0} APK | APKPure.com"
 
 msgctxt "[\"meta\"][\"New\"][\"keywords\"]"
 msgid "{0} apk download, {0} update, free top {0} download, free {0} downloader,  best {0} for Android,"
-msgstr "{0} apk скачать, {0} обновить, бесплатно топ {0} скачать, бесплатно {0} скачать, лучший {0} для Андроид,"
+msgstr "{0} скачать apk , {0} обновить, скачать бесплатно топ {0} , скачать бесплатно {0} , лучший {0} для Андроид,"
 
 msgctxt "[\"meta\"][\"New\"][\"description\"]"
 msgid "Daily update top free {0} apk download."
-msgstr "Ежедневное обновление топ бесплатный {0} apk скачать."
+msgstr "Ежедневное обновление топ  {0} бесплатных загрузок apk ."
 
 msgctxt "[\"meta\"][\"Verify\"][\"title\"]"
 msgid "APK Signature Verification, Official Version APK Detection Service"
@@ -2020,7 +2020,7 @@ msgstr "Подтверждение подписи APK, сервис для оп�
 
 msgctxt "[\"meta\"][\"Verify\"][\"keywords\"]"
 msgid "apk signature verification, apk signature verify, apk signature checker, apk signature viewer, modified apk, free, online, scanner"
-msgstr "подтверждение подписи apk, подтвердить подпись apk, проверка подписи apk, просмотр подписи apk, измененный apk, бесплатно, онлайн, сканер"
+msgstr "Подтверждение подписи apk, подтвердить подпись apk, проверка подписи apk, просмотр подписи apk, измененный apk, бесплатно, онлайн, сканер"
 
 msgctxt "[\"meta\"][\"Verify\"][\"description\"]"
 msgid "APK Signature verification will verify Android app package signature to keep Android users away from potentially harmful APK files before APK installing."
@@ -2028,15 +2028,15 @@ msgstr "Проверка подписи APK подтвердит подлинн�
 
 msgctxt "[\"meta\"][\"Download\"][\"title\"]"
 msgid "Region free APK download daily update apps and games"
-msgstr "Региононезависимый APK скачать ежедневное обновление приложений и игр"
+msgstr "Региононезависимый APK сканчивает ежедневное обновление приложений и игр"
 
 msgctxt "[\"meta\"][\"Download\"][\"keywords\"]"
 msgid "apk download, region free apk download"
-msgstr " "
+msgstr "Скачать apk, скачать региононезависимый APK"
 
 msgctxt "[\"meta\"][\"Download\"][\"description\"]"
 msgid "download free apps APK for Android phone and tablet."
-msgstr "скачать бесплатно приложения APK для Андроид телефонов и планшетов."
+msgstr "Скачать бесплатные приложения APK для Андроид телефонов и планшетов."
 
 msgctxt "[\"meta\"][\"Error\"][\"title\"]"
 msgid "Error"
@@ -2056,7 +2056,7 @@ msgstr "Показать категорию | APKPure.com"
 
 msgctxt "[\"meta\"][\"Category\"][\"keywords\"]"
 msgid "app category,game category"
-msgstr "категория приложения, категория игры"
+msgstr "Категория приложения, категория игры"
 
 msgctxt "[\"meta\"][\"Category\"][\"description\"]"
 msgid "Android games and apps category"
@@ -2064,15 +2064,15 @@ msgstr "Категория игр и приложений для Андроид"
 
 msgctxt "[\"meta\"][\"Topics\"][\"title\"]"
 msgid "Topics | APKPure.com"
-msgstr "Тема | APKPure.com"
+msgstr "Темы | APKPure.com"
 
 msgctxt "[\"meta\"][\"Topics\"][\"keywords\"]"
 msgid "Topics"
-msgstr "Тема"
+msgstr "Темы"
 
 msgctxt "[\"meta\"][\"Topics\"][\"description\"]"
 msgid "Topics"
-msgstr "Тема"
+msgstr "Темы"
 
 msgctxt "[\"meta\"][\"Topic\"][\"title\"]"
 msgid "{0} | APKPure.com"
@@ -2096,7 +2096,7 @@ msgstr "{app_short_name} альтернатива, {app_short_name} похожи
 
 msgctxt "[\"meta\"][\"Similar\"][\"description\"]"
 msgid "Popular alternative {app_type} to {app_short_name} for Android, Android tablet and more. Download top {similar_count} {app_type} like {app_short_name}, all {app_type} suggested by APKPure."
-msgstr "Популярная альтернатива {app_type} от {app_short_name} для Android, Android-планшет и другие. Скачайте топ {similar_count} {app_type} как {app_short_name}, все {app_type} предложенны APKPure."
+msgstr "Популярная альтернатива {app_type} от {app_short_name} для Android, Android-планшет и другие. Скачайте топ {similar_count} {app_type} как {app_short_name}, все {app_type}, предложенны APKPure."
 
 msgctxt "[\"meta\"][\"Login\"][\"title\"]"
 msgid "Sign in account for APKPure Android App Store"
@@ -2176,7 +2176,7 @@ msgstr "{title} {app_type} Обсуждения | {app_name} Группа"
 
 msgctxt "[\"meta\"][\"Invit\"][\"description_title\"]"
 msgid "\"{post_details}\" sent by {user_name} in {app_name} {app_type} Discussions."
-msgstr "\"{post_details}\" отправленный {user_name} в {app_name} {app_type} Обсуждения."
+msgstr "\"{post_details}\", отправленный {user_name} в {app_name} {app_type} Обсуждения."
 
 msgctxt "[\"meta\"][\"Invit\"][\"keywords\"]"
 msgid "group, {app_name}, {app_category}, {app_type}, {app_developer}, {app_short_name} community"
