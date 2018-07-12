@@ -1,19 +1,3 @@
-msgid ""
-msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-07-03 21:00+0000\n"
-"PO-Revision-Date: 2018-07-03 21:00+0000\n"
-"Last-Translator: 潘竑宇 <a0986467471@gmail.com>\n"
-"Language-Team: Chinese (Traditional) <https://translate.apkpure.com/projects/"
-"apkpure/apkpurecom/zh_Hant/>\n"
-"Language: zh_TW\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 3.0\n"
-
 msgctxt "[\"NAV-GAME\"]"
 msgid "GAMES"
 msgstr "遊戲"
@@ -22,7 +6,6 @@ msgctxt "[\"NAV-APP\"]"
 msgid "APPS"
 msgstr "應用"
 
-#, fuzzy
 msgctxt "[\"NAV-XAPK\"]"
 msgid "XAPK"
 msgstr "XAPK"
@@ -607,6 +590,10 @@ msgctxt "[\"COMMENT-POST\"]"
 msgid "Post"
 msgstr "提交"
 
+msgctxt "[\"COMMENT-REVIEW_OR_POST\"]"
+msgid "Post review or comment"
+msgstr "提交評價或評論"
+
 msgctxt "[\"COMMENT-COMMENTS\"]"
 msgid "Comments"
 msgstr "用戶評論"
@@ -688,8 +675,8 @@ msgid "Website"
 msgstr "網站"
 
 msgctxt "[\"COMMENT-TO_BE_FIRST\"]"
-msgid "Be the first to comment."
-msgstr "第一個來評論。"
+msgid "Ooops! No such content!"
+msgstr "沒有符合條件的內容"
 
 msgctxt "[\"COMMENT-VOTE\"]"
 msgid "Vote"
@@ -730,6 +717,14 @@ msgstr "權限不足"
 msgctxt "[\"COMMENT-ERR_FAILURE\"]"
 msgid "Comment unknown"
 msgstr "評論出現未知出錯"
+
+msgctxt "[\"COMMENT-ERR_EMOJI\"]"
+msgid "Emoji comments are not allowed any more! Write something..."
+msgstr "不能發布純表情內容，寫點東西吧..."
+
+msgctxt "[\"COMMENT-ERR_NONE_MESSAGE\"]"
+msgid "You must write something!"
+msgstr "請填寫評論"
 
 msgctxt "[\"COMMENT-ERR_INVALID_PARAMETER\"]"
 msgid "Invalid comment parameter"
@@ -772,15 +767,15 @@ msgid "This APP cannot be uploaded"
 msgstr "此應用無法上傳"
 
 msgctxt "[\"PRE-REGISTER\"]"
-msgid "Pre-register"
-msgstr "預註冊"
+msgid "Pre-Registration Games"
+msgstr "預註冊遊戲"
 
 msgctxt "[\"PRE-REGISTRANTS\"]"
-msgid "Pre-registrants"
+msgid "Pre-Registrants"
 msgstr "預約人數"
 
 msgctxt "[\"PRE-REGISTER_DETAILS\"]"
-msgid "Pre-register Details"
+msgid "Pre-Register Details"
 msgstr "預約信息"
 
 msgctxt "[\"PRE-REGISTER_DATE\"]"
@@ -792,7 +787,7 @@ msgid "Register Rewards"
 msgstr "註冊獎勵"
 
 msgctxt "[\"PRE-REGISTER_PAGE\"]"
-msgid "Pre-register Page"
+msgid "Pre-Register Page"
 msgstr "預註冊頁面"
 
 msgctxt "[\"USER-FOLLOWING\"]"
@@ -800,7 +795,7 @@ msgid "Following"
 msgstr "關注"
 
 msgctxt "[\"USER-FOLLOWER\"]"
-msgid "Follower"
+msgid "Followers"
 msgstr "粉絲"
 
 msgctxt "[\"USER-LIKES\"]"
@@ -898,6 +893,30 @@ msgstr "未知錯誤。"
 msgctxt "[\"USER-BAD_NAME\"]"
 msgid "Your input includes sensitive vocabulary."
 msgstr "您的輸入包括敏感詞彙。"
+
+msgctxt "[\"USER-SOCIAL_ALREADY_BIND\"]"
+msgid "This third-party account has been connected to another account."
+msgstr "該賬號已被綁定"
+
+msgctxt "[\"USER-EMAIL_EXIST\"]"
+msgid "This email has been connected to another account."
+msgstr "郵箱已存在"
+
+msgctxt "[\"USER-SEND_EMAIL_ERR\"]"
+msgid "Failed to send verification code."
+msgstr "發送失敗"
+
+msgctxt "[\"USER-EMAIL_UNBOUND\"]"
+msgid "This email address is not connected to any account."
+msgstr "該郵箱未綁定"
+
+msgctxt "[\"USER-CAPTCHA_TIME_OUT\"]"
+msgid "Verification Code Timeout."
+msgstr "驗證碼超時"
+
+msgctxt "[\"USER-INCORRECT_CAPTCHA\"]"
+msgid "Incorrect Verification Code"
+msgstr "驗證碼錯誤"
 
 msgctxt "[\"USER-FEMALE\"]"
 msgid "Female"
@@ -1102,6 +1121,18 @@ msgstr "哇！"
 msgctxt "[\"404-Error_404\"]"
 msgid "Error 404!"
 msgstr "404了！"
+
+msgctxt "[\"PRE-REG-NEW\"]"
+msgid "Newest"
+msgstr "最新"
+
+msgctxt "[\"PRE-REG-BEST\"]"
+msgid "Best"
+msgstr "最熱"
+
+msgctxt "[\"PRE-REG-RECOMMEND\"]"
+msgid "Recommendations"
+msgstr "推荐"
 
 msgctxt "[\"404-DES\"]"
 msgid "It seems that page you are looking for no longer exists.<br />You can explore more Android Games and Apps below!"
@@ -1388,7 +1419,7 @@ msgid "Recommended Posts"
 msgstr "評論推薦"
 
 msgctxt "[\"USERS-RECOMMENDED\"]"
-msgid "User's Recommendation"
+msgid "Users' Recommendations"
 msgstr "用戶推薦"
 
 msgctxt "[\"REVIEW_PRIVACY_POLICY_DES_M\"]"
@@ -1579,6 +1610,10 @@ msgctxt "[\"js\"][\"LANG_TIP\"][\"de\"]"
 msgid "Wil je de taal van je voorkeur wijzigen in <strong> Deutsch </strong>?"
 msgstr "Wil je de taal van je voorkeur wijzigen in <strong> Deutsch </strong>?"
 
+msgctxt "[\"js\"][\"LANG_TIP\"][\"vn\"]"
+msgid "Bạn có muốn thay đổi ngôn ngữ ưa thích của mình thành <strong> Tiếng Việt </strong> không?"
+msgstr "Bạn có muốn thay đổi ngôn ngữ ưa thích của mình thành <strong> Tiếng Việt </strong> không?"
+
 msgctxt "[\"js\"][\"LANG_TIP\"][\"nl\"]"
 msgid "Wilt u uw voorkeurstaal naar <strong>Nederlands</strong> veranderen?"
 msgstr "Wilt u uw voorkeurstaal naar <strong>Nederlands</strong> veranderen?"
@@ -1607,6 +1642,10 @@ msgctxt "[\"js\"][\"LANG_IGNORE\"][\"de\"]"
 msgid "Negeren"
 msgstr "Negeren"
 
+msgctxt "[\"js\"][\"LANG_IGNORE\"][\"vn\"]"
+msgid "OK"
+msgstr "OK"
+
 msgctxt "[\"js\"][\"LANG_IGNORE\"][\"nl\"]"
 msgid "Negeren"
 msgstr "Negeren"
@@ -1632,6 +1671,10 @@ msgid "ok"
 msgstr "ok"
 
 msgctxt "[\"js\"][\"LANG_OK\"][\"de\"]"
+msgid "OK"
+msgstr "OK"
+
+msgctxt "[\"js\"][\"LANG_OK\"][\"vn\"]"
 msgid "OK"
 msgstr "OK"
 
@@ -2138,3 +2181,63 @@ msgstr "{user_name}發布了{app_name}{app_type}討論：，\"{post_details}\""
 msgctxt "[\"meta\"][\"Invit\"][\"keywords\"]"
 msgid "group, {app_name}, {app_category}, {app_type}, {app_developer}, {app_short_name} community"
 msgstr "討論組, {app_name}, {app_category}, {app_type}, {app_developer}, {app_short_name}社區"
+
+msgctxt "[\"private_message\"][\"users_recommended\"][\"title\"]"
+msgid "Congrats!"
+msgstr "Congrats!"
+
+msgctxt "[\"private_message\"][\"users_recommended\"][\"description\"]"
+msgid "Your review was selected as users recommended,{tap_to_view}"
+msgstr "Your review was selected as users recommended,{tap_to_view}"
+
+msgctxt "[\"private_message\"][\"recommended_posts\"][\"title\"]"
+msgid "Congrats!"
+msgstr "Congrats!"
+
+msgctxt "[\"private_message\"][\"recommended_posts\"][\"description\"]"
+msgid "Your review was selected as recommended posts,{tap_to_view}"
+msgstr "Your review was selected as recommended posts,{tap_to_view}"
+
+msgctxt "[\"private_message\"][\"comment_removed\"][\"title\"]"
+msgid "Your Post Has Been Removed"
+msgstr "Your Post Has Been Removed"
+
+msgctxt "[\"private_message\"][\"comment_removed\"][\"description\"]"
+msgid "It looks like something you posted doesn't follow our {community_guidelines}. We don't allow posts that bully private individuals or harass anyone on APKPure. This could include inappropriate images, photos or videos of physical bullying or any other post intended to degrade or shame a specific person.<br>{tap_to_view}<br>If you think this was a mistake, please {let_us_know}."
+msgstr "It looks like something you posted doesn't follow our {community_guidelines}. We don't allow posts that bully private individuals or harass anyone on APKPure. This could include inappropriate images, photos or videos of physical bullying or any other post intended to degrade or shame a specific person.<br>{tap_to_view}<br>If you think this was a mistake, please {let_us_know}."
+
+msgctxt "[\"private_message\"][\"temporarily_blocked\"][\"title\"]"
+msgid "You're Temporarily Blocked From Posting"
+msgstr "You're Temporarily Blocked From Posting"
+
+msgctxt "[\"private_message\"][\"temporarily_blocked\"][\"description\"]"
+msgid "This temporary block will last {last_days} days, and you won't be able to post on APKPure until it's finished. If you post something that goes against our {community_guidelines} again, you account will be blocked for another 30 days. Please keep in mind that people who repeatedly post things that aren't allowed on APKPure may have their accounts permanetly disabled.<br>If you think this was a mistake, please {let_us_know}."
+msgstr "This temporary block will last {last_days} days, and you won't be able to post on APKPure until it's finished. If you post something that goes against our {community_guidelines} again, you account will be blocked for another 30 days. Please keep in mind that people who repeatedly post things that aren't allowed on APKPure may have their accounts permanetly disabled.<br>If you think this was a mistake, please {let_us_know}."
+
+msgctxt "[\"private_message\"][\"pre_register\"][\"title\"]"
+msgid "{app_name} released for {android_version}!"
+msgstr "{app_name} released for {android_version}!"
+
+msgctxt "[\"private_message\"][\"pre_register\"][\"description\"]"
+msgid "Pre-registered game {app_name} {version_name} is available to download.{tap_to_view}"
+msgstr "Pre-registered game {app_name} {version_name} is available to download.{tap_to_view}"
+
+msgctxt "[\"private_message\"][\"report_callback\"][\"title\"]"
+msgid "We removed the post you reported!"
+msgstr "We removed the post you reported!"
+
+msgctxt "[\"private_message\"][\"report_callback\"][\"description\"]"
+msgid "We reviewed the post you reported for harassment. Since it violated our {community_guidelines}, we removed it. Thanks for your report. We let {user_name} konw that their post has been removed, but not who reported it."
+msgstr "We reviewed the post you reported for harassment. Since it violated our {community_guidelines}, we removed it. Thanks for your report. We let {user_name} konw that their post has been removed, but not who reported it."
+
+msgctxt "[\"private_message\"][\"link_title\"][\"tap_to_view\"]"
+msgid "tap to view"
+msgstr "tap to view"
+
+msgctxt "[\"private_message\"][\"link_title\"][\"community_guidelines\"]"
+msgid "Community Guidelines"
+msgstr "Community Guidelines"
+
+msgctxt "[\"private_message\"][\"link_title\"][\"let_us_know\"]"
+msgid "let us know"
+msgstr "let us know"
