@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-03-22 06:56+0000\n"
-"PO-Revision-Date: 2018-06-23 03:24+0000\n"
-"Last-Translator: Harun BAYRAK <harunbayrak961@gmail.com>\n"
+"PO-Revision-Date: 2018-07-17 13:00+0000\n"
+"Last-Translator: Ali Demirtaş <alidemirtas94@gmail.com>\n"
 "Language-Team: Turkish <https://translate.apkpure.com/projects/apkpure/"
 "apkpurecom/tr/>\n"
 "Language: tr\n"
@@ -30,7 +30,6 @@ msgctxt "[\"NAV-NEW\"]"
 msgid "NEW"
 msgstr "YENİ"
 
-#, fuzzy
 msgctxt "[\"NAV-PRODUCTS\"]"
 msgid "PRODUCTS"
 msgstr "ÜRÜNLER"
@@ -2248,6 +2247,9 @@ msgstr "Android için {app_short_name} - APK'yı İndir"
 msgctxt "[\"meta\"][\"Details_new\"][\"keywords\"]"
 msgid "{app_short_name}, {app_short_name} for android, {app_short_name} android download, {app_short_name} apk, {app_short_name} android apk, {app_short_name} download"
 msgstr ""
+"{app_short_name}, android için {app_short_name}, {app_short_name} android "
+"indir, {app_short_name} apk, {app_short_name} android apk, {app_short_name} "
+"indir"
 
 msgctxt "[\"meta\"][\"Details_new\"][\"description\"]"
 msgid "Download {app_short_name} apk {version_name} for Android. {app_short_description}"
@@ -2612,7 +2614,6 @@ msgid "Discover Android games free download on APKPure Android App Store."
 msgstr ""
 "Android oyunları keşfet ve APKPure uygulama mağazasından ücretsiz indir."
 
-#, fuzzy
 msgctxt "[\"meta\"][\"Similar\"][\"title\"]"
 msgid "{app_type} Like {app_short_name}"
 msgstr "{app_type} Beğen {app_short_name}"
@@ -2646,3 +2647,298 @@ msgstr "APKPure Uygulama Mağazası İçin Kayıt Ol"
 msgctxt "[\"meta\"][\"Register\"][\"keywords\"]"
 msgid "register, new member, account, registration"
 msgstr "kayıt ol,yeni üye,hesap,kayıt"
+
+msgctxt "[\"DEV-INCORRECT_PKG_EMAIL\"]"
+msgid "Invalid package name or email"
+msgstr "Geçeriz paket adı ya da e-posta"
+
+msgctxt "[\"DEV-SEND_EMAIL_ERR\"]"
+msgid "Failed to send mail"
+msgstr "E-posta gönderimi başarısız"
+
+msgctxt "[\"DEV-PKG_EXISTS\"]"
+msgid "Application has been claimed"
+msgstr "Uygulama iddia edildi"
+
+msgctxt "[\"DETAIL\"]"
+msgid "Detail"
+msgstr "Detaylar"
+
+msgctxt "[\"COMMENT-REVIEW_OTHER_LANG\"]"
+msgid "There are {0} reviews in other languages"
+msgstr "Diğer dillerde {0} inceleme var"
+
+msgctxt "[\"COMMENT-SORT_BY_MOST_SCORE\"]"
+msgid "Top rated"
+msgstr "En çok oy alan"
+
+msgctxt "[\"COMMENT-ERR_SHARE_APK_DENY\"]"
+msgid "This APP cannot be uploaded"
+msgstr "Bu APP yüklenemiyor"
+
+msgctxt "[\"USER-REVIEWS\"]"
+msgid "Reviews"
+msgstr "İncelemeler"
+
+msgctxt "[\"USER-REVIEWS_NONE\"]"
+msgid "Too few users ratings"
+msgstr "Çok az kullanıcı derecelendirmesi"
+
+msgctxt "[\"FOOTER-DEVELOPER_CONSOLE\"]"
+msgid "Developer Console"
+msgstr "Geliştirici Konsolu"
+
+msgctxt "[\"RECOMMENDED-POSTS\"]"
+msgid "Recommended Posts"
+msgstr "Önerilen Yazılar"
+
+msgctxt "[\"REVIEW_PRIVACY_POLICY_DES_M\"]"
+msgid "We encourage you to read our updated <a target='_blank' href='{pp}'>Privacy Policy</a> and <a target='_blank' href='{cp}'>Cookies Policy</a>."
+msgstr ""
+"Güncellenmiş <a target='_blank' href='{pp}'>1Gizlilik Politikamızı</a>2 ve <"
+"a target='_blank' href='{cp}'>3Çerez Politikamızı</a>4 okumanızı öneririz."
+
+msgctxt "[\"REVIEW_PRIVACY_POLICY_DES\"]"
+msgid "We use cookies and other technologies on this website to enhance your user experience.<br> By clicking any link on this page you are giving your consent to our <a target='_blank' href='{pp}'>Privacy Policy</a> and <a target='_blank' href='{cp}'>Cookies Policy</a>."
+msgstr ""
+"Kullanıcı deneyiminizi geliştirmek için bu web sitesinde çerezleri ve diğer "
+"teknolojileri kullanıyoruz.<br> Bu sayfadaki herhangi bir bağlantıya "
+"tıklayarak, <a target='_blank' href='{pp}'>Gizlilik Politikamıza</a> ve <a "
+"target='_blank' href='{cp}'>Çerezler Politikamıza</a> izin vermiş "
+"oluyorsunuz."
+
+msgctxt "[\"REVIEW_PRIVACY_POLICY_BTN\"]"
+msgid "Ok I Agree"
+msgstr "Tamam, kabul ediyorum"
+
+msgctxt "[\"REVIEW_PRIVACY_POLICY_MORE\"]"
+msgid "Learn More"
+msgstr "Daha fazla bilgi edin"
+
+msgctxt "[\"js\"][\"LANG_TIP\"][\"pl\"]"
+msgid "Czy chcesz zmienić język preferencji na <strong> Polski </strong>?"
+msgstr "Czy chcesz zmienić język preferencji na <strong> Polski </strong>?"
+
+msgctxt "[\"js\"][\"LANG_TIP\"][\"es\"]"
+msgid "¿Quiere cambiar su idioma de preferencia a <strong>español</strong>?"
+msgstr "¿Quiere cambiar su idioma de preferencia a <strong>español</strong>?"
+
+msgctxt "[\"js\"][\"LANG_TIP\"][\"ru\"]"
+msgid "Вы хотите изменить язык предпочтений на <strong>русский</strong>?"
+msgstr "Вы хотите изменить язык предпочтений на <strong>русский</strong>?"
+
+msgctxt "[\"js\"][\"LANG_TIP\"][\"id\"]"
+msgid "Apakah Anda ingin mengubah bahasa pilihan Anda <strong>ke bahasa Indonesia</strong>?"
+msgstr ""
+"Apakah Anda ingin mengubah bahasa pilihan Anda <strong>ke bahasa "
+"Indonesia</strong>?"
+
+msgctxt "[\"js\"][\"LANG_TIP\"][\"it\"]"
+msgid "Vuoi cambiare la tua lingua preferenziale in <strong>italiano</strong>?"
+msgstr "Vuoi cambiare la tua lingua preferenziale in <strong>italiano</strong>?"
+
+msgctxt "[\"js\"][\"LANG_TIP\"][\"de\"]"
+msgid "Wil je de taal van je voorkeur wijzigen in <strong> Deutsch </strong>?"
+msgstr "Wil je de taal van je voorkeur wijzigen in <strong> Deutsch </strong>?"
+
+msgctxt "[\"js\"][\"LANG_TIP\"][\"nl\"]"
+msgid "Wilt u uw voorkeurstaal naar <strong>Nederlands</strong> veranderen?"
+msgstr "Wilt u uw voorkeurstaal naar <strong>Nederlands</strong> veranderen?"
+
+msgctxt "[\"js\"][\"LANG_IGNORE\"][\"pl\"]"
+msgid "Ignorować"
+msgstr "Ignorować"
+
+#, fuzzy
+msgctxt "[\"js\"][\"LANG_IGNORE\"][\"es\"]"
+msgid "Ignorar"
+msgstr "Ignorar"
+
+#, fuzzy
+msgctxt "[\"js\"][\"LANG_IGNORE\"][\"ru\"]"
+msgid "игнорировать"
+msgstr "игнорировать"
+
+#, fuzzy
+msgctxt "[\"js\"][\"LANG_IGNORE\"][\"id\"]"
+msgid "Mengabaikan"
+msgstr "Mengabaikan"
+
+#, fuzzy
+msgctxt "[\"js\"][\"LANG_IGNORE\"][\"it\"]"
+msgid "Ignorare"
+msgstr "Ignorare"
+
+#, fuzzy
+msgctxt "[\"js\"][\"LANG_IGNORE\"][\"de\"]"
+msgid "Negeren"
+msgstr "Negeren"
+
+#, fuzzy
+msgctxt "[\"js\"][\"LANG_IGNORE\"][\"nl\"]"
+msgid "Negeren"
+msgstr "Negeren"
+
+#, fuzzy
+msgctxt "[\"js\"][\"LANG_OK\"][\"es\"]"
+msgid "DE ACUERDO"
+msgstr "DE ACUERDO"
+
+#, fuzzy
+msgctxt "[\"js\"][\"LANG_OK\"][\"ru\"]"
+msgid "ОК"
+msgstr "ОК"
+
+#, fuzzy
+msgctxt "[\"js\"][\"LANG_OK\"][\"id\"]"
+msgid "baik"
+msgstr "baik"
+
+#, fuzzy
+msgctxt "[\"js\"][\"LANG_OK\"][\"it\"]"
+msgid "ok"
+msgstr "ok"
+
+#, fuzzy
+msgctxt "[\"js\"][\"LANG_OK\"][\"de\"]"
+msgid "OK"
+msgstr "OK"
+
+#, fuzzy
+msgctxt "[\"js\"][\"LANG_OK\"][\"nl\"]"
+msgid "OK"
+msgstr "OK"
+
+msgctxt "[\"js\"][\"YOUTUBE_URL\"]"
+msgid "Enter Youtube video URL"
+msgstr "Youtube video URL'sini girin"
+
+msgctxt "[\"js\"][\"YOUTUBE_URL_ERR\"]"
+msgid "Invalid URL: Please enter a valid YouTube video URL"
+msgstr "Geçersiz URL: Lütfen geçerli bir YouTube video URL'si girin"
+
+msgctxt "[\"js\"][\"COMMENT-RATE_MUST\"]"
+msgid "Before writing a review or something, please rate the app first."
+msgstr ""
+"Bir inceleme veya bir şey yazmadan önce lütfen önce uygulamayı değerlendirin."
+
+msgctxt "[\"meta\"][\"Versions\"][\"description\"]"
+msgid "Download {app_short_name} old versions Android APK or update to {app_short_name} latest version. Review {app_short_name} release date, changelog and more."
+msgstr ""
+"{app_short_name} eski sürümleri Android APK indirin veya {app_short_name} en "
+"son sürüme güncelleyin. {app_short_name} çıkış tarihi, değişiklik günlüğü ve "
+"daha fazlasını gözden geçirin."
+
+msgctxt "[\"meta\"][\"Details_download_new\"][\"title\"]"
+msgid "Download {app_short_name} latest {version_name} Android APK"
+msgstr ""
+"{app_short_name} uygulamasının en son {version_name} sürümünü Android APK "
+"olarak indir"
+
+msgctxt "[\"meta\"][\"Details_download_new\"][\"description\"]"
+msgid "{app_short_name} Android latest {version_name} APK Download and Install. {app_short_description}"
+msgstr ""
+"{app_short_name} Android son {version_name} sürümünü APK olarak indir ve "
+"yükle {app_short_description}"
+
+msgctxt "[\"meta\"][\"Details_download_new\"][\"description_old\"]"
+msgid "{app_short_name} Android {version_name} APK Download and Install. {app_short_description}"
+msgstr ""
+"{app_short_name} Android {version_name} APK İndir ve Yükle. "
+"{app_short_description}"
+
+msgctxt "[\"meta\"][\"Category_featured_editors-picks\"][\"description\"]"
+msgid "Play with millions of free apps in APKPure style on Android phones, tablets, TV ,etc. Download the best must have android games you should play 2018."
+msgstr ""
+"Android telefonlar, tabletler, TV, vb. APKPure tarzında milyonlarca ücretsiz "
+"uygulama ile oynayın. 2018'in oynanması gereken en iyi Android oyunlarını "
+"indirin."
+
+msgctxt "[\"meta\"][\"Similar\"][\"keywords\"]"
+msgid "{app_short_name} alternative, {app_short_name} similar {app_type}, {app_category} {app_type} like {app_short_name}"
+msgstr ""
+"{app_short_name} alternatif, {app_short_name} benzer {app_type}, "
+"{app_category} {app_type} beğen {app_short_name}"
+
+msgctxt "[\"meta\"][\"Similar\"][\"description\"]"
+msgid "Popular alternative {app_type} to {app_short_name} for Android, Android tablet and more. Download top {similar_count} {app_type} like {app_short_name}, all {app_type} suggested by APKPure."
+msgstr ""
+"Android, Android tablet ve daha fazlası için {app_type} için popüler "
+"alternatif {app_short_name}. APKPure tarafından önerilen tüm {app_type} "
+"{app_short_name} gibi en iyi {similar_count} {app_type} indirin."
+
+msgctxt "[\"meta\"][\"User\"][\"title\"]"
+msgid "{user_name}: Profile and Activity - APKPure AppStore"
+msgstr "{user_name}: Profil ve Aktivite - APKPure AppStore"
+
+msgctxt "[\"meta\"][\"User\"][\"description\"]"
+msgid "My APKPure AppStore profile and activity page for {user_name}. Join APKPure AppStore to connect with {user_name}."
+msgstr ""
+"{user_name} için APKPure AppStore profil ve aktivite sayfam. {user_name} ile "
+"bağlanmak için APKPure AppStore'a katılın."
+
+msgctxt "[\"meta\"][\"Profile\"][\"title\"]"
+msgid "{user_name}'s profile on APKPure App Store"
+msgstr "{user_name} adlı kullanıcının profili, APKPure App Store'da"
+
+msgctxt "[\"meta\"][\"Profile\"][\"description\"]"
+msgid "The APKPure member profile for {user_name}."
+msgstr "{user_name} için APKPure üye profili."
+
+msgctxt "[\"meta\"][\"Register\"][\"description\"]"
+msgid "To join community group or vote on APKPure App Store, you must be registered. Register your APKPure account today!"
+msgstr ""
+"Topluluk grubuna katılmak veya APKPure App Store'da oy vermek için kayıtlı "
+"olmanız gerekir. APKPure hesabınıza bugün kaydolun!"
+
+msgctxt "[\"meta\"][\"Group\"][\"title\"]"
+msgid "{app_name} {app_type} Discussion Group | APKPure Groups"
+msgstr "{app_name} {app_type} Tartışma Grubu | APKPure Grupları"
+
+msgctxt "[\"meta\"][\"Group\"][\"keywords\"]"
+msgid "{app_name} group, {app_short_name} community, {app_name} forum, about {app_short_name}, {app_type} discussions"
+msgstr ""
+"{app_name} grup, {app_short_name} topluluk, {app_name} forum, "
+"{app_short_name} hakkındA, {app_type} tartışmalar"
+
+msgctxt "[\"meta\"][\"Group\"][\"description_game\"]"
+msgid "Online discussions to share {app_name} tips, tricks and cheats. {app_short_description}"
+msgstr ""
+"{app_name} ipuçlarını, püf noktalarını ve hileleri paylaşmak için çevrimiçi "
+"tartışmalar. {app_short_description}"
+
+msgctxt "[\"meta\"][\"Group\"][\"description_app\"]"
+msgid "{app_name} group gathers most Android expert users, who like to share experience on how to use {app_short_name} and give {app_short_name} useful app reviews."
+msgstr ""
+"{app_name} grubu, {app_short_name} uygulamasını nasıl kullanacağınız ve "
+"{app_short_name} kullanışlı uygulama incelemeleri ile ilgili deneyimlerini "
+"paylaşmak isteyen çoğu Android uzmanı kullanıcılarını toplar."
+
+msgctxt "[\"meta\"][\"Invit\"][\"title\"]"
+msgid "{user_name} add a post under {app_name} Discussion Group | APKPure Group"
+msgstr ""
+"{user_name}, {app_name} Tartışma Grubu altında bir gönderi ekle | APKPure "
+"Grubu"
+
+msgctxt "[\"meta\"][\"Invit\"][\"description\"]"
+msgid "View all {user_name}'s comments and posts on APKPure {app_type} discussion group. Join now to connect with {user_name}."
+msgstr ""
+"Tüm {user_name} adlı kullanıcının APKPure {app_type} tartışma grubundaki "
+"yorum ve yayınlarını görüntüleyin. {user_name} ile bağlanmak için hemen "
+"katılın."
+
+msgctxt "[\"meta\"][\"Invit\"][\"title_title\"]"
+msgid "{title} {app_type} Discussions | {app_name} Group"
+msgstr "{title} {app_type} Tartışmalar | {app_name} Grubu"
+
+msgctxt "[\"meta\"][\"Invit\"][\"description_title\"]"
+msgid "\"{post_details}\" sent by {user_name} in {app_name} {app_type} Discussions."
+msgstr ""
+"{app_name} {app_type} tartışmalarında {user_name} tarafından gönderilen \""
+"{post_details}\"."
+
+msgctxt "[\"meta\"][\"Invit\"][\"keywords\"]"
+msgid "group, {app_name}, {app_category}, {app_type}, {app_developer}, {app_short_name} community"
+msgstr ""
+"grup, {app_name}, {app_category}, {app_type}, {app_developer}, "
+"{app_short_name} topluluğu"
