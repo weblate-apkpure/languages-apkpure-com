@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-05-19 20:27+0000\n"
-"PO-Revision-Date: 2018-06-27 14:00+0000\n"
-"Last-Translator: Ahmea Ali <ahmeaali4@gmail.com>\n"
+"PO-Revision-Date: 2018-07-18 07:00+0000\n"
+"Last-Translator: Myla Trapp <mylatrapp81@gmail.com>\n"
 "Language-Team: Amharic <https://translate.apkpure.com/projects/apkpure/"
 "apkpurecom/am/>\n"
 "Language: am\n"
@@ -16,7 +16,7 @@ msgstr ""
 
 msgctxt "[\"NAV-GAME\"]"
 msgid "GAMES"
-msgstr "ጨዋታዎች"
+msgstr "Games"
 
 msgctxt "[\"NAV-APP\"]"
 msgid "APPS"
@@ -27,15 +27,13 @@ msgctxt "[\"NAV-XAPK\"]"
 msgid "XAPK"
 msgstr "መተግበሪያ"
 
-#, fuzzy
 msgctxt "[\"NAV-NEW\"]"
 msgid "NEW"
-msgstr "አዲስ"
+msgstr "New"
 
-#, fuzzy
 msgctxt "[\"NAV-PRODUCTS\"]"
 msgid "PRODUCTS"
-msgstr "ምርቶች"
+msgstr "Products"
 
 msgctxt "[\"NAV-NEW_GAME\"]"
 msgid "NEW GAME"
@@ -43,7 +41,7 @@ msgstr "አዲስ ጨዋታ"
 
 msgctxt "[\"NAV-NEW_APP\"]"
 msgid "NEW APP"
-msgstr "አዲስ መተግበሪያ"
+msgstr "አዲስ ጨዋታ"
 
 msgctxt "[\"NAV-XAPK_GAME\"]"
 msgid "XAPK GAME"
@@ -104,7 +102,7 @@ msgstr ""
 
 msgctxt "[\"MORE\"]"
 msgid "More"
-msgstr ""
+msgstr "ተጨማሪ"
 
 msgctxt "[\"XAPK\"]"
 msgid "XAPK"
