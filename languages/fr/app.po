@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-09-05 10:22+0000\n"
-"PO-Revision-Date: 2018-07-27 06:00+0000\n"
+"PO-Revision-Date: 2018-07-31 09:07+0000\n"
 "Last-Translator: leao mett <leaomett@gmail.com>\n"
 "Language-Team: French <https://translate.apkpure.com/projects/apkpure/"
 "apkpurecom/fr/>\n"
@@ -298,10 +298,12 @@ msgctxt "[\"DETAIL-PUBLISH_DATE\"]"
 msgid "Publish Date"
 msgstr "Date de publication"
 
+#, fuzzy
 msgctxt "[\"DETAIL-GET_IT_ON\"]"
 msgid "Get it on"
 msgstr "Téléchargez le sur"
 
+#, fuzzy
 msgctxt "[\"DETAIL-REQUIREMENTS\"]"
 msgid "Requirements"
 msgstr "Exigences"
@@ -382,6 +384,7 @@ msgctxt "[\"DETAIL-RATING\"]"
 msgid "{votes} votes, average: {rating_average} out of {rating_best}"
 msgstr "{votes} votes, moyenne: {rating_average} sur {rating_best}"
 
+#, fuzzy
 msgctxt "[\"DETAIL-MORE_DEVELOPER\"]"
 msgid "Get more from {0}"
 msgstr "Obtenir plus de {0}"
@@ -438,6 +441,7 @@ msgctxt "[\"DETAIL_DOWNLOAD-NAV_DOWNLOAD\"]"
 msgid "Download"
 msgstr "Télécharger"
 
+#, fuzzy
 msgctxt "[\"DETAIL_DOWNLOAD-DOWNLOADING\"]"
 msgid "Downloading"
 msgstr "En cours de téléchargement"
@@ -1741,6 +1745,7 @@ msgctxt "[\"COMMENT-COMMENTS\"]"
 msgid "Comments"
 msgstr "Commentaires"
 
+#, fuzzy
 msgctxt "[\"COMMENT-REPLY\"]"
 msgid "Reply"
 msgstr "Répondre"
@@ -1797,6 +1802,7 @@ msgctxt "[\"COMMENT-COMMENTS_CANT_BE_BLANK\"]"
 msgid "Comments can't be blank."
 msgstr "Les commentaires ne peuvent pas être vides."
 
+#, fuzzy
 msgctxt "[\"COMMENT-POST_AS_GUEST\"]"
 msgid "Post As a Guest"
 msgstr "Publié comme invité"
@@ -1829,6 +1835,7 @@ msgctxt "[\"COMMENT-ERR_DISCUSSION\"]"
 msgid "Incorrect in discussion"
 msgstr "Incorrect dans la discussion"
 
+#, fuzzy
 msgctxt "[\"COMMENT-ERR_RATE\"]"
 msgid "Vote failed, repeated"
 msgstr "Vote échoué, réessayez"
@@ -1869,6 +1876,7 @@ msgctxt "[\"COMMENT-DELETE\"]"
 msgid "Yes,delete it!"
 msgstr "Oui, supprimez-le !"
 
+#, fuzzy
 msgctxt "[\"COMMENT-COLLAPSED\"]"
 msgid "comment collapsed"
 msgstr "Commentaire effondré"
@@ -2034,6 +2042,7 @@ msgctxt "[\"VERSION-VERSIONS\"]"
 msgid "Versions"
 msgstr "Versions"
 
+#, fuzzy
 msgctxt "[\"VERSION-REQUIRES_ANDROID\"]"
 msgid "Requires Android"
 msgstr "Android requis"
@@ -2126,6 +2135,7 @@ msgctxt "[\"COMMENT-ALL-REPLY\"]"
 msgid "All {0} replies"
 msgstr "Toutes les {0} réponses"
 
+#, fuzzy
 msgctxt "[\"COMMENT-VIEWS\"]"
 msgid "Views"
 msgstr "Vues"
