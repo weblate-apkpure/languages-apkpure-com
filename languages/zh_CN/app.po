@@ -306,6 +306,10 @@ msgctxt "[\"DETAIL\"]"
 msgid "Detail"
 msgstr "详情"
 
+msgctxt "[\"DETAIL-HOT_TAGS\"]"
+msgid "{0} Tags"
+msgstr "{0}标签"
+
 msgctxt "[\"DETAIL-MAIGHT_LIKE\"]"
 msgid "You Might Also Like"
 msgstr "你可能还喜欢"
@@ -766,6 +770,10 @@ msgctxt "[\"COMMENT-ERR_SHARE_APK_DENY\"]"
 msgid "This APP cannot be uploaded"
 msgstr "此应用无法上传"
 
+msgctxt "[\"COMMENT-LINK\"]"
+msgid "Link"
+msgstr "网页链接"
+
 msgctxt "[\"PRE-REGISTER\"]"
 msgid "Pre-Registration Games"
 msgstr "预注册游戏"
@@ -917,6 +925,22 @@ msgstr "验证码超时"
 msgctxt "[\"USER-INCORRECT_CAPTCHA\"]"
 msgid "Incorrect Verification Code"
 msgstr "验证码错误"
+
+msgctxt "[\"USER-SEND_VERIFICATION_CODE\"]"
+msgid "Send verification code"
+msgstr "发送验证码"
+
+msgctxt "[\"USER-CONNECT_YOUR_EMAIL\"]"
+msgid "Connect your email"
+msgstr "绑定邮箱"
+
+msgctxt "[\"USER-CHANGE_EMAIL\"]"
+msgid "Change email"
+msgstr "修改邮箱"
+
+msgctxt "[\"USER-CONNECT_YOUR_EMAIL_FIRST\"]"
+msgid "Please connect your email first"
+msgstr "请先绑定邮箱"
 
 msgctxt "[\"USER-FEMALE\"]"
 msgid "Female"
@@ -1270,6 +1294,22 @@ msgctxt "[\"FOOTER-REPORT_ABUSE\"]"
 msgid "Report abuse"
 msgstr "举报滥用"
 
+msgctxt "[\"MARKET-PAGE_TOP_GAMES\"]"
+msgid "Top Games"
+msgstr "热门游戏"
+
+msgctxt "[\"MARKET-PAGE_TOP_APPS\"]"
+msgid "Top Apps"
+msgstr "热门应用"
+
+msgctxt "[\"MARKET-PAGE_TOP_DEVELOPERS\"]"
+msgid "Top Developers"
+msgstr "热门开发者"
+
+msgctxt "[\"MARKET-PAGE_TOP_COUNTRIES\"]"
+msgid "Top Countries"
+msgstr "分区排行"
+
 msgctxt "[\"MARKET-POP_TITLE\"]"
 msgid "APKPure AppStore App"
 msgstr "APKPure应用市场客户端"
@@ -1285,6 +1325,10 @@ msgstr "添加图片"
 msgctxt "[\"MARKET-POP_ADD_NEW_POST\"]"
 msgid "Add New Post or Comment"
 msgstr "添加新帖或评论"
+
+msgctxt "[\"MARKET-POP_ADD_TAG\"]"
+msgid "Add Tags"
+msgstr "添加应用标签"
 
 msgctxt "[\"MARKET-QR\"]"
 msgid "Download<br>APKPure App"
@@ -1794,6 +1838,14 @@ msgctxt "[\"js\"][\"USER-SAVED_SUCCESS\"]"
 msgid "Saved Successfully"
 msgstr "保存成功"
 
+msgctxt "[\"js\"][\"USER-RESEND_VERIFICATION\"]"
+msgid "Resend verification code"
+msgstr "重新发送"
+
+msgctxt "[\"js\"][\"USER-RESEND_IN\"]"
+msgid "Resend in {0}"
+msgstr "重新发送({0})"
+
 msgctxt "[\"js\"][\"COMMENT-DELETE\"]"
 msgid "Yes,delete it!"
 msgstr "删除"
@@ -1978,6 +2030,18 @@ msgctxt "[\"meta\"][\"Developer\"][\"description\"]"
 msgid "All Apps or Games Published by \"{0}\""
 msgstr "{0}所有安卓游戏免费下载，最新版下载更新。"
 
+msgctxt "[\"meta\"][\"Tag\"][\"title\"]"
+msgid "{0} Android Games & Apps on APKPure App Store"
+msgstr "{0}标签热门游戏或应用 - APKPure应用商店"
+
+msgctxt "[\"meta\"][\"Tag\"][\"keywords\"]"
+msgid "{0}, {0} games,{0} apps, {0} download, {0} android"
+msgstr "{0}, {0}下载,{0}应用, {0}游戏, {0}安卓"
+
+msgctxt "[\"meta\"][\"Tag\"][\"description\"]"
+msgid "Browse and download top {0} games and apps for android mobile, tablets and more"
+msgstr "下载热门{0}标签的游戏或应用"
+
 msgctxt "[\"meta\"][\"Search\"][\"title\"]"
 msgid "{0} search results | APKPure.com"
 msgstr "APKPure应用商店站内搜索{0}"
@@ -2118,6 +2182,14 @@ msgctxt "[\"meta\"][\"Password\"][\"description\"]"
 msgid "Change or reset my password."
 msgstr "修改、重置我的密码。"
 
+msgctxt "[\"meta\"][\"Email\"][\"title\"]"
+msgid "Verify Your Email Address | APKPure"
+msgstr "验证邮箱 | APKPure"
+
+msgctxt "[\"meta\"][\"Email\"][\"description\"]"
+msgid "Before posting on APKPure, you need to verify email address associated with your account. Use the verification code in confirmation email to unlock more features."
+msgstr "在APKPure社区发帖之前，您需要验证与您的帐户关联的电子邮箱。 使用确认邮件中的验证码来解锁更多社区功能。"
+
 msgctxt "[\"meta\"][\"User\"][\"title\"]"
 msgid "{user_name}: Profile and Activity - APKPure AppStore"
 msgstr "{user_name}: 个人主页和动态"
@@ -2181,63 +2253,3 @@ msgstr "{user_name}发布了{app_name}{app_type}讨论：，\"{post_details}\""
 msgctxt "[\"meta\"][\"Invit\"][\"keywords\"]"
 msgid "group, {app_name}, {app_category}, {app_type}, {app_developer}, {app_short_name} community"
 msgstr "讨论组, {app_name}, {app_category}, {app_type}, {app_developer}, {app_short_name}社区"
-
-msgctxt "[\"private_message\"][\"users_recommended\"][\"title\"]"
-msgid "Congrats!"
-msgstr "Congrats!"
-
-msgctxt "[\"private_message\"][\"users_recommended\"][\"description\"]"
-msgid "Your review was selected as users recommended,{tap_to_view}"
-msgstr "Your review was selected as users recommended,{tap_to_view}"
-
-msgctxt "[\"private_message\"][\"recommended_posts\"][\"title\"]"
-msgid "Congrats!"
-msgstr "Congrats!"
-
-msgctxt "[\"private_message\"][\"recommended_posts\"][\"description\"]"
-msgid "Your review was selected as recommended posts,{tap_to_view}"
-msgstr "Your review was selected as recommended posts,{tap_to_view}"
-
-msgctxt "[\"private_message\"][\"comment_removed\"][\"title\"]"
-msgid "Your Post Has Been Removed"
-msgstr "Your Post Has Been Removed"
-
-msgctxt "[\"private_message\"][\"comment_removed\"][\"description\"]"
-msgid "It looks like something you posted doesn't follow our {community_guidelines}. We don't allow posts that bully private individuals or harass anyone on APKPure. This could include inappropriate images, photos or videos of physical bullying or any other post intended to degrade or shame a specific person.<br>{tap_to_view}<br>If you think this was a mistake, please {let_us_know}."
-msgstr "It looks like something you posted doesn't follow our {community_guidelines}. We don't allow posts that bully private individuals or harass anyone on APKPure. This could include inappropriate images, photos or videos of physical bullying or any other post intended to degrade or shame a specific person.<br>{tap_to_view}<br>If you think this was a mistake, please {let_us_know}."
-
-msgctxt "[\"private_message\"][\"temporarily_blocked\"][\"title\"]"
-msgid "You're Temporarily Blocked From Posting"
-msgstr "You're Temporarily Blocked From Posting"
-
-msgctxt "[\"private_message\"][\"temporarily_blocked\"][\"description\"]"
-msgid "This temporary block will last {last_days} days, and you won't be able to post on APKPure until it's finished. If you post something that goes against our {community_guidelines} again, you account will be blocked for another 30 days. Please keep in mind that people who repeatedly post things that aren't allowed on APKPure may have their accounts permanetly disabled.<br>If you think this was a mistake, please {let_us_know}."
-msgstr "This temporary block will last {last_days} days, and you won't be able to post on APKPure until it's finished. If you post something that goes against our {community_guidelines} again, you account will be blocked for another 30 days. Please keep in mind that people who repeatedly post things that aren't allowed on APKPure may have their accounts permanetly disabled.<br>If you think this was a mistake, please {let_us_know}."
-
-msgctxt "[\"private_message\"][\"pre_register\"][\"title\"]"
-msgid "{app_name} released for {android_version}!"
-msgstr "{app_name} released for {android_version}!"
-
-msgctxt "[\"private_message\"][\"pre_register\"][\"description\"]"
-msgid "Pre-registered game {app_name} {version_name} is available to download.{tap_to_view}"
-msgstr "Pre-registered game {app_name} {version_name} is available to download.{tap_to_view}"
-
-msgctxt "[\"private_message\"][\"report_callback\"][\"title\"]"
-msgid "We removed the post you reported!"
-msgstr "We removed the post you reported!"
-
-msgctxt "[\"private_message\"][\"report_callback\"][\"description\"]"
-msgid "We reviewed the post you reported for harassment. Since it violated our {community_guidelines}, we removed it. Thanks for your report. We let {user_name} konw that their post has been removed, but not who reported it."
-msgstr "We reviewed the post you reported for harassment. Since it violated our {community_guidelines}, we removed it. Thanks for your report. We let {user_name} konw that their post has been removed, but not who reported it."
-
-msgctxt "[\"private_message\"][\"link_title\"][\"tap_to_view\"]"
-msgid "tap to view"
-msgstr "tap to view"
-
-msgctxt "[\"private_message\"][\"link_title\"][\"community_guidelines\"]"
-msgid "Community Guidelines"
-msgstr "Community Guidelines"
-
-msgctxt "[\"private_message\"][\"link_title\"][\"let_us_know\"]"
-msgid "let us know"
-msgstr "let us know"
