@@ -1,3 +1,19 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-08-08 07:38+0000\n"
+"PO-Revision-Date: 2018-08-08 07:38+0000\n"
+"Last-Translator: Bojun Li <bojun.lee@gmail.com>\n"
+"Language-Team: Chinese (Simplified) <https://translate.apkpure.com/projects/"
+"apkpure/apkpurecom/zh_Hans/>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 3.1.1\n"
+
 msgctxt "[\"NAV-GAME\"]"
 msgid "GAMES"
 msgstr "游戏"
@@ -20,11 +36,11 @@ msgstr "产品"
 
 msgctxt "[\"NAV-NEW_GAME\"]"
 msgid "NEW GAME"
-msgstr "最近更新游戏"
+msgstr "新游戏"
 
 msgctxt "[\"NAV-NEW_APP\"]"
 msgid "NEW APP"
-msgstr "最近更新应用"
+msgstr "新应用"
 
 msgctxt "[\"NAV-XAPK_GAME\"]"
 msgid "XAPK GAME"
@@ -36,7 +52,7 @@ msgstr "XAPK 应用"
 
 msgctxt "[\"NAV-APK_INSTALL\"]"
 msgid "APK Install"
-msgstr "APK 安装器"
+msgstr "安装 APK"
 
 msgctxt "[\"NAV-APK_DOWNLOAD\"]"
 msgid "APK Download"
@@ -1376,7 +1392,7 @@ msgstr "APKPure 客户端"
 
 msgctxt "[\"MARKET-INDEX_BANNER_DES\"]"
 msgid "Install,manage and update your apps"
-msgstr "免费下载，更新升级安卓游戏及应用"
+msgstr "安装、管理并对您的应用进行更新"
 
 msgctxt "[\"MARKET-BOTTOM_BANNER_TITLE\"]"
 msgid "APKPure App"
@@ -1848,7 +1864,7 @@ msgstr "重新发送({0})"
 
 msgctxt "[\"js\"][\"COMMENT-DELETE\"]"
 msgid "Yes,delete it!"
-msgstr "删除"
+msgstr "是，请将其删除!"
 
 msgctxt "[\"js\"][\"COMMENT-DELETED\"]"
 msgid "Deleted!"
@@ -2160,7 +2176,10 @@ msgstr "{app_short_name}类似游戏, {app_short_name}同类{app_type}, {app_sho
 
 msgctxt "[\"meta\"][\"Similar\"][\"description\"]"
 msgid "Popular alternative {app_type} to {app_short_name} for Android, Android tablet and more. Download top {similar_count} {app_type} like {app_short_name}, all {app_type} suggested by APKPure."
-msgstr "类似{app_short_name}的手游，{app_short_name}同类游戏,安卓平板游戏下载。APKPure力荐{similar_count}款类似{app_short_name}的经典{app_category}类{app_type}。"
+msgstr ""
+"为 Android、Android 平板和其它设备设计的，与 {app_short_name} 类似的 {app_type} 类热门同类应用。下载所有由 "
+"APKPure 推荐的 {app_type} 类，与 {app_short_name} 类似，排行 {similar_count} 的 "
+"{app_type} 类应用。"
 
 msgctxt "[\"meta\"][\"Login\"][\"title\"]"
 msgid "Sign in account for APKPure Android App Store"
