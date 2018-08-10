@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-07-31 09:00+0000\n"
-"PO-Revision-Date: 2018-08-04 20:00+0000\n"
-"Last-Translator: tin Tin <zanodang123@gmail.com>\n"
+"PO-Revision-Date: 2018-08-10 04:24+0000\n"
+"Last-Translator: Bùi Văn Xía <buivanxia10@gmail.com>\n"
 "Language-Team: Vietnamese <https://translate.apkpure.com/projects/apkpure/"
 "apkpurecom/vi/>\n"
 "Language: vi\n"
@@ -26,7 +26,6 @@ msgctxt "[\"NAV-XAPK\"]"
 msgid "XAPK"
 msgstr "XAPK"
 
-#, fuzzy
 msgctxt "[\"NAV-NEW\"]"
 msgid "NEW"
 msgstr "MỚI"
@@ -95,10 +94,9 @@ msgctxt "[\"FREE\"]"
 msgid "Free"
 msgstr "Miễn phí"
 
-#, fuzzy
 msgctxt "[\"TOP-UPDATED-APPS\"]"
 msgid "Top Updated Apps"
-msgstr "Mohammad arif sahab"
+msgstr "Ứng dụng mới Cập nhật Hàng đầu"
 
 msgctxt "[\"TOP-UPDATED-GAMES\"]"
 msgid "Top Updated Games"
@@ -610,7 +608,7 @@ msgstr "nhận xét đã bị xoá"
 
 msgctxt "[\"COMMENT-POST\"]"
 msgid "Post"
-msgstr "Đăng tải"
+msgstr "Đăng"
 
 msgctxt "[\"COMMENT-REVIEW_OR_POST\"]"
 msgid "Post review or comment"
@@ -718,7 +716,7 @@ msgstr "Nội dung thảo luận không chính xác"
 
 msgctxt "[\"COMMENT-ERR_RATE\"]"
 msgid "Vote failed, repeated"
-msgstr "Đánh giá không thành công, đang thử lại"
+msgstr "Đánh giá không thành công, đã thử lại"
 
 msgctxt "[\"COMMENT-ERR_SENSITIVE_WORD\"]"
 msgid "Defeat,your post contains sensitive terms"
@@ -1042,7 +1040,7 @@ msgstr "Bằng cách đăng kí bạn đã đồng ý với <a href='/terms-serv
 
 msgctxt "[\"REGION_DOWN-TITLE\"]"
 msgid "Region free APK download"
-msgstr "Khu vực được tải APK miễn phí"
+msgstr "Gỡ bỏ hạn chế khu vực tải APK"
 
 msgctxt "[\"REGION_DOWN-DES\"]"
 msgid "- Download your favorite Android Apps with APK Downloader (Free Apps Only).<br>- Your download will begin automatically after you paste a package id and click the download button.<br>- Download failed? Please manually change country setting and try again.<br>- Want to tell us more about your problems? <a style='color:#FFFF00' href='contact-us.html'>Contact us here</a>"
@@ -1070,7 +1068,7 @@ msgstr "Trò chơi và ứng dụng tải về tất cả khu vực."
 
 msgctxt "[\"LAST_DOWNLOAD\"]"
 msgid "Last Download"
-msgstr "Lượt tải cuối cùng"
+msgstr "Tải về gần đây"
 
 msgctxt "[\"SIGN_VERIFY-TITLE\"]"
 msgid "Signature Verification Online"
@@ -1606,7 +1604,7 @@ msgstr "{0} đã xác nhận an toàn"
 
 msgctxt "[\"tip\"][\"SCREEN_POSTER\"]"
 msgid "{0} poster"
-msgstr "{0} bài đăng"
+msgstr "{0} người đăng"
 
 msgctxt "[\"tip\"][\"SCREEN\"]"
 msgid "{0} apk screenshot"
