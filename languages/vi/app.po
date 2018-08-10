@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-07-31 09:00+0000\n"
-"PO-Revision-Date: 2018-08-10 04:24+0000\n"
+"PO-Revision-Date: 2018-08-11 05:00+0000\n"
 "Last-Translator: Bùi Văn Xía <buivanxia10@gmail.com>\n"
 "Language-Team: Vietnamese <https://translate.apkpure.com/projects/apkpure/"
 "apkpurecom/vi/>\n"
@@ -152,7 +152,7 @@ msgstr "Nổi bật"
 
 msgctxt "[\"ATTACHMENT\"]"
 msgid "Attachment"
-msgstr "Attachment"
+msgstr "Tập tin đính kèm"
 
 msgctxt "[\"DOWNLOADS\"]"
 msgid "Downloads"
@@ -228,7 +228,7 @@ msgstr "Bình luận"
 
 msgctxt "[\"NOT_FOUND\"]"
 msgid "Not Found"
-msgstr "Not Found"
+msgstr "Không tìm thấy"
 
 msgctxt "[\"LATEST_UPDATE_GAMES\"]"
 msgid "Latest Update Games"
@@ -308,15 +308,15 @@ msgstr "Cập nhật"
 
 msgctxt "[\"DEV-INCORRECT_PKG_EMAIL\"]"
 msgid "Invalid package name or email"
-msgstr "Invalid package name or email"
+msgstr "Tên gói hoặc email không hợp lệ"
 
 msgctxt "[\"DEV-SEND_EMAIL_ERR\"]"
 msgid "Failed to send mail"
-msgstr "Failed to send mail"
+msgstr "Gửi thư không thành công"
 
 msgctxt "[\"DEV-PKG_EXISTS\"]"
 msgid "Application has been claimed"
-msgstr "Application has been claimed"
+msgstr "Ứng dụng đã được nhận"
 
 msgctxt "[\"DETAIL\"]"
 msgid "Detail"
@@ -548,7 +548,7 @@ msgstr "Yêu cầu Android"
 
 msgctxt "[\"COMMENT-REVIEW_OTHER_LANG\"]"
 msgid "There are {0} reviews in other languages"
-msgstr "There are {0} reviews in other languages"
+msgstr "Có {0} đánh giá trong các ngôn ngữ khác"
 
 msgctxt "[\"COMMENT-ADD_NEW_DISCUSSION\"]"
 msgid "Add A New Discussion"
@@ -612,7 +612,7 @@ msgstr "Đăng"
 
 msgctxt "[\"COMMENT-REVIEW_OR_POST\"]"
 msgid "Post review or comment"
-msgstr "Post review or comment"
+msgstr "Đăng đánh giá hoặc bình luận"
 
 msgctxt "[\"COMMENT-COMMENTS\"]"
 msgid "Comments"
@@ -656,7 +656,7 @@ msgstr "Gần đây nhất"
 
 msgctxt "[\"COMMENT-SORT_BY_MOST_SCORE\"]"
 msgid "Top rated"
-msgstr "Top rated"
+msgstr "Được đánh giá cao"
 
 msgctxt "[\"COMMENT-SORT_BY_DEFAULT\"]"
 msgid "Sort by default"
@@ -696,7 +696,7 @@ msgstr "Trang web"
 
 msgctxt "[\"COMMENT-TO_BE_FIRST\"]"
 msgid "Ooops! No such content!"
-msgstr "Trở thành người đầu tiên bình luận."
+msgstr "Ôi không! Không có nội dung nào cả!"
 
 msgctxt "[\"COMMENT-VOTE\"]"
 msgid "Vote"
@@ -740,11 +740,12 @@ msgstr "Bình luận vô danh"
 
 msgctxt "[\"COMMENT-ERR_EMOJI\"]"
 msgid "Emoji comments are not allowed any more! Write something..."
-msgstr "Emoji comments are not allowed any more! Write something..."
+msgstr ""
+"Các bình luận bằng emoji không được cho phép nữa! Hãy viết cái gì đó đi..."
 
 msgctxt "[\"COMMENT-ERR_NONE_MESSAGE\"]"
 msgid "You must write something!"
-msgstr "You must write something!"
+msgstr "Bạn phải viết cái gì đó trong này!"
 
 msgctxt "[\"COMMENT-ERR_INVALID_PARAMETER\"]"
 msgid "Invalid comment parameter"
@@ -752,7 +753,10 @@ msgstr "Tham số bình luận không hợp lệ"
 
 msgctxt "[\"COMMENT-ERR_INVALID_USER\"]"
 msgid "You're banned from APKPure by using or posting content containing nudity images. Please edit or remove the images before contacting Admin to restore your account."
-msgstr "You're banned from APKPure by using or posting content containing nudity images. Please edit or remove the images before contacting Admin to restore your account."
+msgstr ""
+"Bạn đã bị chặn bởi APKPure vì đã sử dụng hoặc đăng các bình luận có chứa "
+"hình ảnh phản cảm. Vui lòng chỉnh sửa hoặc xóa bỏ hình ảnh trước khi liên hệ "
+"với quản trị viên để khôi phục tài khoản của bạn."
 
 msgctxt "[\"COMMENT-ERR_INVALID_VIDEO_URL\"]"
 msgid "Invalid Video URL"
@@ -780,11 +784,11 @@ msgstr "Đang tải bình luận..."
 
 msgctxt "[\"COMMENT-DOWNLOAD_APK\"]"
 msgid "Download the APK file on APKPure."
-msgstr "Download the APK file on APKPure."
+msgstr "Tải về tệp tin APK trên APKPure."
 
 msgctxt "[\"COMMENT-ERR_SHARE_APK_DENY\"]"
 msgid "This APP cannot be uploaded"
-msgstr "This APP cannot be uploaded"
+msgstr "Ứng dụng này khoog thể tải lên"
 
 msgctxt "[\"COMMENT-LINK\"]"
 msgid "Link"
@@ -792,11 +796,11 @@ msgstr "Liên kết"
 
 msgctxt "[\"PRE-REGISTER\"]"
 msgid "Pre-Registration Games"
-msgstr "Pre-Registration Games"
+msgstr "Trò chơi Đăng ký trước"
 
 msgctxt "[\"PRE-REGISTRANTS\"]"
 msgid "Pre-Registrants"
-msgstr "Pre-Registrants"
+msgstr "Người đăng ký trước"
 
 msgctxt "[\"PRE-REGISTER_DETAILS\"]"
 msgid "Pre-Register Details"
