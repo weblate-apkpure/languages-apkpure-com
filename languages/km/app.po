@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-10-28 13:15+0000\n"
-"PO-Revision-Date: 2018-07-05 14:00+0000\n"
+"PO-Revision-Date: 2018-08-14 14:00+0000\n"
 "Last-Translator: ប៉ុកណូ រ៉ូយ៉ាល់ <royalpokno68@gmail.com>\n"
 "Language-Team: Central Khmer <https://translate.apkpure.com/projects/apkpure/"
 "apkpurecom/km/>\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 3.0\n"
+"X-Generator: Weblate 3.1.1\n"
 
 msgctxt "[\"NAV-GAME\"]"
 msgid "GAMES"
@@ -701,6 +701,8 @@ msgstr "ការទាញយកកម្មវិធីAPKPure"
 msgctxt "[\"MARKET-INDEX_SHORT_DES\"]"
 msgid "Try <strong title=\"Download APKPure APK\">APKPure App</strong> - Download, update and install apks on your Android."
 msgstr ""
+"សាកល្បង <strong title=\"Download APKPure APK\"> កម្មវិធីAPKPure </strong> - "
+"ដោតឡូត, អាប់ដេត និងដំឡើង apk លើទូរស័ព្ទរបស់អ្នក។"
 
 msgctxt "[\"MARKET-INDEX_SHORT_DES_TITLE\"]"
 msgid "Try APKPure Mobile app, to install, manage and update your Android apps."
@@ -2257,7 +2259,6 @@ msgctxt "[\"tip\"][\"SCREEN_INDEX\"]"
 msgid "{0} screenshot {1}"
 msgstr "{0} ថតអេក្រង់ {1}"
 
-#, fuzzy
 msgctxt "[\"js\"][\"LANG_IGNORE\"][\"pl\"]"
 msgid "Ignorować"
 msgstr "Ignorować"
@@ -2343,3 +2344,163 @@ msgstr ""
 "{app_short_name}, {app_short_name} សម្រាប់ android, ទាញយក {app_short_name} "
 "android, {app_short_name} apk, {app_short_name} android apk, ទាញយក "
 "{app_short_name}"
+
+msgctxt "[\"DEV-INCORRECT_PKG_EMAIL\"]"
+msgid "Invalid package name or email"
+msgstr "ឈ្មោះកញ្ចប់ ឬអ៊ីម៉ែល មិនត្រឹមត្រូវ"
+
+msgctxt "[\"DEV-SEND_EMAIL_ERR\"]"
+msgid "Failed to send mail"
+msgstr "បានបរាជ័យក្នុងការបញ្ជូនម៉ែល"
+
+msgctxt "[\"DEV-PKG_EXISTS\"]"
+msgid "Application has been claimed"
+msgstr "កម្មវិធីត្រូវបានទទួលយក"
+
+msgctxt "[\"DETAIL\"]"
+msgid "Detail"
+msgstr "លម្អិត"
+
+msgctxt "[\"DETAIL-HOT_TAGS\"]"
+msgid "{0} Tags"
+msgstr "{0} ស្លាក"
+
+msgctxt "[\"COMMENT-REVIEW_OTHER_LANG\"]"
+msgid "There are {0} reviews in other languages"
+msgstr "ទាំងនេះជាការពិនិត្យមើល{0}ក្នុងភាសាដទៃ"
+
+msgctxt "[\"COMMENT-REVIEW_OR_POST\"]"
+msgid "Post review or comment"
+msgstr "ប្រកាសការពិនិត្យមើល ឬមតិ"
+
+msgctxt "[\"COMMENT-SORT_BY_MOST_SCORE\"]"
+msgid "Top rated"
+msgstr "ការវាយតម្លៃខ្ពស់"
+
+msgctxt "[\"COMMENT-TO_BE_FIRST\"]"
+msgid "Ooops! No such content!"
+msgstr "អុញ៎! ដូចជាគ្មានមាតិកា!"
+
+msgctxt "[\"COMMENT-ERR_EMOJI\"]"
+msgid "Emoji comments are not allowed any more! Write something..."
+msgstr "មតិជាសញ្ញាអារម្មណ៍ មិនត្រូវបានអនុញ្ញាតអ្វីទាំងអស់! សរសេរអ្វីមួយ..."
+
+msgctxt "[\"COMMENT-ERR_NONE_MESSAGE\"]"
+msgid "You must write something!"
+msgstr "អ្នកគួរតែសរសេរអ្វីមួយ!"
+
+msgctxt "[\"COMMENT-ERR_SHARE_APK_DENY\"]"
+msgid "This APP cannot be uploaded"
+msgstr "កម្មវិធីនេះមិនអាចផ្ទុកឡើងបានឡើយ"
+
+msgctxt "[\"COMMENT-LINK\"]"
+msgid "Link"
+msgstr "តំណ"
+
+msgctxt "[\"PRE-REGISTER\"]"
+msgid "Pre-Registration Games"
+msgstr "ការចុះឈ្មោះហ្គេមទុកមុន"
+
+msgctxt "[\"PRE-REGISTRANTS\"]"
+msgid "Pre-Registrants"
+msgstr "ការចុះឈ្មោះទុកមុន"
+
+msgctxt "[\"PRE-REGISTER_DETAILS\"]"
+msgid "Pre-Register Details"
+msgstr "ការចុះឈ្មោះទុកមុនលម្អិត"
+
+msgctxt "[\"PRE-REGISTER_PAGE\"]"
+msgid "Pre-Register Page"
+msgstr "ទំព័រការចុះឈ្មោះទុកមុន"
+
+msgctxt "[\"USER-FOLLOWER\"]"
+msgid "Followers"
+msgstr "អ្នកតាមដាន"
+
+msgctxt "[\"USER-REVIEWS\"]"
+msgid "Reviews"
+msgstr "អ្នកពិនិត្យមើល"
+
+msgctxt "[\"USER-REVIEWS_NONE\"]"
+msgid "Too few users ratings"
+msgstr "ការវាយតម្លៃអ្នកប្រើតិចតួច"
+
+msgctxt "[\"USER-SOCIAL_ALREADY_BIND\"]"
+msgid "This third-party account has been connected to another account."
+msgstr "គណនីភាគីទីបីនេះ ត្រូវបានតភ្ជាប់ទៅគណនីមួយផ្សេងទៀត។"
+
+msgctxt "[\"USER-EMAIL_EXIST\"]"
+msgid "This email has been connected to another account."
+msgstr "អ៊ីម៉ែលនេះត្រូវបានតភ្ជាប់ទៅគណនីមួយផ្សេងទៀត។"
+
+msgctxt "[\"USER-SEND_EMAIL_ERR\"]"
+msgid "Failed to send verification code."
+msgstr "បរាជ័យក្នុងការបញ្ជូនកូដផ្ទៀងផ្ទាត់។"
+
+msgctxt "[\"USER-EMAIL_UNBOUND\"]"
+msgid "This email address is not connected to any account."
+msgstr "អាស័យដ្ឋានអ៊ីម៉ែលនេះគឺមិនទាន់តភ្ជាប់ទៅគណនីណាមួយទេ។"
+
+msgctxt "[\"USER-CAPTCHA_TIME_OUT\"]"
+msgid "Verification Code Timeout."
+msgstr "កូដផ្ទៀងផ្ទាត់អស់ពេល។"
+
+msgctxt "[\"USER-INCORRECT_CAPTCHA\"]"
+msgid "Incorrect Verification Code"
+msgstr "កូដផ្ទៀងផ្ទាត់មិនត្រឹមត្រូវ"
+
+msgctxt "[\"USER-SEND_VERIFICATION_CODE\"]"
+msgid "Send verification code"
+msgstr "បញ្ជូនកូដផ្ទៀងផ្ទាត់"
+
+msgctxt "[\"USER-CONNECT_YOUR_EMAIL\"]"
+msgid "Connect your email"
+msgstr "ភ្ជាប់អ៊ីម៉ែលរបស់អ្នក"
+
+msgctxt "[\"USER-CHANGE_EMAIL\"]"
+msgid "Change email"
+msgstr "ផ្លាស់ប្ដូរអ៊ីម៉ែល"
+
+msgctxt "[\"USER-CONNECT_YOUR_EMAIL_FIRST\"]"
+msgid "Please connect your email first"
+msgstr "សូមភ្ជាប់អ៊ីម៉ែលរបស់អ្នកជាមុនសិន"
+
+msgctxt "[\"PRE-REG-NEW\"]"
+msgid "Newest"
+msgstr "ថ្មីបំផុត"
+
+msgctxt "[\"PRE-REG-BEST\"]"
+msgid "Best"
+msgstr "ល្អបំផុត"
+
+msgctxt "[\"PRE-REG-RECOMMEND\"]"
+msgid "Recommendations"
+msgstr "ការណែនាំ"
+
+msgctxt "[\"FOOTER-DEVELOPER_CONSOLE\"]"
+msgid "Developer Console"
+msgstr "តំបន់គ្រប់គ្រងរបស់អ្នកអភិវឌ្ឍន៍"
+
+msgctxt "[\"MARKET-PAGE_TOP_GAMES\"]"
+msgid "Top Games"
+msgstr "ហ្គេមកំពូល"
+
+msgctxt "[\"MARKET-PAGE_TOP_APPS\"]"
+msgid "Top Apps"
+msgstr "កម្មវិធីកំពូល"
+
+msgctxt "[\"MARKET-PAGE_TOP_DEVELOPERS\"]"
+msgid "Top Developers"
+msgstr "អ្នកអភិវឌ្ឍន៍កំពូល"
+
+msgctxt "[\"MARKET-PAGE_TOP_COUNTRIES\"]"
+msgid "Top Countries"
+msgstr "ប្រទេសកំពូលៗ"
+
+msgctxt "[\"MARKET-POP_ADD_TAG\"]"
+msgid "Add Tags"
+msgstr "បន្ថែមស្លាក"
+
+msgctxt "[\"RECOMMENDED-POSTS\"]"
+msgid "Recommended Posts"
+msgstr "ណែនាំការប្រកាស"
