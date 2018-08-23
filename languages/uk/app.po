@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-04-22 10:16+0000\n"
-"PO-Revision-Date: 2018-06-04 03:03+0000\n"
-"Last-Translator: Leonidius20 <leonidslupsky2002@gmail.com>\n"
+"PO-Revision-Date: 2018-08-01 16:00+0000\n"
+"Last-Translator: Punched Studio <dmipin02@gmail.com>\n"
 "Language-Team: Ukrainian <https://translate.apkpure.com/projects/apkpure/"
 "apkpurecom/uk/>\n"
 "Language: uk\n"
@@ -13,7 +13,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<="
 "4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 2.20\n"
+"X-Generator: Weblate 3.0\n"
 
 msgctxt "[\"NAV-GAME\"]"
 msgid "GAMES"
@@ -728,10 +728,9 @@ msgctxt "[\"COMMENT-ERR_INVALID_VIDEO_URL\"]"
 msgid "Invalid Video URL"
 msgstr "Некоректний URL відео"
 
-#, fuzzy
 msgctxt "[\"COMMENT-DELETE\"]"
 msgid "Yes,delete it!"
-msgstr "Так, вилучіть його!"
+msgstr "Так, видалити!"
 
 msgctxt "[\"COMMENT-DELETED\"]"
 msgid "Deleted!"
@@ -747,11 +746,11 @@ msgstr "Ти впевнений?"
 
 msgctxt "[\"COMMENT-LOADING\"]"
 msgid "Comment Loading..."
-msgstr ""
+msgstr "Завантаження коментаря..."
 
 msgctxt "[\"COMMENT-DOWNLOAD_APK\"]"
 msgid "Download the APK file on APKPure."
-msgstr ""
+msgstr "Завантажте APK файл до APKPure."
 
 msgctxt "[\"PRE-REGISTER\"]"
 msgid "Pre-register"
@@ -767,7 +766,7 @@ msgstr ""
 
 msgctxt "[\"PRE-REGISTER_DATE\"]"
 msgid "Release Date"
-msgstr ""
+msgstr "Дата випуску"
 
 msgctxt "[\"PRE-REGISTER_REWARDS\"]"
 msgid "Register Rewards"
@@ -799,7 +798,7 @@ msgstr ""
 
 msgctxt "[\"USER-REPLIES\"]"
 msgid "Replies"
-msgstr ""
+msgstr "Відповіді"
 
 msgctxt "[\"USER-PROFILE\"]"
 msgid "Profile"
@@ -807,15 +806,15 @@ msgstr ""
 
 msgctxt "[\"USER-CHANGE_PASSWORD\"]"
 msgid "Change Password"
-msgstr ""
+msgstr "Змінити пароль"
 
 msgctxt "[\"USER-MESSAGES\"]"
 msgid "Messages"
-msgstr ""
+msgstr "Повідомлення"
 
 msgctxt "[\"USER-COMMENTS\"]"
 msgid "Comments"
-msgstr ""
+msgstr "Коментарі"
 
 msgctxt "[\"USER-MY_FAVORITE\"]"
 msgid "My Favorite"
@@ -827,11 +826,11 @@ msgstr ""
 
 msgctxt "[\"USER-NEW_PASSWORD\"]"
 msgid "New password"
-msgstr ""
+msgstr "Новий пароль"
 
 msgctxt "[\"USER-CURRENT_PASSWORD\"]"
 msgid "Current password"
-msgstr ""
+msgstr "Поточний пароль"
 
 msgctxt "[\"USER-ACCOUNT_EXIST\"]"
 msgid "The username is already in use."
@@ -867,7 +866,7 @@ msgstr ""
 
 msgctxt "[\"USER-UNKNOWN_ERROR\"]"
 msgid "unknown mistake."
-msgstr ""
+msgstr "Невідома помилка."
 
 msgctxt "[\"USER-BAD_NAME\"]"
 msgid "Your input includes sensitive vocabulary."
@@ -875,11 +874,11 @@ msgstr ""
 
 msgctxt "[\"USER-FEMALE\"]"
 msgid "Female"
-msgstr ""
+msgstr "жіночий"
 
 msgctxt "[\"USER-MALE\"]"
 msgid "Male"
-msgstr ""
+msgstr "чоловічий"
 
 msgctxt "[\"USER-USER_LOGIN\"]"
 msgid "User Login"
@@ -899,15 +898,15 @@ msgstr ""
 
 msgctxt "[\"USER-GENDER\"]"
 msgid "Gender"
-msgstr ""
+msgstr "Стать"
 
 msgctxt "[\"USER-SAVE\"]"
 msgid "Save"
-msgstr ""
+msgstr "Зберегти"
 
 msgctxt "[\"USER-SAVING\"]"
 msgid "Saving..."
-msgstr ""
+msgstr "Збереження..."
 
 msgctxt "[\"USER-MY_PICTURE\"]"
 msgid "My Picture"
@@ -919,7 +918,7 @@ msgstr ""
 
 msgctxt "[\"USER-PASSWORD\"]"
 msgid "Password"
-msgstr ""
+msgstr "Пароль"
 
 msgctxt "[\"USER-NEW_USER_REGISTRATION\"]"
 msgid "New User Registration"
@@ -967,7 +966,7 @@ msgstr ""
 
 msgctxt "[\"REGION_DOWN-SEARCH\"]"
 msgid "Search"
-msgstr ""
+msgstr "Пошук"
 
 msgctxt "[\"REGION_DOWN-COUNTRY_NAME\"]"
 msgid "Country name or Region code"
@@ -2060,3 +2059,39 @@ msgstr ""
 msgctxt "[\"meta\"][\"Invit\"][\"keywords\"]"
 msgid "group, {app_name}, {app_category}, {app_type}, {app_developer}, {app_short_name} community"
 msgstr ""
+
+msgctxt "[\"DETAIL\"]"
+msgid "Detail"
+msgstr "детальніше"
+
+msgctxt "[\"COMMENT-REVIEW_OR_POST\"]"
+msgid "Post review or comment"
+msgstr "Оприлюднити огляд або коментар"
+
+msgctxt "[\"COMMENT-TO_BE_FIRST\"]"
+msgid "Ooops! No such content!"
+msgstr "Залиште перший коментар!"
+
+msgctxt "[\"COMMENT-ERR_SHARE_APK_DENY\"]"
+msgid "This APP cannot be uploaded"
+msgstr "Неможливо завантажити цей ДОДАТОК"
+
+msgctxt "[\"COMMENT-LINK\"]"
+msgid "Link"
+msgstr "Посилання"
+
+msgctxt "[\"PRE-REGISTER\"]"
+msgid "Pre-Registration Games"
+msgstr "Попередня реєстрація"
+
+msgctxt "[\"USER-CAPTCHA_TIME_OUT\"]"
+msgid "Verification Code Timeout."
+msgstr "Прострочений код підтвердження."
+
+msgctxt "[\"USER-INCORRECT_CAPTCHA\"]"
+msgid "Incorrect Verification Code"
+msgstr "Невірний код підтвердження."
+
+msgctxt "[\"USER-SEND_VERIFICATION_CODE\"]"
+msgid "Send verification code"
+msgstr "Надіслати код підтвердження"

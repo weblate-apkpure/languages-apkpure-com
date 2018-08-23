@@ -1,11 +1,30 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-07-19 09:13+0000\n"
+"PO-Revision-Date: 2018-08-17 22:00+0000\n"
+"Last-Translator: Mirmillon <MirmillonArkay@gmail.com>\n"
+"Language-Team: Russian <https://translate.apkpure.com/projects/apkpure/"
+"apkpurecom/ru/>\n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<="
+"4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 3.1.1\n"
+
 msgctxt "[\"NAV-GAME\"]"
 msgid "GAMES"
 msgstr "ИГРЫ"
 
+#, fuzzy
 msgctxt "[\"NAV-APP\"]"
 msgid "APPS"
 msgstr "Приложения"
 
+#, fuzzy
 msgctxt "[\"NAV-XAPK\"]"
 msgid "XAPK"
 msgstr "XAPK"
@@ -18,50 +37,60 @@ msgctxt "[\"NAV-PRODUCTS\"]"
 msgid "PRODUCTS"
 msgstr "НАШИ ПРОДУКТЫ"
 
+#, fuzzy
 msgctxt "[\"NAV-NEW_GAME\"]"
 msgid "NEW GAME"
 msgstr "НОВЫЕ ИГРЫ"
 
 msgctxt "[\"NAV-NEW_APP\"]"
 msgid "NEW APP"
-msgstr "НОВЫЕ ПРИЛОЖЕНИЯ"
+msgstr "Новые приложения"
 
 msgctxt "[\"NAV-XAPK_GAME\"]"
 msgid "XAPK GAME"
-msgstr "ИГРЫ в форме XAPK"
+msgstr "XAPK Игра"
 
+#, fuzzy
 msgctxt "[\"NAV-XAPK_APP\"]"
 msgid "XAPK APP"
 msgstr "ПРИЛОЖЕНИЯ  XAPK"
 
+#, fuzzy
 msgctxt "[\"NAV-APK_INSTALL\"]"
 msgid "APK Install"
 msgstr "Установить APK"
 
+#, fuzzy
 msgctxt "[\"NAV-APK_DOWNLOAD\"]"
 msgid "APK Download"
 msgstr "Скачать APK"
 
+#, fuzzy
 msgctxt "[\"NAV-APK_VERIFICATION\"]"
 msgid "APK Verification"
 msgstr "Проверка APK"
 
+#, fuzzy
 msgctxt "[\"NAV-APKPURE_APP\"]"
 msgid "APKPure App"
 msgstr "Приложение APKPure"
 
+#, fuzzy
 msgctxt "[\"DOWNLOAD\"]"
 msgid "Download"
 msgstr "Скачать"
 
+#, fuzzy
 msgctxt "[\"FAST_DOWNLOAD\"]"
 msgid "Fast Download"
 msgstr "Быстрая загрузка"
 
+#, fuzzy
 msgctxt "[\"IGNORE\"]"
 msgid "Ignore"
 msgstr "Игнорировать"
 
+#, fuzzy
 msgctxt "[\"OK\"]"
 msgid "OK"
 msgstr "Окей"
@@ -72,8 +101,9 @@ msgstr "Купить"
 
 msgctxt "[\"SELECT_LANGUAGE\"]"
 msgid "Select Language"
-msgstr "Выберите язык"
+msgstr "Русский"
 
+#, fuzzy
 msgctxt "[\"FREE\"]"
 msgid "Free"
 msgstr "Бесплатно"
@@ -1026,9 +1056,16 @@ msgctxt "[\"REGION_DOWN-TITLE\"]"
 msgid "Region free APK download"
 msgstr "Доступно для скачивания в любом регионе"
 
+#, fuzzy
 msgctxt "[\"REGION_DOWN-DES\"]"
 msgid "- Download your favorite Android Apps with APK Downloader (Free Apps Only).<br>- Your download will begin automatically after you paste a package id and click the download button.<br>- Download failed? Please manually change country setting and try again.<br>- Want to tell us more about your problems? <a style='color:#FFFF00' href='contact-us.html'>Contact us here</a>"
-msgstr "- Скачайте ваши любимые приложения для Андроид с помощью Загрузчика APK (только бесплатные приложения).<br>- Ваша загрузка начнётся автоматически после того, как Вы укажете идентификатор пакета и нажмёте на кнопка для скачивания.<br>- Ошибка при скачивании? Измените региональные настройки вручную и попробуйте снова.<br>- Хотите сообщить об ошибке? <a style='color:#FFFF00' href='/contact-us.html'>Свяжитесь с нами</a>"
+msgstr ""
+"- Скачайте ваши любимые приложения для Андроид с помощью Загрузчика APK ("
+"только бесплатные приложения).<br>- Ваша загрузка начнётся автоматически "
+"после того, как Вы укажете идентификатор пакета и нажмёте на кнопка для "
+"скачивания.<br>- Ошибка при скачивании? Измените региональные настройки "
+"вручную и попробуйте снова.<br>- Хотите сообщить об ошибке? <a style='color:#"
+"FFFF00' href='/contact-us.html'>Свяжитесь с нами</a>"
 
 msgctxt "[\"REGION_DOWN-PLACEHOLDER\"]"
 msgid "com.facebook.katana or https://play.google.com...?id=com.facebook.katana"
@@ -1066,9 +1103,13 @@ msgctxt "[\"SIGN_VERIFY-MAXIMUM\"]"
 msgid "Maximum file size"
 msgstr "Максимальный размер файла"
 
+#, fuzzy
 msgctxt "[\"SIGN_VERIFY-DES\"]"
 msgid "APK Signature verification will verify Android app package signature to keep Android users away from potentially harmful APK files before APK installing."
-msgstr "Проверка подписи APK проверит подпись приложения для Android, чтобы уберечь пользователей  Android от потенциально опасных APK-файлов(Измененных или неофициальных версий APK из Google Play Store) перед установкой APK."
+msgstr ""
+"Проверка подписи APK проверит подпись приложения для Android, чтобы уберечь "
+"пользователей  Android от потенциально опасных APK-файлов(Измененных или "
+"неофициальных версий APK из Google Play Store) перед установкой APK."
 
 msgctxt "[\"SIGN_VERIFY-PACKAGE_NAME\"]"
 msgid "Package Name"
@@ -1158,10 +1199,14 @@ msgctxt "[\"PRE-REG-RECOMMEND\"]"
 msgid "Recommendations"
 msgstr "Recommendations"
 
+#, fuzzy
 msgctxt "[\"404-DES\"]"
 msgid "It seems that page you are looking for no longer exists.<br />You can explore more Android Games and Apps below!"
-msgstr "Похоже, что страница, которую вы ищете больше не существует.<br /> Вы можете посмотреть на другие игры и приложения пониже!"
+msgstr ""
+"Похоже, что страница, которую вы ищете больше не существует.<br /> Вы можете "
+"посмотреть на другие игры и приложения пониже!"
 
+#, fuzzy
 msgctxt "[\"COPYRIGHT\"]"
 msgid "Copyright © 2014-2018 APKPure All rights reserved."
 msgstr "Авторские права © 2014-2018 APKPure. Все права защищены."
@@ -1350,6 +1395,7 @@ msgctxt "[\"MARKET-DETAIL_APK_SHORT_DES\"]"
 msgid "Faster apks download and update on APKPure App"
 msgstr "Быстрое скачивание и обновление приложений с программой APKPure"
 
+#, fuzzy
 msgctxt "[\"MARKET-DETAIL_APK_SHORT_DES_MOBILE\"]"
 msgid "Download and update on APKPure App"
 msgstr "Скачать и обновить с помощью приложения APKPure"

@@ -1,3 +1,19 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-08-21 11:44+0000\n"
+"PO-Revision-Date: 2018-08-22 18:00+0000\n"
+"Last-Translator: rustyhamsterr <rustyhamsterr@mailbox.org>\n"
+"Language-Team: German <https://translate.apkpure.com/projects/apkpure/"
+"apkpurecom/de/>\n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 3.1.1\n"
+
 msgctxt "[\"NAV-GAME\"]"
 msgid "GAMES"
 msgstr "SPIELE"
@@ -56,7 +72,7 @@ msgstr "Download"
 
 msgctxt "[\"FAST_DOWNLOAD\"]"
 msgid "Fast Download"
-msgstr "Schnell Herunterladen"
+msgstr "Schnell herunterladen"
 
 msgctxt "[\"IGNORE\"]"
 msgid "Ignore"
@@ -292,11 +308,11 @@ msgstr "Aktualisieren"
 
 msgctxt "[\"DEV-INCORRECT_PKG_EMAIL\"]"
 msgid "Invalid package name or email"
-msgstr "Invalid package name or email"
+msgstr "Ungültiger Paketname oder E-Mail"
 
 msgctxt "[\"DEV-SEND_EMAIL_ERR\"]"
 msgid "Failed to send mail"
-msgstr "Failed to send mail"
+msgstr "Senden der E-Mail fehlgeschlagen"
 
 msgctxt "[\"DEV-PKG_EXISTS\"]"
 msgid "Application has been claimed"
@@ -680,7 +696,7 @@ msgstr "Webseite"
 
 msgctxt "[\"COMMENT-TO_BE_FIRST\"]"
 msgid "Ooops! No such content!"
-msgstr "Schreib den ersten Kommentar."
+msgstr "Schreib den ersten Kommentar!"
 
 msgctxt "[\"COMMENT-VOTE\"]"
 msgid "Vote"
@@ -724,11 +740,11 @@ msgstr "Kommentar unbekannt"
 
 msgctxt "[\"COMMENT-ERR_EMOJI\"]"
 msgid "Emoji comments are not allowed any more! Write something..."
-msgstr "Emoji comments are not allowed any more! Write something..."
+msgstr "Emoji Kommentare sind nicht mehr erlaubt! Schreibe doch etwas..."
 
 msgctxt "[\"COMMENT-ERR_NONE_MESSAGE\"]"
 msgid "You must write something!"
-msgstr "You must write something!"
+msgstr "Du musst etwas schreiben!"
 
 msgctxt "[\"COMMENT-ERR_INVALID_PARAMETER\"]"
 msgid "Invalid comment parameter"
@@ -768,7 +784,7 @@ msgstr "Die APK-Datei auf APKPure herunterladen."
 
 msgctxt "[\"COMMENT-ERR_SHARE_APK_DENY\"]"
 msgid "This APP cannot be uploaded"
-msgstr "This APP cannot be uploaded"
+msgstr "Diese APP kann nicht hochgeladen werden"
 
 msgctxt "[\"COMMENT-LINK\"]"
 msgid "Link"
@@ -816,11 +832,11 @@ msgstr "Empfehlungen"
 
 msgctxt "[\"USER-REVIEWS\"]"
 msgid "Reviews"
-msgstr "Reviews"
+msgstr "Bewertungen"
 
 msgctxt "[\"USER-REVIEWS_NONE\"]"
 msgid "Too few users ratings"
-msgstr "Too few users ratings"
+msgstr "Zu wenig Nutzerbewertungen"
 
 msgctxt "[\"USER-FAVORITES\"]"
 msgid "Favorites"
@@ -908,23 +924,23 @@ msgstr "This third-party account has been connected to another account."
 
 msgctxt "[\"USER-EMAIL_EXIST\"]"
 msgid "This email has been connected to another account."
-msgstr "This email has been connected to another account."
+msgstr "Diese E-Mail wurde mit einem anderen Account verknüpft."
 
 msgctxt "[\"USER-SEND_EMAIL_ERR\"]"
 msgid "Failed to send verification code."
-msgstr "Failed to send verification code."
+msgstr "Senden des Verifikations-Codes fehlgeschlagen."
 
 msgctxt "[\"USER-EMAIL_UNBOUND\"]"
 msgid "This email address is not connected to any account."
-msgstr "This email address is not connected to any account."
+msgstr "Diese E-Mail Adresse ist mit keinem Account verknüpft."
 
 msgctxt "[\"USER-CAPTCHA_TIME_OUT\"]"
 msgid "Verification Code Timeout."
-msgstr "Verification Code Timeout."
+msgstr "Verifikations-Code abgelaufen."
 
 msgctxt "[\"USER-INCORRECT_CAPTCHA\"]"
 msgid "Incorrect Verification Code"
-msgstr "Incorrect Verification Code"
+msgstr "Verifikations-Code fehlerhaft"
 
 msgctxt "[\"USER-SEND_VERIFICATION_CODE\"]"
 msgid "Send verification code"
@@ -932,15 +948,15 @@ msgstr "Send verification code"
 
 msgctxt "[\"USER-CONNECT_YOUR_EMAIL\"]"
 msgid "Connect your email"
-msgstr "Connect your email"
+msgstr "Füge E-Mail hinzu"
 
 msgctxt "[\"USER-CHANGE_EMAIL\"]"
 msgid "Change email"
-msgstr "Change email"
+msgstr "E-Mail ändern"
 
 msgctxt "[\"USER-CONNECT_YOUR_EMAIL_FIRST\"]"
 msgid "Please connect your email first"
-msgstr "Please connect your email first"
+msgstr "Bitte zuerst E-Mail einrichten"
 
 msgctxt "[\"USER-FEMALE\"]"
 msgid "Female"
@@ -1148,15 +1164,15 @@ msgstr "Fehler 404!"
 
 msgctxt "[\"PRE-REG-NEW\"]"
 msgid "Newest"
-msgstr "Newest"
+msgstr "Neueste"
 
 msgctxt "[\"PRE-REG-BEST\"]"
 msgid "Best"
-msgstr "Best"
+msgstr "Beste"
 
 msgctxt "[\"PRE-REG-RECOMMEND\"]"
 msgid "Recommendations"
-msgstr "Recommendations"
+msgstr "Empfehlungen"
 
 msgctxt "[\"404-DES\"]"
 msgid "It seems that page you are looking for no longer exists.<br />You can explore more Android Games and Apps below!"
@@ -1296,7 +1312,7 @@ msgstr "Missbrauch melden"
 
 msgctxt "[\"MARKET-PAGE_TOP_GAMES\"]"
 msgid "Top Games"
-msgstr "Top Games"
+msgstr "Top Spiele"
 
 msgctxt "[\"MARKET-PAGE_TOP_APPS\"]"
 msgid "Top Apps"
@@ -1304,11 +1320,11 @@ msgstr "Top Apps"
 
 msgctxt "[\"MARKET-PAGE_TOP_DEVELOPERS\"]"
 msgid "Top Developers"
-msgstr "Top Developers"
+msgstr "Top Entwickler"
 
 msgctxt "[\"MARKET-PAGE_TOP_COUNTRIES\"]"
 msgid "Top Countries"
-msgstr "Top Countries"
+msgstr "Top Länder"
 
 msgctxt "[\"MARKET-POP_TITLE\"]"
 msgid "APKPure AppStore App"
@@ -1328,7 +1344,7 @@ msgstr "Neues Empfehlen oder neuen Kommentar hinzufügen"
 
 msgctxt "[\"MARKET-POP_ADD_TAG\"]"
 msgid "Add Tags"
-msgstr "Add Tags"
+msgstr "Tags hinzufügen"
 
 msgctxt "[\"MARKET-QR\"]"
 msgid "Download<br>APKPure App"
@@ -1460,11 +1476,11 @@ msgstr "Du kannst stattdessen folgende Spiele und Apps besuchen"
 
 msgctxt "[\"RECOMMENDED-POSTS\"]"
 msgid "Recommended Posts"
-msgstr "Recommended Posts"
+msgstr "Empfohlene Beiträge"
 
 msgctxt "[\"USERS-RECOMMENDED\"]"
 msgid "Users' Recommendations"
-msgstr "Users' Recommendations"
+msgstr "Nutzerempfehlungen"
 
 msgctxt "[\"REVIEW_PRIVACY_POLICY_DES_M\"]"
 msgid "We encourage you to read our updated <a target='_blank' href='{pp}'>Privacy Policy</a> and <a target='_blank' href='{cp}'>Cookies Policy</a>."
@@ -1668,7 +1684,7 @@ msgstr "Ignorować"
 
 msgctxt "[\"js\"][\"LANG_IGNORE\"][\"es\"]"
 msgid "Ignorar"
-msgstr "Ignorar"
+msgstr "Ignorieren"
 
 msgctxt "[\"js\"][\"LANG_IGNORE\"][\"ru\"]"
 msgid "игнорировать"

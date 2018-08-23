@@ -1,3 +1,19 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-08-08 07:38+0000\n"
+"PO-Revision-Date: 2018-08-09 09:00+0000\n"
+"Last-Translator: Bojun Li <bojun.lee@gmail.com>\n"
+"Language-Team: Chinese (Simplified) <https://translate.apkpure.com/projects/"
+"apkpure/apkpurecom/zh_Hans/>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 3.1.1\n"
+
 msgctxt "[\"NAV-GAME\"]"
 msgid "GAMES"
 msgstr "游戏"
@@ -20,11 +36,11 @@ msgstr "产品"
 
 msgctxt "[\"NAV-NEW_GAME\"]"
 msgid "NEW GAME"
-msgstr "最近更新游戏"
+msgstr "新游戏"
 
 msgctxt "[\"NAV-NEW_APP\"]"
 msgid "NEW APP"
-msgstr "最近更新应用"
+msgstr "新应用"
 
 msgctxt "[\"NAV-XAPK_GAME\"]"
 msgid "XAPK GAME"
@@ -36,15 +52,15 @@ msgstr "XAPK 应用"
 
 msgctxt "[\"NAV-APK_INSTALL\"]"
 msgid "APK Install"
-msgstr "APK 安装器"
+msgstr "安装 APK"
 
 msgctxt "[\"NAV-APK_DOWNLOAD\"]"
 msgid "APK Download"
-msgstr "APK 下载器"
+msgstr "下载 APK"
 
 msgctxt "[\"NAV-APK_VERIFICATION\"]"
 msgid "APK Verification"
-msgstr "APK 签名校验器"
+msgstr "验证 APK"
 
 msgctxt "[\"NAV-APKPURE_APP\"]"
 msgid "APKPure App"
@@ -64,7 +80,7 @@ msgstr "忽略"
 
 msgctxt "[\"OK\"]"
 msgid "OK"
-msgstr "好的"
+msgstr "确定"
 
 msgctxt "[\"BUY\"]"
 msgid "Buy"
@@ -80,15 +96,15 @@ msgstr "免费"
 
 msgctxt "[\"TOP-UPDATED-APPS\"]"
 msgid "Top Updated Apps"
-msgstr "Top Updated Apps"
+msgstr "应用更新排行"
 
 msgctxt "[\"TOP-UPDATED-GAMES\"]"
 msgid "Top Updated Games"
-msgstr "Top Updated Games"
+msgstr "游戏更新排行"
 
 msgctxt "[\"READ_MORE\"]"
 msgid "Read More"
-msgstr "查看更多"
+msgstr "阅读详细信息"
 
 msgctxt "[\"GAME\"]"
 msgid "GAME"
@@ -108,7 +124,7 @@ msgstr "应用"
 
 msgctxt "[\"MORE\"]"
 msgid "More"
-msgstr "更多"
+msgstr "其它"
 
 msgctxt "[\"XAPK\"]"
 msgid "XAPK"
@@ -116,11 +132,11 @@ msgstr "XAPK"
 
 msgctxt "[\"XAPK-GAMES\"]"
 msgid "XAPK Games"
-msgstr "XAPK游戏"
+msgstr "XAPK 游戏"
 
 msgctxt "[\"XAPK-APPS\"]"
 msgid "XAPK Apps"
-msgstr "XAPK应用"
+msgstr "XAPK 应用"
 
 msgctxt "[\"HOME\"]"
 msgid "Home"
@@ -132,7 +148,7 @@ msgstr "排序方式"
 
 msgctxt "[\"HOT\"]"
 msgid "Hot"
-msgstr "最热门"
+msgstr "热门"
 
 msgctxt "[\"ATTACHMENT\"]"
 msgid "Attachment"
@@ -680,7 +696,7 @@ msgstr "网站"
 
 msgctxt "[\"COMMENT-TO_BE_FIRST\"]"
 msgid "Ooops! No such content!"
-msgstr "没有符合条件的内容"
+msgstr "哎呀！ 没找到这方面的内容！"
 
 msgctxt "[\"COMMENT-VOTE\"]"
 msgid "Vote"
@@ -728,7 +744,7 @@ msgstr "不能发布纯表情内容，写点东西吧..."
 
 msgctxt "[\"COMMENT-ERR_NONE_MESSAGE\"]"
 msgid "You must write something!"
-msgstr "请填写评论内容"
+msgstr "您必须写点什么!"
 
 msgctxt "[\"COMMENT-ERR_INVALID_PARAMETER\"]"
 msgid "Invalid comment parameter"
@@ -888,11 +904,11 @@ msgstr "您输入的用户名无效。"
 
 msgctxt "[\"USER-INCORRECT_BIRTHDAY\"]"
 msgid "You have entered an invalid birthday."
-msgstr "输入日期无效"
+msgstr "您输入的生日格式无效。"
 
 msgctxt "[\"USER-INCORRECT_INTRO\"]"
 msgid "Information you have entered contains invalid characters."
-msgstr "输入信息中包含非法字符"
+msgstr "您所输入的信息中包含无效字符。"
 
 msgctxt "[\"USER-UNKNOWN_ERROR\"]"
 msgid "unknown mistake."
@@ -904,23 +920,23 @@ msgstr "您的输入包括敏感词汇。"
 
 msgctxt "[\"USER-SOCIAL_ALREADY_BIND\"]"
 msgid "This third-party account has been connected to another account."
-msgstr "该账号已被绑定"
+msgstr "此第三方账户已与其它账户相关联。"
 
 msgctxt "[\"USER-EMAIL_EXIST\"]"
 msgid "This email has been connected to another account."
-msgstr "邮箱已存在"
+msgstr "此电子邮件地址已与其它账户相关联。"
 
 msgctxt "[\"USER-SEND_EMAIL_ERR\"]"
 msgid "Failed to send verification code."
-msgstr "发送失败"
+msgstr "验证码发送失败。"
 
 msgctxt "[\"USER-EMAIL_UNBOUND\"]"
 msgid "This email address is not connected to any account."
-msgstr "该邮箱未绑定"
+msgstr "此电子邮件地址尚未与任何账户相关联。"
 
 msgctxt "[\"USER-CAPTCHA_TIME_OUT\"]"
 msgid "Verification Code Timeout."
-msgstr "验证码超时"
+msgstr "验证码超时。"
 
 msgctxt "[\"USER-INCORRECT_CAPTCHA\"]"
 msgid "Incorrect Verification Code"
@@ -1080,7 +1096,7 @@ msgstr "签名"
 
 msgctxt "[\"SIGN_VERIFY-FILE_SHA1\"]"
 msgid "File SHA1"
-msgstr "文件SHA1"
+msgstr "文件 SHA1"
 
 msgctxt "[\"SIGN_VERIFY-FILE_SIZE\"]"
 msgid "File Size"
@@ -1088,7 +1104,7 @@ msgstr "文件大小"
 
 msgctxt "[\"SEARCH-ON_THE_APP_STORE\"]"
 msgid "{0} On the App Store"
-msgstr "{0} On the App Store"
+msgstr "应用商店中有 {0}"
 
 msgctxt "[\"SEARCH-ADVANCED_SEARCH\"]"
 msgid "Advanced Search"
@@ -1096,19 +1112,19 @@ msgstr "高级搜索"
 
 msgctxt "[\"SEARCH-SEARCH_RESULTS\"]"
 msgid "{0} search results found."
-msgstr "找到{0}个搜索结果。"
+msgstr "已搜索到 {0} 个结果。"
 
 msgctxt "[\"SEARCH-NO_RESULTS_FOUND\"]"
 msgid "No results found? Try to advanced search again."
-msgstr "没找到？请尝试切换到高级搜索。"
+msgstr "没找到? 尝试切换到“高级模式”，然后再试一次。"
 
 msgctxt "[\"SEARCH-SELECT_REGION\"]"
 msgid "Select a region you want to search with"
-msgstr "选择国家"
+msgstr "选择要搜索的 地区/国家"
 
 msgctxt "[\"SEARCH-ABOUT_RESULTS\"]"
 msgid "About {0} results"
-msgstr "个搜索结果"
+msgstr "已找到 {0} 个结果"
 
 msgctxt "[\"SEARCH-PLACEHOLDER1\"]"
 msgid "APKPure or com.apkpure.aegon"
@@ -1164,7 +1180,7 @@ msgstr "抱歉！看来您正查找的页面已不存在。<br/>您可以选择�
 
 msgctxt "[\"COPYRIGHT\"]"
 msgid "Copyright © 2014-2018 APKPure All rights reserved."
-msgstr "© 2014-2018 APKPure 版权所有"
+msgstr "版权所有 © 2014-2018 APKPure 保留所有权利。"
 
 msgctxt "[\"COPYRIGHT_MOBILE\"]"
 msgid "APKPure.com © 2014-2018"
@@ -1376,7 +1392,7 @@ msgstr "APKPure 客户端"
 
 msgctxt "[\"MARKET-INDEX_BANNER_DES\"]"
 msgid "Install,manage and update your apps"
-msgstr "免费下载，更新升级安卓游戏及应用"
+msgstr "安装、管理并对您的应用进行更新"
 
 msgctxt "[\"MARKET-BOTTOM_BANNER_TITLE\"]"
 msgid "APKPure App"
@@ -1848,7 +1864,7 @@ msgstr "重新发送({0})"
 
 msgctxt "[\"js\"][\"COMMENT-DELETE\"]"
 msgid "Yes,delete it!"
-msgstr "删除"
+msgstr "是，请将其删除!"
 
 msgctxt "[\"js\"][\"COMMENT-DELETED\"]"
 msgid "Deleted!"
@@ -1860,7 +1876,7 @@ msgstr "你确定？"
 
 msgctxt "[\"js\"][\"COMMENT-RATE_MUST\"]"
 msgid "Before writing a review or something, please rate the app first."
-msgstr "发表评价前，请先评星！"
+msgstr "发表评论前，请先对该应用进行评价。"
 
 msgctxt "[\"js\"][\"COMMENT-VOTE\"]"
 msgid "Vote"
@@ -2160,7 +2176,10 @@ msgstr "{app_short_name}类似游戏, {app_short_name}同类{app_type}, {app_sho
 
 msgctxt "[\"meta\"][\"Similar\"][\"description\"]"
 msgid "Popular alternative {app_type} to {app_short_name} for Android, Android tablet and more. Download top {similar_count} {app_type} like {app_short_name}, all {app_type} suggested by APKPure."
-msgstr "类似{app_short_name}的手游，{app_short_name}同类游戏,安卓平板游戏下载。APKPure力荐{similar_count}款类似{app_short_name}的经典{app_category}类{app_type}。"
+msgstr ""
+"为 Android、Android 平板和其它设备设计的，与 {app_short_name} 类似的 {app_type} 类热门同类应用。下载所有由 "
+"APKPure 推荐的 {app_type} 类，与 {app_short_name} 类似，排行 {similar_count} 的 "
+"{app_type} 类应用。"
 
 msgctxt "[\"meta\"][\"Login\"][\"title\"]"
 msgid "Sign in account for APKPure Android App Store"
@@ -2204,7 +2223,7 @@ msgstr "{user_name}的APKPure"
 
 msgctxt "[\"meta\"][\"Profile\"][\"description\"]"
 msgid "The APKPure member profile for {user_name}."
-msgstr "{user_name}的APKPure个人中心"
+msgstr "{user_name} 的 APKPure 成员资料。"
 
 msgctxt "[\"meta\"][\"Register\"][\"title\"]"
 msgid "Register account for APKPure Android App Store"
@@ -2248,7 +2267,7 @@ msgstr "{title}-{app_type}讨论 | {app_name}讨论组"
 
 msgctxt "[\"meta\"][\"Invit\"][\"description_title\"]"
 msgid "\"{post_details}\" sent by {user_name} in {app_name} {app_type} Discussions."
-msgstr "{user_name}发布了{app_name}{app_type}讨论：，\"{post_details}\""
+msgstr "{user_name} 在关于 {app_name} {app_type} 的讨论中提到 \"{post_details}\" 。"
 
 msgctxt "[\"meta\"][\"Invit\"][\"keywords\"]"
 msgid "group, {app_name}, {app_category}, {app_type}, {app_developer}, {app_short_name} community"

@@ -3,324 +3,398 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-09-08 07:11+0000\n"
-"PO-Revision-Date: 2018-03-11 05:38+0000\n"
-"Last-Translator: Patrick Choi <mailpatrickkorea@gmail.com>\n"
-"Language-Team: English (United Kingdom) "
-"<https://translate.apkpure.com/projects/apkpure/apkpurecom/en_GB/>\n"
+"PO-Revision-Date: 2018-08-21 16:00+0000\n"
+"Last-Translator: Farhan Prince <fp8893219@gmail.com>\n"
+"Language-Team: English (United Kingdom) <https://translate.apkpure.com/"
+"projects/apkpure/apkpurecom/en_GB/>\n"
 "Language: en_GB\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 2.14.1\n"
+"X-Generator: Weblate 3.1.1\n"
 
 msgctxt "[\"NAV-GAME\"]"
 msgid "GAMES"
-msgstr "GAMES"
+msgstr "Games"
 
+#, fuzzy
 msgctxt "[\"NAV-APP\"]"
 msgid "APPS"
-msgstr ""
+msgstr "Apps"
 
+#, fuzzy
 msgctxt "[\"NAV-XAPK\"]"
 msgid "XAPK"
-msgstr ""
+msgstr "XAPK"
 
+#, fuzzy
 msgctxt "[\"NAV-NEW\"]"
 msgid "NEW"
-msgstr ""
+msgstr "NEW"
 
+#, fuzzy
 msgctxt "[\"NAV-PRODUCTS\"]"
 msgid "PRODUCTS"
-msgstr ""
+msgstr "PRODUCTS"
 
+#, fuzzy
 msgctxt "[\"NAV-NEW_GAME\"]"
 msgid "NEW GAME"
-msgstr ""
+msgstr "NEW GAME"
 
+#, fuzzy
 msgctxt "[\"NAV-NEW_APP\"]"
 msgid "NEW APP"
 msgstr "NEW APP"
 
+#, fuzzy
 msgctxt "[\"NAV-XAPK_GAME\"]"
 msgid "XAPK GAME"
-msgstr ""
+msgstr "XAPK GAME"
 
+#, fuzzy
 msgctxt "[\"NAV-XAPK_APP\"]"
 msgid "XAPK APP"
-msgstr ""
+msgstr "XAPK APP"
 
+#, fuzzy
 msgctxt "[\"NAV-APK_INSTALL\"]"
 msgid "APK Install"
-msgstr ""
+msgstr "APK Install"
 
+#, fuzzy
 msgctxt "[\"NAV-APK_DOWNLOAD\"]"
 msgid "APK Download"
-msgstr ""
+msgstr "APK Download"
 
+#, fuzzy
 msgctxt "[\"NAV-APK_VERIFICATION\"]"
 msgid "APK Verification"
-msgstr ""
+msgstr "APK Verification"
 
+#, fuzzy
 msgctxt "[\"NAV-APKPURE_APP\"]"
 msgid "APKPure App"
-msgstr ""
+msgstr "APKPure App"
 
+#, fuzzy
 msgctxt "[\"DOWNLOAD\"]"
 msgid "Download"
-msgstr ""
+msgstr "Download"
 
+#, fuzzy
 msgctxt "[\"IGNORE\"]"
 msgid "Ignore"
-msgstr ""
+msgstr "Ignore"
 
+#, fuzzy
 msgctxt "[\"OK\"]"
 msgid "OK"
-msgstr ""
+msgstr "OK"
 
+#, fuzzy
 msgctxt "[\"SELECT_LANGUAGE\"]"
 msgid "Select Language"
-msgstr ""
+msgstr "Select Language"
 
+#, fuzzy
 msgctxt "[\"FREE\"]"
 msgid "Free"
-msgstr ""
+msgstr "Free"
 
+#, fuzzy
 msgctxt "[\"TOP-UPDATED-APPS\"]"
 msgid "Top Updated Apps"
-msgstr ""
+msgstr "Top Updated Apps"
 
+#, fuzzy
 msgctxt "[\"TOP-UPDATED-GAMES\"]"
 msgid "Top Updated Games"
-msgstr ""
+msgstr "Top Updated Games"
 
+#, fuzzy
 msgctxt "[\"READ_MORE\"]"
 msgid "Read More"
-msgstr ""
+msgstr "Read More"
 
+#, fuzzy
 msgctxt "[\"GAME\"]"
 msgid "GAME"
-msgstr ""
+msgstr "GAME"
 
+#, fuzzy
 msgctxt "[\"APP\"]"
 msgid "APP"
-msgstr ""
+msgstr "APP"
 
+#, fuzzy
 msgctxt "[\"GAMES\"]"
 msgid "Games"
-msgstr ""
+msgstr "Games"
 
+#, fuzzy
 msgctxt "[\"APPS\"]"
 msgid "Apps"
-msgstr ""
+msgstr "Apps"
 
+#, fuzzy
 msgctxt "[\"MORE\"]"
 msgid "More"
-msgstr ""
+msgstr "More"
 
+#, fuzzy
 msgctxt "[\"XAPK\"]"
 msgid "XAPK"
-msgstr ""
+msgstr "XAPK"
 
+#, fuzzy
 msgctxt "[\"XAPK-GAMES\"]"
 msgid "XAPK Games"
-msgstr ""
+msgstr "XAPK Games"
 
+#, fuzzy
 msgctxt "[\"XAPK-APPS\"]"
 msgid "XAPK Apps"
-msgstr ""
+msgstr "XAPK Apps"
 
+#, fuzzy
 msgctxt "[\"HOME\"]"
 msgid "Home"
-msgstr ""
+msgstr "Home"
 
+#, fuzzy
 msgctxt "[\"SORT_BY\"]"
 msgid "Sort by"
-msgstr ""
+msgstr "Sort by"
 
+#, fuzzy
 msgctxt "[\"HOT\"]"
 msgid "Hot"
-msgstr ""
+msgstr "Hot"
 
+#, fuzzy
 msgctxt "[\"DOWNLOADS\"]"
 msgid "Downloads"
-msgstr ""
+msgstr "Downloads"
 
+#, fuzzy
 msgctxt "[\"NEWEST\"]"
 msgid "Newest"
-msgstr ""
+msgstr "Newest"
 
+#, fuzzy
 msgctxt "[\"RATING\"]"
 msgid "Rating"
-msgstr ""
+msgstr "Rating yes"
 
+#, fuzzy
 msgctxt "[\"CATEGORY\"]"
 msgid "Category"
-msgstr ""
+msgstr "Category"
 
+#, fuzzy
 msgctxt "[\"CATEGORY_JOIN\"]"
 msgid "{app_category} {app_type}"
-msgstr ""
+msgstr "{app_category} {app_type}"
 
+#, fuzzy
 msgctxt "[\"SHOW_MORE\"]"
 msgid "Show More"
-msgstr ""
+msgstr "Show More"
 
+#, fuzzy
 msgctxt "[\"SHOW_LESS\"]"
 msgid "Show less"
-msgstr ""
+msgstr "Show less"
 
 msgctxt "[\"HAVE_PRODUCTS\"]"
 msgid "have {0} products"
 msgstr ""
 
+#, fuzzy
 msgctxt "[\"DEVELOPER\"]"
 msgid "Developer"
-msgstr ""
+msgstr "Developer"
 
+#, fuzzy
 msgctxt "[\"POPULAR_GAMES_IN_LAST_HOURS\"]"
 msgid "Popular Games In Last {0} Hours"
-msgstr ""
+msgstr "Popular Games In Last {0} Hours"
 
+#, fuzzy
 msgctxt "[\"POPULAR_APPS_IN_LAST_HOURS\"]"
 msgid "Popular Apps In Last {0} Hours"
-msgstr ""
+msgstr "Popular Apps In Last {0} Hours"
 
+#, fuzzy
 msgctxt "[\"POPULAR_APPS_IN_TODAY\"]"
 msgid "Popular Apps In Today"
-msgstr ""
+msgstr "Popular Apps In Today"
 
+#, fuzzy
 msgctxt "[\"POPULAR_GAMES_IN_TODAY\"]"
 msgid "Popular Games In Today"
-msgstr ""
+msgstr "Popular Games In Today"
 
+#, fuzzy
 msgctxt "[\"HOT_GAMES\"]"
 msgid "Hot Games"
-msgstr ""
+msgstr "Hot Games"
 
+#, fuzzy
 msgctxt "[\"HOT_APPS\"]"
 msgid "Hot Apps"
-msgstr ""
+msgstr "Hot Apps"
 
+#, fuzzy
 msgctxt "[\"CLOSE\"]"
 msgid "Close"
-msgstr ""
+msgstr "Close"
 
+#, fuzzy
 msgctxt "[\"COMMENTS\"]"
 msgid "Comments"
-msgstr ""
+msgstr "Comments"
 
+#, fuzzy
 msgctxt "[\"LATEST_UPDATE_GAMES\"]"
 msgid "Latest Update Games"
-msgstr ""
+msgstr "Latest Update Games"
 
+#, fuzzy
 msgctxt "[\"LATEST_UPDATE_APPS\"]"
 msgid "Latest Update Apps"
-msgstr ""
+msgstr "Latest Update Apps"
 
+#, fuzzy
 msgctxt "[\"LATEST_UPDATE\"]"
 msgid "Latest Update"
-msgstr ""
+msgstr "Latest Update"
 
+#, fuzzy
 msgctxt "[\"XAPK_IS_APK_WITH_OBB_DATA\"]"
 msgid "XAPK is APK with OBB data"
-msgstr ""
+msgstr "XAPK is APK with OBB data"
 
+#, fuzzy
 msgctxt "[\"MOST_POPULAR_IN_TODAY\"]"
 msgid "Most Popular In Today"
-msgstr ""
+msgstr "Most Popular In Today"
 
+#, fuzzy
 msgctxt "[\"SIMILAR_OR_RELATED\"]"
 msgid "Similar Or Related"
-msgstr ""
+msgstr "Similar Or Related"
 
+#, fuzzy
 msgctxt "[\"INDEX-TITLE\"]"
 msgid "Download free Android Games and Android Apps."
-msgstr ""
+msgstr "Download free Android Games and Android Apps."
 
+#, fuzzy
 msgctxt "[\"INDEX-MOBILE_TITLE\"]"
 msgid "Download free Android Games and Apps."
-msgstr ""
+msgstr "Download free Android Games and Apps."
 
+#, fuzzy
 msgctxt "[\"INDEX-HOW_TO_DOWNLOAD\"]"
 msgid "How to download apk files?"
-msgstr ""
+msgstr "How to download apk files?"
 
+#, fuzzy
 msgctxt "[\"INDEX-FAQ\"]"
 msgid "FAQ"
-msgstr ""
+msgstr "FAQ"
 
+#, fuzzy
 msgctxt "[\"INDEX-POPULAR_CATEGORIES\"]"
 msgid "Popular categories"
-msgstr ""
+msgstr "Popular categories"
 
+#, fuzzy
 msgctxt "[\"DOWNLOAD_APK\"]"
 msgid "Download APK"
-msgstr ""
+msgstr "Download APK"
 
+#, fuzzy
 msgctxt "[\"VERIFICATION_CODE\"]"
 msgid "Verification code"
-msgstr ""
+msgstr "Verification code"
 
+#, fuzzy
 msgctxt "[\"VERIFICATION_INCORRECT\"]"
 msgid "The verification code is incorrect!"
-msgstr ""
+msgstr "The verification code is incorrect!"
 
+#, fuzzy
 msgctxt "[\"VERIFICATION_DOWN\"]"
 msgid "Enter the code(s) as you see in the image, then click \"Download\"."
-msgstr ""
+msgstr "Enter the code(s) as you see in the image, then click \"Download\"."
 
+#, fuzzy
 msgctxt "[\"TOPICS\"]"
 msgid "Topics"
-msgstr ""
+msgstr "Topics"
 
+#, fuzzy
 msgctxt "[\"SIMILAR_TO\"]"
 msgid "Similar to {0}"
-msgstr ""
+msgstr "Similar to {0}"
 
+#, fuzzy
 msgctxt "[\"CANCEL\"]"
 msgid "Cancel"
-msgstr ""
+msgstr "Cancel"
 
+#, fuzzy
 msgctxt "[\"UPDATE\"]"
 msgid "Update"
-msgstr ""
+msgstr "Update"
 
+#, fuzzy
 msgctxt "[\"DETAIL-PAID_GAME\"]"
 msgid "Paid Game"
-msgstr ""
+msgstr "Paid Game"
 
+#, fuzzy
 msgctxt "[\"DETAIL-PAID_APP\"]"
 msgid "Paid App"
-msgstr ""
+msgstr "Paid App"
 
+#, fuzzy
 msgctxt "[\"DETAIL-PAID_GAME_DES\"]"
 msgid "Paid games are not available to download"
-msgstr ""
+msgstr "Paid games are not available to download"
 
+#, fuzzy
 msgctxt "[\"DETAIL-PAID_APP_DES\"]"
 msgid "Paid apps are not available to download"
-msgstr ""
+msgstr "Paid apps are not available to download"
 
+#, fuzzy
 msgctxt "[\"DETAIL-WHY_SAFE\"]"
 msgid "Why we can guarantee APK 100% safe?"
-msgstr ""
+msgstr "Why we can guarantee APK 100% safe?"
 
+#, fuzzy
 msgctxt "[\"DETAIL-SAFE\"]"
 msgid "Verification passed"
-msgstr ""
+msgstr "Verification passed"
 
+#, fuzzy
 msgctxt "[\"DETAIL-XAPK_SHORT_DES\"]"
 msgid "XAPK is APK with OBB data, Click to get XAPK Installer"
-msgstr ""
+msgstr "XAPK is APK with OBB data, Click to get XAPK Installer"
 
+#, fuzzy
 msgctxt "[\"DETAIL-MOBILE_XAPK_SHORT_DES\"]"
 msgid "Click to get XAPK Installer"
-msgstr ""
+msgstr "Click to get XAPK Installer"
 
 msgctxt "[\"DETAIL-CATEGORY\"]"
 msgid "Category"
-msgstr ""
+msgstr "1"
 
 msgctxt "[\"DETAIL-LATEST_VERSION\"]"
 msgid "Latest Version"
@@ -1749,3 +1823,63 @@ msgstr ""
 msgctxt "[\"meta\"][\"Similar\"][\"description\"]"
 msgid "Popular alternative {app_type} to {app_short_name} for Android, Android tablet and more. Download top {similar_count} {app_type} like {app_short_name}, all {app_type} suggested by APKPure."
 msgstr ""
+
+#, fuzzy
+msgctxt "[\"FAST_DOWNLOAD\"]"
+msgid "Fast Download"
+msgstr "Fast Download"
+
+#, fuzzy
+msgctxt "[\"BUY\"]"
+msgid "Buy"
+msgstr "Buy"
+
+#, fuzzy
+msgctxt "[\"ATTACHMENT\"]"
+msgid "Attachment"
+msgstr "Attachment"
+
+#, fuzzy
+msgctxt "[\"DOWNLOADS_ATTACHMENT\"]"
+msgid "Downloads"
+msgstr "Downloads"
+
+#, fuzzy
+msgctxt "[\"HAVE_PRODUCTS\"]"
+msgid "All {0} Apps"
+msgstr "All {0} Apps"
+
+#, fuzzy
+msgctxt "[\"NOT_FOUND\"]"
+msgid "Not Found"
+msgstr "Not Found"
+
+#, fuzzy
+msgctxt "[\"DEV-INCORRECT_PKG_EMAIL\"]"
+msgid "Invalid package name or email"
+msgstr "Invalid package name or email"
+
+#, fuzzy
+msgctxt "[\"DEV-SEND_EMAIL_ERR\"]"
+msgid "Failed to send mail"
+msgstr "Failed to send mail"
+
+#, fuzzy
+msgctxt "[\"DEV-PKG_EXISTS\"]"
+msgid "Application has been claimed"
+msgstr "Application has been claimed"
+
+#, fuzzy
+msgctxt "[\"DETAIL\"]"
+msgid "Detail"
+msgstr "Detail"
+
+#, fuzzy
+msgctxt "[\"DETAIL-HOT_TAGS\"]"
+msgid "{0} Tags"
+msgstr "{0} Tags"
+
+#, fuzzy
+msgctxt "[\"DETAIL-MAIGHT_LIKE\"]"
+msgid "You Might Also Like"
+msgstr "You Might Also Like"

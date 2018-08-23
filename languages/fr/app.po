@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-09-05 10:22+0000\n"
-"PO-Revision-Date: 2018-07-03 13:25+0000\n"
-"Last-Translator: Jason Madi <developper.madijason@gmail.com>\n"
+"PO-Revision-Date: 2018-08-23 05:53+0000\n"
+"Last-Translator: Joyce Evans <Joycewvans@gmail.com>\n"
 "Language-Team: French <https://translate.apkpure.com/projects/apkpure/"
 "apkpurecom/fr/>\n"
 "Language: fr\n"
@@ -12,36 +12,43 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 3.0\n"
+"X-Generator: Weblate 3.1.1\n"
 
 msgctxt "[\"NAV-GAME\"]"
 msgid "GAMES"
 msgstr "Jeux"
 
+#, fuzzy
 msgctxt "[\"NAV-APP\"]"
 msgid "APPS"
 msgstr "Applications"
 
+#, fuzzy
 msgctxt "[\"NAV-XAPK\"]"
 msgid "XAPK"
 msgstr "XAPK"
 
+#, fuzzy
 msgctxt "[\"NAV-NEW\"]"
 msgid "NEW"
 msgstr "Nouveaux"
 
+#, fuzzy
 msgctxt "[\"NAV-PRODUCTS\"]"
 msgid "PRODUCTS"
 msgstr "Produits"
 
+#, fuzzy
 msgctxt "[\"NAV-NEW_GAME\"]"
 msgid "NEW GAME"
 msgstr "Nouveaux Jeux"
 
+#, fuzzy
 msgctxt "[\"NAV-NEW_APP\"]"
 msgid "NEW APP"
 msgstr "Nouvelle application"
 
+#, fuzzy
 msgctxt "[\"NAV-XAPK_GAME\"]"
 msgid "XAPK GAME"
 msgstr "Jeux XAPK"
@@ -50,6 +57,7 @@ msgctxt "[\"NAV-XAPK_APP\"]"
 msgid "XAPK APP"
 msgstr "Applications XAPK"
 
+#, fuzzy
 msgctxt "[\"NAV-APK_INSTALL\"]"
 msgid "APK Install"
 msgstr "Installation à partir  du fichier APK"
@@ -134,6 +142,7 @@ msgctxt "[\"NEWEST\"]"
 msgid "Newest"
 msgstr "Récents"
 
+#, fuzzy
 msgctxt "[\"RATING\"]"
 msgid "Rating"
 msgstr "Notés"
@@ -150,6 +159,7 @@ msgctxt "[\"SHOW_MORE\"]"
 msgid "Show More"
 msgstr "Voir plus"
 
+#, fuzzy
 msgctxt "[\"SHOW_LESS\"]"
 msgid "Show less"
 msgstr "Voir moins"
@@ -288,10 +298,12 @@ msgctxt "[\"DETAIL-PUBLISH_DATE\"]"
 msgid "Publish Date"
 msgstr "Date de publication"
 
+#, fuzzy
 msgctxt "[\"DETAIL-GET_IT_ON\"]"
 msgid "Get it on"
 msgstr "Téléchargez le sur"
 
+#, fuzzy
 msgctxt "[\"DETAIL-REQUIREMENTS\"]"
 msgid "Requirements"
 msgstr "Exigences"
@@ -372,6 +384,7 @@ msgctxt "[\"DETAIL-RATING\"]"
 msgid "{votes} votes, average: {rating_average} out of {rating_best}"
 msgstr "{votes} votes, moyenne: {rating_average} sur {rating_best}"
 
+#, fuzzy
 msgctxt "[\"DETAIL-MORE_DEVELOPER\"]"
 msgid "Get more from {0}"
 msgstr "Obtenir plus de {0}"
@@ -428,6 +441,7 @@ msgctxt "[\"DETAIL_DOWNLOAD-NAV_DOWNLOAD\"]"
 msgid "Download"
 msgstr "Télécharger"
 
+#, fuzzy
 msgctxt "[\"DETAIL_DOWNLOAD-DOWNLOADING\"]"
 msgid "Downloading"
 msgstr "En cours de téléchargement"
@@ -1731,6 +1745,7 @@ msgctxt "[\"COMMENT-COMMENTS\"]"
 msgid "Comments"
 msgstr "Commentaires"
 
+#, fuzzy
 msgctxt "[\"COMMENT-REPLY\"]"
 msgid "Reply"
 msgstr "Répondre"
@@ -1787,6 +1802,7 @@ msgctxt "[\"COMMENT-COMMENTS_CANT_BE_BLANK\"]"
 msgid "Comments can't be blank."
 msgstr "Les commentaires ne peuvent pas être vides."
 
+#, fuzzy
 msgctxt "[\"COMMENT-POST_AS_GUEST\"]"
 msgid "Post As a Guest"
 msgstr "Publié comme invité"
@@ -1819,6 +1835,7 @@ msgctxt "[\"COMMENT-ERR_DISCUSSION\"]"
 msgid "Incorrect in discussion"
 msgstr "Incorrect dans la discussion"
 
+#, fuzzy
 msgctxt "[\"COMMENT-ERR_RATE\"]"
 msgid "Vote failed, repeated"
 msgstr "Vote échoué, réessayez"
@@ -1859,6 +1876,7 @@ msgctxt "[\"COMMENT-DELETE\"]"
 msgid "Yes,delete it!"
 msgstr "Oui, supprimez-le !"
 
+#, fuzzy
 msgctxt "[\"COMMENT-COLLAPSED\"]"
 msgid "comment collapsed"
 msgstr "Commentaire effondré"
@@ -1875,6 +1893,7 @@ msgctxt "[\"COMMENT-ARE_YOU_SURE\"]"
 msgid "Are you sure?"
 msgstr "Êtes-vous sûr ?"
 
+#, fuzzy
 msgctxt "[\"COMMENT-LOADING\"]"
 msgid "Comment Loading..."
 msgstr "Charegement du commentaire..."
@@ -2024,6 +2043,7 @@ msgctxt "[\"VERSION-VERSIONS\"]"
 msgid "Versions"
 msgstr "Versions"
 
+#, fuzzy
 msgctxt "[\"VERSION-REQUIRES_ANDROID\"]"
 msgid "Requires Android"
 msgstr "Android requis"
@@ -2116,6 +2136,7 @@ msgctxt "[\"COMMENT-ALL-REPLY\"]"
 msgid "All {0} replies"
 msgstr "Toutes les {0} réponses"
 
+#, fuzzy
 msgctxt "[\"COMMENT-VIEWS\"]"
 msgid "Views"
 msgstr "Vues"
@@ -2160,6 +2181,7 @@ msgctxt "[\"USER-INCORRECT_INTRO\"]"
 msgid "Information you have entered contains invalid characters."
 msgstr "Vous avez utilisé des caractères non-autorisés."
 
+#, fuzzy
 msgctxt "[\"USER-NICKNAME\"]"
 msgid "Nickname"
 msgstr "Pseudo"
@@ -2622,6 +2644,7 @@ msgctxt "[\"PRE-REGISTER_DATE\"]"
 msgid "Release Date"
 msgstr "Date de Publication"
 
+#, fuzzy
 msgctxt "[\"PRE-REGISTER_REWARDS\"]"
 msgid "Register Rewards"
 msgstr "Enregistrer les récompenses"
@@ -2632,7 +2655,7 @@ msgstr "Page de pré-enregistrement"
 
 msgctxt "[\"USER-FOLLOWING\"]"
 msgid "Following"
-msgstr "Suivant"
+msgstr "Déjà abonné(e)"
 
 msgctxt "[\"USER-FOLLOWER\"]"
 msgid "Follower"
@@ -2640,11 +2663,11 @@ msgstr "Suiveur"
 
 msgctxt "[\"USER-LIKES\"]"
 msgid "Likes"
-msgstr "aime"
+msgstr "Goûts"
 
 msgctxt "[\"USER-POSTS\"]"
 msgid "Posts"
-msgstr "Statut"
+msgstr "Poste"
 
 msgctxt "[\"USER-FAVORITES\"]"
 msgid "Favorites"

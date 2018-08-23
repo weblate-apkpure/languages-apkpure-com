@@ -3,17 +3,17 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-03-25 11:25+0000\n"
-"PO-Revision-Date: 2018-04-02 10:31+0000\n"
+"PO-Revision-Date: 2018-08-01 12:00+0000\n"
 "Last-Translator: Stanislav Rupar <stanislav.rupar@gmail.com>\n"
-"Language-Team: Slovenian "
-"<https://translate.apkpure.com/projects/apkpure/apkpurecom/sl/>\n"
+"Language-Team: Slovenian <https://translate.apkpure.com/projects/apkpure/"
+"apkpurecom/sl/>\n"
 "Language: sl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=4; plural=n%100==1 ? 0 : n%100==2 ? 1 : n%100==3 || "
 "n%100==4 ? 2 : 3;\n"
-"X-Generator: Weblate 2.14.1\n"
+"X-Generator: Weblate 3.0\n"
 
 msgctxt "[\"NAV-GAME\"]"
 msgid "GAMES"
@@ -1462,53 +1462,55 @@ msgstr "Prenesite APK"
 
 msgctxt "[\"js\"][\"LANG_TIP\"][\"pl\"]"
 msgid "Czy chcesz zmienić język preferencji na <strong> Polski </strong>?"
-msgstr "Czy chcesz zmienić język preferencji na <strong> Polski </strong>?"
+msgstr "Želite spremeniti jezikovne nastavitve na <strong> Poljščina </strong>?"
 
 msgctxt "[\"js\"][\"LANG_TIP\"][\"es\"]"
 msgid "¿Quiere cambiar su idioma de preferencia a <strong>español</strong>?"
-msgstr "¿Quiere cambiar su idioma de preferencia a <strong>español</strong>?"
+msgstr "Želite spremeniti nastavitve jezika <strong>Španščina</strong>?"
 
 msgctxt "[\"js\"][\"LANG_TIP\"][\"ru\"]"
 msgid "Вы хотите изменить язык предпочтений на <strong>русский</strong>?"
-msgstr "Вы хотите изменить язык предпочтений на <strong>русский</strong>?"
+msgstr "Želite spremeniti nastavitve jezika na <strong>Ruščina</strong>?"
 
 msgctxt "[\"js\"][\"LANG_TIP\"][\"id\"]"
 msgid "Apakah Anda ingin mengubah bahasa pilihan Anda <strong>ke bahasa Indonesia</strong>?"
 msgstr ""
-"Apakah Anda ingin mengubah bahasa pilihan Anda <strong>ke bahasa "
-"Indonesia</strong>?"
+"Želite spremeniti jezik po svoji izbiri <strong>na indonezijski "
+"jezik</strong>?"
 
 msgctxt "[\"js\"][\"LANG_TIP\"][\"it\"]"
 msgid "Vuoi cambiare la tua lingua preferenziale in <strong>italiano</strong>?"
-msgstr "Vuoi cambiare la tua lingua preferenziale in <strong>italiano</strong>?"
+msgstr ""
+"Želite spremeniti svoj preferenčni jezik v <strong>italijanščino</strong>?"
 
 msgctxt "[\"js\"][\"LANG_TIP\"][\"nl\"]"
 msgid "Wilt u uw voorkeurstaal naar <strong>Nederlands</strong> veranderen?"
-msgstr "Wilt u uw voorkeurstaal naar <strong>Nederlands</strong> veranderen?"
+msgstr ""
+"Ali želite, da je vaš želeni jezik spremenjen v <strong>Nizozemski</strong>?"
 
 msgctxt "[\"js\"][\"LANG_IGNORE\"][\"pl\"]"
 msgid "Ignorować"
-msgstr "Ignorować"
+msgstr "Prezri"
 
 msgctxt "[\"js\"][\"LANG_IGNORE\"][\"es\"]"
 msgid "Ignorar"
-msgstr "Ignorar"
+msgstr "Prezri"
 
 msgctxt "[\"js\"][\"LANG_IGNORE\"][\"ru\"]"
 msgid "игнорировать"
-msgstr "игнорировать"
+msgstr "Prezri"
 
 msgctxt "[\"js\"][\"LANG_IGNORE\"][\"id\"]"
 msgid "Mengabaikan"
-msgstr "Mengabaikan"
+msgstr "Prezri"
 
 msgctxt "[\"js\"][\"LANG_IGNORE\"][\"it\"]"
 msgid "Ignorare"
-msgstr "Ignorare"
+msgstr "Prezri"
 
 msgctxt "[\"js\"][\"LANG_IGNORE\"][\"nl\"]"
 msgid "Negeren"
-msgstr "Negeren"
+msgstr "Prezri"
 
 msgctxt "[\"js\"][\"LANG_OK\"][\"pl\"]"
 msgid "ok"
@@ -1524,7 +1526,7 @@ msgstr "ОК"
 
 msgctxt "[\"js\"][\"LANG_OK\"][\"id\"]"
 msgid "baik"
-msgstr "baik"
+msgstr "Prezri"
 
 msgctxt "[\"js\"][\"LANG_OK\"][\"it\"]"
 msgid "ok"
@@ -2188,3 +2190,263 @@ msgstr "{0} v shrambi aplikacij"
 msgctxt "[\"MARKET-POP_ADD_NEW_POST\"]"
 msgid "Add New Post or Comment"
 msgstr "Dodajte novo objavo ali komentar"
+
+msgctxt "[\"DEV-INCORRECT_PKG_EMAIL\"]"
+msgid "Invalid package name or email"
+msgstr "Neveljavno ime paketa ali e-pošta"
+
+msgctxt "[\"DEV-SEND_EMAIL_ERR\"]"
+msgid "Failed to send mail"
+msgstr "Neuspelo pošiljanje e-pošte"
+
+msgctxt "[\"DEV-PKG_EXISTS\"]"
+msgid "Application has been claimed"
+msgstr "Zahtevana je bila aplikacija"
+
+msgctxt "[\"DETAIL\"]"
+msgid "Detail"
+msgstr "Podrobnost"
+
+msgctxt "[\"DETAIL-HOT_TAGS\"]"
+msgid "{0} Tags"
+msgstr "{0} Oznake"
+
+msgctxt "[\"COMMENT-REVIEW_OTHER_LANG\"]"
+msgid "There are {0} reviews in other languages"
+msgstr "Obstaja {0} pregledov v drugih jezikih"
+
+msgctxt "[\"COMMENT-REVIEW_OR_POST\"]"
+msgid "Post review or comment"
+msgstr "Objavite pregled ali komentar"
+
+msgctxt "[\"COMMENT-SORT_BY_MOST_SCORE\"]"
+msgid "Top rated"
+msgstr "Najbolje ocenjeno"
+
+msgctxt "[\"COMMENT-TO_BE_FIRST\"]"
+msgid "Ooops! No such content!"
+msgstr "Ooops! Ni take vsebine!"
+
+msgctxt "[\"COMMENT-ERR_EMOJI\"]"
+msgid "Emoji comments are not allowed any more! Write something..."
+msgstr "Emodži komentarji niso več dovoljeni! Napišite nekaj..."
+
+msgctxt "[\"COMMENT-ERR_NONE_MESSAGE\"]"
+msgid "You must write something!"
+msgstr "Nekaj morate napisati!"
+
+msgctxt "[\"COMMENT-ERR_SHARE_APK_DENY\"]"
+msgid "This APP cannot be uploaded"
+msgstr "Te APP ni mogoče naložiti"
+
+msgctxt "[\"COMMENT-LINK\"]"
+msgid "Link"
+msgstr "Povezava"
+
+msgctxt "[\"PRE-REGISTER\"]"
+msgid "Pre-Registration Games"
+msgstr "Pred-registracija iger"
+
+msgctxt "[\"PRE-REGISTRANTS\"]"
+msgid "Pre-Registrants"
+msgstr "Pred-registranti"
+
+msgctxt "[\"PRE-REGISTER_DETAILS\"]"
+msgid "Pre-Register Details"
+msgstr "Podrobnosti predregistracije"
+
+msgctxt "[\"PRE-REGISTER_PAGE\"]"
+msgid "Pre-Register Page"
+msgstr "Predregistracijska stran"
+
+msgctxt "[\"USER-FOLLOWER\"]"
+msgid "Followers"
+msgstr "Sledilci"
+
+msgctxt "[\"USER-REVIEWS\"]"
+msgid "Reviews"
+msgstr "Pregledi"
+
+msgctxt "[\"USER-REVIEWS_NONE\"]"
+msgid "Too few users ratings"
+msgstr "Preveč uporabnikov ocen"
+
+msgctxt "[\"USER-SOCIAL_ALREADY_BIND\"]"
+msgid "This third-party account has been connected to another account."
+msgstr "Račun tretje osebe je bil povezan z drugim računom."
+
+msgctxt "[\"USER-EMAIL_EXIST\"]"
+msgid "This email has been connected to another account."
+msgstr "Ta e-poštni račun je bil povezan z drugim računom."
+
+msgctxt "[\"USER-SEND_EMAIL_ERR\"]"
+msgid "Failed to send verification code."
+msgstr "Spodletelo pošiljanje kode za preverjanje."
+
+msgctxt "[\"USER-EMAIL_UNBOUND\"]"
+msgid "This email address is not connected to any account."
+msgstr "Ta e-poštni naslov ni povezan z nobenim računom."
+
+msgctxt "[\"USER-CAPTCHA_TIME_OUT\"]"
+msgid "Verification Code Timeout."
+msgstr "Čas veljavnosti potrditvene kode."
+
+msgctxt "[\"USER-INCORRECT_CAPTCHA\"]"
+msgid "Incorrect Verification Code"
+msgstr "Nepravilna potrditvena koda"
+
+msgctxt "[\"USER-SEND_VERIFICATION_CODE\"]"
+msgid "Send verification code"
+msgstr "Pošlji potrditveno kodo"
+
+msgctxt "[\"USER-CONNECT_YOUR_EMAIL\"]"
+msgid "Connect your email"
+msgstr "Povežite vašo e-pošto"
+
+msgctxt "[\"USER-CHANGE_EMAIL\"]"
+msgid "Change email"
+msgstr "Spremenite e-pošto"
+
+msgctxt "[\"USER-CONNECT_YOUR_EMAIL_FIRST\"]"
+msgid "Please connect your email first"
+msgstr "Prosimo, najprej povežite svojo e-pošto"
+
+msgctxt "[\"PRE-REG-NEW\"]"
+msgid "Newest"
+msgstr "Najnovejše"
+
+msgctxt "[\"PRE-REG-BEST\"]"
+msgid "Best"
+msgstr "Najboljše"
+
+msgctxt "[\"PRE-REG-RECOMMEND\"]"
+msgid "Recommendations"
+msgstr "Priporočeno"
+
+msgctxt "[\"FOOTER-DEVELOPER_CONSOLE\"]"
+msgid "Developer Console"
+msgstr "Konzola za razvijalce"
+
+msgctxt "[\"MARKET-PAGE_TOP_GAMES\"]"
+msgid "Top Games"
+msgstr "Najboljše igre"
+
+msgctxt "[\"MARKET-PAGE_TOP_APPS\"]"
+msgid "Top Apps"
+msgstr "Najboljše aplikacije"
+
+msgctxt "[\"MARKET-PAGE_TOP_DEVELOPERS\"]"
+msgid "Top Developers"
+msgstr "Najboljši razvijalci"
+
+msgctxt "[\"MARKET-PAGE_TOP_COUNTRIES\"]"
+msgid "Top Countries"
+msgstr "Najboljše države"
+
+msgctxt "[\"MARKET-POP_ADD_TAG\"]"
+msgid "Add Tags"
+msgstr "Dodaj oznake"
+
+msgctxt "[\"RECOMMENDED-POSTS\"]"
+msgid "Recommended Posts"
+msgstr "Priporočeni prispevki"
+
+msgctxt "[\"USERS-RECOMMENDED\"]"
+msgid "Users' Recommendations"
+msgstr "Priporočila uporabnikov"
+
+msgctxt "[\"REVIEW_PRIVACY_POLICY_DES_M\"]"
+msgid "We encourage you to read our updated <a target='_blank' href='{pp}'>Privacy Policy</a> and <a target='_blank' href='{cp}'>Cookies Policy</a>."
+msgstr ""
+"Priporočamo vam, da preberete našo posodobitev <a target='_blank' "
+"href='{pp}'>Politika zasebnosti</a> in <a target='_blank' href='{cp}'>"
+"Politika piškotkov</a>."
+
+msgctxt "[\"REVIEW_PRIVACY_POLICY_DES\"]"
+msgid "We use cookies and other technologies on this website to enhance your user experience.<br> By clicking any link on this page you are giving your consent to our <a target='_blank' href='{pp}'>Privacy Policy</a> and <a target='_blank' href='{cp}'>Cookies Policy</a>."
+msgstr ""
+"Na tej spletni strani uporabljamo piškotke in druge tehnologije, da bi "
+"izboljšali uporabniško izkušnjo.<br> S klikom katere koli povezave na tej "
+"strani, dajete svoje soglasje naši <a target='_blank' href='{pp}'>Politiki "
+"zasebnosti</a> in <a target='_blank' href='{cp}'>Politiki piškotkov</a>."
+
+msgctxt "[\"REVIEW_PRIVACY_POLICY_BTN\"]"
+msgid "Ok I Agree"
+msgstr "V redu, strinjam se"
+
+msgctxt "[\"REVIEW_PRIVACY_POLICY_MORE\"]"
+msgid "Learn More"
+msgstr "Naučite se več"
+
+msgctxt "[\"js\"][\"LANG_TIP\"][\"de\"]"
+msgid "Wil je de taal van je voorkeur wijzigen in <strong> Deutsch </strong>?"
+msgstr ""
+"Ali želite spremeniti jezik, ki ste ga izbrali v <strong> Nizozemščino "
+"</strong>?"
+
+msgctxt "[\"js\"][\"LANG_TIP\"][\"vn\"]"
+msgid "Bạn có muốn thay đổi ngôn ngữ ưa thích của mình thành <strong> Tiếng Việt </strong> không?"
+msgstr "Želite spremeniti želeni jezik v <strong> Vietnamščino </strong>?"
+
+msgctxt "[\"js\"][\"LANG_IGNORE\"][\"de\"]"
+msgid "Negeren"
+msgstr "Prezri"
+
+msgctxt "[\"js\"][\"LANG_IGNORE\"][\"vn\"]"
+msgid "OK"
+msgstr "V redu"
+
+msgctxt "[\"js\"][\"LANG_OK\"][\"de\"]"
+msgid "OK"
+msgstr "V redu"
+
+msgctxt "[\"js\"][\"LANG_OK\"][\"vn\"]"
+msgid "OK"
+msgstr "V redu"
+
+msgctxt "[\"js\"][\"YOUTUBE_URL\"]"
+msgid "Enter Youtube video URL"
+msgstr "Vnesite URL videoposnetka v YouTubu"
+
+msgctxt "[\"js\"][\"YOUTUBE_URL_ERR\"]"
+msgid "Invalid URL: Please enter a valid YouTube video URL"
+msgstr "Neveljaven URL: prosimo, vnesite veljaven URL videoposnetka v YouTubu"
+
+msgctxt "[\"js\"][\"USER-RESEND_VERIFICATION\"]"
+msgid "Resend verification code"
+msgstr "Ponovno pošlji kodo za preverjanje"
+
+msgctxt "[\"js\"][\"USER-RESEND_IN\"]"
+msgid "Resend in {0}"
+msgstr "Ponovno pošlji v {0}"
+
+msgctxt "[\"js\"][\"COMMENT-RATE_MUST\"]"
+msgid "Before writing a review or something, please rate the app first."
+msgstr ""
+"Preden napišete mnenje ali kaj podobnega, prosimo, najprej ocenite "
+"aplikacijo."
+
+msgctxt "[\"meta\"][\"Tag\"][\"title\"]"
+msgid "{0} Android Games & Apps on APKPure App Store"
+msgstr "{0} Android igre & aplikacije na APKPure App Store"
+
+msgctxt "[\"meta\"][\"Tag\"][\"keywords\"]"
+msgid "{0}, {0} games,{0} apps, {0} download, {0} android"
+msgstr "{0}, {0} igre,{0} aplikacije, {0} prenos, {0} android"
+
+msgctxt "[\"meta\"][\"Tag\"][\"description\"]"
+msgid "Browse and download top {0} games and apps for android mobile, tablets and more"
+msgstr ""
+"Brskajte in prenesite najboljše {0} igre in programe za Android mobilne "
+"naprave, tablične računalnike in drugo"
+
+msgctxt "[\"meta\"][\"Email\"][\"title\"]"
+msgid "Verify Your Email Address | APKPure"
+msgstr "Preverite svoj e-poštni naslov | APKPure"
+
+msgctxt "[\"meta\"][\"Email\"][\"description\"]"
+msgid "Before posting on APKPure, you need to verify email address associated with your account. Use the verification code in confirmation email to unlock more features."
+msgstr ""
+"Pred objavo v APKPure morate potrditi e-poštni naslov, povezan z vašim "
+"računom. Uporabite potrditveno kodo v potrditveni e-pošti za dostop do več "
+"funkcij."
