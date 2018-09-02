@@ -1,7 +1,25 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-09-03 02:00+0000\n"
+"PO-Revision-Date: 2018-09-03 02:00+0000\n"
+"Last-Translator: Mazen Mohsen <mazenmohsen15@gmail.com>\n"
+"Language-Team: Arabic <https://translate.apkpure.com/projects/apkpure/"
+"apkpurecom/ar/>\n"
+"Language: ar\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 "
+"&& n%100<=10 ? 3 : n%100>=11 ? 4 : 5;\n"
+"X-Generator: Weblate 3.1.1\n"
+
 msgctxt "[\"NAV-GAME\"]"
 msgid "GAMES"
 msgstr "ألعاب"
 
+#, fuzzy
 msgctxt "[\"NAV-APP\"]"
 msgid "APPS"
 msgstr "تطبيقات"
@@ -10,6 +28,7 @@ msgctxt "[\"NAV-XAPK\"]"
 msgid "XAPK"
 msgstr "XAPK"
 
+#, fuzzy
 msgctxt "[\"NAV-NEW\"]"
 msgid "NEW"
 msgstr "جديد"
@@ -28,24 +47,28 @@ msgstr "تطبيق جديد"
 
 msgctxt "[\"NAV-XAPK_GAME\"]"
 msgid "XAPK GAME"
-msgstr "لعبة XAPK"
+msgstr "لعبة جديدة"
 
 msgctxt "[\"NAV-XAPK_APP\"]"
 msgid "XAPK APP"
 msgstr "تطبيق XAPK"
 
+#, fuzzy
 msgctxt "[\"NAV-APK_INSTALL\"]"
 msgid "APK Install"
 msgstr "تثبيت APK"
 
+#, fuzzy
 msgctxt "[\"NAV-APK_DOWNLOAD\"]"
 msgid "APK Download"
 msgstr "تحميل APK"
 
+#, fuzzy
 msgctxt "[\"NAV-APK_VERIFICATION\"]"
 msgid "APK Verification"
 msgstr "التحقق من APK"
 
+#, fuzzy
 msgctxt "[\"NAV-APKPURE_APP\"]"
 msgid "APKPure App"
 msgstr "تطبيق APKPure"
@@ -56,7 +79,7 @@ msgstr "تحميل"
 
 msgctxt "[\"FAST_DOWNLOAD\"]"
 msgid "Fast Download"
-msgstr "تحميل سريع"
+msgstr "تحمoيل سريع"
 
 msgctxt "[\"IGNORE\"]"
 msgid "Ignore"
@@ -70,9 +93,10 @@ msgctxt "[\"BUY\"]"
 msgid "Buy"
 msgstr "شراء"
 
+#, fuzzy
 msgctxt "[\"SELECT_LANGUAGE\"]"
 msgid "Select Language"
-msgstr "إختيار اللغة"
+msgstr "العربيه"
 
 msgctxt "[\"FREE\"]"
 msgid "Free"
@@ -82,14 +106,17 @@ msgctxt "[\"TOP-UPDATED-APPS\"]"
 msgid "Top Updated Apps"
 msgstr "أفضل التطبيقات المحدثة"
 
+#, fuzzy
 msgctxt "[\"TOP-UPDATED-GAMES\"]"
 msgid "Top Updated Games"
 msgstr "أفضل الالعاب المحدثة"
 
+#, fuzzy
 msgctxt "[\"READ_MORE\"]"
 msgid "Read More"
 msgstr "قراءة المزيد"
 
+#, fuzzy
 msgctxt "[\"GAME\"]"
 msgid "GAME"
 msgstr "ألعاب"
