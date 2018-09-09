@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-09-03 02:00+0000\n"
-"PO-Revision-Date: 2018-09-09 15:13+0000\n"
+"PO-Revision-Date: 2018-09-10 16:00+0000\n"
 "Last-Translator: Mohammad shaban Azzouz <mohammadshabanazzouz@gmail.com>\n"
 "Language-Team: Arabic <https://translate.apkpure.com/projects/apkpure/"
 "apkpurecom/ar/>\n"
@@ -153,7 +153,7 @@ msgstr "الأكثر استخدام"
 
 msgctxt "[\"ATTACHMENT\"]"
 msgid "Attachment"
-msgstr "Attachment"
+msgstr "المرفق"
 
 msgctxt "[\"DOWNLOADS\"]"
 msgid "Downloads"
@@ -289,7 +289,7 @@ msgstr "رمز التحقق غير صحيح!"
 
 msgctxt "[\"VERIFICATION_DOWN\"]"
 msgid "Enter the code(s) as you see in the image, then click \"Download\"."
-msgstr "Enter the code(s) as you see in the image, then click \"Download\"."
+msgstr "أدخل الرمز كما ترى في الصورة و من ثم اضغط \"تحميل\"."
 
 msgctxt "[\"TOPICS\"]"
 msgid "Topics"
@@ -313,7 +313,7 @@ msgstr "اسم الحزمة غير صالح او البريد الالكترون
 
 msgctxt "[\"DEV-SEND_EMAIL_ERR\"]"
 msgid "Failed to send mail"
-msgstr "Failed to send mail"
+msgstr "فشل إرسال البريد"
 
 msgctxt "[\"DEV-PKG_EXISTS\"]"
 msgid "Application has been claimed"
@@ -465,7 +465,7 @@ msgstr "{votes} تصويتات، المعدل: {rating_average} بعيدا عن 
 
 msgctxt "[\"DETAIL-RATING1\"]"
 msgid "average: {rating_average} out of {rating_best}"
-msgstr " تصويتات: {rating_average} بعيدا عن {rating_best}"
+msgstr "المتوسط: {rating_average} بعيدا عن {rating_best}"
 
 msgctxt "[\"DETAIL-MORE_DEVELOPER\"]"
 msgid "Get more from {0}"
@@ -697,7 +697,7 @@ msgstr "موقع الكتروني"
 
 msgctxt "[\"COMMENT-TO_BE_FIRST\"]"
 msgid "Ooops! No such content!"
-msgstr "كن أول من يعلق."
+msgstr "أوبسس! لا يوجد محتوى!"
 
 msgctxt "[\"COMMENT-VOTE\"]"
 msgid "Vote"
@@ -1181,7 +1181,7 @@ msgstr "يبدو أن الصفحة التي كنت تبحث عنها لم يعد
 
 msgctxt "[\"COPYRIGHT\"]"
 msgid "Copyright © 2014-2018 APKPure All rights reserved."
-msgstr "APKPure.com © 2014-2018"
+msgstr "حقوق النشر © 2014-2018 APKPure جميع الحقوق محفوظة."
 
 msgctxt "[\"COPYRIGHT_MOBILE\"]"
 msgid "APKPure.com © 2014-2018"
