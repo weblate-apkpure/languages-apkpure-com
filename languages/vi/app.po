@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-07-31 09:00+0000\n"
-"PO-Revision-Date: 2018-09-10 07:50+0000\n"
+"PO-Revision-Date: 2018-09-11 09:00+0000\n"
 "Last-Translator: KennyPro TV <nguyentuanduy014@gmail.com>\n"
 "Language-Team: Vietnamese <https://translate.apkpure.com/projects/apkpure/"
 "apkpurecom/vi/>\n"
@@ -804,31 +804,31 @@ msgstr "Người đăng ký trước"
 
 msgctxt "[\"PRE-REGISTER_DETAILS\"]"
 msgid "Pre-Register Details"
-msgstr "Pre-Register Details"
+msgstr "Chi tiết đăng ký trước"
 
 msgctxt "[\"PRE-REGISTER_DATE\"]"
 msgid "Release Date"
-msgstr "Release Date"
+msgstr "Ngày phát hành"
 
 msgctxt "[\"PRE-REGISTER_REWARDS\"]"
 msgid "Register Rewards"
-msgstr "Register Rewards"
+msgstr "Đăng ký phần thưởng"
 
 msgctxt "[\"PRE-REGISTER_PAGE\"]"
 msgid "Pre-Register Page"
-msgstr "Pre-Register Page"
+msgstr "Trang đăng ký trước"
 
 msgctxt "[\"USER-FOLLOWING\"]"
 msgid "Following"
-msgstr "Following"
+msgstr "Tiếp theo"
 
 msgctxt "[\"USER-FOLLOWER\"]"
 msgid "Followers"
-msgstr "Followers"
+msgstr "Người theo dõi"
 
 msgctxt "[\"USER-LIKES\"]"
 msgid "Likes"
-msgstr "Likes"
+msgstr "Lượt thích"
 
 msgctxt "[\"USER-POSTS\"]"
 msgid "Posts"
@@ -836,19 +836,19 @@ msgstr "Posts"
 
 msgctxt "[\"USER-REVIEWS\"]"
 msgid "Reviews"
-msgstr "Reviews"
+msgstr "Nhận xét"
 
 msgctxt "[\"USER-REVIEWS_NONE\"]"
 msgid "Too few users ratings"
-msgstr "Too few users ratings"
+msgstr "Quá ít xếp hạng của người dùng"
 
 msgctxt "[\"USER-FAVORITES\"]"
 msgid "Favorites"
-msgstr "Favorites"
+msgstr "Yêu thích"
 
 msgctxt "[\"USER-REPLIES\"]"
 msgid "Replies"
-msgstr "Replies"
+msgstr "Trả lời"
 
 msgctxt "[\"USER-PROFILE\"]"
 msgid "Profile"
@@ -924,43 +924,43 @@ msgstr "Nội dung bạn vừa nhập chứa các từ nhạy cảm."
 
 msgctxt "[\"USER-SOCIAL_ALREADY_BIND\"]"
 msgid "This third-party account has been connected to another account."
-msgstr "This third-party account has been connected to another account."
+msgstr "Tài khoản của bên thứ ba này đã được kết nối với một tài khoản khác."
 
 msgctxt "[\"USER-EMAIL_EXIST\"]"
 msgid "This email has been connected to another account."
-msgstr "This email has been connected to another account."
+msgstr "Email này đã được kết nối với một tài khoản khác."
 
 msgctxt "[\"USER-SEND_EMAIL_ERR\"]"
 msgid "Failed to send verification code."
-msgstr "Failed to send verification code."
+msgstr "Không thể gửi mã xác minh."
 
 msgctxt "[\"USER-EMAIL_UNBOUND\"]"
 msgid "This email address is not connected to any account."
-msgstr "This email address is not connected to any account."
+msgstr "Địa chỉ email này không được kết nối với bất kỳ tài khoản nào."
 
 msgctxt "[\"USER-CAPTCHA_TIME_OUT\"]"
 msgid "Verification Code Timeout."
-msgstr "Verification Code Timeout."
+msgstr "Mã xác minh hết giờ."
 
 msgctxt "[\"USER-INCORRECT_CAPTCHA\"]"
 msgid "Incorrect Verification Code"
-msgstr "Incorrect Verification Code"
+msgstr "Mã xác minh không chính xác"
 
 msgctxt "[\"USER-SEND_VERIFICATION_CODE\"]"
 msgid "Send verification code"
-msgstr "Send verification code"
+msgstr "Gửi mã xác minh"
 
 msgctxt "[\"USER-CONNECT_YOUR_EMAIL\"]"
 msgid "Connect your email"
-msgstr "Connect your email"
+msgstr "Kết nối email của bạn"
 
 msgctxt "[\"USER-CHANGE_EMAIL\"]"
 msgid "Change email"
-msgstr "Change email"
+msgstr "Thay đổi e-mail"
 
 msgctxt "[\"USER-CONNECT_YOUR_EMAIL_FIRST\"]"
 msgid "Please connect your email first"
-msgstr "Please connect your email first"
+msgstr "Vui lòng kết nối email của bạn trước"
 
 msgctxt "[\"USER-FEMALE\"]"
 msgid "Female"
@@ -1108,7 +1108,7 @@ msgstr "Dung lượng tệp"
 
 msgctxt "[\"SEARCH-ON_THE_APP_STORE\"]"
 msgid "{0} On the App Store"
-msgstr "{0} On the App Store"
+msgstr "{0} Trên App Store"
 
 msgctxt "[\"SEARCH-ADVANCED_SEARCH\"]"
 msgid "Advanced Search"
@@ -1168,15 +1168,15 @@ msgstr "Lỗi 404!"
 
 msgctxt "[\"PRE-REG-NEW\"]"
 msgid "Newest"
-msgstr "Newest"
+msgstr "Mới nhất"
 
 msgctxt "[\"PRE-REG-BEST\"]"
 msgid "Best"
-msgstr "Best"
+msgstr "Tốt"
 
 msgctxt "[\"PRE-REG-RECOMMEND\"]"
 msgid "Recommendations"
-msgstr "Recommendations"
+msgstr "Khuyến nghị"
 
 msgctxt "[\"404-DES\"]"
 msgid "It seems that page you are looking for no longer exists.<br />You can explore more Android Games and Apps below!"
@@ -1324,11 +1324,11 @@ msgstr "Ứng dụng"
 
 msgctxt "[\"MARKET-PAGE_TOP_DEVELOPERS\"]"
 msgid "Top Developers"
-msgstr "Top Developers"
+msgstr "Nhà phát triển hàng đầu"
 
 msgctxt "[\"MARKET-PAGE_TOP_COUNTRIES\"]"
 msgid "Top Countries"
-msgstr "Top Countries"
+msgstr "Các quốc gia hàng đầu"
 
 msgctxt "[\"MARKET-POP_TITLE\"]"
 msgid "APKPure AppStore App"
@@ -1344,7 +1344,7 @@ msgstr "Thêm ảnh vào bài đăng"
 
 msgctxt "[\"MARKET-POP_ADD_NEW_POST\"]"
 msgid "Add New Post or Comment"
-msgstr "Add New Post or Comment"
+msgstr "Thêm bài đăng hoặc nhận xét mới"
 
 msgctxt "[\"MARKET-POP_ADD_TAG\"]"
 msgid "Add Tags"
