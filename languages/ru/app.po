@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-07-19 09:13+0000\n"
-"PO-Revision-Date: 2018-08-17 22:00+0000\n"
-"Last-Translator: Mirmillon <MirmillonArkay@gmail.com>\n"
+"PO-Revision-Date: 2018-09-12 09:00+0000\n"
+"Last-Translator: chenhsi Liang <lchenhsi@gmail.com>\n"
 "Language-Team: Russian <https://translate.apkpure.com/projects/apkpure/"
 "apkpurecom/ru/>\n"
 "Language: ru\n"
@@ -19,12 +19,10 @@ msgctxt "[\"NAV-GAME\"]"
 msgid "GAMES"
 msgstr "ИГРЫ"
 
-#, fuzzy
 msgctxt "[\"NAV-APP\"]"
 msgid "APPS"
 msgstr "Приложения"
 
-#, fuzzy
 msgctxt "[\"NAV-XAPK\"]"
 msgid "XAPK"
 msgstr "XAPK"
@@ -37,7 +35,6 @@ msgctxt "[\"NAV-PRODUCTS\"]"
 msgid "PRODUCTS"
 msgstr "НАШИ ПРОДУКТЫ"
 
-#, fuzzy
 msgctxt "[\"NAV-NEW_GAME\"]"
 msgid "NEW GAME"
 msgstr "НОВЫЕ ИГРЫ"
@@ -50,47 +47,38 @@ msgctxt "[\"NAV-XAPK_GAME\"]"
 msgid "XAPK GAME"
 msgstr "XAPK Игра"
 
-#, fuzzy
 msgctxt "[\"NAV-XAPK_APP\"]"
 msgid "XAPK APP"
-msgstr "ПРИЛОЖЕНИЯ  XAPK"
+msgstr "XAPK ПРИЛОЖЕНИЯ"
 
-#, fuzzy
 msgctxt "[\"NAV-APK_INSTALL\"]"
 msgid "APK Install"
 msgstr "Установить APK"
 
-#, fuzzy
 msgctxt "[\"NAV-APK_DOWNLOAD\"]"
 msgid "APK Download"
 msgstr "Скачать APK"
 
-#, fuzzy
 msgctxt "[\"NAV-APK_VERIFICATION\"]"
 msgid "APK Verification"
 msgstr "Проверка APK"
 
-#, fuzzy
 msgctxt "[\"NAV-APKPURE_APP\"]"
 msgid "APKPure App"
 msgstr "Приложение APKPure"
 
-#, fuzzy
 msgctxt "[\"DOWNLOAD\"]"
 msgid "Download"
 msgstr "Скачать"
 
-#, fuzzy
 msgctxt "[\"FAST_DOWNLOAD\"]"
 msgid "Fast Download"
 msgstr "Быстрая загрузка"
 
-#, fuzzy
 msgctxt "[\"IGNORE\"]"
 msgid "Ignore"
 msgstr "Игнорировать"
 
-#, fuzzy
 msgctxt "[\"OK\"]"
 msgid "OK"
 msgstr "Окей"
@@ -103,7 +91,6 @@ msgctxt "[\"SELECT_LANGUAGE\"]"
 msgid "Select Language"
 msgstr "Русский"
 
-#, fuzzy
 msgctxt "[\"FREE\"]"
 msgid "Free"
 msgstr "Бесплатно"
@@ -322,15 +309,15 @@ msgstr "Обновить"
 
 msgctxt "[\"DEV-INCORRECT_PKG_EMAIL\"]"
 msgid "Invalid package name or email"
-msgstr "Invalid package name or email"
+msgstr "Недопустимое имя пакета или адрес электронной почты"
 
 msgctxt "[\"DEV-SEND_EMAIL_ERR\"]"
 msgid "Failed to send mail"
-msgstr "Failed to send mail"
+msgstr "Не удалось отправить письмо"
 
 msgctxt "[\"DEV-PKG_EXISTS\"]"
 msgid "Application has been claimed"
-msgstr "Application has been claimed"
+msgstr "Приложение была заявлено"
 
 msgctxt "[\"DETAIL\"]"
 msgid "Detail"
@@ -562,7 +549,7 @@ msgstr "Требуется Android"
 
 msgctxt "[\"COMMENT-REVIEW_OTHER_LANG\"]"
 msgid "There are {0} reviews in other languages"
-msgstr "There are {0} reviews in other languages"
+msgstr "Ещё есть {0} отзывов на других языках"
 
 msgctxt "[\"COMMENT-ADD_NEW_DISCUSSION\"]"
 msgid "Add A New Discussion"
@@ -626,7 +613,7 @@ msgstr "Опубликовать"
 
 msgctxt "[\"COMMENT-REVIEW_OR_POST\"]"
 msgid "Post review or comment"
-msgstr "Post review or comment"
+msgstr "Отправить отзыв или комментарий"
 
 msgctxt "[\"COMMENT-COMMENTS\"]"
 msgid "Comments"
@@ -670,7 +657,7 @@ msgstr "Самые свежие"
 
 msgctxt "[\"COMMENT-SORT_BY_MOST_SCORE\"]"
 msgid "Top rated"
-msgstr "Top rated"
+msgstr "Toп рейтинг"
 
 msgctxt "[\"COMMENT-SORT_BY_DEFAULT\"]"
 msgid "Sort by default"
@@ -710,7 +697,7 @@ msgstr "Сайт"
 
 msgctxt "[\"COMMENT-TO_BE_FIRST\"]"
 msgid "Ooops! No such content!"
-msgstr "Оставьте первый комментарий."
+msgstr "Ой! Ничего не найдено!"
 
 msgctxt "[\"COMMENT-VOTE\"]"
 msgid "Vote"
@@ -754,11 +741,11 @@ msgstr "Комментарий неизвестен"
 
 msgctxt "[\"COMMENT-ERR_EMOJI\"]"
 msgid "Emoji comments are not allowed any more! Write something..."
-msgstr "Emoji comments are not allowed any more! Write something..."
+msgstr "Комментарии только с эмодзи не допускаются!Напишите что-нибудь…"
 
 msgctxt "[\"COMMENT-ERR_NONE_MESSAGE\"]"
 msgid "You must write something!"
-msgstr "You must write something!"
+msgstr "Напишите что-нибудь!"
 
 msgctxt "[\"COMMENT-ERR_INVALID_PARAMETER\"]"
 msgid "Invalid comment parameter"
@@ -790,7 +777,7 @@ msgstr "Вы уверены?"
 
 msgctxt "[\"COMMENT-LOADING\"]"
 msgid "Comment Loading..."
-msgstr "Загрузка комментария"
+msgstr "Идёт загрузка комментария"
 
 msgctxt "[\"COMMENT-DOWNLOAD_APK\"]"
 msgid "Download the APK file on APKPure."
@@ -798,7 +785,7 @@ msgstr "Загрузите  APK файл в APKPure."
 
 msgctxt "[\"COMMENT-ERR_SHARE_APK_DENY\"]"
 msgid "This APP cannot be uploaded"
-msgstr "This APP cannot be uploaded"
+msgstr "Этого приложения нельзя быть загруженно"
 
 msgctxt "[\"COMMENT-LINK\"]"
 msgid "Link"
@@ -846,11 +833,11 @@ msgstr "статьи"
 
 msgctxt "[\"USER-REVIEWS\"]"
 msgid "Reviews"
-msgstr "Reviews"
+msgstr "Отзывы"
 
 msgctxt "[\"USER-REVIEWS_NONE\"]"
 msgid "Too few users ratings"
-msgstr "Too few users ratings"
+msgstr "Слишком мало оценок пользователей"
 
 msgctxt "[\"USER-FAVORITES\"]"
 msgid "Favorites"
@@ -894,7 +881,7 @@ msgstr "Текущий пароль"
 
 msgctxt "[\"USER-ACCOUNT_EXIST\"]"
 msgid "The username is already in use."
-msgstr "Имя пользователя уже используется."
+msgstr "Этот логин уже используется."
 
 msgctxt "[\"USER-ACCOUNT_NOT_EXIST\"]"
 msgid "The account you entered does not exist."
@@ -934,43 +921,43 @@ msgstr "Ваш ввод включает чувствительный слова
 
 msgctxt "[\"USER-SOCIAL_ALREADY_BIND\"]"
 msgid "This third-party account has been connected to another account."
-msgstr "This third-party account has been connected to another account."
+msgstr "Этот сторонный аккауант уже был привязан к другому аккауанту"
 
 msgctxt "[\"USER-EMAIL_EXIST\"]"
 msgid "This email has been connected to another account."
-msgstr "This email has been connected to another account."
+msgstr "Этот адрес электронной почты уже был привязан к другому аккаунту."
 
 msgctxt "[\"USER-SEND_EMAIL_ERR\"]"
 msgid "Failed to send verification code."
-msgstr "Failed to send verification code."
+msgstr "Не удалось отправить проверочный код."
 
 msgctxt "[\"USER-EMAIL_UNBOUND\"]"
 msgid "This email address is not connected to any account."
-msgstr "This email address is not connected to any account."
+msgstr "Этот адрес электронной почты не привязан с никакого аккаунта."
 
 msgctxt "[\"USER-CAPTCHA_TIME_OUT\"]"
 msgid "Verification Code Timeout."
-msgstr "Verification Code Timeout."
+msgstr "Проверочный код тайм-аут"
 
 msgctxt "[\"USER-INCORRECT_CAPTCHA\"]"
 msgid "Incorrect Verification Code"
-msgstr "Incorrect Verification Code"
+msgstr "Не правильный проверочный код"
 
 msgctxt "[\"USER-SEND_VERIFICATION_CODE\"]"
 msgid "Send verification code"
-msgstr "Send verification code"
+msgstr "Отправить проверочный код"
 
 msgctxt "[\"USER-CONNECT_YOUR_EMAIL\"]"
 msgid "Connect your email"
-msgstr "Connect your email"
+msgstr "Привязать вашу электронную почту"
 
 msgctxt "[\"USER-CHANGE_EMAIL\"]"
 msgid "Change email"
-msgstr "Change email"
+msgstr "Изменить адрес электронной почты"
 
 msgctxt "[\"USER-CONNECT_YOUR_EMAIL_FIRST\"]"
 msgid "Please connect your email first"
-msgstr "Please connect your email first"
+msgstr "Пожалуйста, сначала привяжите ваш аккаунт к электронной почте"
 
 msgctxt "[\"USER-FEMALE\"]"
 msgid "Female"
@@ -982,11 +969,11 @@ msgstr "мужской"
 
 msgctxt "[\"USER-USER_LOGIN\"]"
 msgid "User Login"
-msgstr "Логин пользователя"
+msgstr "Логин"
 
 msgctxt "[\"USER-USERNAME\"]"
 msgid "Username"
-msgstr "Имя пользователя"
+msgstr "Логин"
 
 msgctxt "[\"USER-NICKNAME\"]"
 msgid "Nickname"
@@ -1056,7 +1043,6 @@ msgctxt "[\"REGION_DOWN-TITLE\"]"
 msgid "Region free APK download"
 msgstr "Доступно для скачивания в любом регионе"
 
-#, fuzzy
 msgctxt "[\"REGION_DOWN-DES\"]"
 msgid "- Download your favorite Android Apps with APK Downloader (Free Apps Only).<br>- Your download will begin automatically after you paste a package id and click the download button.<br>- Download failed? Please manually change country setting and try again.<br>- Want to tell us more about your problems? <a style='color:#FFFF00' href='contact-us.html'>Contact us here</a>"
 msgstr ""
@@ -1103,7 +1089,6 @@ msgctxt "[\"SIGN_VERIFY-MAXIMUM\"]"
 msgid "Maximum file size"
 msgstr "Максимальный размер файла"
 
-#, fuzzy
 msgctxt "[\"SIGN_VERIFY-DES\"]"
 msgid "APK Signature verification will verify Android app package signature to keep Android users away from potentially harmful APK files before APK installing."
 msgstr ""
@@ -1189,24 +1174,22 @@ msgstr "Ошибка 404!"
 
 msgctxt "[\"PRE-REG-NEW\"]"
 msgid "Newest"
-msgstr "Newest"
+msgstr "Новейшие"
 
 msgctxt "[\"PRE-REG-BEST\"]"
 msgid "Best"
-msgstr "Best"
+msgstr "Горячие"
 
 msgctxt "[\"PRE-REG-RECOMMEND\"]"
 msgid "Recommendations"
-msgstr "Recommendations"
+msgstr "Рекомендации"
 
-#, fuzzy
 msgctxt "[\"404-DES\"]"
 msgid "It seems that page you are looking for no longer exists.<br />You can explore more Android Games and Apps below!"
 msgstr ""
-"Похоже, что страница, которую вы ищете больше не существует.<br /> Вы можете "
-"посмотреть на другие игры и приложения пониже!"
+"Простите, что страница, которую вы ищете больше не существует.<br /> Вы "
+"можете посмотреть на другие игры и приложения пониже!"
 
-#, fuzzy
 msgctxt "[\"COPYRIGHT\"]"
 msgid "Copyright © 2014-2018 APKPure All rights reserved."
 msgstr "Авторские права © 2014-2018 APKPure. Все права защищены."
@@ -1373,7 +1356,7 @@ msgstr "Добавить новую запись или комментарий"
 
 msgctxt "[\"MARKET-POP_ADD_TAG\"]"
 msgid "Add Tags"
-msgstr "Add Tags"
+msgstr "Добавить теги"
 
 msgctxt "[\"MARKET-QR\"]"
 msgid "Download<br>APKPure App"
@@ -1395,7 +1378,6 @@ msgctxt "[\"MARKET-DETAIL_APK_SHORT_DES\"]"
 msgid "Faster apks download and update on APKPure App"
 msgstr "Быстрое скачивание и обновление приложений с программой APKPure"
 
-#, fuzzy
 msgctxt "[\"MARKET-DETAIL_APK_SHORT_DES_MOBILE\"]"
 msgid "Download and update on APKPure App"
 msgstr "Скачать и обновить с помощью приложения APKPure"
@@ -1506,7 +1488,7 @@ msgstr "Вместо этого Вы можете ознакомиться с д
 
 msgctxt "[\"RECOMMENDED-POSTS\"]"
 msgid "Recommended Posts"
-msgstr "Recommended Posts"
+msgstr "Рекомендуемые комментарии"
 
 msgctxt "[\"USERS-RECOMMENDED\"]"
 msgid "Users' Recommendations"
@@ -1522,11 +1504,11 @@ msgstr "We use cookies and other technologies on this website to enhance your us
 
 msgctxt "[\"REVIEW_PRIVACY_POLICY_BTN\"]"
 msgid "Ok I Agree"
-msgstr "Ok I Agree"
+msgstr "Я согласен"
 
 msgctxt "[\"REVIEW_PRIVACY_POLICY_MORE\"]"
 msgid "Learn More"
-msgstr "Learn More"
+msgstr "Далее"
 
 msgctxt "[\"MARKET-TOP_COUNTRY\"][\"en-US\"]"
 msgid "USA"
@@ -1854,11 +1836,12 @@ msgstr "Oтменить"
 
 msgctxt "[\"js\"][\"YOUTUBE_URL\"]"
 msgid "Enter Youtube video URL"
-msgstr "Enter Youtube video URL"
+msgstr "Введите видео URL YouTube"
 
 msgctxt "[\"js\"][\"YOUTUBE_URL_ERR\"]"
 msgid "Invalid URL: Please enter a valid YouTube video URL"
-msgstr "Invalid URL: Please enter a valid YouTube video URL"
+msgstr ""
+"Неверный URL-адрес: пожалуйста, введите действительный видео URL YouTube"
 
 msgctxt "[\"js\"][\"USER-PASSWORD_NOT_MATCH\"]"
 msgid "Passwords do not match"
@@ -1870,7 +1853,9 @@ msgstr "Пароль должен содержать от 6 до 32 символ
 
 msgctxt "[\"js\"][\"USER-USERNAME_MUST\"]"
 msgid "Username must be 1-20 characters long and special characters are not allowed."
-msgstr "Имя пользователя должно содержать от 1 до 20 символов, а специальные символы - запрещены."
+msgstr ""
+"Логин должен содержать от 1 до 20 символов, а специальные символы - "
+"запрещены."
 
 msgctxt "[\"js\"][\"USER-INCORRECT_ACCOUNT\"]"
 msgid "The username you entered is invalid."
@@ -1886,11 +1871,11 @@ msgstr "Успешно сохранено"
 
 msgctxt "[\"js\"][\"USER-RESEND_VERIFICATION\"]"
 msgid "Resend verification code"
-msgstr "Resend verification code"
+msgstr "Отправить заново"
 
 msgctxt "[\"js\"][\"USER-RESEND_IN\"]"
 msgid "Resend in {0}"
-msgstr "Resend in {0}"
+msgstr "отправить заново через {0}"
 
 msgctxt "[\"js\"][\"COMMENT-DELETE\"]"
 msgid "Yes,delete it!"
@@ -1906,7 +1891,9 @@ msgstr "Вы уверены?"
 
 msgctxt "[\"js\"][\"COMMENT-RATE_MUST\"]"
 msgid "Before writing a review or something, please rate the app first."
-msgstr "Before writing a review or something, please rate the app first."
+msgstr ""
+"Прежде чем написать отзыв или что-то, пожалуйста, оцените приложение в "
+"первую очередь."
 
 msgctxt "[\"js\"][\"COMMENT-VOTE\"]"
 msgid "Vote"
@@ -2078,15 +2065,17 @@ msgstr "Все приложения и игры от \"{0}\""
 
 msgctxt "[\"meta\"][\"Tag\"][\"title\"]"
 msgid "{0} Android Games & Apps on APKPure App Store"
-msgstr "{0} Android Games & Apps on APKPure App Store"
+msgstr "{0} Android игры и приложения в магазине приложений APKPure"
 
 msgctxt "[\"meta\"][\"Tag\"][\"keywords\"]"
 msgid "{0}, {0} games,{0} apps, {0} download, {0} android"
-msgstr "{0}, {0} games,{0} apps, {0} download, {0} android"
+msgstr "{0}, {0} игры,{0} приложений, {0} скачивание, {0} андроид"
 
 msgctxt "[\"meta\"][\"Tag\"][\"description\"]"
 msgid "Browse and download top {0} games and apps for android mobile, tablets and more"
-msgstr "Browse and download top {0} games and apps for android mobile, tablets and more"
+msgstr ""
+"Загрузить топ {0} игры и приложения для Android смартфонов, планшетов и "
+"многих других"
 
 msgctxt "[\"meta\"][\"Search\"][\"title\"]"
 msgid "{0} search results | APKPure.com"
@@ -2214,7 +2203,7 @@ msgstr "Войдите в аккаунт для  Android App Store APKPure"
 
 msgctxt "[\"meta\"][\"Login\"][\"keywords\"]"
 msgid "login, new member, account, registration"
-msgstr "авторизоваться, новый участник, аккаунт, регистрировать"
+msgstr "логин, новый участник, аккаунт, регистрировать"
 
 msgctxt "[\"meta\"][\"Login\"][\"description\"]"
 msgid "To join community group or vote on APKPure App Store, you must be registered. Register your APKPure account today!"
@@ -2230,11 +2219,15 @@ msgstr "Изменить или сбросить мой пароль."
 
 msgctxt "[\"meta\"][\"Email\"][\"title\"]"
 msgid "Verify Your Email Address | APKPure"
-msgstr "Verify Your Email Address | APKPure"
+msgstr "Подтвердите ваш адрес электронной почты | APKPure"
 
 msgctxt "[\"meta\"][\"Email\"][\"description\"]"
 msgid "Before posting on APKPure, you need to verify email address associated with your account. Use the verification code in confirmation email to unlock more features."
-msgstr "Before posting on APKPure, you need to verify email address associated with your account. Use the verification code in confirmation email to unlock more features."
+msgstr ""
+"Перед публикацией на APKPure вам необходимо подтвердить адрес электронной "
+"почты, связанный с вашей учетной записью. Используйте проверочный код в "
+"электронном письме с подтверждением, чтобы разблокировать дополнительные "
+"функции."
 
 msgctxt "[\"meta\"][\"User\"][\"title\"]"
 msgid "{user_name}: Profile and Activity - APKPure AppStore"
