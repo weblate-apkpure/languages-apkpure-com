@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-06-21 03:19+0000\n"
-"PO-Revision-Date: 2018-08-30 11:00+0000\n"
-"Last-Translator: Aung Moe <aungmoe2907@gmail.com>\n"
+"PO-Revision-Date: 2018-09-30 05:00+0000\n"
+"Last-Translator: etmaung maung <etmaungmaung90901@gmail.com>\n"
 "Language-Team: Burmese <https://translate.apkpure.com/projects/apkpure/"
 "apkpurecom/my/>\n"
 "Language: my\n"
@@ -16,7 +16,7 @@ msgstr ""
 
 msgctxt "[\"NAV-GAME\"]"
 msgid "GAMES"
-msgstr ""
+msgstr "Burmese"
 
 msgctxt "[\"NAV-APP\"]"
 msgid "APPS"
@@ -1574,10 +1574,9 @@ msgctxt "[\"DETAIL-MAIGHT_LIKE\"]"
 msgid "You Might Also Like"
 msgstr "သင်နှစ်သက်လိမ့်မည်"
 
-#, fuzzy
 msgctxt "[\"DEV-INCORRECT_PKG_EMAIL\"]"
 msgid "Invalid package name or email"
-msgstr "Invalid package name or email"
+msgstr "etmaungmaung90901@gmail.com"
 
 #, fuzzy
 msgctxt "[\"DEV-SEND_EMAIL_ERR\"]"
