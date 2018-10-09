@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-03-22 06:56+0000\n"
-"PO-Revision-Date: 2018-10-06 16:41+0000\n"
-"Last-Translator: Anıl Yanık <fire.lord.anil@gmail.com>\n"
+"PO-Revision-Date: 2018-10-11 04:00+0000\n"
+"Last-Translator: Isabella Heath <isabellaheath9@gmail.com>\n"
 "Language-Team: Turkish <https://translate.apkpure.com/projects/apkpure/"
 "apkpurecom/tr/>\n"
 "Language: tr\n"
@@ -50,6 +50,7 @@ msgctxt "[\"NAV-XAPK_APP\"]"
 msgid "XAPK APP"
 msgstr "XAPK UYGULAMA"
 
+#, fuzzy
 msgctxt "[\"NAV-APK_INSTALL\"]"
 msgid "APK Install"
 msgstr "APK'yi Kur"
@@ -144,7 +145,7 @@ msgstr "Kategori"
 
 msgctxt "[\"CATEGORY_JOIN\"]"
 msgid "{app_category} {app_type}"
-msgstr "{uygulama_kategorisi} {uygulama_tipi}"
+msgstr "{app_category} {app_type}"
 
 msgctxt "[\"SHOW_MORE\"]"
 msgid "Show More"
@@ -230,6 +231,7 @@ msgctxt "[\"INDEX-HOW_TO_DOWNLOAD\"]"
 msgid "How to download apk files?"
 msgstr "Apk dosyalarını nasıl indiririm?"
 
+#, fuzzy
 msgctxt "[\"INDEX-FAQ\"]"
 msgid "FAQ"
 msgstr "SSS"
@@ -282,6 +284,7 @@ msgctxt "[\"DETAIL-PUBLISH_DATE\"]"
 msgid "Publish Date"
 msgstr "Yayınlanma Tarihi"
 
+#, fuzzy
 msgctxt "[\"DETAIL-GET_IT_ON\"]"
 msgid "Get it on"
 msgstr "Google Play'den indirin"
@@ -619,6 +622,7 @@ msgctxt "[\"MARKET-QR-TITLE\"]"
 msgid "Download APKPure App"
 msgstr "APKPure Uygulamasını İndir"
 
+#, fuzzy
 msgctxt "[\"MARKET-INDEX_SHORT_DES\"]"
 msgid "Try <strong title=\"Download APKPure APK\">APKPure App</strong> - Download, update and install apks on your Android."
 msgstr ""
@@ -1061,6 +1065,7 @@ msgctxt "[\"meta\"][\"Details\"][\"keywords\"]"
 msgid "{app_name} apk, {app_name} apk download, {app_name} download, {app_name}.apk, {app_name} android, {app_name} google play, {app_category} {app_type} download"
 msgstr ""
 
+#, fuzzy
 msgctxt "[\"meta\"][\"Details\"][\"description\"]"
 msgid "Download {app_short_name} apk {version_name} and all version history for Android. {app_short_description}"
 msgstr ""
@@ -1103,6 +1108,7 @@ msgstr ""
 "{0} apk indir, ücretsiz {0} indir, {0} apk indir, {0} apk indir, {0} apk "
 "indirici, {0} android"
 
+#, fuzzy
 msgctxt "[\"meta\"][\"Category_app\"][\"description\"]"
 msgid "Download free and best {0}  for Android phone and tablet with online apk downloader on APKPure.com, including (tool apps, shopping apps, communication apps) and more."
 msgstr ""
@@ -1119,6 +1125,7 @@ msgstr ""
 "{0} apk indir, ücretsiz {0} indir, {0} apk indir, {0} apk indirici, {0} "
 "android, {0} uygulaması indir"
 
+#, fuzzy
 msgctxt "[\"meta\"][\"Category_game\"][\"description\"]"
 msgid "Download free and best {0} for Android phone and tablet with online apk downloader on APKPure.com, including (driving games, shooting games, fighting games) and more."
 msgstr ""
@@ -1181,6 +1188,7 @@ msgctxt "[\"meta\"][\"Verify\"][\"title\"]"
 msgid "APK Signature Verification, Google Play Official Version APK Detection Service"
 msgstr ""
 
+#, fuzzy
 msgctxt "[\"meta\"][\"Verify\"][\"keywords\"]"
 msgid "apk signature verification, apk signature verify, apk signature checker, apk signature viewer, modified apk, free, online, scanner"
 msgstr ""
@@ -1427,6 +1435,7 @@ msgctxt "[\"DETAIL-XAPK_FILE_SHA1\"]"
 msgid "XAPK File SHA1"
 msgstr "XAPK SHA1 Dosyası"
 
+#, fuzzy
 msgctxt "[\"DETAIL-GP_DOWNLOAD\"]"
 msgid "Install on Google Play"
 msgstr "Google Play'de Yükle"
@@ -1806,6 +1815,7 @@ msgstr ""
 "Lütfen resimde gördüğünüz gibi kod (lar) girin ve ardından \"İndir\" "
 "butonuna tıklayınız."
 
+#, fuzzy
 msgctxt "[\"TOPICS\"]"
 msgid "Topics"
 msgstr "Konular"
@@ -1965,6 +1975,7 @@ msgctxt "[\"COMMENT-ERR_FORBIDDEN\"]"
 msgid "Comment forbidden"
 msgstr "İletiniz reddedildi"
 
+#, fuzzy
 msgctxt "[\"DETAIL-RATING1\"]"
 msgid "average: {rating_average} out of {rating_best}"
 msgstr "ortalama: {rating_best} değerlendirmeden {rating_average}"
@@ -2251,6 +2262,7 @@ msgstr ""
 "indir, {app_short_name} apk, {app_short_name} android apk, {app_short_name} "
 "indir"
 
+#, fuzzy
 msgctxt "[\"meta\"][\"Details_new\"][\"description\"]"
 msgid "Download {app_short_name} apk {version_name} for Android. {app_short_description}"
 msgstr ""
@@ -2286,6 +2298,7 @@ msgctxt "[\"VERSION-REQUIRES_ANDROID\"]"
 msgid "Requires Android"
 msgstr "Android Gerekli"
 
+#, fuzzy
 msgctxt "[\"SEARCH-TRENDING\"]"
 msgid "trending searches"
 msgstr "çok konuşulan aramalar"
@@ -2676,6 +2689,7 @@ msgctxt "[\"COMMENT-ERR_SHARE_APK_DENY\"]"
 msgid "This APP cannot be uploaded"
 msgstr "Bu APP yüklenemiyor"
 
+#, fuzzy
 msgctxt "[\"USER-REVIEWS\"]"
 msgid "Reviews"
 msgstr "İncelemeler"
@@ -2692,6 +2706,7 @@ msgctxt "[\"RECOMMENDED-POSTS\"]"
 msgid "Recommended Posts"
 msgstr "Önerilen Yazılar"
 
+#, fuzzy
 msgctxt "[\"REVIEW_PRIVACY_POLICY_DES_M\"]"
 msgid "We encourage you to read our updated <a target='_blank' href='{pp}'>Privacy Policy</a> and <a target='_blank' href='{cp}'>Cookies Policy</a>."
 msgstr ""
@@ -2715,40 +2730,49 @@ msgctxt "[\"REVIEW_PRIVACY_POLICY_MORE\"]"
 msgid "Learn More"
 msgstr "Daha fazla bilgi edin"
 
+#, fuzzy
 msgctxt "[\"js\"][\"LANG_TIP\"][\"pl\"]"
 msgid "Czy chcesz zmienić język preferencji na <strong> Polski </strong>?"
 msgstr "Czy chcesz zmienić język preferencji na <strong> Polski </strong>?"
 
+#, fuzzy
 msgctxt "[\"js\"][\"LANG_TIP\"][\"es\"]"
 msgid "¿Quiere cambiar su idioma de preferencia a <strong>español</strong>?"
 msgstr "¿Quiere cambiar su idioma de preferencia a <strong>español</strong>?"
 
+#, fuzzy
 msgctxt "[\"js\"][\"LANG_TIP\"][\"ru\"]"
 msgid "Вы хотите изменить язык предпочтений на <strong>русский</strong>?"
 msgstr "Вы хотите изменить язык предпочтений на <strong>русский</strong>?"
 
+#, fuzzy
 msgctxt "[\"js\"][\"LANG_TIP\"][\"id\"]"
 msgid "Apakah Anda ingin mengubah bahasa pilihan Anda <strong>ke bahasa Indonesia</strong>?"
 msgstr ""
 "Apakah Anda ingin mengubah bahasa pilihan Anda <strong>ke bahasa "
 "Indonesia</strong>?"
 
+#, fuzzy
 msgctxt "[\"js\"][\"LANG_TIP\"][\"it\"]"
 msgid "Vuoi cambiare la tua lingua preferenziale in <strong>italiano</strong>?"
 msgstr "Vuoi cambiare la tua lingua preferenziale in <strong>italiano</strong>?"
 
+#, fuzzy
 msgctxt "[\"js\"][\"LANG_TIP\"][\"de\"]"
 msgid "Wil je de taal van je voorkeur wijzigen in <strong> Deutsch </strong>?"
 msgstr "Wil je de taal van je voorkeur wijzigen in <strong> Deutsch </strong>?"
 
+#, fuzzy
 msgctxt "[\"js\"][\"LANG_TIP\"][\"nl\"]"
 msgid "Wilt u uw voorkeurstaal naar <strong>Nederlands</strong> veranderen?"
 msgstr "Wilt u uw voorkeurstaal naar <strong>Nederlands</strong> veranderen?"
 
+#, fuzzy
 msgctxt "[\"js\"][\"LANG_IGNORE\"][\"pl\"]"
 msgid "Ignorować"
 msgstr "Ignorować"
 
+#, fuzzy
 msgctxt "[\"js\"][\"LANG_IGNORE\"][\"es\"]"
 msgid "Ignorar"
 msgstr "İptal et"
