@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-10-17 08:41+0000\n"
-"PO-Revision-Date: 2018-09-21 13:00+0000\n"
-"Last-Translator: Tim Kim <gamemt7@gmail.com>\n"
+"PO-Revision-Date: 2018-10-12 10:00+0000\n"
+"Last-Translator: vdmir40 <vdmir40@gmail.com>\n"
 "Language-Team: Korean <https://translate.apkpure.com/projects/apkpure/"
 "apkpurecom/ko/>\n"
 "Language: ko\n"
@@ -22,9 +22,8 @@ msgstr "게임"
 #, fuzzy
 msgctxt "[\"NAV-APP\"]"
 msgid "APPS"
-msgstr "앱"
+msgstr "애플리케이션"
 
-#, fuzzy
 msgctxt "[\"NAV-XAPK\"]"
 msgid "XAPK"
 msgstr "XAPK 파일"
@@ -311,9 +310,10 @@ msgctxt "[\"DETAIL-REPORT\"]"
 msgid "Report"
 msgstr "신고"
 
+#, fuzzy
 msgctxt "[\"DETAIL-FLAG_AS_INAPPROPRIATE\"]"
 msgid "Flag as inappropriate"
-msgstr "부적절한 것으로 표시하다"
+msgstr "부적절한 것으로 표시"
 
 msgctxt "[\"DETAIL-VOTES\"]"
 msgid "votes"
@@ -325,7 +325,7 @@ msgstr "{0}에 대한 설명"
 
 msgctxt "[\"DETAIL-OFFICIAL_TRAILER\"]"
 msgid "{0} for Android official Trailer"
-msgstr ""
+msgstr "{0}의 안드로이드 공식 트레일러"
 
 msgctxt "[\"DETAIL-VERSION\"]"
 msgid "Version"
@@ -333,7 +333,7 @@ msgstr "버전"
 
 msgctxt "[\"DETAIL-UPDATE_ON\"]"
 msgid "Update on"
-msgstr "업데이트된"
+msgstr "-에 업데이트"
 
 msgctxt "[\"DETAIL-SIGNATURE\"]"
 msgid "Signature"
@@ -369,7 +369,7 @@ msgstr "댓글"
 
 msgctxt "[\"DETAIL-FOLLOW_UPDATES\"]"
 msgid "Follow Updates"
-msgstr "업데이트를 팔로우 하세요"
+msgstr "자동 업데이트"
 
 msgctxt "[\"DETAIL-REQUEST_UPDATE\"]"
 msgid "Request Update"
@@ -377,7 +377,7 @@ msgstr "업데이트 신청"
 
 msgctxt "[\"DETAIL-RATING\"]"
 msgid "{votes} votes, average: {rating_average} out of {rating_best}"
-msgstr ""
+msgstr "{votes} 점수, 평가 평균: {rating_average} 최대 {rating_best}"
 
 msgctxt "[\"DETAIL-MORE_DEVELOPER\"]"
 msgid "Get more from {0}"
@@ -1817,3 +1817,15 @@ msgstr "최고 등급"
 msgctxt "[\"COMMENT-SORT_BY_DEFAULT\"]"
 msgid "Sort by default"
 msgstr "기본적으로 정렬"
+
+msgctxt "[\"HAVE_PRODUCTS\"]"
+msgid "All {0} Apps"
+msgstr "모든 애플리케이션"
+
+msgctxt "[\"DETAIL-HOT_TAGS\"]"
+msgid "{0} Tags"
+msgstr "태그"
+
+msgctxt "[\"DETAIL-MORE_FROM\"]"
+msgid "More From {0}"
+msgstr "{0}으로부터"
