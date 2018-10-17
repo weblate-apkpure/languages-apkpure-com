@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-10-17 08:41+0000\n"
-"PO-Revision-Date: 2018-10-12 10:00+0000\n"
-"Last-Translator: vdmir40 <vdmir40@gmail.com>\n"
+"PO-Revision-Date: 2018-10-18 05:00+0000\n"
+"Last-Translator: 김성용 <futureknight58@naver.com>\n"
 "Language-Team: Korean <https://translate.apkpure.com/projects/apkpure/"
 "apkpurecom/ko/>\n"
 "Language: ko\n"
@@ -19,10 +19,9 @@ msgctxt "[\"NAV-GAME\"]"
 msgid "GAMES"
 msgstr "게임"
 
-#, fuzzy
 msgctxt "[\"NAV-APP\"]"
 msgid "APPS"
-msgstr "애플리케이션"
+msgstr "어플리케이션"
 
 msgctxt "[\"NAV-XAPK\"]"
 msgid "XAPK"
@@ -310,10 +309,9 @@ msgctxt "[\"DETAIL-REPORT\"]"
 msgid "Report"
 msgstr "신고"
 
-#, fuzzy
 msgctxt "[\"DETAIL-FLAG_AS_INAPPROPRIATE\"]"
 msgid "Flag as inappropriate"
-msgstr "부적절한 것으로 표시"
+msgstr "부적절한 것을 표시"
 
 msgctxt "[\"DETAIL-VOTES\"]"
 msgid "votes"
@@ -381,7 +379,7 @@ msgstr "{votes} 점수, 평가 평균: {rating_average} 최대 {rating_best}"
 
 msgctxt "[\"DETAIL-MORE_DEVELOPER\"]"
 msgid "Get more from {0}"
-msgstr ""
+msgstr "{0} 으로 부터 더 가져오기"
 
 msgctxt "[\"DETAIL-REMOVED\"]"
 msgid "Removed"
@@ -389,11 +387,11 @@ msgstr "삭제됨"
 
 msgctxt "[\"DETAIL-CATEGORY_GAME\"]"
 msgid "{0} GAME"
-msgstr ""
+msgstr "{0} 게임"
 
 msgctxt "[\"DETAIL-CATEGORY_APP\"]"
 msgid "{0} APP"
-msgstr ""
+msgstr "{0} 어플리케이션"
 
 msgctxt "[\"DETAIL-VERSION_LOAD_MORE\"]"
 msgid "Load more"
@@ -1829,3 +1827,25 @@ msgstr "태그"
 msgctxt "[\"DETAIL-MORE_FROM\"]"
 msgid "More From {0}"
 msgstr "{0}으로부터"
+
+msgctxt "[\"DETAIL-RATING1\"]"
+msgid "average: {rating_average} out of {rating_best}"
+msgstr "평균: {rating_average} 중 {rating_best}"
+
+msgctxt "[\"DETAIL-DELETED_COPYRIGHT_GOOGLE_PLAY_DES\"]"
+msgid "{app_name} All rights reserved ©2018 {developer}. {developer} and the {developer} logo are trademarks of {developer} in the U.S. and/or other countries.All other trademarks are the property of their respective owners."
+msgstr ""
+"{app_name} All rights reserved ©2018 {developer}. {developer} 와 그의 로고는 미국에서 "
+"트레이드 마크입니다. 다른 제품들은 원작자의 소유에 있습니다."
+
+msgctxt "[\"COMMENT-REVIEW_OTHER_LANG\"]"
+msgid "There are {0} reviews in other languages"
+msgstr "{0}개의 다른 언어의 조회수"
+
+msgctxt "[\"COMMENT-SEE_ALL_DISCUSSIONS\"]"
+msgid "See all {0} discussions"
+msgstr "모든 {0} 토론을 보기"
+
+msgctxt "[\"COMMENT-ALL-REPLY\"]"
+msgid "All {0} replies"
+msgstr "모든 {0} 댓글"
