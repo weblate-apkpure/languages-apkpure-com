@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-07-14 16:00+0000\n"
-"PO-Revision-Date: 2018-07-14 16:00+0000\n"
-"Last-Translator: 謝明元 <john0918166166@gmail.com>\n"
+"PO-Revision-Date: 2018-10-16 17:00+0000\n"
+"Last-Translator: 林筱曼 <azs19740712@gmail.com>\n"
 "Language-Team: Chinese (Traditional) <https://translate.apkpure.com/projects/"
 "apkpure/apkpurecom/zh_Hant/>\n"
 "Language: zh_TW\n"
@@ -12,12 +12,11 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 3.0\n"
+"X-Generator: Weblate 3.1.1\n"
 
-#, fuzzy
 msgctxt "[\"NAV-GAME\"]"
 msgid "GAMES"
-msgstr "中文（繁體）"
+msgstr "下載中文（繁體）"
 
 msgctxt "[\"NAV-APP\"]"
 msgid "APPS"
@@ -27,10 +26,12 @@ msgctxt "[\"NAV-XAPK\"]"
 msgid "XAPK"
 msgstr "XAPK"
 
+#, fuzzy
 msgctxt "[\"NAV-NEW\"]"
 msgid "NEW"
 msgstr "最新"
 
+#, fuzzy
 msgctxt "[\"NAV-PRODUCTS\"]"
 msgid "PRODUCTS"
 msgstr "產品"
@@ -45,7 +46,7 @@ msgstr "最近更新應用"
 
 msgctxt "[\"NAV-XAPK_GAME\"]"
 msgid "XAPK GAME"
-msgstr "XAPK 遊戲"
+msgstr "XAPK 遊戲軟體"
 
 msgctxt "[\"NAV-XAPK_APP\"]"
 msgid "XAPK APP"
@@ -181,7 +182,7 @@ msgstr "{app_category}{app_type}"
 
 msgctxt "[\"SHOW_MORE\"]"
 msgid "Show More"
-msgstr "更多"
+msgstr "ㄊ更多"
 
 msgctxt "[\"SHOW_LESS\"]"
 msgid "Show less"

@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-10-28 13:15+0000\n"
-"PO-Revision-Date: 2018-08-14 14:00+0000\n"
+"PO-Revision-Date: 2018-09-03 02:00+0000\n"
 "Last-Translator: ប៉ុកណូ រ៉ូយ៉ាល់ <royalpokno68@gmail.com>\n"
 "Language-Team: Central Khmer <https://translate.apkpure.com/projects/apkpure/"
 "apkpurecom/km/>\n"
@@ -949,39 +949,41 @@ msgstr "ទាញយក APK"
 
 msgctxt "[\"js\"][\"SIGN_VERIFY-OFFICIAL\"]"
 msgid "[Official] This {0} APK is the unmodified official version."
-msgstr ""
+msgstr "[តាមផ្លូវការ] {0} APK នេះគឺមិនបានកែសម្រួលពីកំណែផ្លូវការឡើយ។"
 
 msgctxt "[\"js\"][\"SIGN_VERIFY-NOT_TRUSTED\"]"
 msgid "[Not Trusted] This {0} APK is a modified version, we don't recommend installing it."
 msgstr ""
+"[កុំទុកចិត្ត] {0} APK នេះគឺជាកំណែប្រែកែសម្រួល "
+"ពួកយើងមិនបានណែនាំឲ្យតម្លើងវាឡើយ។"
 
 msgctxt "[\"js\"][\"SIGN_VERIFY-ERROR_APK_FILE\"]"
 msgid "Error APK file"
-msgstr ""
+msgstr "ឯកសារ APK មានបញ្ហា"
 
 msgctxt "[\"js\"][\"SIGN_VERIFY-VALID\"]"
 msgid "The uploaded file is not a valid Android application."
-msgstr ""
+msgstr "ឯកសារដែលផ្ទុកឡើងគឺមិនមែនជាកម្មវិធី Android ទេ។"
 
 msgctxt "[\"js\"][\"SIGN_VERIFY-SAFE\"]"
 msgid "safe"
-msgstr ""
+msgstr "សុវត្ថិភាព"
 
 msgctxt "[\"js\"][\"SIGN_VERIFY-UNSAFE\"]"
 msgid "unsafe"
-msgstr ""
+msgstr "មិនសុវត្ថិភាព"
 
 msgctxt "[\"js\"][\"SIGN_VERIFY-CLICK_UPLOAD\"]"
 msgid "Click Upload APK file"
-msgstr ""
+msgstr "ចុចអាប់ឡូតឯកសារ APK"
 
 msgctxt "[\"js\"][\"REGION_DOWN-REGION_ERROR\"]"
 msgid "Package name or region error , try again"
-msgstr ""
+msgstr "ឈ្មោះនៃកញ្ចប់ ឬតំបនមានបញ្ហា សូមព្យាយាមម្ដងទៀត"
 
 msgctxt "[\"js\"][\"REGION_DOWN-INVALID_APP\"]"
 msgid "Invalid app package name,"
-msgstr ""
+msgstr "កញ្ចប់ឈ្មោះកម្មវិធីមិនត្រឹមត្រូវ"
 
 msgctxt "[\"js\"][\"REGION_DOWN-SEARCH_RESULTS\"]"
 msgid "Check all {0} search results here."
@@ -989,39 +991,39 @@ msgstr "ពិនិត្យមើលលទ្ធផលស្វែងរក {0
 
 msgctxt "[\"js\"][\"REGION_DOWN-DOWNLOADING\"]"
 msgid "Downloading, please wait..."
-msgstr ""
+msgstr "កំពុងទាញយក សូមរង់ចាំ...."
 
 msgctxt "[\"js\"][\"SHOW_MORE\"]"
 msgid "Show More"
-msgstr ""
+msgstr "បង្ហាញបន្ថែម"
 
 msgctxt "[\"js\"][\"SHOW_LESS\"]"
 msgid "Show less"
-msgstr ""
+msgstr "បង្ហាញបន្តិច"
 
 msgctxt "[\"js\"][\"LOADING\"]"
 msgid "loading..."
-msgstr ""
+msgstr "កំពុងផ្ទុក..."
 
 msgctxt "[\"js\"][\"DOWNLOAD_APK\"]"
 msgid "Download APK"
-msgstr ""
+msgstr "ទាញយក APK"
 
 msgctxt "[\"js\"][\"UPLOADED\"]"
 msgid "Uploaded {0}%"
-msgstr ""
+msgstr "បានផ្ទុកឡើង {0}%"
 
 msgctxt "[\"js\"][\"UPLOADING\"]"
 msgid "Uploading..."
-msgstr ""
+msgstr "កំពុងផ្ទុកឡើង..."
 
 msgctxt "[\"js\"][\"VALIDATING\"]"
 msgid "Validating..."
-msgstr ""
+msgstr "កំពុងធ្វើសុពលភាព..."
 
 msgctxt "[\"js\"][\"FILE_UPLOAD_FAILED\"]"
 msgid "File upload failed!"
-msgstr ""
+msgstr "ឯកសារផ្ទុកឡើងបរាជ័យ!"
 
 msgctxt "[\"featured\"][\"2016-new-year\"]"
 msgid "2016 New Year"
@@ -1288,10 +1290,12 @@ msgstr ""
 msgctxt "[\"meta\"][\"Details\"][\"description\"]"
 msgid "Download {app_short_name} apk {version_name} and all version history for Android. {app_short_description}"
 msgstr ""
+"ទាញយក {app_short_name} apk {version_name} និងគ្រប់កំណែទាំងអស់សម្រាប់ Android។"
+" {app_short_description}"
 
 msgctxt "[\"meta\"][\"Details_download\"][\"title\"]"
 msgid "Download {app_name} {version_name} APK | APKPure.com"
-msgstr ""
+msgstr "ទាញយក {app_name} {version_name} APK | APKPure.com"
 
 msgctxt "[\"meta\"][\"Details_download\"][\"keywords\"]"
 msgid "{app_name} apk, {app_name} apk download, {app_name} download"
@@ -2263,27 +2267,22 @@ msgctxt "[\"js\"][\"LANG_IGNORE\"][\"pl\"]"
 msgid "Ignorować"
 msgstr "Ignorować"
 
-#, fuzzy
 msgctxt "[\"js\"][\"LANG_IGNORE\"][\"es\"]"
 msgid "Ignorar"
 msgstr "Ignorar"
 
-#, fuzzy
 msgctxt "[\"js\"][\"LANG_IGNORE\"][\"ru\"]"
 msgid "игнорировать"
 msgstr "игнорировать"
 
-#, fuzzy
 msgctxt "[\"js\"][\"LANG_IGNORE\"][\"id\"]"
 msgid "Mengabaikan"
 msgstr "Mengabaikan"
 
-#, fuzzy
 msgctxt "[\"js\"][\"LANG_IGNORE\"][\"nl\"]"
 msgid "Negeren"
 msgstr "Negeren"
 
-#, fuzzy
 msgctxt "[\"js\"][\"LANG_OK\"][\"es\"]"
 msgid "DE ACUERDO"
 msgstr "DE ACUERDO"
@@ -2504,3 +2503,142 @@ msgstr "បន្ថែមស្លាក"
 msgctxt "[\"RECOMMENDED-POSTS\"]"
 msgid "Recommended Posts"
 msgstr "ណែនាំការប្រកាស"
+
+msgctxt "[\"USERS-RECOMMENDED\"]"
+msgid "Users' Recommendations"
+msgstr "អ្នកប្រើប្រាស់បានណែនាំ"
+
+msgctxt "[\"REVIEW_PRIVACY_POLICY_DES_M\"]"
+msgid "We encourage you to read our updated <a target='_blank' href='{pp}'>Privacy Policy</a> and <a target='_blank' href='{cp}'>Cookies Policy</a>."
+msgstr ""
+"ពួកយើងលើកទឹកចិត្តឲ្យអ្នកអាននូវបច្ចុប្បន្នភាព our updated <a target='_blank' "
+"href='{pp}'>គោលការណ៍​ភាព​ឯកជន</a> និង <a target='_blank' "
+"href='{cp}'>គោលការណ៍ឃុគឃី​</a>របស់ពួកយើង។"
+
+msgctxt "[\"REVIEW_PRIVACY_POLICY_DES\"]"
+msgid "We use cookies and other technologies on this website to enhance your user experience.<br> By clicking any link on this page you are giving your consent to our <a target='_blank' href='{pp}'>Privacy Policy</a> and <a target='_blank' href='{cp}'>Cookies Policy</a>."
+msgstr ""
+"យើងប្រើ Cookies និងបច្ចេកវិទ្យាផ្សេងៗទៀតនៅលើគេហទំព័រនេះដើម្បីបង្កើនបទពិសោធន៍អ"
+"្នកប្រើប្រាស់ដូចជាអ្នក។<br> ដោយធ្វើការចុចតំណណាមួយលើទំព័រនេះ "
+"អ្នកកំពុងផ្តល់ការយល់ព្រមរបស់អ្នកដល់យើង <a target='_blank' "
+"href='{pp}'>គោលការណ៍​ភាព​ឯកជន</a> and <a target='_blank' href='{cp}'>គោលការណ៍"
+" Cookies</a>។"
+
+msgctxt "[\"REVIEW_PRIVACY_POLICY_BTN\"]"
+msgid "Ok I Agree"
+msgstr "អូខេ! ខ្ញុំយល់ព្រម"
+
+msgctxt "[\"REVIEW_PRIVACY_POLICY_MORE\"]"
+msgid "Learn More"
+msgstr "ស្វែងយល់បន្ថែម"
+
+msgctxt "[\"js\"][\"LANG_TIP\"][\"pl\"]"
+msgid "Czy chcesz zmienić język preferencji na <strong> Polski </strong>?"
+msgstr "Czy chcesz zmienić język preferencji na <strong> Polski </strong>?"
+
+msgctxt "[\"js\"][\"LANG_TIP\"][\"es\"]"
+msgid "¿Quiere cambiar su idioma de preferencia a <strong>español</strong>?"
+msgstr "¿Quiere cambiar su idioma de preferencia a <strong>español</strong>?"
+
+msgctxt "[\"js\"][\"LANG_TIP\"][\"ru\"]"
+msgid "Вы хотите изменить язык предпочтений на <strong>русский</strong>?"
+msgstr "Вы хотите изменить язык предпочтений на <strong>русский</strong>?"
+
+msgctxt "[\"js\"][\"LANG_TIP\"][\"id\"]"
+msgid "Apakah Anda ingin mengubah bahasa pilihan Anda <strong>ke bahasa Indonesia</strong>?"
+msgstr ""
+"Apakah Anda ingin mengubah bahasa pilihan Anda <strong>ke bahasa "
+"Indonesia</strong>?"
+
+msgctxt "[\"js\"][\"LANG_TIP\"][\"it\"]"
+msgid "Vuoi cambiare la tua lingua preferenziale in <strong>italiano</strong>?"
+msgstr "Vuoi cambiare la tua lingua preferenziale in <strong>italiano</strong>?"
+
+msgctxt "[\"js\"][\"LANG_TIP\"][\"de\"]"
+msgid "Wil je de taal van je voorkeur wijzigen in <strong> Deutsch </strong>?"
+msgstr "Wil je de taal van je voorkeur wijzigen in <strong> Deutsch </strong>?"
+
+msgctxt "[\"js\"][\"LANG_TIP\"][\"vn\"]"
+msgid "Bạn có muốn thay đổi ngôn ngữ ưa thích của mình thành <strong> Tiếng Việt </strong> không?"
+msgstr ""
+"Bạn có muốn thay đổi ngôn ngữ ưa thích của mình thành <strong> Tiếng Việt "
+"</strong> không?"
+
+msgctxt "[\"js\"][\"LANG_TIP\"][\"nl\"]"
+msgid "Wilt u uw voorkeurstaal naar <strong>Nederlands</strong> veranderen?"
+msgstr "Wilt u uw voorkeurstaal naar <strong>Nederlands</strong> veranderen?"
+
+msgctxt "[\"js\"][\"LANG_IGNORE\"][\"it\"]"
+msgid "Ignorare"
+msgstr "Ignorare"
+
+msgctxt "[\"js\"][\"LANG_IGNORE\"][\"de\"]"
+msgid "Negeren"
+msgstr "Negeren"
+
+msgctxt "[\"js\"][\"LANG_IGNORE\"][\"vn\"]"
+msgid "OK"
+msgstr "OK"
+
+msgctxt "[\"js\"][\"LANG_OK\"][\"pl\"]"
+msgid "ok"
+msgstr "ok"
+
+msgctxt "[\"js\"][\"LANG_OK\"][\"id\"]"
+msgid "baik"
+msgstr "baik"
+
+msgctxt "[\"js\"][\"LANG_OK\"][\"de\"]"
+msgid "OK"
+msgstr "Ok"
+
+msgctxt "[\"js\"][\"LANG_OK\"][\"vn\"]"
+msgid "OK"
+msgstr "Ok"
+
+msgctxt "[\"js\"][\"CANCEL\"]"
+msgid "Cancel"
+msgstr "បោះបង់"
+
+msgctxt "[\"js\"][\"YOUTUBE_URL\"]"
+msgid "Enter Youtube video URL"
+msgstr "វាយបញ្ចូលអាស័យដ្ឋានវីដេអូ Youtube"
+
+msgctxt "[\"js\"][\"YOUTUBE_URL_ERR\"]"
+msgid "Invalid URL: Please enter a valid YouTube video URL"
+msgstr "URL មិនត្រឹមត្រូវ៖ សូមវាយវាយបញ្ចូលអាស័យដ្ឋានវីដេអូដែលត្រឹមត្រូវ"
+
+msgctxt "[\"js\"][\"USER-PASSWORD_NOT_MATCH\"]"
+msgid "Passwords do not match"
+msgstr "ពាក្យសម្ងាត់មិនត្រឹមត្រូវទេ"
+
+msgctxt "[\"js\"][\"USER-RESEND_VERIFICATION\"]"
+msgid "Resend verification code"
+msgstr "ផ្ញើម្ដងទៀតនូវកូដផ្ទៀងផ្ទាត់"
+
+msgctxt "[\"js\"][\"USER-RESEND_IN\"]"
+msgid "Resend in {0}"
+msgstr "ផ្ញើម្ដងទៀតក្នុង {0}"
+
+msgctxt "[\"js\"][\"COMMENT-RATE_MUST\"]"
+msgid "Before writing a review or something, please rate the app first."
+msgstr "មុនពេលសរសេរពិនិត្យមើល ឬអ្វីមួយ សូមវាយតម្លៃកម្មវិធីជាមុនសិន។"
+
+msgctxt "[\"meta\"][\"Details_new\"][\"title\"]"
+msgid "{app_short_name} for Android - APK Download"
+msgstr "{app_short_name} សម្រាប់ Android - ទាញយកឯកសារ APK"
+
+msgctxt "[\"meta\"][\"Details_new\"][\"description\"]"
+msgid "Download {app_short_name} apk {version_name} for Android. {app_short_description}"
+msgstr ""
+"ទាញយក {app_short_name} apk {version_name} សម្រាប់ Android។ "
+"{app_short_description}"
+
+msgctxt "[\"meta\"][\"Versions\"][\"title\"]"
+msgid "{app_short_name} update version history for Android - APK Download"
+msgstr ""
+"ប្រវត្តិនៃការអាប់ដេតជំនាន់{app_short_name}  សម្រាប់Android - ទាញយកឯកសារ APK"
+
+msgctxt "[\"meta\"][\"Details_download_new\"][\"title\"]"
+msgid "Download {app_short_name} latest {version_name} Android APK"
+msgstr "ទាញយក {app_short_name} {version_name} ចុងក្រោយគេ Android APK"
