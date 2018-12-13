@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-08-10 18:00+0000\n"
-"PO-Revision-Date: 2018-11-20 02:58+0000\n"
-"Last-Translator: lucia <lupialbaro@gmail.com>\n"
+"PO-Revision-Date: 2019-02-24 23:48+0000\n"
+"Last-Translator: Angelica Romero <romeromay2121@gmail.com>\n"
 "Language-Team: Spanish <https://translate.apkpure.com/projects/apkpure/"
 "apkpurecom/es/>\n"
 "Language: es\n"
@@ -66,53 +66,64 @@ msgctxt "[\"NAV-APKPURE_APP\"]"
 msgid "APKPure App"
 msgstr "Aplicación de APKPure"
 
+#, fuzzy
 msgctxt "[\"DOWNLOAD\"]"
 msgid "Download"
-msgstr "Descargar"
+msgstr "Download"
 
+#, fuzzy
 msgctxt "[\"FAST_DOWNLOAD\"]"
 msgid "Fast Download"
-msgstr "Descarga rápida"
+msgstr "Fast Download"
 
+#, fuzzy
 msgctxt "[\"IGNORE\"]"
 msgid "Ignore"
-msgstr "Ignorar"
+msgstr "Ignore"
 
+#, fuzzy
 msgctxt "[\"OK\"]"
 msgid "OK"
-msgstr "Bien"
+msgstr "OK"
 
+#, fuzzy
 msgctxt "[\"BUY\"]"
 msgid "Buy"
-msgstr "Comprar"
+msgstr "Buy"
 
+#, fuzzy
 msgctxt "[\"SELECT_LANGUAGE\"]"
 msgid "Select Language"
-msgstr "Seleccionar idioma"
+msgstr "Select Language"
 
+#, fuzzy
 msgctxt "[\"FREE\"]"
 msgid "Free"
-msgstr "Gratis"
+msgstr "Free"
 
+#, fuzzy
 msgctxt "[\"TOP-UPDATED-APPS\"]"
 msgid "Top Updated Apps"
-msgstr "Aplicaciones más actualizadas"
+msgstr "Top Updated Apps"
 
 msgctxt "[\"TOP-UPDATED-GAMES\"]"
 msgid "Top Updated Games"
 msgstr "Juegos Más Actualizados"
 
+#, fuzzy
 msgctxt "[\"READ_MORE\"]"
 msgid "Read More"
-msgstr "Leer más"
+msgstr "Read More"
 
+#, fuzzy
 msgctxt "[\"GAME\"]"
 msgid "GAME"
 msgstr "JUEGO"
 
+#, fuzzy
 msgctxt "[\"APP\"]"
 msgid "APP"
-msgstr "Aplicación"
+msgstr "Aplicacizzón"
 
 msgctxt "[\"GAMES\"]"
 msgid "Games"
