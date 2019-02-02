@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-03-31 09:34+0000\n"
-"PO-Revision-Date: 2019-02-02 23:17+0000\n"
-"Last-Translator: Jatuporn Wanklai <aum32010@gmail.com>\n"
+"PO-Revision-Date: 2019-03-06 11:39+0000\n"
+"Last-Translator: Saken <ageqei8@gmail.com>\n"
 "Language-Team: Thai <https://translate.apkpure.com/projects/apkpure/"
 "apkpurecom/th/>\n"
 "Language: th\n"
@@ -33,7 +33,7 @@ msgstr "Font"
 #, fuzzy
 msgctxt "[\"NAV-PRODUCTS\"]"
 msgid "PRODUCTS"
-msgstr "ผลิตภัณฑ์"
+msgstr "smผลิตภัณฑ์"
 
 #, fuzzy
 msgctxt "[\"NAV-NEW_GAME\"]"
@@ -43,13 +43,14 @@ msgstr "เกมใหม่ล่าสุด"
 #, fuzzy
 msgctxt "[\"NAV-NEW_APP\"]"
 msgid "NEW APP"
-msgstr "แอปใหม่ล่าสุด"
+msgstr "แอปใหม่ล่าสุดMorocel2"
 
 #, fuzzy
 msgctxt "[\"NAV-XAPK_GAME\"]"
 msgid "XAPK GAME"
 msgstr "ไฟล์เกมส์ เอ็กซ์เอพีเค"
 
+#, fuzzy
 msgctxt "[\"NAV-XAPK_APP\"]"
 msgid "XAPK APP"
 msgstr "0980765052"
@@ -78,10 +79,12 @@ msgctxt "[\"DOWNLOAD\"]"
 msgid "Download"
 msgstr "ดาวน์โหลด"
 
+#, fuzzy
 msgctxt "[\"SELECT_LANGUAGE\"]"
 msgid "Select Language"
 msgstr "เลือกภาษา"
 
+#, fuzzy
 msgctxt "[\"FREE\"]"
 msgid "Free"
 msgstr "ฟรี"
@@ -90,37 +93,42 @@ msgctxt "[\"READ_MORE\"]"
 msgid "Read More"
 msgstr "อ่านต่อ"
 
+#, fuzzy
 msgctxt "[\"GAME\"]"
 msgid "GAME"
 msgstr "เกมส์"
 
 msgctxt "[\"APP\"]"
 msgid "APP"
-msgstr "แอพ"
+msgstr "14545แอพ"
 
 msgctxt "[\"GAMES\"]"
 msgid "Games"
 msgstr "เกมส์"
 
+#, fuzzy
 msgctxt "[\"APPS\"]"
 msgid "Apps"
-msgstr "แอพ"
+msgstr "Apps"
 
+#, fuzzy
 msgctxt "[\"MORE\"]"
 msgid "More"
-msgstr "เพิ่มเติม"
+msgstr "อื่น ๆ"
 
 msgctxt "[\"XAPK\"]"
 msgid "XAPK"
-msgstr "XAPK"
+msgstr "เอ็กซ์เอพีเค"
 
+#, fuzzy
 msgctxt "[\"XAPK-GAMES\"]"
 msgid "XAPK Games"
-msgstr "เกมส์ XAPK"
+msgstr "0980765052"
 
+#, fuzzy
 msgctxt "[\"XAPK-APPS\"]"
 msgid "XAPK Apps"
-msgstr "แอพ XAPK"
+msgstr "แอพเอ็กซ์เอพีเค"
 
 msgctxt "[\"HOME\"]"
 msgid "Home"
@@ -1503,9 +1511,10 @@ msgctxt "[\"OK\"]"
 msgid "OK"
 msgstr "ตกลง"
 
+#, fuzzy
 msgctxt "[\"TOP-UPDATED-APPS\"]"
 msgid "Top Updated Apps"
-msgstr "แอปอัพเดทยอดนิยม"
+msgstr "Top Updated Apps"
 
 msgctxt "[\"TOP-UPDATED-GAMES\"]"
 msgid "Top Updated Games"
