@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-10-17 08:41+0000\n"
-"PO-Revision-Date: 2018-11-02 10:00+0000\n"
-"Last-Translator: 지Cheong <leo3046@gmail.com>\n"
+"PO-Revision-Date: 2019-03-05 10:48+0000\n"
+"Last-Translator: 咕噜噜 <yaolu_1024@126.com>\n"
 "Language-Team: Korean <https://translate.apkpure.com/projects/apkpure/"
 "apkpurecom/ko/>\n"
 "Language: ko\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 3.1.1\n"
+"X-Generator: Weblate 3.2.2\n"
 
 msgctxt "[\"NAV-GAME\"]"
 msgid "GAMES"
@@ -20,27 +20,30 @@ msgstr "게임"
 
 msgctxt "[\"NAV-APP\"]"
 msgid "APPS"
-msgstr "어플리케이션"
+msgstr "애플리케이션"
 
 msgctxt "[\"NAV-XAPK\"]"
 msgid "XAPK"
-msgstr "XAPK 파일"
+msgstr "XAPK"
 
+#, fuzzy
 msgctxt "[\"NAV-NEW\"]"
 msgid "NEW"
-msgstr "신규"
+msgstr "신상"
 
 msgctxt "[\"NAV-PRODUCTS\"]"
 msgid "PRODUCTS"
-msgstr "제품들"
+msgstr "제품"
 
+#, fuzzy
 msgctxt "[\"NAV-NEW_GAME\"]"
 msgid "NEW GAME"
-msgstr "신규 게임"
+msgstr "뉴 게임"
 
+#, fuzzy
 msgctxt "[\"NAV-NEW_APP\"]"
 msgid "NEW APP"
-msgstr "신규 앱"
+msgstr "뉴 앱"
 
 msgctxt "[\"NAV-XAPK_GAME\"]"
 msgid "XAPK GAME"
@@ -60,7 +63,7 @@ msgstr "APK 다운로드"
 
 msgctxt "[\"NAV-APK_VERIFICATION\"]"
 msgid "APK Verification"
-msgstr "APK 검사인증"
+msgstr "APK 확인"
 
 msgctxt "[\"NAV-APKPURE_APP\"]"
 msgid "APKPure App"
@@ -118,6 +121,7 @@ msgctxt "[\"HOME\"]"
 msgid "Home"
 msgstr "홈"
 
+#, fuzzy
 msgctxt "[\"SORT_BY\"]"
 msgid "Sort by"
 msgstr "분류"
@@ -142,6 +146,7 @@ msgctxt "[\"CATEGORY\"]"
 msgid "Category"
 msgstr "카테고리"
 
+#, fuzzy
 msgctxt "[\"CATEGORY_JOIN\"]"
 msgid "{app_category} {app_type}"
 msgstr "{앱 카테고리} {앱 타입}"
@@ -199,20 +204,20 @@ msgstr "댓글"
 
 msgctxt "[\"LATEST_UPDATE_GAMES\"]"
 msgid "Latest Update Games"
-msgstr "신규 업데이트 게임"
+msgstr "최신 업데이트 게임"
 
 msgctxt "[\"LATEST_UPDATE_APPS\"]"
 msgid "Latest Update Apps"
-msgstr "신규 업데이트 앱"
+msgstr "최신 업데이트 앱"
 
 msgctxt "[\"LATEST_UPDATE\"]"
 msgid "Latest Update"
-msgstr "신규 업데이트"
+msgstr "최신 업데이트"
 
 #, fuzzy
 msgctxt "[\"XAPK_IS_APK_WITH_OBB_DATA\"]"
 msgid "XAPK is APK with OBB data"
-msgstr "XAPK 는 OBB 데이터를 포함한 APK 파일 입니다"
+msgstr "XAPK 는 OBB 데이터를 포함한 APK 파일입니다"
 
 #, fuzzy
 msgctxt "[\"MOST_POPULAR_IN_TODAY\"]"
@@ -226,23 +231,24 @@ msgstr "유사 또는 연계"
 
 msgctxt "[\"INDEX-TITLE\"]"
 msgid "Download free Android Games and Android Apps."
-msgstr "무료 안드로이드 게임과 앱을 다운받으세요."
+msgstr "무료 안드로이드 게임과 앱을 다운로드하십시오."
 
+#, fuzzy
 msgctxt "[\"INDEX-MOBILE_TITLE\"]"
 msgid "Download free Android Games and Apps."
-msgstr "무료 안드로이드 게임과 앱을 다운받으세요."
+msgstr "무료 안드로이드 게임과 앱을 다운로드하십시오."
 
 msgctxt "[\"INDEX-HOW_TO_DOWNLOAD\"]"
 msgid "How to download apk files?"
-msgstr "어떻게 APK 파일을 다운받나요?"
+msgstr "apk 파일을 다운로드하는 방법은 무엇입니까?"
 
 msgctxt "[\"INDEX-FAQ\"]"
 msgid "FAQ"
-msgstr "자주 받는 질문"
+msgstr "자주 묻는 질문"
 
 msgctxt "[\"INDEX-POPULAR_CATEGORIES\"]"
 msgid "Popular categories"
-msgstr "인기 범주"
+msgstr "인기 카테고리"
 
 msgctxt "[\"DOWNLOAD_APK\"]"
 msgid "Download APK"
@@ -266,19 +272,20 @@ msgstr "유료 앱 다운로드는 불가능합니다"
 
 msgctxt "[\"DETAIL-WHY_SAFE\"]"
 msgid "Why we can guarantee APK 100% safe?"
-msgstr "왜 우리는 100% 안전한 APK 파일이라고 보장할수있나?"
+msgstr "APK가 100% 안전하다고 보증할 수 있는 이유는 무엇입니까?"
 
 msgctxt "[\"DETAIL-SAFE\"]"
 msgid "Verification passed"
-msgstr "서명 인증 통과됨"
+msgstr "검증 통과됨"
 
 msgctxt "[\"DETAIL-XAPK_SHORT_DES\"]"
 msgid "XAPK is APK with OBB data, Click to get XAPK Installer"
-msgstr "XAPK 는 OBB 데이터를 포함한 APK 파일입니다. XAPK 인스톨러를 다운받기 위해 클릭하세요"
+msgstr "XAPK는 OBB 데이터를 포함한 APK 파일입니다. XAPK 인스톨러를 다운받기 위해 클릭하세요"
 
+#, fuzzy
 msgctxt "[\"DETAIL-MOBILE_XAPK_SHORT_DES\"]"
 msgid "Click to get XAPK Installer"
-msgstr "XAPK 인스톨러를 다운받기 위해 클릭하세요"
+msgstr "XAPK 인스톨러를 다운로드하려면 클릭하십시오."
 
 msgctxt "[\"DETAIL-CATEGORY\"]"
 msgid "Category"
@@ -290,8 +297,9 @@ msgstr "최신 버전"
 
 msgctxt "[\"DETAIL-PUBLISH_DATE\"]"
 msgid "Publish Date"
-msgstr "업데이트 날짜"
+msgstr "게시 날짜"
 
+#, fuzzy
 msgctxt "[\"DETAIL-GET_IT_ON\"]"
 msgid "Get it on"
 msgstr "이곳에서 얻으십시오"
@@ -308,6 +316,7 @@ msgctxt "[\"DETAIL-REPORT\"]"
 msgid "Report"
 msgstr "신고"
 
+#, fuzzy
 msgctxt "[\"DETAIL-FLAG_AS_INAPPROPRIATE\"]"
 msgid "Flag as inappropriate"
 msgstr "부적절한 것을 표시"
@@ -334,55 +343,63 @@ msgstr "-에 업데이트"
 
 msgctxt "[\"DETAIL-SIGNATURE\"]"
 msgid "Signature"
-msgstr "시그네쳐"
+msgstr "서명"
 
+#, fuzzy
 msgctxt "[\"DETAIL-FILE_SHA1\"]"
 msgid "File SHA1"
-msgstr "SHA-1 해시"
+msgstr "SHA1 파일"
 
+#, fuzzy
 msgctxt "[\"DETAIL-APK_FILE_SHA1\"]"
 msgid "APK File SHA1"
-msgstr "APK 파일의 SHA1 해시"
+msgstr "APK 파일 SHA1"
 
+#, fuzzy
 msgctxt "[\"DETAIL-XAPK_FILE_SHA1\"]"
 msgid "XAPK File SHA1"
-msgstr "XAPK 파일의 SHA1 해시"
+msgstr "XAPK 파일 SHA1"
 
+#, fuzzy
 msgctxt "[\"DETAIL-WHATS_NEW\"]"
 msgid "What's new"
 msgstr "변경 사항"
 
 msgctxt "[\"DETAIL-VERSION_HISTORY\"]"
 msgid "Version History"
-msgstr "업데이트 내역"
+msgstr "버전 기록"
 
+#, fuzzy
 msgctxt "[\"DETAIL-MORE_FROM_DEVELOPER\"]"
 msgid "More From Developer"
-msgstr "개발자로부터 더보기"
+msgstr "개발자의 정보 더보기"
 
 msgctxt "[\"DETAIL-COMMENTS\"]"
 msgid "Comments"
 msgstr "댓글"
 
+#, fuzzy
 msgctxt "[\"DETAIL-FOLLOW_UPDATES\"]"
 msgid "Follow Updates"
 msgstr "자동 업데이트"
 
 msgctxt "[\"DETAIL-REQUEST_UPDATE\"]"
 msgid "Request Update"
-msgstr "업데이트 신청"
+msgstr "업데이트 요청"
 
+#, fuzzy
 msgctxt "[\"DETAIL-RATING\"]"
 msgid "{votes} votes, average: {rating_average} out of {rating_best}"
-msgstr "{votes} 점수, 평가 평균: {rating_average} 최대 {rating_best}"
+msgstr "{votes} 표, 평균 : {rating_bverage} 표 중 {rating_average}표"
 
+#, fuzzy
 msgctxt "[\"DETAIL-MORE_DEVELOPER\"]"
 msgid "Get more from {0}"
-msgstr "{0} 으로 부터 더 가져오기"
+msgstr "{0}에서 더 많은 것을 얻기"
 
 msgctxt "[\"DETAIL-REMOVED\"]"
 msgid "Removed"
-msgstr "삭제됨"
+msgstr "제거됨"
 
 msgctxt "[\"DETAIL-CATEGORY_GAME\"]"
 msgid "{0} GAME"
@@ -394,7 +411,7 @@ msgstr "{0} 어플리케이션"
 
 msgctxt "[\"DETAIL-VERSION_LOAD_MORE\"]"
 msgid "Load more"
-msgstr "더 보기"
+msgstr "더 로드"
 
 msgctxt "[\"DETAIL-VERSION_MORE\"]"
 msgid "More..."
@@ -406,19 +423,20 @@ msgstr "번역"
 
 msgctxt "[\"DETAIL-GP_DOWNLOAD\"]"
 msgid "Install on Google Play"
-msgstr "구글 플레이에서 설치하기"
+msgstr "Google Play에 설치하기"
 
 msgctxt "[\"DETAIL-ITUNE_DOWNLOAD\"]"
 msgid "Install on iTunes"
-msgstr "아이튠즈에서 설치하기"
+msgstr "iTunes에 설치하기"
 
+#, fuzzy
 msgctxt "[\"DETAIL-MORE_DOWNLOAD\"]"
 msgid "More Download Locations:"
-msgstr "다른 다운로드 가능한 곳:"
+msgstr "추가 다운로드 위치"
 
 msgctxt "[\"DETAIL-DELETED_COPYRIGHT_GOOGLE_PLAY_URL\"]"
 msgid "Download on Google Play"
-msgstr "구글 플레이에서 다운로드"
+msgstr "Google Play에서 다운로드"
 
 msgctxt "[\"DETAIL-DELETED_COPYRIGHT_GOOGLE_PLAY_DES\"]"
 msgid "{app_name} All rights reserved ©2016 {developer}. {developer} and the {developer} logo are trademarks of {developer} in the U.S. and/or other countries.All other trademarks are the property of their respective owners."
@@ -434,11 +452,11 @@ msgstr "다운로드 중"
 
 msgctxt "[\"DETAIL_DOWNLOAD-DOWNLOADING_DES\"]"
 msgid "If the download doesn't start,"
-msgstr "다운로드가 자동으로 시작되지 않았다면,"
+msgstr "다다운로드가 시작되지 않으면,"
 
 msgctxt "[\"DETAIL_DOWNLOAD-DOWNLOADING_DES_CLICK\"]"
 msgid "click here"
-msgstr "여기를 눌러 주세요"
+msgstr "여기를 클릭하세요"
 
 msgctxt "[\"DETAIL_DOWNLOAD-HOW_TO_INSTALL_APK\"]"
 msgid "How to install APK / XAPK file"
@@ -1610,7 +1628,7 @@ msgstr "인증 코드가 맞지 않습니다!"
 
 msgctxt "[\"VERIFICATION_DOWN\"]"
 msgid "Enter the code(s) as you see in the image, then click \"Download\"."
-msgstr "사진에 있는 대로 코드를 입력한 후 다운로드 버튼을 누르세요."
+msgstr "사진에 표시된 코드를 입력한 후 다운로드 버튼을 누르세요."
 
 #, fuzzy
 msgctxt "[\"meta\"][\"Topic\"][\"description\"]"
@@ -1633,7 +1651,7 @@ msgstr "취소"
 
 msgctxt "[\"FAST_DOWNLOAD\"]"
 msgid "Fast Download"
-msgstr "빠른 다운로드"
+msgstr "급속 다운로드"
 
 msgctxt "[\"IGNORE\"]"
 msgid "Ignore"
@@ -1649,15 +1667,15 @@ msgstr "구입"
 
 msgctxt "[\"TOP-UPDATED-APPS\"]"
 msgid "Top Updated Apps"
-msgstr "업데이트된 탑 앱"
+msgstr "베스트 앱 업데이트"
 
 msgctxt "[\"TOP-UPDATED-GAMES\"]"
 msgid "Top Updated Games"
-msgstr "업데이트된 탑 게임"
+msgstr "베스트 게임 업데이트"
 
 msgctxt "[\"ATTACHMENT\"]"
 msgid "Attachment"
-msgstr "첨부"
+msgstr "첨부파일"
 
 msgctxt "[\"DOWNLOADS_ATTACHMENT\"]"
 msgid "Downloads"
@@ -1671,9 +1689,10 @@ msgctxt "[\"TOPICS\"]"
 msgid "Topics"
 msgstr "토픽"
 
+#, fuzzy
 msgctxt "[\"SIMILAR_TO\"]"
 msgid "Similar to {0}"
-msgstr "{0} 와/과 비슷한"
+msgstr "{0} 과 유사함"
 
 msgctxt "[\"UPDATE\"]"
 msgid "Update"
@@ -1685,16 +1704,17 @@ msgstr "잘못된 패키지 이름 혹은 이메일"
 
 msgctxt "[\"DEV-SEND_EMAIL_ERR\"]"
 msgid "Failed to send mail"
-msgstr "메일을 보내는데 실패하였습니다"
+msgstr "메시지 전송 실패"
 
 msgctxt "[\"DEV-PKG_EXISTS\"]"
 msgid "Application has been claimed"
-msgstr "애플리케이션이 점유되었습니다"
+msgstr "애플리케이션이 청구되었습니다"
 
 msgctxt "[\"DETAIL\"]"
 msgid "Detail"
 msgstr "상세"
 
+#, fuzzy
 msgctxt "[\"DETAIL-MAIGHT_LIKE\"]"
 msgid "You Might Also Like"
 msgstr "당신을 위한 제안"
@@ -1705,11 +1725,11 @@ msgstr "이전 버젼"
 
 msgctxt "[\"VERSION-VERSIONS\"]"
 msgid "Versions"
-msgstr "버젼"
+msgstr "버전"
 
 msgctxt "[\"VERSION-REQUIRES_ANDROID\"]"
 msgid "Requires Android"
-msgstr "안드로이드 필수"
+msgstr "안드로이드 필요"
 
 msgctxt "[\"COMMENT-ADD_NEW_DISCUSSION\"]"
 msgid "Add A New Discussion"
@@ -1739,25 +1759,27 @@ msgctxt "[\"COMMENT-GROUP\"]"
 msgid "Group"
 msgstr "그룹"
 
+#, fuzzy
 msgctxt "[\"COMMENT-TITLE_POST\"]"
 msgid "Post"
 msgstr "게시"
 
 msgctxt "[\"COMMENT-ADD\"]"
 msgid "Add Comment"
-msgstr "의견 달기"
+msgstr "댓글 추가"
 
 msgctxt "[\"COMMENT-VIEWS\"]"
 msgid "Views"
-msgstr "뷰"
+msgstr "조회수"
 
 msgctxt "[\"COMMENT-REPORT\"]"
 msgid "Report"
-msgstr "리포트"
+msgstr "보고서"
 
+#, fuzzy
 msgctxt "[\"COMMENT-COLLAPSED\"]"
 msgid "comment collapsed"
-msgstr "의견 접기"
+msgstr "댓글이 축소되었습니다."
 
 msgctxt "[\"COMMENT-POST\"]"
 msgid "Post"
@@ -1773,7 +1795,7 @@ msgstr "의견"
 
 msgctxt "[\"COMMENT-REPLY\"]"
 msgid "Reply"
-msgstr "답변"
+msgstr "댓글"
 
 msgctxt "[\"COMMENT-NAME\"]"
 msgid "Name"
@@ -1801,7 +1823,7 @@ msgstr "최고"
 
 msgctxt "[\"COMMENT-SORT_BY_BEST_LONG\"]"
 msgid "Sort by best"
-msgstr "인기 로 정렬"
+msgstr "인기로 정렬"
 
 msgctxt "[\"COMMENT-SORT_BY_MOST_RECENT\"]"
 msgid "Most Recent"
@@ -1815,27 +1837,31 @@ msgctxt "[\"COMMENT-SORT_BY_DEFAULT\"]"
 msgid "Sort by default"
 msgstr "기본적으로 정렬"
 
+#, fuzzy
 msgctxt "[\"HAVE_PRODUCTS\"]"
 msgid "All {0} Apps"
 msgstr "모든 애플리케이션"
 
 msgctxt "[\"DETAIL-HOT_TAGS\"]"
 msgid "{0} Tags"
-msgstr "태그"
+msgstr "{0} 태그"
 
+#, fuzzy
 msgctxt "[\"DETAIL-MORE_FROM\"]"
 msgid "More From {0}"
-msgstr "{0}으로부터"
+msgstr "{0}의 더보기"
 
+#, fuzzy
 msgctxt "[\"DETAIL-RATING1\"]"
 msgid "average: {rating_average} out of {rating_best}"
 msgstr "평균: {rating_average} 중 {rating_best}"
 
+#, fuzzy
 msgctxt "[\"DETAIL-DELETED_COPYRIGHT_GOOGLE_PLAY_DES\"]"
 msgid "{app_name} All rights reserved ©2018 {developer}. {developer} and the {developer} logo are trademarks of {developer} in the U.S. and/or other countries.All other trademarks are the property of their respective owners."
 msgstr ""
-"{app_name} All rights reserved ©2018 {developer}. {developer} 와 그의 로고는 미국에서 "
-"트레이드 마크입니다. 다른 제품들은 원작자의 소유에 있습니다."
+"{app_name} All rights reserved ©2018 {developer}. {developer} 및 {developer} "
+"로고는 미국 및 / 또는 기타 국가에서 {developer}의 상표입니다. 다른 모든 상표는 해당 소유자의 자산입니다."
 
 msgctxt "[\"COMMENT-REVIEW_OTHER_LANG\"]"
 msgid "There are {0} reviews in other languages"
@@ -1848,3 +1874,123 @@ msgstr "모든 {0} 토론을 보기"
 msgctxt "[\"COMMENT-ALL-REPLY\"]"
 msgid "All {0} replies"
 msgstr "모든 {0} 댓글"
+
+#, fuzzy
+msgctxt "[\"COMMENT-RATING_REQUIRED\"]"
+msgid "Rating required"
+msgstr "필요 등급"
+
+msgctxt "[\"COMMENT-GUEST\"]"
+msgid "Guest"
+msgstr "손님"
+
+msgctxt "[\"COMMENT-START_THE_DISCUSSION\"]"
+msgid "Start the discussion…"
+msgstr "토론 시작 …"
+
+msgctxt "[\"COMMENT-LOG_IN_WITH\"]"
+msgid "Log in with"
+msgstr "로 로그인하기"
+
+msgctxt "[\"COMMENT-COMMENTS_CANT_BE_BLANK\"]"
+msgid "Comments can't be blank."
+msgstr "댓글은 비워 둘 수 없습니다."
+
+msgctxt "[\"COMMENT-POST_AS_GUEST\"]"
+msgid "Post As a Guest"
+msgstr "손님으로 게시"
+
+msgctxt "[\"COMMENT-LOGOUT\"]"
+msgid "Logout"
+msgstr "로그아웃"
+
+msgctxt "[\"COMMENT-WEBSITE\"]"
+msgid "Website"
+msgstr "웹 사이트"
+
+msgctxt "[\"COMMENT-TO_BE_FIRST\"]"
+msgid "Ooops! No such content!"
+msgstr "이런! 그런 내용이 없습니다!"
+
+msgctxt "[\"COMMENT-VOTE\"]"
+msgid "Vote"
+msgstr "투표"
+
+msgctxt "[\"COMMENT-ERR_QUICK_LOGIN\"]"
+msgid "Quick login error, please try again."
+msgstr "빠른 로그인 오류입니다. 다시 시도하십시오."
+
+msgctxt "[\"COMMENT-ERR_EMAIL_NAME\"]"
+msgid "Incorrect mail or name"
+msgstr "잘못된 메일 또는 이름"
+
+msgctxt "[\"COMMENT-ERR_DISCUSSION\"]"
+msgid "Incorrect in discussion"
+msgstr "토론이 잘못되었습니다"
+
+msgctxt "[\"COMMENT-ERR_RATE\"]"
+msgid "Vote failed, repeated"
+msgstr "투표 실패,반복되었습니다"
+
+#, fuzzy
+msgctxt "[\"COMMENT-ERR_SENSITIVE_WORD\"]"
+msgid "Defeat,your post contains sensitive terms"
+msgstr "패배,귀하의 게시물에 민감한 용어가 포함되어 있습니다."
+
+msgctxt "[\"COMMENT-ERR_SENSITIVE_WORD_AUDIT\"]"
+msgid "Your post contains sensitive terms and is pending approval by an admin"
+msgstr "게시물에 민감한 용어가 포함되어 있으며 관리자의 승인을 기다리고 있습니다"
+
+msgctxt "[\"COMMENT-ERR_LINK_AUDIT\"]"
+msgid "Your post contains link and is pending approval by an admin"
+msgstr "게시물은 링크를 포함하고 있으며 관리자의 승인을 기다리고 있다"
+
+msgctxt "[\"COMMENT-ERR_FORBIDDEN\"]"
+msgid "Comment forbidden"
+msgstr "댓글 금지"
+
+#, fuzzy
+msgctxt "[\"COMMENT-ERR_FAILURE\"]"
+msgid "Comment unknown"
+msgstr "미지의 댓글"
+
+#, fuzzy
+msgctxt "[\"COMMENT-ERR_EMOJI\"]"
+msgid "Emoji comments are not allowed any more! Write something..."
+msgstr "이모티콘은 더 이상 허용되지 않습니다!뭔가 쓰세요..."
+
+msgctxt "[\"COMMENT-ERR_NONE_MESSAGE\"]"
+msgid "You must write something!"
+msgstr "당신은 뭔가를 써야 합니다!"
+
+#, fuzzy
+msgctxt "[\"COMMENT-ERR_INVALID_PARAMETER\"]"
+msgid "Invalid comment parameter"
+msgstr "잘못된 설명 매개 변수"
+
+#, fuzzy
+msgctxt "[\"COMMENT-ERR_INVALID_USER\"]"
+msgid "You're banned from APKPure by using or posting content containing nudity images. Please edit or remove the images before contacting Admin to restore your account."
+msgstr ""
+"누드 이미지가 담긴 콘텐츠를 사용하거나 게시하는 것은 APKPure에 금지된다. 계정을 복원하려면 관리자에게 문의하기 전에 이미지를 "
+"편집하거나 제거하십시오."
+
+msgctxt "[\"COMMENT-ERR_INVALID_VIDEO_URL\"]"
+msgid "Invalid Video URL"
+msgstr "잘못된 비디오 URL"
+
+msgctxt "[\"COMMENT-DELETE\"]"
+msgid "Yes,delete it!"
+msgstr "예, 삭제하십시오!"
+
+msgctxt "[\"COMMENT-DELETED\"]"
+msgid "Deleted!"
+msgstr "삭제되었습니다!"
+
+msgctxt "[\"COMMENT-DEL\"]"
+msgid "Delete"
+msgstr "삭제하기"
+
+msgctxt "[\"COMMENT-ARE_YOU_SURE\"]"
+msgid "Are you sure?"
+msgstr "확실합니까?"
