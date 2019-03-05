@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-10-17 08:41+0000\n"
-"PO-Revision-Date: 2019-03-08 04:36+0000\n"
-"Last-Translator: 고길리 <jusim333@gmail.com>\n"
+"PO-Revision-Date: 2019-03-08 04:37+0000\n"
+"Last-Translator: 咕噜噜 <yaolu_1024@126.com>\n"
 "Language-Team: Korean <https://translate.apkpure.com/projects/apkpure/"
 "apkpurecom/ko/>\n"
 "Language: ko\n"
@@ -464,11 +464,16 @@ msgstr ".APK / .XAPK 파일 설치 방법"
 
 msgctxt "[\"REGION_DOWN-TITLE\"]"
 msgid "Region free APK download"
-msgstr ""
+msgstr "지역 무료 APK 다운로드"
 
+#, fuzzy
 msgctxt "[\"REGION_DOWN-DES\"]"
 msgid "- Download your favorite Android Apps with APK Downloader (Free Apps Only).<br>- Your download will begin automatically after you paste a package id and click the download button.<br>- Download failed? Please manually change country setting and try again.<br>- Want to tell us more about your problems? <a style='color:#FFFF00' href='contact-us.html'>Contact us here</a>"
 msgstr ""
+"-좋아하는 Android 앱을 APK 다운로더로 다운로드하십시오(무료 앱 전용).<br>- 패키지 ID를 붙여넣고 다운로드 버튼을 "
+"클릭하면 다운로드가 자동으로 시작됩니다.<br>- 다운로드가 실패했습니까? 국가 설정을 수동으로 변경하고 다시 시도하십시오.<br>-"
+"문제에 대해 자세히 말씀해 주시겠습니까? <a style='color:#FFFF00' href='contact-us.html'> 여기서 "
+"문의해 주십시오.</a>"
 
 msgctxt "[\"REGION_DOWN-PLACEHOLDER\"]"
 msgid "com.facebook.katana or https://play.google.com...?id=com.facebook.katana"
@@ -487,29 +492,34 @@ msgctxt "[\"REGION_DOWN-MOBILE_TITLE\"]"
 msgid "APK Downloader"
 msgstr "APK 다운로더"
 
+#, fuzzy
 msgctxt "[\"REGION_DOWN-MOBILE_DES\"]"
 msgid "All Region Games and Apps Download."
-msgstr ""
+msgstr "모든 지역 게임 및 앱 다운로드."
 
 msgctxt "[\"LAST_DOWNLOAD\"]"
 msgid "Last Download"
 msgstr "마지막 다운로드"
 
+#, fuzzy
 msgctxt "[\"SIGN_VERIFY-TITLE\"]"
 msgid "Signature Verification Online"
-msgstr ""
+msgstr "서명 확인 온라인"
 
 msgctxt "[\"SIGN_VERIFY-CLICK_UPLOAD\"]"
 msgid "Click Upload APK file"
-msgstr ""
+msgstr "APK 파일 업로드를 클릭합니다"
 
 msgctxt "[\"SIGN_VERIFY-MAXIMUM\"]"
 msgid "Maximum file size"
 msgstr "최대 파일 크기"
 
+#, fuzzy
 msgctxt "[\"SIGN_VERIFY-DES\"]"
 msgid "APK Signature verification will verify Android app package signature to keep Android users away from potentially harmful APK files before APK installing."
 msgstr ""
+"APK 서명 확인은 Android 앱 패키지 서명을 검증하여 APK를 설치하기 전에 Android 사용자가 잠재적으로 유해한 APK "
+"파일을 피할 수 있도록 합니다."
 
 msgctxt "[\"SIGN_VERIFY-PACKAGE_NAME\"]"
 msgid "Package Name"
@@ -517,11 +527,11 @@ msgstr "패키지 이름"
 
 msgctxt "[\"SIGN_VERIFY-SIGNATURE\"]"
 msgid "Signature"
-msgstr ""
+msgstr "서명"
 
 msgctxt "[\"SIGN_VERIFY-FILE_SHA1\"]"
 msgid "File SHA1"
-msgstr ""
+msgstr "파일 SHA1"
 
 msgctxt "[\"SIGN_VERIFY-FILE_SIZE\"]"
 msgid "File Size"
@@ -529,23 +539,23 @@ msgstr "파일 크기"
 
 msgctxt "[\"SEARCH-ADVANCED_SEARCH\"]"
 msgid "Advanced Search"
-msgstr "상세 검색"
+msgstr "고급 검색"
 
 msgctxt "[\"SEARCH-SEARCH_RESULTS\"]"
 msgid "{0} search results found."
-msgstr "{0}개의 검색 결과."
+msgstr "{0} 개의 검색 결과가 발견되었습니다."
 
 msgctxt "[\"SEARCH-NO_RESULTS_FOUND\"]"
 msgid "No results found? Try to advanced search again."
-msgstr ""
+msgstr "검색 결과가 없습니까? 고급 검색을 다시 시도하십시오."
 
 msgctxt "[\"SEARCH-SELECT_REGION\"]"
 msgid "Select a region you want to search with"
-msgstr ""
+msgstr "검색할 지역을 선택하십시오"
 
 msgctxt "[\"SEARCH-ABOUT_RESULTS\"]"
 msgid "About {0} results"
-msgstr ""
+msgstr "약 {0}개의 결과"
 
 msgctxt "[\"SEARCH-PLACEHOLDER1\"]"
 msgid "APKPure or com.apkpure.aegon"
@@ -561,12 +571,13 @@ msgstr "앱 이름 또는 패키지 이름"
 
 msgctxt "[\"SEARCH-TITLE\"]"
 msgid "Enter App Name, Package Name, Package ID"
-msgstr "앱 이름, 패키지 이름, 패키지 ID를 적어주세요"
+msgstr "앱 이름, 패키지 이름, 패키지 ID 입력"
 
 msgctxt "[\"SEARCH-APK\"]"
 msgid "Search APK"
 msgstr "APK 검색"
 
+#, fuzzy
 msgctxt "[\"404-OOPS\"]"
 msgid "OOPS!,"
 msgstr "이런!,"
@@ -575,9 +586,11 @@ msgctxt "[\"404-Error_404\"]"
 msgid "Error 404!"
 msgstr "Error 404!"
 
+#, fuzzy
 msgctxt "[\"404-DES\"]"
 msgid "It seems that page you are looking for no longer exists.<br />You can explore more Android Games and Apps below!"
 msgstr ""
+"찾으려는 페이지가 더 이상 존재하지 않는 것 같습니다.<br />1아래에서 더 많은 Android 게임과 앱을 탐색할 수 있습니다!"
 
 msgctxt "[\"COPYRIGHT\"]"
 msgid "Copyright © 2014-2016 APKPure. All rights reserved."
@@ -587,9 +600,10 @@ msgctxt "[\"COPYRIGHT_MOBILE\"]"
 msgid "APKPure.com © 2014-2016"
 msgstr "APKPure.com © 2014-2016"
 
+#, fuzzy
 msgctxt "[\"COMING_SOON\"]"
 msgid "COMING SOON"
-msgstr ""
+msgstr "곧 출시 예정"
 
 msgctxt "[\"SEARCHING\"]"
 msgid "Searching..."
@@ -601,8 +615,9 @@ msgstr "APK 다운로더"
 
 msgctxt "[\"FOOTER-APK_DOWNLOADS_SEO\"]"
 msgid "APK Downloads"
-msgstr ""
+msgstr "APK 다운로드"
 
+#, fuzzy
 msgctxt "[\"FOOTER-APK_DOWNLOAD\"]"
 msgid "APK Downloader (Region free)"
 msgstr "APK 다운로더 (지역제한 없음)"
@@ -613,15 +628,15 @@ msgstr "APK 설치"
 
 msgctxt "[\"FOOTER-APK_SIGNATURE_VERIFICATION\"]"
 msgid "APK Signature Verification"
-msgstr ""
+msgstr "APK 서명 확인"
 
 msgctxt "[\"FOOTER-APK_TO_APPX\"]"
 msgid "APK to APPX"
-msgstr ""
+msgstr "APK에서 APPX로"
 
 msgctxt "[\"FOOTER-PRIVACY_POLICY\"]"
 msgid "Privacy Policy"
-msgstr ""
+msgstr "개인 정보 보호 정책"
 
 msgctxt "[\"FOOTER-DMCA\"]"
 msgid "DMCA Disclaimer"
@@ -633,39 +648,40 @@ msgstr ""
 
 msgctxt "[\"FOOTER-TERM_OF_USE\"]"
 msgid "Term of Use"
-msgstr ""
+msgstr "사용기간"
 
 msgctxt "[\"FOOTER-MARKET_FOR_ANDROID\"]"
 msgid "APKPure For Android"
-msgstr ""
+msgstr "APKPure For Android"
 
 msgctxt "[\"FOOTER-EXPLORE_XAPK_GAMES\"]"
 msgid "Explore XAPK Games"
-msgstr ""
+msgstr "XAPK 게임 탐색"
 
 msgctxt "[\"FOOTER-EXPLORE_XAPK_APPS\"]"
 msgid "Explore XAPK Apps"
-msgstr ""
+msgstr "XAPK 앱 탐색"
 
 msgctxt "[\"FOOTER-DESKTOP_VERSION\"]"
 msgid "Desktop Version"
-msgstr ""
+msgstr "데스크톱 버전"
 
 msgctxt "[\"FOOTER-MOBILE_VERSION\"]"
 msgid "Mobile Version"
-msgstr ""
+msgstr "모바일 버전"
 
 msgctxt "[\"FOOTER-MOBILE_SITE\"]"
 msgid "Mobile Site"
-msgstr ""
+msgstr "모바일 사이트"
 
 msgctxt "[\"FOOTER-CONTACT_US\"]"
 msgid "Contact Us"
-msgstr ""
+msgstr "문의하기"
 
+#, fuzzy
 msgctxt "[\"FOOTER-ABOUT\"]"
 msgid "About Us"
-msgstr ""
+msgstr "회사 소개"
 
 msgctxt "[\"FOOTER-SOLUTIONS\"]"
 msgid "SOLUTIONS"
@@ -1994,3 +2010,291 @@ msgstr "삭제하기"
 msgctxt "[\"COMMENT-ARE_YOU_SURE\"]"
 msgid "Are you sure?"
 msgstr "확실합니까?"
+
+msgctxt "[\"COMMENT-LOADING\"]"
+msgid "Comment Loading..."
+msgstr "댓글 로드 중 ..."
+
+msgctxt "[\"COMMENT-DOWNLOAD_APK\"]"
+msgid "Download the APK file on APKPure."
+msgstr "APKPure에서 APK 파일을 다운로드하십시오."
+
+msgctxt "[\"COMMENT-ERR_SHARE_APK_DENY\"]"
+msgid "This APP cannot be uploaded"
+msgstr "이 앱을 업로드할 수 없습니다"
+
+msgctxt "[\"COMMENT-LINK\"]"
+msgid "Link"
+msgstr "링크"
+
+msgctxt "[\"PRE-REGISTER\"]"
+msgid "Pre-Registration Games"
+msgstr "사전 등록 게임"
+
+msgctxt "[\"PRE-REGISTRANTS\"]"
+msgid "Pre-Registrants"
+msgstr "사전 등록자"
+
+msgctxt "[\"PRE-REGISTER_DETAILS\"]"
+msgid "Pre-Register Details"
+msgstr "사전 등록 세부 사항"
+
+msgctxt "[\"PRE-REGISTER_DATE\"]"
+msgid "Release Date"
+msgstr "출시일"
+
+msgctxt "[\"PRE-REGISTER_REWARDS\"]"
+msgid "Register Rewards"
+msgstr "등록 보상"
+
+msgctxt "[\"PRE-REGISTER_PAGE\"]"
+msgid "Pre-Register Page"
+msgstr "등록 전 페이지"
+
+msgctxt "[\"USER-FOLLOWING\"]"
+msgid "Following"
+msgstr "팔로잉"
+
+msgctxt "[\"USER-FOLLOWER\"]"
+msgid "Followers"
+msgstr "팔로워"
+
+msgctxt "[\"USER-LIKES\"]"
+msgid "Likes"
+msgstr "좋아요"
+
+msgctxt "[\"USER-POSTS\"]"
+msgid "Posts"
+msgstr "게시물"
+
+msgctxt "[\"USER-REVIEWS\"]"
+msgid "Reviews"
+msgstr "리뷰"
+
+msgctxt "[\"USER-REVIEWS_NONE\"]"
+msgid "Too few users ratings"
+msgstr "사용자 등급이 너무 낮습니다"
+
+msgctxt "[\"USER-REPLIES\"]"
+msgid "Replies"
+msgstr "응답"
+
+msgctxt "[\"USER-PROFILE\"]"
+msgid "Profile"
+msgstr "프로필"
+
+msgctxt "[\"USER-CHANGE_PASSWORD\"]"
+msgid "Change Password"
+msgstr "비밀번호 변경"
+
+msgctxt "[\"USER-MESSAGES\"]"
+msgid "Messages"
+msgstr "메시지"
+
+msgctxt "[\"USER-COMMENTS\"]"
+msgid "Comments"
+msgstr "코멘트"
+
+msgctxt "[\"USER-MY_FAVORITE\"]"
+msgid "My Favorite"
+msgstr "내가 좋아하는 것"
+
+msgctxt "[\"USER-LIKED_COMMENTS\"]"
+msgid "Liked Comments"
+msgstr "좋아하는 댓글"
+
+msgctxt "[\"USER-NEW_PASSWORD\"]"
+msgid "New password"
+msgstr "새 비밀번호"
+
+msgctxt "[\"USER-CURRENT_PASSWORD\"]"
+msgid "Current password"
+msgstr "현재 비밀번호"
+
+msgctxt "[\"USER-ACCOUNT_EXIST\"]"
+msgid "The username is already in use."
+msgstr "해당 사용자 이름은 이미 사용 중입니다."
+
+msgctxt "[\"USER-ACCOUNT_NOT_EXIST\"]"
+msgid "The account you entered does not exist."
+msgstr "입력한 계정이 존재하지 않습니다."
+
+msgctxt "[\"USER-DISPLAY_NAME_EXIST\"]"
+msgid "The nickname is already in use."
+msgstr "별명은 이미 사용 중입니다."
+
+msgctxt "[\"USER-INCORRECT_EMAIL\"]"
+msgid "The e-mail address you entered is invalid."
+msgstr "입력하신 이메일 주소가 유효하지 않습니다."
+
+msgctxt "[\"USER-INCORRECT_PASSWORD\"]"
+msgid "The password you entered is invalid."
+msgstr "입력한 비밀번호가 유효하지 않습니다."
+
+msgctxt "[\"USER-INCORRECT_ACCOUNT\"]"
+msgid "The username you entered is invalid."
+msgstr "입력한 사용자 이름이 유효하지 않습니다."
+
+msgctxt "[\"USER-INCORRECT_BIRTHDAY\"]"
+msgid "You have entered an invalid birthday."
+msgstr "잘못된 생일을 입력하셨습니다."
+
+msgctxt "[\"USER-INCORRECT_INTRO\"]"
+msgid "Information you have entered contains invalid characters."
+msgstr "입력한 정보에 잘못된 문자가 포함되어 있습니다."
+
+msgctxt "[\"USER-UNKNOWN_ERROR\"]"
+msgid "unknown mistake."
+msgstr "알 수 없는 실수입니다."
+
+msgctxt "[\"USER-BAD_NAME\"]"
+msgid "Your input includes sensitive vocabulary."
+msgstr "입력에는 민감한 어휘가 포함됩니다."
+
+msgctxt "[\"USER-SOCIAL_ALREADY_BIND\"]"
+msgid "This third-party account has been connected to another account."
+msgstr "이 제3자 계정은 이미 다른 계좌로 연결되었습니다."
+
+msgctxt "[\"USER-EMAIL_EXIST\"]"
+msgid "This email has been connected to another account."
+msgstr "이 이메일은 다른 계정에 연결되어 있습니다."
+
+msgctxt "[\"USER-SEND_EMAIL_ERR\"]"
+msgid "Failed to send verification code."
+msgstr "인증 코드를 전송하지 못했습니다."
+
+msgctxt "[\"USER-EMAIL_UNBOUND\"]"
+msgid "This email address is not connected to any account."
+msgstr "이 이메일 주소는 어떤 계정에도 연결되어 있지 않습니다."
+
+msgctxt "[\"USER-CAPTCHA_TIME_OUT\"]"
+msgid "Verification Code Timeout."
+msgstr "확인 코드 시간 초과했습니다."
+
+msgctxt "[\"USER-INCORRECT_CAPTCHA\"]"
+msgid "Incorrect Verification Code"
+msgstr "잘못된 인증 코드"
+
+msgctxt "[\"USER-SEND_VERIFICATION_CODE\"]"
+msgid "Send verification code"
+msgstr "인증 코드 전송"
+
+msgctxt "[\"USER-CONNECT_YOUR_EMAIL\"]"
+msgid "Connect your email"
+msgstr "이메일 연결하기"
+
+msgctxt "[\"USER-CHANGE_EMAIL\"]"
+msgid "Change email"
+msgstr "이메일 변경"
+
+msgctxt "[\"USER-CONNECT_YOUR_EMAIL_FIRST\"]"
+msgid "Please connect your email first"
+msgstr "먼저 이메일을 연결하십시오"
+
+msgctxt "[\"USER-FEMALE\"]"
+msgid "Female"
+msgstr "여자"
+
+msgctxt "[\"USER-MALE\"]"
+msgid "Male"
+msgstr "남자"
+
+msgctxt "[\"USER-USER_LOGIN\"]"
+msgid "User Login"
+msgstr "사용자 로그인"
+
+msgctxt "[\"USER-USERNAME\"]"
+msgid "Username"
+msgstr "사용자 이름"
+
+msgctxt "[\"USER-NICKNAME\"]"
+msgid "Nickname"
+msgstr "닉네임"
+
+msgctxt "[\"USER-BIRTHDAY\"]"
+msgid "Birthday"
+msgstr "생일"
+
+msgctxt "[\"USER-GENDER\"]"
+msgid "Gender"
+msgstr "성별"
+
+msgctxt "[\"USER-SAVE\"]"
+msgid "Save"
+msgstr "저장하기"
+
+msgctxt "[\"USER-SAVING\"]"
+msgid "Saving..."
+msgstr "저장 중..."
+
+msgctxt "[\"USER-MY_PICTURE\"]"
+msgid "My Picture"
+msgstr "내 사진"
+
+msgctxt "[\"USER-CHANGE_PICTURE\"]"
+msgid "Change Picture"
+msgstr "사진 바꾸기"
+
+msgctxt "[\"USER-PASSWORD\"]"
+msgid "Password"
+msgstr "비밀번호"
+
+msgctxt "[\"USER-NEW_USER_REGISTRATION\"]"
+msgid "New User Registration"
+msgstr "새 사용자 등록"
+
+#, fuzzy
+msgctxt "[\"USER-SIGN_IN_BTN\"]"
+msgid "SIGN IN"
+msgstr "서명"
+
+msgctxt "[\"USER-SIGN_IN\"]"
+msgid "Sign In"
+msgstr "로그인"
+
+#, fuzzy
+msgctxt "[\"USER-SIGN_IN_WITH\"]"
+msgid "Or sign in with"
+msgstr "또는 에 로그인"
+
+msgctxt "[\"USER-SIGN_UP_BTN\"]"
+msgid "SIGN UP"
+msgstr "가입하기"
+
+msgctxt "[\"USER-SIGN_UP\"]"
+msgid "Sign Up"
+msgstr "등록하기"
+
+msgctxt "[\"USER-CONFIRM_PASSWORD\"]"
+msgid "Confirm Password"
+msgstr "비밀번호 확인"
+
+#, fuzzy
+msgctxt "[\"SEARCH-ON_THE_APP_STORE\"]"
+msgid "{0} On the App Store"
+msgstr "{0} App Store에서"
+
+msgctxt "[\"SEARCH-TRENDING\"]"
+msgid "trending searches"
+msgstr "인기 검색어"
+
+msgctxt "[\"SEARCH-HISTORY\"]"
+msgid "Search history"
+msgstr "검색 기록"
+
+msgctxt "[\"PRE-REG-NEW\"]"
+msgid "Newest"
+msgstr "최신"
+
+msgctxt "[\"PRE-REG-BEST\"]"
+msgid "Best"
+msgstr "베스트"
+
+msgctxt "[\"PRE-REG-RECOMMEND\"]"
+msgid "Recommendations"
+msgstr "추천 사항"
+
+#, fuzzy
+msgctxt "[\"COPYRIGHT_MOBILE\"]"
+msgid "APKPure.com © 2014-2018"
+msgstr "APKPure.com © 2014-2018"
