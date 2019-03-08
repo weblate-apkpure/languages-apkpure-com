@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-10-17 08:41+0000\n"
-"PO-Revision-Date: 2019-03-08 04:37+0000\n"
+"PO-Revision-Date: 2019-03-14 02:49+0000\n"
 "Last-Translator: 咕噜噜 <yaolu_1024@126.com>\n"
 "Language-Team: Korean <https://translate.apkpure.com/projects/apkpure/"
 "apkpurecom/ko/>\n"
@@ -34,15 +34,13 @@ msgctxt "[\"NAV-PRODUCTS\"]"
 msgid "PRODUCTS"
 msgstr "제품"
 
-#, fuzzy
 msgctxt "[\"NAV-NEW_GAME\"]"
 msgid "NEW GAME"
-msgstr "뉴 게임"
+msgstr "새로운 게임"
 
-#, fuzzy
 msgctxt "[\"NAV-NEW_APP\"]"
 msgid "NEW APP"
-msgstr "뉴 앱"
+msgstr "새로운 앱"
 
 msgctxt "[\"NAV-XAPK_GAME\"]"
 msgid "XAPK GAME"
@@ -56,14 +54,13 @@ msgctxt "[\"NAV-APK_INSTALL\"]"
 msgid "APK Install"
 msgstr "APK 설치"
 
-#, fuzzy
 msgctxt "[\"NAV-APK_DOWNLOAD\"]"
 msgid "APK Download"
 msgstr "APK 다운로드"
 
 msgctxt "[\"NAV-APK_VERIFICATION\"]"
 msgid "APK Verification"
-msgstr "APK 확인"
+msgstr "APK 검증"
 
 msgctxt "[\"NAV-APKPURE_APP\"]"
 msgid "APKPure App"
@@ -83,7 +80,7 @@ msgstr "무료"
 
 msgctxt "[\"READ_MORE\"]"
 msgid "Read More"
-msgstr "더보기"
+msgstr "더 보기"
 
 msgctxt "[\"GAME\"]"
 msgid "GAME"
@@ -121,10 +118,9 @@ msgctxt "[\"HOME\"]"
 msgid "Home"
 msgstr "홈"
 
-#, fuzzy
 msgctxt "[\"SORT_BY\"]"
 msgid "Sort by"
-msgstr "분류"
+msgstr "정렬 기준"
 
 msgctxt "[\"HOT\"]"
 msgid "Hot"
@@ -146,10 +142,9 @@ msgctxt "[\"CATEGORY\"]"
 msgid "Category"
 msgstr "카테고리"
 
-#, fuzzy
 msgctxt "[\"CATEGORY_JOIN\"]"
 msgid "{app_category} {app_type}"
-msgstr "{앱 카테고리} {앱 타입}"
+msgstr "{app_category} {app_type}"
 
 msgctxt "[\"SHOW_MORE\"]"
 msgid "Show More"
@@ -170,21 +165,19 @@ msgstr "개발자"
 
 msgctxt "[\"POPULAR_GAMES_IN_LAST_HOURS\"]"
 msgid "Popular Games In Last {0} Hours"
-msgstr "{0} 시간안 인기 게임"
+msgstr "최근 {0}시간 동안 인기 게임"
 
 msgctxt "[\"POPULAR_APPS_IN_LAST_HOURS\"]"
 msgid "Popular Apps In Last {0} Hours"
-msgstr "{0} 시간안 인기 앱"
+msgstr "최근 {0}시간 동안 인기 앱"
 
-#, fuzzy
 msgctxt "[\"POPULAR_APPS_IN_TODAY\"]"
 msgid "Popular Apps In Today"
-msgstr "일간 인기 앱"
+msgstr "오늘 인기 앱"
 
-#, fuzzy
 msgctxt "[\"POPULAR_GAMES_IN_TODAY\"]"
 msgid "Popular Games In Today"
-msgstr "일간 인기 게임"
+msgstr "오늘 인기 게임"
 
 msgctxt "[\"HOT_GAMES\"]"
 msgid "Hot Games"
@@ -214,17 +207,14 @@ msgctxt "[\"LATEST_UPDATE\"]"
 msgid "Latest Update"
 msgstr "최신 업데이트"
 
-#, fuzzy
 msgctxt "[\"XAPK_IS_APK_WITH_OBB_DATA\"]"
 msgid "XAPK is APK with OBB data"
-msgstr "XAPK 는 OBB 데이터를 포함한 APK 파일입니다"
+msgstr "XAPK는 OBB 데이터를 포함한 APK 파일입니다"
 
-#, fuzzy
 msgctxt "[\"MOST_POPULAR_IN_TODAY\"]"
 msgid "Most Popular In Today"
-msgstr "일간 최고 인기"
+msgstr "오늘 최고 인기"
 
-#, fuzzy
 msgctxt "[\"SIMILAR_OR_RELATED\"]"
 msgid "Similar Or Related"
 msgstr "유사 또는 연계"
@@ -233,7 +223,6 @@ msgctxt "[\"INDEX-TITLE\"]"
 msgid "Download free Android Games and Android Apps."
 msgstr "무료 안드로이드 게임과 앱을 다운로드하십시오."
 
-#, fuzzy
 msgctxt "[\"INDEX-MOBILE_TITLE\"]"
 msgid "Download free Android Games and Apps."
 msgstr "무료 안드로이드 게임과 앱을 다운로드하십시오."
@@ -282,14 +271,13 @@ msgctxt "[\"DETAIL-XAPK_SHORT_DES\"]"
 msgid "XAPK is APK with OBB data, Click to get XAPK Installer"
 msgstr "XAPK는 OBB 데이터를 포함한 APK 파일입니다. XAPK 인스톨러를 다운받기 위해 클릭하세요"
 
-#, fuzzy
 msgctxt "[\"DETAIL-MOBILE_XAPK_SHORT_DES\"]"
 msgid "Click to get XAPK Installer"
-msgstr "XAPK 인스톨러를 다운로드하려면 클릭하십시오."
+msgstr "여기를 클릭하시면 XAPK 설치 프로그램을 받으실 수 있습니다"
 
 msgctxt "[\"DETAIL-CATEGORY\"]"
 msgid "Category"
-msgstr "범주"
+msgstr "카테고리"
 
 msgctxt "[\"DETAIL-LATEST_VERSION\"]"
 msgid "Latest Version"
@@ -312,14 +300,14 @@ msgctxt "[\"DETAIL-AUTHOR\"]"
 msgid "Author"
 msgstr "작성자"
 
+#, fuzzy
 msgctxt "[\"DETAIL-REPORT\"]"
 msgid "Report"
 msgstr "신고"
 
-#, fuzzy
 msgctxt "[\"DETAIL-FLAG_AS_INAPPROPRIATE\"]"
 msgid "Flag as inappropriate"
-msgstr "부적절한 것을 표시"
+msgstr "부적절한 것으로 표시함"
 
 msgctxt "[\"DETAIL-VOTES\"]"
 msgid "votes"
@@ -345,31 +333,26 @@ msgctxt "[\"DETAIL-SIGNATURE\"]"
 msgid "Signature"
 msgstr "서명"
 
-#, fuzzy
 msgctxt "[\"DETAIL-FILE_SHA1\"]"
 msgid "File SHA1"
 msgstr "SHA1 파일"
 
-#, fuzzy
 msgctxt "[\"DETAIL-APK_FILE_SHA1\"]"
 msgid "APK File SHA1"
 msgstr "APK 파일 SHA1"
 
-#, fuzzy
 msgctxt "[\"DETAIL-XAPK_FILE_SHA1\"]"
 msgid "XAPK File SHA1"
 msgstr "XAPK 파일 SHA1"
 
-#, fuzzy
 msgctxt "[\"DETAIL-WHATS_NEW\"]"
 msgid "What's new"
-msgstr "변경 사항"
+msgstr "새로운 것"
 
 msgctxt "[\"DETAIL-VERSION_HISTORY\"]"
 msgid "Version History"
 msgstr "버전 기록"
 
-#, fuzzy
 msgctxt "[\"DETAIL-MORE_FROM_DEVELOPER\"]"
 msgid "More From Developer"
 msgstr "개발자의 정보 더보기"
@@ -387,12 +370,10 @@ msgctxt "[\"DETAIL-REQUEST_UPDATE\"]"
 msgid "Request Update"
 msgstr "업데이트 요청"
 
-#, fuzzy
 msgctxt "[\"DETAIL-RATING\"]"
 msgid "{votes} votes, average: {rating_average} out of {rating_best}"
-msgstr "{votes} 표, 평균 : {rating_bverage} 표 중 {rating_average}표"
+msgstr "{votes} 표, 평균 : {rating_average} 중 {rating_best}"
 
-#, fuzzy
 msgctxt "[\"DETAIL-MORE_DEVELOPER\"]"
 msgid "Get more from {0}"
 msgstr "{0}에서 더 많은 것을 얻기"
@@ -407,7 +388,7 @@ msgstr "{0} 게임"
 
 msgctxt "[\"DETAIL-CATEGORY_APP\"]"
 msgid "{0} APP"
-msgstr "{0} 어플리케이션"
+msgstr "{0} 앱"
 
 msgctxt "[\"DETAIL-VERSION_LOAD_MORE\"]"
 msgid "Load more"
@@ -429,10 +410,9 @@ msgctxt "[\"DETAIL-ITUNE_DOWNLOAD\"]"
 msgid "Install on iTunes"
 msgstr "iTunes에 설치하기"
 
-#, fuzzy
 msgctxt "[\"DETAIL-MORE_DOWNLOAD\"]"
 msgid "More Download Locations:"
-msgstr "추가 다운로드 위치"
+msgstr "추가 다운로드 위치:"
 
 msgctxt "[\"DETAIL-DELETED_COPYRIGHT_GOOGLE_PLAY_URL\"]"
 msgid "Download on Google Play"
@@ -460,7 +440,7 @@ msgstr "여기를 클릭하세요"
 
 msgctxt "[\"DETAIL_DOWNLOAD-HOW_TO_INSTALL_APK\"]"
 msgid "How to install APK / XAPK file"
-msgstr ".APK / .XAPK 파일 설치 방법"
+msgstr "APK / XAPK 파일 설치 방법"
 
 msgctxt "[\"REGION_DOWN-TITLE\"]"
 msgid "Region free APK download"
@@ -689,7 +669,7 @@ msgstr ""
 
 msgctxt "[\"FOOTER-CUSTOMER_SERVICE\"]"
 msgid "CUSTOMER SERVICE"
-msgstr ""
+msgstr "고객 서비스"
 
 msgctxt "[\"FOOTER-FOLLOW_US\"]"
 msgid "FOLLOW US"
@@ -699,333 +679,367 @@ msgctxt "[\"FOOTER-TOP_ANDROID_APPS\"]"
 msgid "TOP ANDROID APPS"
 msgstr ""
 
+#, fuzzy
 msgctxt "[\"FOOTER-TOP_ANDROID_GAMES\"]"
 msgid "TOP ANDROID GAMES"
-msgstr ""
+msgstr "최고 ANDROID 게임"
 
 msgctxt "[\"FOOTER-TRANSLATE\"]"
 msgid "Help translate APKPure"
-msgstr ""
+msgstr "APKPure 번역 도움"
 
 msgctxt "[\"FOOTER-DEVELOPER\"]"
 msgid "Submit Your App"
-msgstr ""
+msgstr "앱 제출하기"
 
 msgctxt "[\"FOOTER-COOPERATION\"]"
 msgid "Business Cooperation"
-msgstr ""
+msgstr "비즈니스 협력"
 
 msgctxt "[\"FOOTER-XAPK\"]"
 msgid "XAPK"
-msgstr ""
+msgstr "XAPK"
 
 msgctxt "[\"MARKET-QR\"]"
 msgid "Download<br>APKPure App"
-msgstr ""
+msgstr "다운로드 <br>APKPure 앱"
 
 msgctxt "[\"MARKET-QR-TITLE\"]"
 msgid "Download APKPure App"
-msgstr ""
+msgstr "APKPure 앱 다운로드"
 
+#, fuzzy
 msgctxt "[\"MARKET-INDEX_SHORT_DES\"]"
 msgid "Try <strong title=\"Download APKPure APK\">APKPure App</strong> - Download, update and install apks on your Android."
 msgstr ""
+"<strong title = \"APKPure APK 다운로드\"> 1APKPure App </ strong> 2 - Android에서 "
+"APK를 다운로드, 업데이트 및 설치를 시도해 보십시오."
 
 msgctxt "[\"MARKET-INDEX_SHORT_DES_TITLE\"]"
 msgid "Try APKPure Mobile app, to install, manage and update your Android apps."
-msgstr ""
+msgstr "Android 앱을 설치, 관리 및 업데이트하려면 APKPure 모바일 앱을 사용해보세요."
 
+#, fuzzy
 msgctxt "[\"MARKET-DETAIL_APK_SHORT_DES\"]"
 msgid "Faster apks download and update on APKPure App"
-msgstr ""
+msgstr "APKPure 앱에서 더 빠른 앱 다운로드 및 업데이트"
 
 msgctxt "[\"MARKET-DETAIL_APK_SHORT_DES_MOBILE\"]"
 msgid "Download and update on APKPure App"
-msgstr ""
+msgstr "APKPure 앱에서 다운로드 및 업데이트"
 
+#, fuzzy
 msgctxt "[\"MARKET-DETAIL_APK_SHORT_DES_TITLE\"]"
 msgid "Faster apks download and update on APKPure"
-msgstr ""
+msgstr "APKPure에서 빠른 속도로 다운로드 및 업데이트"
 
 msgctxt "[\"MARKET-DETAIL_XAPK_SHORT_DES\"]"
 msgid "Install and update XAPK with APKPure App"
-msgstr ""
+msgstr "APKPure 앱을 사용하여 XAPK 설치 및 업데이트"
 
 msgctxt "[\"MARKET-DETAIL_XAPK_SHORT_DES_MOBILE\"]"
 msgid "Click to get XAPK Installer"
-msgstr ""
+msgstr "XAPK 설치 프로그램을 받으려면 클릭하십시오"
 
 msgctxt "[\"MARKET-DETAIL_XAPK_SHORT_DES_TITLE\"]"
 msgid "Install and update XAPK with APKPure App"
-msgstr ""
+msgstr "APKPure 앱을 사용하여 XAPK 설치 및 업데이트하기"
 
 msgctxt "[\"MARKET-INDEX_BANNER_TITLE\"]"
 msgid "APKPure APP"
-msgstr ""
+msgstr "APKPure APP"
 
 msgctxt "[\"MARKET-INDEX_BANNER_DES\"]"
 msgid "Install,manage and update your apps"
-msgstr ""
+msgstr "앱 설치, 관리 및 업데이트"
 
 msgctxt "[\"MARKET-BOTTOM_BANNER_TITLE\"]"
 msgid "APKPure App"
-msgstr ""
+msgstr "APKPure App"
 
 msgctxt "[\"MARKET-BOTTOM_BANNER_DES\"]"
 msgid "Try APKPure App - Download, update and install apks on your Android."
-msgstr ""
+msgstr "APKPure App - Android에서 apk 다운로드, 업데이트 및 설치를 시도해 보십시오."
 
 msgctxt "[\"MARKET-BOTTOM_BANNER_DETAIL_APK_DES\"]"
 msgid "Using APKPure App to upgrade <strong>{0}</strong>, fast, free and save your internet data."
 msgstr ""
+"APKPure 앱을 사용하여 <strong>1{0}</strong>2를 빠르고 무료로 업그레이드하고 인터넷 데이터를 저장하십시오.."
 
+#, fuzzy
 msgctxt "[\"MARKET-BOTTOM_BANNER_DETAIL_APK_DES_TITLE\"]"
 msgid "Using APKPure App to upgrade {0}, fast, free and save your internet data."
-msgstr ""
+msgstr "APKPure 앱을 사용하여 {0}을(를) 업그레이드하고, 빠르며 무료로 인터넷 데이터를 저장하십시오."
 
+#, fuzzy
 msgctxt "[\"MARKET-BOTTOM_BANNER_DETAIL_XAPK_DES\"]"
 msgid "Using APKPure App to upgrade <strong>{0}</strong>, install xapk, fast, free and save your internet data."
 msgstr ""
+"APKPure 앱을 사용하여 <strong> 1 {0} </ strong> 2를 업그레이드하고 , xapk를 설치하여, 빠르고, 무료로 "
+"인터넷 데이터를 저장해 주세요."
 
+#, fuzzy
 msgctxt "[\"MARKET-BOTTOM_BANNER_DETAIL_XAPK_DES_TITLE\"]"
 msgid "Using APKPure App to upgrade {0}, install xapk, fast, free and save your internet data."
 msgstr ""
+"APKPure App을 사용하여 {0}을(를) 업그레이드하고, xapk를 설치하고, 빠르고, 무료로 인터넷 데이터를 저장하십시오."
 
 msgctxt "[\"MARKET-BOTTOM_BANNER_DOWNLOAD_BTN\"]"
 msgid "Download APP"
-msgstr ""
+msgstr "APP 다운로드"
 
+#, fuzzy
 msgctxt "[\"MARKET-PROMOTION_BANNER_MOBILE1\"]"
 msgid "<p class=\"desc\">Using APKPure App to download/update this apk, faster, free and saving data!</p>"
 msgstr ""
+"<p class=\"desc>1APKPure 앱을 사용하여 이 apk를 다운로드/업데이트하고, 더 빠르고 무료로 데이터를 "
+"저장합니다!</p>2"
 
+#, fuzzy
 msgctxt "[\"MARKET-PROMOTION_BANNER_MOBILE1_XAPK\"]"
 msgid "<p class=\"desc\">Using APKPure App to install this XAPK, faster, free and saving data!</p>"
 msgstr ""
+"<p class=\"desc\">1APKPure 앱을 사용하여 이 XAPK를 설치하고, 더 빠르고 무료로 데이터를 저장합니다!</p>2"
 
 msgctxt "[\"MARKET-PROMOTION_BANNER_MOBILE2\"]"
 msgid "<p class=\"tit\">Using APKPure App</p><p class=\"des\">Faster, free and saving data!</p>"
 msgstr ""
+"<p class = \"tit\"> 1 APKPure 앱 사용하여 </ p> 2 <p class = \"des\"> 3 데이터를 더 "
+"빠르고 무료로 저장하십시오!</p>4"
 
 msgctxt "[\"MARKET-PROMOTION_BANNER_MOBILE2_XAPK\"]"
 msgid "<p class=\"tit\">Using APKPure App</p><p class=\"des\">Install XAPK, Faster, free and saving data!</p>"
 msgstr ""
+"<p class = \"tit\"> 1 APKPure App 사용하여</p>2<p class=\"des\">3 XAPK를 설치하면 "
+"데이터를 더  빠르고, 무료로 저장합니다! </p>4"
 
 msgctxt "[\"FLAG-Africa\"]"
 msgid "Africa"
-msgstr ""
+msgstr "아프리카"
 
 msgctxt "[\"FLAG-Americas\"]"
 msgid "Americas"
-msgstr ""
+msgstr "아메리카"
 
 msgctxt "[\"FLAG-Asia\"]"
 msgid "Asia"
-msgstr ""
+msgstr "아시아"
 
 msgctxt "[\"FLAG-Europe\"]"
 msgid "Europe"
-msgstr ""
+msgstr "유럽"
 
 msgctxt "[\"FLAG-Oceania\"]"
 msgid "Oceania"
-msgstr ""
+msgstr "오세아니아"
 
 msgctxt "[\"FLAG-Rest_of_the_world\"]"
 msgid "Rest of the world"
-msgstr ""
+msgstr "세계 기타 지역"
 
+#, fuzzy
 msgctxt "[\"ERROR-OOPS\"]"
 msgid "OOPS!,"
-msgstr ""
+msgstr "OOPS!,"
 
 msgctxt "[\"ERROR-SUBTITLE\"]"
 msgid "You can visit the following Games and Apps instead"
-msgstr ""
+msgstr "대신 다음 게임 및 앱을 방문할 수 있습니다"
 
 msgctxt "[\"error\"][\"DOWN-ItemNotFree\"]"
 msgid "Sorry, paid apps are not available to download with our APK Download Service."
-msgstr ""
+msgstr "죄송합니다. 유료 앱은 APK 다운로드 서비스로 다운로드할 수 없습니다."
 
 msgctxt "[\"error\"][\"DOWN-ItemNotFound\"]"
 msgid "Sorry, download failed, the APK cannot be found."
-msgstr ""
+msgstr "죄송합니다. 다운로드에 실패했습니다. APK를 찾을 수 없습니다."
 
 msgctxt "[\"error\"][\"DOWN-LimitedRegion\"]"
 msgid "Oops! Change your region and try download again."
-msgstr ""
+msgstr "죄송합니다.지역을 변경하고 다시 다운로드를 시도하세요."
 
+#, fuzzy
 msgctxt "[\"error\"][\"DOWN-LimitedDevice\"]"
 msgid "Sorry, download failed, the APK does not support our device."
-msgstr ""
+msgstr "죄송합니다. 다운로드에 실패했습니다. APK에서 장치를 지원하지 않습니다."
 
 msgctxt "[\"error\"][\"DOWN-UnknownError\"]"
 msgid "Download failed because of an unknown error. We will fix this problem soon."
-msgstr ""
+msgstr "알 수 없는 오류로 인해 다운로드가 실패했습니다. 우리는 곧 이 문제를 해결할 것입니다."
 
 msgctxt "[\"error\"][\"DOWN-LimitedCarrier\"]"
 msgid "Download failed because of an unknown error. We will fix this problem soon."
-msgstr ""
+msgstr "알 수 없는 오류로 인해 다운로드가 실패했습니다. 우리는 곧 이 문제를 해결할 것입니다."
 
 msgctxt "[\"error\"][\"DOWN-PreRegister\"]"
 msgid "It's a Pre-registration App, you can't download."
-msgstr ""
+msgstr "사전 등록 앱이므로 다운로드할 수 없습니다."
 
 msgctxt "[\"error\"][\"DOWN-RunOutOfDevice\"]"
 msgid "Download failed, please try again in 5 minutes."
-msgstr ""
+msgstr "다운로드에 실패했습니다. 5분 후에 다시 시도하십시오."
 
 msgctxt "[\"tip\"][\"ICON\"]"
 msgid "{0} icon"
-msgstr ""
+msgstr "{0} 아이콘"
 
 msgctxt "[\"tip\"][\"LIST_ICON\"]"
 msgid "{0} APK"
-msgstr ""
+msgstr "{0} APK"
 
 msgctxt "[\"tip\"][\"LIST_TITLE\"]"
 msgid "{0} APK"
-msgstr ""
+msgstr "{0} APK"
 
+#, fuzzy
 msgctxt "[\"tip\"][\"LIST_DOWN\"]"
 msgid "Download {0} latest version apk"
-msgstr ""
+msgstr "최신 버전 apk {0} 다운로드"
 
+#, fuzzy
 msgctxt "[\"tip\"][\"LIST_DOWN_XAPK\"]"
 msgid "Download {0} latest version xapk"
-msgstr ""
+msgstr "최신 버전 xapk {0} 다운로드"
 
+#, fuzzy
 msgctxt "[\"tip\"][\"VERSION_DOWN\"]"
 msgid "Download {app_name} {version_name} ({version_code}) {file_type}"
-msgstr ""
+msgstr "{app_name} {version_name} ({version_code}) {file_type} 다운로드"
 
 msgctxt "[\"tip\"][\"RATING\"]"
 msgid "{app_name} average rating {rating_average}"
-msgstr ""
+msgstr "{app_name} 평균 등급 {rating_verage}"
 
 msgctxt "[\"tip\"][\"QR_DOWN\"]"
 msgid "{0} QR code download"
-msgstr ""
+msgstr "{0} QR 코드 다운로드"
 
 msgctxt "[\"tip\"][\"SAFE_VERIFIED\"]"
 msgid "{0} safe verified"
-msgstr ""
+msgstr "{0} 안전확인"
 
+#, fuzzy
 msgctxt "[\"tip\"][\"SCREEN_POSTER\"]"
 msgid "{0} poster"
-msgstr ""
+msgstr "{0} 포스터"
 
 msgctxt "[\"tip\"][\"SCREEN\"]"
 msgid "{0} apk screenshot"
-msgstr ""
+msgstr "{0} apk 스크린샷"
 
+#, fuzzy
 msgctxt "[\"tip\"][\"CATEGORY_GAME\"]"
 msgid "Download more {0} games"
-msgstr ""
+msgstr "게임 추가 {0} 다운로드"
 
+#, fuzzy
 msgctxt "[\"tip\"][\"CATEGORY_APP\"]"
 msgid "Download more {0} apps"
-msgstr ""
+msgstr "앱 추가 {0} 다운로드"
 
+#, fuzzy
 msgctxt "[\"tip\"][\"GET_IT_ON_GOOGLE_PLAY\"]"
 msgid "Get {0} on Google Play"
-msgstr ""
+msgstr "Google Play에서 {0} 얻기"
 
 msgctxt "[\"tip\"][\"GET_IT_ON_OTHER\"]"
 msgid "Get {app_name} on {source_name}"
-msgstr ""
+msgstr "{source_name}에서 {app_name} 받기"
 
 msgctxt "[\"tip\"][\"REQUEST_UPDATE\"]"
 msgid "Request {0} Update"
-msgstr ""
+msgstr "{0} 업데이트 요청"
 
 msgctxt "[\"tip\"][\"HOT_ANDROID_GAME\"]"
 msgid "hot android game apk"
-msgstr ""
+msgstr "인기 안드로이드 게임 APK"
 
 msgctxt "[\"tip\"][\"HOT_ANDROID_APP\"]"
 msgid "hot android app apk"
-msgstr ""
+msgstr "인기 Android 앱 apk"
 
 msgctxt "[\"tip\"][\"DOWNLOAD_APK\"]"
 msgid "Download APK"
-msgstr ""
+msgstr "APK 다운로드"
 
 msgctxt "[\"js\"][\"SIGN_VERIFY-OFFICIAL\"]"
 msgid "[Official] This {0} APK is the unmodified official version."
-msgstr ""
+msgstr "[공식] 이 {0} APK는 수정되지 않은 공식 버전입니다."
 
 msgctxt "[\"js\"][\"SIGN_VERIFY-NOT_TRUSTED\"]"
 msgid "[Not Trusted] This {0} APK is a modified version, we don't recommend installing it."
-msgstr ""
+msgstr "[신뢰할 수 없음] 이 {0} APK는 수정된 버전이므로 설치하지 않는 것이 좋습니다."
 
 msgctxt "[\"js\"][\"SIGN_VERIFY-ERROR_APK_FILE\"]"
 msgid "Error APK file"
-msgstr ""
+msgstr "오류 APK 파일"
 
 msgctxt "[\"js\"][\"SIGN_VERIFY-VALID\"]"
 msgid "The uploaded file is not a valid Android application."
-msgstr ""
+msgstr "업로드된 파일이 유효한 Android 애플리케이션이 아닙니다."
 
+#, fuzzy
 msgctxt "[\"js\"][\"SIGN_VERIFY-SAFE\"]"
 msgid "safe"
-msgstr ""
+msgstr "안전"
 
+#, fuzzy
 msgctxt "[\"js\"][\"SIGN_VERIFY-UNSAFE\"]"
 msgid "unsafe"
-msgstr ""
+msgstr "위험"
 
 msgctxt "[\"js\"][\"SIGN_VERIFY-CLICK_UPLOAD\"]"
 msgid "Click Upload APK file"
-msgstr ""
+msgstr "APK 파일 업로드를 클릭합니다"
 
 msgctxt "[\"js\"][\"REGION_DOWN-REGION_ERROR\"]"
 msgid "Package name or region error , try again"
-msgstr ""
+msgstr "패키지 이름 또는 지역 오류, 다시 시도하십시오"
 
 msgctxt "[\"js\"][\"REGION_DOWN-INVALID_APP\"]"
 msgid "Invalid app package name,"
-msgstr ""
+msgstr "잘못된 앱 패키지 이름,"
 
+#, fuzzy
 msgctxt "[\"js\"][\"REGION_DOWN-SEARCH_RESULTS\"]"
 msgid "Check all {0} search results here."
-msgstr ""
+msgstr "{0} 개의 검색 결과를 모두 확인하십시오."
 
 msgctxt "[\"js\"][\"REGION_DOWN-DOWNLOADING\"]"
 msgid "Downloading, please wait..."
-msgstr ""
+msgstr "다운로드 중입니다,잠시 기다려 주십시오..."
 
 msgctxt "[\"js\"][\"SHOW_MORE\"]"
 msgid "Show More"
-msgstr ""
+msgstr "더 보기"
 
 msgctxt "[\"js\"][\"SHOW_LESS\"]"
 msgid "Show less"
-msgstr ""
+msgstr "덜보기"
 
 msgctxt "[\"js\"][\"LOADING\"]"
 msgid "loading..."
-msgstr ""
+msgstr "로드 중..."
 
 msgctxt "[\"js\"][\"DOWNLOAD_APK\"]"
 msgid "Download APK"
-msgstr ""
+msgstr "APK 다운로드"
 
 msgctxt "[\"js\"][\"UPLOADED\"]"
 msgid "Uploaded {0}%"
-msgstr ""
+msgstr "{0} % 업로드됨"
 
 msgctxt "[\"js\"][\"UPLOADING\"]"
 msgid "Uploading..."
-msgstr ""
+msgstr "업로드 중..."
 
 msgctxt "[\"js\"][\"VALIDATING\"]"
 msgid "Validating..."
-msgstr ""
+msgstr "확인 중 ..."
 
 msgctxt "[\"js\"][\"FILE_UPLOAD_FAILED\"]"
 msgid "File upload failed!"
-msgstr ""
+msgstr "파일 업로드에 실패했습니다!"
 
 msgctxt "[\"featured\"][\"2016-new-year\"]"
 msgid "2016 New Year"
@@ -1265,71 +1279,80 @@ msgstr ""
 
 msgctxt "[\"meta\"][\"Index\"][\"title\"]"
 msgid "Download APK free online downloader | APKPure.com"
-msgstr ""
+msgstr "APK 무료 온라인 다운로더를 다운로드하십시오 | APKPure.com"
 
 msgctxt "[\"meta\"][\"Index\"][\"keywords\"]"
 msgid "apk download, apk downloader, android apk download"
-msgstr ""
+msgstr "apk 다운로드, apk 다운로더, android apk 다운로드"
 
 msgctxt "[\"meta\"][\"Index\"][\"description\"]"
 msgid "Download apk for Android with APKPure APK downloader. NoAds, Faster apk downloads and apk file update speed. Best of all, it's free"
 msgstr ""
+"APKPure APK 다운로더를 사용하여 Android 용 apk를 다운로드하십시오. 광고 없음, 더 빠른 apk 다운로드 및 apk "
+"파일 업데이트 속도. 무엇보다도, 그것은 무료입니다"
 
 msgctxt "[\"meta\"][\"Details\"][\"title\"]"
 msgid "{app_name} APK Download - Free {app_category} {app_type} for Android | APKPure.com"
-msgstr ""
+msgstr "{app_name} APK Download - Android용 무료 {app_category} {app_type}"
 
+#, fuzzy
 msgctxt "[\"meta\"][\"Details\"][\"keywords\"]"
 msgid "{app_name} apk, {app_name} apk download, {app_name} download, {app_name}.apk, {app_name} android, {app_category} {app_type} download"
 msgstr ""
+"{app_name} apk, {app_name} apk download, {app_name} download, {app_name}"
+".apk, {app_name} android, {app_category} {app_type} download"
 
 msgctxt "[\"meta\"][\"Details\"][\"description\"]"
 msgid "Download {app_short_name} apk {version_name} and all version history for Android. {app_short_description}"
 msgstr ""
+"Android 용 {app short_name} apk {version name} 및 모든 버전 기록을 다운로드하십시오. {app "
+"short_description}"
 
 msgctxt "[\"meta\"][\"Details_download\"][\"title\"]"
 msgid "Download {app_name} {version_name} APK | APKPure.com"
-msgstr ""
+msgstr "{app_name} {version_name} APK 다운로드 | APKPure.com"
 
 msgctxt "[\"meta\"][\"Details_download\"][\"keywords\"]"
 msgid "{app_name} apk, {app_name} apk download, {app_name} download"
-msgstr ""
+msgstr "{app_name} apk, {app_name} apk 다운로드, {app_name} 다운로드"
 
 msgctxt "[\"meta\"][\"Details_download\"][\"description\"]"
 msgid "{app_name} {version_name} APK Download"
-msgstr ""
+msgstr "{app_name} {version_name} APK 다운로드"
 
 msgctxt "[\"meta\"][\"Category_xapk\"][\"title\"]"
 msgid "XAPK ( apk with obb file) {0}.apk for Android download"
-msgstr ""
+msgstr "XAPK ( apk with obb file) {0} .apk Android용 다운로드"
 
 msgctxt "[\"meta\"][\"Category_xapk\"][\"keywords\"]"
 msgid "xapk {0}, {0} xapk, xapk {0} download, download apk obb, apk with obb data, android"
-msgstr ""
+msgstr "xapk {0}, {0} xapk, xapk {0} 다운로드, apk obb 다운로드, obb 데이터가 포함된 apk"
 
 msgctxt "[\"meta\"][\"Category_xapk\"][\"description\"]"
 msgid "Download Android {0} XAPK, full version with obb data file."
-msgstr ""
+msgstr "Android {0} XAPK, obb 데이터 파일이 있는 정식 버전을 다운로드하십시오."
 
+#, fuzzy
 msgctxt "[\"meta\"][\"Category_featured\"][\"title\"]"
 msgid "Download {0} APK Android App Online - Free Pure APK Downloader"
-msgstr ""
+msgstr "{0} APK Android 앱을 온라인으로 다운로드 - 무료 Pure APK 다운로더"
 
 msgctxt "[\"meta\"][\"Category_featured\"][\"keywords\"]"
 msgid "{0}"
-msgstr ""
+msgstr "{0}"
 
 msgctxt "[\"meta\"][\"Category_featured\"][\"description\"]"
 msgid "{0}"
-msgstr ""
+msgstr "{0}"
 
 msgctxt "[\"meta\"][\"Category_featured_editors-picks\"][\"title\"]"
 msgid "APKPure Editors' Picks for the best Android Games & Apps"
-msgstr ""
+msgstr "APKPure 편집자가 추천하는 최고의 Android 게임 및 앱"
 
+#, fuzzy
 msgctxt "[\"meta\"][\"Category_featured_editors-picks\"][\"keywords\"]"
 msgid "android apps, android games, must have android games, must have android apps, game download"
-msgstr ""
+msgstr "Android 앱, Android 게임, Android 게임이 있어야합니다, Android 앱, 게임 다운로드가 있어야합니다"
 
 msgctxt "[\"meta\"][\"Category_featured_editors-picks\"][\"description\"]"
 msgid "Play with millions of free apps in APKPure style on Android phones, tablets, TV ,etc. Download the best must have android games you should play 2016."
@@ -1337,27 +1360,38 @@ msgstr ""
 
 msgctxt "[\"meta\"][\"Category_app\"][\"title\"]"
 msgid "Download {0} APK Android App Online - Free Pure APK Downloader"
-msgstr ""
+msgstr "{0} APK Android 앱을 온라인으로 다운로드 - 무료 Pure APK 다운로더"
 
+#, fuzzy
 msgctxt "[\"meta\"][\"Category_app\"][\"keywords\"]"
 msgid "{0} apk download, free {0} download, {0} apk download, download {0} apk, {0} apk downloader, {0} android"
 msgstr ""
+"{0} APK 다운로드, 무료 {0} 다운로드, {0} APK 다운로드, {0} APK, {0} APK 다운로더, {0} 안드로이드 "
+"다운로드"
 
+#, fuzzy
 msgctxt "[\"meta\"][\"Category_app\"][\"description\"]"
 msgid "Download free and best {0}  for Android phone and tablet with online apk downloader on APKPure.com, including (tool apps, shopping apps, communication apps) and more."
 msgstr ""
+"(툴 앱, 쇼핑 앱, 커뮤니케이션 앱) 등을 포함한 APKPure 온라인 apk 다운로더로 Android 휴대 전화 및 태블릿을 무료로  "
+"다운로드할 수 있습니다."
 
+#, fuzzy
 msgctxt "[\"meta\"][\"Category_game\"][\"title\"]"
 msgid "Download {0} APK Android App Online - Free Pure APK Downloader"
-msgstr ""
+msgstr "{0} APK Android 앱을 온라인으로 다운로드 - 무료 Pure APK 다운로더"
 
 msgctxt "[\"meta\"][\"Category_game\"][\"keywords\"]"
 msgid "{0} apk download, free {0} download, download {0} apk, {0} apk downloader, {0} android, {0} app download"
 msgstr ""
+"{0} APK 다운로드, 무료 {0} 다운로드, {0} APK 다운로드, {0} APK 다운로더, {0} 안드로이드, {0} 앱 다운로드"
 
+#, fuzzy
 msgctxt "[\"meta\"][\"Category_game\"][\"description\"]"
 msgid "Download free and best {0} for Android phone and tablet with online apk downloader on APKPure.com, including (driving games, shooting games, fighting games) and more."
 msgstr ""
+"APKPure.com의 온라인 APK 다운로더 (운전 게임, 슈팅 게임, 파이팅 게임) 등을 포함하여 Android 휴대 전화 및 "
+"태블릿을 무료로 {0} 무료로 다운로드하십시오."
 
 #, fuzzy
 msgctxt "[\"meta\"][\"FAQ\"][\"title\"]"
@@ -1376,63 +1410,73 @@ msgstr "{0}"
 
 msgctxt "[\"meta\"][\"Developer\"][\"title\"]"
 msgid "All {0} free Android apps apk download | APKPure.com"
-msgstr ""
+msgstr "모든 {0} 무료 Android 앱 apk 다운로드 | APKPure.com"
 
+#, fuzzy
 msgctxt "[\"meta\"][\"Developer\"][\"keywords\"]"
 msgid "{0} apk download, download {0} free app, {0} games for android,  {0} games app list, {0} app update, {0} app apk downloader"
 msgstr ""
+"{0} apk 다운로드, {0} 무료 앱 다운로드,{0} 안드로이드 게임, {0} 게임 앱 목록, {0} 앱 업데이트, {0} 앱 apk "
+"다운로더"
 
+#, fuzzy
 msgctxt "[\"meta\"][\"Developer\"][\"description\"]"
 msgid "All Apps or Games Published by \"{0}\""
-msgstr ""
+msgstr "\"{0}\"에서 게시한 모든 앱 또는 게임"
 
 msgctxt "[\"meta\"][\"Search\"][\"title\"]"
 msgid "{0} search results | APKPure.com"
-msgstr ""
+msgstr "{0} 검색 결과 | APKPure.com"
 
 msgctxt "[\"meta\"][\"Search\"][\"keywords\"]"
 msgid "{0} apk download, download {0} apk"
-msgstr ""
+msgstr "{0} apk 다운로드, {0} apk 다운로드"
 
 msgctxt "[\"meta\"][\"Search\"][\"description\"]"
 msgid "{0}"
-msgstr ""
+msgstr "{0}"
 
+#, fuzzy
 msgctxt "[\"meta\"][\"New\"][\"title\"]"
 msgid "Download the latest {0} APK | APKPure.com"
-msgstr ""
+msgstr "최신 {0} APK | APKPure.com을 다운로드하십시오."
 
+#, fuzzy
 msgctxt "[\"meta\"][\"New\"][\"keywords\"]"
 msgid "{0} apk download, {0} update, free top {0} download, free {0} downloader,  best {0} for Android,"
-msgstr ""
+msgstr "{0} apk 다운로드, {0}업데이트, 무료 인기 {0} 다운로드, 무료 {0} 다운로더, 최고 {0} Android용,"
 
 msgctxt "[\"meta\"][\"New\"][\"description\"]"
 msgid "Daily update top free {0} apk download."
-msgstr ""
+msgstr "일일 업데이트 최고 무료 {0} apk 다운로드."
 
 msgctxt "[\"meta\"][\"Verify\"][\"title\"]"
 msgid "APK Signature Verification, Official Version APK Detection Service"
-msgstr ""
+msgstr "APK 서명 검증, 공식 버전 APK 탐지 서비스"
 
+#, fuzzy
 msgctxt "[\"meta\"][\"Verify\"][\"keywords\"]"
 msgid "apk signature verification, apk signature verify, apk signature checker, apk signature viewer, modified apk, free, online, scanner"
-msgstr ""
+msgstr "apk 서명 확인, apk 서명 확인, apk 서명 검사기, apk 서명 뷰어, 수정된 apk, 무료, 온라인, 스캐너"
 
+#, fuzzy
 msgctxt "[\"meta\"][\"Verify\"][\"description\"]"
 msgid "APK Signature verification will verify Android app package signature to keep Android users away from potentially harmful APK files before APK installing."
 msgstr ""
+"APK 서명 확인은 Android 앱 패키지 서명을 검증하여 APK를 설치하기 전에 Android 사용자가 잠재적으로 유해한 APK "
+"파일을 피할 수 있도록 합니다."
 
 msgctxt "[\"meta\"][\"Download\"][\"title\"]"
 msgid "Region free APK download daily update apps and games"
-msgstr ""
+msgstr "지역 무료 APK 일일 업데이트 앱 및 게임 다운로드"
 
 msgctxt "[\"meta\"][\"Download\"][\"keywords\"]"
 msgid "apk download, region free apk download"
-msgstr ""
+msgstr "apk 다운로드, 지역 무료 apk 다운로드"
 
 msgctxt "[\"meta\"][\"Download\"][\"description\"]"
 msgid "download free apps APK for Android phone and tablet."
-msgstr ""
+msgstr "Android 전화 및 태블릿용 무료 앱 APK를 다운로드합니다."
 
 msgctxt "[\"meta\"][\"Error\"][\"title\"]"
 msgid "Error"
@@ -1448,15 +1492,15 @@ msgstr "오류"
 
 msgctxt "[\"meta\"][\"Category\"][\"title\"]"
 msgid "Browse Category | APKPure.com"
-msgstr ""
+msgstr "카테고리 찾아보기 | APKPure.com"
 
 msgctxt "[\"meta\"][\"Category\"][\"keywords\"]"
 msgid "app category,game category"
-msgstr ""
+msgstr "앱 카테고리, 게임 카테고리"
 
 msgctxt "[\"meta\"][\"Category\"][\"description\"]"
 msgid "Android games and apps category"
-msgstr "안드로이드 게임과 앱 카테고리"
+msgstr "Android 게임 및 앱 카테고리"
 
 msgctxt "[\"category\"][\"GAME_ACTION\"]"
 msgid "Action"
@@ -1703,9 +1747,8 @@ msgstr "찾을 수 없음"
 
 msgctxt "[\"TOPICS\"]"
 msgid "Topics"
-msgstr "토픽"
+msgstr "주제"
 
-#, fuzzy
 msgctxt "[\"SIMILAR_TO\"]"
 msgid "Similar to {0}"
 msgstr "{0} 과 유사함"
@@ -1722,13 +1765,14 @@ msgctxt "[\"DEV-SEND_EMAIL_ERR\"]"
 msgid "Failed to send mail"
 msgstr "메시지 전송 실패"
 
+#, fuzzy
 msgctxt "[\"DEV-PKG_EXISTS\"]"
 msgid "Application has been claimed"
-msgstr "애플리케이션이 청구되었습니다"
+msgstr "신청이 이미 받아들여졌다"
 
 msgctxt "[\"DETAIL\"]"
 msgid "Detail"
-msgstr "상세"
+msgstr "세부 사항"
 
 #, fuzzy
 msgctxt "[\"DETAIL-MAIGHT_LIKE\"]"
@@ -1749,7 +1793,7 @@ msgstr "안드로이드 필요"
 
 msgctxt "[\"COMMENT-ADD_NEW_DISCUSSION\"]"
 msgid "Add A New Discussion"
-msgstr "새 토론 추가하기"
+msgstr "새로운 토론 추가"
 
 msgctxt "[\"COMMENT-REPLIES\"]"
 msgid "Replies"
@@ -1797,21 +1841,22 @@ msgctxt "[\"COMMENT-COLLAPSED\"]"
 msgid "comment collapsed"
 msgstr "댓글이 축소되었습니다."
 
+#, fuzzy
 msgctxt "[\"COMMENT-POST\"]"
 msgid "Post"
 msgstr "게시"
 
 msgctxt "[\"COMMENT-REVIEW_OR_POST\"]"
 msgid "Post review or comment"
-msgstr "의견이나 리뷰 게시"
+msgstr "리뷰 또는 댓글 게시"
 
 msgctxt "[\"COMMENT-COMMENTS\"]"
 msgid "Comments"
-msgstr "의견"
+msgstr "댓글"
 
 msgctxt "[\"COMMENT-REPLY\"]"
 msgid "Reply"
-msgstr "댓글"
+msgstr "리플라이"
 
 msgctxt "[\"COMMENT-NAME\"]"
 msgid "Name"
@@ -1837,6 +1882,7 @@ msgctxt "[\"COMMENT-SORT_BY_BEST\"]"
 msgid "Best"
 msgstr "최고"
 
+#, fuzzy
 msgctxt "[\"COMMENT-SORT_BY_BEST_LONG\"]"
 msgid "Sort by best"
 msgstr "인기로 정렬"
@@ -1849,30 +1895,27 @@ msgctxt "[\"COMMENT-SORT_BY_MOST_SCORE\"]"
 msgid "Top rated"
 msgstr "최고 등급"
 
+#, fuzzy
 msgctxt "[\"COMMENT-SORT_BY_DEFAULT\"]"
 msgid "Sort by default"
 msgstr "기본적으로 정렬"
 
-#, fuzzy
 msgctxt "[\"HAVE_PRODUCTS\"]"
 msgid "All {0} Apps"
-msgstr "모든 애플리케이션"
+msgstr "모든 {0} 앱"
 
 msgctxt "[\"DETAIL-HOT_TAGS\"]"
 msgid "{0} Tags"
 msgstr "{0} 태그"
 
-#, fuzzy
 msgctxt "[\"DETAIL-MORE_FROM\"]"
 msgid "More From {0}"
 msgstr "{0}의 더보기"
 
-#, fuzzy
 msgctxt "[\"DETAIL-RATING1\"]"
 msgid "average: {rating_average} out of {rating_best}"
 msgstr "평균: {rating_average} 중 {rating_best}"
 
-#, fuzzy
 msgctxt "[\"DETAIL-DELETED_COPYRIGHT_GOOGLE_PLAY_DES\"]"
 msgid "{app_name} All rights reserved ©2018 {developer}. {developer} and the {developer} logo are trademarks of {developer} in the U.S. and/or other countries.All other trademarks are the property of their respective owners."
 msgstr ""
@@ -1881,7 +1924,7 @@ msgstr ""
 
 msgctxt "[\"COMMENT-REVIEW_OTHER_LANG\"]"
 msgid "There are {0} reviews in other languages"
-msgstr "{0}개의 다른 언어의 조회수"
+msgstr "다른 언어로 {0} 개의 조회수가 있습니다"
 
 msgctxt "[\"COMMENT-SEE_ALL_DISCUSSIONS\"]"
 msgid "See all {0} discussions"
@@ -1912,9 +1955,10 @@ msgctxt "[\"COMMENT-COMMENTS_CANT_BE_BLANK\"]"
 msgid "Comments can't be blank."
 msgstr "댓글은 비워 둘 수 없습니다."
 
+#, fuzzy
 msgctxt "[\"COMMENT-POST_AS_GUEST\"]"
 msgid "Post As a Guest"
-msgstr "손님으로 게시"
+msgstr "손님으로 댓글을 올리기"
 
 msgctxt "[\"COMMENT-LOGOUT\"]"
 msgid "Logout"
@@ -1924,9 +1968,10 @@ msgctxt "[\"COMMENT-WEBSITE\"]"
 msgid "Website"
 msgstr "웹 사이트"
 
+#, fuzzy
 msgctxt "[\"COMMENT-TO_BE_FIRST\"]"
 msgid "Ooops! No such content!"
-msgstr "이런! 그런 내용이 없습니다!"
+msgstr "Ooops!그런 내용이 없습니다!"
 
 msgctxt "[\"COMMENT-VOTE\"]"
 msgid "Vote"
@@ -1948,10 +1993,9 @@ msgctxt "[\"COMMENT-ERR_RATE\"]"
 msgid "Vote failed, repeated"
 msgstr "투표 실패,반복되었습니다"
 
-#, fuzzy
 msgctxt "[\"COMMENT-ERR_SENSITIVE_WORD\"]"
 msgid "Defeat,your post contains sensitive terms"
-msgstr "패배,귀하의 게시물에 민감한 용어가 포함되어 있습니다."
+msgstr "실패했습니다. 게시물에 민감한 용어가 포함되어 있습니다"
 
 msgctxt "[\"COMMENT-ERR_SENSITIVE_WORD_AUDIT\"]"
 msgid "Your post contains sensitive terms and is pending approval by an admin"
@@ -1965,12 +2009,10 @@ msgctxt "[\"COMMENT-ERR_FORBIDDEN\"]"
 msgid "Comment forbidden"
 msgstr "댓글 금지"
 
-#, fuzzy
 msgctxt "[\"COMMENT-ERR_FAILURE\"]"
 msgid "Comment unknown"
-msgstr "미지의 댓글"
+msgstr "댓글을 알 수 없음"
 
-#, fuzzy
 msgctxt "[\"COMMENT-ERR_EMOJI\"]"
 msgid "Emoji comments are not allowed any more! Write something..."
 msgstr "이모티콘은 더 이상 허용되지 않습니다!뭔가 쓰세요..."
@@ -1979,17 +2021,15 @@ msgctxt "[\"COMMENT-ERR_NONE_MESSAGE\"]"
 msgid "You must write something!"
 msgstr "당신은 뭔가를 써야 합니다!"
 
-#, fuzzy
 msgctxt "[\"COMMENT-ERR_INVALID_PARAMETER\"]"
 msgid "Invalid comment parameter"
-msgstr "잘못된 설명 매개 변수"
+msgstr "잘못된 코멘트 매개 변수"
 
-#, fuzzy
 msgctxt "[\"COMMENT-ERR_INVALID_USER\"]"
 msgid "You're banned from APKPure by using or posting content containing nudity images. Please edit or remove the images before contacting Admin to restore your account."
 msgstr ""
-"누드 이미지가 담긴 콘텐츠를 사용하거나 게시하는 것은 APKPure에 금지된다. 계정을 복원하려면 관리자에게 문의하기 전에 이미지를 "
-"편집하거나 제거하십시오."
+"APKPure는 당신이 누드 그림이 포함 된 콘텐츠를 사용하거나 게시하는 것을 금지합니다.관리자에게 연락하여 계정을 복원하기 전에 "
+"이미지를 편집하거나 삭제하십시오."
 
 msgctxt "[\"COMMENT-ERR_INVALID_VIDEO_URL\"]"
 msgid "Invalid Video URL"
@@ -2027,6 +2067,7 @@ msgctxt "[\"COMMENT-LINK\"]"
 msgid "Link"
 msgstr "링크"
 
+#, fuzzy
 msgctxt "[\"PRE-REGISTER\"]"
 msgid "Pre-Registration Games"
 msgstr "사전 등록 게임"
@@ -2039,17 +2080,18 @@ msgctxt "[\"PRE-REGISTER_DETAILS\"]"
 msgid "Pre-Register Details"
 msgstr "사전 등록 세부 사항"
 
+#, fuzzy
 msgctxt "[\"PRE-REGISTER_DATE\"]"
 msgid "Release Date"
 msgstr "출시일"
 
 msgctxt "[\"PRE-REGISTER_REWARDS\"]"
 msgid "Register Rewards"
-msgstr "등록 보상"
+msgstr "등록 장려"
 
 msgctxt "[\"PRE-REGISTER_PAGE\"]"
 msgid "Pre-Register Page"
-msgstr "등록 전 페이지"
+msgstr "사전 등록 페이지"
 
 msgctxt "[\"USER-FOLLOWING\"]"
 msgid "Following"
@@ -2077,7 +2119,7 @@ msgstr "사용자 등급이 너무 낮습니다"
 
 msgctxt "[\"USER-REPLIES\"]"
 msgid "Replies"
-msgstr "응답"
+msgstr "답장"
 
 msgctxt "[\"USER-PROFILE\"]"
 msgid "Profile"
@@ -2097,7 +2139,7 @@ msgstr "코멘트"
 
 msgctxt "[\"USER-MY_FAVORITE\"]"
 msgid "My Favorite"
-msgstr "내가 좋아하는 것"
+msgstr "즐겨찾기"
 
 msgctxt "[\"USER-LIKED_COMMENTS\"]"
 msgid "Liked Comments"
@@ -2121,7 +2163,7 @@ msgstr "입력한 계정이 존재하지 않습니다."
 
 msgctxt "[\"USER-DISPLAY_NAME_EXIST\"]"
 msgid "The nickname is already in use."
-msgstr "별명은 이미 사용 중입니다."
+msgstr "닉네임은 이미 사용 중입니다."
 
 msgctxt "[\"USER-INCORRECT_EMAIL\"]"
 msgid "The e-mail address you entered is invalid."
@@ -2298,3 +2340,531 @@ msgstr "추천 사항"
 msgctxt "[\"COPYRIGHT_MOBILE\"]"
 msgid "APKPure.com © 2014-2018"
 msgstr "APKPure.com © 2014-2018"
+
+msgctxt "[\"USER-FAVORITES\"]"
+msgid "Favorites"
+msgstr "즐겨찾기"
+
+msgctxt "[\"FOOTER-DEVELOPER_CONSOLE\"]"
+msgid "Developer Console"
+msgstr "개발자 콘솔"
+
+msgctxt "[\"FOOTER-REPORT_ABUSE\"]"
+msgid "Report abuse"
+msgstr "남용 신고"
+
+msgctxt "[\"MARKET-PAGE_TOP_GAMES\"]"
+msgid "Top Games"
+msgstr "인기 게임"
+
+msgctxt "[\"MARKET-PAGE_TOP_APPS\"]"
+msgid "Top Apps"
+msgstr "인기 앱"
+
+msgctxt "[\"MARKET-PAGE_TOP_DEVELOPERS\"]"
+msgid "Top Developers"
+msgstr "인기 개발자"
+
+msgctxt "[\"MARKET-PAGE_TOP_COUNTRIES\"]"
+msgid "Top Countries"
+msgstr "인기 국가"
+
+msgctxt "[\"MARKET-POP_TITLE\"]"
+msgid "APKPure AppStore App"
+msgstr "APKPure AppStore 앱"
+
+msgctxt "[\"MARKET-POP_CHANGE_TITLE\"]"
+msgid "Change Profile Settings"
+msgstr "프로필 설정 변경"
+
+#, fuzzy
+msgctxt "[\"MARKET-POP_ADD_NEW_POST\"]"
+msgid "Add New Post or Comment"
+msgstr "새 글 또는 코멘트 추가"
+
+msgctxt "[\"MARKET-POP_ADD_TAG\"]"
+msgid "Add Tags"
+msgstr "태그 추가"
+
+#, fuzzy
+msgctxt "[\"MARKET-PROMOTION_BANNER_DOWN\"]"
+msgid "<p class=\"tit\">Using APKPure App</p><p class=\"des\">Download / Update this {0}, faster, free and saving data!</p>"
+msgstr ""
+"<p class=\"tit>1 APKPure 앱 사용하여</p>2<p class=\"des\">3 다운로드 / 이 {0}을(를) "
+"업데이트하고 데이터를 빠르고 무료로 저장하십시오.</p>4"
+
+#, fuzzy
+msgctxt "[\"RECOMMENDED-POSTS\"]"
+msgid "Recommended Posts"
+msgstr "추천 게시물"
+
+#, fuzzy
+msgctxt "[\"USERS-RECOMMENDED\"]"
+msgid "Users' Recommendations"
+msgstr "사용자 추천"
+
+#, fuzzy
+msgctxt "[\"REVIEW_PRIVACY_POLICY_DES_M\"]"
+msgid "We encourage you to read our updated <a target='_blank' href='{pp}'>Privacy Policy</a> and <a target='_blank' href='{cp}'>Cookies Policy</a>."
+msgstr ""
+"업데이트된 <a target='_blank' href='{pp}'>1 개인 정보 취급 방침</a>2 및  <a target="
+"'_blank' href='{cp}'>3Cookies Policy</a>4."
+
+#, fuzzy
+msgctxt "[\"REVIEW_PRIVACY_POLICY_DES\"]"
+msgid "We use cookies and other technologies on this website to enhance your user experience.<br> By clicking any link on this page you are giving your consent to our <a target='_blank' href='{pp}'>Privacy Policy</a> and <a target='_blank' href='{cp}'>Cookies Policy</a>."
+msgstr ""
+"사용자 환경을 개선하기 위해 이 웹 사이트의 쿠키 및 기타 기술을 사용합니다.<br> 이 페이지의 링크를 클릭하면 당사의 <target="
+"'_blank' href='{pp}' 개인 정보 보호 정책</a> 및 <a target='_blank' href='{cp}']쿠키 정책 "
+"</a>에 동의하는 것입니다."
+
+msgctxt "[\"REVIEW_PRIVACY_POLICY_BTN\"]"
+msgid "Ok I Agree"
+msgstr "동의함"
+
+msgctxt "[\"REVIEW_PRIVACY_POLICY_MORE\"]"
+msgid "Learn More"
+msgstr "더 알아보기"
+
+msgctxt "[\"MARKET-TOP_COUNTRY\"][\"en-US\"]"
+msgid "USA"
+msgstr "미국"
+
+msgctxt "[\"MARKET-TOP_COUNTRY\"][\"ja\"]"
+msgid "Japan"
+msgstr "일본"
+
+msgctxt "[\"MARKET-TOP_COUNTRY\"][\"zh-CN\"]"
+msgid "China"
+msgstr "중국"
+
+msgctxt "[\"MARKET-TOP_COUNTRY\"][\"ko-KR\"]"
+msgid "Korea"
+msgstr "대한민국"
+
+msgctxt "[\"MARKET-TOP_COUNTRY\"][\"id-ID\"]"
+msgid "Indonesia"
+msgstr "인도네시아"
+
+msgctxt "[\"MARKET-TOP_COUNTRY\"][\"pt-BR\"]"
+msgid "Brazil"
+msgstr "브라질"
+
+msgctxt "[\"tip\"][\"SHORT_NAME\"]"
+msgid "{0}"
+msgstr "{0}"
+
+msgctxt "[\"tip\"][\"VERSION\"]"
+msgid "Download {app_short_name} v{version_name} for android"
+msgstr "다운로드 {app_short_name} v {version_name} for android"
+
+msgctxt "[\"tip\"][\"PREVIOUS_VERSIONS\"]"
+msgid "{0} Previous Versions"
+msgstr "{0} 이전 버전"
+
+msgctxt "[\"tip\"][\"SCREEN_INDEX\"]"
+msgid "{0} screenshot {1}"
+msgstr "{0} 스크린샷 {1}"
+
+#, fuzzy
+msgctxt "[\"js\"][\"LANG_TIP\"][\"pl\"]"
+msgid "Czy chcesz zmienić język preferencji na <strong> Polski </strong>?"
+msgstr "Czy chcesz zmienić język preferencji na <strong>1 Polski </strong>2?"
+
+#, fuzzy
+msgctxt "[\"js\"][\"LANG_TIP\"][\"es\"]"
+msgid "¿Quiere cambiar su idioma de preferencia a <strong>español</strong>?"
+msgstr "¿Quiere cambiar su idioma de preferencia a <strong>1español</strong>2?"
+
+#, fuzzy
+msgctxt "[\"js\"][\"LANG_TIP\"][\"ru\"]"
+msgid "Вы хотите изменить язык предпочтений на <strong>русский</strong>?"
+msgstr "Вы хотите изменить язык предпочтений на <strong>1русский</strong>2?"
+
+msgctxt "[\"js\"][\"LANG_TIP\"][\"id\"]"
+msgid "Apakah Anda ingin mengubah bahasa pilihan Anda <strong>ke bahasa Indonesia</strong>?"
+msgstr ""
+"Apakah Anda ingin mengubah bahasa pilihan Anda <strong>1ke bahasa "
+"Indonesia</strong>2?"
+
+msgctxt "[\"js\"][\"LANG_TIP\"][\"it\"]"
+msgid "Vuoi cambiare la tua lingua preferenziale in <strong>italiano</strong>?"
+msgstr ""
+"Vuoi cambiare la tua lingua preferenziale in <strong>1italiano</strong>2?"
+
+#, fuzzy
+msgctxt "[\"js\"][\"LANG_TIP\"][\"de\"]"
+msgid "Wil je de taal van je voorkeur wijzigen in <strong> Deutsch </strong>?"
+msgstr ""
+"Wil je de taal van je voorkeur wijzigen in <strong>1 Deutsch </strong>2?"
+
+msgctxt "[\"js\"][\"LANG_TIP\"][\"vn\"]"
+msgid "Bạn có muốn thay đổi ngôn ngữ ưa thích của mình thành <strong> Tiếng Việt </strong> không?"
+msgstr ""
+"Bạn có muốn thay đổi ngôn ngữ ưa thích của mình thành <strong>1 Tiếng Việt "
+"</strong>2 không?"
+
+msgctxt "[\"js\"][\"LANG_TIP\"][\"nl\"]"
+msgid "Wilt u uw voorkeurstaal naar <strong>Nederlands</strong> veranderen?"
+msgstr "Wilt u uw voorkeurstaal naar <strong>1Nederlands</strong>2 veranderen?"
+
+#, fuzzy
+msgctxt "[\"js\"][\"LANG_IGNORE\"][\"pl\"]"
+msgid "Ignorować"
+msgstr "Ignorować"
+
+msgctxt "[\"js\"][\"LANG_IGNORE\"][\"es\"]"
+msgid "Ignorar"
+msgstr "이그노라"
+
+#, fuzzy
+msgctxt "[\"js\"][\"LANG_IGNORE\"][\"ru\"]"
+msgid "игнорировать"
+msgstr "игнорировать"
+
+#, fuzzy
+msgctxt "[\"js\"][\"LANG_IGNORE\"][\"id\"]"
+msgid "Mengabaikan"
+msgstr "멍가바이칸"
+
+msgctxt "[\"js\"][\"LANG_IGNORE\"][\"it\"]"
+msgid "Ignorare"
+msgstr "무식하기"
+
+#, fuzzy
+msgctxt "[\"js\"][\"LANG_IGNORE\"][\"de\"]"
+msgid "Negeren"
+msgstr "부정하기"
+
+msgctxt "[\"js\"][\"LANG_IGNORE\"][\"vn\"]"
+msgid "OK"
+msgstr "동의함"
+
+#, fuzzy
+msgctxt "[\"js\"][\"LANG_IGNORE\"][\"nl\"]"
+msgid "Negeren"
+msgstr "부정하기"
+
+msgctxt "[\"js\"][\"LANG_OK\"][\"pl\"]"
+msgid "ok"
+msgstr "동의함"
+
+#, fuzzy
+msgctxt "[\"js\"][\"LANG_OK\"][\"es\"]"
+msgid "DE ACUERDO"
+msgstr "동의함"
+
+msgctxt "[\"js\"][\"LANG_OK\"][\"ru\"]"
+msgid "ОК"
+msgstr "동의함"
+
+#, fuzzy
+msgctxt "[\"js\"][\"LANG_OK\"][\"id\"]"
+msgid "baik"
+msgstr "동의함"
+
+msgctxt "[\"js\"][\"LANG_OK\"][\"it\"]"
+msgid "ok"
+msgstr "동의함"
+
+msgctxt "[\"js\"][\"LANG_OK\"][\"de\"]"
+msgid "OK"
+msgstr "동의함"
+
+msgctxt "[\"js\"][\"LANG_OK\"][\"vn\"]"
+msgid "OK"
+msgstr "동의함"
+
+msgctxt "[\"js\"][\"LANG_OK\"][\"nl\"]"
+msgid "OK"
+msgstr "동의함"
+
+msgctxt "[\"js\"][\"CANCEL\"]"
+msgid "Cancel"
+msgstr "취소"
+
+msgctxt "[\"js\"][\"YOUTUBE_URL\"]"
+msgid "Enter Youtube video URL"
+msgstr "Youtube 비디오 URL 입력"
+
+msgctxt "[\"js\"][\"YOUTUBE_URL_ERR\"]"
+msgid "Invalid URL: Please enter a valid YouTube video URL"
+msgstr "잘못된 URL: 올바른 YouTube 비디오 URL을 입력하십시오"
+
+msgctxt "[\"js\"][\"USER-PASSWORD_NOT_MATCH\"]"
+msgid "Passwords do not match"
+msgstr "비밀번호가 일치하지 않습니다"
+
+#, fuzzy
+msgctxt "[\"js\"][\"USER-PASSWORD_MUST\"]"
+msgid "Password must be 6-32 characters long"
+msgstr "암호는 6-32자여야 합니다."
+
+#, fuzzy
+msgctxt "[\"js\"][\"USER-USERNAME_MUST\"]"
+msgid "Username must be 1-20 characters long and special characters are not allowed."
+msgstr "사용자 이름은 1-20자여야 하며 특수 문자는 허용되지 않습니다."
+
+msgctxt "[\"js\"][\"USER-INCORRECT_ACCOUNT\"]"
+msgid "The username you entered is invalid."
+msgstr "입력한 사용자 이름이 잘못되었습니다."
+
+msgctxt "[\"js\"][\"USER-INCORRECT_PASSWORD\"]"
+msgid "The password you entered is invalid."
+msgstr "입력한 암호가 잘못되었습니다."
+
+msgctxt "[\"js\"][\"USER-SAVED_SUCCESS\"]"
+msgid "Saved Successfully"
+msgstr "성공적으로 저장됨"
+
+msgctxt "[\"js\"][\"USER-RESEND_VERIFICATION\"]"
+msgid "Resend verification code"
+msgstr "인증 코드 다시 보내기"
+
+#, fuzzy
+msgctxt "[\"js\"][\"USER-RESEND_IN\"]"
+msgid "Resend in {0}"
+msgstr "{0} (으)로 다시 보내기"
+
+msgctxt "[\"js\"][\"COMMENT-DELETE\"]"
+msgid "Yes,delete it!"
+msgstr "예, 삭제하십시오!"
+
+msgctxt "[\"js\"][\"COMMENT-DELETED\"]"
+msgid "Deleted!"
+msgstr "삭제되었습니다!"
+
+msgctxt "[\"js\"][\"COMMENT-ARE_YOU_SURE\"]"
+msgid "Are you sure?"
+msgstr "확실합니까?"
+
+msgctxt "[\"js\"][\"COMMENT-RATE_MUST\"]"
+msgid "Before writing a review or something, please rate the app first."
+msgstr "리뷰 등을 작성하기 전에 먼저 앱의 등급을 매겨주세요."
+
+msgctxt "[\"js\"][\"COMMENT-VOTE\"]"
+msgid "Vote"
+msgstr "투표"
+
+msgctxt "[\"meta\"][\"Details_new\"][\"title\"]"
+msgid "{app_short_name} for Android - APK Download"
+msgstr "Android용 {app_short_name} - APK 다운로드"
+
+#, fuzzy
+msgctxt "[\"meta\"][\"Details_new\"][\"keywords\"]"
+msgid "{app_short_name}, {app_short_name} for android, {app_short_name} android download, {app_short_name} apk, {app_short_name} android apk, {app_short_name} download"
+msgstr ""
+"Android용 {app_short_name}, {app_short_name}, {app_short_name} 안드로이드 다운로드, "
+"{app_short_name} apk, {app_short_name} 안드로이드 APK, {app_short_name} 다운로드"
+
+#, fuzzy
+msgctxt "[\"meta\"][\"Details_new\"][\"description\"]"
+msgid "Download {app_short_name} apk {version_name} for Android. {app_short_description}"
+msgstr ""
+"Android용 {app_short_name} apk {version_name}을(를) 다운로드하십시오. "
+"{app_short_description}"
+
+#, fuzzy
+msgctxt "[\"meta\"][\"Versions\"][\"title\"]"
+msgid "{app_short_name} update version history for Android - APK Download"
+msgstr "Android용{app_short_name}  업데이트 버전 기록 - APK 다운로드"
+
+#, fuzzy
+msgctxt "[\"meta\"][\"Versions\"][\"keywords\"]"
+msgid "{app_short_name}, download, old, version history, apk, release date, changelog"
+msgstr "{app_short_name}, 다운로드, 오래된, 버전 이력, apk, 릴리스 날짜, 변경 로그"
+
+#, fuzzy
+msgctxt "[\"meta\"][\"Versions\"][\"description\"]"
+msgid "Download {app_short_name} old versions Android APK or update to {app_short_name} latest version. Review {app_short_name} release date, changelog and more."
+msgstr ""
+"{app_short_name} 이전 버전 Android APK를 다운로드하거나 {app_short_name} 최신 버전으로 "
+"업데이트하십시오. {app_short_name} 릴리스 날짜, 변경 로그 등을 검토하십시오."
+
+msgctxt "[\"meta\"][\"Details_download_new\"][\"title\"]"
+msgid "Download {app_short_name} latest {version_name} Android APK"
+msgstr "{app_short_name} 최신 {version_name} Android APK 다운로드"
+
+msgctxt "[\"meta\"][\"Details_download_new\"][\"title_old\"]"
+msgid "Download {app_short_name} {version_name} Android APK"
+msgstr "{app_short_name} {version_name} Android APK 다운로드"
+
+msgctxt "[\"meta\"][\"Details_download_new\"][\"keywords\"]"
+msgid "{app_short_name}, android, apk, download, {app_short_name} android, {app_short_name} download"
+msgstr ""
+"{app_short_name}, Android, apk, 다운로드, {app_short_name} Android, "
+"{app_short_name} 다운로드"
+
+msgctxt "[\"meta\"][\"Details_download_new\"][\"description\"]"
+msgid "{app_short_name} Android latest {version_name} APK Download and Install. {app_short_description}"
+msgstr ""
+"{app_short_name} Android 최신 {version_name} APK 다운로드 및 설치 "
+"{app_short_description}"
+
+msgctxt "[\"meta\"][\"Details_download_new\"][\"description_old\"]"
+msgid "{app_short_name} Android {version_name} APK Download and Install. {app_short_description}"
+msgstr ""
+"{app_short_name} Android {version_name} APK 다운로드 및 설치 {app_short_description}"
+
+#, fuzzy
+msgctxt "[\"meta\"][\"Category_featured_editors-picks\"][\"description\"]"
+msgid "Play with millions of free apps in APKPure style on Android phones, tablets, TV ,etc. Download the best must have android games you should play 2018."
+msgstr ""
+"Android 휴대 전화, 태블릿, TV 등에서 APKPure 스타일로 수백만 개의 무료 앱을 즐기세요.최고의 필수 Android 게임을 "
+"다운로드하려면 2018을 하셔야 합니다."
+
+#, fuzzy
+msgctxt "[\"meta\"][\"Tag\"][\"title\"]"
+msgid "{0} Android Games & Apps on APKPure App Store"
+msgstr "APKPure App Store에서 {0} Android 게임 및 앱"
+
+#, fuzzy
+msgctxt "[\"meta\"][\"Tag\"][\"keywords\"]"
+msgid "{0}, {0} games,{0} apps, {0} download, {0} android"
+msgstr "{0}, {0} 게임, {0} 앱, {0} 다운로드, {0} Android"
+
+msgctxt "[\"meta\"][\"Tag\"][\"description\"]"
+msgid "Browse and download top {0} games and apps for android mobile, tablets and more"
+msgstr "Android 모바일, 태블릿 등을 위한 상위 {0} 게임 및 앱 찾아보기 및 다운로드"
+
+msgctxt "[\"meta\"][\"Search_hot\"][\"title\"]"
+msgid "Search - APKPure Android App Store"
+msgstr "검색 - APKPure Android App Store"
+
+msgctxt "[\"meta\"][\"Search_hot\"][\"keywords\"]"
+msgid "Search {add_trending}"
+msgstr "검색 {add_trending}"
+
+msgctxt "[\"meta\"][\"Search_hot\"][\"description\"]"
+msgid "Discover Android games free download on APKPure Android App Store."
+msgstr "APKPure Android 앱 스토어에서 Android 게임을 무료로 다운로드하십시오."
+
+msgctxt "[\"meta\"][\"Topics\"][\"title\"]"
+msgid "Topics | APKPure.com"
+msgstr "주제 | APKPure.com"
+
+msgctxt "[\"meta\"][\"Topics\"][\"keywords\"]"
+msgid "Topics"
+msgstr "주제"
+
+msgctxt "[\"meta\"][\"Topics\"][\"description\"]"
+msgid "Topics"
+msgstr "주제"
+
+msgctxt "[\"meta\"][\"Similar\"][\"title\"]"
+msgid "{app_type} Like {app_short_name}"
+msgstr "{app_type} Like {app_short_name}"
+
+#, fuzzy
+msgctxt "[\"meta\"][\"Similar\"][\"keywords\"]"
+msgid "{app_short_name} alternative, {app_short_name} similar {app_type}, {app_category} {app_type} like {app_short_name}"
+msgstr ""
+"{app_short_name} alternative, {app_short_name} similar {app_type}, "
+"{app_category} {app_type} like {app_short_name}"
+
+msgctxt "[\"meta\"][\"Login\"][\"title\"]"
+msgid "Sign in account for APKPure Android App Store"
+msgstr "APKPure Android 앱 스토어에 로그인"
+
+msgctxt "[\"meta\"][\"Login\"][\"keywords\"]"
+msgid "login, new member, account, registration"
+msgstr "로그인, 신입 회원, 계정, 등록"
+
+msgctxt "[\"meta\"][\"Login\"][\"description\"]"
+msgid "To join community group or vote on APKPure App Store, you must be registered. Register your APKPure account today!"
+msgstr ""
+"커뮤니티 그룹에 가입하거나 APKPure App Store에서 투표하려면 등록해야 합니다. 지금 APKPure 계정을 등록하십시오!"
+
+msgctxt "[\"meta\"][\"Password\"][\"title\"]"
+msgid "Change Password"
+msgstr "비밀번호 변경"
+
+msgctxt "[\"meta\"][\"Password\"][\"description\"]"
+msgid "Change or reset my password."
+msgstr "비밀번호를 변경하거나 재설정합니다."
+
+msgctxt "[\"meta\"][\"Email\"][\"title\"]"
+msgid "Verify Your Email Address | APKPure"
+msgstr "이메일 주소 확인 | APKPure"
+
+#, fuzzy
+msgctxt "[\"meta\"][\"Email\"][\"description\"]"
+msgid "Before posting on APKPure, you need to verify email address associated with your account. Use the verification code in confirmation email to unlock more features."
+msgstr ""
+"APKPure에 게시하기 전에 계정과 연결된 이메일 주소를 확인해야 합니다. 확인 이메일에 인증 코드를 사용하여 더 많은 기능을 잠금 "
+"해제하십시오."
+
+msgctxt "[\"meta\"][\"User\"][\"title\"]"
+msgid "{user_name}: Profile and Activity - APKPure AppStore"
+msgstr "{user_name} : 프로필 및 활동 - APKPure AppStore"
+
+msgctxt "[\"meta\"][\"User\"][\"description\"]"
+msgid "My APKPure AppStore profile and activity page for {user_name}. Join APKPure AppStore to connect with {user_name}."
+msgstr ""
+"{user_name}에 대한 APKPure AppStore 프로파일 및 활동 페이지입니다.APKPure AppStore에 가입하여 "
+"{user_name}에 연결하십시오."
+
+msgctxt "[\"meta\"][\"Profile\"][\"title\"]"
+msgid "{user_name}'s profile on APKPure App Store"
+msgstr "APKPure App Store에서 {user_name}님의 프로파일"
+
+msgctxt "[\"meta\"][\"Profile\"][\"description\"]"
+msgid "The APKPure member profile for {user_name}."
+msgstr "{user_name}의 APKPure 회원 프로파일."
+
+msgctxt "[\"meta\"][\"Register\"][\"title\"]"
+msgid "Register account for APKPure Android App Store"
+msgstr "APKPure Android App Store에 대한 계정 등록"
+
+msgctxt "[\"meta\"][\"Register\"][\"keywords\"]"
+msgid "register, new member, account, registration"
+msgstr "등록, 신입 회원, 계정, 등록"
+
+msgctxt "[\"meta\"][\"Register\"][\"description\"]"
+msgid "To join community group or vote on APKPure App Store, you must be registered. Register your APKPure account today!"
+msgstr ""
+"커뮤니티 그룹에 가입하거나 APKPure App Store에서 투표하려면 등록해야 합니다. 지금 APKPure 계정을 등록하십시오!"
+
+msgctxt "[\"meta\"][\"Group\"][\"title\"]"
+msgid "{app_name} {app_type} Discussion Group | APKPure Groups"
+msgstr "{app_name} {app_type} 토론 그룹 | APKPure 그룹"
+
+msgctxt "[\"meta\"][\"Group\"][\"keywords\"]"
+msgid "{app_name} group, {app_short_name} community, {app_name} forum, about {app_short_name}, {app_type} discussions"
+msgstr ""
+"{app_name} 그룹, {app_short_name} 커뮤니티, {app_name} 포럼, {app_short_name}, "
+"{app_type} 토론 정보"
+
+msgctxt "[\"meta\"][\"Group\"][\"description_game\"]"
+msgid "Online discussions to share {app_name} tips, tricks and cheats. {app_short_description}"
+msgstr "{app_name} 팁, 트릭 및 치트를 공유하는 온라인 토론입니다. {app_short_description}"
+
+msgctxt "[\"meta\"][\"Group\"][\"description_app\"]"
+msgid "{app_name} group gathers most Android expert users, who like to share experience on how to use {app_short_name} and give {app_short_name} useful app reviews."
+msgstr ""
+"{app_name} 팀은 {app short name} 사용 방법에 대한 경험을 공유하고 {app short_name}에 대한 유용한 앱 "
+"리뷰를 제공하려는 대부분의 Android 전문가 사용자를 모았습니다."
+
+msgctxt "[\"meta\"][\"Invit\"][\"title\"]"
+msgid "{user_name} add a post under {app_name} Discussion Group | APKPure Group"
+msgstr "{username}님은 {appname} 토론 그룹에 소식을 추가합니다| APKPure Group"
+
+msgctxt "[\"meta\"][\"Invit\"][\"description\"]"
+msgid "View all {user_name}'s comments and posts on APKPure {app_type} discussion group. Join now to connect with {user_name}."
+msgstr ""
+"APKPure {app_type} 토론 그룹에 있는 {user_name} 님의 모든 댓글과 게시물을 봅니다.지금 가입하여 "
+"{user_name}와 (과) 연결하십시오."
+
+msgctxt "[\"meta\"][\"Invit\"][\"title_title\"]"
+msgid "{title} {app_type} Discussions | {app_name} Group"
+msgstr "{title} {app_type} 토론 | {app_name} 그룹"
+
+msgctxt "[\"meta\"][\"Invit\"][\"description_title\"]"
+msgid "\"{post_details}\" sent by {user_name} in {app_name} {app_type} Discussions."
+msgstr "{app_name} {app_type} 토론에서 {user_name} 님이 보낸\"{post_details}\" 입니다."
+
+msgctxt "[\"meta\"][\"Invit\"][\"keywords\"]"
+msgid "group, {app_name}, {app_category}, {app_type}, {app_developer}, {app_short_name} community"
+msgstr ""
+"그룹, {app_name}, {app_category}, {app_type}, {app_developer}, {app_short_name}"
+" 커뮤니티"
