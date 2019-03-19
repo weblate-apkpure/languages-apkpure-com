@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-08-14 08:12+0000\n"
-"PO-Revision-Date: 2018-06-26 06:00+0000\n"
-"Last-Translator: saeid babaei <saeid94249424@gmail.com>\n"
+"PO-Revision-Date: 2019-03-19 02:15+0000\n"
+"Last-Translator: mas uli <newultimate8@gmail.com>\n"
 "Language-Team: Persian <https://translate.apkpure.com/projects/apkpure/"
 "apkpurecom/fa/>\n"
 "Language: fa\n"
@@ -12,15 +12,15 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 3.0\n"
+"X-Generator: Weblate 3.2.2\n"
 
 msgctxt "[\"NAV-GAME\"]"
 msgid "GAMES"
-msgstr "بازی‌ها"
+msgstr "بازی ها"
 
 msgctxt "[\"NAV-APP\"]"
 msgid "APPS"
-msgstr "برنامه‌ها"
+msgstr "برنامه"
 
 msgctxt "[\"NAV-XAPK\"]"
 msgid "XAPK"
@@ -52,11 +52,11 @@ msgstr "برنامه دیتادار"
 
 msgctxt "[\"NAV-APK_INSTALL\"]"
 msgid "APK Install"
-msgstr "نصب ای‌پی‌کا"
+msgstr "نصب برنامه"
 
 msgctxt "[\"NAV-APK_DOWNLOAD\"]"
 msgid "APK Download"
-msgstr "دانلود ای‌پی‌کا"
+msgstr "دانلود برنامه"
 
 msgctxt "[\"NAV-APK_VERIFICATION\"]"
 msgid "APK Verification"
@@ -445,7 +445,7 @@ msgstr "چگونگی نصب فایل APK / XAPK"
 
 msgctxt "[\"REGION_DOWN-TITLE\"]"
 msgid "Region free APK download"
-msgstr "دانلود APK منطقه آزاد"
+msgstr "دانلود برنامه رایگان کشورها"
 
 msgctxt "[\"REGION_DOWN-DES\"]"
 msgid "- Download your favorite Android Apps with APK Downloader (Free Apps Only).<br>- Your download will begin automatically after you paste a package id and click the download button.<br>- Download failed? Please manually change country setting and try again.<br>- Want to tell us more about your problems? <a style='color:#FFFF00' href='/contact-us.html'>Contact us here</a>"
@@ -518,7 +518,7 @@ msgstr "حجم فایل"
 
 msgctxt "[\"SEARCH-ADVANCED_SEARCH\"]"
 msgid "Advanced Search"
-msgstr "جستجوی پیشرفته"
+msgstr "جستجوی هوشمندانه"
 
 msgctxt "[\"SEARCH-SEARCH_RESULTS\"]"
 msgid "{0} search results found."
@@ -558,11 +558,11 @@ msgstr "جستجوی APK"
 
 msgctxt "[\"404-OOPS\"]"
 msgid "OOPS!,"
-msgstr "اوخ!،"
+msgstr "اوپس!،"
 
 msgctxt "[\"404-Error_404\"]"
 msgid "Error 404!"
-msgstr "خطای 404!"
+msgstr "خطای 404(صفحه وجود ندارد یا در دسترس نیست)!"
 
 msgctxt "[\"404-DES\"]"
 msgid "It seems that page you are looking for no longer exists.<br />You can explore more Android Games and Apps below！"
@@ -596,7 +596,7 @@ msgstr "دانلودهای APK"
 
 msgctxt "[\"FOOTER-APK_DOWNLOAD\"]"
 msgid "APK Downloader (Region free)"
-msgstr "دانلودکننده APK (بدون قفل منطقه‌ای)"
+msgstr "دانلودکننده APK (منطقه آزاد)"
 
 msgctxt "[\"FOOTER-APK_INSTALL\"]"
 msgid "APK Install"
@@ -644,11 +644,11 @@ msgstr "نسخه دسکتاپ"
 
 msgctxt "[\"FOOTER-MOBILE_VERSION\"]"
 msgid "Mobile Version"
-msgstr "نسخه موبایل"
+msgstr "نسخه تلفن همراه هوشمند"
 
 msgctxt "[\"FOOTER-MOBILE_SITE\"]"
 msgid "Mobile Site"
-msgstr "وب‌سایت برای موبایل"
+msgstr "وب‌سایت برای تلفن همراه"
 
 msgctxt "[\"FOOTER-CONTACT_US\"]"
 msgid "Contact Us"
@@ -707,8 +707,8 @@ msgstr ""
 msgctxt "[\"MARKET-INDEX_SHORT_DES_TITLE\"]"
 msgid "Try APKPure Mobile app, to install, manage and update your Android apps."
 msgstr ""
-"برنامه موبایلی APKPure را امتحان کنید، برای نصب، مدیریت و به‌روزرسانی برنامه‌"
-"های اندرویدتان."
+"برنامه تلفن همراه  APKPure را امتحان کنید، برای نصب، مدیریت و به‌روزرسانی "
+"برنامه‌های اندرویدتان."
 
 msgctxt "[\"MARKET-DETAIL_APK_SHORT_DES\"]"
 msgid "Faster apks download and update on APKPure App"
@@ -728,7 +728,7 @@ msgstr "نصب و به‌روزرسانی XAPK با برنامه APKPure"
 
 msgctxt "[\"MARKET-DETAIL_XAPK_SHORT_DES_MOBILE\"]"
 msgid "Click to get XAPK Installer"
-msgstr "برای گرفتن نصب‌کننده XAPK کلیک کنید"
+msgstr "کلیک کن تا سریع این بگیری XAPK"
 
 msgctxt "[\"MARKET-DETAIL_XAPK_SHORT_DES_TITLE\"]"
 msgid "Install and update XAPK with APKPure App"
@@ -809,7 +809,7 @@ msgstr "آفریقا"
 
 msgctxt "[\"FLAG-Americas\"]"
 msgid "Americas"
-msgstr "آمریکا"
+msgstr "امریکایی"
 
 msgctxt "[\"FLAG-Asia\"]"
 msgid "Asia"
@@ -829,7 +829,7 @@ msgstr "سایر نقاط دنیا"
 
 msgctxt "[\"ERROR-OOPS\"]"
 msgid "OOPS!,"
-msgstr "اوخ!،"
+msgstr "اوپس!،"
 
 msgctxt "[\"ERROR-SUBTITLE\"]"
 msgid "You can visit the following Games and Apps instead"
@@ -837,36 +837,33 @@ msgstr "شما می‌توانید به‌جای آن از بازی‌ها و ب
 
 msgctxt "[\"error\"][\"DOWN-ItemNotFree\"]"
 msgid "Sorry, paid apps are not available to download with our APK Download Service."
-msgstr ""
-"متاسفیم، برنامه‌های خریدنی با سرویس دانلودکننده APK ما قابل دریافت نمی‌باشد."
+msgstr "متاسفیم، برنامه های خریدنی در دسترس نیستند ."
 
 msgctxt "[\"error\"][\"DOWN-ItemNotFound\"]"
 msgid "Sorry, download failed, the APK cannot be found."
-msgstr "متاسفیم، دانلود نشد، APK پیدا نشد."
+msgstr "متاسفیم، دانلود نشد، APK نمی تواند پیدا کند."
 
 msgctxt "[\"error\"][\"DOWN-LimitedRegion\"]"
 msgid "Oops! Change your region and try download again."
-msgstr "اوخ! منطقه خود را عوض کرده و دوباره برای دانلود تلاش کنید."
+msgstr "اوپس! منطقه خود را عوض کرده و دوباره برای دانلود تلاش کنید."
 
 msgctxt "[\"error\"][\"DOWN-LimitedDevice\"]"
 msgid "Sorry, download failed, the APK does not support our device."
-msgstr "متاسفیم، دانلود نشد، APK دستگاه ما را پشتیبانی نمی‌کند."
+msgstr "متاسفیم، دانلود نشد، APK دستگاه شما را پشتیبانی نمی کند."
 
 msgctxt "[\"error\"][\"DOWN-UnknownError\"]"
 msgid "Download failed because of an unknown error. We will fix this problem soon."
 msgstr ""
-"دانلود نشد زیرا خطایی ناشناخته رخ داده است. ما به‌زودی این مشکل را برطرف "
-"می‌کنیم."
+"دانلود نشد این خطا را نمی شناسیم . ما به‌زودی این مشکل را برطرف می‌کنیم."
 
 msgctxt "[\"error\"][\"DOWN-LimitedCarrier\"]"
 msgid "Download failed because of an unknown error. We will fix this problem soon."
 msgstr ""
-"دانلود نشد زیرا خطایی ناشناخته رخ داده است. ما به‌زودی این مشکل را برطرف "
-"می‌کنیم."
+"دانلود نشد این خطا را نمی شناسیم . ما به‌زودی این مشکل را برطرف می‌کنیم."
 
 msgctxt "[\"error\"][\"DOWN-PreRegister\"]"
 msgid "It's a Pre-registration App, you can't download."
-msgstr "این برنامه در مرحله پیش-ثبت‌نام است، شما نمی‌توانید آن‌را دانلود کنید."
+msgstr "این برنامه پیش-ثبت‌نام است، شما نمی‌توانید آن‌را دانلود کنید."
 
 msgctxt "[\"error\"][\"DOWN-RunOutOfDevice\"]"
 msgid "Download failed, please try again in 5 minutes."
@@ -918,11 +915,11 @@ msgstr "اسکرین‌شات apk {0}"
 
 msgctxt "[\"tip\"][\"CATEGORY_GAME\"]"
 msgid "Download more {0} games"
-msgstr "دانلود بیشتر {0} بازی"
+msgstr "دانلود موارد دیگر {0} بازی"
 
 msgctxt "[\"tip\"][\"CATEGORY_APP\"]"
 msgid "Download more {0} apps"
-msgstr "دانلود بیشتر {0} برنامه"
+msgstr "دانلود موارد دیگر{0} برنامه"
 
 msgctxt "[\"tip\"][\"GET_IT_ON_GOOGLE_PLAY\"]"
 msgid "Get {0} on Google Play"
@@ -1302,7 +1299,7 @@ msgstr "XAPK (apk همراه با فایل obb) {0}.apk برای دانلود ا
 msgctxt "[\"meta\"][\"Category_xapk\"][\"keywords\"]"
 msgid "xapk {0}, {0} xapk, xapk {0} download, download apk obb, apk with obb data, android"
 msgstr ""
-"xapk {0}, {0} xapk, xapk {0} دانلود, دانلود obb apk, apk همراه با فایل obb, "
+"{xapk {0}, {0} xapk, xapk {0 دانلود, دانلود obb apk, apk همراه با فایل obb, "
 "اندروید"
 
 msgctxt "[\"meta\"][\"Category_xapk\"][\"description\"]"
@@ -1665,8 +1662,8 @@ msgstr ""
 msgctxt "[\"404-DES\"]"
 msgid "It seems that page you are looking for no longer exists.<br />You can explore more Android Games and Apps below!"
 msgstr ""
-"به‌نظر می‌رسد صفحه‌ای که مشاهده می‌کنید دیگر وجود ندارد.<br />‌می‌توانید "
-"بازی‌ها و برنامه‌های بیشتر را در زیر بیابید!"
+"این صفحه دیگه وجود ندارد.<br />‌می‌توانید بازی‌ها و برنامه‌های بیشتر را در "
+"زیر بیابید!"
 
 msgctxt "[\"FOOTER-COOPERATION\"]"
 msgid "Business Cooperation"
@@ -1787,7 +1784,7 @@ msgstr "گزارش"
 
 msgctxt "[\"COMMENT-POST\"]"
 msgid "Post"
-msgstr "ارسال"
+msgstr "پست"
 
 msgctxt "[\"COMMENT-COMMENTS\"]"
 msgid "Comments"
@@ -1863,7 +1860,7 @@ msgstr "یا ارسال به عنوان مهمان"
 
 msgctxt "[\"COMMENT-LOGOUT\"]"
 msgid "Logout"
-msgstr "خروج"
+msgstr "خارج شدن"
 
 msgctxt "[\"COMMENT-WEBSITE\"]"
 msgid "Website"
@@ -1883,7 +1880,7 @@ msgstr "خطای ورود سریع، لطفا دوباره امتحان کنید
 
 msgctxt "[\"js\"][\"COMMENT-ARE_YOU_SURE\"]"
 msgid "Are you sure?"
-msgstr "آیا شما مطمئن هستید؟"
+msgstr "آیا شما مطمئنی؟"
 
 msgctxt "[\"js\"][\"COMMENT-DELETED\"]"
 msgid "Deleted!"
@@ -1903,7 +1900,7 @@ msgstr "نظر دادن ممنوع می‌باشد"
 
 msgctxt "[\"COMMENT-ERR_FAILURE\"]"
 msgid "Comment unknown"
-msgstr "نظر ناشناخته است"
+msgstr "نظری که گفتی نمی شناسیم"
 
 msgctxt "[\"COMMENT-ERR_INVALID_PARAMETER\"]"
 msgid "Invalid comment parameter"
@@ -1923,19 +1920,19 @@ msgstr "حذف"
 
 msgctxt "[\"COMMENT-ARE_YOU_SURE\"]"
 msgid "Are you sure?"
-msgstr "آیا شما مطمئن هستید؟"
+msgstr "آیا شما مطمئنی؟"
 
 msgctxt "[\"USER-UNKNOWN_ERROR\"]"
 msgid "unknown mistake."
-msgstr "اشتباه ناشناخته."
+msgstr "اشتباه نمیشناسم."
 
 msgctxt "[\"USER-FEMALE\"]"
 msgid "Female"
-msgstr "خانم"
+msgstr "زن"
 
 msgctxt "[\"USER-MALE\"]"
 msgid "Male"
-msgstr "آقا"
+msgstr "مرد"
 
 msgctxt "[\"COPYRIGHT_MOBILE\"]"
 msgid "APKPure.com © 2014-2017"
@@ -1955,31 +1952,31 @@ msgstr "نظر شما حاوی لینک می‌‌باشد پس از تایید 
 
 msgctxt "[\"USER-ACCOUNT_EXIST\"]"
 msgid "The username is already in use."
-msgstr "این نام کاربری در حال حاضر در حال استفاده است."
+msgstr "این نام کاربری الانشم داره استفاده می شود."
 
 msgctxt "[\"USER-ACCOUNT_NOT_EXIST\"]"
 msgid "The account you entered does not exist."
-msgstr "این حساب کاربری وجود ندارد."
+msgstr "این اکانتی که وارد کردی وجود ندارد."
 
 msgctxt "[\"USER-DISPLAY_NAME_EXIST\"]"
 msgid "The nickname is already in use."
-msgstr "این نام مستعار در حال حاضر در حال استفاده است."
+msgstr "نام مستعار داره استفاده می شود."
 
 msgctxt "[\"USER-INCORRECT_EMAIL\"]"
 msgid "The e-mail address you entered is invalid."
-msgstr "آدرس ایمیلی که وارد کرده‌اید نامعتبر می‌باشد."
+msgstr "آدرس ایمیلی که شما وارد کردی اعتبار ندارد."
 
 msgctxt "[\"USER-INCORRECT_PASSWORD\"]"
 msgid "The password you entered is invalid."
-msgstr "رمز عبور وارد شده نامعتبر است."
+msgstr "رمز عبور شما معتبر نیست ."
 
 msgctxt "[\"USER-INCORRECT_ACCOUNT\"]"
 msgid "The username you entered is invalid."
-msgstr "نام کاربری وارد شده اشتباه است."
+msgstr "نام کاربری اشتباه وارد کردید."
 
 msgctxt "[\"USER-BAD_NAME\"]"
 msgid "Your input includes sensitive vocabulary."
-msgstr "ورودی شما شامل واژگان حساس است، یک کلمه دیگر وارد کنید."
+msgstr "کلماتی که داری وارد می کنی حساسم بهشون."
 
 msgctxt "[\"COPYRIGHT\"]"
 msgid "Copyright © 2014-2017 APKPure. All rights reserved."
@@ -2006,7 +2003,7 @@ msgstr ""
 
 msgctxt "[\"COMMENT-ERR_SENSITIVE_WORD\"]"
 msgid "Defeat,your post contains sensitive terms"
-msgstr "ارسال نشد، نظر شما شامل اصطلاحات حساس می‌باشد"
+msgstr "شکست خورد، نظر شما شامل اصطلاحات حساس می‌باشد"
 
 msgctxt "[\"COMMENT-ERR_SENSITIVE_WORD_AUDIT\"]"
 msgid "Your post contains sensitive terms and is pending approval by an admin"
@@ -2052,7 +2049,7 @@ msgstr "آدرس ویدیو نامعتبر است"
 
 msgctxt "[\"COMMENT-LOADING\"]"
 msgid "Comment Loading..."
-msgstr "نظر در حال بارگیری..."
+msgstr "بارگیری نظر..."
 
 msgctxt "[\"USER-USER_LOGIN\"]"
 msgid "User Login"
@@ -2064,11 +2061,11 @@ msgstr "نام‌کاربری"
 
 msgctxt "[\"USER-PASSWORD\"]"
 msgid "Password"
-msgstr "رمز عبور"
+msgstr "گذرواژه"
 
 msgctxt "[\"USER-NEW_USER_REGISTRATION\"]"
 msgid "New User Registration"
-msgstr "ثبت‌نام کاربر جدید"
+msgstr "ثبت نام کاربر جدید"
 
 msgctxt "[\"USER-SIGN_IN_BTN\"]"
 msgid "SIGN IN"
@@ -2102,7 +2099,7 @@ msgstr ""
 
 msgctxt "[\"js\"][\"USER-PASSWORD_NOT_MATCH\"]"
 msgid "Passwords do not match"
-msgstr "رمزهای عبور با هم مطابقت ندارند"
+msgstr "پسوردها با هم نمی خوانند"
 
 msgctxt "[\"js\"][\"USER-PASSWORD_MUST\"]"
 msgid "Password must be 6-32 characters long"
@@ -2120,7 +2117,7 @@ msgstr "نام کاربری که وارد کردید نامعتبر است."
 
 msgctxt "[\"js\"][\"USER-INCORRECT_PASSWORD\"]"
 msgid "The password you entered is invalid."
-msgstr "رمز عبور که وارد کردید نامعتبر است."
+msgstr "رمز عبور شما معتبر نیست ."
 
 msgctxt "[\"js\"][\"COMMENT-VOTE\"]"
 msgid "Vote"
@@ -2259,7 +2256,7 @@ msgstr "پاسخ‌ها"
 msgctxt "[\"DETAIL-DELETED_COPYRIGHT_GOOGLE_PLAY_DES\"]"
 msgid "{app_name} All rights reserved ©2018 {developer}. {developer} and the {developer} logo are trademarks of {developer} in the U.S. and/or other countries.All other trademarks are the property of their respective owners."
 msgstr ""
-"کلیه حقوق {app_name} برای {developer} محفوظ است ©2017.  {developer} و "
+"کلیه حقوق {app_name} برای {developer} محفوظ است ©2018.  {developer} و "
 "{developer} نشان تجاری مربوط به {developer} در ایالات متحده و یا کشور‌های "
 "دیگر. تمامی نشان‌های تجاری دارای صاحبان مربوطه می‌باشند"
 
@@ -2274,3 +2271,530 @@ msgstr "بحث ها"
 msgctxt "[\"COMMENT-ALL_DISCUSSIONS\"]"
 msgid "See all discussions"
 msgstr "دیدن تمام بحث ها"
+
+msgctxt "[\"DEV-INCORRECT_PKG_EMAIL\"]"
+msgid "Invalid package name or email"
+msgstr "ایمیل اعتبار ندارد"
+
+msgctxt "[\"DEV-SEND_EMAIL_ERR\"]"
+msgid "Failed to send mail"
+msgstr "ایمیل ارسال نشد"
+
+msgctxt "[\"DEV-PKG_EXISTS\"]"
+msgid "Application has been claimed"
+msgstr "درخواست ادعا شده است"
+
+msgctxt "[\"DETAIL\"]"
+msgid "Detail"
+msgstr "جزئیات"
+
+msgctxt "[\"DETAIL-HOT_TAGS\"]"
+msgid "{0} Tags"
+msgstr "{0} برچسب"
+
+msgctxt "[\"COMMENT-REVIEW_OTHER_LANG\"]"
+msgid "There are {0} reviews in other languages"
+msgstr "{0} بررسی در زبانهای دیگر وجود دارد"
+
+msgctxt "[\"COMMENT-SEE_ALL_DISCUSSIONS\"]"
+msgid "See all {0} discussions"
+msgstr "تمام بحث {0} را ببینید"
+
+msgctxt "[\"COMMENT-JOIN_IN_GROUP\"]"
+msgid "Join {0} group"
+msgstr "به {0} گروه بپیوندید"
+
+msgctxt "[\"COMMENT-JOIN_GROUP\"]"
+msgid "Join Group"
+msgstr "به گروه بپیوندید"
+
+msgctxt "[\"COMMENT-GROUP\"]"
+msgid "Group"
+msgstr "گروه"
+
+msgctxt "[\"COMMENT-TITLE_POST\"]"
+msgid "Post"
+msgstr "پست"
+
+msgctxt "[\"COMMENT-ADD\"]"
+msgid "Add Comment"
+msgstr "یک پوشش اضافه کنید"
+
+msgctxt "[\"COMMENT-ALL-REPLY\"]"
+msgid "All {0} replies"
+msgstr "تمام {0} پاسخها"
+
+msgctxt "[\"COMMENT-VIEWS\"]"
+msgid "Views"
+msgstr "نمایش ها"
+
+msgctxt "[\"COMMENT-REVIEW_OR_POST\"]"
+msgid "Post review or comment"
+msgstr "ارسال نظر یا نظر"
+
+msgctxt "[\"COMMENT-SORT_BY_BEST_LONG\"]"
+msgid "Sort by best"
+msgstr "مرتب سازی بر اساس بهترین"
+
+msgctxt "[\"COMMENT-SORT_BY_MOST_SCORE\"]"
+msgid "Top rated"
+msgstr "رای بالاتر"
+
+msgctxt "[\"COMMENT-TO_BE_FIRST\"]"
+msgid "Ooops! No such content!"
+msgstr "وای! چنین محتوا وجود ندارد"
+
+msgctxt "[\"COMMENT-ERR_EMOJI\"]"
+msgid "Emoji comments are not allowed any more! Write something..."
+msgstr "نظرات Emoji اجازه داده نشده است بیشتر! چیزی بنویسید..."
+
+msgctxt "[\"COMMENT-ERR_NONE_MESSAGE\"]"
+msgid "You must write something!"
+msgstr "شما باید چیزی بنویسید!"
+
+msgctxt "[\"COMMENT-ERR_INVALID_USER\"]"
+msgid "You're banned from APKPure by using or posting content containing nudity images. Please edit or remove the images before contacting Admin to restore your account."
+msgstr ""
+"شما با استفاده یا ارسال محتویات حاوی عکس برهنگی از APKPure ممنوع شده اید. "
+"قبل از تماس با Admin برای ویرایش حساب خود، تصاویر را ویرایش یا حذف کنید."
+
+msgctxt "[\"COMMENT-DOWNLOAD_APK\"]"
+msgid "Download the APK file on APKPure."
+msgstr "دانلود برنامه از ما."
+
+msgctxt "[\"COMMENT-ERR_SHARE_APK_DENY\"]"
+msgid "This APP cannot be uploaded"
+msgstr "این برنامه نمی تواند آپلود شود"
+
+msgctxt "[\"COMMENT-LINK\"]"
+msgid "Link"
+msgstr "لینک"
+
+msgctxt "[\"PRE-REGISTER\"]"
+msgid "Pre-Registration Games"
+msgstr "پیش ثبت نام بازی"
+
+msgctxt "[\"PRE-REGISTRANTS\"]"
+msgid "Pre-Registrants"
+msgstr "پیش ثبت نام"
+
+msgctxt "[\"PRE-REGISTER_DETAILS\"]"
+msgid "Pre-Register Details"
+msgstr "پیش ثبت نام درباره موضوع"
+
+msgctxt "[\"PRE-REGISTER_DATE\"]"
+msgid "Release Date"
+msgstr "زمان انتشار"
+
+msgctxt "[\"PRE-REGISTER_REWARDS\"]"
+msgid "Register Rewards"
+msgstr "ثبت نام جایزه"
+
+msgctxt "[\"PRE-REGISTER_PAGE\"]"
+msgid "Pre-Register Page"
+msgstr "صفحه پیش ثبت نام"
+
+msgctxt "[\"USER-FOLLOWING\"]"
+msgid "Following"
+msgstr "دنبال"
+
+msgctxt "[\"USER-FOLLOWER\"]"
+msgid "Followers"
+msgstr "دنباله ها"
+
+msgctxt "[\"USER-LIKES\"]"
+msgid "Likes"
+msgstr "خوشم امد"
+
+msgctxt "[\"USER-POSTS\"]"
+msgid "Posts"
+msgstr "پست ها"
+
+msgctxt "[\"USER-REVIEWS\"]"
+msgid "Reviews"
+msgstr "نظرات"
+
+msgctxt "[\"USER-REVIEWS_NONE\"]"
+msgid "Too few users ratings"
+msgstr "امتیازات کاربر بیش از حد کم است"
+
+msgctxt "[\"USER-FAVORITES\"]"
+msgid "Favorites"
+msgstr "علاقه"
+
+msgctxt "[\"USER-REPLIES\"]"
+msgid "Replies"
+msgstr "پاسخ‌ها"
+
+msgctxt "[\"USER-PROFILE\"]"
+msgid "Profile"
+msgstr "پروفایل"
+
+msgctxt "[\"USER-CHANGE_PASSWORD\"]"
+msgid "Change Password"
+msgstr "تغییر پسورد"
+
+msgctxt "[\"USER-MESSAGES\"]"
+msgid "Messages"
+msgstr "پیام‌ها"
+
+msgctxt "[\"USER-COMMENTS\"]"
+msgid "Comments"
+msgstr "نظرات"
+
+msgctxt "[\"USER-MY_FAVORITE\"]"
+msgid "My Favorite"
+msgstr "علاقه مندی های من"
+
+msgctxt "[\"USER-LIKED_COMMENTS\"]"
+msgid "Liked Comments"
+msgstr "از نظر خوشم آمد"
+
+msgctxt "[\"USER-NEW_PASSWORD\"]"
+msgid "New password"
+msgstr "پسورد جدید"
+
+msgctxt "[\"USER-CURRENT_PASSWORD\"]"
+msgid "Current password"
+msgstr "پسورد فعلی"
+
+msgctxt "[\"USER-INCORRECT_BIRTHDAY\"]"
+msgid "You have entered an invalid birthday."
+msgstr "تاریخ تولدی که وارد کردی بی اعتباره."
+
+msgctxt "[\"USER-INCORRECT_INTRO\"]"
+msgid "Information you have entered contains invalid characters."
+msgstr "اطلاعاتی که وارد کرده اید حاوی نویسه های نامعتبر است."
+
+msgctxt "[\"USER-SOCIAL_ALREADY_BIND\"]"
+msgid "This third-party account has been connected to another account."
+msgstr "این اکانت شخص ثالث می تواند به اکانت های دیگر وصل شود."
+
+msgctxt "[\"USER-EMAIL_EXIST\"]"
+msgid "This email has been connected to another account."
+msgstr "این ایمیل به بقیه اکانت ها وصل می شود."
+
+msgctxt "[\"USER-SEND_EMAIL_ERR\"]"
+msgid "Failed to send verification code."
+msgstr "نتونستم کد تشخیص بفرستم."
+
+msgctxt "[\"USER-EMAIL_UNBOUND\"]"
+msgid "This email address is not connected to any account."
+msgstr "این ایمیل وصل نشد به بقیه اکانت ها."
+
+msgctxt "[\"USER-CAPTCHA_TIME_OUT\"]"
+msgid "Verification Code Timeout."
+msgstr "زمان تشخیص کد تمام شد."
+
+msgctxt "[\"USER-INCORRECT_CAPTCHA\"]"
+msgid "Incorrect Verification Code"
+msgstr "کد تشخیص اشتباه است."
+
+msgctxt "[\"USER-SEND_VERIFICATION_CODE\"]"
+msgid "Send verification code"
+msgstr "ارسال کد تشخیص"
+
+msgctxt "[\"USER-CONNECT_YOUR_EMAIL\"]"
+msgid "Connect your email"
+msgstr "وصل شد به ایمیلتون"
+
+msgctxt "[\"USER-CHANGE_EMAIL\"]"
+msgid "Change email"
+msgstr "تعویض ایمیل"
+
+msgctxt "[\"USER-CONNECT_YOUR_EMAIL_FIRST\"]"
+msgid "Please connect your email first"
+msgstr "لطفا اول ایمیل  وصل کنید."
+
+msgctxt "[\"USER-NICKNAME\"]"
+msgid "Nickname"
+msgstr "نام مستعار"
+
+msgctxt "[\"USER-BIRTHDAY\"]"
+msgid "Birthday"
+msgstr "تاریخ تولد"
+
+msgctxt "[\"USER-GENDER\"]"
+msgid "Gender"
+msgstr "جنسیت"
+
+msgctxt "[\"USER-SAVE\"]"
+msgid "Save"
+msgstr "ذخیره"
+
+msgctxt "[\"USER-SAVING\"]"
+msgid "Saving..."
+msgstr "در حال ذخیره کردن"
+
+msgctxt "[\"USER-MY_PICTURE\"]"
+msgid "My Picture"
+msgstr "عکس من"
+
+msgctxt "[\"USER-CHANGE_PICTURE\"]"
+msgid "Change Picture"
+msgstr "تعویض عکس"
+
+msgctxt "[\"SEARCH-ON_THE_APP_STORE\"]"
+msgid "{0} On the App Store"
+msgstr "{0} در فروشگاه App"
+
+msgctxt "[\"SEARCH-TRENDING\"]"
+msgid "trending searches"
+msgstr "جستجوهای تکراری"
+
+msgctxt "[\"PRE-REG-NEW\"]"
+msgid "Newest"
+msgstr "جدیدترین"
+
+msgctxt "[\"PRE-REG-BEST\"]"
+msgid "Best"
+msgstr "بهترین"
+
+msgctxt "[\"PRE-REG-RECOMMEND\"]"
+msgid "Recommendations"
+msgstr "توصیه‌ها"
+
+msgctxt "[\"COPYRIGHT\"]"
+msgid "Copyright © 2014-2018 APKPure All rights reserved."
+msgstr "قانون کپی سال 2018-2014 این قانون برای APKPure همه حقوق محفوظ است."
+
+msgctxt "[\"COPYRIGHT_MOBILE\"]"
+msgid "APKPure.com © 2014-2018"
+msgstr "APKPure.com © 2014-2018"
+
+msgctxt "[\"FOOTER-DEVELOPER_CONSOLE\"]"
+msgid "Developer Console"
+msgstr "کنسول برنامه نویس"
+
+msgctxt "[\"MARKET-PAGE_TOP_GAMES\"]"
+msgid "Top Games"
+msgstr "برترین بازی ها"
+
+msgctxt "[\"MARKET-PAGE_TOP_APPS\"]"
+msgid "Top Apps"
+msgstr "برنامه‌های برتر"
+
+msgctxt "[\"MARKET-PAGE_TOP_DEVELOPERS\"]"
+msgid "Top Developers"
+msgstr "توسعه دهندگان برتر"
+
+msgctxt "[\"MARKET-PAGE_TOP_COUNTRIES\"]"
+msgid "Top Countries"
+msgstr "بهتزین کشورها"
+
+msgctxt "[\"MARKET-POP_TITLE\"]"
+msgid "APKPure AppStore App"
+msgstr "فروشگاه برنامه های APKPure"
+
+msgctxt "[\"MARKET-POP_CHANGE_TITLE\"]"
+msgid "Change Profile Settings"
+msgstr "تغییر تنظیمات پروفایل"
+
+msgctxt "[\"MARKET-POP_ADD_IMAGE\"]"
+msgid "Add Images To Post"
+msgstr "اضافه کردن عکس به پست"
+
+msgctxt "[\"MARKET-POP_ADD_NEW_POST\"]"
+msgid "Add New Post or Comment"
+msgstr "اضافه کردن پست جدید به نظرها"
+
+msgctxt "[\"MARKET-POP_ADD_TAG\"]"
+msgid "Add Tags"
+msgstr "اضافه کردن برچسبها"
+
+msgctxt "[\"MARKET-PROMOTION_BANNER_DOWN\"]"
+msgid "<p class=\"tit\">Using APKPure App</p><p class=\"des\">Download / Update this {0}, faster, free and saving data!</p>"
+msgstr ""
+"<p class = \"tit\"> 1 با استفاده از برنامه APKPure </ p> 2 <p class = \"des\""
+"> 3 دانلود / به روز رسانی این {0}، سریعتر، رایگان و ذخیره اطلاعات </ p>"
+
+msgctxt "[\"RECOMMENDED-POSTS\"]"
+msgid "Recommended Posts"
+msgstr "پست های توصیه شده"
+
+msgctxt "[\"USERS-RECOMMENDED\"]"
+msgid "Users' Recommendations"
+msgstr "توصیه های کاربران"
+
+msgctxt "[\"REVIEW_PRIVACY_POLICY_DES_M\"]"
+msgid "We encourage you to read our updated <a target='_blank' href='{pp}'>Privacy Policy</a> and <a target='_blank' href='{cp}'>Cookies Policy</a>."
+msgstr ""
+"ما شما را تشویق می کنیم به روز رسانی شده خود را بخوانید<a target='_blank' "
+"href='{pp}'>1Privacy Policy</a>2 and <a target='_blank' href='{cp}'>3Cookies "
+"Policy</a>"
+
+msgctxt "[\"REVIEW_PRIVACY_POLICY_DES\"]"
+msgid "We use cookies and other technologies on this website to enhance your user experience.<br> By clicking any link on this page you are giving your consent to our <a target='_blank' href='{pp}'>Privacy Policy</a> and <a target='_blank' href='{cp}'>Cookies Policy</a>."
+msgstr ""
+"ما از کوکی ها و سایر تکنولوژی ها در این وبسایت برای بهبود تجربه کاربر خود "
+"استفاده می کنیم. <br> با کلیک بر روی هر لینک در این صفحه، شما رضایت خود را "
+"به ما می دهید<a target='_blank' href='{pp}'>Privacy Policy</a> and <a target="
+"'_blank' href='{cp}'>Cookies Policy</a>"
+
+msgctxt "[\"REVIEW_PRIVACY_POLICY_BTN\"]"
+msgid "Ok I Agree"
+msgstr "خب .من موافقم"
+
+msgctxt "[\"REVIEW_PRIVACY_POLICY_MORE\"]"
+msgid "Learn More"
+msgstr "درباره چیزهای دیگر"
+
+msgctxt "[\"MARKET-TOP_COUNTRY\"][\"en-US\"]"
+msgid "USA"
+msgstr "امریکا"
+
+msgctxt "[\"MARKET-TOP_COUNTRY\"][\"ja\"]"
+msgid "Japan"
+msgstr "ژاپن"
+
+msgctxt "[\"MARKET-TOP_COUNTRY\"][\"zh-CN\"]"
+msgid "China"
+msgstr "چین"
+
+msgctxt "[\"MARKET-TOP_COUNTRY\"][\"ko-KR\"]"
+msgid "Korea"
+msgstr "کره"
+
+msgctxt "[\"MARKET-TOP_COUNTRY\"][\"id-ID\"]"
+msgid "Indonesia"
+msgstr "اندونزی"
+
+msgctxt "[\"MARKET-TOP_COUNTRY\"][\"pt-BR\"]"
+msgid "Brazil"
+msgstr "برزیل"
+
+msgctxt "[\"js\"][\"LANG_TIP\"][\"pl\"]"
+msgid "Czy chcesz zmienić język preferencji na <strong> Polski </strong>?"
+msgstr "Czy chcesz zmienić język preferencji na <strong>1 Polski </strong>2?"
+
+msgctxt "[\"js\"][\"LANG_IGNORE\"][\"vn\"]"
+msgid "OK"
+msgstr "خب"
+
+msgctxt "[\"js\"][\"LANG_OK\"][\"pl\"]"
+msgid "ok"
+msgstr "خب"
+
+msgctxt "[\"js\"][\"LANG_OK\"][\"ru\"]"
+msgid "ОК"
+msgstr "خب"
+
+msgctxt "[\"js\"][\"LANG_OK\"][\"it\"]"
+msgid "ok"
+msgstr "خب"
+
+msgctxt "[\"js\"][\"LANG_OK\"][\"de\"]"
+msgid "OK"
+msgstr "خب"
+
+msgctxt "[\"js\"][\"LANG_OK\"][\"vn\"]"
+msgid "OK"
+msgstr "خب"
+
+msgctxt "[\"js\"][\"LANG_OK\"][\"nl\"]"
+msgid "OK"
+msgstr "خب"
+
+msgctxt "[\"js\"][\"YOUTUBE_URL\"]"
+msgid "Enter Youtube video URL"
+msgstr "URL ویدیو یوتیوب را وارد کنید"
+
+msgctxt "[\"js\"][\"YOUTUBE_URL_ERR\"]"
+msgid "Invalid URL: Please enter a valid YouTube video URL"
+msgstr "نشانی اینترنتی نامعتبر: لطفا یک URL ویدیو معتبر YouTube را وارد کنید"
+
+msgctxt "[\"js\"][\"USER-SAVED_SUCCESS\"]"
+msgid "Saved Successfully"
+msgstr "با موفقیت ذخیره شد"
+
+msgctxt "[\"js\"][\"USER-RESEND_VERIFICATION\"]"
+msgid "Resend verification code"
+msgstr "دوباره تأیید کد را ارسال کنی"
+
+msgctxt "[\"js\"][\"USER-RESEND_IN\"]"
+msgid "Resend in {0}"
+msgstr "در {0} دوباره ارسال کنید"
+
+msgctxt "[\"js\"][\"COMMENT-RATE_MUST\"]"
+msgid "Before writing a review or something, please rate the app first."
+msgstr "قبل از نوشتن یک بررسی یا چیزی، لطفا ابتدا برنامه را ارزیابی کنید"
+
+msgctxt "[\"meta\"][\"Versions\"][\"description\"]"
+msgid "Download {app_short_name} old versions Android APK or update to {app_short_name} latest version. Review {app_short_name} release date, changelog and more."
+msgstr ""
+"{app_short_name} نسخههای قدیمی Android APK را دانلود کنید یا به آخرین نسخه "
+"{app_short_name} بهروزرسانی کنید. {app_short_name} تاریخ انتشار، تغییرات و "
+"موارد دیگر را مرور کنید."
+
+msgctxt "[\"meta\"][\"Details_download_new\"][\"keywords\"]"
+msgid "{app_short_name}, android, apk, download, {app_short_name} android, {app_short_name} download"
+msgstr ""
+"{app_short_name}, android, apk, download, {app_short_name} android, "
+"{app_short_name} download"
+
+msgctxt "[\"meta\"][\"Category_featured_editors-picks\"][\"description\"]"
+msgid "Play with millions of free apps in APKPure style on Android phones, tablets, TV ,etc. Download the best must have android games you should play 2018."
+msgstr ""
+"بازی با میلیون ها برنامه رایگان در سبک APKPure در گوشی های آندروید، قرص، "
+"تلویزیون، و غیره. دانلود بهترین بازی های آندروید شما باید بازی 2018 را داشته "
+"باشد."
+
+msgctxt "[\"meta\"][\"Tag\"][\"title\"]"
+msgid "{0} Android Games & Apps on APKPure App Store"
+msgstr "{0} بازی های آندروید و APKPure فروشگاه App"
+
+msgctxt "[\"meta\"][\"Tag\"][\"description\"]"
+msgid "Browse and download top {0} games and apps for android mobile, tablets and more"
+msgstr ""
+"مرور و دانلود بالا {0} بازی ها و برنامه های کاربردی برای تلفن همراه آندروید، "
+"قرص و غیره"
+
+msgctxt "[\"meta\"][\"Search_hot\"][\"description\"]"
+msgid "Discover Android games free download on APKPure Android App Store."
+msgstr "بازی های آندروید را در APKPure Android App Store ببینید."
+
+msgctxt "[\"meta\"][\"Login\"][\"title\"]"
+msgid "Sign in account for APKPure Android App Store"
+msgstr "حساب کاربری APKPure Android App Store را وارد کنید"
+
+msgctxt "[\"meta\"][\"Login\"][\"keywords\"]"
+msgid "login, new member, account, registration"
+msgstr "ورود، عضو جدید، حساب کاربری، ثبت نام"
+
+msgctxt "[\"meta\"][\"Login\"][\"description\"]"
+msgid "To join community group or vote on APKPure App Store, you must be registered. Register your APKPure account today!"
+msgstr ""
+"برای پیوستن به گروه اجتماعی یا رای دادن در APKPure App Store، باید ثبت نام "
+"کنید. حساب کاربری APKPure خود را امروز ثبت کنید!"
+
+msgctxt "[\"meta\"][\"Password\"][\"title\"]"
+msgid "Change Password"
+msgstr "تغییر پسورد"
+
+msgctxt "[\"meta\"][\"Password\"][\"description\"]"
+msgid "Change or reset my password."
+msgstr "تغییر یا تنظیم مجددرمز عبور من"
+
+msgctxt "[\"meta\"][\"Email\"][\"title\"]"
+msgid "Verify Your Email Address | APKPure"
+msgstr "تأیید آدرس ایمیل شما | APKPure"
+
+msgctxt "[\"meta\"][\"Email\"][\"description\"]"
+msgid "Before posting on APKPure, you need to verify email address associated with your account. Use the verification code in confirmation email to unlock more features."
+msgstr ""
+"قبل از ارسال در APKPure، شما باید آدرس ایمیل مرتبط با حساب خود را تأیید "
+"کنید. برای باز کردن ویژگی های بیشتر از کد تأیید در ایمیل تایید استفاده کنید."
+
+msgctxt "[\"meta\"][\"Register\"][\"title\"]"
+msgid "Register account for APKPure Android App Store"
+msgstr "ثبت نام برای APKPure فروشگاه App Android"
+
+msgctxt "[\"meta\"][\"Register\"][\"keywords\"]"
+msgid "register, new member, account, registration"
+msgstr "ثبت نام، عضو جدید، حساب کاربری، ثبت نام"
+
+msgctxt "[\"meta\"][\"Register\"][\"description\"]"
+msgid "To join community group or vote on APKPure App Store, you must be registered. Register your APKPure account today!"
+msgstr ""
+"برای پیوستن به گروه اجتماعی یا رای دادن در APKPure App Store، باید ثبت نام "
+"کنید. حساب کاربری APKPure خود را امروز ثبت کنید!"

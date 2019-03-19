@@ -3,56 +3,55 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-11-01 18:34+0000\n"
-"PO-Revision-Date: 2018-03-26 00:46+0000\n"
-"Last-Translator: zhishaochen <3088179703@qq.com>\n"
-"Language-Team: Bengali (Bangladesh) "
-"<https://translate.apkpure.com/projects/apkpure/apkpurecom/bn_BD/>\n"
+"PO-Revision-Date: 2019-03-19 02:14+0000\n"
+"Last-Translator: Md:Rojan Ali <mdrojan42@gmail.com>\n"
+"Language-Team: Bengali (Bangladesh) <https://translate.apkpure.com/projects/"
+"apkpure/apkpurecom/bn_BD/>\n"
 "Language: bn_BD\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 2.14.1\n"
+"X-Generator: Weblate 3.2.2\n"
 
 msgctxt "[\"NAV-GAME\"]"
 msgid "GAMES"
-msgstr "খেলা"
+msgstr ""
 
 msgctxt "[\"NAV-APP\"]"
 msgid "APPS"
-msgstr "এপস"
+msgstr "এ্যাপস"
 
+#, fuzzy
 msgctxt "[\"NAV-XAPK\"]"
 msgid "XAPK"
-msgstr "এক্স এপেকে"
+msgstr "XAPK"
 
+#, fuzzy
 msgctxt "[\"NAV-NEW\"]"
 msgid "NEW"
 msgstr "নতুন"
 
+#, fuzzy
 msgctxt "[\"NAV-PRODUCTS\"]"
 msgid "PRODUCTS"
-msgstr ""
-"পণ্যOut of the box, your Android device only allows you to install apps from "
-"Google Play Store. To install software anywhere else, you have to enable "
-"installation fromthird-partysources. That is, enable the“ Unknown "
-"Sources”setting."
+msgstr "পণ্যসমূহ"
 
 msgctxt "[\"NAV-NEW_GAME\"]"
 msgid "NEW GAME"
-msgstr "নতুন খেলা"
+msgstr "নতুন গেমস"
 
 msgctxt "[\"NAV-NEW_APP\"]"
 msgid "NEW APP"
-msgstr "নতুন এপ"
+msgstr "নতুন এ্যাপ"
 
 msgctxt "[\"NAV-XAPK_GAME\"]"
 msgid "XAPK GAME"
-msgstr "XAPK গেইম"
+msgstr "XAPK গেমস"
 
 msgctxt "[\"NAV-XAPK_APP\"]"
 msgid "XAPK APP"
-msgstr "XAPK অ্যাপ"
+msgstr "XAPK এ্যাপ"
 
 msgctxt "[\"NAV-APK_INSTALL\"]"
 msgid "APK Install"
@@ -64,11 +63,11 @@ msgstr "APK ডাউনলোড"
 
 msgctxt "[\"NAV-APK_VERIFICATION\"]"
 msgid "APK Verification"
-msgstr "APK ভেরিফিকেশন"
+msgstr "APK প্রতিপাদন"
 
 msgctxt "[\"NAV-APKPURE_APP\"]"
 msgid "APKPure App"
-msgstr "APKPure অ্যাপ"
+msgstr "APKPure এ্যাপ"
 
 msgctxt "[\"DOWNLOAD\"]"
 msgid "Download"
@@ -88,7 +87,7 @@ msgstr "আরো পড়ুন"
 
 msgctxt "[\"GAME\"]"
 msgid "GAME"
-msgstr "গেইম"
+msgstr "েগম"
 
 msgctxt "[\"APP\"]"
 msgid "APP"
@@ -1659,3 +1658,27 @@ msgstr "ছবিতে দেওয়া কোড(গুলো) লিখুন,
 msgctxt "[\"TOPICS\"]"
 msgid "Topics"
 msgstr "টপিক"
+
+msgctxt "[\"FAST_DOWNLOAD\"]"
+msgid "Fast Download"
+msgstr "দ্রূত ডাউনলোড"
+
+msgctxt "[\"IGNORE\"]"
+msgid "Ignore"
+msgstr "উপেক্ষা করুন"
+
+msgctxt "[\"OK\"]"
+msgid "OK"
+msgstr "ওকে"
+
+msgctxt "[\"BUY\"]"
+msgid "Buy"
+msgstr "কিনুন"
+
+msgctxt "[\"TOP-UPDATED-APPS\"]"
+msgid "Top Updated Apps"
+msgstr "টপ হালনাগাদ এ্যাপসমূহ"
+
+msgctxt "[\"TOP-UPDATED-GAMES\"]"
+msgid "Top Updated Games"
+msgstr "টপ হালনাগাদ েগমসমূহ"
