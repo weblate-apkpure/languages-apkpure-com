@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-03-31 09:34+0000\n"
-"PO-Revision-Date: 2018-09-21 22:00+0000\n"
-"Last-Translator: ดูดี Lifestyle (sู้lsื่oJ) <tipsearchsai@gmail.com>\n"
+"PO-Revision-Date: 2019-03-06 11:39+0000\n"
+"Last-Translator: Arun Pikul <7392arun7900@gmail.com>\n"
 "Language-Team: Thai <https://translate.apkpure.com/projects/apkpure/"
 "apkpurecom/th/>\n"
 "Language: th\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 3.1.1\n"
+"X-Generator: Weblate 3.2.2\n"
 
 msgctxt "[\"NAV-GAME\"]"
 msgid "GAME"
@@ -26,15 +26,14 @@ msgctxt "[\"NAV-XAPK\"]"
 msgid "XAPK"
 msgstr "เอ็กซ์เอพีเค"
 
-#, fuzzy
 msgctxt "[\"NAV-NEW\"]"
 msgid "NEW"
-msgstr "ใหม่"
+msgstr "Font"
 
 #, fuzzy
 msgctxt "[\"NAV-PRODUCTS\"]"
 msgid "PRODUCTS"
-msgstr "ผลิตภัณฑ์"
+msgstr "smผลิตภัณฑ์"
 
 #, fuzzy
 msgctxt "[\"NAV-NEW_GAME\"]"
@@ -44,7 +43,7 @@ msgstr "เกมใหม่ล่าสุด"
 #, fuzzy
 msgctxt "[\"NAV-NEW_APP\"]"
 msgid "NEW APP"
-msgstr "แอปใหม่ล่าสุด"
+msgstr "แอปใหม่ล่าสุดMorocel2"
 
 #, fuzzy
 msgctxt "[\"NAV-XAPK_GAME\"]"
@@ -54,14 +53,13 @@ msgstr "ไฟล์เกมส์ เอ็กซ์เอพีเค"
 #, fuzzy
 msgctxt "[\"NAV-XAPK_APP\"]"
 msgid "XAPK APP"
-msgstr "แอพ เอ็กซ์เอพีเค"
+msgstr "0980765052"
 
 #, fuzzy
 msgctxt "[\"NAV-APK_INSTALL\"]"
 msgid "APK Install"
 msgstr "ติดตั้ง APK"
 
-#, fuzzy
 msgctxt "[\"NAV-APK_DOWNLOAD\"]"
 msgid "APK Download"
 msgstr "ดาวน์โหลด APK"
@@ -81,10 +79,12 @@ msgctxt "[\"DOWNLOAD\"]"
 msgid "Download"
 msgstr "ดาวน์โหลด"
 
+#, fuzzy
 msgctxt "[\"SELECT_LANGUAGE\"]"
 msgid "Select Language"
 msgstr "เลือกภาษา"
 
+#, fuzzy
 msgctxt "[\"FREE\"]"
 msgid "Free"
 msgstr "ฟรี"
@@ -93,37 +93,42 @@ msgctxt "[\"READ_MORE\"]"
 msgid "Read More"
 msgstr "อ่านต่อ"
 
+#, fuzzy
 msgctxt "[\"GAME\"]"
 msgid "GAME"
 msgstr "เกมส์"
 
 msgctxt "[\"APP\"]"
 msgid "APP"
-msgstr "แอพ"
+msgstr "14545แอพ"
 
 msgctxt "[\"GAMES\"]"
 msgid "Games"
 msgstr "เกมส์"
 
+#, fuzzy
 msgctxt "[\"APPS\"]"
 msgid "Apps"
-msgstr "แอพ"
+msgstr "Apps"
 
+#, fuzzy
 msgctxt "[\"MORE\"]"
 msgid "More"
-msgstr "เพิ่มเติม"
+msgstr "อื่น ๆ"
 
 msgctxt "[\"XAPK\"]"
 msgid "XAPK"
-msgstr "XAPK"
+msgstr "เอ็กซ์เอพีเค"
 
+#, fuzzy
 msgctxt "[\"XAPK-GAMES\"]"
 msgid "XAPK Games"
-msgstr "เกมส์ XAPK"
+msgstr "0980765052"
 
+#, fuzzy
 msgctxt "[\"XAPK-APPS\"]"
 msgid "XAPK Apps"
-msgstr "แอพ XAPK"
+msgstr "แอพเอ็กซ์เอพีเค"
 
 msgctxt "[\"HOME\"]"
 msgid "Home"
@@ -1409,6 +1414,7 @@ msgctxt "[\"category\"][\"APP_WIDGETS\"]"
 msgid "Widgets"
 msgstr ""
 
+#, fuzzy
 msgctxt "[\"NAV-GAME\"]"
 msgid "GAMES"
 msgstr "เกม"
@@ -1416,7 +1422,7 @@ msgstr "เกม"
 #, fuzzy
 msgctxt "[\"NAV-APP\"]"
 msgid "APPS"
-msgstr "แอพเกมส์ไพ่เท็กชัสโบย่า"
+msgstr "APPS"
 
 msgctxt "[\"INDEX-POPULAR_CATEGORIES\"]"
 msgid "Popular categories"
@@ -1506,9 +1512,10 @@ msgctxt "[\"OK\"]"
 msgid "OK"
 msgstr "ตกลง"
 
+#, fuzzy
 msgctxt "[\"TOP-UPDATED-APPS\"]"
 msgid "Top Updated Apps"
-msgstr "แอปอัพเดทยอดนิยม"
+msgstr "Top Updated Apps"
 
 msgctxt "[\"TOP-UPDATED-GAMES\"]"
 msgid "Top Updated Games"
