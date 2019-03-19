@@ -1,3 +1,19 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-09-05 19:00+0000\n"
+"PO-Revision-Date: 2018-09-05 19:00+0000\n"
+"Last-Translator: Daniele Manna <danielemanna02@gmail.com>\n"
+"Language-Team: Italian <https://translate.apkpure.com/projects/apkpure/"
+"apkpurecom/it/>\n"
+"Language: it\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 3.1.1\n"
+
 msgctxt "[\"NAV-GAME\"]"
 msgid "GAMES"
 msgstr "GIOCHI"
@@ -50,17 +66,9 @@ msgctxt "[\"NAV-APKPURE_APP\"]"
 msgid "APKPure App"
 msgstr "App APKPure"
 
-msgctxt "[\"NAV-Cloud-Phone-Emulator\"]"
-msgid "Cloud Phone Emulator"
-msgstr "Cloud Phone Emulator"
-
 msgctxt "[\"DOWNLOAD\"]"
 msgid "Download"
 msgstr "Scarica"
-
-msgctxt "[\"DOWNLOAD_AVAILABLE\"]"
-msgid "Download Variant {0}"
-msgstr "Download Variant {0}"
 
 msgctxt "[\"FAST_DOWNLOAD\"]"
 msgid "Fast Download"
@@ -87,12 +95,12 @@ msgid "Free"
 msgstr "Gratuita"
 
 msgctxt "[\"TOP-UPDATED-APPS\"]"
-msgid "Recently Updated Apps"
-msgstr "Recently Updated Apps"
+msgid "Top Updated Apps"
+msgstr "Top Updated Apps"
 
 msgctxt "[\"TOP-UPDATED-GAMES\"]"
-msgid "Recently Updated Games"
-msgstr "Recently Updated Games"
+msgid "Top Updated Games"
+msgstr "Top Updated Games"
 
 msgctxt "[\"READ_MORE\"]"
 msgid "Read More"
@@ -222,10 +230,6 @@ msgctxt "[\"NOT_FOUND\"]"
 msgid "Not Found"
 msgstr "Not Found"
 
-msgctxt "[\"REASON\"]"
-msgid "Reason"
-msgstr "Reason"
-
 msgctxt "[\"LATEST_UPDATE_GAMES\"]"
 msgid "Latest Update Games"
 msgstr "Ultimo aggiornamento Giochi"
@@ -290,18 +294,6 @@ msgctxt "[\"TOPICS\"]"
 msgid "Topics"
 msgstr "Argomento"
 
-msgctxt "[\"TAG\"]"
-msgid "Tag {0}"
-msgstr "Tag {0}"
-
-msgctxt "[\"BROWSING_TAG\"]"
-msgid "Browsing {0}"
-msgstr "Browsing {0}"
-
-msgctxt "[\"ADDITIONAL_INFORMATION\"]"
-msgid "Additional Information"
-msgstr "Additional Information"
-
 msgctxt "[\"SIMILAR_TO\"]"
 msgid "Similar to {0}"
 msgstr "Simile a {0}"
@@ -313,14 +305,6 @@ msgstr "Annulla"
 msgctxt "[\"UPDATE\"]"
 msgid "Update"
 msgstr "Aggiornare"
-
-msgctxt "[\"SUBMIT\"]"
-msgid "Submit"
-msgstr "Submit"
-
-msgctxt "[\"SUBMITTING\"]"
-msgid "Submitting..."
-msgstr "Submitting..."
 
 msgctxt "[\"DEV-INCORRECT_PKG_EMAIL\"]"
 msgid "Invalid package name or email"
@@ -527,8 +511,8 @@ msgid "Download on Google Play"
 msgstr "Scarica da Google Play"
 
 msgctxt "[\"DETAIL-DELETED_COPYRIGHT_GOOGLE_PLAY_DES\"]"
-msgid "{app_name} All rights reserved ©2019 {developer}. {developer} and the {developer} logo are trademarks of {developer} in the U.S. and/or other countries.All other trademarks are the property of their respective owners."
-msgstr "{app_name} Tutti i diritti riservati ©2019 {developer}. {developer} e il logo {developer} sono marchi registrati di {developer} negli USA e/o in altri Paesi. Tutti gli altri marchi registrati sono proprietà dei relativi detentori."
+msgid "{app_name} All rights reserved ©2018 {developer}. {developer} and the {developer} logo are trademarks of {developer} in the U.S. and/or other countries.All other trademarks are the property of their respective owners."
+msgstr "{app_name} Tutti i diritti riservati ©2018 {developer}. {developer} e il logo {developer} sono marchi registrati di {developer} negli USA e/o in altri Paesi. Tutti gli altri marchi registrati sono proprietà dei relativi detentori."
 
 msgctxt "[\"DETAIL_DOWNLOAD-NAV_DOWNLOAD\"]"
 msgid "Download"
@@ -537,14 +521,6 @@ msgstr "Scarica"
 msgctxt "[\"DETAIL_DOWNLOAD-DOWNLOADING\"]"
 msgid "Downloading"
 msgstr "Scaricamento"
-
-msgctxt "[\"DETAIL_DOWNLOAD-FAST_DOWNLOADING\"]"
-msgid "Fast Downloading"
-msgstr "Fast Downloading"
-
-msgctxt "[\"DETAIL_DOWNLOAD-FAST_DOWNLOADING_DES\"]"
-msgid "How \"Fast Download\" works?"
-msgstr "How \"Fast Download\" works?"
 
 msgctxt "[\"DETAIL_DOWNLOAD-DOWNLOADING_DES\"]"
 msgid "If the download doesn't start,"
@@ -566,61 +542,9 @@ msgctxt "[\"VERSION-VERSIONS\"]"
 msgid "Versions"
 msgstr "Versions"
 
-msgctxt "[\"VERSION-ALL-VERSIONS\"]"
-msgid "All Versions"
-msgstr "All Versions"
-
 msgctxt "[\"VERSION-REQUIRES_ANDROID\"]"
 msgid "Requires Android"
 msgstr "È necessario Android"
-
-msgctxt "[\"VARIANT-VARIANTS\"]"
-msgid "{0} Variants"
-msgstr "{0} Variants"
-
-msgctxt "[\"VARIANT-VARIANTS_TIT\"]"
-msgid "Variants"
-msgstr "Variants"
-
-msgctxt "[\"VARIANT-VARIANT\"]"
-msgid "Variant"
-msgstr "Variant"
-
-msgctxt "[\"VARIANT-ARCHITECTURE\"]"
-msgid "Architecture"
-msgstr "Architecture"
-
-msgctxt "[\"VARIANT-MINIMUM\"]"
-msgid "Minimum Version"
-msgstr "Minimum Version"
-
-msgctxt "[\"VARIANT-SCREEN_DPI\"]"
-msgid "Screen DPI"
-msgstr "Screen DPI"
-
-msgctxt "[\"VARIANT-ARCH\"]"
-msgid "Arch"
-msgstr "Arch"
-
-msgctxt "[\"VARIANT-VERSION\"]"
-msgid "Version"
-msgstr "Version"
-
-msgctxt "[\"VARIANT-DPI\"]"
-msgid "DPI"
-msgstr "DPI"
-
-msgctxt "[\"COMMENT-REVIEWS_TOTAL\"]"
-msgid "Total Reviews:"
-msgstr "Total Reviews:"
-
-msgctxt "[\"COMMENT-REVIEWS_CURRENT\"]"
-msgid "Reviews in {0}:"
-msgstr "Reviews in {0}:"
-
-msgctxt "[\"COMMENT-REVIEWS_CURRENT_MOB\"]"
-msgid "In {0}:"
-msgstr "In {0}:"
 
 msgctxt "[\"COMMENT-REVIEW_OTHER_LANG\"]"
 msgid "There are {0} reviews in other languages"
@@ -778,10 +702,6 @@ msgctxt "[\"COMMENT-VOTE\"]"
 msgid "Vote"
 msgstr "Votazione"
 
-msgctxt "[\"COMMENT-LIKE\"]"
-msgid "Like"
-msgstr "Like"
-
 msgctxt "[\"COMMENT-ERR_QUICK_LOGIN\"]"
 msgid "Quick login error, please try again."
 msgstr "Quick login error, please try again."
@@ -799,7 +719,7 @@ msgid "Vote failed, repeated"
 msgstr "Vote failed, repeated"
 
 msgctxt "[\"COMMENT-ERR_SENSITIVE_WORD\"]"
-msgid "Comment failed, your post contains sensitive terms."
+msgid "Defeat,your post contains sensitive terms"
 msgstr "Defeat,your post contains sensitive terms"
 
 msgctxt "[\"COMMENT-ERR_SENSITIVE_WORD_AUDIT\"]"
@@ -846,10 +766,6 @@ msgctxt "[\"COMMENT-DELETED\"]"
 msgid "Deleted!"
 msgstr "Cancellato!"
 
-msgctxt "[\"COMMENT-SAME_TEXT\"]"
-msgid "The text is the same, please post it later."
-msgstr "Il testo è lo stesso, per favore postalo più tardi."
-
 msgctxt "[\"COMMENT-DEL\"]"
 msgid "Delete"
 msgstr "Elimina"
@@ -874,22 +790,6 @@ msgctxt "[\"COMMENT-LINK\"]"
 msgid "Link"
 msgstr "Collegamento"
 
-msgctxt "[\"COMMENT-HASHTAG_NOT_EXIST\"]"
-msgid "The hashtag does not exist"
-msgstr "L'hashtag non esiste"
-
-msgctxt "[\"COMMENT-HASHTAG\"]"
-msgid "Hashtag"
-msgstr "Hashtag"
-
-msgctxt "[\"COMMENT-FOLLOW_COUNT\"]"
-msgid "Followers: {0}"
-msgstr "Followers: {0}"
-
-msgctxt "[\"COMMENT-POST_COUNT\"]"
-msgid "Posts: {0}"
-msgstr "Posts: {0}"
-
 msgctxt "[\"PRE-REGISTER\"]"
 msgid "Pre-Registration Games"
 msgstr "Pre-Registration Games"
@@ -913,62 +813,6 @@ msgstr "Register Rewards"
 msgctxt "[\"PRE-REGISTER_PAGE\"]"
 msgid "Pre-Register Page"
 msgstr "Pre-Register Page"
-
-msgctxt "[\"HASHTAG\"]"
-msgid "HASHTAG"
-msgstr "Argomento"
-
-msgctxt "[\"HOT_HASHTAG\"]"
-msgid "Featured Hashtags"
-msgstr "Argomenti consigliati"
-
-msgctxt "[\"COOL_COMMENT\"]"
-msgid "Cool Comment"
-msgstr "Commento meraviglioso"
-
-msgctxt "[\"MORE_COOL_COMMENTS\"]"
-msgid "More cool comments"
-msgstr "Più"
-
-msgctxt "[\"USER-SETTINGS\"]"
-msgid "Settings"
-msgstr "Settings"
-
-msgctxt "[\"USER-INFO_ALL\"]"
-msgid "All"
-msgstr "All"
-
-msgctxt "[\"USER-INFO_REVIEW\"]"
-msgid "Review"
-msgstr "Review"
-
-msgctxt "[\"USER-INFO_STORY\"]"
-msgid "Story"
-msgstr "Story"
-
-msgctxt "[\"USER-INFO_POST\"]"
-msgid "Post"
-msgstr "Post"
-
-msgctxt "[\"USER-SAY_SOMETHING\"]"
-msgid "Why do you want to delete this account?"
-msgstr "Why do you want to delete this account?"
-
-msgctxt "[\"USER-A_PRIVATE_ACCOUNT\"]"
-msgid "It's a private account."
-msgstr "It's a private account."
-
-msgctxt "[\"USER-PRIVACY_SETTING\"]"
-msgid "Privacy Settings"
-msgstr "Privacy Settings"
-
-msgctxt "[\"USER-PRIVATE_ACCOUNT\"]"
-msgid "Private Account"
-msgstr "Private Account"
-
-msgctxt "[\"USER-DELETE_ACCOUNT\"]"
-msgid "Delete your account and information"
-msgstr "Delete your account and information"
 
 msgctxt "[\"USER-FOLLOWING\"]"
 msgid "Following"
@@ -1070,10 +914,6 @@ msgctxt "[\"USER-UNKNOWN_ERROR\"]"
 msgid "unknown mistake."
 msgstr "Errore sconosciuto."
 
-msgctxt "[\"USER-DISABLE\"]"
-msgid "This account has been deleted"
-msgstr "This account has been deleted"
-
 msgctxt "[\"USER-BAD_NAME\"]"
 msgid "Your input includes sensitive vocabulary."
 msgstr "Il vostro contributo comprende il vocabolario sensibile."
@@ -1105,10 +945,6 @@ msgstr "Incorrect Verification Code"
 msgctxt "[\"USER-SEND_VERIFICATION_CODE\"]"
 msgid "Send verification code"
 msgstr "Send verification code"
-
-msgctxt "[\"USER-SEND_CODE\"]"
-msgid "Send Code"
-msgstr "Send Code"
 
 msgctxt "[\"USER-CONNECT_YOUR_EMAIL\"]"
 msgid "Connect your email"
@@ -1154,10 +990,6 @@ msgctxt "[\"USER-SAVE\"]"
 msgid "Save"
 msgstr "Salvare"
 
-msgctxt "[\"USER-SAVE_BTN\"]"
-msgid "SAVE"
-msgstr "SAVE"
-
 msgctxt "[\"USER-SAVING\"]"
 msgid "Saving..."
 msgstr "Salvataggio..."
@@ -1173,10 +1005,6 @@ msgstr "Cambia immagine"
 msgctxt "[\"USER-PASSWORD\"]"
 msgid "Password"
 msgstr "Parola d'ordine"
-
-msgctxt "[\"USER-RETRIEVE_PASSWORD\"]"
-msgid "Retrieve Password"
-msgstr "Retrieve Password"
 
 msgctxt "[\"USER-NEW_USER_REGISTRATION\"]"
 msgid "New User Registration"
@@ -1318,37 +1146,13 @@ msgctxt "[\"SEARCH-APK\"]"
 msgid "Search APK"
 msgstr "Cerca APK"
 
-msgctxt "[\"SEARCH-APP\"]"
-msgid "Search App"
-msgstr "Search App"
-
 msgctxt "[\"SEARCH-TRENDING\"]"
-msgid "Trending searches"
+msgid "trending searches"
 msgstr "Ricerche di tendenza"
 
 msgctxt "[\"SEARCH-HISTORY\"]"
 msgid "Search history"
 msgstr "Cronologia delle ricerche"
-
-msgctxt "[\"SEARCH-FEATURED_HASHTAG\"]"
-msgid "Featured hashtags"
-msgstr "Featured hashtags"
-
-msgctxt "[\"SEARCH-TAB_APPS\"]"
-msgid "Apps"
-msgstr "Applicazioni"
-
-msgctxt "[\"SEARCH-TAB_USERS\"]"
-msgid "Users"
-msgstr "Utenti"
-
-msgctxt "[\"SEARCH-TAB_HASHTAGS\"]"
-msgid "Hashtags"
-msgstr "Argomenti"
-
-msgctxt "[\"SEARCH-NO_RESULTS\"]"
-msgid "Sorry, no results found."
-msgstr "Sorry, no results found."
 
 msgctxt "[\"404-OOPS\"]"
 msgid "OOPS!,"
@@ -1375,12 +1179,12 @@ msgid "It seems that page you are looking for no longer exists.<br />You can exp
 msgstr "Sembra che la pagina che cercavi non esista più.<br />Puoi esplorare altri Giochi e App qui sotto!"
 
 msgctxt "[\"COPYRIGHT\"]"
-msgid "Copyright © 2014-2019 APKPure All rights reserved."
-msgstr "Copyright © 2014-2019 APKPure. Tutti i diritti riservati."
+msgid "Copyright © 2014-2018 APKPure All rights reserved."
+msgstr "Copyright © 2014-2018 APKPure. Tutti i diritti riservati."
 
 msgctxt "[\"COPYRIGHT_MOBILE\"]"
-msgid "APKPure.com © 2014-2019"
-msgstr "APKPure.com © 2014-2019"
+msgid "APKPure.com © 2014-2018"
+msgstr "APKPure.com © 2014-2018"
 
 msgctxt "[\"COMING_SOON\"]"
 msgid "COMING SOON"
@@ -1519,7 +1323,7 @@ msgid "Top Developers"
 msgstr "Migliori sviluppatori"
 
 msgctxt "[\"MARKET-PAGE_TOP_COUNTRIES\"]"
-msgid "Partitioned Ranking"
+msgid "Top Countries"
 msgstr "Paesi principali"
 
 msgctxt "[\"MARKET-POP_TITLE\"]"
@@ -1758,10 +1562,6 @@ msgctxt "[\"tip\"][\"VERSION\"]"
 msgid "Download {app_short_name} v{version_name} for android"
 msgstr "Scarica {app_short_name} v {nome_versione} per android"
 
-msgctxt "[\"tip\"][\"VERSION_VARIANT\"]"
-msgid "Download {app_short_name} v{version_name} build variants in android"
-msgstr "Download {app_short_name} v{version_name} build variants in android"
-
 msgctxt "[\"tip\"][\"ICON\"]"
 msgid "{0} icon"
 msgstr "Icona {0}"
@@ -1789,10 +1589,6 @@ msgstr "Scarica l'ultima versione del xapk di {0}"
 msgctxt "[\"tip\"][\"VERSION_DOWN\"]"
 msgid "Download {app_name} {version_name} ({version_code}) {file_type}"
 msgstr "Scarica {app_name} {version_name} ({version_code}) {file_type}"
-
-msgctxt "[\"tip\"][\"VERSION_VARIANT_DOWN\"]"
-msgid "Download {app_name} {version_name} variant {file_type}"
-msgstr "Download {app_name} {version_name} variant {file_type}"
 
 msgctxt "[\"tip\"][\"RATING\"]"
 msgid "{app_name} average rating {rating_average}"
@@ -1850,37 +1646,97 @@ msgctxt "[\"tip\"][\"DOWNLOAD_APK\"]"
 msgid "Download APK"
 msgstr "Scarica APK"
 
-msgctxt "[\"js\"][\"LANG_TIP\"][\"fr\"]"
-msgid "Voulez-vous changer votre langue préférée à <strong> français </strong>?"
-msgstr "Voulez-vous changer votre langue préférée à <strong> français </strong>?"
+msgctxt "[\"js\"][\"LANG_TIP\"][\"pl\"]"
+msgid "Czy chcesz zmienić język preferencji na <strong> Polski </strong>?"
+msgstr "Czy chcesz zmienić język preferencji na <strong> Polski </strong>?"
 
-msgctxt "[\"js\"][\"LANG_TIP\"][\"tr\"]"
-msgid "Tercih ettiğiniz dili <strong> Türkiye </strong> olarak değiştirmek istiyor musunuz?"
-msgstr "Tercih ettiğiniz dili <strong> Türkiye </strong> olarak değiştirmek istiyor musunuz?"
+msgctxt "[\"js\"][\"LANG_TIP\"][\"es\"]"
+msgid "¿Quiere cambiar su idioma de preferencia a <strong>español</strong>?"
+msgstr "¿Quiere cambiar su idioma de preferencia a <strong>español</strong>?"
+
+msgctxt "[\"js\"][\"LANG_TIP\"][\"ru\"]"
+msgid "Вы хотите изменить язык предпочтений на <strong>русский</strong>?"
+msgstr "Вы хотите изменить язык предпочтений на <strong>русский</strong>?"
+
+msgctxt "[\"js\"][\"LANG_TIP\"][\"id\"]"
+msgid "Apakah Anda ingin mengubah bahasa pilihan Anda <strong>ke bahasa Indonesia</strong>?"
+msgstr "Apakah Anda ingin mengubah bahasa pilihan Anda <strong>ke bahasa Indonesia</strong>?"
+
+msgctxt "[\"js\"][\"LANG_TIP\"][\"it\"]"
+msgid "Vuoi cambiare la tua lingua preferenziale in <strong>italiano</strong>?"
+msgstr "Vuoi cambiare la tua lingua preferenziale in <strong>italiano</strong>?"
+
+msgctxt "[\"js\"][\"LANG_TIP\"][\"de\"]"
+msgid "Wil je de taal van je voorkeur wijzigen in <strong> Deutsch </strong>?"
+msgstr "Wil je de taal van je voorkeur wijzigen in <strong> Deutsch </strong>?"
+
+msgctxt "[\"js\"][\"LANG_TIP\"][\"vn\"]"
+msgid "Bạn có muốn thay đổi ngôn ngữ ưa thích của mình thành <strong> Tiếng Việt </strong> không?"
+msgstr "Bạn có muốn thay đổi ngôn ngữ ưa thích của mình thành <strong> Tiếng Việt </strong> không?"
 
 msgctxt "[\"js\"][\"LANG_TIP\"][\"nl\"]"
 msgid "Wilt u uw voorkeurstaal naar <strong>Nederlands</strong> veranderen?"
 msgstr "Wilt u uw voorkeurstaal naar <strong>Nederlands</strong> veranderen?"
 
-msgctxt "[\"js\"][\"LANG_IGNORE\"][\"fr\"]"
-msgid "Ignorer"
-msgstr "Ignorer"
+msgctxt "[\"js\"][\"LANG_IGNORE\"][\"pl\"]"
+msgid "Ignorować"
+msgstr "Ignorować"
 
-msgctxt "[\"js\"][\"LANG_IGNORE\"][\"tr\"]"
-msgid "Aldırmamak"
-msgstr "Aldırmamak"
+msgctxt "[\"js\"][\"LANG_IGNORE\"][\"es\"]"
+msgid "Ignorar"
+msgstr "Ignorar"
+
+msgctxt "[\"js\"][\"LANG_IGNORE\"][\"ru\"]"
+msgid "игнорировать"
+msgstr "игнорировать"
+
+msgctxt "[\"js\"][\"LANG_IGNORE\"][\"id\"]"
+msgid "Mengabaikan"
+msgstr "Mengabaikan"
+
+msgctxt "[\"js\"][\"LANG_IGNORE\"][\"it\"]"
+msgid "Ignorare"
+msgstr "Ignorare"
+
+msgctxt "[\"js\"][\"LANG_IGNORE\"][\"de\"]"
+msgid "Negeren"
+msgstr "Negeren"
+
+msgctxt "[\"js\"][\"LANG_IGNORE\"][\"vn\"]"
+msgid "OK"
+msgstr "OK"
 
 msgctxt "[\"js\"][\"LANG_IGNORE\"][\"nl\"]"
 msgid "Negeren"
 msgstr "Negeren"
 
-msgctxt "[\"js\"][\"LANG_OK\"][\"fr\"]"
-msgid "D'accord"
-msgstr "D'accord"
+msgctxt "[\"js\"][\"LANG_OK\"][\"pl\"]"
+msgid "ok"
+msgstr "ok"
 
-msgctxt "[\"js\"][\"LANG_OK\"][\"tr\"]"
-msgid "tamam"
-msgstr "tamam"
+msgctxt "[\"js\"][\"LANG_OK\"][\"es\"]"
+msgid "DE ACUERDO"
+msgstr "DE ACUERDO"
+
+msgctxt "[\"js\"][\"LANG_OK\"][\"ru\"]"
+msgid "ОК"
+msgstr "ОК"
+
+msgctxt "[\"js\"][\"LANG_OK\"][\"id\"]"
+msgid "baik"
+msgstr "baik"
+
+msgctxt "[\"js\"][\"LANG_OK\"][\"it\"]"
+msgid "ok"
+msgstr "ok"
+
+msgctxt "[\"js\"][\"LANG_OK\"][\"de\"]"
+msgid "OK"
+msgstr "OK"
+
+msgctxt "[\"js\"][\"LANG_OK\"][\"vn\"]"
+msgid "OK"
+msgstr "OK"
 
 msgctxt "[\"js\"][\"LANG_OK\"][\"nl\"]"
 msgid "OK"
@@ -2002,17 +1858,9 @@ msgctxt "[\"js\"][\"USER-RESEND_VERIFICATION\"]"
 msgid "Resend verification code"
 msgstr "Resend verification code"
 
-msgctxt "[\"js\"][\"USER-RESEND\"]"
-msgid "Resend code"
-msgstr "Resend code"
-
 msgctxt "[\"js\"][\"USER-RESEND_IN\"]"
 msgid "Resend in {0}"
 msgstr "Resend in {0}"
-
-msgctxt "[\"js\"][\"SUBMISSION_SUCCESS\"]"
-msgid "Submission success."
-msgstr "Submission success."
 
 msgctxt "[\"js\"][\"COMMENT-DELETE\"]"
 msgid "Yes,delete it!"
@@ -2029,10 +1877,6 @@ msgstr "Sei sicuro?"
 msgctxt "[\"js\"][\"COMMENT-RATE_MUST\"]"
 msgid "Before writing a review or something, please rate the app first."
 msgstr "Before writing a review or something, please rate the app first."
-
-msgctxt "[\"js\"][\"COMMENT-LIKE\"]"
-msgid "Like"
-msgstr "Like"
 
 msgctxt "[\"js\"][\"COMMENT-VOTE\"]"
 msgid "Vote"
@@ -2086,18 +1930,6 @@ msgctxt "[\"meta\"][\"Versions\"][\"description\"]"
 msgid "Download {app_short_name} old versions Android APK or update to {app_short_name} latest version. Review {app_short_name} release date, changelog and more."
 msgstr "Download {app_short_name} old versions Android APK or update to {app_short_name} latest version. Review {app_short_name} release date, changelog and more."
 
-msgctxt "[\"meta\"][\"Variants\"][\"title\"]"
-msgid "{app_short_name} {version_name} Build variants in Android - APK Download"
-msgstr "{app_short_name} {version_name} Build variants in Android - APK Download"
-
-msgctxt "[\"meta\"][\"Variants\"][\"keywords\"]"
-msgid ""
-msgstr ""
-
-msgctxt "[\"meta\"][\"Variants\"][\"description\"]"
-msgid ""
-msgstr ""
-
 msgctxt "[\"meta\"][\"Details_download\"][\"title\"]"
 msgid "Download {app_name} {version_name} APK | APKPure.com"
 msgstr "Scarica APK {app_name} {version_name} | APKPure.com"
@@ -2129,18 +1961,6 @@ msgstr "{app_short_name} Android latest {version_name} APK Download and Install.
 msgctxt "[\"meta\"][\"Details_download_new\"][\"description_old\"]"
 msgid "{app_short_name} Android {version_name} APK Download and Install. {app_short_description}"
 msgstr "{app_short_name} Android {version_name} APK Download and Install. {app_short_description}"
-
-msgctxt "[\"meta\"][\"Download_apk_info\"][\"title\"]"
-msgid "Getting Started in {app_short_name}"
-msgstr "Getting Started in {app_short_name}"
-
-msgctxt "[\"meta\"][\"Download_apk_info\"][\"keywords\"]"
-msgid "{app_short_name} information, game info, app info, requirements, versions"
-msgstr "{app_short_name} information, game info, app info, requirements, versions"
-
-msgctxt "[\"meta\"][\"Download_apk_info\"][\"description\"]"
-msgid "Download {app_name} and learn more details about {app_short_name} requirements, running os version and more on APKPure Android App Store."
-msgstr "Download {app_name} and learn more details about {app_short_name} requirements, running os version and more on APKPure Android App Store."
 
 msgctxt "[\"meta\"][\"Category_xapk\"][\"title\"]"
 msgid "XAPK ( apk with obb file) {0}.apk for Android download"
@@ -2175,8 +1995,8 @@ msgid "android apps, android games, must have android games, must have android a
 msgstr "android apps, android games, must have android games, must have android apps, game download"
 
 msgctxt "[\"meta\"][\"Category_featured_editors-picks\"][\"description\"]"
-msgid "Play with millions of free apps in APKPure style on Android phones, tablets, TV ,etc. Download the best must have android games you should play 2019."
-msgstr "Play with millions of free apps in APKPure style on Android phones, tablets, TV ,etc. Download the best must have android games you should play 2019."
+msgid "Play with millions of free apps in APKPure style on Android phones, tablets, TV ,etc. Download the best must have android games you should play 2018."
+msgstr "Play with millions of free apps in APKPure style on Android phones, tablets, TV ,etc. Download the best must have android games you should play 2018."
 
 msgctxt "[\"meta\"][\"Category_app\"][\"title\"]"
 msgid "Download {0} APK Android App Online - Free Pure APK Downloader"
@@ -2227,8 +2047,8 @@ msgid "All Apps or Games Published by \"{0}\""
 msgstr "Tutti i Giochi e le App pubblicati da \"{0}\""
 
 msgctxt "[\"meta\"][\"Tag\"][\"title\"]"
-msgid "Tag {0} - APKPure"
-msgstr "Tag {0} - APKPure"
+msgid "{0} Android Games & Apps on APKPure App Store"
+msgstr "{0} Android Games & Apps on APKPure App Store"
 
 msgctxt "[\"meta\"][\"Tag\"][\"keywords\"]"
 msgid "{0}, {0} games,{0} apps, {0} download, {0} android"
@@ -2354,9 +2174,13 @@ msgctxt "[\"meta\"][\"Similar\"][\"keywords\"]"
 msgid "{app_short_name} alternative, {app_short_name} similar {app_type}, {app_category} {app_type} like {app_short_name}"
 msgstr "{app_short_name} alternative, {app_short_name} similar {app_type}, {app_category} {app_type} like {app_short_name}"
 
+#, fuzzy
 msgctxt "[\"meta\"][\"Similar\"][\"description\"]"
 msgid "Popular alternative {app_type} to {app_short_name} for Android, Android tablet and more. Download top {similar_count} {app_type} like {app_short_name}, all {app_type} suggested by APKPure."
-msgstr "Popular alternative {app_type} to {app_short_name} for Android, Android tablet and more. Download top {similar_count} {app_type} like {app_short_name}, all {app_type} suggested by APKPure."
+msgstr ""
+"Alternativa popolare {app_type} di {app_short_name} per Android, Android "
+"tablet e di più. Scarica top {similar_count} {app_type} come {app_short_name}"
+", tutte {app_type} raccomandato da APKPure."
 
 msgctxt "[\"meta\"][\"Login\"][\"title\"]"
 msgid "Sign in account for APKPure Android App Store"
@@ -2386,26 +2210,6 @@ msgctxt "[\"meta\"][\"Email\"][\"description\"]"
 msgid "Before posting on APKPure, you need to verify email address associated with your account. Use the verification code in confirmation email to unlock more features."
 msgstr "Before posting on APKPure, you need to verify email address associated with your account. Use the verification code in confirmation email to unlock more features."
 
-msgctxt "[\"meta\"][\"Delete_account\"][\"title\"]"
-msgid "Delete Account and Information | APKPure"
-msgstr "Delete Account and Information | APKPure"
-
-msgctxt "[\"meta\"][\"Delete_account\"][\"description\"]"
-msgid "When you delete your account and information, all your uploaded comments, pictures and other information will be deleted, and the account will not be available."
-msgstr "When you delete your account and information, all your uploaded comments, pictures and other information will be deleted, and the account will not be available."
-
-msgctxt "[\"meta\"][\"Privacy_settings\"][\"title\"]"
-msgid "Privacy Settings | APKPure"
-msgstr "Privacy Settings | APKPure"
-
-msgctxt "[\"meta\"][\"Privacy_settings\"][\"description\"]"
-msgid "Your profile page is accessible by default. If you set it as a private page, the information will be hided."
-msgstr "Your profile page is accessible by default. If you set it as a private page, the information will be hided."
-
-msgctxt "[\"meta\"][\"User_settings\"][\"title\"]"
-msgid "Settings | APKPure"
-msgstr "Settings | APKPure"
-
 msgctxt "[\"meta\"][\"User\"][\"title\"]"
 msgid "{user_name}: Profile and Activity - APKPure AppStore"
 msgstr "{user_name}: Profile and Activity - APKPure AppStore"
@@ -2413,10 +2217,6 @@ msgstr "{user_name}: Profile and Activity - APKPure AppStore"
 msgctxt "[\"meta\"][\"User\"][\"description\"]"
 msgid "My APKPure AppStore profile and activity page for {user_name}. Join APKPure AppStore to connect with {user_name}."
 msgstr "My APKPure AppStore profile and activity page for {user_name}. Join APKPure AppStore to connect with {user_name}."
-
-msgctxt "[\"meta\"][\"User_post\"][\"title\"]"
-msgid "{summary} - {user_name} | APKPure"
-msgstr "{summary} - {user_name} | APKPure"
 
 msgctxt "[\"meta\"][\"Profile\"][\"title\"]"
 msgid "{user_name}'s profile on APKPure App Store"
@@ -2438,10 +2238,6 @@ msgctxt "[\"meta\"][\"Register\"][\"description\"]"
 msgid "To join community group or vote on APKPure App Store, you must be registered. Register your APKPure account today!"
 msgstr "To join community group or vote on APKPure App Store, you must be registered. Register your APKPure account today!"
 
-msgctxt "[\"meta\"][\"Retrieve_password\"][\"title\"]"
-msgid "Retrieve Password | APKPure"
-msgstr "Retrieve Password | APKPure"
-
 msgctxt "[\"meta\"][\"Group\"][\"title\"]"
 msgid "{app_name} {app_type} Discussion Group | APKPure Groups"
 msgstr "{app_name} {app_type} Discussion Group | APKPure Groups"
@@ -2457,10 +2253,6 @@ msgstr "Online discussions to share {app_name} tips, tricks and cheats. {app_sho
 msgctxt "[\"meta\"][\"Group\"][\"description_app\"]"
 msgid "{app_name} group gathers most Android expert users, who like to share experience on how to use {app_short_name} and give {app_short_name} useful app reviews."
 msgstr "{app_name} group gathers most Android expert users, who like to share experience on how to use {app_short_name} and give {app_short_name} useful app reviews."
-
-msgctxt "[\"meta\"][\"Hashtag\"][\"title\"]"
-msgid "Hashtag {hashtag} - APKPure"
-msgstr "Hashtag {hashtag} - APKPure"
 
 msgctxt "[\"meta\"][\"Invit\"][\"title\"]"
 msgid "{user_name} add a post under {app_name} Discussion Group | APKPure Group"
@@ -2481,227 +2273,3 @@ msgstr "\"{post_details}\" sent by {user_name} in {app_name} {app_type} Discussi
 msgctxt "[\"meta\"][\"Invit\"][\"keywords\"]"
 msgid "group, {app_name}, {app_category}, {app_type}, {app_developer}, {app_short_name} community"
 msgstr "group, {app_name}, {app_category}, {app_type}, {app_developer}, {app_short_name} community"
-
-msgctxt "[\"content_rating\"][\"Teen\"]"
-msgid "Teen"
-msgstr "Teen"
-
-msgctxt "[\"content_rating\"][\"Unrated\"]"
-msgid "Unrated"
-msgstr "Unrated"
-
-msgctxt "[\"content_rating\"][\"Rated for 16+\"]"
-msgid "Rated for 16+"
-msgstr "Rated for 16+"
-
-msgctxt "[\"content_rating\"][\"Sex\"]"
-msgid "Sex"
-msgstr "Sex"
-
-msgctxt "[\"content_rating\"][\"Everyone\"]"
-msgid "Everyone"
-msgstr "Everyone"
-
-msgctxt "[\"content_rating\"][\"Language\"]"
-msgid "Language"
-msgstr "Language"
-
-msgctxt "[\"content_rating\"][\"Simulated Gambling\"]"
-msgid "Simulated Gambling"
-msgstr "Simulated Gambling"
-
-msgctxt "[\"content_rating\"][\"Everyone 10+\"]"
-msgid "Everyone 10+"
-msgstr "Everyone 10+"
-
-msgctxt "[\"content_rating\"][\"Fantasy Violence\"]"
-msgid "Fantasy Violence"
-msgstr "Fantasy Violence"
-
-msgctxt "[\"content_rating\"][\"Violence\"]"
-msgid "Violence"
-msgstr "Violence"
-
-msgctxt "[\"content_rating\"][\"Blood\"]"
-msgid "Blood"
-msgstr "Blood"
-
-msgctxt "[\"content_rating\"][\"Mild Fantasy Violence\"]"
-msgid "Mild Fantasy Violence"
-msgstr "Mild Fantasy Violence"
-
-msgctxt "[\"content_rating\"][\"Suggestive Themes\"]"
-msgid "Suggestive Themes"
-msgstr "Suggestive Themes"
-
-msgctxt "[\"content_rating\"][\"Mature 17+\"]"
-msgid "Mature 17+"
-msgstr "Mature 17+"
-
-msgctxt "[\"content_rating\"][\"Drug and Alcohol Reference\"]"
-msgid "Drug and Alcohol Reference"
-msgstr "Drug and Alcohol Reference"
-
-msgctxt "[\"content_rating\"][\"Blood and Gore\"]"
-msgid "Blood and Gore"
-msgstr "Blood and Gore"
-
-msgctxt "[\"content_rating\"][\"Crude Humor\"]"
-msgid "Crude Humor"
-msgstr "Crude Humor"
-
-msgctxt "[\"content_rating\"][\"Alcohol Reference\"]"
-msgid "Alcohol Reference"
-msgstr "Alcohol Reference"
-
-msgctxt "[\"content_rating\"][\"Alcohol and Tobacco Reference\"]"
-msgid "Alcohol and Tobacco Reference"
-msgstr "Alcohol and Tobacco Reference"
-
-msgctxt "[\"content_rating\"][\"Violent References\"]"
-msgid "Violent References"
-msgstr "Violent References"
-
-msgctxt "[\"content_rating\"][\"Rated for 3+\"]"
-msgid "Rated for 3+"
-msgstr "Rated for 3+"
-
-msgctxt "[\"content_rating\"][\"Partial Nudity\"]"
-msgid "Partial Nudity"
-msgstr "Partial Nudity"
-
-msgctxt "[\"content_rating\"][\"Comic Mischief\"]"
-msgid "Comic Mischief"
-msgstr "Comic Mischief"
-
-msgctxt "[\"content_rating\"][\"Sexual Themes\"]"
-msgid "Sexual Themes"
-msgstr "Sexual Themes"
-
-msgctxt "[\"content_rating\"][\"Intense Violence\"]"
-msgid "Intense Violence"
-msgstr "Intense Violence"
-
-msgctxt "[\"content_rating\"][\"Drug Reference\"]"
-msgid "Drug Reference"
-msgstr "Drug Reference"
-
-msgctxt "[\"content_rating\"][\"Strong Language\"]"
-msgid "Strong Language"
-msgstr "Strong Language"
-
-msgctxt "[\"content_rating\"][\"Use of Alcohol\"]"
-msgid "Use of Alcohol"
-msgstr "Use of Alcohol"
-
-msgctxt "[\"content_rating\"][\"Use of Tobacco\"]"
-msgid "Use of Tobacco"
-msgstr "Use of Tobacco"
-
-msgctxt "[\"content_rating\"][\"Mild Blood\"]"
-msgid "Mild Blood"
-msgstr "Mild Blood"
-
-msgctxt "[\"content_rating\"][\"Mild Violence\"]"
-msgid "Mild Violence"
-msgstr "Mild Violence"
-
-msgctxt "[\"content_rating\"][\"Tobacco Reference\"]"
-msgid "Tobacco Reference"
-msgstr "Tobacco Reference"
-
-msgctxt "[\"content_rating\"][\"Sexual Content\"]"
-msgid "Sexual Content"
-msgstr "Sexual Content"
-
-msgctxt "[\"content_rating\"][\"Rated for 12+\"]"
-msgid "Rated for 12+"
-msgstr "Rated for 12+"
-
-msgctxt "[\"content_rating\"][\"Moderate Violence\"]"
-msgid "Moderate Violence"
-msgstr "Moderate Violence"
-
-msgctxt "[\"content_rating\"][\"Sexual Innuendo\"]"
-msgid "Sexual Innuendo"
-msgstr "Sexual Innuendo"
-
-msgctxt "[\"content_rating\"][\"Use of Alcohol and Tobacco\"]"
-msgid "Use of Alcohol and Tobacco"
-msgstr "Use of Alcohol and Tobacco"
-
-msgctxt "[\"content_rating\"][\"Strong Violence\"]"
-msgid "Strong Violence"
-msgstr "Strong Violence"
-
-msgctxt "[\"content_rating\"][\"Mild Swearing\"]"
-msgid "Mild Swearing"
-msgstr "Mild Swearing"
-
-msgctxt "[\"content_rating\"][\"Nudity\"]"
-msgid "Nudity"
-msgstr "Nudity"
-
-msgctxt "[\"content_rating\"][\"Use of Drugs\"]"
-msgid "Use of Drugs"
-msgstr "Use of Drugs"
-
-msgctxt "[\"content_rating\"][\"Adults only 18+\"]"
-msgid "Adults only 18+"
-msgstr "Adults only 18+"
-
-msgctxt "[\"content_rating\"][\"Strong Sexual Content\"]"
-msgid "Strong Sexual Content"
-msgstr "Strong Sexual Content"
-
-msgctxt "[\"content_rating\"][\"Use of Drugs and Alcohol\"]"
-msgid "Use of Drugs and Alcohol"
-msgstr "Use of Drugs and Alcohol"
-
-msgctxt "[\"content_rating\"][\"Rated for 7+\"]"
-msgid "Rated for 7+"
-msgstr "Rated for 7+"
-
-msgctxt "[\"content_rating\"][\"Implied Violence\"]"
-msgid "Implied Violence"
-msgstr "Implied Violence"
-
-msgctxt "[\"content_rating\"][\"Horror\"]"
-msgid "Horror"
-msgstr "Horror"
-
-msgctxt "[\"content_rating\"][\"Parental Guidance Recommended\"]"
-msgid "Parental Guidance Recommended"
-msgstr "Parental Guidance Recommended"
-
-msgctxt "[\"content_rating\"][\"Sexual Violence\"]"
-msgid "Sexual Violence"
-msgstr "Sexual Violence"
-
-msgctxt "[\"content_rating\"][\"Fear\"]"
-msgid "Fear"
-msgstr "Fear"
-
-msgctxt "[\"content_rating\"][\"Rated for 18+\"]"
-msgid "Rated for 18+"
-msgstr "Rated for 18+"
-
-msgctxt "[\"content_rating\"][\"Gambling\"]"
-msgid "Gambling"
-msgstr "Gambling"
-
-msgctxt "[\"content_rating\"][\"Extreme Violence\"]"
-msgid "Extreme Violence"
-msgstr "Extreme Violence"
-
-msgctxt "[\"content_rating\"][\"Use of Alcohol/Tobacco\"]"
-msgid "Use of Alcohol/Tobacco"
-msgstr "Use of Alcohol/Tobacco"
-
-msgctxt "[\"content_rating\"][\"Drugs\"]"
-msgid "Drugs"
-msgstr "Drugs"
-
-msgctxt "[\"content_rating\"][\"Mild Language\"]"
-msgid "Mild Language"
-msgstr "Mild Language"
