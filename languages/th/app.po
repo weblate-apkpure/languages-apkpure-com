@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-03-31 09:34+0000\n"
-"PO-Revision-Date: 2019-03-30 17:46+0000\n"
-"Last-Translator: Dtanapolzee Zee <dtanapolzee@gmail.com>\n"
+"PO-Revision-Date: 2019-04-08 04:09+0000\n"
+"Last-Translator: Kumpond <metalofgod.pp@gmail.com>\n"
 "Language-Team: Thai <https://translate.apkpure.com/projects/apkpure/"
 "apkpurecom/th/>\n"
 "Language: th\n"
@@ -28,7 +28,7 @@ msgstr "เอ็กซ์เอพีเค"
 
 msgctxt "[\"NAV-NEW\"]"
 msgid "NEW"
-msgstr "Font"
+msgstr "ใหม่"
 
 #, fuzzy
 msgctxt "[\"NAV-PRODUCTS\"]"
@@ -1420,10 +1420,9 @@ msgstr ""
 "GAMEScould lose browser data or compromise your security or privacy. Enabled "
 "features apply to all u"
 
-#, fuzzy
 msgctxt "[\"NAV-APP\"]"
 msgid "APPS"
-msgstr "APPS"
+msgstr "แอพ"
 
 msgctxt "[\"INDEX-POPULAR_CATEGORIES\"]"
 msgid "Popular categories"
@@ -1513,10 +1512,9 @@ msgctxt "[\"OK\"]"
 msgid "OK"
 msgstr "ตกลง"
 
-#, fuzzy
 msgctxt "[\"TOP-UPDATED-APPS\"]"
 msgid "Top Updated Apps"
-msgstr "Top Updated Apps"
+msgstr "แอพ อัพเดทยอดนิยม"
 
 msgctxt "[\"TOP-UPDATED-GAMES\"]"
 msgid "Top Updated Games"
