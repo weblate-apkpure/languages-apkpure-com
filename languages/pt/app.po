@@ -4,7 +4,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-07-16 16:02+0000\n"
 "PO-Revision-Date: 2019-04-22 06:33+0000\n"
-"Last-Translator: Nicolas Souto <soutonicolas9@gmail.com>\n"
+"Last-Translator: LA Gamer <levyla2001@gmail.com>\n"
 "Language-Team: Portuguese <https://translate.apkpure.com/projects/apkpure/"
 "apkpurecom/pt/>\n"
 "Language: pt\n"
@@ -20,7 +20,7 @@ msgstr "Print JOGOS \"critical strike\""
 
 msgctxt "[\"NAV-APP\"]"
 msgid "APPS"
-msgstr "APPS"
+msgstr "APLICATIVOS"
 
 msgctxt "[\"NAV-XAPK\"]"
 msgid "XAPK"
@@ -44,7 +44,7 @@ msgstr "APLICATIVO NOVO"
 
 msgctxt "[\"NAV-XAPK_GAME\"]"
 msgid "XAPK GAME"
-msgstr ""
+msgstr "XAPK GAME"
 
 msgctxt "[\"NAV-XAPK_APP\"]"
 msgid "XAPK APP"
@@ -56,7 +56,7 @@ msgstr "Instalar APK"
 
 msgctxt "[\"NAV-APK_DOWNLOAD\"]"
 msgid "APK Download"
-msgstr ""
+msgstr "BAIXAR APK"
 
 msgctxt "[\"NAV-APK_VERIFICATION\"]"
 msgid "APK Verification"
@@ -80,7 +80,7 @@ msgstr "Grátis"
 
 msgctxt "[\"READ_MORE\"]"
 msgid "Read More"
-msgstr ""
+msgstr "Consultar informações"
 
 msgctxt "[\"GAME\"]"
 msgid "GAME"
@@ -104,11 +104,11 @@ msgstr "Mais"
 
 msgctxt "[\"XAPK\"]"
 msgid "XAPK"
-msgstr ""
+msgstr "XAPK"
 
 msgctxt "[\"XAPK-GAMES\"]"
 msgid "XAPK Games"
-msgstr ""
+msgstr "Jogos XAPK"
 
 msgctxt "[\"XAPK-APPS\"]"
 msgid "XAPK Apps"
@@ -116,19 +116,19 @@ msgstr ""
 
 msgctxt "[\"HOME\"]"
 msgid "Home"
-msgstr ""
+msgstr "INÍCIO"
 
 msgctxt "[\"SORT_BY\"]"
 msgid "Sort by"
-msgstr ""
+msgstr "Ordenar por"
 
 msgctxt "[\"HOT\"]"
 msgid "Hot"
-msgstr ""
+msgstr "Quente"
 
 msgctxt "[\"DOWNLOADS\"]"
 msgid "Downloads"
-msgstr ""
+msgstr "Downloads"
 
 msgctxt "[\"NEWEST\"]"
 msgid "Newest"
@@ -136,11 +136,11 @@ msgstr ""
 
 msgctxt "[\"RATING\"]"
 msgid "Rating"
-msgstr ""
+msgstr "Avaliação"
 
 msgctxt "[\"CATEGORY\"]"
 msgid "Category"
-msgstr ""
+msgstr "Categoria"
 
 msgctxt "[\"CATEGORY_JOIN\"]"
 msgid "{app_category} {app_type}"
@@ -148,11 +148,11 @@ msgstr ""
 
 msgctxt "[\"SHOW_MORE\"]"
 msgid "Show More"
-msgstr ""
+msgstr "Mostrar Mais"
 
 msgctxt "[\"SHOW_LESS\"]"
 msgid "Show less"
-msgstr ""
+msgstr "Mostrar Menos"
 
 msgctxt "[\"HAVE_PRODUCTS\"]"
 msgid "have {0} products"
@@ -160,15 +160,15 @@ msgstr ""
 
 msgctxt "[\"DEVELOPER\"]"
 msgid "Developer"
-msgstr ""
+msgstr "Desenvolvedor"
 
 msgctxt "[\"POPULAR_GAMES_IN_LAST_HOURS\"]"
 msgid "Popular Games In Last {0} Hours"
-msgstr ""
+msgstr "Jogos Populares nas Últimas {0} Horas"
 
 msgctxt "[\"POPULAR_APPS_IN_LAST_HOURS\"]"
 msgid "Popular Apps In Last {0} Hours"
-msgstr ""
+msgstr "Aplicativos Populares nas Últimas {0} Horas"
 
 msgctxt "[\"POPULAR_APPS_IN_TODAY\"]"
 msgid "Popular Apps In Today"
@@ -180,11 +180,11 @@ msgstr ""
 
 msgctxt "[\"HOT_GAMES\"]"
 msgid "Hot Games"
-msgstr ""
+msgstr "Jogos Quentes"
 
 msgctxt "[\"HOT_APPS\"]"
 msgid "Hot Apps"
-msgstr ""
+msgstr "Apps Quentes"
 
 msgctxt "[\"CLOSE\"]"
 msgid "Close"
@@ -1533,3 +1533,27 @@ msgstr "Baixar Rápido"
 msgctxt "[\"BUY\"]"
 msgid "Buy"
 msgstr "Comprar"
+
+msgctxt "[\"IGNORE\"]"
+msgid "Ignore"
+msgstr "Ignorar"
+
+msgctxt "[\"OK\"]"
+msgid "OK"
+msgstr "OK"
+
+msgctxt "[\"ATTACHMENT\"]"
+msgid "Attachment"
+msgstr "Anexo"
+
+msgctxt "[\"DOWNLOADS_ATTACHMENT\"]"
+msgid "Downloads"
+msgstr "Downloads"
+
+msgctxt "[\"HAVE_PRODUCTS\"]"
+msgid "All {0} Apps"
+msgstr "Todos {0} Aplicativos"
+
+msgctxt "[\"NOT_FOUND\"]"
+msgid "Not Found"
+msgstr "Não Encontrado"
