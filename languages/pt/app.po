@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-07-16 16:02+0000\n"
-"PO-Revision-Date: 2019-04-22 06:33+0000\n"
+"PO-Revision-Date: 2019-06-09 13:05+0000\n"
 "Last-Translator: LA Gamer <levyla2001@gmail.com>\n"
 "Language-Team: Portuguese <https://translate.apkpure.com/projects/apkpure/"
 "apkpurecom/pt/>\n"
@@ -40,7 +40,7 @@ msgstr "JOGO NOVO"
 
 msgctxt "[\"NAV-NEW_APP\"]"
 msgid "NEW APP"
-msgstr "APLICATIVO NOVO"
+msgstr "NOVO APLICATIVO"
 
 msgctxt "[\"NAV-XAPK_GAME\"]"
 msgid "XAPK GAME"
@@ -48,7 +48,7 @@ msgstr "XAPK GAME"
 
 msgctxt "[\"NAV-XAPK_APP\"]"
 msgid "XAPK APP"
-msgstr ""
+msgstr "APLICATIVO XAPK"
 
 msgctxt "[\"NAV-APK_INSTALL\"]"
 msgid "APK Install"
@@ -60,11 +60,11 @@ msgstr "BAIXAR APK"
 
 msgctxt "[\"NAV-APK_VERIFICATION\"]"
 msgid "APK Verification"
-msgstr ""
+msgstr "Verificação do Aplicativo"
 
 msgctxt "[\"NAV-APKPURE_APP\"]"
 msgid "APKPure App"
-msgstr ""
+msgstr "APKPure Aplicativo"
 
 msgctxt "[\"DOWNLOAD\"]"
 msgid "Download"
@@ -112,7 +112,7 @@ msgstr "Jogos XAPK"
 
 msgctxt "[\"XAPK-APPS\"]"
 msgid "XAPK Apps"
-msgstr ""
+msgstr "Aplicativos XAPK"
 
 msgctxt "[\"HOME\"]"
 msgid "Home"
@@ -132,7 +132,7 @@ msgstr "Downloads"
 
 msgctxt "[\"NEWEST\"]"
 msgid "Newest"
-msgstr ""
+msgstr "Mais Novos"
 
 msgctxt "[\"RATING\"]"
 msgid "Rating"
@@ -144,7 +144,7 @@ msgstr "Categoria"
 
 msgctxt "[\"CATEGORY_JOIN\"]"
 msgid "{app_category} {app_type}"
-msgstr ""
+msgstr "{app_category} {app_type}"
 
 msgctxt "[\"SHOW_MORE\"]"
 msgid "Show More"
@@ -924,11 +924,11 @@ msgstr ""
 
 msgctxt "[\"FOOTER-TOP_ANDROID_APPS\"]"
 msgid "TOP ANDROID APPS"
-msgstr ""
+msgstr "TOP APLICATIVOS ANDROIDS"
 
 msgctxt "[\"FOOTER-TOP_ANDROID_GAMES\"]"
 msgid "TOP ANDROID GAMES"
-msgstr ""
+msgstr "TOP JOGOS ANDROID"
 
 msgctxt "[\"FOOTER-TRANSLATE\"]"
 msgid "Help translate APKPure"
@@ -1557,3 +1557,11 @@ msgstr "Todos {0} Aplicativos"
 msgctxt "[\"NOT_FOUND\"]"
 msgid "Not Found"
 msgstr "Não Encontrado"
+
+msgctxt "[\"MARKET-PAGE_TOP_GAMES\"]"
+msgid "Top Games"
+msgstr "Top Jogos"
+
+msgctxt "[\"MARKET-PAGE_TOP_APPS\"]"
+msgid "Top Apps"
+msgstr "Top Aplicativos"
