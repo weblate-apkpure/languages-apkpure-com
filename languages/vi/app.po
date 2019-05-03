@@ -4,7 +4,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-07-31 09:00+0000\n"
 "PO-Revision-Date: 2019-05-14 08:45+0000\n"
-"Last-Translator: Son Vu <vuminhson19801980@gmail.com>\n"
+"Last-Translator: Hoa Hien <hienhoa0603@gmail.com>\n"
 "Language-Team: Vietnamese <https://translate.apkpure.com/projects/apkpure/"
 "apkpurecom/vi/>\n"
 "Language: vi\n"
@@ -90,46 +90,57 @@ msgctxt "[\"BUY\"]"
 msgid "Buy"
 msgstr "Mua"
 
+#, fuzzy
 msgctxt "[\"SELECT_LANGUAGE\"]"
 msgid "Select Language"
 msgstr "Chọn ngôn ngữ"
 
+#, fuzzy
 msgctxt "[\"FREE\"]"
 msgid "Free"
 msgstr "Miễn phí"
 
+#, fuzzy
 msgctxt "[\"TOP-UPDATED-APPS\"]"
 msgid "Top Updated Apps"
 msgstr "Ứng dụng mới Cập nhật Hàng đầu"
 
+#, fuzzy
 msgctxt "[\"TOP-UPDATED-GAMES\"]"
 msgid "Top Updated Games"
 msgstr "Trò chơi đã cập nhật hàng đầu"
 
+#, fuzzy
 msgctxt "[\"READ_MORE\"]"
 msgid "Read More"
 msgstr "Đọc thêm"
 
+#, fuzzy
 msgctxt "[\"GAME\"]"
 msgid "GAME"
 msgstr "Trò chơi"
 
+#, fuzzy
 msgctxt "[\"APP\"]"
 msgid "APP"
 msgstr "Ứng dụng"
 
+#, fuzzy
 msgctxt "[\"GAMES\"]"
 msgid "Games"
 msgstr "Trò chơi"
 
+#, fuzzy
 msgctxt "[\"APPS\"]"
 msgid "Apps"
 msgstr "Ứng dụng"
 
+#, fuzzy
 msgctxt "[\"MORE\"]"
 msgid "More"
 msgstr "Thêm"
 
+#, fuzzy
 msgctxt "[\"XAPK\"]"
 msgid "XAPK"
 msgstr "XAPK"
@@ -138,10 +149,12 @@ msgctxt "[\"XAPK-GAMES\"]"
 msgid "XAPK Games"
 msgstr "Trò xoac 33chơi XAPK"
 
+#, fuzzy
 msgctxt "[\"XAPK-APPS\"]"
 msgid "XAPK Apps"
 msgstr "Ứng dụng XAPK"
 
+#, fuzzy
 msgctxt "[\"HOME\"]"
 msgid "Home"
 msgstr "Trang chủ"
