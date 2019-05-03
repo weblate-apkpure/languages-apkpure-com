@@ -4,7 +4,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-03-19 02:15+0000\n"
 "PO-Revision-Date: 2019-06-05 07:34+0000\n"
-"Last-Translator: Nizam Bagus Maulana <nizambagus.m96@gmail.com>\n"
+"Last-Translator: Billy <qodam62@gmail.com>\n"
 "Language-Team: Indonesian <https://translate.apkpure.com/projects/apkpure/"
 "apkpurecom/id/>\n"
 "Language: id\n"
@@ -20,7 +20,7 @@ msgstr "PERMAINAN"
 
 msgctxt "[\"NAV-APP\"]"
 msgid "APPS"
-msgstr "APLIKASI"
+msgstr "APP"
 
 msgctxt "[\"NAV-XAPK\"]"
 msgid "XAPK"
@@ -62,10 +62,9 @@ msgctxt "[\"NAV-APK_VERIFICATION\"]"
 msgid "APK Verification"
 msgstr "Verifikasi APK"
 
-#, fuzzy
 msgctxt "[\"NAV-APKPURE_APP\"]"
 msgid "APKPure App"
-msgstr "Apl APKPure"
+msgstr "App APKPure"
 
 msgctxt "[\"DOWNLOAD\"]"
 msgid "Download"
@@ -153,7 +152,7 @@ msgstr "Terbaik"
 
 msgctxt "[\"ATTACHMENT\"]"
 msgid "Attachment"
-msgstr "Attachment"
+msgstr "Sisipan"
 
 msgctxt "[\"DOWNLOADS\"]"
 msgid "Downloads"
@@ -169,7 +168,7 @@ msgstr "Terbaru"
 
 msgctxt "[\"RATING\"]"
 msgid "Rating"
-msgstr "Rating"
+msgstr "Penilaian"
 
 msgctxt "[\"CATEGORY\"]"
 msgid "Category"
@@ -229,7 +228,7 @@ msgstr "Komentar"
 
 msgctxt "[\"NOT_FOUND\"]"
 msgid "Not Found"
-msgstr "Not Found"
+msgstr "Tidak ditemukan"
 
 msgctxt "[\"LATEST_UPDATE_GAMES\"]"
 msgid "Latest Update Games"
@@ -309,15 +308,15 @@ msgstr "Memperbarui"
 
 msgctxt "[\"DEV-INCORRECT_PKG_EMAIL\"]"
 msgid "Invalid package name or email"
-msgstr "Invalid package name or email"
+msgstr "Nama paket atau email tidak valid"
 
 msgctxt "[\"DEV-SEND_EMAIL_ERR\"]"
 msgid "Failed to send mail"
-msgstr "Failed to send mail"
+msgstr "Gagal mengirimkan surat"
 
 msgctxt "[\"DEV-PKG_EXISTS\"]"
 msgid "Application has been claimed"
-msgstr "Application has been claimed"
+msgstr "Aplikasi sudah diklaim"
 
 msgctxt "[\"DETAIL\"]"
 msgid "Detail"
@@ -329,7 +328,7 @@ msgstr "{0} Tags"
 
 msgctxt "[\"DETAIL-MAIGHT_LIKE\"]"
 msgid "You Might Also Like"
-msgstr "You Might Also Like"
+msgstr "Anda Mungkin Suka"
 
 msgctxt "[\"DETAIL-PAID_GAME\"]"
 msgid "Paid Game"
@@ -549,7 +548,7 @@ msgstr "Perlu Android versi"
 
 msgctxt "[\"COMMENT-REVIEW_OTHER_LANG\"]"
 msgid "There are {0} reviews in other languages"
-msgstr "There are {0} reviews in other languages"
+msgstr "Ada {0} ulasan dalam bahasa lain."
 
 msgctxt "[\"COMMENT-ADD_NEW_DISCUSSION\"]"
 msgid "Add A New Discussion"
@@ -605,15 +604,15 @@ msgstr "Melaporkan"
 
 msgctxt "[\"COMMENT-COLLAPSED\"]"
 msgid "comment collapsed"
-msgstr "comment collapsed"
+msgstr "komentar disingkat"
 
 msgctxt "[\"COMMENT-POST\"]"
 msgid "Post"
-msgstr "Kirim"
+msgstr "Poskan"
 
 msgctxt "[\"COMMENT-REVIEW_OR_POST\"]"
 msgid "Post review or comment"
-msgstr "Post review or comment"
+msgstr "Poskan komentar atau ulasan"
 
 msgctxt "[\"COMMENT-COMMENTS\"]"
 msgid "Comments"
@@ -629,7 +628,7 @@ msgstr "Nama"
 
 msgctxt "[\"COMMENT-EMAIL\"]"
 msgid "Email"
-msgstr "E-mail"
+msgstr "Email"
 
 msgctxt "[\"COMMENT-SORT_BY_NEWEST\"]"
 msgid "Newest"
@@ -2282,3 +2281,7 @@ msgstr "Games yang baru saja diperbarui"
 msgctxt "[\"REASON\"]"
 msgid "Reason"
 msgstr "Alasan"
+
+msgctxt "[\"NAV-Cloud-Phone-Emulator\"]"
+msgid "Cloud Phone Emulator"
+msgstr "Emulator Ponsel Awan"
