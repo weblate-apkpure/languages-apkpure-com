@@ -4,7 +4,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-03-31 09:34+0000\n"
 "PO-Revision-Date: 2019-05-22 06:39+0000\n"
-"Last-Translator: Shawn Deyton <sdeyton111@gmail.com>\n"
+"Last-Translator: มอส ไง <moszalovekbe@gmail.com>\n"
 "Language-Team: Thai <https://translate.apkpure.com/projects/apkpure/"
 "apkpurecom/th/>\n"
 "Language: th\n"
@@ -58,16 +58,17 @@ msgstr "0980765052"
 #, fuzzy
 msgctxt "[\"NAV-APK_INSTALL\"]"
 msgid "APK Install"
-msgstr "ติดตั้ง APK"
+msgstr "APK Install"
 
+#, fuzzy
 msgctxt "[\"NAV-APK_DOWNLOAD\"]"
 msgid "APK Download"
-msgstr "ดาวน์โหลด APK"
+msgstr "APK Download"
 
 #, fuzzy
 msgctxt "[\"NAV-APK_VERIFICATION\"]"
 msgid "APK Verification"
-msgstr "ตรวจสอบไฟล์ APK"
+msgstr "APK Verification"
 
 #, fuzzy
 msgctxt "[\"NAV-APKPURE_APP\"]"
