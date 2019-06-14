@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-08-08 07:38+0000\n"
-"PO-Revision-Date: 2019-06-14 04:46+0000\n"
+"PO-Revision-Date: 2019-06-14 05:30+0000\n"
 "Last-Translator: Dian Li (xslidian) <xslidian@gmail.com>\n"
 "Language-Team: Chinese (Simplified) <https://translate.apkpure.com/projects/"
 "apkpure/apkpurecom/zh_Hans/>\n"
@@ -40,7 +40,7 @@ msgstr "新游戏"
 
 msgctxt "[\"NAV-NEW_APP\"]"
 msgid "NEW APP"
-msgstr "[\"NAV-NEW_APP\"]新应用"
+msgstr "新上应用"
 
 msgctxt "[\"NAV-XAPK_GAME\"]"
 msgid "XAPK GAME"
@@ -100,7 +100,7 @@ msgstr "应用更新排行"
 
 msgctxt "[\"TOP-UPDATED-GAMES\"]"
 msgid "Top Updated Games"
-msgstr "游戏更新排行榜"
+msgstr "最近更新的热门游戏"
 
 msgctxt "[\"READ_MORE\"]"
 msgid "Read More"
@@ -2000,7 +2000,7 @@ msgstr "安卓软件，安卓游戏，必装的安装游戏，必装的安卓软
 
 msgctxt "[\"meta\"][\"Category_featured_editors-picks\"][\"description\"]"
 msgid "Play with millions of free apps in APKPure style on Android phones, tablets, TV ,etc. Download the best must have android games you should play 2018."
-msgstr "Play with millions of free apps in APKPure style on Android phones, tablets, TV ,etc. Download the best must have android games you should play 2018."
+msgstr "在 Android 手机、平板、电视等平台尽情享用 APKPure 风味的数百万款免费应用。下载今年必玩的游戏佳作。"
 
 msgctxt "[\"meta\"][\"Category_app\"][\"title\"]"
 msgid "Download {0} APK Android App Online - Free Pure APK Downloader"
