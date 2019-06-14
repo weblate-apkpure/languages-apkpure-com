@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-07-13 17:08+0000\n"
-"PO-Revision-Date: 2019-06-14 06:52+0000\n"
+"PO-Revision-Date: 2019-06-14 16:38+0000\n"
 "Last-Translator: Dian Li (xslidian) <xslidian@gmail.com>\n"
 "Language-Team: Chinese <https://translate.apkpure.com/projects/apkpure/"
 "apkpurecom/zh/>\n"
@@ -14,12 +14,10 @@ msgstr ""
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Generator: Weblate 3.2.2\n"
 
-#, fuzzy
 msgctxt "[\"NAV-GAME\"]"
 msgid "GAMES"
 msgstr "游戏"
 
-#, fuzzy
 msgctxt "[\"NAV-APP\"]"
 msgid "APPS"
 msgstr "应用"
@@ -28,12 +26,10 @@ msgctxt "[\"NAV-XAPK\"]"
 msgid "XAPK"
 msgstr "XAPK"
 
-#, fuzzy
 msgctxt "[\"NAV-NEW\"]"
 msgid "NEW"
 msgstr "最新"
 
-#, fuzzy
 msgctxt "[\"NAV-PRODUCTS\"]"
 msgid "PRODUCTS"
 msgstr "产品"
@@ -355,7 +351,7 @@ msgstr "点击下载 XAPK 安装器"
 
 msgctxt "[\"DETAIL-CATEGORY\"]"
 msgid "Category"
-msgstr ""
+msgstr "类别"
 
 #, fuzzy
 msgctxt "[\"DETAIL-LATEST_VERSION\"]"
@@ -384,7 +380,7 @@ msgstr "作者"
 
 msgctxt "[\"DETAIL-REPORT\"]"
 msgid "Report"
-msgstr ""
+msgstr "举报"
 
 #, fuzzy
 msgctxt "[\"DETAIL-FLAG_AS_INAPPROPRIATE\"]"
@@ -418,11 +414,11 @@ msgstr "更新日期"
 
 msgctxt "[\"DETAIL-SIGNATURE\"]"
 msgid "Signature"
-msgstr ""
+msgstr "签名"
 
 msgctxt "[\"DETAIL-FILE_SHA1\"]"
 msgid "File SHA1"
-msgstr ""
+msgstr "文件 SHA1"
 
 #, fuzzy
 msgctxt "[\"DETAIL-APK_FILE_SHA1\"]"
@@ -1887,10 +1883,9 @@ msgctxt "[\"HAVE_PRODUCTS\"]"
 msgid "All {0} Apps"
 msgstr "全部 {0} 款应用"
 
-#, fuzzy
 msgctxt "[\"DEV-INCORRECT_PKG_EMAIL\"]"
 msgid "Invalid package name or email"
-msgstr "不正确的包名或邮箱"
+msgstr "包名或邮箱无效"
 
 #, fuzzy
 msgctxt "[\"DEV-SEND_EMAIL_ERR\"]"
