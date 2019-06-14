@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-07-13 17:08+0000\n"
-"PO-Revision-Date: 2019-06-14 16:38+0000\n"
+"PO-Revision-Date: 2019-06-15 17:20+0000\n"
 "Last-Translator: Dian Li (xslidian) <xslidian@gmail.com>\n"
 "Language-Team: Chinese <https://translate.apkpure.com/projects/apkpure/"
 "apkpurecom/zh/>\n"
@@ -14,10 +14,12 @@ msgstr ""
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Generator: Weblate 3.2.2\n"
 
+#, fuzzy
 msgctxt "[\"NAV-GAME\"]"
 msgid "GAMES"
 msgstr "游戏"
 
+#, fuzzy
 msgctxt "[\"NAV-APP\"]"
 msgid "APPS"
 msgstr "应用"
@@ -26,10 +28,12 @@ msgctxt "[\"NAV-XAPK\"]"
 msgid "XAPK"
 msgstr "XAPK"
 
+#, fuzzy
 msgctxt "[\"NAV-NEW\"]"
 msgid "NEW"
 msgstr "最新"
 
+#, fuzzy
 msgctxt "[\"NAV-PRODUCTS\"]"
 msgid "PRODUCTS"
 msgstr "产品"
@@ -165,7 +169,7 @@ msgstr "种类"
 #, fuzzy
 msgctxt "[\"CATEGORY_JOIN\"]"
 msgid "{app_category} {app_type}"
-msgstr "{app_category}{app_type}"
+msgstr "{app_category} {app_type}"
 
 msgctxt "[\"SHOW_MORE\"]"
 msgid "Show More"
@@ -387,10 +391,9 @@ msgctxt "[\"DETAIL-FLAG_AS_INAPPROPRIATE\"]"
 msgid "Flag as inappropriate"
 msgstr "举报不当内容"
 
-#, fuzzy
 msgctxt "[\"DETAIL-VOTES\"]"
 msgid "votes"
-msgstr "评分"
+msgstr "票"
 
 #, fuzzy
 msgctxt "[\"DETAIL-THE_DESCRIPTION\"]"
@@ -2599,10 +2602,9 @@ msgstr ""
 "在{app_name}{app_type}讨论组中查看{user_name}所有的评论和帖子内容。现在加入APKPure与{user_name}一起互动吧"
 "。"
 
-#, fuzzy
 msgctxt "[\"meta\"][\"Invit\"][\"title_title\"]"
 msgid "{title} {app_type} Discussions | {app_name} Group"
-msgstr "{title}-{app_type}讨论 | {app_name}讨论组"
+msgstr "{title} {app_type} 讨论 | {app_name} 群组"
 
 #, fuzzy
 msgctxt "[\"meta\"][\"Invit\"][\"description_title\"]"
