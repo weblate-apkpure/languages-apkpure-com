@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-08-08 07:38+0000\n"
-"PO-Revision-Date: 2019-06-14 05:30+0000\n"
+"PO-Revision-Date: 2019-06-14 07:36+0000\n"
 "Last-Translator: Dian Li (xslidian) <xslidian@gmail.com>\n"
 "Language-Team: Chinese (Simplified) <https://translate.apkpure.com/projects/"
 "apkpure/apkpurecom/zh_Hans/>\n"
@@ -14,10 +14,12 @@ msgstr ""
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Generator: Weblate 3.2.2\n"
 
+#, fuzzy
 msgctxt "[\"NAV-GAME\"]"
 msgid "GAMES"
 msgstr "游戏"
 
+#, fuzzy
 msgctxt "[\"NAV-APP\"]"
 msgid "APPS"
 msgstr "应用"
@@ -26,26 +28,32 @@ msgctxt "[\"NAV-XAPK\"]"
 msgid "XAPK"
 msgstr "XAPK"
 
+#, fuzzy
 msgctxt "[\"NAV-NEW\"]"
 msgid "NEW"
 msgstr "最新"
 
+#, fuzzy
 msgctxt "[\"NAV-PRODUCTS\"]"
 msgid "PRODUCTS"
 msgstr "产品"
 
+#, fuzzy
 msgctxt "[\"NAV-NEW_GAME\"]"
 msgid "NEW GAME"
-msgstr "新游戏"
+msgstr "最新游戏"
 
+#, fuzzy
 msgctxt "[\"NAV-NEW_APP\"]"
 msgid "NEW APP"
-msgstr "新上应用"
+msgstr "最新应用"
 
+#, fuzzy
 msgctxt "[\"NAV-XAPK_GAME\"]"
 msgid "XAPK GAME"
 msgstr "XAPK 游戏"
 
+#, fuzzy
 msgctxt "[\"NAV-XAPK_APP\"]"
 msgid "XAPK APP"
 msgstr "XAPK 应用"
@@ -54,10 +62,12 @@ msgctxt "[\"NAV-APK_INSTALL\"]"
 msgid "APK Install"
 msgstr "安装 APK"
 
+#, fuzzy
 msgctxt "[\"NAV-APK_DOWNLOAD\"]"
 msgid "APK Download"
 msgstr "下载 APK"
 
+#, fuzzy
 msgctxt "[\"NAV-APK_VERIFICATION\"]"
 msgid "APK Verification"
 msgstr "验证 APK"
@@ -70,10 +80,12 @@ msgctxt "[\"DOWNLOAD\"]"
 msgid "Download"
 msgstr "下载"
 
+#, fuzzy
 msgctxt "[\"FAST_DOWNLOAD\"]"
 msgid "Fast Download"
 msgstr "高速下载"
 
+#, fuzzy
 msgctxt "[\"IGNORE\"]"
 msgid "Ignore"
 msgstr "忽略"
@@ -82,74 +94,91 @@ msgctxt "[\"OK\"]"
 msgid "OK"
 msgstr "确定"
 
+#, fuzzy
 msgctxt "[\"BUY\"]"
 msgid "Buy"
 msgstr "购买"
 
+#, fuzzy
 msgctxt "[\"SELECT_LANGUAGE\"]"
 msgid "Select Language"
 msgstr "选择语言"
 
+#, fuzzy
 msgctxt "[\"FREE\"]"
 msgid "Free"
 msgstr "免费"
 
+#, fuzzy
 msgctxt "[\"TOP-UPDATED-APPS\"]"
 msgid "Top Updated Apps"
-msgstr "应用更新排行"
+msgstr "最近更新的热门应用"
 
+#, fuzzy
 msgctxt "[\"TOP-UPDATED-GAMES\"]"
 msgid "Top Updated Games"
 msgstr "最近更新的热门游戏"
 
+#, fuzzy
 msgctxt "[\"READ_MORE\"]"
 msgid "Read More"
-msgstr "阅读详细信息"
+msgstr "继续阅读"
 
+#, fuzzy
 msgctxt "[\"GAME\"]"
 msgid "GAME"
 msgstr "游戏"
 
+#, fuzzy
 msgctxt "[\"APP\"]"
 msgid "APP"
 msgstr "应用"
 
+#, fuzzy
 msgctxt "[\"GAMES\"]"
 msgid "Games"
 msgstr "游戏"
 
+#, fuzzy
 msgctxt "[\"APPS\"]"
 msgid "Apps"
 msgstr "应用"
 
+#, fuzzy
 msgctxt "[\"MORE\"]"
 msgid "More"
-msgstr "其它"
+msgstr "更多"
 
 msgctxt "[\"XAPK\"]"
 msgid "XAPK"
 msgstr "XAPK"
 
+#, fuzzy
 msgctxt "[\"XAPK-GAMES\"]"
 msgid "XAPK Games"
 msgstr "XAPK 游戏"
 
+#, fuzzy
 msgctxt "[\"XAPK-APPS\"]"
 msgid "XAPK Apps"
 msgstr "XAPK 应用"
 
+#, fuzzy
 msgctxt "[\"HOME\"]"
 msgid "Home"
 msgstr "首页"
 
+#, fuzzy
 msgctxt "[\"SORT_BY\"]"
 msgid "Sort by"
 msgstr "排序方式"
 
+#, fuzzy
 msgctxt "[\"HOT\"]"
 msgid "Hot"
 msgstr "热门"
 
+#, fuzzy
 msgctxt "[\"ATTACHMENT\"]"
 msgid "Attachment"
 msgstr "附件"
@@ -166,14 +195,16 @@ msgctxt "[\"NEWEST\"]"
 msgid "Newest"
 msgstr "最近更新"
 
+#, fuzzy
 msgctxt "[\"RATING\"]"
 msgid "Rating"
-msgstr "评级"
+msgstr "评分"
 
 msgctxt "[\"CATEGORY\"]"
 msgid "Category"
 msgstr "分类"
 
+#, fuzzy
 msgctxt "[\"CATEGORY_JOIN\"]"
 msgid "{app_category} {app_type}"
 msgstr "{app_category}{app_type}"
@@ -186,38 +217,47 @@ msgctxt "[\"SHOW_LESS\"]"
 msgid "Show less"
 msgstr "收起"
 
+#, fuzzy
 msgctxt "[\"HAVE_PRODUCTS\"]"
 msgid "All {0} Apps"
-msgstr "找到 {0} 个"
+msgstr "全部 {0} 款应用"
 
+#, fuzzy
 msgctxt "[\"DEVELOPER\"]"
 msgid "Developer"
 msgstr "开发者"
 
+#, fuzzy
 msgctxt "[\"POPULAR_GAMES_IN_LAST_HOURS\"]"
 msgid "Popular Games In Last {0} Hours"
 msgstr "{0} 小时热门游戏"
 
+#, fuzzy
 msgctxt "[\"POPULAR_APPS_IN_LAST_HOURS\"]"
 msgid "Popular Apps In Last {0} Hours"
 msgstr "{0} 小时热门应用"
 
+#, fuzzy
 msgctxt "[\"POPULAR_APPS_IN_TODAY\"]"
 msgid "Popular Apps In Today"
 msgstr "今日最受欢迎的应用"
 
+#, fuzzy
 msgctxt "[\"POPULAR_GAMES_IN_TODAY\"]"
 msgid "Popular Games In Today"
 msgstr "今日最受欢迎的游戏"
 
+#, fuzzy
 msgctxt "[\"HOT_GAMES\"]"
 msgid "Hot Games"
 msgstr "热门游戏"
 
+#, fuzzy
 msgctxt "[\"HOT_APPS\"]"
 msgid "Hot Apps"
 msgstr "热门应用"
 
+#, fuzzy
 msgctxt "[\"CLOSE\"]"
 msgid "Close"
 msgstr "关闭"
@@ -226,50 +266,62 @@ msgctxt "[\"COMMENTS\"]"
 msgid "Comments"
 msgstr "用户评论"
 
+#, fuzzy
 msgctxt "[\"NOT_FOUND\"]"
 msgid "Not Found"
-msgstr "没有找到"
+msgstr "未找到"
 
+#, fuzzy
 msgctxt "[\"LATEST_UPDATE_GAMES\"]"
 msgid "Latest Update Games"
 msgstr "最近更新游戏"
 
+#, fuzzy
 msgctxt "[\"LATEST_UPDATE_APPS\"]"
 msgid "Latest Update Apps"
 msgstr "最近更新应用"
 
+#, fuzzy
 msgctxt "[\"LATEST_UPDATE\"]"
 msgid "Latest Update"
-msgstr "最近更新"
+msgstr "最新更新"
 
+#, fuzzy
 msgctxt "[\"XAPK_IS_APK_WITH_OBB_DATA\"]"
 msgid "XAPK is APK with OBB data"
-msgstr "XAPK 包含数据包的 APK"
+msgstr "XAPK 是包含 OBB 数据的 APK 安装包"
 
+#, fuzzy
 msgctxt "[\"MOST_POPULAR_IN_TODAY\"]"
 msgid "Most Popular In Today"
-msgstr "今日最受欢迎的"
+msgstr "今日最受欢迎"
 
+#, fuzzy
 msgctxt "[\"SIMILAR_OR_RELATED\"]"
 msgid "Similar Or Related"
 msgstr "猜你喜欢"
 
+#, fuzzy
 msgctxt "[\"INDEX-TITLE\"]"
 msgid "Download free Android Games and Android Apps."
-msgstr "下载免费的安卓游戏及应用"
+msgstr "下载免费的 Android 游戏及应用。"
 
+#, fuzzy
 msgctxt "[\"INDEX-MOBILE_TITLE\"]"
 msgid "Download free Android Games and Apps."
-msgstr "免费下载安卓游戏及应用"
+msgstr "下载免费的 Android 游戏及应用。"
 
+#, fuzzy
 msgctxt "[\"INDEX-HOW_TO_DOWNLOAD\"]"
 msgid "How to download apk files?"
 msgstr "如何下载 APK 文件？"
 
+#, fuzzy
 msgctxt "[\"INDEX-FAQ\"]"
 msgid "FAQ"
 msgstr "常见问题"
 
+#, fuzzy
 msgctxt "[\"INDEX-POPULAR_CATEGORIES\"]"
 msgid "Popular categories"
 msgstr "热门分类"
@@ -278,22 +330,26 @@ msgctxt "[\"DOWNLOAD_APK\"]"
 msgid "Download APK"
 msgstr "下载APK"
 
+#, fuzzy
 msgctxt "[\"VERIFICATION_CODE\"]"
 msgid "Verification code"
 msgstr "验证码"
 
+#, fuzzy
 msgctxt "[\"VERIFICATION_INCORRECT\"]"
 msgid "The verification code is incorrect!"
 msgstr "验证码不正确!"
 
+#, fuzzy
 msgctxt "[\"VERIFICATION_DOWN\"]"
 msgid "Enter the code(s) as you see in the image, then click \"Download\"."
-msgstr "请您输入显示的验证码后点击下载"
+msgstr "请输入图片中的验证码，然后点击「下载」。"
 
 msgctxt "[\"TOPICS\"]"
 msgid "Topics"
 msgstr "专题"
 
+#, fuzzy
 msgctxt "[\"SIMILAR_TO\"]"
 msgid "Similar to {0}"
 msgstr "类似于 {0}"
@@ -302,58 +358,72 @@ msgctxt "[\"CANCEL\"]"
 msgid "Cancel"
 msgstr "取消"
 
+#, fuzzy
 msgctxt "[\"UPDATE\"]"
 msgid "Update"
 msgstr "更新"
 
+#, fuzzy
 msgctxt "[\"DEV-INCORRECT_PKG_EMAIL\"]"
 msgid "Invalid package name or email"
 msgstr "不正确的包名或邮箱"
 
+#, fuzzy
 msgctxt "[\"DEV-SEND_EMAIL_ERR\"]"
 msgid "Failed to send mail"
 msgstr "发送邮件失败"
 
+#, fuzzy
 msgctxt "[\"DEV-PKG_EXISTS\"]"
 msgid "Application has been claimed"
 msgstr "应用已被认领"
 
+#, fuzzy
 msgctxt "[\"DETAIL\"]"
 msgid "Detail"
 msgstr "详情"
 
+#, fuzzy
 msgctxt "[\"DETAIL-HOT_TAGS\"]"
 msgid "{0} Tags"
-msgstr "{0}标签"
+msgstr "{0} 个标签"
 
+#, fuzzy
 msgctxt "[\"DETAIL-MAIGHT_LIKE\"]"
 msgid "You Might Also Like"
 msgstr "你可能还喜欢"
 
+#, fuzzy
 msgctxt "[\"DETAIL-PAID_GAME\"]"
 msgid "Paid Game"
 msgstr "付费游戏"
 
+#, fuzzy
 msgctxt "[\"DETAIL-PAID_APP\"]"
 msgid "Paid App"
 msgstr "付费应用"
 
+#, fuzzy
 msgctxt "[\"DETAIL-PAID_GAME_DES\"]"
 msgid "Paid games are not available to download"
 msgstr "不提供付费游戏下载"
 
+#, fuzzy
 msgctxt "[\"DETAIL-PAID_APP_DES\"]"
 msgid "Paid apps are not available to download"
 msgstr "不提供付费应用下载"
 
+#, fuzzy
 msgctxt "[\"DETAIL-WHY_SAFE\"]"
 msgid "Why we can guarantee APK 100% safe?"
 msgstr "如何保证 APK 是 100% 安全的?"
 
+#, fuzzy
 msgctxt "[\"DETAIL-SAFE\"]"
 msgid "Verification passed"
 msgstr "验证通过"
 
+#, fuzzy
 msgctxt "[\"DETAIL-XAPK_SHORT_DES\"]"
 msgid "XAPK is APK with OBB data, Click to get XAPK Installer"
 msgstr "XAPK 是附带 OBB 数据的 APK 安装包，点击下载 XAPK 安装器"
@@ -366,50 +436,61 @@ msgctxt "[\"DETAIL-CATEGORY\"]"
 msgid "Category"
 msgstr "类别"
 
+#, fuzzy
 msgctxt "[\"DETAIL-LATEST_VERSION\"]"
 msgid "Latest Version"
 msgstr "最新版本"
 
+#, fuzzy
 msgctxt "[\"DETAIL-PUBLISH_DATE\"]"
 msgid "Publish Date"
 msgstr "发布日期"
 
+#, fuzzy
 msgctxt "[\"DETAIL-GET_IT_ON\"]"
 msgid "Get it on"
-msgstr "来源"
+msgstr "发布平台"
 
+#, fuzzy
 msgctxt "[\"DETAIL-REQUIREMENTS\"]"
 msgid "Requirements"
 msgstr "系统要求"
 
+#, fuzzy
 msgctxt "[\"DETAIL-AUTHOR\"]"
 msgid "Author"
-msgstr "开发者"
+msgstr "作者"
 
 msgctxt "[\"DETAIL-REPORT\"]"
 msgid "Report"
 msgstr "举报"
 
+#, fuzzy
 msgctxt "[\"DETAIL-FLAG_AS_INAPPROPRIATE\"]"
 msgid "Flag as inappropriate"
 msgstr "举报不当内容"
 
+#, fuzzy
 msgctxt "[\"DETAIL-VOTES\"]"
 msgid "votes"
-msgstr "评级"
+msgstr "评分"
 
+#, fuzzy
 msgctxt "[\"DETAIL-THE_DESCRIPTION\"]"
 msgid "The description of {0}"
-msgstr "{0}"
+msgstr "{0} 的描述"
 
+#, fuzzy
 msgctxt "[\"DETAIL-OFFICIAL_TRAILER\"]"
 msgid "{0} for Android official Trailer"
-msgstr "Android 版预告片"
+msgstr "{0} Android 版官方预告片"
 
+#, fuzzy
 msgctxt "[\"DETAIL-VERSION\"]"
 msgid "Version"
 msgstr "版本"
 
+#, fuzzy
 msgctxt "[\"DETAIL-UPDATE_ON\"]"
 msgid "Update on"
 msgstr "更新日期"
@@ -422,134 +503,168 @@ msgctxt "[\"DETAIL-FILE_SHA1\"]"
 msgid "File SHA1"
 msgstr "SHA1"
 
+#, fuzzy
 msgctxt "[\"DETAIL-APK_FILE_SHA1\"]"
 msgid "APK File SHA1"
-msgstr "APK文件 SHA1"
+msgstr "APK 文件 SHA1"
 
+#, fuzzy
 msgctxt "[\"DETAIL-XAPK_FILE_SHA1\"]"
 msgid "XAPK File SHA1"
-msgstr "XAPK文件 SHA1"
+msgstr "XAPK 文件 SHA1"
 
+#, fuzzy
 msgctxt "[\"DETAIL-WHATS_NEW\"]"
 msgid "What's new"
 msgstr "更新内容"
 
+#, fuzzy
 msgctxt "[\"DETAIL-VERSION_HISTORY\"]"
 msgid "Version History"
-msgstr "历史版本"
+msgstr "版本"
 
+#, fuzzy
 msgctxt "[\"DETAIL-MORE_FROM_DEVELOPER\"]"
 msgid "More From Developer"
 msgstr "开发者其他应用"
 
+#, fuzzy
 msgctxt "[\"DETAIL-MORE_FROM\"]"
 msgid "More From {0}"
-msgstr "{0}的其他应用"
+msgstr "{0} 的其他应用"
 
 msgctxt "[\"DETAIL-COMMENTS\"]"
 msgid "Comments"
 msgstr "用户评论"
 
+#, fuzzy
 msgctxt "[\"DETAIL-FOLLOW_UPDATES\"]"
 msgid "Follow Updates"
 msgstr "订阅更新"
 
+#, fuzzy
 msgctxt "[\"DETAIL-REQUEST_UPDATE\"]"
 msgid "Request Update"
 msgstr "请求更新"
 
+#, fuzzy
 msgctxt "[\"DETAIL-RATING\"]"
 msgid "{votes} votes, average: {rating_average} out of {rating_best}"
-msgstr "{votes} 票, 平均: {rating_average} 星"
+msgstr "{votes} 票, 平均 {rating_average}/{rating_best} 星"
 
+#, fuzzy
 msgctxt "[\"DETAIL-RATING1\"]"
 msgid "average: {rating_average} out of {rating_best}"
-msgstr "平均: {rating_average} 星"
+msgstr "平均 {rating_average}/{rating_best} 星"
 
+#, fuzzy
 msgctxt "[\"DETAIL-MORE_DEVELOPER\"]"
 msgid "Get more from {0}"
-msgstr "{0} 开发者的更多应用"
+msgstr "{0} 的更多应用"
 
+#, fuzzy
 msgctxt "[\"DETAIL-REMOVED\"]"
 msgid "Removed"
 msgstr "已删除"
 
+#, fuzzy
 msgctxt "[\"DETAIL-CATEGORY_GAME\"]"
 msgid "{0} GAME"
 msgstr "{0} 游戏"
 
+#, fuzzy
 msgctxt "[\"DETAIL-CATEGORY_APP\"]"
 msgid "{0} APP"
 msgstr "{0} 应用"
 
+#, fuzzy
 msgctxt "[\"DETAIL-VERSION_LOAD_MORE\"]"
 msgid "Load more"
 msgstr "更多"
 
+#, fuzzy
 msgctxt "[\"DETAIL-VERSION_MORE\"]"
 msgid "More..."
 msgstr "更多..."
 
+#, fuzzy
 msgctxt "[\"DETAIL-TRANSLATE\"]"
 msgid "Translate"
 msgstr "翻译"
 
+#, fuzzy
 msgctxt "[\"DETAIL-GP_DOWNLOAD\"]"
 msgid "Install on Google Play"
-msgstr "Google Play 下载"
+msgstr "去 Google Play 安装"
 
+#, fuzzy
 msgctxt "[\"DETAIL-ITUNE_DOWNLOAD\"]"
 msgid "Install on iTunes"
-msgstr "iTunes 下载"
+msgstr "去 iTunes 安装"
 
+#, fuzzy
 msgctxt "[\"DETAIL-MORE_DOWNLOAD\"]"
 msgid "More Download Locations:"
-msgstr "其他下载地址:"
+msgstr "其他下载未知:"
 
+#, fuzzy
 msgctxt "[\"DETAIL-DELETED_COPYRIGHT_GOOGLE_PLAY_URL\"]"
 msgid "Download on Google Play"
-msgstr "Download on Google Play"
+msgstr "去 Google Play 下载"
 
+#, fuzzy
 msgctxt "[\"DETAIL-DELETED_COPYRIGHT_GOOGLE_PLAY_DES\"]"
 msgid "{app_name} All rights reserved ©2018 {developer}. {developer} and the {developer} logo are trademarks of {developer} in the U.S. and/or other countries.All other trademarks are the property of their respective owners."
-msgstr "{app_name} All rights reserved ©2018 {developer}. {developer} and the {developer} logo are trademarks of {developer} in the U.S. and/or other countries.All other trademarks are the property of their respective owners."
+msgstr ""
+"{app_name} All rights reserved ©2018 {developer}. {developer} and the "
+"{developer} logo are trademarks of {developer} in the U.S. and/or other "
+"countries.All other trademarks are the property of their respective owners."
 
 msgctxt "[\"DETAIL_DOWNLOAD-NAV_DOWNLOAD\"]"
 msgid "Download"
 msgstr "下载"
 
+#, fuzzy
 msgctxt "[\"DETAIL_DOWNLOAD-DOWNLOADING\"]"
 msgid "Downloading"
 msgstr "正在下载"
 
+#, fuzzy
 msgctxt "[\"DETAIL_DOWNLOAD-DOWNLOADING_DES\"]"
 msgid "If the download doesn't start,"
 msgstr "如果没有自动开始下载,"
 
+#, fuzzy
 msgctxt "[\"DETAIL_DOWNLOAD-DOWNLOADING_DES_CLICK\"]"
 msgid "click here"
-msgstr "请点我"
+msgstr "点击这里"
 
+#, fuzzy
 msgctxt "[\"DETAIL_DOWNLOAD-HOW_TO_INSTALL_APK\"]"
 msgid "How to install APK / XAPK file"
 msgstr "如何安装 APK / XAPK 文件"
 
+#, fuzzy
 msgctxt "[\"VERSION-PREVIOUS\"]"
 msgid "Previous versions"
 msgstr "历史版本"
 
+#, fuzzy
 msgctxt "[\"VERSION-VERSIONS\"]"
 msgid "Versions"
 msgstr "所有版本"
 
+#, fuzzy
 msgctxt "[\"VERSION-REQUIRES_ANDROID\"]"
 msgid "Requires Android"
-msgstr "Android系统版本要求"
+msgstr "Android 版本要求"
 
+#, fuzzy
 msgctxt "[\"COMMENT-REVIEW_OTHER_LANG\"]"
 msgid "There are {0} reviews in other languages"
-msgstr "在其他语言中有{0}评价"
+msgstr "有 {0} 条其他语言的评价"
 
+#, fuzzy
 msgctxt "[\"COMMENT-ADD_NEW_DISCUSSION\"]"
 msgid "Add A New Discussion"
 msgstr "添加新的讨论"
@@ -558,50 +673,60 @@ msgctxt "[\"COMMENT-REPLIES\"]"
 msgid "Replies"
 msgstr "回复"
 
+#, fuzzy
 msgctxt "[\"COMMENT-DISCUSSIONS\"]"
 msgid "Discussions"
 msgstr "讨论"
 
+#, fuzzy
 msgctxt "[\"COMMENT-ALL_DISCUSSIONS\"]"
 msgid "See all discussions"
 msgstr "查看所有讨论"
 
+#, fuzzy
 msgctxt "[\"COMMENT-SEE_ALL_DISCUSSIONS\"]"
 msgid "See all {0} discussions"
-msgstr "查看{0}所有讨论"
+msgstr "查看所有 {0} 条讨论"
 
+#, fuzzy
 msgctxt "[\"COMMENT-JOIN_IN_GROUP\"]"
 msgid "Join {0} group"
-msgstr "加入{0}讨论组"
+msgstr "加入 {0} 群组"
 
+#, fuzzy
 msgctxt "[\"COMMENT-JOIN_GROUP\"]"
 msgid "Join Group"
-msgstr "加入小组"
+msgstr "加入群组"
 
+#, fuzzy
 msgctxt "[\"COMMENT-GROUP\"]"
 msgid "Group"
-msgstr "小组"
+msgstr "群组"
 
 msgctxt "[\"COMMENT-TITLE_POST\"]"
 msgid "Post"
 msgstr "帖子"
 
+#, fuzzy
 msgctxt "[\"COMMENT-ADD\"]"
 msgid "Add Comment"
-msgstr "添加新评论"
+msgstr "添加评论"
 
+#, fuzzy
 msgctxt "[\"COMMENT-ALL-REPLY\"]"
 msgid "All {0} replies"
-msgstr "全部{0}条回复"
+msgstr "全部 {0} 条回复"
 
+#, fuzzy
 msgctxt "[\"COMMENT-VIEWS\"]"
 msgid "Views"
-msgstr "浏览次数"
+msgstr "点击"
 
 msgctxt "[\"COMMENT-REPORT\"]"
 msgid "Report"
 msgstr "举报"
 
+#, fuzzy
 msgctxt "[\"COMMENT-COLLAPSED\"]"
 msgid "comment collapsed"
 msgstr "已折叠"
@@ -610,6 +735,7 @@ msgctxt "[\"COMMENT-POST\"]"
 msgid "Post"
 msgstr "提交"
 
+#, fuzzy
 msgctxt "[\"COMMENT-REVIEW_OR_POST\"]"
 msgid "Post review or comment"
 msgstr "提交评价或评论"
@@ -618,14 +744,17 @@ msgctxt "[\"COMMENT-COMMENTS\"]"
 msgid "Comments"
 msgstr "用户评论"
 
+#, fuzzy
 msgctxt "[\"COMMENT-REPLY\"]"
 msgid "Reply"
 msgstr "回复"
 
+#, fuzzy
 msgctxt "[\"COMMENT-NAME\"]"
 msgid "Name"
 msgstr "名称"
 
+#, fuzzy
 msgctxt "[\"COMMENT-EMAIL\"]"
 msgid "Email"
 msgstr "电子邮件"
@@ -638,6 +767,7 @@ msgctxt "[\"COMMENT-SORT_BY_NEW\"]"
 msgid "Newest"
 msgstr "最新"
 
+#, fuzzy
 msgctxt "[\"COMMENT-SORT_BY_OLDEST\"]"
 msgid "Oldest"
 msgstr "最早"
@@ -646,114 +776,141 @@ msgctxt "[\"COMMENT-SORT_BY_BEST\"]"
 msgid "Best"
 msgstr "热门"
 
+#, fuzzy
 msgctxt "[\"COMMENT-SORT_BY_BEST_LONG\"]"
 msgid "Sort by best"
 msgstr "按热门排序"
 
+#, fuzzy
 msgctxt "[\"COMMENT-SORT_BY_MOST_RECENT\"]"
 msgid "Most Recent"
 msgstr "最近回复"
 
+#, fuzzy
 msgctxt "[\"COMMENT-SORT_BY_MOST_SCORE\"]"
 msgid "Top rated"
 msgstr "最高评分"
 
+#, fuzzy
 msgctxt "[\"COMMENT-SORT_BY_DEFAULT\"]"
 msgid "Sort by default"
 msgstr "默认排序"
 
+#, fuzzy
 msgctxt "[\"COMMENT-RATING_REQUIRED\"]"
 msgid "Rating required"
 msgstr "需要评分"
 
+#, fuzzy
 msgctxt "[\"COMMENT-GUEST\"]"
 msgid "Guest"
 msgstr "游客"
 
+#, fuzzy
 msgctxt "[\"COMMENT-START_THE_DISCUSSION\"]"
 msgid "Start the discussion…"
 msgstr "开始讨论…"
 
+#, fuzzy
 msgctxt "[\"COMMENT-LOG_IN_WITH\"]"
 msgid "Log in with"
-msgstr "登录"
+msgstr "登录渠道"
 
+#, fuzzy
 msgctxt "[\"COMMENT-COMMENTS_CANT_BE_BLANK\"]"
 msgid "Comments can't be blank."
 msgstr "评论不能为空。"
 
+#, fuzzy
 msgctxt "[\"COMMENT-POST_AS_GUEST\"]"
 msgid "Post As a Guest"
-msgstr "以游客身份"
+msgstr "以游客身份发布"
 
+#, fuzzy
 msgctxt "[\"COMMENT-LOGOUT\"]"
 msgid "Logout"
-msgstr "登出"
+msgstr "退出"
 
+#, fuzzy
 msgctxt "[\"COMMENT-WEBSITE\"]"
 msgid "Website"
 msgstr "网站"
 
+#, fuzzy
 msgctxt "[\"COMMENT-TO_BE_FIRST\"]"
 msgid "Ooops! No such content!"
-msgstr "哎呀！ 没找到这方面的内容！"
+msgstr "哎呀！没有此类内容！"
 
 msgctxt "[\"COMMENT-VOTE\"]"
 msgid "Vote"
 msgstr "投票"
 
+#, fuzzy
 msgctxt "[\"COMMENT-ERR_QUICK_LOGIN\"]"
 msgid "Quick login error, please try again."
 msgstr "快速登录发生错误,请重试。"
 
+#, fuzzy
 msgctxt "[\"COMMENT-ERR_EMAIL_NAME\"]"
 msgid "Incorrect mail or name"
-msgstr "不正确的邮箱或名字"
+msgstr "邮箱或用户名不正确"
 
+#, fuzzy
 msgctxt "[\"COMMENT-ERR_DISCUSSION\"]"
 msgid "Incorrect in discussion"
 msgstr "错误的评论内容"
 
+#, fuzzy
 msgctxt "[\"COMMENT-ERR_RATE\"]"
 msgid "Vote failed, repeated"
 msgstr "不允许重复打分"
 
+#, fuzzy
 msgctxt "[\"COMMENT-ERR_SENSITIVE_WORD\"]"
 msgid "Defeat,your post contains sensitive terms"
 msgstr "评论失败，您的评论包含敏感字词"
 
+#, fuzzy
 msgctxt "[\"COMMENT-ERR_SENSITIVE_WORD_AUDIT\"]"
 msgid "Your post contains sensitive terms and is pending approval by an admin"
 msgstr "您的评论包含敏感字词，已加入审核"
 
+#, fuzzy
 msgctxt "[\"COMMENT-ERR_LINK_AUDIT\"]"
 msgid "Your post contains link and is pending approval by an admin"
 msgstr "您的评论包含链接，已加入审核"
 
+#, fuzzy
 msgctxt "[\"COMMENT-ERR_FORBIDDEN\"]"
 msgid "Comment forbidden"
-msgstr "权限不足"
+msgstr "禁止评论"
 
+#, fuzzy
 msgctxt "[\"COMMENT-ERR_FAILURE\"]"
 msgid "Comment unknown"
-msgstr "评论出现未知出错"
+msgstr "评论出现未知错误"
 
+#, fuzzy
 msgctxt "[\"COMMENT-ERR_EMOJI\"]"
 msgid "Emoji comments are not allowed any more! Write something..."
 msgstr "不能发布纯表情内容，写点东西吧..."
 
+#, fuzzy
 msgctxt "[\"COMMENT-ERR_NONE_MESSAGE\"]"
 msgid "You must write something!"
 msgstr "您必须写点什么!"
 
+#, fuzzy
 msgctxt "[\"COMMENT-ERR_INVALID_PARAMETER\"]"
 msgid "Invalid comment parameter"
 msgstr "不正确的评论参数"
 
+#, fuzzy
 msgctxt "[\"COMMENT-ERR_INVALID_USER\"]"
 msgid "You're banned from APKPure by using or posting content containing nudity images. Please edit or remove the images before contacting Admin to restore your account."
 msgstr "您使用或发布的内容中含有裸露图片您已被禁止使用APKPure。 在联系管理员恢复您的帐户之前，请先编辑或删除违规图片。"
 
+#, fuzzy
 msgctxt "[\"COMMENT-ERR_INVALID_VIDEO_URL\"]"
 msgid "Invalid Video URL"
 msgstr "无效的视频链接"
@@ -766,6 +923,7 @@ msgctxt "[\"COMMENT-DELETED\"]"
 msgid "Deleted!"
 msgstr "已删除！"
 
+#, fuzzy
 msgctxt "[\"COMMENT-DEL\"]"
 msgid "Delete"
 msgstr "删除"
@@ -774,70 +932,87 @@ msgctxt "[\"COMMENT-ARE_YOU_SURE\"]"
 msgid "Are you sure?"
 msgstr "你确定？"
 
+#, fuzzy
 msgctxt "[\"COMMENT-LOADING\"]"
 msgid "Comment Loading..."
 msgstr "评论载入中..."
 
+#, fuzzy
 msgctxt "[\"COMMENT-DOWNLOAD_APK\"]"
 msgid "Download the APK file on APKPure."
 msgstr "去 APKPure APP 下载文件。"
 
+#, fuzzy
 msgctxt "[\"COMMENT-ERR_SHARE_APK_DENY\"]"
 msgid "This APP cannot be uploaded"
 msgstr "此应用无法上传"
 
+#, fuzzy
 msgctxt "[\"COMMENT-LINK\"]"
 msgid "Link"
 msgstr "网页链接"
 
+#, fuzzy
 msgctxt "[\"PRE-REGISTER\"]"
 msgid "Pre-Registration Games"
 msgstr "预注册游戏"
 
+#, fuzzy
 msgctxt "[\"PRE-REGISTRANTS\"]"
 msgid "Pre-Registrants"
 msgstr "预约人数"
 
+#, fuzzy
 msgctxt "[\"PRE-REGISTER_DETAILS\"]"
 msgid "Pre-Register Details"
 msgstr "预约信息"
 
+#, fuzzy
 msgctxt "[\"PRE-REGISTER_DATE\"]"
 msgid "Release Date"
 msgstr "发布日期"
 
+#, fuzzy
 msgctxt "[\"PRE-REGISTER_REWARDS\"]"
 msgid "Register Rewards"
 msgstr "注册奖励"
 
+#, fuzzy
 msgctxt "[\"PRE-REGISTER_PAGE\"]"
 msgid "Pre-Register Page"
 msgstr "预注册页面"
 
+#, fuzzy
 msgctxt "[\"USER-FOLLOWING\"]"
 msgid "Following"
 msgstr "关注"
 
+#, fuzzy
 msgctxt "[\"USER-FOLLOWER\"]"
 msgid "Followers"
 msgstr "粉丝"
 
+#, fuzzy
 msgctxt "[\"USER-LIKES\"]"
 msgid "Likes"
 msgstr "获赞"
 
+#, fuzzy
 msgctxt "[\"USER-POSTS\"]"
 msgid "Posts"
 msgstr "评论"
 
+#, fuzzy
 msgctxt "[\"USER-REVIEWS\"]"
 msgid "Reviews"
 msgstr "评价"
 
+#, fuzzy
 msgctxt "[\"USER-REVIEWS_NONE\"]"
 msgid "Too few users ratings"
 msgstr "用户评分过少"
 
+#, fuzzy
 msgctxt "[\"USER-FAVORITES\"]"
 msgid "Favorites"
 msgstr "收藏"
@@ -846,6 +1021,7 @@ msgctxt "[\"USER-REPLIES\"]"
 msgid "Replies"
 msgstr "回复"
 
+#, fuzzy
 msgctxt "[\"USER-PROFILE\"]"
 msgid "Profile"
 msgstr "个人资料"
@@ -854,6 +1030,7 @@ msgctxt "[\"USER-CHANGE_PASSWORD\"]"
 msgid "Change Password"
 msgstr "修改密码"
 
+#, fuzzy
 msgctxt "[\"USER-MESSAGES\"]"
 msgid "Messages"
 msgstr "我的消息"
@@ -862,37 +1039,45 @@ msgctxt "[\"USER-COMMENTS\"]"
 msgid "Comments"
 msgstr "我的评论"
 
+#, fuzzy
 msgctxt "[\"USER-MY_FAVORITE\"]"
 msgid "My Favorite"
 msgstr "我的收藏"
 
+#, fuzzy
 msgctxt "[\"USER-LIKED_COMMENTS\"]"
 msgid "Liked Comments"
 msgstr "赞过的评论"
 
+#, fuzzy
 msgctxt "[\"USER-NEW_PASSWORD\"]"
 msgid "New password"
 msgstr "新密码"
 
+#, fuzzy
 msgctxt "[\"USER-CURRENT_PASSWORD\"]"
 msgid "Current password"
 msgstr "当前密码"
 
+#, fuzzy
 msgctxt "[\"USER-ACCOUNT_EXIST\"]"
 msgid "The username is already in use."
-msgstr "用户名已被使用。"
+msgstr "用户名已被占用。"
 
+#, fuzzy
 msgctxt "[\"USER-ACCOUNT_NOT_EXIST\"]"
 msgid "The account you entered does not exist."
 msgstr "您输入的帐户不存在。"
 
+#, fuzzy
 msgctxt "[\"USER-DISPLAY_NAME_EXIST\"]"
 msgid "The nickname is already in use."
-msgstr "昵称已经在使用。"
+msgstr "昵称已被占用。"
 
+#, fuzzy
 msgctxt "[\"USER-INCORRECT_EMAIL\"]"
 msgid "The e-mail address you entered is invalid."
-msgstr "你所输入的邮箱地址是无效的。"
+msgstr "你所输入的邮箱地址无效。"
 
 msgctxt "[\"USER-INCORRECT_PASSWORD\"]"
 msgid "The password you entered is invalid."
@@ -902,158 +1087,200 @@ msgctxt "[\"USER-INCORRECT_ACCOUNT\"]"
 msgid "The username you entered is invalid."
 msgstr "您输入的用户名无效。"
 
+#, fuzzy
 msgctxt "[\"USER-INCORRECT_BIRTHDAY\"]"
 msgid "You have entered an invalid birthday."
 msgstr "您输入的生日格式无效。"
 
+#, fuzzy
 msgctxt "[\"USER-INCORRECT_INTRO\"]"
 msgid "Information you have entered contains invalid characters."
-msgstr "您所输入的信息中包含无效字符。"
+msgstr "您输入的信息中包含无效字符。"
 
+#, fuzzy
 msgctxt "[\"USER-UNKNOWN_ERROR\"]"
 msgid "unknown mistake."
 msgstr "未知错误。"
 
+#, fuzzy
 msgctxt "[\"USER-BAD_NAME\"]"
 msgid "Your input includes sensitive vocabulary."
 msgstr "您的输入包括敏感词汇。"
 
+#, fuzzy
 msgctxt "[\"USER-SOCIAL_ALREADY_BIND\"]"
 msgid "This third-party account has been connected to another account."
 msgstr "此第三方账户已与其它账户相关联。"
 
+#, fuzzy
 msgctxt "[\"USER-EMAIL_EXIST\"]"
 msgid "This email has been connected to another account."
 msgstr "此电子邮件地址已与其它账户相关联。"
 
+#, fuzzy
 msgctxt "[\"USER-SEND_EMAIL_ERR\"]"
 msgid "Failed to send verification code."
 msgstr "验证码发送失败。"
 
+#, fuzzy
 msgctxt "[\"USER-EMAIL_UNBOUND\"]"
 msgid "This email address is not connected to any account."
 msgstr "此电子邮件地址尚未与任何账户相关联。"
 
+#, fuzzy
 msgctxt "[\"USER-CAPTCHA_TIME_OUT\"]"
 msgid "Verification Code Timeout."
 msgstr "验证码超时。"
 
+#, fuzzy
 msgctxt "[\"USER-INCORRECT_CAPTCHA\"]"
 msgid "Incorrect Verification Code"
 msgstr "验证码错误"
 
+#, fuzzy
 msgctxt "[\"USER-SEND_VERIFICATION_CODE\"]"
 msgid "Send verification code"
 msgstr "发送验证码"
 
+#, fuzzy
 msgctxt "[\"USER-CONNECT_YOUR_EMAIL\"]"
 msgid "Connect your email"
 msgstr "绑定邮箱"
 
+#, fuzzy
 msgctxt "[\"USER-CHANGE_EMAIL\"]"
 msgid "Change email"
 msgstr "修改邮箱"
 
+#, fuzzy
 msgctxt "[\"USER-CONNECT_YOUR_EMAIL_FIRST\"]"
 msgid "Please connect your email first"
 msgstr "请先绑定邮箱"
 
+#, fuzzy
 msgctxt "[\"USER-FEMALE\"]"
 msgid "Female"
 msgstr "女"
 
+#, fuzzy
 msgctxt "[\"USER-MALE\"]"
 msgid "Male"
 msgstr "男"
 
+#, fuzzy
 msgctxt "[\"USER-USER_LOGIN\"]"
 msgid "User Login"
 msgstr "用户登录"
 
+#, fuzzy
 msgctxt "[\"USER-USERNAME\"]"
 msgid "Username"
 msgstr "用户名"
 
+#, fuzzy
 msgctxt "[\"USER-NICKNAME\"]"
 msgid "Nickname"
 msgstr "昵称"
 
+#, fuzzy
 msgctxt "[\"USER-BIRTHDAY\"]"
 msgid "Birthday"
 msgstr "生日"
 
+#, fuzzy
 msgctxt "[\"USER-GENDER\"]"
 msgid "Gender"
 msgstr "性别"
 
+#, fuzzy
 msgctxt "[\"USER-SAVE\"]"
 msgid "Save"
 msgstr "保存"
 
+#, fuzzy
 msgctxt "[\"USER-SAVING\"]"
 msgid "Saving..."
-msgstr "保存中..."
+msgstr "正在保存..."
 
+#, fuzzy
 msgctxt "[\"USER-MY_PICTURE\"]"
 msgid "My Picture"
 msgstr "我的照片"
 
+#, fuzzy
 msgctxt "[\"USER-CHANGE_PICTURE\"]"
 msgid "Change Picture"
-msgstr "更换图片"
+msgstr "更换照片"
 
+#, fuzzy
 msgctxt "[\"USER-PASSWORD\"]"
 msgid "Password"
 msgstr "密码"
 
+#, fuzzy
 msgctxt "[\"USER-NEW_USER_REGISTRATION\"]"
 msgid "New User Registration"
 msgstr "新用户注册"
 
+#, fuzzy
 msgctxt "[\"USER-SIGN_IN_BTN\"]"
 msgid "SIGN IN"
 msgstr "登录"
 
+#, fuzzy
 msgctxt "[\"USER-SIGN_IN\"]"
 msgid "Sign In"
 msgstr "登录"
 
+#, fuzzy
 msgctxt "[\"USER-SIGN_IN_WITH\"]"
 msgid "Or sign in with"
-msgstr "或使用三方账号登录"
+msgstr "或使用第三方账号登录"
 
+#, fuzzy
 msgctxt "[\"USER-SIGN_UP_BTN\"]"
 msgid "SIGN UP"
 msgstr "注册"
 
+#, fuzzy
 msgctxt "[\"USER-SIGN_UP\"]"
 msgid "Sign Up"
 msgstr "注册"
 
+#, fuzzy
 msgctxt "[\"USER-CONFIRM_PASSWORD\"]"
 msgid "Confirm Password"
 msgstr "确认密码"
 
+#, fuzzy
 msgctxt "[\"USER-TERMS_SERVICE\"]"
 msgid "By signing up you agree to our <a href='/terms-service.html' target='_blank'>terms of service</a>"
 msgstr "我已阅读并接受APKPure<a href='/terms-service.html' target='_blank'>相关条款</a>"
 
+#, fuzzy
 msgctxt "[\"REGION_DOWN-TITLE\"]"
 msgid "Region free APK download"
-msgstr "APK 下载器 (APK Downloader)"
+msgstr "突破区域限制下载 APK"
 
+#, fuzzy
 msgctxt "[\"REGION_DOWN-DES\"]"
 msgid "- Download your favorite Android Apps with APK Downloader (Free Apps Only).<br>- Your download will begin automatically after you paste a package id and click the download button.<br>- Download failed? Please manually change country setting and try again.<br>- Want to tell us more about your problems? <a style='color:#FFFF00' href='contact-us.html'>Contact us here</a>"
-msgstr "- 在线下载正版游戏应用，突破区域下载限制，支持安卓手机平板。<br>- 输入安卓应用包名点击下载，即可获取APK文件。<br>- 如果下载失败？请手动更改国家然后再试。<br>- 如果设备不支持或有其他问题请 <a style='color:#FFFF00' href='contact-us.html'>联系我们</a>"
+msgstr ""
+"- 在线下载正版游戏应用，突破区域下载限制，支持安卓手机平板。<br>- 输入安卓应用包名点击下载，即可获取APK文件。<br>- "
+"如果下载失败？请手动更改国家然后再试。<br>- 如果设备不支持或有其他问题请 <a style='color:#FFFF00' href"
+"='contact-us.html'>联系我们</a>"
 
+#, fuzzy
 msgctxt "[\"REGION_DOWN-PLACEHOLDER\"]"
 msgid "com.facebook.katana or https://play.google.com...?id=com.facebook.katana"
 msgstr "com.facebook.katana 或 https://play.google.com...?id=com.facebook.katana"
 
+#, fuzzy
 msgctxt "[\"REGION_DOWN-SEARCH\"]"
 msgid "Search"
-msgstr "区域下载搜索"
+msgstr "搜索"
 
+#, fuzzy
 msgctxt "[\"REGION_DOWN-COUNTRY_NAME\"]"
 msgid "Country name or Region code"
 msgstr "国家名或区域编码"
@@ -1062,22 +1289,26 @@ msgctxt "[\"REGION_DOWN-MOBILE_TITLE\"]"
 msgid "APK Downloader"
 msgstr "APK 下载器"
 
+#, fuzzy
 msgctxt "[\"REGION_DOWN-MOBILE_DES\"]"
 msgid "All Region Games and Apps Download."
-msgstr "突破区域限制，在线下载 APK"
+msgstr "突破区域限制，在线下载 APK。"
 
+#, fuzzy
 msgctxt "[\"LAST_DOWNLOAD\"]"
 msgid "Last Download"
 msgstr "最近下载"
 
+#, fuzzy
 msgctxt "[\"SIGN_VERIFY-TITLE\"]"
 msgid "Signature Verification Online"
-msgstr "APK在线签名校验"
+msgstr "APK 在线签名校验"
 
 msgctxt "[\"SIGN_VERIFY-CLICK_UPLOAD\"]"
 msgid "Click Upload APK file"
 msgstr "点击上传 APK 文件"
 
+#, fuzzy
 msgctxt "[\"SIGN_VERIFY-MAXIMUM\"]"
 msgid "Maximum file size"
 msgstr "最大文件大小"
@@ -1086,6 +1317,7 @@ msgctxt "[\"SIGN_VERIFY-DES\"]"
 msgid "APK Signature verification will verify Android app package signature to keep Android users away from potentially harmful APK files before APK installing."
 msgstr "APKPure签名校验器可帮助用户在线扫描可疑的APK安装文件。"
 
+#, fuzzy
 msgctxt "[\"SIGN_VERIFY-PACKAGE_NAME\"]"
 msgid "Package Name"
 msgstr "包名"
@@ -1098,58 +1330,72 @@ msgctxt "[\"SIGN_VERIFY-FILE_SHA1\"]"
 msgid "File SHA1"
 msgstr "文件 SHA1"
 
+#, fuzzy
 msgctxt "[\"SIGN_VERIFY-FILE_SIZE\"]"
 msgid "File Size"
 msgstr "文件大小"
 
+#, fuzzy
 msgctxt "[\"SEARCH-ON_THE_APP_STORE\"]"
 msgid "{0} On the App Store"
 msgstr "应用商店中有 {0}"
 
+#, fuzzy
 msgctxt "[\"SEARCH-ADVANCED_SEARCH\"]"
 msgid "Advanced Search"
 msgstr "高级搜索"
 
+#, fuzzy
 msgctxt "[\"SEARCH-SEARCH_RESULTS\"]"
 msgid "{0} search results found."
 msgstr "已搜索到 {0} 个结果。"
 
+#, fuzzy
 msgctxt "[\"SEARCH-NO_RESULTS_FOUND\"]"
 msgid "No results found? Try to advanced search again."
 msgstr "没找到? 尝试切换到“高级模式”，然后再试一次。"
 
+#, fuzzy
 msgctxt "[\"SEARCH-SELECT_REGION\"]"
 msgid "Select a region you want to search with"
 msgstr "选择要搜索的 地区/国家"
 
+#, fuzzy
 msgctxt "[\"SEARCH-ABOUT_RESULTS\"]"
 msgid "About {0} results"
-msgstr "已找到 {0} 个结果"
+msgstr "约 {0} 条结果"
 
+#, fuzzy
 msgctxt "[\"SEARCH-PLACEHOLDER1\"]"
 msgid "APKPure or com.apkpure.aegon"
 msgstr "APKPure 或 com.apkpure.aegon"
 
+#, fuzzy
 msgctxt "[\"SEARCH-PLACEHOLDER2\"]"
 msgid "Search..."
 msgstr "搜索..."
 
+#, fuzzy
 msgctxt "[\"SEARCH-PLACEHOLDER3\"]"
 msgid "Name Or Package Name"
 msgstr "应用名或包名"
 
+#, fuzzy
 msgctxt "[\"SEARCH-TITLE\"]"
 msgid "Enter App Name, Package Name, Package ID"
 msgstr "请输入应用名或包名"
 
+#, fuzzy
 msgctxt "[\"SEARCH-APK\"]"
 msgid "Search APK"
-msgstr "搜索"
+msgstr "搜索 apk"
 
+#, fuzzy
 msgctxt "[\"SEARCH-TRENDING\"]"
 msgid "trending searches"
 msgstr "热门搜索"
 
+#, fuzzy
 msgctxt "[\"SEARCH-HISTORY\"]"
 msgid "Search history"
 msgstr "搜索历史"
@@ -1158,6 +1404,7 @@ msgctxt "[\"404-OOPS\"]"
 msgid "OOPS!,"
 msgstr "哇！"
 
+#, fuzzy
 msgctxt "[\"404-Error_404\"]"
 msgid "Error 404!"
 msgstr "404了！"
@@ -1170,54 +1417,65 @@ msgctxt "[\"PRE-REG-BEST\"]"
 msgid "Best"
 msgstr "最热"
 
+#, fuzzy
 msgctxt "[\"PRE-REG-RECOMMEND\"]"
 msgid "Recommendations"
 msgstr "推荐"
 
+#, fuzzy
 msgctxt "[\"404-DES\"]"
 msgid "It seems that page you are looking for no longer exists.<br />You can explore more Android Games and Apps below!"
 msgstr "抱歉！看来您正查找的页面已不存在。<br/>您可以选择在下方浏览更多 Android 游戏和应用"
 
+#, fuzzy
 msgctxt "[\"COPYRIGHT\"]"
 msgid "Copyright © 2014-2018 APKPure All rights reserved."
 msgstr "版权所有 © 2014-2018 APKPure 保留所有权利。"
 
+#, fuzzy
 msgctxt "[\"COPYRIGHT_MOBILE\"]"
 msgid "APKPure.com © 2014-2018"
 msgstr "© 2014-2018 APKPure 版权所有"
 
+#, fuzzy
 msgctxt "[\"COMING_SOON\"]"
 msgid "COMING SOON"
 msgstr "即将上架"
 
+#, fuzzy
 msgctxt "[\"SEARCHING\"]"
 msgid "Searching..."
-msgstr "搜索中..."
+msgstr "正在搜索..."
 
 msgctxt "[\"FOOTER-APK_DOWNLOADER_SEO\"]"
 msgid "APK Downloader"
 msgstr "APK Downloader"
 
+#, fuzzy
 msgctxt "[\"FOOTER-APK_DOWNLOADS_SEO\"]"
 msgid "APK Downloads"
-msgstr "APK Downloads"
+msgstr "APK 下载"
 
+#, fuzzy
 msgctxt "[\"FOOTER-APK_DOWNLOAD\"]"
 msgid "APK Downloader (Region free)"
-msgstr "APK 下载工具"
+msgstr "APK 下载器（突破区域限制）"
 
 msgctxt "[\"FOOTER-APK_INSTALL\"]"
 msgid "APK Install"
 msgstr "APK 安装工具"
 
+#, fuzzy
 msgctxt "[\"FOOTER-APK_SIGNATURE_VERIFICATION\"]"
 msgid "APK Signature Verification"
 msgstr "APK 签名校验工具"
 
+#, fuzzy
 msgctxt "[\"FOOTER-APK_TO_APPX\"]"
 msgid "APK to APPX"
 msgstr "APK 转 APPX 工具"
 
+#, fuzzy
 msgctxt "[\"FOOTER-PRIVACY_POLICY\"]"
 msgid "Privacy Policy"
 msgstr "隐私政策"
@@ -1230,74 +1488,92 @@ msgctxt "[\"FOOTER-DMCA_TITLE\"]"
 msgid "DMCA Disclaimer"
 msgstr "DMCA"
 
+#, fuzzy
 msgctxt "[\"FOOTER-TERM_OF_USE\"]"
 msgid "Term of Use"
 msgstr "使用条款"
 
+#, fuzzy
 msgctxt "[\"FOOTER-MARKET_FOR_ANDROID\"]"
 msgid "APKPure For Android"
 msgstr "APKPure 安卓客户端"
 
+#, fuzzy
 msgctxt "[\"FOOTER-EXPLORE_XAPK_GAMES\"]"
 msgid "Explore XAPK Games"
-msgstr "XAPK 游戏"
+msgstr "浏览 XAPK 游戏"
 
+#, fuzzy
 msgctxt "[\"FOOTER-EXPLORE_XAPK_APPS\"]"
 msgid "Explore XAPK Apps"
-msgstr "XAPK 应用"
+msgstr "浏览 XAPK 应用"
 
+#, fuzzy
 msgctxt "[\"FOOTER-DESKTOP_VERSION\"]"
 msgid "Desktop Version"
 msgstr "电脑版"
 
+#, fuzzy
 msgctxt "[\"FOOTER-MOBILE_VERSION\"]"
 msgid "Mobile Version"
 msgstr "触屏版"
 
+#, fuzzy
 msgctxt "[\"FOOTER-MOBILE_SITE\"]"
 msgid "Mobile Site"
 msgstr "触屏版"
 
+#, fuzzy
 msgctxt "[\"FOOTER-CONTACT_US\"]"
 msgid "Contact Us"
 msgstr "联系我们"
 
+#, fuzzy
 msgctxt "[\"FOOTER-ABOUT\"]"
 msgid "About Us"
 msgstr "关于我们"
 
+#, fuzzy
 msgctxt "[\"FOOTER-SOLUTIONS\"]"
 msgid "SOLUTIONS"
 msgstr "产品相关"
 
+#, fuzzy
 msgctxt "[\"FOOTER-CUSTOMER_SERVICE\"]"
 msgid "CUSTOMER SERVICE"
 msgstr "客户服务"
 
+#, fuzzy
 msgctxt "[\"FOOTER-FOLLOW_US\"]"
 msgid "FOLLOW US"
 msgstr "关注我们"
 
+#, fuzzy
 msgctxt "[\"FOOTER-TOP_ANDROID_APPS\"]"
 msgid "TOP ANDROID APPS"
 msgstr "热门安卓应用"
 
+#, fuzzy
 msgctxt "[\"FOOTER-TOP_ANDROID_GAMES\"]"
 msgid "TOP ANDROID GAMES"
 msgstr "热门安卓游戏"
 
+#, fuzzy
 msgctxt "[\"FOOTER-TRANSLATE\"]"
 msgid "Help translate APKPure"
 msgstr "帮助翻译 APKPure"
 
+#, fuzzy
 msgctxt "[\"FOOTER-DEVELOPER\"]"
 msgid "Submit Your App"
 msgstr "提交应用"
 
+#, fuzzy
 msgctxt "[\"FOOTER-DEVELOPER_CONSOLE\"]"
 msgid "Developer Console"
-msgstr "开发者平台"
+msgstr "开发者控制台"
 
+#, fuzzy
 msgctxt "[\"FOOTER-COOPERATION\"]"
 msgid "Business Cooperation"
 msgstr "商务合作"
@@ -1306,70 +1582,88 @@ msgctxt "[\"FOOTER-XAPK\"]"
 msgid "XAPK"
 msgstr "XAPK"
 
+#, fuzzy
 msgctxt "[\"FOOTER-REPORT_ABUSE\"]"
 msgid "Report abuse"
 msgstr "举报滥用"
 
+#, fuzzy
 msgctxt "[\"MARKET-PAGE_TOP_GAMES\"]"
 msgid "Top Games"
 msgstr "热门游戏"
 
+#, fuzzy
 msgctxt "[\"MARKET-PAGE_TOP_APPS\"]"
 msgid "Top Apps"
 msgstr "热门应用"
 
+#, fuzzy
 msgctxt "[\"MARKET-PAGE_TOP_DEVELOPERS\"]"
 msgid "Top Developers"
 msgstr "热门开发者"
 
+#, fuzzy
 msgctxt "[\"MARKET-PAGE_TOP_COUNTRIES\"]"
 msgid "Top Countries"
 msgstr "分区排行"
 
+#, fuzzy
 msgctxt "[\"MARKET-POP_TITLE\"]"
 msgid "APKPure AppStore App"
-msgstr "APKPure应用市场客户端"
+msgstr "APKPure 应用市场客户端"
 
+#, fuzzy
 msgctxt "[\"MARKET-POP_CHANGE_TITLE\"]"
 msgid "Change Profile Settings"
 msgstr "修改个人信息"
 
+#, fuzzy
 msgctxt "[\"MARKET-POP_ADD_IMAGE\"]"
 msgid "Add Images To Post"
 msgstr "添加图片"
 
+#, fuzzy
 msgctxt "[\"MARKET-POP_ADD_NEW_POST\"]"
 msgid "Add New Post or Comment"
 msgstr "添加新帖或评论"
 
+#, fuzzy
 msgctxt "[\"MARKET-POP_ADD_TAG\"]"
 msgid "Add Tags"
 msgstr "添加应用标签"
 
+#, fuzzy
 msgctxt "[\"MARKET-QR\"]"
 msgid "Download<br>APKPure App"
 msgstr "扫一扫安装<br>APKPure 客户端"
 
+#, fuzzy
 msgctxt "[\"MARKET-QR-TITLE\"]"
 msgid "Download APKPure App"
 msgstr "下载 APKPure 手机客户端"
 
+#, fuzzy
 msgctxt "[\"MARKET-INDEX_SHORT_DES\"]"
 msgid "Try <strong title=\"Download APKPure APK\">APKPure App</strong> - Download, update and install apks on your Android."
-msgstr "使用 <strong title=\"下载APKPure客户端\">APKPure 手机客户端</strong>免费下载，更新升级安卓游戏及应用。"
+msgstr ""
+"使用 <strong title=\"下载APKPure客户端\">APKPure 手机客户端</strong>免费下载，更新升级安卓游戏及应用。"
 
+#, fuzzy
 msgctxt "[\"MARKET-INDEX_SHORT_DES_TITLE\"]"
 msgid "Try APKPure Mobile app, to install, manage and update your Android apps."
 msgstr "通过 APKPure 客户端在手机上免费下载，升级安卓游戏及应用。"
 
+#, fuzzy
 msgctxt "[\"MARKET-DETAIL_APK_SHORT_DES\"]"
 msgid "Faster apks download and update on APKPure App"
 msgstr "使用 APKPure 客户端下载，更新升级安卓游戏及应用"
 
+#, fuzzy
 msgctxt "[\"MARKET-DETAIL_APK_SHORT_DES_MOBILE\"]"
 msgid "Download and update on APKPure App"
 msgstr "使用 APKPure 客户端下载更新"
 
+#, fuzzy
 msgctxt "[\"MARKET-DETAIL_APK_SHORT_DES_TITLE\"]"
 msgid "Faster apks download and update on APKPure"
 msgstr "使用 APKPure 客户端下载，更新升级安卓游戏及应用"
@@ -1386,10 +1680,12 @@ msgctxt "[\"MARKET-DETAIL_XAPK_SHORT_DES_TITLE\"]"
 msgid "Install and update XAPK with APKPure App"
 msgstr "使用 APKPure 客户端升级安装 XAPK"
 
+#, fuzzy
 msgctxt "[\"MARKET-INDEX_BANNER_TITLE\"]"
 msgid "APKPure APP"
 msgstr "APKPure 客户端"
 
+#, fuzzy
 msgctxt "[\"MARKET-INDEX_BANNER_DES\"]"
 msgid "Install,manage and update your apps"
 msgstr "安装、管理并对您的应用进行更新"
@@ -1398,70 +1694,89 @@ msgctxt "[\"MARKET-BOTTOM_BANNER_TITLE\"]"
 msgid "APKPure App"
 msgstr "APKPure 客户端"
 
+#, fuzzy
 msgctxt "[\"MARKET-BOTTOM_BANNER_DES\"]"
 msgid "Try APKPure App - Download, update and install apks on your Android."
 msgstr "使用 APKPure 手机客户端免费下载，及时更新升级安卓游戏及应用。"
 
+#, fuzzy
 msgctxt "[\"MARKET-BOTTOM_BANNER_DETAIL_APK_DES\"]"
 msgid "Using APKPure App to upgrade <strong>{0}</strong>, fast, free and save your internet data."
 msgstr "用 APKPure 客户端来更新 <strong>{0}</strong>，更快，免费，省流量。"
 
+#, fuzzy
 msgctxt "[\"MARKET-BOTTOM_BANNER_DETAIL_APK_DES_TITLE\"]"
 msgid "Using APKPure App to upgrade {0}, fast, free and save your internet data."
 msgstr "用 APKPure 客户端来更新 {0}，更快，免费，省流量。"
 
+#, fuzzy
 msgctxt "[\"MARKET-BOTTOM_BANNER_DETAIL_XAPK_DES\"]"
 msgid "Using APKPure App to upgrade <strong>{0}</strong>, install xapk, fast, free and save your internet data."
 msgstr "用 APKPure 客户端来更新 <strong>{0}</strong>，安装XAPK，更快，免费，省流量。"
 
+#, fuzzy
 msgctxt "[\"MARKET-BOTTOM_BANNER_DETAIL_XAPK_DES_TITLE\"]"
 msgid "Using APKPure App to upgrade {0}, install xapk, fast, free and save your internet data."
 msgstr "用 APKPure 客户端来更新 {0}，安装XAPK，更快，免费，省流量。"
 
+#, fuzzy
 msgctxt "[\"MARKET-BOTTOM_BANNER_DOWNLOAD_BTN\"]"
 msgid "Download APP"
 msgstr "点击下载"
 
+#, fuzzy
 msgctxt "[\"MARKET-PROMOTION_BANNER_MOBILE1\"]"
 msgid "<p class=\"desc\">Using APKPure App to download/update this apk, faster, free and saving data!</p>"
 msgstr "<p class=\"desc\">用APKPure客户端来下载更新此应用，更快，免费，省流量!</p>"
 
+#, fuzzy
 msgctxt "[\"MARKET-PROMOTION_BANNER_MOBILE1_XAPK\"]"
 msgid "<p class=\"desc\">Using APKPure App to install this XAPK, faster, free and saving data!</p>"
-msgstr "<p class=\"desc\">用APKPure客户端来安装XAPK，更快，免费，省流量!</p>"
+msgstr "<p class=\"desc\">使用 APKPure app 来安装此 XAPK，更快，免费，省流量!</p>"
 
+#, fuzzy
 msgctxt "[\"MARKET-PROMOTION_BANNER_MOBILE2\"]"
 msgid "<p class=\"tit\">Using APKPure App</p><p class=\"des\">Faster, free and saving data!</p>"
 msgstr "<p class=\"tit\">使用 APKPure 客户端</p><p class=\"des\">更快、免费、省流量！</p>"
 
+#, fuzzy
 msgctxt "[\"MARKET-PROMOTION_BANNER_MOBILE2_XAPK\"]"
 msgid "<p class=\"tit\">Using APKPure App</p><p class=\"des\">Install XAPK, Faster, free and saving data!</p>"
-msgstr "<p class=\"tit\">使用 APKPure 客户端</p><p class=\"des\">安装XAPK、更快、免费、省流量！</p>"
+msgstr ""
+"<p class=\"tit\">使用 APKPure app</p><p class=\"des\">来安装 XAPK、更快、免费、省流量！</p>"
 
+#, fuzzy
 msgctxt "[\"MARKET-PROMOTION_BANNER_DOWN\"]"
 msgid "<p class=\"tit\">Using APKPure App</p><p class=\"des\">Download / Update this {0}, faster, free and saving data!</p>"
-msgstr "<p class=\"tit\">使用 APKPure 客户端</p><p class=\"des\">下载/更新安装{0}，更快，免费，省流量!</p>"
+msgstr ""
+"<p class=\"tit\">使用 APKPure 客户端</p><p class=\"des\">下载/更新安装{0}，更快，免费，省流量!</p>"
 
+#, fuzzy
 msgctxt "[\"FLAG-Africa\"]"
 msgid "Africa"
 msgstr "非洲"
 
+#, fuzzy
 msgctxt "[\"FLAG-Americas\"]"
 msgid "Americas"
 msgstr "美洲"
 
+#, fuzzy
 msgctxt "[\"FLAG-Asia\"]"
 msgid "Asia"
 msgstr "亚洲"
 
+#, fuzzy
 msgctxt "[\"FLAG-Europe\"]"
 msgid "Europe"
 msgstr "欧洲"
 
+#, fuzzy
 msgctxt "[\"FLAG-Oceania\"]"
 msgid "Oceania"
 msgstr "大洋洲"
 
+#, fuzzy
 msgctxt "[\"FLAG-Rest_of_the_world\"]"
 msgid "Rest of the world"
 msgstr "世界其它地区"
@@ -1470,74 +1785,91 @@ msgctxt "[\"ERROR-OOPS\"]"
 msgid "OOPS!,"
 msgstr ":("
 
+#, fuzzy
 msgctxt "[\"ERROR-SUBTITLE\"]"
 msgid "You can visit the following Games and Apps instead"
-msgstr "试试搜索其他安卓应用，或者看看大家在下载什么。"
+msgstr "试试搜索其他安卓应用，或者看看大家在下载什么"
 
+#, fuzzy
 msgctxt "[\"RECOMMENDED-POSTS\"]"
 msgid "Recommended Posts"
 msgstr "评论推荐"
 
+#, fuzzy
 msgctxt "[\"USERS-RECOMMENDED\"]"
 msgid "Users' Recommendations"
 msgstr "用户推荐"
 
+#, fuzzy
 msgctxt "[\"REVIEW_PRIVACY_POLICY_DES_M\"]"
 msgid "We encourage you to read our updated <a target='_blank' href='{pp}'>Privacy Policy</a> and <a target='_blank' href='{cp}'>Cookies Policy</a>."
 msgstr ""
 "我们鼓励您阅读我们最新的 <a target='_blank' href='{pp}'>隐私政策</a> 和 <a target='_blank' "
 "href='{cp}'>Cookies策略</a>."
 
+#, fuzzy
 msgctxt "[\"REVIEW_PRIVACY_POLICY_DES\"]"
 msgid "We use cookies and other technologies on this website to enhance your user experience.<br> By clicking any link on this page you are giving your consent to our <a target='_blank' href='{pp}'>Privacy Policy</a> and <a target='_blank' href='{cp}'>Cookies Policy</a>."
 msgstr ""
 "我们在本页面上使用cookies和其他技术来提升您的使用体验。<br> 点击本页面上的任何链接均表示您已同意我们的 <a target='_blank' "
 "href='{pp}'>隐私政策</a> 和 <a target='_blank' href='{cp}'>Cookies策略</a>."
 
+#, fuzzy
 msgctxt "[\"REVIEW_PRIVACY_POLICY_BTN\"]"
 msgid "Ok I Agree"
 msgstr "好的，我同意"
 
+#, fuzzy
 msgctxt "[\"REVIEW_PRIVACY_POLICY_MORE\"]"
 msgid "Learn More"
 msgstr "了解更多"
 
+#, fuzzy
 msgctxt "[\"MARKET-TOP_COUNTRY\"][\"en-US\"]"
 msgid "USA"
 msgstr "美国"
 
+#, fuzzy
 msgctxt "[\"MARKET-TOP_COUNTRY\"][\"ja\"]"
 msgid "Japan"
 msgstr "日本"
 
+#, fuzzy
 msgctxt "[\"MARKET-TOP_COUNTRY\"][\"zh-CN\"]"
 msgid "China"
 msgstr "中国"
 
+#, fuzzy
 msgctxt "[\"MARKET-TOP_COUNTRY\"][\"ko-KR\"]"
 msgid "Korea"
 msgstr "韩国"
 
+#, fuzzy
 msgctxt "[\"MARKET-TOP_COUNTRY\"][\"id-ID\"]"
 msgid "Indonesia"
 msgstr "印尼"
 
+#, fuzzy
 msgctxt "[\"MARKET-TOP_COUNTRY\"][\"pt-BR\"]"
 msgid "Brazil"
 msgstr "巴西"
 
+#, fuzzy
 msgctxt "[\"error\"][\"DOWN-ItemNotFree\"]"
 msgid "Sorry, paid apps are not available to download with our APK Download Service."
 msgstr "对不起，不提供付费 APK 下载。"
 
+#, fuzzy
 msgctxt "[\"error\"][\"DOWN-ItemNotFound\"]"
 msgid "Sorry, download failed, the APK cannot be found."
 msgstr "对不起，无法找到此 APK。"
 
+#, fuzzy
 msgctxt "[\"error\"][\"DOWN-LimitedRegion\"]"
 msgid "Oops! Change your region and try download again."
 msgstr "无法在当前区域下载此 APK，请更改区域重新尝试。"
 
+#, fuzzy
 msgctxt "[\"error\"][\"DOWN-LimitedDevice\"]"
 msgid "Sorry, download failed, the APK does not support our device."
 msgstr "未知错误，我们将尽快修复此问题。"
@@ -1550,10 +1882,12 @@ msgctxt "[\"error\"][\"DOWN-LimitedCarrier\"]"
 msgid "Download failed because of an unknown error. We will fix this problem soon."
 msgstr "未知错误，我们将尽快修复此问题。"
 
+#, fuzzy
 msgctxt "[\"error\"][\"DOWN-PreRegister\"]"
 msgid "It's a Pre-registration App, you can't download."
-msgstr "这是一个预注册应用，试试更改区域？"
+msgstr "这是一款预注册应用，不可以下载。试试更改区域？"
 
+#, fuzzy
 msgctxt "[\"error\"][\"DOWN-RunOutOfDevice\"]"
 msgid "Download failed, please try again in 5 minutes."
 msgstr "请求量过大，请5分钟后再试。"
@@ -1562,14 +1896,17 @@ msgctxt "[\"tip\"][\"SHORT_NAME\"]"
 msgid "{0}"
 msgstr "{0}"
 
+#, fuzzy
 msgctxt "[\"tip\"][\"VERSION\"]"
 msgid "Download {app_short_name} v{version_name} for android"
 msgstr "下载{app_short_name}安卓版 v {version_name}"
 
+#, fuzzy
 msgctxt "[\"tip\"][\"ICON\"]"
 msgid "{0} icon"
 msgstr "{0} 图标"
 
+#, fuzzy
 msgctxt "[\"tip\"][\"PREVIOUS_VERSIONS\"]"
 msgid "{0} Previous Versions"
 msgstr "{0}历史版本"
@@ -1582,66 +1919,82 @@ msgctxt "[\"tip\"][\"LIST_TITLE\"]"
 msgid "{0} APK"
 msgstr "{0} APK"
 
+#, fuzzy
 msgctxt "[\"tip\"][\"LIST_DOWN\"]"
 msgid "Download {0} latest version apk"
 msgstr "下载 {0} 最新版 apk"
 
+#, fuzzy
 msgctxt "[\"tip\"][\"LIST_DOWN_XAPK\"]"
 msgid "Download {0} latest version xapk"
 msgstr "下载 {0} 最新版 xapk"
 
+#, fuzzy
 msgctxt "[\"tip\"][\"VERSION_DOWN\"]"
 msgid "Download {app_name} {version_name} ({version_code}) {file_type}"
 msgstr "下载 {app_name} {version_name} ({version_code}) {file_type}"
 
+#, fuzzy
 msgctxt "[\"tip\"][\"RATING\"]"
 msgid "{app_name} average rating {rating_average}"
 msgstr "{app_name} 评级 {rating_average}"
 
+#, fuzzy
 msgctxt "[\"tip\"][\"QR_DOWN\"]"
 msgid "{0} QR code download"
 msgstr "{0} 二维码下载"
 
+#, fuzzy
 msgctxt "[\"tip\"][\"SAFE_VERIFIED\"]"
 msgid "{0} safe verified"
 msgstr "{0} 安全认证"
 
+#, fuzzy
 msgctxt "[\"tip\"][\"SCREEN_POSTER\"]"
 msgid "{0} poster"
 msgstr "{0} 海报"
 
+#, fuzzy
 msgctxt "[\"tip\"][\"SCREEN\"]"
 msgid "{0} apk screenshot"
 msgstr "{0} apk 截图"
 
+#, fuzzy
 msgctxt "[\"tip\"][\"SCREEN_INDEX\"]"
 msgid "{0} screenshot {1}"
 msgstr "{0} 截图 {1}"
 
+#, fuzzy
 msgctxt "[\"tip\"][\"CATEGORY_GAME\"]"
 msgid "Download more {0} games"
 msgstr "下载更多 {0} 游戏"
 
+#, fuzzy
 msgctxt "[\"tip\"][\"CATEGORY_APP\"]"
 msgid "Download more {0} apps"
 msgstr "下载更多 {0} 应用"
 
+#, fuzzy
 msgctxt "[\"tip\"][\"GET_IT_ON_GOOGLE_PLAY\"]"
 msgid "Get {0} on Google Play"
 msgstr "{0} 来源 Google Play"
 
+#, fuzzy
 msgctxt "[\"tip\"][\"GET_IT_ON_OTHER\"]"
 msgid "Get {app_name} on {source_name}"
 msgstr "{app_name} 来源 {source_name}"
 
+#, fuzzy
 msgctxt "[\"tip\"][\"REQUEST_UPDATE\"]"
 msgid "Request {0} Update"
 msgstr "请求 {0} 更新"
 
+#, fuzzy
 msgctxt "[\"tip\"][\"HOT_ANDROID_GAME\"]"
 msgid "hot android game apk"
 msgstr "热门安卓游戏"
 
+#, fuzzy
 msgctxt "[\"tip\"][\"HOT_ANDROID_APP\"]"
 msgid "hot android app apk"
 msgstr "热门安卓应用"
@@ -1650,54 +2003,67 @@ msgctxt "[\"tip\"][\"DOWNLOAD_APK\"]"
 msgid "Download APK"
 msgstr "下载APK"
 
+#, fuzzy
 msgctxt "[\"js\"][\"LANG_TIP\"][\"pl\"]"
 msgid "Czy chcesz zmienić język preferencji na <strong> Polski </strong>?"
 msgstr "是否要将首选语言更改为 <strong> 波兰语(Polski) </strong>?"
 
+#, fuzzy
 msgctxt "[\"js\"][\"LANG_TIP\"][\"es\"]"
 msgid "¿Quiere cambiar su idioma de preferencia a <strong>español</strong>?"
 msgstr "是否要将首选语言更改为 <strong>西班牙语(español)</strong>？"
 
+#, fuzzy
 msgctxt "[\"js\"][\"LANG_TIP\"][\"ru\"]"
 msgid "Вы хотите изменить язык предпочтений на <strong>русский</strong>?"
 msgstr "您是否要将首选语言更改为<strong>俄罗斯语(русский)</strong>?"
 
+#, fuzzy
 msgctxt "[\"js\"][\"LANG_TIP\"][\"id\"]"
 msgid "Apakah Anda ingin mengubah bahasa pilihan Anda <strong>ke bahasa Indonesia</strong>?"
 msgstr "您是否要将首选语言更改为 <strong>印度尼西亚语(ke bahasa Indonesia)</strong>?"
 
+#, fuzzy
 msgctxt "[\"js\"][\"LANG_TIP\"][\"it\"]"
 msgid "Vuoi cambiare la tua lingua preferenziale in <strong>italiano</strong>?"
 msgstr "您是否要将首选语言更改为<strong>意大利语(italiano)</strong>?"
 
+#, fuzzy
 msgctxt "[\"js\"][\"LANG_TIP\"][\"de\"]"
 msgid "Wil je de taal van je voorkeur wijzigen in <strong> Deutsch </strong>?"
 msgstr "您是否要将首选语言更改为<strong> 德语(Deutsch) </strong>?"
 
+#, fuzzy
 msgctxt "[\"js\"][\"LANG_TIP\"][\"vn\"]"
 msgid "Bạn có muốn thay đổi ngôn ngữ ưa thích của mình thành <strong> Tiếng Việt </strong> không?"
 msgstr "您是否要将首选语言更改为 <strong> 越南语(Tiếng Việt) </strong> ？"
 
+#, fuzzy
 msgctxt "[\"js\"][\"LANG_TIP\"][\"nl\"]"
 msgid "Wilt u uw voorkeurstaal naar <strong>Nederlands</strong> veranderen?"
 msgstr "您是否要将首选语言更改为 <strong>荷兰语(Nederlands)</strong> ？"
 
+#, fuzzy
 msgctxt "[\"js\"][\"LANG_IGNORE\"][\"pl\"]"
 msgid "Ignorować"
 msgstr "忽略"
 
+#, fuzzy
 msgctxt "[\"js\"][\"LANG_IGNORE\"][\"es\"]"
 msgid "Ignorar"
 msgstr "忽略"
 
+#, fuzzy
 msgctxt "[\"js\"][\"LANG_IGNORE\"][\"ru\"]"
 msgid "игнорировать"
 msgstr "忽略"
 
+#, fuzzy
 msgctxt "[\"js\"][\"LANG_IGNORE\"][\"id\"]"
 msgid "Mengabaikan"
 msgstr "忽略"
 
+#, fuzzy
 msgctxt "[\"js\"][\"LANG_IGNORE\"][\"it\"]"
 msgid "Ignorare"
 msgstr "忽略"
@@ -1718,14 +2084,17 @@ msgctxt "[\"js\"][\"LANG_OK\"][\"pl\"]"
 msgid "ok"
 msgstr "ok"
 
+#, fuzzy
 msgctxt "[\"js\"][\"LANG_OK\"][\"es\"]"
 msgid "DE ACUERDO"
 msgstr "DE ACUERDO"
 
+#, fuzzy
 msgctxt "[\"js\"][\"LANG_OK\"][\"ru\"]"
 msgid "ОК"
 msgstr "ОК"
 
+#, fuzzy
 msgctxt "[\"js\"][\"LANG_OK\"][\"id\"]"
 msgid "baik"
 msgstr "忽略"
@@ -1746,26 +2115,32 @@ msgctxt "[\"js\"][\"LANG_OK\"][\"nl\"]"
 msgid "OK"
 msgstr "OK"
 
+#, fuzzy
 msgctxt "[\"js\"][\"SIGN_VERIFY-OFFICIAL\"]"
 msgid "[Official] This {0} APK is the unmodified official version."
-msgstr "【官方】{0}是未修改的可信版本。"
+msgstr "【官方】此 {0} APK 是未经修改的官方版。"
 
+#, fuzzy
 msgctxt "[\"js\"][\"SIGN_VERIFY-NOT_TRUSTED\"]"
 msgid "[Not Trusted] This {0} APK is a modified version, we don't recommend installing it."
-msgstr "【不可信的】{0}是修改版本不建议安装"
+msgstr "【不可信】此 {0} APK 是修改版，不建议安装。"
 
+#, fuzzy
 msgctxt "[\"js\"][\"SIGN_VERIFY-ERROR_APK_FILE\"]"
 msgid "Error APK file"
-msgstr "错误的APK文件"
+msgstr "错误的 APK 文件"
 
+#, fuzzy
 msgctxt "[\"js\"][\"SIGN_VERIFY-VALID\"]"
 msgid "The uploaded file is not a valid Android application."
-msgstr "不是有效的安卓程序"
+msgstr "上传的文件不是有效的 Android 应用。"
 
+#, fuzzy
 msgctxt "[\"js\"][\"SIGN_VERIFY-SAFE\"]"
 msgid "safe"
 msgstr "安全"
 
+#, fuzzy
 msgctxt "[\"js\"][\"SIGN_VERIFY-UNSAFE\"]"
 msgid "unsafe"
 msgstr "不安全"
@@ -1774,21 +2149,25 @@ msgctxt "[\"js\"][\"SIGN_VERIFY-CLICK_UPLOAD\"]"
 msgid "Click Upload APK file"
 msgstr "点击上传APK文件"
 
+#, fuzzy
 msgctxt "[\"js\"][\"REGION_DOWN-REGION_ERROR\"]"
 msgid "Package name or region error , try again"
 msgstr "包名错误或区域选择错误，请选择后重新尝试"
 
+#, fuzzy
 msgctxt "[\"js\"][\"REGION_DOWN-INVALID_APP\"]"
 msgid "Invalid app package name,"
-msgstr "包名无效"
+msgstr "应用包名无效,"
 
+#, fuzzy
 msgctxt "[\"js\"][\"REGION_DOWN-SEARCH_RESULTS\"]"
 msgid "Check all {0} search results here."
-msgstr "点击查看{0}的搜索结果"
+msgstr "查看全部 {0} 条搜索结果。"
 
+#, fuzzy
 msgctxt "[\"js\"][\"REGION_DOWN-DOWNLOADING\"]"
 msgid "Downloading, please wait..."
-msgstr "下载中，请稍后..."
+msgstr "正在下载, 请稍候..."
 
 msgctxt "[\"js\"][\"SHOW_MORE\"]"
 msgid "Show More"
@@ -1798,26 +2177,31 @@ msgctxt "[\"js\"][\"SHOW_LESS\"]"
 msgid "Show less"
 msgstr "收起"
 
+#, fuzzy
 msgctxt "[\"js\"][\"LOADING\"]"
 msgid "loading..."
-msgstr "加载中..."
+msgstr "正在加载..."
 
 msgctxt "[\"js\"][\"DOWNLOAD_APK\"]"
 msgid "Download APK"
 msgstr "下载APK"
 
+#, fuzzy
 msgctxt "[\"js\"][\"UPLOADED\"]"
 msgid "Uploaded {0}%"
 msgstr "已上传 {0}%"
 
+#, fuzzy
 msgctxt "[\"js\"][\"UPLOADING\"]"
 msgid "Uploading..."
-msgstr "上传中..."
+msgstr "正在上传..."
 
+#, fuzzy
 msgctxt "[\"js\"][\"VALIDATING\"]"
 msgid "Validating..."
-msgstr "验证中..."
+msgstr "正在验证..."
 
+#, fuzzy
 msgctxt "[\"js\"][\"FILE_UPLOAD_FAILED\"]"
 msgid "File upload failed!"
 msgstr "文件上传失败!"
@@ -1826,22 +2210,27 @@ msgctxt "[\"js\"][\"CANCEL\"]"
 msgid "Cancel"
 msgstr "取消"
 
+#, fuzzy
 msgctxt "[\"js\"][\"YOUTUBE_URL\"]"
 msgid "Enter Youtube video URL"
-msgstr "添加Youtube视频链接"
+msgstr "输入 Youtube 视频链接"
 
+#, fuzzy
 msgctxt "[\"js\"][\"YOUTUBE_URL_ERR\"]"
 msgid "Invalid URL: Please enter a valid YouTube video URL"
-msgstr "无效的链接：请输入有效的Youtube视频链接"
+msgstr "无效的链接：请输入有效的 YouTube 视频链接"
 
+#, fuzzy
 msgctxt "[\"js\"][\"USER-PASSWORD_NOT_MATCH\"]"
 msgid "Passwords do not match"
 msgstr "密码不匹配"
 
+#, fuzzy
 msgctxt "[\"js\"][\"USER-PASSWORD_MUST\"]"
 msgid "Password must be 6-32 characters long"
 msgstr "密码长度必须为6-32个字符"
 
+#, fuzzy
 msgctxt "[\"js\"][\"USER-USERNAME_MUST\"]"
 msgid "Username must be 1-20 characters long and special characters are not allowed."
 msgstr "用户名必须为1-20个字符，不允许使用特殊字符。"
@@ -1854,17 +2243,20 @@ msgctxt "[\"js\"][\"USER-INCORRECT_PASSWORD\"]"
 msgid "The password you entered is invalid."
 msgstr "您输入的密码无效。"
 
+#, fuzzy
 msgctxt "[\"js\"][\"USER-SAVED_SUCCESS\"]"
 msgid "Saved Successfully"
 msgstr "保存成功"
 
+#, fuzzy
 msgctxt "[\"js\"][\"USER-RESEND_VERIFICATION\"]"
 msgid "Resend verification code"
 msgstr "重新发送"
 
+#, fuzzy
 msgctxt "[\"js\"][\"USER-RESEND_IN\"]"
 msgid "Resend in {0}"
-msgstr "重新发送({0})"
+msgstr "{0} 后重新发送"
 
 msgctxt "[\"js\"][\"COMMENT-DELETE\"]"
 msgid "Yes,delete it!"
@@ -1878,6 +2270,7 @@ msgctxt "[\"js\"][\"COMMENT-ARE_YOU_SURE\"]"
 msgid "Are you sure?"
 msgstr "你确定？"
 
+#, fuzzy
 msgctxt "[\"js\"][\"COMMENT-RATE_MUST\"]"
 msgid "Before writing a review or something, please rate the app first."
 msgstr "发表评论前，请先对该应用进行评价。"
@@ -1886,97 +2279,136 @@ msgctxt "[\"js\"][\"COMMENT-VOTE\"]"
 msgid "Vote"
 msgstr "投票"
 
+#, fuzzy
 msgctxt "[\"meta\"][\"Index\"][\"title\"]"
 msgid "Download APK free online downloader | APKPure.com"
 msgstr "使用APKPure APK下载器在线极速下载原版应用 - APKPure官网"
 
+#, fuzzy
 msgctxt "[\"meta\"][\"Index\"][\"keywords\"]"
 msgid "apk download, apk downloader, android apk download"
 msgstr "apk下载, apk下载器, 安卓apk下载"
 
+#, fuzzy
 msgctxt "[\"meta\"][\"Index\"][\"description\"]"
 msgid "Download apk for Android with APKPure APK downloader. NoAds, Faster apk downloads and apk file update speed. Best of all, it's free"
-msgstr "使用APKPure APK下载器下载官方正版应用.无需绑定账户，海量历史版本应用，极速下载更新。"
+msgstr ""
+"使用 APKPure APK "
+"下载器下载官方正版应用。无广告，新版极速收录，无需绑定账户，直接下载安装包，海量历史版本应用，极速下载更新。最重要的是，完全免费"
 
+#, fuzzy
 msgctxt "[\"meta\"][\"Details\"][\"title\"]"
 msgid "{app_name} APK Download - Free {app_category} {app_type} for Android | APKPure.com"
 msgstr "{app_name} 安卓APK下载，{app_name} 官方版APK下载 - APKPure应用市场"
 
+#, fuzzy
 msgctxt "[\"meta\"][\"Details\"][\"keywords\"]"
 msgid "{app_name} apk, {app_name} apk download, {app_name} download, {app_name}.apk, {app_name} android, {app_category} {app_type} download"
-msgstr "{app_name} apk, {app_name} apk下载, {app_name} 下载, {app_name}.apk, {app_name} 安卓版, {app_name}, {app_category}{app_type}下载"
+msgstr ""
+"{app_name} apk, {app_name} apk下载, {app_name} 下载, {app_name}.apk, {app_name} "
+"安卓版, {app_name}, {app_category}{app_type}下载"
 
+#, fuzzy
 msgctxt "[\"meta\"][\"Details\"][\"description\"]"
 msgid "Download {app_short_name} apk {version_name} and all version history for Android. {app_short_description}"
-msgstr "{app_short_name} APK免费下载，{app_short_name}最新版安卓apk {version_name} 下载。{app_short_description}"
+msgstr ""
+"{app_short_name} APK免费下载，{app_short_name}最新版安卓apk {version_name} "
+"下载。{app_short_description}"
 
+#, fuzzy
 msgctxt "[\"meta\"][\"Details_new\"][\"title\"]"
 msgid "{app_short_name} for Android - APK Download"
 msgstr "{app_short_name}安卓下载，安卓版APK | 免费下载"
 
+#, fuzzy
 msgctxt "[\"meta\"][\"Details_new\"][\"keywords\"]"
 msgid "{app_short_name}, {app_short_name} for android, {app_short_name} android download, {app_short_name} apk, {app_short_name} android apk, {app_short_name} download"
-msgstr "{app_short_name}, {app_short_name}安卓版, {app_short_name}安卓下载, {app_short_name}apk, {app_short_name}安卓apk, {app_short_name}下载"
+msgstr ""
+"{app_short_name}, {app_short_name}安卓版, {app_short_name}安卓下载, {app_short_name}"
+"apk, {app_short_name}安卓apk, {app_short_name}下载"
 
+#, fuzzy
 msgctxt "[\"meta\"][\"Details_new\"][\"description\"]"
 msgid "Download {app_short_name} apk {version_name} for Android. {app_short_description}"
 msgstr "{app_short_name}安卓版{version_name}APK免费下载。{app_short_description}"
 
+#, fuzzy
 msgctxt "[\"meta\"][\"Versions\"][\"title\"]"
 msgid "{app_short_name} update version history for Android - APK Download"
 msgstr "{app_short_name}历史更新版本，{app_short_name}安卓版下载 - {app_short_name}APK安装包下载"
 
+#, fuzzy
 msgctxt "[\"meta\"][\"Versions\"][\"keywords\"]"
 msgid "{app_short_name}, download, old, version history, apk, release date, changelog"
 msgstr "{app_short_name}，下载，旧版本，历史版本，apk, 发布日期，更新记录"
 
+#, fuzzy
 msgctxt "[\"meta\"][\"Versions\"][\"description\"]"
 msgid "Download {app_short_name} old versions Android APK or update to {app_short_name} latest version. Review {app_short_name} release date, changelog and more."
-msgstr "下载{app_short_name}安卓老版本apk，{app_short_name}最新版更新，查看{app_short_name}发布日期，改动历史信息等。"
+msgstr ""
+"下载{app_short_name}安卓老版本apk，{app_short_name}最新版更新，查看{app_short_name}发布日期，改动历史信"
+"息等。"
 
+#, fuzzy
 msgctxt "[\"meta\"][\"Details_download\"][\"title\"]"
 msgid "Download {app_name} {version_name} APK | APKPure.com"
 msgstr "下载 {app_name} {version_name} APK | APKPure应用市场"
 
+#, fuzzy
 msgctxt "[\"meta\"][\"Details_download\"][\"keywords\"]"
 msgid "{app_name} apk, {app_name} apk download, {app_name} download"
 msgstr "{app_name} apk, {app_name} apk 下载, {app_name} 下载"
 
+#, fuzzy
 msgctxt "[\"meta\"][\"Details_download\"][\"description\"]"
 msgid "{app_name} {version_name} APK Download"
 msgstr "{app_name} {version_name} APK 下载"
 
+#, fuzzy
 msgctxt "[\"meta\"][\"Details_download_new\"][\"title\"]"
 msgid "Download {app_short_name} latest {version_name} Android APK"
 msgstr "{app_short_name}免费下载 | 下载{app_short_name}最新{version_name}安卓版APK"
 
+#, fuzzy
 msgctxt "[\"meta\"][\"Details_download_new\"][\"title_old\"]"
 msgid "Download {app_short_name} {version_name} Android APK"
 msgstr "{app_short_name}免费下载 | 下载{app_short_name}{version_name}安卓版APK"
 
+#, fuzzy
 msgctxt "[\"meta\"][\"Details_download_new\"][\"keywords\"]"
 msgid "{app_short_name}, android, apk, download, {app_short_name} android, {app_short_name} download"
-msgstr "{app_short_name}, 安卓, apk, download, {app_short_name} 安卓版, {app_short_name}下载"
+msgstr ""
+"{app_short_name}, 安卓, apk, download, {app_short_name} 安卓版, {app_short_name}下载"
 
+#, fuzzy
 msgctxt "[\"meta\"][\"Details_download_new\"][\"description\"]"
 msgid "{app_short_name} Android latest {version_name} APK Download and Install. {app_short_description}"
-msgstr "{app_short_name}下载，{app_short_name}安卓最新版{version_name}APK免费下载。{app_short_description}"
+msgstr ""
+"{app_short_name}下载，{app_short_name}安卓最新版{version_name}APK免费下载。{app_short_desc"
+"ription}"
 
+#, fuzzy
 msgctxt "[\"meta\"][\"Details_download_new\"][\"description_old\"]"
 msgid "{app_short_name} Android {version_name} APK Download and Install. {app_short_description}"
-msgstr "{app_short_name}下载，{app_short_name}安卓版{version_name}APK免费下载。{app_short_description}"
+msgstr ""
+"{app_short_name}下载，{app_short_name}安卓版{version_name}APK免费下载。{app_short_descri"
+"ption}"
 
+#, fuzzy
 msgctxt "[\"meta\"][\"Category_xapk\"][\"title\"]"
 msgid "XAPK ( apk with obb file) {0}.apk for Android download"
-msgstr "安卓版带数据包{0}免费下载"
+msgstr "Android XAPK ( 带 obb 文件的 apk 安装包) {0}.apk 下载"
 
+#, fuzzy
 msgctxt "[\"meta\"][\"Category_xapk\"][\"keywords\"]"
 msgid "xapk {0}, {0} xapk, xapk {0} download, download apk obb, apk with obb data, android"
-msgstr "安卓版带数据包{0},安卓版带数据包{0}下载,安卓{0},安卓{0}下载, 安卓版APK自带OBB数据包, 安卓"
+msgstr ""
+"xapk {0}, {0} xapk, xapk {0} 下载, 下载 apk obb, 带有 obb 数据的 apk 安装包, android"
 
+#, fuzzy
 msgctxt "[\"meta\"][\"Category_xapk\"][\"description\"]"
 msgid "Download Android {0} XAPK, full version with obb data file."
-msgstr "下载{0}安卓APK含数据包。"
+msgstr "下载 Android {0} XAPK，完整版本，包括 obb 数据文件。"
 
 msgctxt "[\"meta\"][\"Category_featured\"][\"title\"]"
 msgid "Download {0} APK Android App Online - Free Pure APK Downloader"
@@ -1990,14 +2422,17 @@ msgctxt "[\"meta\"][\"Category_featured\"][\"description\"]"
 msgid "{0}"
 msgstr "下载官方正版安卓{0}"
 
+#, fuzzy
 msgctxt "[\"meta\"][\"Category_featured_editors-picks\"][\"title\"]"
 msgid "APKPure Editors' Picks for the best Android Games & Apps"
 msgstr "编辑推荐 | APKPure.com"
 
+#, fuzzy
 msgctxt "[\"meta\"][\"Category_featured_editors-picks\"][\"keywords\"]"
 msgid "android apps, android games, must have android games, must have android apps, game download"
 msgstr "安卓软件，安卓游戏，必装的安装游戏，必装的安卓软件，游戏下载"
 
+#, fuzzy
 msgctxt "[\"meta\"][\"Category_featured_editors-picks\"][\"description\"]"
 msgid "Play with millions of free apps in APKPure style on Android phones, tablets, TV ,etc. Download the best must have android games you should play 2018."
 msgstr "在 Android 手机、平板、电视等平台尽情享用 APKPure 风味的数百万款免费应用。下载今年必玩的游戏佳作。"
@@ -2006,26 +2441,35 @@ msgctxt "[\"meta\"][\"Category_app\"][\"title\"]"
 msgid "Download {0} APK Android App Online - Free Pure APK Downloader"
 msgstr "在线下载安卓正版{0} - APKPure应用市场"
 
+#, fuzzy
 msgctxt "[\"meta\"][\"Category_app\"][\"keywords\"]"
 msgid "{0} apk download, free {0} download, {0} apk download, download {0} apk, {0} apk downloader, {0} android"
 msgstr "安卓版{0}apk下载, 手机{0}最新版下载, 最新版{0}apk升级, {0}安卓升级"
 
+#, fuzzy
 msgctxt "[\"meta\"][\"Category_app\"][\"description\"]"
 msgid "Download free and best {0}  for Android phone and tablet with online apk downloader on APKPure.com, including (tool apps, shopping apps, communication apps) and more."
-msgstr "下载最新免费正版安卓{0}，APK在线下载更新 - APKPure应用市场"
+msgstr ""
+"通过 APKPure.com 在线 apk 安装包下载器，免费下载适用于 Android 手机与平板的优秀 {0}  包括工具应用, 购物应用, "
+"通讯应用等等。"
 
 msgctxt "[\"meta\"][\"Category_game\"][\"title\"]"
 msgid "Download {0} APK Android App Online - Free Pure APK Downloader"
 msgstr "在线下载安卓正版{0},{0}APK下载升级 - APKPure应用市场"
 
+#, fuzzy
 msgctxt "[\"meta\"][\"Category_game\"][\"keywords\"]"
 msgid "{0} apk download, free {0} download, download {0} apk, {0} apk downloader, {0} android, {0} app download"
 msgstr "安卓版{0}apk下载, 手机{0}最新版下载, 最新版{0}apk升级, {0}应用升级,安卓{0}下载"
 
+#, fuzzy
 msgctxt "[\"meta\"][\"Category_game\"][\"description\"]"
 msgid "Download free and best {0} for Android phone and tablet with online apk downloader on APKPure.com, including (driving games, shooting games, fighting games) and more."
-msgstr "下载最新免费正版安卓{0}，APK在线下载更新 - APKPure应用市场"
+msgstr ""
+"通过 APKPure.com 在线 apk 安装包下载器，免费下载适用于 Android 手机与平板的优秀 {0}  "
+"包括驾驶游戏、射击游戏、格斗游戏等等。"
 
+#, fuzzy
 msgctxt "[\"meta\"][\"FAQ\"][\"title\"]"
 msgid "{0} FAQ | APKPure.com"
 msgstr "{0}问题 | APKPure.com"
@@ -2038,34 +2482,42 @@ msgctxt "[\"meta\"][\"FAQ\"][\"description\"]"
 msgid "{0}"
 msgstr "{0}"
 
+#, fuzzy
 msgctxt "[\"meta\"][\"Developer\"][\"title\"]"
 msgid "All {0} free Android apps apk download | APKPure.com"
 msgstr "{0}所有好玩的安卓应用下载，游戏下载更新"
 
+#, fuzzy
 msgctxt "[\"meta\"][\"Developer\"][\"keywords\"]"
 msgid "{0} apk download, download {0} free app, {0} games for android,  {0} games app list, {0} app update, {0} app apk downloader"
 msgstr "{0}安卓apk下载, {0}安卓版下载, {0}安卓游戏下载, {0}好玩的应用下载, {0}最新版升级, {0}APK下载"
 
+#, fuzzy
 msgctxt "[\"meta\"][\"Developer\"][\"description\"]"
 msgid "All Apps or Games Published by \"{0}\""
 msgstr "{0}所有安卓游戏免费下载，最新版下载更新。"
 
+#, fuzzy
 msgctxt "[\"meta\"][\"Tag\"][\"title\"]"
 msgid "{0} Android Games & Apps on APKPure App Store"
 msgstr "{0}标签热门游戏或应用 - APKPure应用商店"
 
+#, fuzzy
 msgctxt "[\"meta\"][\"Tag\"][\"keywords\"]"
 msgid "{0}, {0} games,{0} apps, {0} download, {0} android"
 msgstr "{0}, {0}下载,{0}应用, {0}游戏, {0}安卓"
 
+#, fuzzy
 msgctxt "[\"meta\"][\"Tag\"][\"description\"]"
 msgid "Browse and download top {0} games and apps for android mobile, tablets and more"
 msgstr "下载热门{0}标签的游戏或应用"
 
+#, fuzzy
 msgctxt "[\"meta\"][\"Search\"][\"title\"]"
 msgid "{0} search results | APKPure.com"
 msgstr "APKPure应用商店站内搜索{0}"
 
+#, fuzzy
 msgctxt "[\"meta\"][\"Search\"][\"keywords\"]"
 msgid "{0} apk download, download {0} apk"
 msgstr "{0}安卓版APK下载，下载最新版{0}APK安装包"
@@ -2074,34 +2526,42 @@ msgctxt "[\"meta\"][\"Search\"][\"description\"]"
 msgid "{0}"
 msgstr "{0}"
 
+#, fuzzy
 msgctxt "[\"meta\"][\"Search_hot\"][\"title\"]"
 msgid "Search - APKPure Android App Store"
 msgstr "搜索 - APKPure安卓应用商店"
 
+#, fuzzy
 msgctxt "[\"meta\"][\"Search_hot\"][\"keywords\"]"
 msgid "Search {add_trending}"
 msgstr "搜索 {add_trending}"
 
+#, fuzzy
 msgctxt "[\"meta\"][\"Search_hot\"][\"description\"]"
 msgid "Discover Android games free download on APKPure Android App Store."
 msgstr "使用APKPure应用市场发现下载免费好游戏。"
 
+#, fuzzy
 msgctxt "[\"meta\"][\"New\"][\"title\"]"
 msgid "Download the latest {0} APK | APKPure.com"
 msgstr "最近更新上线的安卓{0}APK免费下载 | APKPure应用市场"
 
+#, fuzzy
 msgctxt "[\"meta\"][\"New\"][\"keywords\"]"
 msgid "{0} apk download, {0} update, free top {0} download, free {0} downloader,  best {0} for Android,"
-msgstr "最新安卓{0}apk下载, {0}更新, 热门安卓{0}下载, 安卓热门{0}下载"
+msgstr "{0} apk 下载, {0} 更新, 免费热门 {0} 下载, 免费 {0} 下载器,  Android 最佳 {0},"
 
+#, fuzzy
 msgctxt "[\"meta\"][\"New\"][\"description\"]"
 msgid "Daily update top free {0} apk download."
 msgstr "安卓热门{0}apk更新下载。每日更新，海量免费游戏应用。"
 
+#, fuzzy
 msgctxt "[\"meta\"][\"Verify\"][\"title\"]"
 msgid "APK Signature Verification, Official Version APK Detection Service"
 msgstr "APK签名校验，在线签名校验工具 - APKPure签名校验工具"
 
+#, fuzzy
 msgctxt "[\"meta\"][\"Verify\"][\"keywords\"]"
 msgid "apk signature verification, apk signature verify, apk signature checker, apk signature viewer, modified apk, free, online, scanner"
 msgstr "apk签名校验, apk签名, apk签名验证, apk签名校验工具, apk签名查看器, apk修改查看"
@@ -2110,18 +2570,22 @@ msgctxt "[\"meta\"][\"Verify\"][\"description\"]"
 msgid "APK Signature verification will verify Android app package signature to keep Android users away from potentially harmful APK files before APK installing."
 msgstr "APKPure签名校验器可帮助用户在线扫描可疑的APK安装文件。"
 
+#, fuzzy
 msgctxt "[\"meta\"][\"Download\"][\"title\"]"
 msgid "Region free APK download daily update apps and games"
 msgstr "完美解决下载应用区域限制问题，支持跨区域应用下载更新 - APKPure APK下载器"
 
+#, fuzzy
 msgctxt "[\"meta\"][\"Download\"][\"keywords\"]"
 msgid "apk download, region free apk download"
 msgstr "apk下载, apk更新, 应用下载器"
 
+#, fuzzy
 msgctxt "[\"meta\"][\"Download\"][\"description\"]"
 msgid "download free apps APK for Android phone and tablet."
-msgstr "APKPure APK下载器，突破区域下载限制，支持安卓手机平板，在线下载正版游戏应用。"
+msgstr "为 Android 手机与平板下载免费应用的 APK 安装包。"
 
+#, fuzzy
 msgctxt "[\"meta\"][\"Error\"][\"title\"]"
 msgid "Error"
 msgstr "错误"
@@ -2134,18 +2598,22 @@ msgctxt "[\"meta\"][\"Error\"][\"description\"]"
 msgid "error"
 msgstr "错误"
 
+#, fuzzy
 msgctxt "[\"meta\"][\"Category\"][\"title\"]"
 msgid "Browse Category | APKPure.com"
 msgstr "安卓手机游戏APK免费下载,Android手机软件,手机游戏下载 - APKPure应用商店"
 
+#, fuzzy
 msgctxt "[\"meta\"][\"Category\"][\"keywords\"]"
 msgid "app category,game category"
 msgstr "安卓应用分类,安卓游戏分类"
 
+#, fuzzy
 msgctxt "[\"meta\"][\"Category\"][\"description\"]"
 msgid "Android games and apps category"
-msgstr "下载最新版安卓游戏，安卓应用APK海量应用免费下载升级。"
+msgstr "Android 游戏与应用类别"
 
+#, fuzzy
 msgctxt "[\"meta\"][\"Topics\"][\"title\"]"
 msgid "Topics | APKPure.com"
 msgstr "专题 | APKPure.com"
@@ -2158,6 +2626,7 @@ msgctxt "[\"meta\"][\"Topics\"][\"description\"]"
 msgid "Topics"
 msgstr "专题"
 
+#, fuzzy
 msgctxt "[\"meta\"][\"Topic\"][\"title\"]"
 msgid "{0} | APKPure.com"
 msgstr "{0} | APKPure.com"
@@ -2170,14 +2639,19 @@ msgctxt "[\"meta\"][\"Topic\"][\"description\"]"
 msgid "{0}"
 msgstr "{0}"
 
+#, fuzzy
 msgctxt "[\"meta\"][\"Similar\"][\"title\"]"
 msgid "{app_type} Like {app_short_name}"
 msgstr "类似{app_short_name}的安卓{app_type}"
 
+#, fuzzy
 msgctxt "[\"meta\"][\"Similar\"][\"keywords\"]"
 msgid "{app_short_name} alternative, {app_short_name} similar {app_type}, {app_category} {app_type} like {app_short_name}"
-msgstr "{app_short_name}类似游戏, {app_short_name}同类{app_type}, {app_short_name}{app_category}类{app_type}, {app_short_name}游戏下载"
+msgstr ""
+"{app_short_name}类似游戏, {app_short_name}同类{app_type}, "
+"{app_short_name}{app_category}类{app_type}, {app_short_name}游戏下载"
 
+#, fuzzy
 msgctxt "[\"meta\"][\"Similar\"][\"description\"]"
 msgid "Popular alternative {app_type} to {app_short_name} for Android, Android tablet and more. Download top {similar_count} {app_type} like {app_short_name}, all {app_type} suggested by APKPure."
 msgstr ""
@@ -2185,10 +2659,12 @@ msgstr ""
 "APKPure 推荐的 {app_type} 类，与 {app_short_name} 类似，排行 {similar_count} 的 "
 "{app_type} 类应用。"
 
+#, fuzzy
 msgctxt "[\"meta\"][\"Login\"][\"title\"]"
 msgid "Sign in account for APKPure Android App Store"
 msgstr "APKPure用户登录"
 
+#, fuzzy
 msgctxt "[\"meta\"][\"Login\"][\"keywords\"]"
 msgid "login, new member, account, registration"
 msgstr "登录，新用户，账户"
@@ -2201,38 +2677,47 @@ msgctxt "[\"meta\"][\"Password\"][\"title\"]"
 msgid "Change Password"
 msgstr "修改密码"
 
+#, fuzzy
 msgctxt "[\"meta\"][\"Password\"][\"description\"]"
 msgid "Change or reset my password."
 msgstr "修改、重置我的密码。"
 
+#, fuzzy
 msgctxt "[\"meta\"][\"Email\"][\"title\"]"
 msgid "Verify Your Email Address | APKPure"
 msgstr "验证邮箱 | APKPure"
 
+#, fuzzy
 msgctxt "[\"meta\"][\"Email\"][\"description\"]"
 msgid "Before posting on APKPure, you need to verify email address associated with your account. Use the verification code in confirmation email to unlock more features."
 msgstr "在APKPure社区发帖之前，您需要验证与您的帐户关联的电子邮箱。 使用确认邮件中的验证码来解锁更多社区功能。"
 
+#, fuzzy
 msgctxt "[\"meta\"][\"User\"][\"title\"]"
 msgid "{user_name}: Profile and Activity - APKPure AppStore"
 msgstr "{user_name}: 个人主页和动态"
 
+#, fuzzy
 msgctxt "[\"meta\"][\"User\"][\"description\"]"
 msgid "My APKPure AppStore profile and activity page for {user_name}. Join APKPure AppStore to connect with {user_name}."
 msgstr "{user_name}在APKPure的个人主页，加入APKPure与{user_name}一起互动。"
 
+#, fuzzy
 msgctxt "[\"meta\"][\"Profile\"][\"title\"]"
 msgid "{user_name}'s profile on APKPure App Store"
 msgstr "{user_name}的APKPure"
 
+#, fuzzy
 msgctxt "[\"meta\"][\"Profile\"][\"description\"]"
 msgid "The APKPure member profile for {user_name}."
 msgstr "{user_name} 的 APKPure 成员资料。"
 
+#, fuzzy
 msgctxt "[\"meta\"][\"Register\"][\"title\"]"
 msgid "Register account for APKPure Android App Store"
 msgstr "APKPure用户注册"
 
+#, fuzzy
 msgctxt "[\"meta\"][\"Register\"][\"keywords\"]"
 msgid "register, new member, account, registration"
 msgstr "注册，新用户，账户"
@@ -2241,38 +2726,52 @@ msgctxt "[\"meta\"][\"Register\"][\"description\"]"
 msgid "To join community group or vote on APKPure App Store, you must be registered. Register your APKPure account today!"
 msgstr "在讨论组发帖或评星前，请先注册你的APKPure账户。今天就加入APKPure吧！"
 
+#, fuzzy
 msgctxt "[\"meta\"][\"Group\"][\"title\"]"
 msgid "{app_name} {app_type} Discussion Group | APKPure Groups"
 msgstr "{app_name}{app_type}讨论组 | APKPure 讨论组"
 
+#, fuzzy
 msgctxt "[\"meta\"][\"Group\"][\"keywords\"]"
 msgid "{app_name} group, {app_short_name} community, {app_name} forum, about {app_short_name}, {app_type} discussions"
-msgstr "{app_name}讨论组，{app_short_name}社区，{app_name}论坛，关于{app_short_name}，{app_type}讨论"
+msgstr ""
+"{app_name}讨论组，{app_short_name}社区，{app_name}论坛，关于{app_short_name}，{app_type}讨论"
 
+#, fuzzy
 msgctxt "[\"meta\"][\"Group\"][\"description_game\"]"
 msgid "Online discussions to share {app_name} tips, tricks and cheats. {app_short_description}"
 msgstr "{app_name}游戏攻略,操作技巧,通关秘籍尽在{app_name}讨论组。{app_short_description}"
 
+#, fuzzy
 msgctxt "[\"meta\"][\"Group\"][\"description_app\"]"
 msgid "{app_name} group gathers most Android expert users, who like to share experience on how to use {app_short_name} and give {app_short_name} useful app reviews."
 msgstr "{app_name}讨论组内汇集了众多安卓专家级用户，他们愿意分享自己在使用{app_short_name}的经验并给出实用的应用点评。"
 
+#, fuzzy
 msgctxt "[\"meta\"][\"Invit\"][\"title\"]"
 msgid "{user_name} add a post under {app_name} Discussion Group | APKPure Group"
 msgstr "{user_name}在{app_name}讨论组发布了一个帖子 | APKPure讨论组"
 
+#, fuzzy
 msgctxt "[\"meta\"][\"Invit\"][\"description\"]"
 msgid "View all {user_name}'s comments and posts on APKPure {app_type} discussion group. Join now to connect with {user_name}."
-msgstr "在{app_name}{app_type}讨论组中查看{user_name}所有的评论和帖子内容。现在加入APKPure与{user_name}一起互动吧。"
+msgstr ""
+"在{app_name}{app_type}讨论组中查看{user_name}所有的评论和帖子内容。现在加入APKPure与{user_name}一起互动吧"
+"。"
 
+#, fuzzy
 msgctxt "[\"meta\"][\"Invit\"][\"title_title\"]"
 msgid "{title} {app_type} Discussions | {app_name} Group"
 msgstr "{title}-{app_type}讨论 | {app_name}讨论组"
 
+#, fuzzy
 msgctxt "[\"meta\"][\"Invit\"][\"description_title\"]"
 msgid "\"{post_details}\" sent by {user_name} in {app_name} {app_type} Discussions."
 msgstr "{user_name} 在关于 {app_name} {app_type} 的讨论中提到 \"{post_details}\" 。"
 
+#, fuzzy
 msgctxt "[\"meta\"][\"Invit\"][\"keywords\"]"
 msgid "group, {app_name}, {app_category}, {app_type}, {app_developer}, {app_short_name} community"
-msgstr "讨论组, {app_name}, {app_category}, {app_type}, {app_developer}, {app_short_name}社区"
+msgstr ""
+"讨论组, {app_name}, {app_category}, {app_type}, {app_developer}, "
+"{app_short_name}社区"
