@@ -4,7 +4,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-08-08 07:38+0000\n"
 "PO-Revision-Date: 2019-06-14 07:42+0000\n"
-"Last-Translator: Dian Li (xslidian) <xslidian@gmail.com>\n"
+"Last-Translator: 张瑞 <popgeek6@gmail.com>\n"
 "Language-Team: Chinese (Simplified) <https://translate.apkpure.com/projects/"
 "apkpure/apkpurecom/zh_Hans/>\n"
 "Language: zh_CN\n"
@@ -114,10 +114,9 @@ msgctxt "[\"TOP-UPDATED-APPS\"]"
 msgid "Top Updated Apps"
 msgstr "最近更新的热门应用"
 
-#, fuzzy
 msgctxt "[\"TOP-UPDATED-GAMES\"]"
 msgid "Top Updated Games"
-msgstr "最近更新的热门游戏"
+msgstr "最近更新的游戏"
 
 #, fuzzy
 msgctxt "[\"READ_MORE\"]"
