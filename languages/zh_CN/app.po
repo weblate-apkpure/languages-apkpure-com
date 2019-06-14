@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-08-08 07:38+0000\n"
-"PO-Revision-Date: 2019-06-14 07:36+0000\n"
+"PO-Revision-Date: 2019-06-14 07:42+0000\n"
 "Last-Translator: Dian Li (xslidian) <xslidian@gmail.com>\n"
 "Language-Team: Chinese (Simplified) <https://translate.apkpure.com/projects/"
 "apkpure/apkpurecom/zh_Hans/>\n"
@@ -2084,10 +2084,9 @@ msgctxt "[\"js\"][\"LANG_OK\"][\"pl\"]"
 msgid "ok"
 msgstr "ok"
 
-#, fuzzy
 msgctxt "[\"js\"][\"LANG_OK\"][\"es\"]"
 msgid "DE ACUERDO"
-msgstr "DE ACUERDO"
+msgstr "确定"
 
 #, fuzzy
 msgctxt "[\"js\"][\"LANG_OK\"][\"ru\"]"
