@@ -4,7 +4,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-07-13 17:08+0000\n"
 "PO-Revision-Date: 2019-06-15 17:20+0000\n"
-"Last-Translator: Dian Li (xslidian) <xslidian@gmail.com>\n"
+"Last-Translator: 徐湛蓉 <lovelyfishlovecat@gmail.com>\n"
 "Language-Team: Chinese <https://translate.apkpure.com/projects/apkpure/"
 "apkpurecom/zh/>\n"
 "Language: zh\n"
@@ -1888,7 +1888,7 @@ msgstr "全部 {0} 款应用"
 
 msgctxt "[\"DEV-INCORRECT_PKG_EMAIL\"]"
 msgid "Invalid package name or email"
-msgstr "包名或邮箱无效"
+msgstr "无效的程序包名或电子邮件"
 
 #, fuzzy
 msgctxt "[\"DEV-SEND_EMAIL_ERR\"]"
