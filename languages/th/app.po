@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-03-31 09:34+0000\n"
-"PO-Revision-Date: 2019-03-06 11:39+0000\n"
-"Last-Translator: Arun Pikul <7392arun7900@gmail.com>\n"
+"PO-Revision-Date: 2019-06-25 06:13+0000\n"
+"Last-Translator: စိုင္ေနာ္ခမ္း လားရွိုးသား <sailin9557@gmail.com>\n"
 "Language-Team: Thai <https://translate.apkpure.com/projects/apkpure/"
 "apkpurecom/th/>\n"
 "Language: th\n"
@@ -28,17 +28,16 @@ msgstr "เอ็กซ์เอพีเค"
 
 msgctxt "[\"NAV-NEW\"]"
 msgid "NEW"
-msgstr "Font"
+msgstr "ใหม่"
 
-#, fuzzy
 msgctxt "[\"NAV-PRODUCTS\"]"
 msgid "PRODUCTS"
-msgstr "smผลิตภัณฑ์"
+msgstr "smผลิตภัณฑ์สไนเปอร์3D"
 
 #, fuzzy
 msgctxt "[\"NAV-NEW_GAME\"]"
 msgid "NEW GAME"
-msgstr "เกมใหม่ล่าสุด"
+msgstr "NEW GAME"
 
 #, fuzzy
 msgctxt "[\"NAV-NEW_APP\"]"
@@ -58,16 +57,17 @@ msgstr "0980765052"
 #, fuzzy
 msgctxt "[\"NAV-APK_INSTALL\"]"
 msgid "APK Install"
-msgstr "ติดตั้ง APK"
+msgstr "APK Install"
 
+#, fuzzy
 msgctxt "[\"NAV-APK_DOWNLOAD\"]"
 msgid "APK Download"
-msgstr "ดาวน์โหลด APK"
+msgstr "APK Download"
 
 #, fuzzy
 msgctxt "[\"NAV-APK_VERIFICATION\"]"
 msgid "APK Verification"
-msgstr "ตรวจสอบไฟล์ APK"
+msgstr "APK Verification"
 
 #, fuzzy
 msgctxt "[\"NAV-APKPURE_APP\"]"
@@ -1414,15 +1414,16 @@ msgctxt "[\"category\"][\"APP_WIDGETS\"]"
 msgid "Widgets"
 msgstr ""
 
-#, fuzzy
 msgctxt "[\"NAV-GAME\"]"
 msgid "GAMES"
-msgstr "เกม"
+msgstr "GAMES"
 
 #, fuzzy
 msgctxt "[\"NAV-APP\"]"
 msgid "APPS"
-msgstr "APPS"
+msgstr ""
+"Myanmar zawgyi \n"
+"Myanmar"
 
 msgctxt "[\"INDEX-POPULAR_CATEGORIES\"]"
 msgid "Popular categories"
@@ -1512,10 +1513,9 @@ msgctxt "[\"OK\"]"
 msgid "OK"
 msgstr "ตกลง"
 
-#, fuzzy
 msgctxt "[\"TOP-UPDATED-APPS\"]"
 msgid "Top Updated Apps"
-msgstr "Top Updated Apps"
+msgstr "แอพ อัพเดทยอดนิยม"
 
 msgctxt "[\"TOP-UPDATED-GAMES\"]"
 msgid "Top Updated Games"
