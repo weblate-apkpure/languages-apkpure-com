@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-07-19 09:13+0000\n"
-"PO-Revision-Date: 2019-03-19 02:15+0000\n"
+"PO-Revision-Date: 2019-07-30 15:04+0000\n"
 "Last-Translator: chenhsi Liang <lchenhsi@gmail.com>\n"
 "Language-Team: Russian <https://translate.apkpure.com/projects/apkpure/"
 "apkpurecom/ru/>\n"
@@ -13,7 +13,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<="
 "4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 3.2.2\n"
+"X-Generator: Weblate 3.7.1\n"
 
 msgctxt "[\"NAV-GAME\"]"
 msgid "GAMES"
@@ -2307,3 +2307,271 @@ msgstr "\"{post_details}\", отправленный {user_name} в {app_name} {
 msgctxt "[\"meta\"][\"Invit\"][\"keywords\"]"
 msgid "group, {app_name}, {app_category}, {app_type}, {app_developer}, {app_short_name} community"
 msgstr "группа, {app_name}, {app_category}, {app_type}, {app_developer}, {app_short_name} сообщество"
+
+msgctxt "[\"meta\"][\"Download_apk_info\"][\"description\"]"
+msgid "Download {app_name} and learn more details about {app_short_name} requirements, running os version and more on APKPure Android App Store."
+msgstr ""
+"Загрузите {app_name} и узнайте больше о требованиях {app_short_name}, версии "
+"для ОС и многом другом в APKPure Android App Store."
+
+msgctxt "[\"meta\"][\"Download_apk_info\"][\"keywords\"]"
+msgid "{app_short_name} information, game info, app info, requirements, versions"
+msgstr ""
+"{app_short_name}информация, информация об игре, информация о приложении, "
+"требования, версии"
+
+msgctxt "[\"meta\"][\"Download_apk_info\"][\"title\"]"
+msgid "Getting Started in {app_short_name}"
+msgstr "Начало работы в {app_short_name}"
+
+#, fuzzy
+msgctxt "[\"meta\"][\"Variants\"][\"title\"]"
+msgid "{app_short_name} {version_name} Build variants in Android - APK Download"
+msgstr "{app_short_name} {version_name}"
+
+msgctxt "[\"js\"][\"SUBMISSION_SUCCESS\"]"
+msgid "Submission success."
+msgstr "Представление успешно."
+
+msgctxt "[\"js\"][\"USER-RESEND\"]"
+msgid "Resend code"
+msgstr "Отправить код еще раз"
+
+#, fuzzy
+msgctxt "[\"js\"][\"LANG_TIP\"][\"tr\"]"
+msgid "Tercih ettiğiniz dili <strong> Türkiye </strong> olarak değiştirmek istiyor musunuz?"
+msgstr ""
+"Tercih ettiğiniz dili <strong> Türkiye </strong> olarak değiştirmek istiyor "
+"musunuz?"
+
+msgctxt "[\"js\"][\"LANG_TIP\"][\"fr\"]"
+msgid "Voulez-vous changer votre langue préférée à <strong> français </strong>?"
+msgstr ""
+"Voulez-vous changer votre langue préférée à <strong> français </strong>?"
+
+#, fuzzy
+msgctxt "[\"tip\"][\"VERSION_VARIANT_DOWN\"]"
+msgid "Download {app_name} {version_name} variant {file_type}"
+msgstr "Скачать {app_name} {version_name}variant{file_type}"
+
+#, fuzzy
+msgctxt "[\"tip\"][\"VERSION_VARIANT\"]"
+msgid "Download {app_short_name} v{version_name} build variants in android"
+msgstr "Скачать {app_short_name} v {version_name} вариантов сборки в Android"
+
+msgctxt "[\"MARKET-PAGE_TOP_COUNTRIES\"]"
+msgid "Partitioned Ranking"
+msgstr "Разделенный рейтинг"
+
+msgctxt "[\"COPYRIGHT_MOBILE\"]"
+msgid "APKPure.com © 2014-2019"
+msgstr "APKPure.com © 2014-2019"
+
+msgctxt "[\"COPYRIGHT\"]"
+msgid "Copyright © 2014-2019 APKPure All rights reserved."
+msgstr "Copyright © 2014-2019 APKPure Все права защищены."
+
+msgctxt "[\"SEARCH-NO_RESULTS\"]"
+msgid "Sorry, no results found."
+msgstr "Извините, ничего не найдено."
+
+msgctxt "[\"SEARCH-TAB_HASHTAGS\"]"
+msgid "Hashtags"
+msgstr "Хештеги"
+
+msgctxt "[\"SEARCH-TAB_USERS\"]"
+msgid "Users"
+msgstr "Пользователи"
+
+msgctxt "[\"SEARCH-FEATURED_HASHTAG\"]"
+msgid "Featured hashtags"
+msgstr "Избранные хэштеги"
+
+msgctxt "[\"SEARCH-TRENDING\"]"
+msgid "Trending searches"
+msgstr "Тенденции поиска"
+
+msgctxt "[\"SEARCH-APP\"]"
+msgid "Search App"
+msgstr "Искать Приложения"
+
+msgctxt "[\"USER-RETRIEVE_PASSWORD\"]"
+msgid "Retrieve Password"
+msgstr "Восстановить Пароль"
+
+msgctxt "[\"USER-SAVE_BTN\"]"
+msgid "SAVE"
+msgstr "СОХРАНЯТЬ"
+
+msgctxt "[\"USER-SEND_CODE\"]"
+msgid "Send Code"
+msgstr "Отправить Код"
+
+msgctxt "[\"USER-DISABLE\"]"
+msgid "This account has been deleted"
+msgstr "Этот аккаунт был удален"
+
+msgctxt "[\"USER-DELETE_ACCOUNT\"]"
+msgid "Delete your account and information"
+msgstr "Удалить свой аккаунт и информацию"
+
+msgctxt "[\"USER-PRIVATE_ACCOUNT\"]"
+msgid "Private Account"
+msgstr "Личный Аккаунт"
+
+msgctxt "[\"USER-PRIVACY_SETTING\"]"
+msgid "Privacy Settings"
+msgstr "Настройки Конфиденциальности"
+
+msgctxt "[\"USER-A_PRIVATE_ACCOUNT\"]"
+msgid "It's a private account."
+msgstr "Это личный аккаунт."
+
+msgctxt "[\"USER-SAY_SOMETHING\"]"
+msgid "Why do you want to delete this account?"
+msgstr "Почему вы хотите удалить эту учетную запись?"
+
+msgctxt "[\"USER-INFO_STORY\"]"
+msgid "Story"
+msgstr "История"
+
+msgctxt "[\"USER-INFO_REVIEW\"]"
+msgid "Review"
+msgstr "Обзор"
+
+msgctxt "[\"USER-INFO_ALL\"]"
+msgid "All"
+msgstr "Все"
+
+msgctxt "[\"USER-SETTINGS\"]"
+msgid "Settings"
+msgstr "Настройки"
+
+msgctxt "[\"MORE_COOL_COMMENTS\"]"
+msgid "More cool comments"
+msgstr "Более классные комментарии"
+
+msgctxt "[\"COOL_COMMENT\"]"
+msgid "Cool Comment"
+msgstr "Классный комментарий"
+
+msgctxt "[\"HOT_HASHTAG\"]"
+msgid "Featured Hashtags"
+msgstr "Рекомендуемые Хэштеги"
+
+msgctxt "[\"HASHTAG\"]"
+msgid "HASHTAG"
+msgstr "ХЭШТЕГ"
+
+msgctxt "[\"COMMENT-POST_COUNT\"]"
+msgid "Posts: {0}"
+msgstr "Пост: {0}"
+
+msgctxt "[\"COMMENT-FOLLOW_COUNT\"]"
+msgid "Followers: {0}"
+msgstr "Подписчики: {0}"
+
+msgctxt "[\"COMMENT-HASHTAG\"]"
+msgid "Hashtag"
+msgstr "Хэштег"
+
+msgctxt "[\"COMMENT-HASHTAG_NOT_EXIST\"]"
+msgid "The hashtag does not exist"
+msgstr "Хэштег не существует"
+
+msgctxt "[\"COMMENT-SAME_TEXT\"]"
+msgid "The text is the same, please post it later."
+msgstr "Текст не менялся, опубликуйте попозже."
+
+msgctxt "[\"COMMENT-ERR_SENSITIVE_WORD\"]"
+msgid "Comment failed, your post contains sensitive terms."
+msgstr "Комментарий не прошел, ваше сообщение содержит чувствительные термины."
+
+msgctxt "[\"js\"][\"COMMENT-LIKE\"]"
+msgid "Like"
+msgstr "Лайк"
+
+msgctxt "[\"COMMENT-REVIEWS_CURRENT_MOB\"]"
+msgid "In {0}:"
+msgstr "В {0}:"
+
+msgctxt "[\"COMMENT-REVIEWS_CURRENT\"]"
+msgid "Reviews in {0}:"
+msgstr "Отзывы в {0}:"
+
+#, fuzzy
+msgctxt "[\"COMMENT-REVIEWS_TOTAL\"]"
+msgid "Total Reviews:"
+msgstr "Всего отзывов:"
+
+msgctxt "[\"VARIANT-DPI\"]"
+msgid "DPI"
+msgstr "DPI"
+
+msgctxt "[\"VARIANT-SCREEN_DPI\"]"
+msgid "Screen DPI"
+msgstr "DPI экрана"
+
+msgctxt "[\"VARIANT-MINIMUM\"]"
+msgid "Minimum Version"
+msgstr "Минимальная Версия"
+
+msgctxt "[\"VARIANT-ARCHITECTURE\"]"
+msgid "Architecture"
+msgstr "Архитектура"
+
+msgctxt "[\"VERSION-ALL-VERSIONS\"]"
+msgid "All Versions"
+msgstr "Все версии"
+
+msgctxt "[\"DETAIL_DOWNLOAD-FAST_DOWNLOADING_DES\"]"
+msgid "How \"Fast Download\" works?"
+msgstr "Как работает \"Быстрая загрузка \"?"
+
+msgctxt "[\"DETAIL_DOWNLOAD-FAST_DOWNLOADING\"]"
+msgid "Fast Downloading"
+msgstr "Быстрая Загрузка"
+
+msgctxt "[\"DETAIL-DELETED_COPYRIGHT_GOOGLE_PLAY_DES\"]"
+msgid "{app_name} All rights reserved ©2019 {developer}. {developer} and the {developer} logo are trademarks of {developer} in the U.S. and/or other countries.All other trademarks are the property of their respective owners."
+msgstr ""
+"{app_name}Все права защищены © 2019 {developer}.{developer}и {developer}"
+"логотип являются товарными знаками {developer}в США и / или других "
+"странах.Все остальные торговые марки являются собственностью их "
+"соответствующих владельцев."
+
+msgctxt "[\"SUBMITTING\"]"
+msgid "Submitting..."
+msgstr "Отправляется..."
+
+msgctxt "[\"SUBMIT\"]"
+msgid "Submit"
+msgstr "Отправить"
+
+msgctxt "[\"ADDITIONAL_INFORMATION\"]"
+msgid "Additional Information"
+msgstr "Дополнительная Информация"
+
+msgctxt "[\"BROWSING_TAG\"]"
+msgid "Browsing {0}"
+msgstr "Просмотр{0}"
+
+msgctxt "[\"TAG\"]"
+msgid "Tag {0}"
+msgstr "Тег {0}"
+
+msgctxt "[\"REASON\"]"
+msgid "Reason"
+msgstr "Причина"
+
+msgctxt "[\"TOP-UPDATED-GAMES\"]"
+msgid "Recently Updated Games"
+msgstr "Последние обновленные игры"
+
+msgctxt "[\"TOP-UPDATED-APPS\"]"
+msgid "Recently Updated Apps"
+msgstr "Последние обновленные приложения"
+
+msgctxt "[\"NAV-Cloud-Phone-Emulator\"]"
+msgid "Cloud Phone Emulator"
+msgstr "Эмулятор облачного телефона"
