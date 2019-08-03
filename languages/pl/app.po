@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-11-20 02:58+0000\n"
-"PO-Revision-Date: 2019-07-30 00:06+0000\n"
+"PO-Revision-Date: 2019-08-06 11:05+0000\n"
 "Last-Translator: Mirosław Żylewicz <miroslaw.zylewicz@o2.pl>\n"
 "Language-Team: Polish <https://translate.apkpure.com/projects/apkpure/"
 "apkpurecom/pl/>\n"
@@ -724,7 +724,6 @@ msgctxt "[\"COMMENT-ERR_SENSITIVE_WORD\"]"
 msgid "Defeat,your post contains sensitive terms"
 msgstr "Porażka, twój post zawiera wrażliwe terminy"
 
-#, fuzzy
 msgctxt "[\"COMMENT-ERR_SENSITIVE_WORD_AUDIT\"]"
 msgid "Your post contains sensitive terms and is pending approval by an admin"
 msgstr ""
@@ -735,10 +734,9 @@ msgctxt "[\"COMMENT-ERR_LINK_AUDIT\"]"
 msgid "Your post contains link and is pending approval by an admin"
 msgstr "Twój post zawiera link i oczekuje na zatwierdzenie przez administratora"
 
-#, fuzzy
 msgctxt "[\"COMMENT-ERR_FORBIDDEN\"]"
 msgid "Comment forbidden"
-msgstr "Komentarz zabroniony"
+msgstr "Komentowanie zabronione"
 
 msgctxt "[\"COMMENT-ERR_FAILURE\"]"
 msgid "Comment unknown"
@@ -1942,10 +1940,9 @@ msgctxt "[\"js\"][\"COMMENT-ARE_YOU_SURE\"]"
 msgid "Are you sure?"
 msgstr "Jesteś pewien?"
 
-#, fuzzy
 msgctxt "[\"js\"][\"COMMENT-RATE_MUST\"]"
 msgid "Before writing a review or something, please rate the app first."
-msgstr "Before writing a review or something, please rate the app first."
+msgstr "Zanim napiszesz recenzję lub cokolwiek innego, oceń aplikację."
 
 msgctxt "[\"js\"][\"COMMENT-VOTE\"]"
 msgid "Vote"
@@ -2450,7 +2447,6 @@ msgctxt "[\"content_rating\"][\"Partial Nudity\"]"
 msgid "Partial Nudity"
 msgstr "Częściowa nagość"
 
-#, fuzzy
 msgctxt "[\"js\"][\"SUBMISSION_SUCCESS\"]"
 msgid "Submission success."
 msgstr "Zgłoszenie zostało przyjęte."
@@ -2508,7 +2504,6 @@ msgctxt "[\"MARKET-PAGE_TOP_COUNTRIES\"]"
 msgid "Partitioned Ranking"
 msgstr "Partitioned Ranking"
 
-#, fuzzy
 msgctxt "[\"COMMENT-ERR_SENSITIVE_WORD\"]"
 msgid "Comment failed, your post contains sensitive terms."
 msgstr ""
