@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-03-22 06:56+0000\n"
-"PO-Revision-Date: 2019-03-19 02:15+0000\n"
-"Last-Translator: Almer John Ureta <almerureta@gmail.com>\n"
+"PO-Revision-Date: 2019-08-31 17:18+0000\n"
+"Last-Translator: Bellek <furkisero42@gmail.com>\n"
 "Language-Team: Turkish <https://translate.apkpure.com/projects/apkpure/"
 "apkpurecom/tr/>\n"
 "Language: tr\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 3.2.2\n"
+"X-Generator: Weblate 3.7.1\n"
 
 msgctxt "[\"NAV-GAME\"]"
 msgid "GAME"
@@ -1004,7 +1004,7 @@ msgstr ""
 
 msgctxt "[\"meta\"][\"faq-safe.html\"][\"description\"]"
 msgid "Why we can guarantee APK 100% safe?"
-msgstr ""
+msgstr "Neden APK'nın %100 güvenli olduğunu garanti ediyoruz?"
 
 msgctxt "[\"meta\"][\"christmas.html\"][\"title\"]"
 msgid "Best Christmas Apps for Your Android Phones & Tablets"
@@ -1403,10 +1403,9 @@ msgctxt "[\"category\"][\"APP_WIDGETS\"]"
 msgid "Widgets"
 msgstr "Widget'lar"
 
-#, fuzzy
 msgctxt "[\"NAV-GAME\"]"
 msgid "GAMES"
-msgstr "ENGLISH"
+msgstr "OYUNLAR"
 
 msgctxt "[\"NAV-APP\"]"
 msgid "APPS"
@@ -2230,7 +2229,6 @@ msgctxt "[\"VERSION-VERSIONS\"]"
 msgid "Versions"
 msgstr "Versiyonlar"
 
-#, fuzzy
 msgctxt "[\"tip\"][\"PREVIOUS_VERSIONS\"]"
 msgid "{0} Previous Versions"
 msgstr "{0} Önceki Sürümler"
@@ -3097,3 +3095,582 @@ msgstr ""
 "APKPure'a göndermeden önce, hesabınızla ilişkili e-posta adresini "
 "doğrulamanız gerekir. Daha fazla özelliğin kilidini açmak için e-posta "
 "adresinize gelen doğrulama kodunu kullanın."
+
+msgctxt "[\"content_rating\"][\"Mild Language\"]"
+msgid "Mild Language"
+msgstr "Hafif Dil"
+
+msgctxt "[\"content_rating\"][\"Drugs\"]"
+msgid "Drugs"
+msgstr "Uyuşturucular"
+
+msgctxt "[\"content_rating\"][\"Use of Alcohol/Tobacco\"]"
+msgid "Use of Alcohol/Tobacco"
+msgstr "Alkol/Tütün Kullanma"
+
+msgctxt "[\"content_rating\"][\"Extreme Violence\"]"
+msgid "Extreme Violence"
+msgstr "Aşırı Şiddet"
+
+msgctxt "[\"content_rating\"][\"Gambling\"]"
+msgid "Gambling"
+msgstr "Kumar"
+
+msgctxt "[\"content_rating\"][\"Rated for 18+\"]"
+msgid "Rated for 18+"
+msgstr "+18'den fazla oy alan"
+
+msgctxt "[\"content_rating\"][\"Fear\"]"
+msgid "Fear"
+msgstr "Korkutucu"
+
+msgctxt "[\"content_rating\"][\"Sexual Violence\"]"
+msgid "Sexual Violence"
+msgstr "Şiddetli Seks"
+
+msgctxt "[\"content_rating\"][\"Parental Guidance Recommended\"]"
+msgid "Parental Guidance Recommended"
+msgstr "Önerilen Ebeveyn Rehberliği"
+
+msgctxt "[\"content_rating\"][\"Horror\"]"
+msgid "Horror"
+msgstr "Korku"
+
+msgctxt "[\"content_rating\"][\"Implied Violence\"]"
+msgid "Implied Violence"
+msgstr "Zımni Şiddet"
+
+msgctxt "[\"content_rating\"][\"Rated for 7+\"]"
+msgid "Rated for 7+"
+msgstr "+7'den fazla oy alan"
+
+msgctxt "[\"content_rating\"][\"Use of Drugs and Alcohol\"]"
+msgid "Use of Drugs and Alcohol"
+msgstr "Uyuşturucu ve Alkol Kullanma"
+
+msgctxt "[\"content_rating\"][\"Strong Sexual Content\"]"
+msgid "Strong Sexual Content"
+msgstr "Kuvvetli Cinsel İçerik"
+
+msgctxt "[\"content_rating\"][\"Adults only 18+\"]"
+msgid "Adults only 18+"
+msgstr "Yetişkin +18"
+
+msgctxt "[\"content_rating\"][\"Use of Drugs\"]"
+msgid "Use of Drugs"
+msgstr "Uyuşturucu Kullanma"
+
+msgctxt "[\"content_rating\"][\"Nudity\"]"
+msgid "Nudity"
+msgstr "Çıplaklık"
+
+msgctxt "[\"content_rating\"][\"Mild Swearing\"]"
+msgid "Mild Swearing"
+msgstr "Hafif Küfür"
+
+msgctxt "[\"meta\"][\"User_post\"][\"title\"]"
+msgid "{summary} - {user_name} | APKPure"
+msgstr "{summary} - {user_name} | APKPure"
+
+msgctxt "[\"meta\"][\"Variants\"][\"keywords\"]"
+msgid ""
+msgstr "[\"Meta\"][\"Variants\"][\"keywords\"]"
+
+msgctxt "[\"content_rating\"][\"Strong Violence\"]"
+msgid "Strong Violence"
+msgstr "Kuvvetli Şiddet"
+
+msgctxt "[\"content_rating\"][\"Use of Alcohol and Tobacco\"]"
+msgid "Use of Alcohol and Tobacco"
+msgstr "Alkol ve Tütün Kullanma"
+
+msgctxt "[\"content_rating\"][\"Sexual Innuendo\"]"
+msgid "Sexual Innuendo"
+msgstr "Cinsel İma"
+
+msgctxt "[\"content_rating\"][\"Moderate Violence\"]"
+msgid "Moderate Violence"
+msgstr "Orta Şiddet"
+
+msgctxt "[\"content_rating\"][\"Rated for 12+\"]"
+msgid "Rated for 12+"
+msgstr "+12'den fazla oy alan"
+
+msgctxt "[\"content_rating\"][\"Sexual Content\"]"
+msgid "Sexual Content"
+msgstr "Cinsel İçerik"
+
+msgctxt "[\"content_rating\"][\"Tobacco Reference\"]"
+msgid "Tobacco Reference"
+msgstr "Tütün Referansı"
+
+msgctxt "[\"content_rating\"][\"Mild Violence\"]"
+msgid "Mild Violence"
+msgstr "Hafif Şiddet"
+
+msgctxt "[\"content_rating\"][\"Mild Blood\"]"
+msgid "Mild Blood"
+msgstr "Hafif Kan"
+
+msgctxt "[\"content_rating\"][\"Use of Tobacco\"]"
+msgid "Use of Tobacco"
+msgstr "Tütün"
+
+msgctxt "[\"content_rating\"][\"Use of Alcohol\"]"
+msgid "Use of Alcohol"
+msgstr "Alkol Kullanma"
+
+msgctxt "[\"content_rating\"][\"Strong Language\"]"
+msgid "Strong Language"
+msgstr "Kuvvetli Dil"
+
+msgctxt "[\"content_rating\"][\"Drug Reference\"]"
+msgid "Drug Reference"
+msgstr "Uyuşturucu Referansı"
+
+msgctxt "[\"content_rating\"][\"Intense Violence\"]"
+msgid "Intense Violence"
+msgstr "Yoğun Şiddet"
+
+msgctxt "[\"content_rating\"][\"Sexual Themes\"]"
+msgid "Sexual Themes"
+msgstr "Seks İçerikleri"
+
+msgctxt "[\"content_rating\"][\"Comic Mischief\"]"
+msgid "Comic Mischief"
+msgstr "Komik Yaramazlık"
+
+msgctxt "[\"content_rating\"][\"Partial Nudity\"]"
+msgid "Partial Nudity"
+msgstr "Kısmi Çıplaklık"
+
+msgctxt "[\"content_rating\"][\"Rated for 3+\"]"
+msgid "Rated for 3+"
+msgstr "+3'den fazla oy alan"
+
+msgctxt "[\"content_rating\"][\"Violent References\"]"
+msgid "Violent References"
+msgstr "Şiddet Referansı"
+
+msgctxt "[\"content_rating\"][\"Alcohol and Tobacco Reference\"]"
+msgid "Alcohol and Tobacco Reference"
+msgstr "Alkol ve Tütün Referansı"
+
+msgctxt "[\"content_rating\"][\"Alcohol Reference\"]"
+msgid "Alcohol Reference"
+msgstr "Alkol Referansı"
+
+msgctxt "[\"content_rating\"][\"Crude Humor\"]"
+msgid "Crude Humor"
+msgstr "Ham Mizah"
+
+msgctxt "[\"content_rating\"][\"Blood and Gore\"]"
+msgid "Blood and Gore"
+msgstr "Kan ve Pıhtı"
+
+msgctxt "[\"content_rating\"][\"Drug and Alcohol Reference\"]"
+msgid "Drug and Alcohol Reference"
+msgstr "Uyuşturucu ve Alkol Referansı"
+
+msgctxt "[\"content_rating\"][\"Mature 17+\"]"
+msgid "Mature 17+"
+msgstr "Olgun +17"
+
+msgctxt "[\"content_rating\"][\"Suggestive Themes\"]"
+msgid "Suggestive Themes"
+msgstr "Müstehcen İçerikler"
+
+msgctxt "[\"content_rating\"][\"Mild Fantasy Violence\"]"
+msgid "Mild Fantasy Violence"
+msgstr "Hafif Şiddetli Fantazi"
+
+msgctxt "[\"content_rating\"][\"Blood\"]"
+msgid "Blood"
+msgstr "Kan"
+
+msgctxt "[\"content_rating\"][\"Violence\"]"
+msgid "Violence"
+msgstr "Şiddet"
+
+msgctxt "[\"content_rating\"][\"Fantasy Violence\"]"
+msgid "Fantasy Violence"
+msgstr "Şiddet Fantazisi"
+
+msgctxt "[\"content_rating\"][\"Everyone 10+\"]"
+msgid "Everyone 10+"
+msgstr "10+ Yaş Üstü Herkes"
+
+msgctxt "[\"content_rating\"][\"Simulated Gambling\"]"
+msgid "Simulated Gambling"
+msgstr "Kumar Simülasyonu"
+
+msgctxt "[\"content_rating\"][\"Language\"]"
+msgid "Language"
+msgstr "Dil"
+
+msgctxt "[\"content_rating\"][\"Everyone\"]"
+msgid "Everyone"
+msgstr "Herkes"
+
+msgctxt "[\"content_rating\"][\"Sex\"]"
+msgid "Sex"
+msgstr "Seks"
+
+msgctxt "[\"content_rating\"][\"Rated for 16+\"]"
+msgid "Rated for 16+"
+msgstr "+16'dan fazla oy alan"
+
+msgctxt "[\"content_rating\"][\"Unrated\"]"
+msgid "Unrated"
+msgstr "Derecelendirilmemiş"
+
+msgctxt "[\"content_rating\"][\"Teen\"]"
+msgid "Teen"
+msgstr "Genç"
+
+msgctxt "[\"meta\"][\"Hashtag\"][\"title\"]"
+msgid "Hashtag {hashtag} - APKPure"
+msgstr "Etiket {hashtag} - APKPure"
+
+msgctxt "[\"meta\"][\"Retrieve_password\"][\"title\"]"
+msgid "Retrieve Password | APKPure"
+msgstr "Şifre Al | APKPure"
+
+msgctxt "[\"meta\"][\"User_settings\"][\"title\"]"
+msgid "Settings | APKPure"
+msgstr "Ayarlar | APKPure"
+
+msgctxt "[\"meta\"][\"Privacy_settings\"][\"description\"]"
+msgid "Your profile page is accessible by default. If you set it as a private page, the information will be hided."
+msgstr ""
+"Varsayılan sayfanıza erişilebilir. Özel sayfanızda ise bilgileriniz saklı "
+"kalır."
+
+msgctxt "[\"meta\"][\"Privacy_settings\"][\"title\"]"
+msgid "Privacy Settings | APKPure"
+msgstr "Gizlilik Ayarları | APKPure"
+
+msgctxt "[\"meta\"][\"Delete_account\"][\"description\"]"
+msgid "When you delete your account and information, all your uploaded comments, pictures and other information will be deleted, and the account will not be available."
+msgstr ""
+"Hesabınızı ve bilgilerinizi sildiğiniz takdirde, yüklediğiniz tüm yorumlar, "
+"resimler ve diğer bilgiler silinecek ve hesap kullanılamayacak."
+
+msgctxt "[\"meta\"][\"Delete_account\"][\"title\"]"
+msgid "Delete Account and Information | APKPure"
+msgstr "Hesabı ve bilgileri sil | APKPure"
+
+msgctxt "[\"meta\"][\"Tag\"][\"title\"]"
+msgid "Tag {0} - APKPure"
+msgstr "Etiket {0} - APKPure"
+
+msgctxt "[\"meta\"][\"Category_featured_editors-picks\"][\"description\"]"
+msgid "Play with millions of free apps in APKPure style on Android phones, tablets, TV ,etc. Download the best must have android games you should play 2019."
+msgstr ""
+"Android cihazlarda, tabletlerde, TV'de APKPure tarzında milyonlarca ücretsiz "
+"uygulamayla istediğinizi oynayın. En iyi 2019 yapımı oyunları oynamanın "
+"tadını çıkarın."
+
+msgctxt "[\"meta\"][\"Download_apk_info\"][\"description\"]"
+msgid "Download {app_name} and learn more details about {app_short_name} requirements, running os version and more on APKPure Android App Store."
+msgstr ""
+"{app_name} Dosyasını indirin ve APKPure Android App Store'da os sürümünü "
+"çalıştırarak {app_short_name} gereksinimleri hakkında daha fazla bilgi "
+"edinin."
+
+msgctxt "[\"meta\"][\"Download_apk_info\"][\"keywords\"]"
+msgid "{app_short_name} information, game info, app info, requirements, versions"
+msgstr ""
+"{app_short_name} bilgi, oyun bilgisi, uygulama bilgisi, gereksinimler, "
+"sürümler"
+
+msgctxt "[\"meta\"][\"Download_apk_info\"][\"title\"]"
+msgid "Getting Started in {app_short_name}"
+msgstr "{app_short_name} İndirmesi Başladı"
+
+msgctxt "[\"meta\"][\"Variants\"][\"description\"]"
+msgid ""
+msgstr "[\"Öte\"][\"Varyantlar\"][\"açıklama\"]"
+
+msgctxt "[\"meta\"][\"Variants\"][\"title\"]"
+msgid "{app_short_name} {version_name} Build variants in Android - APK Download"
+msgstr "{uygulama_kısa_adı} {versiyon_adı} Android Türevleri - APK İndir"
+
+msgctxt "[\"js\"][\"SUBMISSION_SUCCESS\"]"
+msgid "Submission success."
+msgstr "Gönderme Başarılı."
+
+msgctxt "[\"js\"][\"USER-RESEND\"]"
+msgid "Resend code"
+msgstr "Kodu Yeniden Gönder"
+
+msgctxt "[\"js\"][\"LANG_OK\"][\"tr\"]"
+msgid "tamam"
+msgstr "D'accord"
+
+msgctxt "[\"js\"][\"LANG_OK\"][\"fr\"]"
+msgid "D'accord"
+msgstr "Tamam"
+
+msgctxt "[\"js\"][\"LANG_IGNORE\"][\"tr\"]"
+msgid "Aldırmamak"
+msgstr "Ignorer"
+
+msgctxt "[\"js\"][\"LANG_IGNORE\"][\"fr\"]"
+msgid "Ignorer"
+msgstr "Engellemek"
+
+msgctxt "[\"js\"][\"LANG_TIP\"][\"tr\"]"
+msgid "Tercih ettiğiniz dili <strong> Türkiye </strong> olarak değiştirmek istiyor musunuz?"
+msgstr ""
+"Tercih ettiğiniz dili <strong> Türkiye </strong> olarak değiştirmek istiyor "
+"musunuz?"
+
+msgctxt "[\"js\"][\"LANG_TIP\"][\"fr\"]"
+msgid "Voulez-vous changer votre langue préférée à <strong> français </strong>?"
+msgstr ""
+"Voulez-vous changer votre langue préférée à <strong> français "
+"</strong>?</strong>"
+
+msgctxt "[\"tip\"][\"VERSION_VARIANT_DOWN\"]"
+msgid "Download {app_name} {version_name} variant {file_type}"
+msgstr "İndir {uygulama_adı} {versiyon_adı} varyant {dosya_tipi}"
+
+msgctxt "[\"tip\"][\"VERSION_VARIANT\"]"
+msgid "Download {app_short_name} v{version_name} build variants in android"
+msgstr "İndir {uygulama_kısa_adı} v {version_adı} Android Türevleri"
+
+msgctxt "[\"MARKET-PAGE_TOP_COUNTRIES\"]"
+msgid "Partitioned Ranking"
+msgstr "Bölümlenmiş Sıralama"
+
+msgctxt "[\"COPYRIGHT_MOBILE\"]"
+msgid "APKPure.com © 2014-2019"
+msgstr "APKPure.com © 2014-2019"
+
+msgctxt "[\"COPYRIGHT\"]"
+msgid "Copyright © 2014-2019 APKPure All rights reserved."
+msgstr "Telif Hakları © 2014-2019 APKPure Tüm hakları saklıdır."
+
+msgctxt "[\"SEARCH-NO_RESULTS\"]"
+msgid "Sorry, no results found."
+msgstr "Üzgünüm, sonuç bulunamadı."
+
+msgctxt "[\"SEARCH-TAB_HASHTAGS\"]"
+msgid "Hashtags"
+msgstr "Etiketler"
+
+msgctxt "[\"SEARCH-TAB_USERS\"]"
+msgid "Users"
+msgstr "Kullanıcılar"
+
+msgctxt "[\"SEARCH-FEATURED_HASHTAG\"]"
+msgid "Featured hashtags"
+msgstr "Favori Etiketler"
+
+msgctxt "[\"SEARCH-TRENDING\"]"
+msgid "Trending searches"
+msgstr "Popüler Aramalar"
+
+msgctxt "[\"SEARCH-APP\"]"
+msgid "Search App"
+msgstr "Uygulama Ara"
+
+msgctxt "[\"USER-RETRIEVE_PASSWORD\"]"
+msgid "Retrieve Password"
+msgstr "Şifre Al"
+
+msgctxt "[\"USER-SAVE_BTN\"]"
+msgid "SAVE"
+msgstr "KAYDET"
+
+msgctxt "[\"USER-SEND_CODE\"]"
+msgid "Send Code"
+msgstr "Kodu Gönder"
+
+msgctxt "[\"USER-DISABLE\"]"
+msgid "This account has been deleted"
+msgstr "Hesabınız silindi"
+
+msgctxt "[\"USER-DELETE_ACCOUNT\"]"
+msgid "Delete your account and information"
+msgstr "Hesabımı ve bilgilerimi sil"
+
+msgctxt "[\"USER-PRIVATE_ACCOUNT\"]"
+msgid "Private Account"
+msgstr "Özel Hesap"
+
+msgctxt "[\"USER-PRIVACY_SETTING\"]"
+msgid "Privacy Settings"
+msgstr "Gizlilik Ayarları"
+
+msgctxt "[\"USER-A_PRIVATE_ACCOUNT\"]"
+msgid "It's a private account."
+msgstr "Bu özel bir hesap."
+
+msgctxt "[\"USER-SAY_SOMETHING\"]"
+msgid "Why do you want to delete this account?"
+msgstr "Hesabını neden silmek istiyorsun?"
+
+msgctxt "[\"USER-INFO_STORY\"]"
+msgid "Story"
+msgstr "Hikâye"
+
+msgctxt "[\"USER-INFO_REVIEW\"]"
+msgid "Review"
+msgstr "Gözden Geçir"
+
+msgctxt "[\"USER-INFO_ALL\"]"
+msgid "All"
+msgstr "Hepsi"
+
+msgctxt "[\"USER-SETTINGS\"]"
+msgid "Settings"
+msgstr "Ayarlar"
+
+msgctxt "[\"MORE_COOL_COMMENTS\"]"
+msgid "More cool comments"
+msgstr "Daha fazla havalı yorum"
+
+msgctxt "[\"COOL_COMMENT\"]"
+msgid "Cool Comment"
+msgstr "Havalı Yorum"
+
+msgctxt "[\"HOT_HASHTAG\"]"
+msgid "Featured Hashtags"
+msgstr "Favori Etiketler"
+
+msgctxt "[\"HASHTAG\"]"
+msgid "HASHTAG"
+msgstr "ETİKET"
+
+msgctxt "[\"COMMENT-POST_COUNT\"]"
+msgid "Posts: {0}"
+msgstr "Paylaşımlar: {0}"
+
+msgctxt "[\"COMMENT-FOLLOW_COUNT\"]"
+msgid "Followers: {0}"
+msgstr "Takipçiler: {0}"
+
+msgctxt "[\"COMMENT-HASHTAG\"]"
+msgid "Hashtag"
+msgstr "Etiket"
+
+msgctxt "[\"COMMENT-HASHTAG_NOT_EXIST\"]"
+msgid "The hashtag does not exist"
+msgstr "Etiket mevcut değil"
+
+msgctxt "[\"COMMENT-SAME_TEXT\"]"
+msgid "The text is the same, please post it later."
+msgstr "Metininiz aynı, lütfen daha sonra paylaşın."
+
+msgctxt "[\"COMMENT-ERR_SENSITIVE_WORD\"]"
+msgid "Comment failed, your post contains sensitive terms."
+msgstr "Yorum başarısız oldu, içeriğiniz hassas terimler içeriyor."
+
+msgctxt "[\"js\"][\"COMMENT-LIKE\"]"
+msgid "Like"
+msgstr "Beğeni"
+
+msgctxt "[\"COMMENT-REVIEWS_CURRENT_MOB\"]"
+msgid "In {0}:"
+msgstr "{0}'da:"
+
+msgctxt "[\"COMMENT-REVIEWS_CURRENT\"]"
+msgid "Reviews in {0}:"
+msgstr "{0}'daki İncelemeler:"
+
+msgctxt "[\"COMMENT-REVIEWS_TOTAL\"]"
+msgid "Total Reviews:"
+msgstr "Toplam İncelemeler:"
+
+msgctxt "[\"VARIANT-DPI\"]"
+msgid "DPI"
+msgstr "DPI"
+
+msgctxt "[\"VARIANT-ARCH\"]"
+msgid "Arch"
+msgstr "Kemer"
+
+msgctxt "[\"VARIANT-SCREEN_DPI\"]"
+msgid "Screen DPI"
+msgstr "DPI Ekran"
+
+msgctxt "[\"VARIANT-MINIMUM\"]"
+msgid "Minimum Version"
+msgstr "Minimum Sürüm"
+
+msgctxt "[\"VARIANT-ARCHITECTURE\"]"
+msgid "Architecture"
+msgstr "Mimari"
+
+msgctxt "[\"VARIANT-VARIANT\"]"
+msgid "Variant"
+msgstr "Varyant"
+
+msgctxt "[\"VARIANT-VARIANTS_TIT\"]"
+msgid "Variants"
+msgstr "Varyantlar"
+
+msgctxt "[\"VARIANT-VARIANTS\"]"
+msgid "{0} Variants"
+msgstr "{0} Varyantlar"
+
+msgctxt "[\"VERSION-ALL-VERSIONS\"]"
+msgid "All Versions"
+msgstr "Bütün Sürümler"
+
+msgctxt "[\"DETAIL_DOWNLOAD-FAST_DOWNLOADING_DES\"]"
+msgid "How \"Fast Download\" works?"
+msgstr "\"Hızlı İndirme\" Nasıl çalışır?"
+
+msgctxt "[\"DETAIL_DOWNLOAD-FAST_DOWNLOADING\"]"
+msgid "Fast Downloading"
+msgstr "Hızlı İndirme"
+
+msgctxt "[\"DETAIL-DELETED_COPYRIGHT_GOOGLE_PLAY_DES\"]"
+msgid "{app_name} All rights reserved ©2019 {developer}. {developer} and the {developer} logo are trademarks of {developer} in the U.S. and/or other countries.All other trademarks are the property of their respective owners."
+msgstr ""
+"{app_name} Bütün hakları saklıdır © 2019 {geliştirici}. {geliştirici} ve "
+"{geliştirici} logosu, ABD'deki ve/veya diğer ülkelerdeki {geliştirici} "
+"ticari markalarıdır. Diğer tüm ticari markalar ilgili sahiplerine aittir."
+
+msgctxt "[\"SUBMITTING\"]"
+msgid "Submitting..."
+msgstr "Gönderiliyor..."
+
+msgctxt "[\"SUBMIT\"]"
+msgid "Submit"
+msgstr "Gönder"
+
+msgctxt "[\"ADDITIONAL_INFORMATION\"]"
+msgid "Additional Information"
+msgstr "Ek bilgi"
+
+msgctxt "[\"BROWSING_TAG\"]"
+msgid "Browsing {0}"
+msgstr "Tarama {0}"
+
+msgctxt "[\"TAG\"]"
+msgid "Tag {0}"
+msgstr "Etiketler {0}"
+
+msgctxt "[\"REASON\"]"
+msgid "Reason"
+msgstr "Neden"
+
+msgctxt "[\"TOP-UPDATED-GAMES\"]"
+msgid "Recently Updated Games"
+msgstr "Son Güncellenen Oyunlar"
+
+msgctxt "[\"TOP-UPDATED-APPS\"]"
+msgid "Recently Updated Apps"
+msgstr "Son Güncellenen Uygulamalar"
+
+msgctxt "[\"DOWNLOAD_AVAILABLE\"]"
+msgid "Download Variant {0}"
+msgstr "Varyant İndir {0}"
+
+msgctxt "[\"NAV-Cloud-Phone-Emulator\"]"
+msgid "Cloud Phone Emulator"
+msgstr "Bulut emulatörü"
