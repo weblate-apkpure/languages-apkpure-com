@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-06-21 03:19+0000\n"
-"PO-Revision-Date: 2019-03-19 02:15+0000\n"
-"Last-Translator: Thu Ya Oo <oothuya1654@gmail.com>\n"
+"PO-Revision-Date: 2019-10-19 09:19+0000\n"
+"Last-Translator: Hlaing Theinpa <hlaingtheinpa@gmail.com>\n"
 "Language-Team: Burmese <https://translate.apkpure.com/projects/apkpure/"
 "apkpurecom/my/>\n"
 "Language: my\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 3.2.2\n"
+"X-Generator: Weblate 3.7.1\n"
 
 msgctxt "[\"NAV-GAME\"]"
 msgid "GAMES"
@@ -21,7 +21,7 @@ msgstr "Burmese"
 #, fuzzy
 msgctxt "[\"NAV-APP\"]"
 msgid "APPS"
-msgstr "ျမန္မာ (Zawgyi)"
+msgstr "APPS"
 
 msgctxt "[\"NAV-XAPK\"]"
 msgid "XAPK"
@@ -299,9 +299,10 @@ msgctxt "[\"DETAIL-MOBILE_XAPK_SHORT_DES\"]"
 msgid "Click to get XAPK Installer"
 msgstr ""
 
+#, fuzzy
 msgctxt "[\"DETAIL-CATEGORY\"]"
 msgid "Category"
-msgstr ""
+msgstr "Category"
 
 msgctxt "[\"DETAIL-LATEST_VERSION\"]"
 msgid "Latest Version"
@@ -851,9 +852,10 @@ msgctxt "[\"FOOTER-APK_DOWNLOAD\"]"
 msgid "APK Downloader (Region free)"
 msgstr ""
 
+#, fuzzy
 msgctxt "[\"FOOTER-APK_INSTALL\"]"
 msgid "APK Install"
-msgstr ""
+msgstr "APK Install"
 
 msgctxt "[\"FOOTER-APK_SIGNATURE_VERIFICATION\"]"
 msgid "APK Signature Verification"
@@ -943,9 +945,10 @@ msgctxt "[\"FOOTER-COOPERATION\"]"
 msgid "Business Cooperation"
 msgstr ""
 
+#, fuzzy
 msgctxt "[\"FOOTER-XAPK\"]"
 msgid "XAPK"
-msgstr ""
+msgstr "XAPK"
 
 msgctxt "[\"FOOTER-REPORT_ABUSE\"]"
 msgid "Report abuse"
@@ -999,9 +1002,10 @@ msgctxt "[\"MARKET-INDEX_BANNER_DES\"]"
 msgid "Install,manage and update your apps"
 msgstr ""
 
+#, fuzzy
 msgctxt "[\"MARKET-BOTTOM_BANNER_TITLE\"]"
 msgid "APKPure App"
-msgstr ""
+msgstr "APKPure App"
 
 msgctxt "[\"MARKET-BOTTOM_BANNER_DES\"]"
 msgid "Try APKPure App - Download, update and install apks on your Android."
@@ -1583,3 +1587,23 @@ msgstr "etmaungmaung90901@gmail.com"
 msgctxt "[\"DEV-SEND_EMAIL_ERR\"]"
 msgid "Failed to send mail"
 msgstr "Failed to send mail"
+
+#, fuzzy
+msgctxt "[\"TOP-UPDATED-GAMES\"]"
+msgid "Recently Updated Games"
+msgstr "Recently Updated Games"
+
+#, fuzzy
+msgctxt "[\"TOP-UPDATED-APPS\"]"
+msgid "Recently Updated Apps"
+msgstr "Recently Updated Apps"
+
+#, fuzzy
+msgctxt "[\"DOWNLOAD_AVAILABLE\"]"
+msgid "Download Variant {0}"
+msgstr "Download Variant {0}"
+
+#, fuzzy
+msgctxt "[\"NAV-Cloud-Phone-Emulator\"]"
+msgid "Cloud Phone Emulator"
+msgstr "Cloud Phone Emulator"
