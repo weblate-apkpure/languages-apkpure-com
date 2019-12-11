@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-12-09 21:35+0000\n"
-"PO-Revision-Date: 2019-12-09 21:35+0000\n"
+"PO-Revision-Date: 2019-12-12 13:35+0000\n"
 "Last-Translator: Heimen Stoffels <vistausss@outlook.com>\n"
 "Language-Team: Dutch <https://translate.apkpure.com/projects/apkpure/"
 "apkpurecom/nl/>\n"
@@ -1523,23 +1523,30 @@ msgstr "Gebruikersaanbevelingen"
 
 msgctxt "[\"REVIEW_PRIVACY_POLICY_DES_M\"]"
 msgid "We encourage you to read our updated <a target='_blank' href='{pp}'>Privacy Policy</a> and <a target='_blank' href='{cp}'>Cookies Policy</a>."
-msgstr "We encourage you to read our updated <a target='_blank' href='{pp}'>Privacy Policy</a> and <a target='_blank' href='{cp}'>Cookies Policy</a>."
+msgstr ""
+"We raden aan dat je ons bijgewerkte <a target='_blank' "
+"href='{pp}'>privacybeleid</a> en <a target='_blank' "
+"href='{cp}'>cookiebeleid</a> doorneemt."
 
 msgctxt "[\"REVIEW_PRIVACY_POLICY_DES\"]"
 msgid "We use cookies and other technologies on this website to enhance your user experience.<br> By clicking any link on this page you are giving your consent to our <a target='_blank' href='{pp}'>Privacy Policy</a> and <a target='_blank' href='{cp}'>Cookies Policy</a>."
-msgstr "We use cookies and other technologies on this website to enhance your user experience.<br> By clicking any link on this page you are giving your consent to our <a target='_blank' href='{pp}'>Privacy Policy</a> and <a target='_blank' href='{cp}'>Cookies Policy</a>."
+msgstr ""
+"We gebruiken cookies en andere technologieën op deze website om de "
+"gebruikservaring te verbeteren.<br> Door te klikken op een link geef je aan "
+"akkoord te gaan met ons <a target='_blank' href='{pp}'>privacybeleid</a> en <"
+"a target='_blank' href='{cp}'>cookiebeleid</a>."
 
 msgctxt "[\"REVIEW_PRIVACY_POLICY_BTN\"]"
 msgid "Ok I Agree"
-msgstr "Ok I Agree"
+msgstr "Ik ga akkoord"
 
 msgctxt "[\"REVIEW_PRIVACY_POLICY_MORE\"]"
 msgid "Learn More"
-msgstr "Learn More"
+msgstr "Meer informatie"
 
 msgctxt "[\"MARKET-TOP_COUNTRY\"][\"en-US\"]"
 msgid "USA"
-msgstr "USA"
+msgstr "VS"
 
 msgctxt "[\"MARKET-TOP_COUNTRY\"][\"ja\"]"
 msgid "Japan"
@@ -1555,27 +1562,30 @@ msgstr "Korea"
 
 msgctxt "[\"MARKET-TOP_COUNTRY\"][\"id-ID\"]"
 msgid "Indonesia"
-msgstr "Indonesia"
+msgstr "Indonesië"
 
 msgctxt "[\"MARKET-TOP_COUNTRY\"][\"pt-BR\"]"
 msgid "Brazil"
-msgstr "Brazil"
+msgstr "Brazilië"
 
 msgctxt "[\"error\"][\"DOWN-ItemNotFree\"]"
 msgid "Sorry, paid apps are not available to download with our APK Download Service."
-msgstr "Sorry, betaalde apps zijn niet beschikbaar om te downloaden met onze APK-downloadservice."
+msgstr "Sorry, betaalde apps zijn niet beschikbaar via onze APK-downloaddienst."
 
 msgctxt "[\"error\"][\"DOWN-ItemNotFound\"]"
 msgid "Sorry, download failed, the APK cannot be found."
-msgstr "Sorry, download mislukt, het APK-bestand kan niet worden gevonden."
+msgstr ""
+"Het downloaden is mislukt omdat het APK-bestand niet kan worden gevonden."
 
 msgctxt "[\"error\"][\"DOWN-LimitedRegion\"]"
 msgid "Oops! Change your region and try download again."
-msgstr "Oeps! Verander je regio en probeer opnieuw te downloaden."
+msgstr "Kies een andere regio en probeer het opnieuw."
 
 msgctxt "[\"error\"][\"DOWN-LimitedDevice\"]"
 msgid "Sorry, download failed, the APK does not support our device."
-msgstr "Sorry, download milsukt, het APK-bestand wordt niet ondersteund door ons programma."
+msgstr ""
+"Het downloaden is mislukt omdat het APK-bestand niet wordt ondersteund door "
+"ons programma."
 
 msgctxt "[\"error\"][\"DOWN-UnknownError\"]"
 msgid "Download failed because of an unknown error. We will fix this problem soon."
@@ -1583,15 +1593,19 @@ msgstr "Download mislukt vanwege een onbekende reden. We zullen zo snel mogelijk
 
 msgctxt "[\"error\"][\"DOWN-LimitedCarrier\"]"
 msgid "Download failed because of an unknown error. We will fix this problem soon."
-msgstr "Download mislukt vanwege een onbekende reden. We zullen zo snel mogelijk proberen dit probleem op te lossen."
+msgstr ""
+"Het downloaden is om onbekende redenen mislukt. We trachten dit probleem "
+"z.s.m. op te lossen."
 
 msgctxt "[\"error\"][\"DOWN-PreRegister\"]"
 msgid "It's a Pre-registration App, you can't download."
-msgstr "Dit is een app met preregistratie, deze kan je hier niet downloaden."
+msgstr ""
+"Dit is een app waarvoor je je moet inschrijven, en kan dus niet worden "
+"gedownload."
 
 msgctxt "[\"error\"][\"DOWN-RunOutOfDevice\"]"
 msgid "Download failed, please try again in 5 minutes."
-msgstr "Download mislukt, probeer alsjeblieft opnieuw in 5 minuten."
+msgstr "Het downloaden is mislukt. Probeer het over 5 minuten nogmaals."
 
 msgctxt "[\"tip\"][\"SHORT_NAME\"]"
 msgid "{0}"
@@ -1599,15 +1613,15 @@ msgstr "{0}"
 
 msgctxt "[\"tip\"][\"VERSION\"]"
 msgid "Download {app_short_name} v{version_name} for android"
-msgstr "Download {app_short_name} v{version_name} for android"
+msgstr "Download {app_short_name} v{version_name} voor Android"
 
 msgctxt "[\"tip\"][\"ICON\"]"
 msgid "{0} icon"
-msgstr "{0}-icoon"
+msgstr "{0}-pictogram"
 
 msgctxt "[\"tip\"][\"PREVIOUS_VERSIONS\"]"
 msgid "{0} Previous Versions"
-msgstr "{0} Previous Versions"
+msgstr "{0} eerdere versies"
 
 msgctxt "[\"tip\"][\"LIST_ICON\"]"
 msgid "{0} APK"
@@ -1619,11 +1633,11 @@ msgstr "{0}-APK"
 
 msgctxt "[\"tip\"][\"LIST_DOWN\"]"
 msgid "Download {0} latest version apk"
-msgstr "Download de laatste APK-versie van {0}"
+msgstr "Download de nieuwste APK-versie van {0}"
 
 msgctxt "[\"tip\"][\"LIST_DOWN_XAPK\"]"
 msgid "Download {0} latest version xapk"
-msgstr "Download de laatste XAPK-versie van {0}"
+msgstr "Download de nieuwste XAPK-versie van {0}"
 
 msgctxt "[\"tip\"][\"VERSION_DOWN\"]"
 msgid "Download {app_name} {version_name} ({version_code}) {file_type}"
@@ -1635,11 +1649,11 @@ msgstr "{app_name} gemiddelde beoordeling {rating_average}"
 
 msgctxt "[\"tip\"][\"QR_DOWN\"]"
 msgid "{0} QR code download"
-msgstr "{0} QR-code voor download"
+msgstr "{0} QR-code voor downloaden"
 
 msgctxt "[\"tip\"][\"SAFE_VERIFIED\"]"
 msgid "{0} safe verified"
-msgstr "{0} als veilig beoordeeld"
+msgstr "{0} is veilig verklaard"
 
 msgctxt "[\"tip\"][\"SCREEN_POSTER\"]"
 msgid "{0} poster"
@@ -1647,11 +1661,11 @@ msgstr "{0}-poster"
 
 msgctxt "[\"tip\"][\"SCREEN\"]"
 msgid "{0} apk screenshot"
-msgstr "{0} APK-screenhot"
+msgstr "{0} APK-schermfoto"
 
 msgctxt "[\"tip\"][\"SCREEN_INDEX\"]"
 msgid "{0} screenshot {1}"
-msgstr "{0} screenshot {1}"
+msgstr "{0} schermfoto {1}"
 
 msgctxt "[\"tip\"][\"CATEGORY_GAME\"]"
 msgid "Download more {0} games"
@@ -1663,15 +1677,15 @@ msgstr "Download meer {0}-apps"
 
 msgctxt "[\"tip\"][\"GET_IT_ON_GOOGLE_PLAY\"]"
 msgid "Get {0} on Google Play"
-msgstr "Verkrijg {0} via Google Play"
+msgstr "Installeer {0} via Google Play"
 
 msgctxt "[\"tip\"][\"GET_IT_ON_OTHER\"]"
 msgid "Get {app_name} on {source_name}"
-msgstr "Verkrijg {app_name} op {source_name}"
+msgstr "Installeer {app_name} via {source_name}"
 
 msgctxt "[\"tip\"][\"REQUEST_UPDATE\"]"
 msgid "Request {0} Update"
-msgstr "Verzoek update van {0}"
+msgstr "Update aanvragen van {0}"
 
 msgctxt "[\"tip\"][\"HOT_ANDROID_GAME\"]"
 msgid "hot android game apk"
@@ -1715,7 +1729,7 @@ msgstr "Bạn có muốn thay đổi ngôn ngữ ưa thích của mình thành <
 
 msgctxt "[\"js\"][\"LANG_TIP\"][\"nl\"]"
 msgid "Wilt u uw voorkeurstaal naar <strong>Nederlands</strong> veranderen?"
-msgstr "Wilt u uw voorkeurstaal naar <strong>Nederlands</strong> veranderen?"
+msgstr "Wil je je voorkeurstaal instellen op <strong>Nederlands</strong>?"
 
 msgctxt "[\"js\"][\"LANG_IGNORE\"][\"pl\"]"
 msgid "Ignorować"
@@ -1783,11 +1797,13 @@ msgstr "Oké"
 
 msgctxt "[\"js\"][\"SIGN_VERIFY-OFFICIAL\"]"
 msgid "[Official] This {0} APK is the unmodified official version."
-msgstr "[Official] Deze APK van {0} is de ongewijzigde, officiële versie."
+msgstr "[Officieel] Deze APK van {0} is de ongewijzigde, officiële versie."
 
 msgctxt "[\"js\"][\"SIGN_VERIFY-NOT_TRUSTED\"]"
 msgid "[Not Trusted] This {0} APK is a modified version, we don't recommend installing it."
-msgstr "[Not Trusted] Deze APK van {0} is een gemodificeerde versie, we raden de installatie ervan niet aan."
+msgstr ""
+"[Niet-geverifieerd] Deze APK van {0} is een aangepaste versie. We raden de "
+"installatie ervan niet aan."
 
 msgctxt "[\"js\"][\"SIGN_VERIFY-ERROR_APK_FILE\"]"
 msgid "Error APK file"
@@ -1795,7 +1811,7 @@ msgstr "Fout in APK-bestand"
 
 msgctxt "[\"js\"][\"SIGN_VERIFY-VALID\"]"
 msgid "The uploaded file is not a valid Android application."
-msgstr "Het geüploade bestand is geen geldige Android-applicatie."
+msgstr "Het geüploade bestand is geen geldige Android-app."
 
 msgctxt "[\"js\"][\"SIGN_VERIFY-SAFE\"]"
 msgid "safe"
@@ -1811,19 +1827,19 @@ msgstr "Klik om een APK-bestand te uploaden"
 
 msgctxt "[\"js\"][\"REGION_DOWN-REGION_ERROR\"]"
 msgid "Package name or region error , try again"
-msgstr "Fout met pakketnaam of regio, probeer opnieuw"
+msgstr "Pakketnaam- of regiofout. Probeer het opnieuw."
 
 msgctxt "[\"js\"][\"REGION_DOWN-INVALID_APP\"]"
 msgid "Invalid app package name,"
-msgstr "Ongeldige app-pakketnaam,"
+msgstr "Ongeldige pakketnaam,"
 
 msgctxt "[\"js\"][\"REGION_DOWN-SEARCH_RESULTS\"]"
 msgid "Check all {0} search results here."
-msgstr "Bekijk alle {0} zoekresultaten hier."
+msgstr "Bekijk alle {0} de zoekresultaten hier."
 
 msgctxt "[\"js\"][\"REGION_DOWN-DOWNLOADING\"]"
 msgid "Downloading, please wait..."
-msgstr "Aan het downloaden, een moment geduld..."
+msgstr "Bezig met downloaden; even geduld..."
 
 msgctxt "[\"js\"][\"SHOW_MORE\"]"
 msgid "Show More"
@@ -1835,7 +1851,7 @@ msgstr "Minder tonen"
 
 msgctxt "[\"js\"][\"LOADING\"]"
 msgid "loading..."
-msgstr "aan het laden..."
+msgstr "Bezig met laden..."
 
 msgctxt "[\"js\"][\"DOWNLOAD_APK\"]"
 msgid "Download APK"
@@ -1847,15 +1863,15 @@ msgstr "{0}% geüpload"
 
 msgctxt "[\"js\"][\"UPLOADING\"]"
 msgid "Uploading..."
-msgstr "Aan het uploaden..."
+msgstr "Bezig met uploaden..."
 
 msgctxt "[\"js\"][\"VALIDATING\"]"
 msgid "Validating..."
-msgstr "Aan het valideren..."
+msgstr "Bezig met controleren..."
 
 msgctxt "[\"js\"][\"FILE_UPLOAD_FAILED\"]"
 msgid "File upload failed!"
-msgstr "Bestandsupload mislukt!"
+msgstr "Uploaden mislukt!"
 
 msgctxt "[\"js\"][\"CANCEL\"]"
 msgid "Cancel"
@@ -1863,23 +1879,25 @@ msgstr "Annuleren"
 
 msgctxt "[\"js\"][\"YOUTUBE_URL\"]"
 msgid "Enter Youtube video URL"
-msgstr "Enter Youtube video URL"
+msgstr "Voer de url in van een YouTube-video"
 
 msgctxt "[\"js\"][\"YOUTUBE_URL_ERR\"]"
 msgid "Invalid URL: Please enter a valid YouTube video URL"
-msgstr "Invalid URL: Please enter a valid YouTube video URL"
+msgstr "Ongeldige url: voer een geldige url in van een YouTube-video"
 
 msgctxt "[\"js\"][\"USER-PASSWORD_NOT_MATCH\"]"
 msgid "Passwords do not match"
-msgstr "Passwords do not match"
+msgstr "De wachtwoorden komen niet overeen"
 
 msgctxt "[\"js\"][\"USER-PASSWORD_MUST\"]"
 msgid "Password must be 6-32 characters long"
-msgstr "Password must be 6-32 characters long"
+msgstr "Het wachtwoord moet 6-32 tekens bevatten"
 
 msgctxt "[\"js\"][\"USER-USERNAME_MUST\"]"
 msgid "Username must be 1-20 characters long and special characters are not allowed."
-msgstr "Username must be 1-20 characters long and special characters are not allowed."
+msgstr ""
+"De gebruikersnaam moet 1-20 tekens bevatten. Speciale tekens zijn niet "
+"toegestaan."
 
 msgctxt "[\"js\"][\"USER-INCORRECT_ACCOUNT\"]"
 msgid "The username you entered is invalid."
@@ -1891,15 +1909,15 @@ msgstr "Het ingevoerde wachtwoord is ongeldig."
 
 msgctxt "[\"js\"][\"USER-SAVED_SUCCESS\"]"
 msgid "Saved Successfully"
-msgstr "Saved Successfully"
+msgstr "Opgeslagen"
 
 msgctxt "[\"js\"][\"USER-RESEND_VERIFICATION\"]"
 msgid "Resend verification code"
-msgstr "Resend verification code"
+msgstr "Verificatiecode opnieuw versturen"
 
 msgctxt "[\"js\"][\"USER-RESEND_IN\"]"
 msgid "Resend in {0}"
-msgstr "Resend in {0}"
+msgstr "Opnieuw versturen over {0}"
 
 msgctxt "[\"js\"][\"COMMENT-DELETE\"]"
 msgid "Yes,delete it!"
@@ -2547,3 +2565,46 @@ msgstr "Variant {0} downloaden"
 msgctxt "[\"NAV-Cloud-Phone-Emulator\"]"
 msgid "Cloud Phone Emulator"
 msgstr "Online telefoonemulator"
+
+msgctxt "[\"js\"][\"SUBMISSION_SUCCESS\"]"
+msgid "Submission success."
+msgstr "Verstuurd."
+
+msgctxt "[\"js\"][\"USER-RESEND\"]"
+msgid "Resend code"
+msgstr "Code opnieuw versturen"
+
+msgctxt "[\"js\"][\"LANG_OK\"][\"tr\"]"
+msgid "tamam"
+msgstr "tamam"
+
+msgctxt "[\"js\"][\"LANG_OK\"][\"fr\"]"
+msgid "D'accord"
+msgstr "D'accord"
+
+msgctxt "[\"js\"][\"LANG_IGNORE\"][\"tr\"]"
+msgid "Aldırmamak"
+msgstr "Aldırmamak"
+
+msgctxt "[\"js\"][\"LANG_IGNORE\"][\"fr\"]"
+msgid "Ignorer"
+msgstr "Ignorer"
+
+msgctxt "[\"js\"][\"LANG_TIP\"][\"tr\"]"
+msgid "Tercih ettiğiniz dili <strong> Türkiye </strong> olarak değiştirmek istiyor musunuz?"
+msgstr ""
+"Tercih ettiğiniz dili <strong> Türkiye </strong> olarak değiştirmek istiyor "
+"musunuz?"
+
+msgctxt "[\"js\"][\"LANG_TIP\"][\"fr\"]"
+msgid "Voulez-vous changer votre langue préférée à <strong> français </strong>?"
+msgstr ""
+"Voulez-vous changer votre langue préférée à <strong> français </strong>?"
+
+msgctxt "[\"tip\"][\"VERSION_VARIANT_DOWN\"]"
+msgid "Download {app_name} {version_name} variant {file_type}"
+msgstr "Download {app_name} {version_name}-variant {file_type}"
+
+msgctxt "[\"tip\"][\"VERSION_VARIANT\"]"
+msgid "Download {app_short_name} v{version_name} build variants in android"
+msgstr "Download {app_short_name} v{version_name}-varianten voor Android"
