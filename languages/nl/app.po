@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-12-09 21:35+0000\n"
-"PO-Revision-Date: 2019-12-12 13:35+0000\n"
+"PO-Revision-Date: 2019-12-14 17:35+0000\n"
 "Last-Translator: Heimen Stoffels <vistausss@outlook.com>\n"
 "Language-Team: Dutch <https://translate.apkpure.com/projects/apkpure/"
 "apkpurecom/nl/>\n"
@@ -1933,7 +1933,7 @@ msgstr "Weet je het zeker?"
 
 msgctxt "[\"js\"][\"COMMENT-RATE_MUST\"]"
 msgid "Before writing a review or something, please rate the app first."
-msgstr "Before writing a review or something, please rate the app first."
+msgstr "Beoordeel de app voordat je een recensie of bericht plaatst."
 
 msgctxt "[\"js\"][\"COMMENT-VOTE\"]"
 msgid "Vote"
@@ -1945,11 +1945,13 @@ msgstr "Download APK gratis online downloader | APKPure.com"
 
 msgctxt "[\"meta\"][\"Index\"][\"keywords\"]"
 msgid "apk download, apk downloader, android apk download"
-msgstr "apk downloaden, apk-downloader, android apk downloaden"
+msgstr "apk downloaden, apk-downloader, android-apk downloaden"
 
 msgctxt "[\"meta\"][\"Index\"][\"description\"]"
 msgid "Download apk for Android with APKPure APK downloader. NoAds, Faster apk downloads and apk file update speed. Best of all, it's free"
-msgstr "Download apk voor Android met APKPure APK-downloader. Geen reclame, Snelle APK-download- en APK-uploadsnelheid. Het beste van alles, het is gratis"
+msgstr ""
+"Download APK-bestanden voor Android met APKPure's APK-downloader. Geen "
+"reclame, en snelle APK-download- en uploadsnelheid. En het kost je geen cent!"
 
 msgctxt "[\"meta\"][\"Details\"][\"title\"]"
 msgid "{app_name} APK Download - Free {app_category} {app_type} for Android | APKPure.com"
@@ -1965,7 +1967,7 @@ msgstr "Download de {app_short_name}-apk {version_name} en de hele versiegeschie
 
 msgctxt "[\"meta\"][\"Details_new\"][\"title\"]"
 msgid "{app_short_name} for Android - APK Download"
-msgstr "{app_short_name} for Android - APK Download"
+msgstr "{app_short_name} voor Android - APK Download"
 
 msgctxt "[\"meta\"][\"Details_new\"][\"keywords\"]"
 msgid "{app_short_name}, {app_short_name} for android, {app_short_name} android download, {app_short_name} apk, {app_short_name} android apk, {app_short_name} download"
@@ -1973,19 +1975,26 @@ msgstr "{app_short_name}, {app_short_name} for android, {app_short_name} android
 
 msgctxt "[\"meta\"][\"Details_new\"][\"description\"]"
 msgid "Download {app_short_name} apk {version_name} for Android. {app_short_description}"
-msgstr "Download {app_short_name} apk {version_name} for Android. {app_short_description}"
+msgstr ""
+"Download {app_short_name} apk {version_name} voor Android. "
+"{app_short_description}"
 
 msgctxt "[\"meta\"][\"Versions\"][\"title\"]"
 msgid "{app_short_name} update version history for Android - APK Download"
-msgstr "{app_short_name} update version history for Android - APK Download"
+msgstr "{app_short_name}-update-versiegeschiedenis voor Android - APK Download"
 
 msgctxt "[\"meta\"][\"Versions\"][\"keywords\"]"
 msgid "{app_short_name}, download, old, version history, apk, release date, changelog"
-msgstr "{app_short_name}, download, old, version history, apk, release date, changelog"
+msgstr ""
+"{app_short_name}, downloaden, oud, versiegeschiedenis, apk, uitgavedatum, "
+"wijzigingslog"
 
 msgctxt "[\"meta\"][\"Versions\"][\"description\"]"
 msgid "Download {app_short_name} old versions Android APK or update to {app_short_name} latest version. Review {app_short_name} release date, changelog and more."
-msgstr "Download {app_short_name} old versions Android APK or update to {app_short_name} latest version. Review {app_short_name} release date, changelog and more."
+msgstr ""
+"Download {app_short_name} oude versies van de Android-APK of update "
+"{app_short_name} naar de nieuwste versie. Beoordeel {app_short_name}, bekijk "
+"de uitgavedatum, het wijzigingslog en nog veel meer."
 
 msgctxt "[\"meta\"][\"Details_download\"][\"title\"]"
 msgid "Download {app_name} {version_name} APK | APKPure.com"
@@ -2001,31 +2010,39 @@ msgstr "{app_name} {version_name} APK Downloaden"
 
 msgctxt "[\"meta\"][\"Details_download_new\"][\"title\"]"
 msgid "Download {app_short_name} latest {version_name} Android APK"
-msgstr "Download {app_short_name} latest {version_name} Android APK"
+msgstr "Download {app_short_name} die nieuwste {version_name} Android-APK"
 
 msgctxt "[\"meta\"][\"Details_download_new\"][\"title_old\"]"
 msgid "Download {app_short_name} {version_name} Android APK"
-msgstr "Download {app_short_name} {version_name} Android APK"
+msgstr "Download {app_short_name} {version_name} Android-APK"
 
 msgctxt "[\"meta\"][\"Details_download_new\"][\"keywords\"]"
 msgid "{app_short_name}, android, apk, download, {app_short_name} android, {app_short_name} download"
-msgstr "{app_short_name}, android, apk, download, {app_short_name} android, {app_short_name} download"
+msgstr ""
+"{app_short_name}, android, apk, downloaden, {app_short_name} android, "
+"{app_short_name} downloaden"
 
 msgctxt "[\"meta\"][\"Details_download_new\"][\"description\"]"
 msgid "{app_short_name} Android latest {version_name} APK Download and Install. {app_short_description}"
-msgstr "{app_short_name} Android latest {version_name} APK Download and Install. {app_short_description}"
+msgstr ""
+"{app_short_name} Android nieuwste {version_name} APK downloaden en "
+"installeren. {app_short_description}"
 
 msgctxt "[\"meta\"][\"Details_download_new\"][\"description_old\"]"
 msgid "{app_short_name} Android {version_name} APK Download and Install. {app_short_description}"
-msgstr "{app_short_name} Android {version_name} APK Download and Install. {app_short_description}"
+msgstr ""
+"{app_short_name} Android {version_name} APK downloaden en installeren. "
+"{app_short_description}"
 
 msgctxt "[\"meta\"][\"Category_xapk\"][\"title\"]"
 msgid "XAPK ( apk with obb file) {0}.apk for Android download"
-msgstr "XAPK (APK met OBB-bestand) {0}.apk  Android downloaden"
+msgstr "XAPK (APK met OBB-bestand) {0}.apk voorAndroid downloaden"
 
 msgctxt "[\"meta\"][\"Category_xapk\"][\"keywords\"]"
 msgid "xapk {0}, {0} xapk, xapk {0} download, download apk obb, apk with obb data, android"
-msgstr "xapk {0}, {0} xapk, xapk {0} download, download apk obb, apk met obb-data, android"
+msgstr ""
+"xapk {0}, {0} xapk, xapk {0} downloaden, download apk obb, apk met obb-data, "
+"android"
 
 msgctxt "[\"meta\"][\"Category_xapk\"][\"description\"]"
 msgid "Download Android {0} XAPK, full version with obb data file."
@@ -2045,7 +2062,8 @@ msgstr "{0}"
 
 msgctxt "[\"meta\"][\"Category_featured_editors-picks\"][\"title\"]"
 msgid "APKPure Editors' Picks for the best Android Games & Apps"
-msgstr "APKPure keuze van de redactie voor de beste Androidspellen en -apps"
+msgstr ""
+"APKPure - keuze van de redactie omtrent de beste Android-spellen en -apps"
 
 msgctxt "[\"meta\"][\"Category_featured_editors-picks\"][\"keywords\"]"
 msgid "android apps, android games, must have android games, must have android apps, game download"
@@ -2065,11 +2083,14 @@ msgstr "{0} apk downloaden, gratis {0} downloaden, {0} apk downloaden, download 
 
 msgctxt "[\"meta\"][\"Category_app\"][\"description\"]"
 msgid "Download free and best {0}  for Android phone and tablet with online apk downloader on APKPure.com, including (tool apps, shopping apps, communication apps) and more."
-msgstr "Download de gratis en de beste {0} voor Android-telefoons en -tablets met de online apk-downloader op APKPure.com, zoals hulpmiddel-apps, winkel-apps, communicatie-apps en nog veel meer."
+msgstr ""
+"Download de gratis en beste {0} voor Android-telefoons en -tablets met de "
+"online apk-downloader op APKPure.com, zoals hulpmiddel-apps, winkelapps, "
+"communicatie-apps en nog veel meer."
 
 msgctxt "[\"meta\"][\"Category_game\"][\"title\"]"
 msgid "Download {0} APK Android App Online - Free Pure APK Downloader"
-msgstr "Download {0} APK Android-app Online - Gratis Pure APK-downloader"
+msgstr "Download {0} APK Android-app online - Gratis Pure APK-downloader"
 
 msgctxt "[\"meta\"][\"Category_game\"][\"keywords\"]"
 msgid "{0} apk download, free {0} download, download {0} apk, {0} apk downloader, {0} android, {0} app download"
@@ -2077,11 +2098,14 @@ msgstr "{0} apk downloaden, gratis {0} downloaden, download {0} apk, {0} apk-dow
 
 msgctxt "[\"meta\"][\"Category_game\"][\"description\"]"
 msgid "Download free and best {0} for Android phone and tablet with online apk downloader on APKPure.com, including (driving games, shooting games, fighting games) and more."
-msgstr "Download de gratis en de beste {0} voor Android-telefoons en -tablets met de online apk-downloader op APKPure.com, zoals racegames, schietspellen, vechtspellen en nog veel meer."
+msgstr ""
+"Download de gratis en beste {0} voor Android-telefoons en -tablets met de "
+"online apk-downloader op APKPure.com, zoals racespellen, schietspellen, "
+"vechtspellen en nog veel meer."
 
 msgctxt "[\"meta\"][\"FAQ\"][\"title\"]"
 msgid "{0} FAQ | APKPure.com"
-msgstr "Veelgestelde Vragen over {0} | APKPure.com"
+msgstr "Veelgestelde vragen over {0} | APKPure.com"
 
 msgctxt "[\"meta\"][\"FAQ\"][\"keywords\"]"
 msgid "{0}"
@@ -2101,7 +2125,7 @@ msgstr "{0} apk downloaden, download {0} gratis app, {0}-spellen voor android,  
 
 msgctxt "[\"meta\"][\"Developer\"][\"description\"]"
 msgid "All Apps or Games Published by \"{0}\""
-msgstr "Alle Apps of Spellen Gepubliceerd door \"{0}\""
+msgstr "Alle apps of spellen gepubliceerd door '{0}'"
 
 msgctxt "[\"meta\"][\"Tag\"][\"title\"]"
 msgid "{0} Android Games & Apps on APKPure App Store"
@@ -2109,11 +2133,13 @@ msgstr "{0} Android Games & Apps on APKPure App Store"
 
 msgctxt "[\"meta\"][\"Tag\"][\"keywords\"]"
 msgid "{0}, {0} games,{0} apps, {0} download, {0} android"
-msgstr "{0}, {0} games,{0} apps, {0} download, {0} android"
+msgstr "{0}, {0} spellen, {0} apps, {0} downloaden, {0} android"
 
 msgctxt "[\"meta\"][\"Tag\"][\"description\"]"
 msgid "Browse and download top {0} games and apps for android mobile, tablets and more"
-msgstr "Browse and download top {0} games and apps for android mobile, tablets and more"
+msgstr ""
+"Ontdek en download top {0}-spellen en -apps voor Android-telefoons, -tablets "
+"en meer"
 
 msgctxt "[\"meta\"][\"Search\"][\"title\"]"
 msgid "{0} search results | APKPure.com"
@@ -2121,7 +2147,7 @@ msgstr "{0} zoekresultaten | APKPure.com"
 
 msgctxt "[\"meta\"][\"Search\"][\"keywords\"]"
 msgid "{0} apk download, download {0} apk"
-msgstr "{0} apk downloaden, download {0} apk"
+msgstr "{0} apk downloaden, download {0}-apk"
 
 msgctxt "[\"meta\"][\"Search\"][\"description\"]"
 msgid "{0}"
@@ -2129,15 +2155,16 @@ msgstr "{0}"
 
 msgctxt "[\"meta\"][\"Search_hot\"][\"title\"]"
 msgid "Search - APKPure Android App Store"
-msgstr "Search - APKPure Android App Store"
+msgstr "Zoeken - APKPure Android-appwinkel"
 
 msgctxt "[\"meta\"][\"Search_hot\"][\"keywords\"]"
 msgid "Search {add_trending}"
-msgstr "Search {add_trending}"
+msgstr "Zoeken naar {add_trending}"
 
 msgctxt "[\"meta\"][\"Search_hot\"][\"description\"]"
 msgid "Discover Android games free download on APKPure Android App Store."
-msgstr "Discover Android games free download on APKPure Android App Store."
+msgstr ""
+"Ontdek Android-spellen - gratis downloaden via de APKPure Android-appwinkel."
 
 msgctxt "[\"meta\"][\"New\"][\"title\"]"
 msgid "Download the latest {0} APK | APKPure.com"
@@ -2149,15 +2176,18 @@ msgstr "{0} apk downloaden, {0} update, gratis beste {0} downloaden, gratis {0}-
 
 msgctxt "[\"meta\"][\"New\"][\"description\"]"
 msgid "Daily update top free {0} apk download."
-msgstr "Dagelijks geüpdate beste gratis {0} apk downloaden."
+msgstr "Dagelijks geüpdat: de beste gratis {0} apk downloaden."
 
 msgctxt "[\"meta\"][\"Verify\"][\"title\"]"
 msgid "APK Signature Verification, Official Version APK Detection Service"
-msgstr "APK-handtekeningverificatie, APK-detectieservice van Officiële Versies"
+msgstr "APK-handtekeningcontrole, APK-detectiedienst omtrent officiële versies"
 
 msgctxt "[\"meta\"][\"Verify\"][\"keywords\"]"
 msgid "apk signature verification, apk signature verify, apk signature checker, apk signature viewer, modified apk, free, online, scanner"
-msgstr "apk-handtekeningverificatie, apk handtekening verifiëren, apk handtekeningchecker, apk handtekeningviewer, gemodificeerde apk, gratis, online, scanner"
+msgstr ""
+"apk-handtekeningcontrole, apk handtekening controleren, apk-"
+"handtekeningcontrole, apk handtekening bekijken, aangepaste apk, gratis, "
+"online, scanner"
 
 msgctxt "[\"meta\"][\"Verify\"][\"description\"]"
 msgid "APK Signature verification will verify Android app package signature to keep Android users away from potentially harmful APK files before APK installing."
@@ -2192,15 +2222,15 @@ msgstr "foutmelding"
 
 msgctxt "[\"meta\"][\"Category\"][\"title\"]"
 msgid "Browse Category | APKPure.com"
-msgstr "Doorzoek Categorie | APKPure.com"
+msgstr "Door categorie bladeren | APKPure.com"
 
 msgctxt "[\"meta\"][\"Category\"][\"keywords\"]"
 msgid "app category,game category"
-msgstr "app-categorie,spel-categorie"
+msgstr "appcategorie,spelcategorie"
 
 msgctxt "[\"meta\"][\"Category\"][\"description\"]"
 msgid "Android games and apps category"
-msgstr "Android spel- en apps-categorie"
+msgstr "Android-spel- en appscategorie"
 
 msgctxt "[\"meta\"][\"Topics\"][\"title\"]"
 msgid "Topics | APKPure.com"
@@ -2228,23 +2258,28 @@ msgstr "{0}"
 
 msgctxt "[\"meta\"][\"Similar\"][\"title\"]"
 msgid "{app_type} Like {app_short_name}"
-msgstr "{app_type} Like {app_short_name}"
+msgstr "{app_type} Zoals {app_short_name}"
 
 msgctxt "[\"meta\"][\"Similar\"][\"keywords\"]"
 msgid "{app_short_name} alternative, {app_short_name} similar {app_type}, {app_category} {app_type} like {app_short_name}"
-msgstr "{app_short_name} alternatief, {app_short_name} gelijk {app_type}, {app_category} {app_type} als {app_short_name}"
+msgstr ""
+"{app_short_name}-alternatief, {app_short_name} vergelijkbaar {app_type}, "
+"{app_category} {app_type} zoals {app_short_name}"
 
 msgctxt "[\"meta\"][\"Similar\"][\"description\"]"
 msgid "Popular alternative {app_type} to {app_short_name} for Android, Android tablet and more. Download top {similar_count} {app_type} like {app_short_name}, all {app_type} suggested by APKPure."
-msgstr "Popuaire alternatieven {app_type} aan {app_short_name} voor Android, Android tablet en meer. Download top {similar_count} {app_type} als {app_short_name}, alle {app_type} aanbevolen door APKPure."
+msgstr ""
+"Populair alternatief {app_type} voor {app_short_name} voor Android, Android-"
+"tablet en meer. Download de top {similar_count} {app_type} zoals "
+"{app_short_name}, alle {app_type} aanbevolen door APKPure."
 
 msgctxt "[\"meta\"][\"Login\"][\"title\"]"
 msgid "Sign in account for APKPure Android App Store"
-msgstr "Sign in account for APKPure Android App Store"
+msgstr "Log in op je APKPure Android-appwinkelaccount"
 
 msgctxt "[\"meta\"][\"Login\"][\"keywords\"]"
 msgid "login, new member, account, registration"
-msgstr "login, new member, account, registration"
+msgstr "inloggen, nieuwe gebruiker, account, registratie"
 
 msgctxt "[\"meta\"][\"Login\"][\"description\"]"
 msgid "To join community group or vote on APKPure App Store, you must be registered. Register your APKPure account today!"
@@ -2608,3 +2643,34 @@ msgstr "Download {app_name} {version_name}-variant {file_type}"
 msgctxt "[\"tip\"][\"VERSION_VARIANT\"]"
 msgid "Download {app_short_name} v{version_name} build variants in android"
 msgstr "Download {app_short_name} v{version_name}-varianten voor Android"
+
+msgctxt "[\"meta\"][\"Tag\"][\"title\"]"
+msgid "Tag {0} - APKPure"
+msgstr "Label {0} - APKPure"
+
+msgctxt "[\"meta\"][\"Category_featured_editors-picks\"][\"description\"]"
+msgid "Play with millions of free apps in APKPure style on Android phones, tablets, TV ,etc. Download the best must have android games you should play 2019."
+msgstr ""
+"Ontdek miljoenen gratis apps in APKPure-stijl op Android-telefoons en -"
+"tablets, Android TV, etc. Download dé Android-spellen die je gespeeld moet "
+"hebben in 2019."
+
+msgctxt "[\"meta\"][\"Download_apk_info\"][\"description\"]"
+msgid "Download {app_name} and learn more details about {app_short_name} requirements, running os version and more on APKPure Android App Store."
+msgstr ""
+"Download {app_name} en kom meer te weten over {app_short_name}'s vereisten, "
+"de huidige systeemversie en meer in de APKPure Android-appwinkel."
+
+msgctxt "[\"meta\"][\"Download_apk_info\"][\"keywords\"]"
+msgid "{app_short_name} information, game info, app info, requirements, versions"
+msgstr ""
+"{app_short_name} informatie, spelinformatie, appinformatie, vereisten, "
+"versies"
+
+msgctxt "[\"meta\"][\"Download_apk_info\"][\"title\"]"
+msgid "Getting Started in {app_short_name}"
+msgstr "Aan de slag met {app_short_name}"
+
+msgctxt "[\"meta\"][\"Variants\"][\"title\"]"
+msgid "{app_short_name} {version_name} Build variants in Android - APK Download"
+msgstr "{app_short_name} {version_name}-varianten voor Android - APK Download"
