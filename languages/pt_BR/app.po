@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-07-14 14:58+0000\n"
-"PO-Revision-Date: 2019-10-02 17:18+0000\n"
-"Last-Translator: amanda ewelym da silva souza <aewelym@gmail.com>\n"
+"PO-Revision-Date: 2020-01-22 20:36+0000\n"
+"Last-Translator: Igor Ruckert <igorruckert@yahoo.com.br>\n"
 "Language-Team: Portuguese (Brazil) <https://translate.apkpure.com/projects/"
 "apkpure/apkpurecom/pt_BR/>\n"
 "Language: pt_BR\n"
@@ -2494,7 +2494,6 @@ msgstr ""
 "tablets, TVs, etc.  Baixe o melhor deve ter jogos android você deve jogar "
 "2019."
 
-#, fuzzy
 msgctxt "[\"meta\"][\"Download_apk_info\"][\"description\"]"
 msgid "Download {app_name} and learn more details about {app_short_name} requirements, running os version and more on APKPure Android App Store."
 msgstr ""
@@ -2743,12 +2742,10 @@ msgctxt "[\"COMMENT-REVIEWS_CURRENT_MOB\"]"
 msgid "In {0}:"
 msgstr "Em {0}:"
 
-#, fuzzy
 msgctxt "[\"COMMENT-REVIEWS_CURRENT\"]"
 msgid "Reviews in {0}:"
 msgstr "Comentários em {0}:"
 
-#, fuzzy
 msgctxt "[\"COMMENT-REVIEWS_TOTAL\"]"
 msgid "Total Reviews:"
 msgstr "Comentários totais:"
@@ -2833,3 +2830,35 @@ msgstr "Aplicativos atualizados recentemente"
 msgctxt "[\"NAV-Cloud-Phone-Emulator\"]"
 msgid "Cloud Phone Emulator"
 msgstr "Emulador de telefone na nuvem"
+
+msgctxt "[\"content_rating\"][\"Comic Mischief\"]"
+msgid "Comic Mischief"
+msgstr "Travessura em quadrinhos"
+
+msgctxt "[\"meta\"][\"Hashtag\"][\"title\"]"
+msgid "Hashtag {hashtag} - APKPure"
+msgstr "Hashtag {hashtag} - APKPure"
+
+msgctxt "[\"meta\"][\"User_post\"][\"title\"]"
+msgid "{summary} - {user_name} | APKPure"
+msgstr "{summary} - {user_name} | APKPure"
+
+msgctxt "[\"meta\"][\"Tag\"][\"title\"]"
+msgid "Tag {0} - APKPure"
+msgstr "Tag {0} - APKPure"
+
+msgctxt "[\"USER-INFO_REVIEW\"]"
+msgid "Review"
+msgstr "Resenha"
+
+msgctxt "[\"HASHTAG\"]"
+msgid "HASHTAG"
+msgstr "HASHTAG"
+
+msgctxt "[\"COMMENT-HASHTAG\"]"
+msgid "Hashtag"
+msgstr "Hashtag"
+
+msgctxt "[\"VARIANT-DPI\"]"
+msgid "DPI"
+msgstr "DPI"
