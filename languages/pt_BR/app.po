@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-07-14 14:58+0000\n"
-"PO-Revision-Date: 2020-01-22 20:36+0000\n"
+"PO-Revision-Date: 2020-02-08 23:36+0000\n"
 "Last-Translator: Igor Ruckert <igorruckert@yahoo.com.br>\n"
 "Language-Team: Portuguese (Brazil) <https://translate.apkpure.com/projects/"
 "apkpure/apkpurecom/pt_BR/>\n"
@@ -2420,10 +2420,9 @@ msgctxt "[\"content_rating\"][\"Violence\"]"
 msgid "Violence"
 msgstr "Violência"
 
-#, fuzzy
 msgctxt "[\"content_rating\"][\"Fantasy Violence\"]"
 msgid "Fantasy Violence"
-msgstr "Violência da fantasia"
+msgstr "Violência de Fantasia"
 
 msgctxt "[\"content_rating\"][\"Everyone 10+\"]"
 msgid "Everyone 10+"
@@ -2486,13 +2485,12 @@ msgctxt "[\"meta\"][\"Delete_account\"][\"title\"]"
 msgid "Delete Account and Information | APKPure"
 msgstr "Excluir conta e informações |  APKPure"
 
-#, fuzzy
 msgctxt "[\"meta\"][\"Category_featured_editors-picks\"][\"description\"]"
 msgid "Play with millions of free apps in APKPure style on Android phones, tablets, TV ,etc. Download the best must have android games you should play 2019."
 msgstr ""
 "Jogue com milhões de aplicativos gratuitos no estilo APKPure em telefones, "
-"tablets, TVs, etc.  Baixe o melhor deve ter jogos android você deve jogar "
-"2019."
+"tablets, TVs Android, etc.  Faça o download dos melhores jogos para Android "
+"que você deve jogar em 2020."
 
 msgctxt "[\"meta\"][\"Download_apk_info\"][\"description\"]"
 msgid "Download {app_name} and learn more details about {app_short_name} requirements, running os version and more on APKPure Android App Store."
@@ -2750,10 +2748,9 @@ msgctxt "[\"COMMENT-REVIEWS_TOTAL\"]"
 msgid "Total Reviews:"
 msgstr "Comentários totais:"
 
-#, fuzzy
 msgctxt "[\"VARIANT-ARCH\"]"
 msgid "Arch"
-msgstr "Arco"
+msgstr "Arquitetura"
 
 msgctxt "[\"VARIANT-SCREEN_DPI\"]"
 msgid "Screen DPI"
