@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-10-28 13:15+0000\n"
-"PO-Revision-Date: 2020-03-19 01:38+0000\n"
-"Last-Translator: neng Pascua <margielydueropascua35@gmail.com>\n"
+"PO-Revision-Date: 2020-04-07 16:30+0000\n"
+"Last-Translator: ប៉ុកណូ រ៉ូយ៉ាល់ <royalpokno68@gmail.com>\n"
 "Language-Team: Central Khmer <https://translate.apkpure.com/projects/apkpure/"
 "apkpurecom/km/>\n"
 "Language: km\n"
@@ -596,7 +596,7 @@ msgstr "កម្មវិធីទាញយក APK (តំបន់សេរី
 
 msgctxt "[\"FOOTER-APK_INSTALL\"]"
 msgid "APK Install"
-msgstr "APK Install"
+msgstr "ដំឡើង APK"
 
 msgctxt "[\"FOOTER-APK_SIGNATURE_VERIFICATION\"]"
 msgid "APK Signature Verification"
@@ -1203,7 +1203,7 @@ msgstr ""
 
 msgctxt "[\"meta\"][\"faq-safe.html\"][\"description\"]"
 msgid "Why we can guarantee APK 100% safe?"
-msgstr ""
+msgstr "ហេតុអ្វីបានជាយើងធានា APK ថាសុវត្ថិភាព 100% ?"
 
 msgctxt "[\"meta\"][\"how-to-install-apk.html\"][\"title\"]"
 msgid "How to install unknown sources APK to Android"
@@ -1919,11 +1919,11 @@ msgstr "ផ្សេងទៀតមកពី {0}"
 
 msgctxt "[\"VERSION-PREVIOUS\"]"
 msgid "Previous versions"
-msgstr "ជំនាន់ពីមុន"
+msgstr "កំណែពីមុន"
 
 msgctxt "[\"VERSION-VERSIONS\"]"
 msgid "Versions"
-msgstr "ជំនាន់"
+msgstr "កំណែ"
 
 msgctxt "[\"VERSION-REQUIRES_ANDROID\"]"
 msgid "Requires Android"
@@ -2566,7 +2566,7 @@ msgstr ""
 
 msgctxt "[\"js\"][\"LANG_TIP\"][\"nl\"]"
 msgid "Wilt u uw voorkeurstaal naar <strong>Nederlands</strong> veranderen?"
-msgstr "Wilt u uw voorkeurstaal naar <strong>Nederlands</strong> veranderen?"
+msgstr "តើអ្នកចង់បានភាសា <strong>Nederlands</strong> ដែលអ្នកចូលចិត្តមែនទេ?"
 
 msgctxt "[\"js\"][\"LANG_IGNORE\"][\"it\"]"
 msgid "Ignorare"
@@ -2574,7 +2574,7 @@ msgstr "Ignorare"
 
 msgctxt "[\"js\"][\"LANG_IGNORE\"][\"de\"]"
 msgid "Negeren"
-msgstr "Negeren"
+msgstr "មិនអើពើ"
 
 msgctxt "[\"js\"][\"LANG_IGNORE\"][\"vn\"]"
 msgid "OK"
@@ -2645,11 +2645,11 @@ msgstr "ទាញយក {app_short_name} {version_name} ចុងក្រោយ
 
 msgctxt "[\"COMMENT-ERR_SENSITIVE_WORD\"]"
 msgid "Comment failed, your post contains sensitive terms."
-msgstr ""
+msgstr "មតិបរាជ័យ ការប្រកាសរបស់អ្នកមានពាក្យរសើប។"
 
 msgctxt "[\"COMMENT-REVIEWS_CURRENT_MOB\"]"
 msgid "In {0}:"
-msgstr ""
+msgstr "ក្នុង {0}៖"
 
 msgctxt "[\"js\"][\"COMMENT-LIKE\"]"
 msgid "Like"
@@ -2710,3 +2710,43 @@ msgstr "ព័​ត៍​មាន​បន្ថែម"
 msgctxt "[\"BROWSING_TAG\"]"
 msgid "Browsing {0}"
 msgstr "searh"
+
+msgctxt "[\"VARIANT-VARIANT\"]"
+msgid "Variant"
+msgstr "ផ្សេងពីគ្នា"
+
+msgctxt "[\"VARIANT-VARIANTS_TIT\"]"
+msgid "Variants"
+msgstr "ផ្សេងពីគ្នា"
+
+msgctxt "[\"VARIANT-VARIANTS\"]"
+msgid "{0} Variants"
+msgstr "{0} ផ្សេងពីគ្នា"
+
+msgctxt "[\"VARIANT-DPI\"]"
+msgid "DPI"
+msgstr "DPI"
+
+msgctxt "[\"COMMENT-REVIEWS_TOTAL\"]"
+msgid "Total Reviews:"
+msgstr "ចំនួនអ្នកពិនិត្យវាយតម្លៃ៖"
+
+msgctxt "[\"VARIANT-ARCH\"]"
+msgid "Arch"
+msgstr "ប្លង់គំនូរ"
+
+msgctxt "[\"VARIANT-SCREEN_DPI\"]"
+msgid "Screen DPI"
+msgstr "អេក្រង់ DPI"
+
+msgctxt "[\"VARIANT-MINIMUM\"]"
+msgid "Minimum Version"
+msgstr "ជំនាន់អប្បបរមា"
+
+msgctxt "[\"VARIANT-ARCHITECTURE\"]"
+msgid "Architecture"
+msgstr "ស្ថាបត្យកម្ម"
+
+msgctxt "[\"VERSION-ALL-VERSIONS\"]"
+msgid "All Versions"
+msgstr "គ្រប់កំណែទាំងអស់"
