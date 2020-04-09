@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-10-28 13:15+0000\n"
-"PO-Revision-Date: 2020-04-07 16:30+0000\n"
+"PO-Revision-Date: 2020-04-11 22:31+0000\n"
 "Last-Translator: ប៉ុកណូ រ៉ូយ៉ាល់ <royalpokno68@gmail.com>\n"
 "Language-Team: Central Khmer <https://translate.apkpure.com/projects/apkpure/"
 "apkpurecom/km/>\n"
@@ -1805,11 +1805,11 @@ msgstr "មតិ​ដែល​មិន​បាន​ស្គាល់​ឈ
 
 msgctxt "[\"COMMENT-ERR_INVALID_PARAMETER\"]"
 msgid "Invalid comment parameter"
-msgstr "បារ៉ាម៉ែត្រនៃមតិមិនត្រឹមត្រូ"
+msgstr "បារ៉ាម៉ែត្រមតិមិនត្រឹមត្រូវ"
 
 msgctxt "[\"COMMENT-ERR_INVALID_VIDEO_URL\"]"
 msgid "Invalid Video URL"
-msgstr "URL វីដេអូ​របស់អ្នក​មិន​ត្រឹម​ត្រូវ​ទេ​"
+msgstr "URL វីដេអូមិន​ត្រឹម​ត្រូវ​ទេ​"
 
 msgctxt "[\"COMMENT-DELETE\"]"
 msgid "Yes,delete it!"
@@ -1975,7 +1975,7 @@ msgstr "អ្នកគួរតែអាចចូលចិត្តផងដែ
 
 msgctxt "[\"COMMENT-ADD_NEW_DISCUSSION\"]"
 msgid "Add A New Discussion"
-msgstr "បន្ថែមការជជែកពិភាក្សាគ្នាថ្មី"
+msgstr "បន្ថែមការពិភាក្សាគ្នាថ្មី"
 
 msgctxt "[\"COMMENT-REPLIES\"]"
 msgid "Replies"
@@ -1983,7 +1983,7 @@ msgstr "ឆ្លើយតប"
 
 msgctxt "[\"COMMENT-DISCUSSIONS\"]"
 msgid "Discussions"
-msgstr "ការជជែកពិភាក្សាគ្នា"
+msgstr "ការពិភាក្សា"
 
 msgctxt "[\"meta\"][\"Invit\"][\"keywords\"]"
 msgid "group, {app_name}, {app_category}, {app_type}, {app_developer}, {app_short_name} community"
@@ -2166,12 +2166,13 @@ msgstr "រកមិនឃើញ"
 msgctxt "[\"COMMENT-ERR_INVALID_USER\"]"
 msgid "You're banned from APKPure by using or posting content containing nudity images. Please edit or remove the images before contacting Admin to restore your account."
 msgstr ""
-"អ្នកត្រូវបានហាមឃាត់ដោយសារតែប្រើប្រាស់រឺមាតិកាដែលមានផ្ទុករូបភាពស្រាត។ "
-"សូមកែសម្រួលរឺយកវាចេញមុនពេលទាក់ទងអភិបាលដើម្បីស្ដារគណនីរបស់អ្នកឡើងវិញ។"
+"អ្នកត្រូវបានហាមឃាត់មិនឱ្យប្រើ APKPure ដោយកំពុងប្រើ "
+"ឬបង្ហោះមាតិកាដែលមានរូបភាពអាក្រាត។ សូមកែសម្រួល ឬលុបរូបភាពមុនពេលទាក់ទង Admin "
+"ដើម្បីស្តារគណនីរបស់អ្នកឡើងវិញ។"
 
 msgctxt "[\"COMMENT-DOWNLOAD_APK\"]"
 msgid "Download the APK file on APKPure."
-msgstr "ទាញយកឯកសារAPKលើ APKPure។"
+msgstr "ទាញយកឯកសារ APK ពី APKPure។"
 
 msgctxt "[\"PRE-REGISTER\"]"
 msgid "Pre-register"
@@ -2199,7 +2200,7 @@ msgstr "ទំព័រនៃការចុះឈ្មោះ"
 
 msgctxt "[\"USER-FOLLOWING\"]"
 msgid "Following"
-msgstr "ការតាមដាន"
+msgstr "កំពុងតាមដាន"
 
 msgctxt "[\"USER-FOLLOWER\"]"
 msgid "Follower"
@@ -2207,7 +2208,7 @@ msgstr "អ្នកតាមដាន"
 
 msgctxt "[\"USER-LIKES\"]"
 msgid "Likes"
-msgstr "ចូលចិត្ត"
+msgstr "ពេញចិត្ត"
 
 msgctxt "[\"USER-POSTS\"]"
 msgid "Posts"
@@ -2331,7 +2332,7 @@ msgstr "បានលុប!"
 
 msgctxt "[\"js\"][\"COMMENT-ARE_YOU_SURE\"]"
 msgid "Are you sure?"
-msgstr "តេីអ្នក​ប្រាកដ​ដែរ​ឫ​ទេ?"
+msgstr "តេីអ្នក​ប្រាកដ​ដែរ​ទេ?"
 
 msgctxt "[\"js\"][\"COMMENT-VOTE\"]"
 msgid "Vote"
@@ -2394,7 +2395,7 @@ msgstr "កម្មវិធីនេះមិនអាចផ្ទុកឡើ
 
 msgctxt "[\"COMMENT-LINK\"]"
 msgid "Link"
-msgstr "តំណ"
+msgstr "តំណភ្ជាប់"
 
 msgctxt "[\"PRE-REGISTER\"]"
 msgid "Pre-Registration Games"
@@ -2406,7 +2407,7 @@ msgstr "ការចុះឈ្មោះទុកមុន"
 
 msgctxt "[\"PRE-REGISTER_DETAILS\"]"
 msgid "Pre-Register Details"
-msgstr "ការចុះឈ្មោះទុកមុនលម្អិត"
+msgstr "ពត៌មានលម្អិតការចុះឈ្មោះទុកមុន"
 
 msgctxt "[\"PRE-REGISTER_PAGE\"]"
 msgid "Pre-Register Page"
@@ -2418,7 +2419,7 @@ msgstr "អ្នកតាមដាន"
 
 msgctxt "[\"USER-REVIEWS\"]"
 msgid "Reviews"
-msgstr "អ្នកពិនិត្យមើល"
+msgstr "ការវាយតម្លៃ"
 
 msgctxt "[\"USER-REVIEWS_NONE\"]"
 msgid "Too few users ratings"
@@ -2729,11 +2730,11 @@ msgstr "DPI"
 
 msgctxt "[\"COMMENT-REVIEWS_TOTAL\"]"
 msgid "Total Reviews:"
-msgstr "ចំនួនអ្នកពិនិត្យវាយតម្លៃ៖"
+msgstr "ការវាយតម្លៃសរុប៖"
 
 msgctxt "[\"VARIANT-ARCH\"]"
 msgid "Arch"
-msgstr "ប្លង់គំនូរ"
+msgstr "ស្ថាបត្យកម្ម"
 
 msgctxt "[\"VARIANT-SCREEN_DPI\"]"
 msgid "Screen DPI"
@@ -2750,3 +2751,71 @@ msgstr "ស្ថាបត្យកម្ម"
 msgctxt "[\"VERSION-ALL-VERSIONS\"]"
 msgid "All Versions"
 msgstr "គ្រប់កំណែទាំងអស់"
+
+msgctxt "[\"USER-DELETE_ACCOUNT\"]"
+msgid "Delete your account and information"
+msgstr "លុបគណនី និងពត៌មានលម្អិតរបស់អ្នក"
+
+msgctxt "[\"USER-PRIVATE_ACCOUNT\"]"
+msgid "Private Account"
+msgstr "គណនីឯកជន"
+
+msgctxt "[\"USER-PRIVACY_SETTING\"]"
+msgid "Privacy Settings"
+msgstr "ការកំណត់ឯកជនភាព"
+
+msgctxt "[\"USER-A_PRIVATE_ACCOUNT\"]"
+msgid "It's a private account."
+msgstr "វាជាគណនីឯកជន។"
+
+msgctxt "[\"USER-SAY_SOMETHING\"]"
+msgid "Why do you want to delete this account?"
+msgstr "ហេតុអ្វីបានជាអ្នកចង់លុបគណនីនេះ?"
+
+msgctxt "[\"USER-INFO_STORY\"]"
+msgid "Story"
+msgstr "ដំណើររឿង"
+
+msgctxt "[\"USER-INFO_REVIEW\"]"
+msgid "Review"
+msgstr "ការវាយតម្លៃ"
+
+msgctxt "[\"USER-INFO_ALL\"]"
+msgid "All"
+msgstr "ទាំងអស់"
+
+msgctxt "[\"USER-SETTINGS\"]"
+msgid "Settings"
+msgstr "ការកំណត់"
+
+msgctxt "[\"HOT_HASHTAG\"]"
+msgid "Featured Hashtags"
+msgstr "លក្ខណះស្លាកសំគាល់"
+
+msgctxt "[\"HASHTAG\"]"
+msgid "HASHTAG"
+msgstr "ស្លាកសំគាល់"
+
+msgctxt "[\"COMMENT-POST_COUNT\"]"
+msgid "Posts: {0}"
+msgstr "ប្រកាស៖ {0}"
+
+msgctxt "[\"COMMENT-FOLLOW_COUNT\"]"
+msgid "Followers: {0}"
+msgstr "អ្នកតាមដាន"
+
+msgctxt "[\"COMMENT-HASHTAG\"]"
+msgid "Hashtag"
+msgstr "ស្លាកសំគាល់"
+
+msgctxt "[\"COMMENT-HASHTAG_NOT_EXIST\"]"
+msgid "The hashtag does not exist"
+msgstr "ស្លាកសំគាល់ មិនទាន់មាន"
+
+msgctxt "[\"COMMENT-SAME_TEXT\"]"
+msgid "The text is the same, please post it later."
+msgstr "អត្ថបទគឺតែមួយ សូមប្រកាសនៅពេលក្រោយ។"
+
+msgctxt "[\"COMMENT-REVIEWS_CURRENT\"]"
+msgid "Reviews in {0}:"
+msgstr "ការវាយតម្លៃក្នុង {0}៖"
