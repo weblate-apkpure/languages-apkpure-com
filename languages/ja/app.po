@@ -1,3 +1,19 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-05-18 07:57+0000\n"
+"PO-Revision-Date: 2019-06-09 13:08+0000\n"
+"Last-Translator: tatsu u <utatsu716@gmail.com>\n"
+"Language-Team: Japanese <https://translate.apkpure.com/projects/apkpure/"
+"apkpurecom/ja/>\n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 3.2.2\n"
+
 msgctxt "[\"NAV-GAME\"]"
 msgid "GAMES"
 msgstr "ゲーム"
@@ -2253,3 +2269,43 @@ msgstr "{app_name} {app_type} ディスカッションで {user_name} によっ�
 msgctxt "[\"meta\"][\"Invit\"][\"keywords\"]"
 msgid "group, {app_name}, {app_category}, {app_type}, {app_developer}, {app_short_name} community"
 msgstr "グループ、 {app_name}, {app_category}, {app_type}, {app_developer}, {app_short_name} コミュニティ"
+
+msgctxt "[\"NAV-Cloud-Phone-Emulator\"]"
+msgid "Cloud Phone Emulator"
+msgstr "クラウドスマホエミュレータ"
+
+msgctxt "[\"TOP-UPDATED-APPS\"]"
+msgid "Recently Updated Apps"
+msgstr "最近更新されたアプリ"
+
+msgctxt "[\"TOP-UPDATED-GAMES\"]"
+msgid "Recently Updated Games"
+msgstr "最近更新されたゲーム"
+
+msgctxt "[\"REASON\"]"
+msgid "Reason"
+msgstr "理由"
+
+msgctxt "[\"TAG\"]"
+msgid "Tag {0}"
+msgstr "タグ{0}"
+
+msgctxt "[\"BROWSING_TAG\"]"
+msgid "Browsing {0}"
+msgstr "ブラウジング{0}"
+
+msgctxt "[\"ADDITIONAL_INFORMATION\"]"
+msgid "Additional Information"
+msgstr "追加情報"
+
+msgctxt "[\"SUBMIT\"]"
+msgid "Submit"
+msgstr "送信"
+
+msgctxt "[\"SUBMITTING\"]"
+msgid "Submitting..."
+msgstr "送信中..."
+
+msgctxt "[\"DOWNLOAD_AVAILABLE\"]"
+msgid "Download Variant {0}"
+msgstr "ダウンロードバリアント {0}"
