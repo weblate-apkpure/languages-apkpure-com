@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-07-16 16:34+0000\n"
-"PO-Revision-Date: 2018-07-17 17:00+0000\n"
-"Last-Translator: MRX CZX <mrxczx@gmail.com>\n"
+"PO-Revision-Date: 2020-08-30 13:56+0000\n"
+"Last-Translator: costel penciuc <costypenciuc@gmail.com>\n"
 "Language-Team: Romanian <https://translate.apkpure.com/projects/apkpure/"
 "apkpurecom/ro/>\n"
 "Language: ro\n"
@@ -13,7 +13,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : (n==0 || (n%100 > 0 && n%100 < "
 "20)) ? 1 : 2;\n"
-"X-Generator: Weblate 3.0\n"
+"X-Generator: Weblate 4.1.1\n"
 
 msgctxt "[\"NAV-GAME\"]"
 msgid "GAMES"
@@ -57,11 +57,11 @@ msgstr "Instalează APK"
 
 msgctxt "[\"NAV-APK_DOWNLOAD\"]"
 msgid "APK Download"
-msgstr ""
+msgstr "Descărcați fișierul APK"
 
 msgctxt "[\"NAV-APK_VERIFICATION\"]"
 msgid "APK Verification"
-msgstr ""
+msgstr "Verificare fișier APK"
 
 msgctxt "[\"NAV-APKPURE_APP\"]"
 msgid "APKPure App"
@@ -73,11 +73,11 @@ msgstr ""
 
 msgctxt "[\"FAST_DOWNLOAD\"]"
 msgid "Fast Download"
-msgstr ""
+msgstr "Descărcare rapidă"
 
 msgctxt "[\"IGNORE\"]"
 msgid "Ignore"
-msgstr ""
+msgstr "Ignorați"
 
 msgctxt "[\"OK\"]"
 msgid "OK"
@@ -85,15 +85,15 @@ msgstr ""
 
 msgctxt "[\"BUY\"]"
 msgid "Buy"
-msgstr ""
+msgstr "Cumpărați"
 
 msgctxt "[\"SELECT_LANGUAGE\"]"
 msgid "Select Language"
-msgstr ""
+msgstr "Alegeți limba"
 
 msgctxt "[\"FREE\"]"
 msgid "Free"
-msgstr ""
+msgstr "Gratuit"
 
 msgctxt "[\"TOP-UPDATED-APPS\"]"
 msgid "Top Updated Apps"
@@ -105,27 +105,27 @@ msgstr ""
 
 msgctxt "[\"READ_MORE\"]"
 msgid "Read More"
-msgstr ""
+msgstr "Citiți mai mult"
 
 msgctxt "[\"GAME\"]"
 msgid "GAME"
-msgstr ""
+msgstr "JOC"
 
 msgctxt "[\"APP\"]"
 msgid "APP"
-msgstr ""
+msgstr "APLICAȚIE"
 
 msgctxt "[\"GAMES\"]"
 msgid "Games"
-msgstr ""
+msgstr "Jocuri"
 
 msgctxt "[\"APPS\"]"
 msgid "Apps"
-msgstr ""
+msgstr "Aplicații"
 
 msgctxt "[\"MORE\"]"
 msgid "More"
-msgstr ""
+msgstr "Mai mult"
 
 msgctxt "[\"XAPK\"]"
 msgid "XAPK"
@@ -133,27 +133,27 @@ msgstr ""
 
 msgctxt "[\"XAPK-GAMES\"]"
 msgid "XAPK Games"
-msgstr ""
+msgstr "Jocuri de tip XAPK"
 
 msgctxt "[\"XAPK-APPS\"]"
 msgid "XAPK Apps"
-msgstr ""
+msgstr "Aplicații de tip XAPK"
 
 msgctxt "[\"HOME\"]"
 msgid "Home"
-msgstr ""
+msgstr "Acasă"
 
 msgctxt "[\"SORT_BY\"]"
 msgid "Sort by"
-msgstr ""
+msgstr "Sortați după"
 
 msgctxt "[\"HOT\"]"
 msgid "Hot"
-msgstr ""
+msgstr "Popular"
 
 msgctxt "[\"ATTACHMENT\"]"
 msgid "Attachment"
-msgstr ""
+msgstr "Atașament"
 
 msgctxt "[\"DOWNLOADS\"]"
 msgid "Downloads"
@@ -161,7 +161,7 @@ msgstr ""
 
 msgctxt "[\"DOWNLOADS_ATTACHMENT\"]"
 msgid "Downloads"
-msgstr ""
+msgstr "Descărcări"
 
 msgctxt "[\"NEWEST\"]"
 msgid "Newest"
@@ -169,7 +169,7 @@ msgstr ""
 
 msgctxt "[\"RATING\"]"
 msgid "Rating"
-msgstr ""
+msgstr "Recenzii"
 
 msgctxt "[\"CATEGORY\"]"
 msgid "Category"
@@ -177,7 +177,7 @@ msgstr ""
 
 msgctxt "[\"CATEGORY_JOIN\"]"
 msgid "{app_category} {app_type}"
-msgstr ""
+msgstr "{categorie_aplicație} {tip_de_aplicație}"
 
 msgctxt "[\"SHOW_MORE\"]"
 msgid "Show More"
@@ -189,39 +189,39 @@ msgstr ""
 
 msgctxt "[\"HAVE_PRODUCTS\"]"
 msgid "All {0} Apps"
-msgstr ""
+msgstr "Toate cele {0} aplicații"
 
 msgctxt "[\"DEVELOPER\"]"
 msgid "Developer"
-msgstr ""
+msgstr "Dezvoltator"
 
 msgctxt "[\"POPULAR_GAMES_IN_LAST_HOURS\"]"
 msgid "Popular Games In Last {0} Hours"
-msgstr ""
+msgstr "Cele mai populare jocuri în ultimele {0} ore"
 
 msgctxt "[\"POPULAR_APPS_IN_LAST_HOURS\"]"
 msgid "Popular Apps In Last {0} Hours"
-msgstr ""
+msgstr "Aplicații populare în ultimele {0} ore"
 
 msgctxt "[\"POPULAR_APPS_IN_TODAY\"]"
 msgid "Popular Apps In Today"
-msgstr ""
+msgstr "Aplicațiile populare de azi"
 
 msgctxt "[\"POPULAR_GAMES_IN_TODAY\"]"
 msgid "Popular Games In Today"
-msgstr ""
+msgstr "Jocurile populare de azi"
 
 msgctxt "[\"HOT_GAMES\"]"
 msgid "Hot Games"
-msgstr ""
+msgstr "Jocuri tari"
 
 msgctxt "[\"HOT_APPS\"]"
 msgid "Hot Apps"
-msgstr ""
+msgstr "Aplicații tari"
 
 msgctxt "[\"CLOSE\"]"
 msgid "Close"
-msgstr ""
+msgstr "Închideți"
 
 msgctxt "[\"COMMENTS\"]"
 msgid "Comments"
@@ -229,51 +229,51 @@ msgstr ""
 
 msgctxt "[\"NOT_FOUND\"]"
 msgid "Not Found"
-msgstr ""
+msgstr "Nu s-a găsit"
 
 msgctxt "[\"LATEST_UPDATE_GAMES\"]"
 msgid "Latest Update Games"
-msgstr ""
+msgstr "Jocurile cele mai recent actualizate"
 
 msgctxt "[\"LATEST_UPDATE_APPS\"]"
 msgid "Latest Update Apps"
-msgstr ""
+msgstr "Aplicațiile cele mai recent actualizate"
 
 msgctxt "[\"LATEST_UPDATE\"]"
 msgid "Latest Update"
-msgstr ""
+msgstr "Cea mai recentă actualizare"
 
 msgctxt "[\"XAPK_IS_APK_WITH_OBB_DATA\"]"
 msgid "XAPK is APK with OBB data"
-msgstr ""
+msgstr "Fișierul XAPK este fișier APK cu date OBB"
 
 msgctxt "[\"MOST_POPULAR_IN_TODAY\"]"
 msgid "Most Popular In Today"
-msgstr ""
+msgstr "Cele mai populare azi"
 
 msgctxt "[\"SIMILAR_OR_RELATED\"]"
 msgid "Similar Or Related"
-msgstr ""
+msgstr "Similar sau din aceeași categorie"
 
 msgctxt "[\"INDEX-TITLE\"]"
 msgid "Download free Android Games and Android Apps."
-msgstr ""
+msgstr "Descărcați jocuri și aplicații pentru Android în mod gratuit"
 
 msgctxt "[\"INDEX-MOBILE_TITLE\"]"
 msgid "Download free Android Games and Apps."
-msgstr ""
+msgstr "Descărcați jocuri și aplicații Android gratis."
 
 msgctxt "[\"INDEX-HOW_TO_DOWNLOAD\"]"
 msgid "How to download apk files?"
-msgstr ""
+msgstr "Cum pot descărca fișierele de tip apk?"
 
 msgctxt "[\"INDEX-FAQ\"]"
 msgid "FAQ"
-msgstr ""
+msgstr "Zona noastră de întrebări"
 
 msgctxt "[\"INDEX-POPULAR_CATEGORIES\"]"
 msgid "Popular categories"
-msgstr ""
+msgstr "Categorii populare"
 
 msgctxt "[\"DOWNLOAD_APK\"]"
 msgid "Download APK"
@@ -281,15 +281,17 @@ msgstr ""
 
 msgctxt "[\"VERIFICATION_CODE\"]"
 msgid "Verification code"
-msgstr ""
+msgstr "Cod de verificare"
 
 msgctxt "[\"VERIFICATION_INCORRECT\"]"
 msgid "The verification code is incorrect!"
-msgstr ""
+msgstr "Codul de verificare este incorect!"
 
 msgctxt "[\"VERIFICATION_DOWN\"]"
 msgid "Enter the code(s) as you see in the image, then click \"Download\"."
 msgstr ""
+"Introduceți codul/codurile așa cum se vede în imagine, apoi dați click la \""
+"Descărcați\"."
 
 msgctxt "[\"TOPICS\"]"
 msgid "Topics"
@@ -297,7 +299,7 @@ msgstr ""
 
 msgctxt "[\"SIMILAR_TO\"]"
 msgid "Similar to {0}"
-msgstr ""
+msgstr "Similar cu {0}"
 
 msgctxt "[\"CANCEL\"]"
 msgid "Cancel"
@@ -305,55 +307,56 @@ msgstr ""
 
 msgctxt "[\"UPDATE\"]"
 msgid "Update"
-msgstr ""
+msgstr "Actualizați"
 
 msgctxt "[\"DEV-INCORRECT_PKG_EMAIL\"]"
 msgid "Invalid package name or email"
-msgstr ""
+msgstr "Pachet, nume sau email invalid"
 
 msgctxt "[\"DEV-SEND_EMAIL_ERR\"]"
 msgid "Failed to send mail"
-msgstr ""
+msgstr "Eșuat în trimiterea emailului"
 
 msgctxt "[\"DEV-PKG_EXISTS\"]"
 msgid "Application has been claimed"
-msgstr ""
+msgstr "Aplicația a fost revendicată"
 
 msgctxt "[\"DETAIL\"]"
 msgid "Detail"
-msgstr ""
+msgstr "Detaliu"
 
 msgctxt "[\"DETAIL-MAIGHT_LIKE\"]"
 msgid "You Might Also Like"
-msgstr ""
+msgstr "Ți-ar putea de asemenea să îți placă și"
 
 msgctxt "[\"DETAIL-PAID_GAME\"]"
 msgid "Paid Game"
-msgstr ""
+msgstr "Joc achiziționat"
 
 msgctxt "[\"DETAIL-PAID_APP\"]"
 msgid "Paid App"
-msgstr ""
+msgstr "Aplicație achiziționată"
 
 msgctxt "[\"DETAIL-PAID_GAME_DES\"]"
 msgid "Paid games are not available to download"
-msgstr ""
+msgstr "Jocurile plătite nu sunt disponibile pentru descărcare"
 
 msgctxt "[\"DETAIL-PAID_APP_DES\"]"
 msgid "Paid apps are not available to download"
-msgstr ""
+msgstr "Aplicațiile plătite nu sunt disponibile pentru descărcare"
 
 msgctxt "[\"DETAIL-WHY_SAFE\"]"
 msgid "Why we can guarantee APK 100% safe?"
-msgstr ""
+msgstr "De ce putem garanta că fișierele APK sunt 100% sigure?"
 
 msgctxt "[\"DETAIL-SAFE\"]"
 msgid "Verification passed"
-msgstr ""
+msgstr "Verificare reușită"
 
 msgctxt "[\"DETAIL-XAPK_SHORT_DES\"]"
 msgid "XAPK is APK with OBB data, Click to get XAPK Installer"
 msgstr ""
+"XAPK este APK cu date OBB, dați click pentru obținerea instalatorului XAPK"
 
 msgctxt "[\"DETAIL-MOBILE_XAPK_SHORT_DES\"]"
 msgid "Click to get XAPK Installer"
@@ -361,27 +364,27 @@ msgstr ""
 
 msgctxt "[\"DETAIL-CATEGORY\"]"
 msgid "Category"
-msgstr ""
+msgstr "Categorie"
 
 msgctxt "[\"DETAIL-LATEST_VERSION\"]"
 msgid "Latest Version"
-msgstr ""
+msgstr "Cea mai nouă versiune"
 
 msgctxt "[\"DETAIL-PUBLISH_DATE\"]"
 msgid "Publish Date"
-msgstr ""
+msgstr "Data de publicare"
 
 msgctxt "[\"DETAIL-GET_IT_ON\"]"
 msgid "Get it on"
-msgstr ""
+msgstr "Ia-o de pe"
 
 msgctxt "[\"DETAIL-REQUIREMENTS\"]"
 msgid "Requirements"
-msgstr ""
+msgstr "Necesități"
 
 msgctxt "[\"DETAIL-AUTHOR\"]"
 msgid "Author"
-msgstr ""
+msgstr "Autor"
 
 msgctxt "[\"DETAIL-REPORT\"]"
 msgid "Report"
@@ -389,27 +392,27 @@ msgstr ""
 
 msgctxt "[\"DETAIL-FLAG_AS_INAPPROPRIATE\"]"
 msgid "Flag as inappropriate"
-msgstr ""
+msgstr "Marcați ca nepotrivit"
 
 msgctxt "[\"DETAIL-VOTES\"]"
 msgid "votes"
-msgstr ""
+msgstr "Voturi"
 
 msgctxt "[\"DETAIL-THE_DESCRIPTION\"]"
 msgid "The description of {0}"
-msgstr ""
+msgstr "Descrierea din {0}"
 
 msgctxt "[\"DETAIL-OFFICIAL_TRAILER\"]"
 msgid "{0} for Android official Trailer"
-msgstr ""
+msgstr "{0} pentru trailer-ul oficial Android"
 
 msgctxt "[\"DETAIL-VERSION\"]"
 msgid "Version"
-msgstr ""
+msgstr "Versiune"
 
 msgctxt "[\"DETAIL-UPDATE_ON\"]"
 msgid "Update on"
-msgstr ""
+msgstr "Actualizați pe"
 
 msgctxt "[\"DETAIL-SIGNATURE\"]"
 msgid "Signature"
@@ -421,27 +424,27 @@ msgstr ""
 
 msgctxt "[\"DETAIL-APK_FILE_SHA1\"]"
 msgid "APK File SHA1"
-msgstr ""
+msgstr "Fișier APK SHA1"
 
 msgctxt "[\"DETAIL-XAPK_FILE_SHA1\"]"
 msgid "XAPK File SHA1"
-msgstr ""
+msgstr "Fișier XAPK SHA1"
 
 msgctxt "[\"DETAIL-WHATS_NEW\"]"
 msgid "What's new"
-msgstr ""
+msgstr "Ce e nou"
 
 msgctxt "[\"DETAIL-VERSION_HISTORY\"]"
 msgid "Version History"
-msgstr ""
+msgstr "Istoria versiunii"
 
 msgctxt "[\"DETAIL-MORE_FROM_DEVELOPER\"]"
 msgid "More From Developer"
-msgstr ""
+msgstr "Mai multe de la dezvoltator"
 
 msgctxt "[\"DETAIL-MORE_FROM\"]"
 msgid "More From {0}"
-msgstr ""
+msgstr "Mai mult de la {0}"
 
 msgctxt "[\"DETAIL-COMMENTS\"]"
 msgid "Comments"
@@ -449,63 +452,65 @@ msgstr ""
 
 msgctxt "[\"DETAIL-FOLLOW_UPDATES\"]"
 msgid "Follow Updates"
-msgstr ""
+msgstr "Urmăriți actualizările"
 
 msgctxt "[\"DETAIL-REQUEST_UPDATE\"]"
 msgid "Request Update"
-msgstr ""
+msgstr "Cereți actualizarea"
 
 msgctxt "[\"DETAIL-RATING\"]"
 msgid "{votes} votes, average: {rating_average} out of {rating_best}"
 msgstr ""
+"{voturi} voturi, în medie:\n"
+"{media_de_evaluare} din {cele_mai_bune_evaluări}"
 
 msgctxt "[\"DETAIL-RATING1\"]"
 msgid "average: {rating_average} out of {rating_best}"
-msgstr ""
+msgstr "În medie: {media_de_evaluare} din {cele_mai_bune_evaluări}"
 
 msgctxt "[\"DETAIL-MORE_DEVELOPER\"]"
 msgid "Get more from {0}"
-msgstr ""
+msgstr "Obțineți mai mult de la {0}"
 
 msgctxt "[\"DETAIL-REMOVED\"]"
 msgid "Removed"
-msgstr ""
+msgstr "Șters"
 
 msgctxt "[\"DETAIL-CATEGORY_GAME\"]"
 msgid "{0} GAME"
-msgstr ""
+msgstr "{0} JOCURI"
 
 msgctxt "[\"DETAIL-CATEGORY_APP\"]"
 msgid "{0} APP"
-msgstr ""
+msgstr "{0} APLICAȚII"
 
 msgctxt "[\"DETAIL-VERSION_LOAD_MORE\"]"
 msgid "Load more"
-msgstr ""
+msgstr "Încarcă mai mult"
 
 msgctxt "[\"DETAIL-VERSION_MORE\"]"
 msgid "More..."
-msgstr ""
+msgstr "Mai mult..."
 
 msgctxt "[\"DETAIL-TRANSLATE\"]"
 msgid "Translate"
-msgstr ""
+msgstr "Traduceți"
 
 msgctxt "[\"DETAIL-GP_DOWNLOAD\"]"
 msgid "Install on Google Play"
-msgstr ""
+msgstr "Instalați de pe Google Play"
 
 msgctxt "[\"DETAIL-ITUNE_DOWNLOAD\"]"
 msgid "Install on iTunes"
-msgstr ""
+msgstr "Instalați de pe iTunes"
 
 msgctxt "[\"DETAIL-MORE_DOWNLOAD\"]"
 msgid "More Download Locations:"
-msgstr ""
+msgstr "Mai multe locații de descărcare:"
 
 msgctxt "[\"DETAIL-DELETED_COPYRIGHT_GOOGLE_PLAY_URL\"]"
 msgid "Download on Google Play"
-msgstr ""
+msgstr "Descărcați de pe Google Play"
 
 msgctxt "[\"DETAIL-DELETED_COPYRIGHT_GOOGLE_PLAY_DES\"]"
 msgid "{app_name} All rights reserved ©2018 {developer}. {developer} and the {developer} logo are trademarks of {developer} in the U.S. and/or other countries.All other trademarks are the property of their respective owners."
@@ -513,43 +518,43 @@ msgstr ""
 
 msgctxt "[\"DETAIL_DOWNLOAD-NAV_DOWNLOAD\"]"
 msgid "Download"
-msgstr ""
+msgstr "Descărcați"
 
 msgctxt "[\"DETAIL_DOWNLOAD-DOWNLOADING\"]"
 msgid "Downloading"
-msgstr ""
+msgstr "Descărcare"
 
 msgctxt "[\"DETAIL_DOWNLOAD-DOWNLOADING_DES\"]"
 msgid "If the download doesn't start,"
-msgstr ""
+msgstr "Dacă descărcarea nu pornește,"
 
 msgctxt "[\"DETAIL_DOWNLOAD-DOWNLOADING_DES_CLICK\"]"
 msgid "click here"
-msgstr ""
+msgstr "click aici"
 
 msgctxt "[\"DETAIL_DOWNLOAD-HOW_TO_INSTALL_APK\"]"
 msgid "How to install APK / XAPK file"
-msgstr ""
+msgstr "Cum se instalează fișierul APK/XAPK"
 
 msgctxt "[\"VERSION-PREVIOUS\"]"
 msgid "Previous versions"
-msgstr ""
+msgstr "Versiuni anterioare"
 
 msgctxt "[\"VERSION-VERSIONS\"]"
 msgid "Versions"
-msgstr ""
+msgstr "Versiuni"
 
 msgctxt "[\"VERSION-REQUIRES_ANDROID\"]"
 msgid "Requires Android"
-msgstr ""
+msgstr "Necesită Android"
 
 msgctxt "[\"COMMENT-REVIEW_OTHER_LANG\"]"
 msgid "There are {0} reviews in other languages"
-msgstr ""
+msgstr "Sunt {0} recenzii în alte limbi"
 
 msgctxt "[\"COMMENT-ADD_NEW_DISCUSSION\"]"
 msgid "Add A New Discussion"
-msgstr ""
+msgstr "Adăugați o nouă discuție"
 
 msgctxt "[\"COMMENT-REPLIES\"]"
 msgid "Replies"
@@ -557,27 +562,27 @@ msgstr ""
 
 msgctxt "[\"COMMENT-DISCUSSIONS\"]"
 msgid "Discussions"
-msgstr ""
+msgstr "Discuții"
 
 msgctxt "[\"COMMENT-ALL_DISCUSSIONS\"]"
 msgid "See all discussions"
-msgstr ""
+msgstr "Vedeți toate discuțiile"
 
 msgctxt "[\"COMMENT-SEE_ALL_DISCUSSIONS\"]"
 msgid "See all {0} discussions"
-msgstr ""
+msgstr "Vedeți toate cele {0} discuții"
 
 msgctxt "[\"COMMENT-JOIN_IN_GROUP\"]"
 msgid "Join {0} group"
-msgstr ""
+msgstr "Alăturați-vă celor {0} grupuri"
 
 msgctxt "[\"COMMENT-JOIN_GROUP\"]"
 msgid "Join Group"
-msgstr ""
+msgstr "Alăturați-vă grupului"
 
 msgctxt "[\"COMMENT-GROUP\"]"
 msgid "Group"
-msgstr ""
+msgstr "Grup"
 
 msgctxt "[\"COMMENT-TITLE_POST\"]"
 msgid "Post"
@@ -585,19 +590,20 @@ msgstr ""
 
 msgctxt "[\"COMMENT-ADD\"]"
 msgid "Add Comment"
-msgstr ""
+msgstr "Adăugați comeBunantariu"
 
+#, fuzzy
 msgctxt "[\"COMMENT-ALL-REPLY\"]"
 msgid "All {0} replies"
-msgstr ""
+msgstr "All {0} replies"
 
 msgctxt "[\"COMMENT-VIEWS\"]"
 msgid "Views"
-msgstr ""
+msgstr "Vizualizări"
 
 msgctxt "[\"COMMENT-REPORT\"]"
 msgid "Report"
-msgstr ""
+msgstr "Raportați"
 
 msgctxt "[\"COMMENT-COLLAPSED\"]"
 msgid "comment collapsed"
@@ -605,11 +611,11 @@ msgstr ""
 
 msgctxt "[\"COMMENT-POST\"]"
 msgid "Post"
-msgstr ""
+msgstr "Postați"
 
 msgctxt "[\"COMMENT-REVIEW_OR_POST\"]"
 msgid "Post review or comment"
-msgstr ""
+msgstr "Postați o recenzie sau un comentariu"
 
 msgctxt "[\"COMMENT-COMMENTS\"]"
 msgid "Comments"
@@ -617,15 +623,15 @@ msgstr ""
 
 msgctxt "[\"COMMENT-REPLY\"]"
 msgid "Reply"
-msgstr ""
+msgstr "Răspundeți"
 
 msgctxt "[\"COMMENT-NAME\"]"
 msgid "Name"
-msgstr ""
+msgstr "Nume"
 
 msgctxt "[\"COMMENT-EMAIL\"]"
 msgid "Email"
-msgstr ""
+msgstr "Email"
 
 msgctxt "[\"COMMENT-SORT_BY_NEWEST\"]"
 msgid "Newest"
@@ -637,7 +643,7 @@ msgstr ""
 
 msgctxt "[\"COMMENT-SORT_BY_OLDEST\"]"
 msgid "Oldest"
-msgstr ""
+msgstr "Cele mai vechi"
 
 msgctxt "[\"COMMENT-SORT_BY_BEST\"]"
 msgid "Best"
@@ -645,55 +651,55 @@ msgstr ""
 
 msgctxt "[\"COMMENT-SORT_BY_BEST_LONG\"]"
 msgid "Sort by best"
-msgstr ""
+msgstr "Sortează după cele mai bune"
 
 msgctxt "[\"COMMENT-SORT_BY_MOST_RECENT\"]"
 msgid "Most Recent"
-msgstr ""
+msgstr "Cele mai recente"
 
 msgctxt "[\"COMMENT-SORT_BY_MOST_SCORE\"]"
 msgid "Top rated"
-msgstr ""
+msgstr "Top evaluate"
 
 msgctxt "[\"COMMENT-SORT_BY_DEFAULT\"]"
 msgid "Sort by default"
-msgstr ""
+msgstr "Sortează după implicit"
 
 msgctxt "[\"COMMENT-RATING_REQUIRED\"]"
 msgid "Rating required"
-msgstr ""
+msgstr "Recenzie necesară"
 
 msgctxt "[\"COMMENT-GUEST\"]"
 msgid "Guest"
-msgstr ""
+msgstr "Invitat"
 
 msgctxt "[\"COMMENT-START_THE_DISCUSSION\"]"
 msgid "Start the discussion…"
-msgstr ""
+msgstr "Începeți discuția…"
 
 msgctxt "[\"COMMENT-LOG_IN_WITH\"]"
 msgid "Log in with"
-msgstr ""
+msgstr "Logați-vă cu"
 
 msgctxt "[\"COMMENT-COMMENTS_CANT_BE_BLANK\"]"
 msgid "Comments can't be blank."
-msgstr ""
+msgstr "Comentariile nu pot fi goale."
 
 msgctxt "[\"COMMENT-POST_AS_GUEST\"]"
 msgid "Post As a Guest"
-msgstr ""
+msgstr "Postați ca invitat"
 
 msgctxt "[\"COMMENT-LOGOUT\"]"
 msgid "Logout"
-msgstr ""
+msgstr "Delogare"
 
 msgctxt "[\"COMMENT-WEBSITE\"]"
 msgid "Website"
-msgstr ""
+msgstr "Site Web"
 
 msgctxt "[\"COMMENT-TO_BE_FIRST\"]"
 msgid "Ooops! No such content!"
-msgstr ""
+msgstr "Ups! Niciun astfel de comentariu!"
 
 msgctxt "[\"COMMENT-VOTE\"]"
 msgid "Vote"
@@ -701,19 +707,19 @@ msgstr ""
 
 msgctxt "[\"COMMENT-ERR_QUICK_LOGIN\"]"
 msgid "Quick login error, please try again."
-msgstr ""
+msgstr "Logare rapidă eșuată, vă rugăm încercați din nou."
 
 msgctxt "[\"COMMENT-ERR_EMAIL_NAME\"]"
 msgid "Incorrect mail or name"
-msgstr ""
+msgstr "Email sau nume incorect"
 
 msgctxt "[\"COMMENT-ERR_DISCUSSION\"]"
 msgid "Incorrect in discussion"
-msgstr ""
+msgstr "Incorectitudine în discuție"
 
 msgctxt "[\"COMMENT-ERR_RATE\"]"
 msgid "Vote failed, repeated"
-msgstr ""
+msgstr "Vot eșuat, repetat"
 
 msgctxt "[\"COMMENT-ERR_SENSITIVE_WORD\"]"
 msgid "Defeat,your post contains sensitive terms"
@@ -722,38 +728,43 @@ msgstr ""
 msgctxt "[\"COMMENT-ERR_SENSITIVE_WORD_AUDIT\"]"
 msgid "Your post contains sensitive terms and is pending approval by an admin"
 msgstr ""
+"Postarea dvs conține termeni senzitivi și se așteaptă aprobarea unui "
+"administrator"
 
 msgctxt "[\"COMMENT-ERR_LINK_AUDIT\"]"
 msgid "Your post contains link and is pending approval by an admin"
-msgstr ""
+msgstr "Postarea dvs conține link și se așteaptă aprobarea unui administrator"
 
 msgctxt "[\"COMMENT-ERR_FORBIDDEN\"]"
 msgid "Comment forbidden"
-msgstr ""
+msgstr "Comentariu interzis"
 
 msgctxt "[\"COMMENT-ERR_FAILURE\"]"
 msgid "Comment unknown"
-msgstr ""
+msgstr "Comentariu necunoscut"
 
 msgctxt "[\"COMMENT-ERR_EMOJI\"]"
 msgid "Emoji comments are not allowed any more! Write something..."
-msgstr ""
+msgstr "Comentariile cu emoticoane nu mai sunt permise! Scrieți ceva..."
 
 msgctxt "[\"COMMENT-ERR_NONE_MESSAGE\"]"
 msgid "You must write something!"
-msgstr ""
+msgstr "Trebuie să scrieți ceva!"
 
 msgctxt "[\"COMMENT-ERR_INVALID_PARAMETER\"]"
 msgid "Invalid comment parameter"
-msgstr ""
+msgstr "Parametrul de comentariu este nevalid"
 
 msgctxt "[\"COMMENT-ERR_INVALID_USER\"]"
 msgid "You're banned from APKPure by using or posting content containing nudity images. Please edit or remove the images before contacting Admin to restore your account."
 msgstr ""
+"Nu mai aveți acces la APKPure din cauza folosirii sau postării de conținut "
+"cu imagini nuditive. Vă rugăm editați sau ștergeți imaginile înainte de "
+"contactarea unui administrator pentru restabilirea contului dvs."
 
 msgctxt "[\"COMMENT-ERR_INVALID_VIDEO_URL\"]"
 msgid "Invalid Video URL"
-msgstr ""
+msgstr "URL video invalid"
 
 msgctxt "[\"COMMENT-DELETE\"]"
 msgid "Yes,delete it!"
@@ -765,7 +776,7 @@ msgstr ""
 
 msgctxt "[\"COMMENT-DEL\"]"
 msgid "Delete"
-msgstr ""
+msgstr "Ștergeți"
 
 msgctxt "[\"COMMENT-ARE_YOU_SURE\"]"
 msgid "Are you sure?"
@@ -773,75 +784,75 @@ msgstr ""
 
 msgctxt "[\"COMMENT-LOADING\"]"
 msgid "Comment Loading..."
-msgstr ""
+msgstr "Comentariul se încarcă..."
 
 msgctxt "[\"COMMENT-DOWNLOAD_APK\"]"
 msgid "Download the APK file on APKPure."
-msgstr ""
+msgstr "Descărcați fișierul APK de pe APKPure."
 
 msgctxt "[\"COMMENT-ERR_SHARE_APK_DENY\"]"
 msgid "This APP cannot be uploaded"
-msgstr ""
+msgstr "Această APLICAȚIE nu poate fi încărcată"
 
 msgctxt "[\"PRE-REGISTER\"]"
 msgid "Pre-Registration Games"
-msgstr ""
+msgstr "Jocuri cu preînregistrare"
 
 msgctxt "[\"PRE-REGISTRANTS\"]"
 msgid "Pre-Registrants"
-msgstr ""
+msgstr "Preînregistrări"
 
 msgctxt "[\"PRE-REGISTER_DETAILS\"]"
 msgid "Pre-Register Details"
-msgstr ""
+msgstr "Detalii cu preînregistrare"
 
 msgctxt "[\"PRE-REGISTER_DATE\"]"
 msgid "Release Date"
-msgstr ""
+msgstr "Data de lansare"
 
 msgctxt "[\"PRE-REGISTER_REWARDS\"]"
 msgid "Register Rewards"
-msgstr ""
+msgstr "Premii de înregistrare"
 
 msgctxt "[\"PRE-REGISTER_PAGE\"]"
 msgid "Pre-Register Page"
-msgstr ""
+msgstr "Pagină cu preînregistrare"
 
 msgctxt "[\"USER-FOLLOWING\"]"
 msgid "Following"
-msgstr ""
+msgstr "Urmărire"
 
 msgctxt "[\"USER-FOLLOWER\"]"
 msgid "Followers"
-msgstr ""
+msgstr "Urmăritori"
 
 msgctxt "[\"USER-LIKES\"]"
 msgid "Likes"
-msgstr ""
+msgstr "Aprecieri"
 
 msgctxt "[\"USER-POSTS\"]"
 msgid "Posts"
-msgstr ""
+msgstr "Postări"
 
 msgctxt "[\"USER-REVIEWS\"]"
 msgid "Reviews"
-msgstr ""
+msgstr "Recenzii"
 
 msgctxt "[\"USER-REVIEWS_NONE\"]"
 msgid "Too few users ratings"
-msgstr ""
+msgstr "Prea puține evaluări de-ale utilizatorilor"
 
 msgctxt "[\"USER-FAVORITES\"]"
 msgid "Favorites"
-msgstr ""
+msgstr "Favorite"
 
 msgctxt "[\"USER-REPLIES\"]"
 msgid "Replies"
-msgstr ""
+msgstr "Răspunsuri"
 
 msgctxt "[\"USER-PROFILE\"]"
 msgid "Profile"
-msgstr ""
+msgstr "Profil"
 
 msgctxt "[\"USER-CHANGE_PASSWORD\"]"
 msgid "Change Password"
@@ -849,43 +860,43 @@ msgstr ""
 
 msgctxt "[\"USER-MESSAGES\"]"
 msgid "Messages"
-msgstr ""
+msgstr "Mesaje"
 
 msgctxt "[\"USER-COMMENTS\"]"
 msgid "Comments"
-msgstr ""
+msgstr "Comentarii"
 
 msgctxt "[\"USER-MY_FAVORITE\"]"
 msgid "My Favorite"
-msgstr ""
+msgstr "Favoritul meu"
 
 msgctxt "[\"USER-LIKED_COMMENTS\"]"
 msgid "Liked Comments"
-msgstr ""
+msgstr "Comentarii apreciate"
 
 msgctxt "[\"USER-NEW_PASSWORD\"]"
 msgid "New password"
-msgstr ""
+msgstr "Parolă nouă"
 
 msgctxt "[\"USER-CURRENT_PASSWORD\"]"
 msgid "Current password"
-msgstr ""
+msgstr "Parolă actuală"
 
 msgctxt "[\"USER-ACCOUNT_EXIST\"]"
 msgid "The username is already in use."
-msgstr ""
+msgstr "Numele de utilizator este deja folosit."
 
 msgctxt "[\"USER-ACCOUNT_NOT_EXIST\"]"
 msgid "The account you entered does not exist."
-msgstr ""
+msgstr "Contul introdus nu există."
 
 msgctxt "[\"USER-DISPLAY_NAME_EXIST\"]"
 msgid "The nickname is already in use."
-msgstr ""
+msgstr "Porecla este deja folosită."
 
 msgctxt "[\"USER-INCORRECT_EMAIL\"]"
 msgid "The e-mail address you entered is invalid."
-msgstr ""
+msgstr "Adresă de e-mail introdusă este nevalidă."
 
 msgctxt "[\"USER-INCORRECT_PASSWORD\"]"
 msgid "The password you entered is invalid."
@@ -897,143 +908,152 @@ msgstr ""
 
 msgctxt "[\"USER-INCORRECT_BIRTHDAY\"]"
 msgid "You have entered an invalid birthday."
-msgstr ""
+msgstr "Ați introdus o dată de naștere nevalidă."
 
 msgctxt "[\"USER-INCORRECT_INTRO\"]"
 msgid "Information you have entered contains invalid characters."
-msgstr ""
+msgstr "Informația pe care ați introdus-o conține caractere invalide."
 
 msgctxt "[\"USER-UNKNOWN_ERROR\"]"
 msgid "unknown mistake."
-msgstr ""
+msgstr "greșeală necunoscută."
 
 msgctxt "[\"USER-BAD_NAME\"]"
 msgid "Your input includes sensitive vocabulary."
-msgstr ""
+msgstr "Introducerile dvs conțin vocabular senzitiv."
 
 msgctxt "[\"USER-SOCIAL_ALREADY_BIND\"]"
 msgid "This third-party account has been connected to another account."
-msgstr ""
+msgstr "Acest cont de a treia generație a fost conectat la alt cont."
 
 msgctxt "[\"USER-EMAIL_EXIST\"]"
 msgid "This email has been connected to another account."
-msgstr ""
+msgstr "Acest email a fost asociat cu alt cont."
 
 msgctxt "[\"USER-SEND_EMAIL_ERR\"]"
 msgid "Failed to send verification code."
-msgstr ""
+msgstr "Eșuare în trimiterea codului de verificare."
 
 msgctxt "[\"USER-EMAIL_UNBOUND\"]"
 msgid "This email address is not connected to any account."
-msgstr ""
+msgstr "Această adresă de email nu este asociată cu niciun cont."
 
 msgctxt "[\"USER-CAPTCHA_TIME_OUT\"]"
 msgid "Verification Code Timeout."
-msgstr ""
+msgstr "Timpul s-a scurs pentru codul de verificare."
 
 msgctxt "[\"USER-INCORRECT_CAPTCHA\"]"
 msgid "Incorrect Verification Code"
-msgstr ""
+msgstr "Cod de verificare incorect"
 
 msgctxt "[\"USER-FEMALE\"]"
 msgid "Female"
-msgstr ""
+msgstr "Feminin"
 
 msgctxt "[\"USER-MALE\"]"
 msgid "Male"
-msgstr ""
+msgstr "Masculin"
 
 msgctxt "[\"USER-USER_LOGIN\"]"
 msgid "User Login"
-msgstr ""
+msgstr "Autentificare utilizator"
 
 msgctxt "[\"USER-USERNAME\"]"
 msgid "Username"
-msgstr ""
+msgstr "Nume de utilizator"
 
 msgctxt "[\"USER-NICKNAME\"]"
 msgid "Nickname"
-msgstr ""
+msgstr "Poreclă"
 
 msgctxt "[\"USER-BIRTHDAY\"]"
 msgid "Birthday"
-msgstr ""
+msgstr "Dată de naștere"
 
 msgctxt "[\"USER-GENDER\"]"
 msgid "Gender"
-msgstr ""
+msgstr "Sex"
 
 msgctxt "[\"USER-SAVE\"]"
 msgid "Save"
-msgstr ""
+msgstr "Salvați"
 
 msgctxt "[\"USER-SAVING\"]"
 msgid "Saving..."
-msgstr ""
+msgstr "Salvare..."
 
 msgctxt "[\"USER-MY_PICTURE\"]"
 msgid "My Picture"
-msgstr ""
+msgstr "Poza mea"
 
 msgctxt "[\"USER-CHANGE_PICTURE\"]"
 msgid "Change Picture"
-msgstr ""
+msgstr "Modificați poza"
 
 msgctxt "[\"USER-PASSWORD\"]"
 msgid "Password"
-msgstr ""
+msgstr "Parolă"
 
 msgctxt "[\"USER-NEW_USER_REGISTRATION\"]"
 msgid "New User Registration"
-msgstr ""
+msgstr "Înregistrare nouă de utilizator"
 
 msgctxt "[\"USER-SIGN_IN_BTN\"]"
 msgid "SIGN IN"
-msgstr ""
+msgstr "CONECTARE"
 
 msgctxt "[\"USER-SIGN_IN\"]"
 msgid "Sign In"
-msgstr ""
+msgstr "Conectare"
 
 msgctxt "[\"USER-SIGN_IN_WITH\"]"
 msgid "Or sign in with"
-msgstr ""
+msgstr "Sau conectați-vă cu"
 
 msgctxt "[\"USER-SIGN_UP_BTN\"]"
 msgid "SIGN UP"
-msgstr ""
+msgstr "ÎNSCRIEȚI-VĂ"
 
 msgctxt "[\"USER-SIGN_UP\"]"
 msgid "Sign Up"
-msgstr ""
+msgstr "Înscrieți-vă"
 
 msgctxt "[\"USER-CONFIRM_PASSWORD\"]"
 msgid "Confirm Password"
-msgstr ""
+msgstr "Confirmare parolă"
 
 msgctxt "[\"USER-TERMS_SERVICE\"]"
 msgid "By signing up you agree to our <a href='/terms-service.html' target='_blank'>terms of service</a>"
 msgstr ""
+"Prin înscriere acceptați termenii din <a href='/terms-service.html' "
+"target='_blank'> termenii serviciului </a>"
 
 msgctxt "[\"REGION_DOWN-TITLE\"]"
 msgid "Region free APK download"
-msgstr ""
+msgstr "Descărcați APK fără regiune"
 
 msgctxt "[\"REGION_DOWN-DES\"]"
 msgid "- Download your favorite Android Apps with APK Downloader (Free Apps Only).<br>- Your download will begin automatically after you paste a package id and click the download button.<br>- Download failed? Please manually change country setting and try again.<br>- Want to tell us more about your problems? <a style='color:#FFFF00' href='contact-us.html'>Contact us here</a>"
 msgstr ""
+"Descărcați aplicațiile dvs favorite pentru Android cu Downloader-ul APK ("
+"Doar aplicații gratuite).<br>- Descărcarea dvs va începe automat după "
+"lipirea unui id de pachet și după apăsarea butonului de descărcare.<br>- "
+"Descărcare eșuată? Vă rugăm schimbați manual setările țării și încercați din "
+"nou.<br>- Doriți să ne împărtășiți probleme întâmpinate? <a style='color:#"
+"FFFF00' href='contact-us.html'>Contactați-ne aici</a>"
 
 msgctxt "[\"REGION_DOWN-PLACEHOLDER\"]"
 msgid "com.facebook.katana or https://play.google.com...?id=com.facebook.katana"
 msgstr ""
+"com.facebook.katana sau https://play.google.com...? id=com.facebook.katana"
 
 msgctxt "[\"REGION_DOWN-SEARCH\"]"
 msgid "Search"
-msgstr ""
+msgstr "Căutați"
 
 msgctxt "[\"REGION_DOWN-COUNTRY_NAME\"]"
 msgid "Country name or Region code"
-msgstr ""
+msgstr "Numele țării sau codul regiunii"
 
 msgctxt "[\"REGION_DOWN-MOBILE_TITLE\"]"
 msgid "APK Downloader"
@@ -1041,15 +1061,15 @@ msgstr ""
 
 msgctxt "[\"REGION_DOWN-MOBILE_DES\"]"
 msgid "All Region Games and Apps Download."
-msgstr ""
+msgstr "Toate jocurile și aplicațiile de regiune disponibile pentru descărcare."
 
 msgctxt "[\"LAST_DOWNLOAD\"]"
 msgid "Last Download"
-msgstr ""
+msgstr "Ultima descărcare"
 
 msgctxt "[\"SIGN_VERIFY-TITLE\"]"
 msgid "Signature Verification Online"
-msgstr ""
+msgstr "Verificarea semnăturii online"
 
 msgctxt "[\"SIGN_VERIFY-CLICK_UPLOAD\"]"
 msgid "Click Upload APK file"
@@ -1057,7 +1077,7 @@ msgstr ""
 
 msgctxt "[\"SIGN_VERIFY-MAXIMUM\"]"
 msgid "Maximum file size"
-msgstr ""
+msgstr "Mărimea maximă a fișierului"
 
 msgctxt "[\"SIGN_VERIFY-DES\"]"
 msgid "APK Signature verification will verify Android app package signature to keep Android users away from potentially harmful APK files before APK installing."
@@ -1065,63 +1085,63 @@ msgstr ""
 
 msgctxt "[\"SIGN_VERIFY-PACKAGE_NAME\"]"
 msgid "Package Name"
-msgstr ""
+msgstr "Numele pachetului"
 
 msgctxt "[\"SIGN_VERIFY-SIGNATURE\"]"
 msgid "Signature"
-msgstr ""
+msgstr "Semnătură"
 
 msgctxt "[\"SIGN_VERIFY-FILE_SHA1\"]"
 msgid "File SHA1"
-msgstr ""
+msgstr "Fișier de tip SHA1"
 
 msgctxt "[\"SIGN_VERIFY-FILE_SIZE\"]"
 msgid "File Size"
-msgstr ""
+msgstr "Mărime fișier"
 
 msgctxt "[\"SEARCH-ON_THE_APP_STORE\"]"
 msgid "{0} On the App Store"
-msgstr ""
+msgstr "{0} Pe App Store"
 
 msgctxt "[\"SEARCH-ADVANCED_SEARCH\"]"
 msgid "Advanced Search"
-msgstr ""
+msgstr "Căutare avansată"
 
 msgctxt "[\"SEARCH-SEARCH_RESULTS\"]"
 msgid "{0} search results found."
-msgstr ""
+msgstr "{0} rezultate căutare găsite."
 
 msgctxt "[\"SEARCH-NO_RESULTS_FOUND\"]"
 msgid "No results found? Try to advanced search again."
-msgstr ""
+msgstr "Rezultate negăsite? Încercați la căutare avansată din nou."
 
 msgctxt "[\"SEARCH-SELECT_REGION\"]"
 msgid "Select a region you want to search with"
-msgstr ""
+msgstr "Selectați o regiune cu care doriți să căutați"
 
 msgctxt "[\"SEARCH-ABOUT_RESULTS\"]"
 msgid "About {0} results"
-msgstr ""
+msgstr "Aproximativ {0} rezultate"
 
 msgctxt "[\"SEARCH-PLACEHOLDER1\"]"
 msgid "APKPure or com.apkpure.aegon"
-msgstr ""
+msgstr "APKPure sau com.apkpure.aegon"
 
 msgctxt "[\"SEARCH-PLACEHOLDER2\"]"
 msgid "Search..."
-msgstr ""
+msgstr "Căutați..."
 
 msgctxt "[\"SEARCH-PLACEHOLDER3\"]"
 msgid "Name Or Package Name"
-msgstr ""
+msgstr "Nume sau numele pachetului"
 
 msgctxt "[\"SEARCH-TITLE\"]"
 msgid "Enter App Name, Package Name, Package ID"
-msgstr ""
+msgstr "Introduceți numele aplicației, numele pachetului, ID-ul de pachet"
 
 msgctxt "[\"SEARCH-APK\"]"
 msgid "Search APK"
-msgstr ""
+msgstr "Căutați APK"
 
 msgctxt "[\"SEARCH-TRENDING\"]"
 msgid "trending searches"
@@ -1129,7 +1149,7 @@ msgstr ""
 
 msgctxt "[\"SEARCH-HISTORY\"]"
 msgid "Search history"
-msgstr ""
+msgstr "Istoric căutări"
 
 msgctxt "[\"404-OOPS\"]"
 msgid "OOPS!,"
@@ -1137,23 +1157,25 @@ msgstr ""
 
 msgctxt "[\"404-Error_404\"]"
 msgid "Error 404!"
-msgstr ""
+msgstr "Eroare 404!"
 
 msgctxt "[\"PRE-REG-NEW\"]"
 msgid "Newest"
-msgstr ""
+msgstr "Cel mai nou"
 
 msgctxt "[\"PRE-REG-BEST\"]"
 msgid "Best"
-msgstr ""
+msgstr "Cele mai bune"
 
 msgctxt "[\"PRE-REG-RECOMMEND\"]"
 msgid "Recommendations"
-msgstr ""
+msgstr "Recomandări"
 
 msgctxt "[\"404-DES\"]"
 msgid "It seems that page you are looking for no longer exists.<br />You can explore more Android Games and Apps below!"
 msgstr ""
+"Se pare că pagina după care vă uitați nu mai există.<br />Puteți explora mai "
+"multe Jocuri Android și Aplicații mai jos!"
 
 msgctxt "[\"COPYRIGHT\"]"
 msgid "Copyright © 2014-2018 APKPure All rights reserved."
@@ -1165,39 +1187,39 @@ msgstr ""
 
 msgctxt "[\"COMING_SOON\"]"
 msgid "COMING SOON"
-msgstr ""
+msgstr "ÎN CURÂND"
 
 msgctxt "[\"SEARCHING\"]"
 msgid "Searching..."
-msgstr ""
+msgstr "Căutare..."
 
 msgctxt "[\"FOOTER-APK_DOWNLOADER_SEO\"]"
 msgid "APK Downloader"
-msgstr ""
+msgstr "Descărcător APK"
 
 msgctxt "[\"FOOTER-APK_DOWNLOADS_SEO\"]"
 msgid "APK Downloads"
-msgstr ""
+msgstr "Descărcări APK"
 
 msgctxt "[\"FOOTER-APK_DOWNLOAD\"]"
 msgid "APK Downloader (Region free)"
-msgstr ""
+msgstr "Descărcător APK (fără Regiune)"
 
 msgctxt "[\"FOOTER-APK_INSTALL\"]"
 msgid "APK Install"
-msgstr ""
+msgstr "Instalare APK"
 
 msgctxt "[\"FOOTER-APK_SIGNATURE_VERIFICATION\"]"
 msgid "APK Signature Verification"
-msgstr ""
+msgstr "Verificare semnătură APK"
 
 msgctxt "[\"FOOTER-APK_TO_APPX\"]"
 msgid "APK to APPX"
-msgstr ""
+msgstr "APK la APPX"
 
 msgctxt "[\"FOOTER-PRIVACY_POLICY\"]"
 msgid "Privacy Policy"
-msgstr ""
+msgstr "Politica de Confidențialitate"
 
 msgctxt "[\"FOOTER-DMCA\"]"
 msgid "DMCA Disclaimer"
@@ -1205,127 +1227,132 @@ msgstr ""
 
 msgctxt "[\"FOOTER-DMCA_TITLE\"]"
 msgid "DMCA Disclaimer"
-msgstr ""
+msgstr "Act de renunțare DMCA"
 
 msgctxt "[\"FOOTER-TERM_OF_USE\"]"
 msgid "Term of Use"
-msgstr ""
+msgstr "Termen de Utilizare"
 
 msgctxt "[\"FOOTER-MARKET_FOR_ANDROID\"]"
 msgid "APKPure For Android"
-msgstr ""
+msgstr "APKPure pentru Android"
 
 msgctxt "[\"FOOTER-EXPLORE_XAPK_GAMES\"]"
 msgid "Explore XAPK Games"
-msgstr ""
+msgstr "Explorați Jocurile XAPK"
 
 msgctxt "[\"FOOTER-EXPLORE_XAPK_APPS\"]"
 msgid "Explore XAPK Apps"
-msgstr ""
+msgstr "Explorați Aplicațiile XAPK"
 
 msgctxt "[\"FOOTER-DESKTOP_VERSION\"]"
 msgid "Desktop Version"
-msgstr ""
+msgstr "Versiune Desktop"
 
 msgctxt "[\"FOOTER-MOBILE_VERSION\"]"
 msgid "Mobile Version"
-msgstr ""
+msgstr "Versiune Mobilă"
 
 msgctxt "[\"FOOTER-MOBILE_SITE\"]"
 msgid "Mobile Site"
-msgstr ""
+msgstr "Site Mobil"
 
 msgctxt "[\"FOOTER-CONTACT_US\"]"
 msgid "Contact Us"
-msgstr ""
+msgstr "Contactați-ne"
 
 msgctxt "[\"FOOTER-ABOUT\"]"
 msgid "About Us"
-msgstr ""
+msgstr "Despre Noi"
 
 msgctxt "[\"FOOTER-SOLUTIONS\"]"
 msgid "SOLUTIONS"
-msgstr ""
+msgstr "SOLUȚII"
 
 msgctxt "[\"FOOTER-CUSTOMER_SERVICE\"]"
 msgid "CUSTOMER SERVICE"
-msgstr ""
+msgstr "SERVICIU CLIENȚI"
 
 msgctxt "[\"FOOTER-FOLLOW_US\"]"
 msgid "FOLLOW US"
-msgstr ""
+msgstr "URMĂRIȚI-NE"
 
 msgctxt "[\"FOOTER-TOP_ANDROID_APPS\"]"
 msgid "TOP ANDROID APPS"
-msgstr ""
+msgstr "TOP APLICAȚII ANDROID"
 
 msgctxt "[\"FOOTER-TOP_ANDROID_GAMES\"]"
 msgid "TOP ANDROID GAMES"
-msgstr ""
+msgstr "TOP JOCURI ANDROID"
 
 msgctxt "[\"FOOTER-TRANSLATE\"]"
 msgid "Help translate APKPure"
-msgstr ""
+msgstr "Ajutați la traducerea APKPure"
 
 msgctxt "[\"FOOTER-DEVELOPER\"]"
 msgid "Submit Your App"
-msgstr ""
+msgstr "Trimiteți-vă Aplicația"
 
 msgctxt "[\"FOOTER-DEVELOPER_CONSOLE\"]"
 msgid "Developer Console"
-msgstr ""
+msgstr "Consola pentru Dezvoltatori"
 
 msgctxt "[\"FOOTER-COOPERATION\"]"
 msgid "Business Cooperation"
-msgstr ""
+msgstr "Cooperare în Afaceri"
 
 msgctxt "[\"FOOTER-XAPK\"]"
 msgid "XAPK"
-msgstr ""
+msgstr "XAPK"
 
 msgctxt "[\"FOOTER-REPORT_ABUSE\"]"
 msgid "Report abuse"
-msgstr ""
+msgstr "Raportați Abuz"
 
 msgctxt "[\"MARKET-POP_TITLE\"]"
 msgid "APKPure AppStore App"
-msgstr ""
+msgstr "Aplicația APKPure de pe AppStore"
 
 msgctxt "[\"MARKET-POP_CHANGE_TITLE\"]"
 msgid "Change Profile Settings"
-msgstr ""
+msgstr "Modificați Setările de Profil"
 
 msgctxt "[\"MARKET-POP_ADD_IMAGE\"]"
 msgid "Add Images To Post"
-msgstr ""
+msgstr "Adăugați Imagini la Postare"
 
 msgctxt "[\"MARKET-POP_ADD_NEW_POST\"]"
 msgid "Add New Post or Comment"
-msgstr ""
+msgstr "Adăugați Postare Nouă sau Comentariu"
 
 msgctxt "[\"MARKET-QR\"]"
 msgid "Download<br>APKPure App"
-msgstr ""
+msgstr "Descărcați<br>Aplicația APKPure"
 
 msgctxt "[\"MARKET-QR-TITLE\"]"
 msgid "Download APKPure App"
-msgstr ""
+msgstr "Descărcați Aplicația APKPure"
 
 msgctxt "[\"MARKET-INDEX_SHORT_DES\"]"
 msgid "Try <strong title=\"Download APKPure APK\">APKPure App</strong> - Download, update and install apks on your Android."
 msgstr ""
+"Încercați <strong title=\"Download APKPure APK\">Aplicația APKPure</strong> -"
+" Descărcați, actualizați și instalați fișiere apk pe Android-ul dvs."
 
 msgctxt "[\"MARKET-INDEX_SHORT_DES_TITLE\"]"
 msgid "Try APKPure Mobile app, to install, manage and update your Android apps."
 msgstr ""
+"Încercați aplicația mobilă APKPure, pentru instalarea, administrarea și "
+"actualizarea aplicațiilor dvs Android."
 
 msgctxt "[\"MARKET-DETAIL_APK_SHORT_DES\"]"
 msgid "Faster apks download and update on APKPure App"
 msgstr ""
+"Descărcați fișiere apk mai rapid și actualizați în Aplicația mobilă APKPure."
 
 msgctxt "[\"MARKET-DETAIL_APK_SHORT_DES_MOBILE\"]"
 msgid "Download and update on APKPure App"
-msgstr ""
+msgstr "Descărcați și actualizați în Aplicația APKPure"
 
 msgctxt "[\"MARKET-DETAIL_APK_SHORT_DES_TITLE\"]"
 msgid "Faster apks download and update on APKPure"
@@ -1337,23 +1364,23 @@ msgstr ""
 
 msgctxt "[\"MARKET-DETAIL_XAPK_SHORT_DES_MOBILE\"]"
 msgid "Click to get XAPK Installer"
-msgstr ""
+msgstr "Click aici pentru obținerea instalatorului XAPK"
 
 msgctxt "[\"MARKET-DETAIL_XAPK_SHORT_DES_TITLE\"]"
 msgid "Install and update XAPK with APKPure App"
-msgstr ""
+msgstr "Instalați și actualizați fișiere XAPK cu Aplicația APKPure"
 
 msgctxt "[\"MARKET-INDEX_BANNER_TITLE\"]"
 msgid "APKPure APP"
-msgstr ""
+msgstr "APLICAȚIA APKPure"
 
 msgctxt "[\"MARKET-INDEX_BANNER_DES\"]"
 msgid "Install,manage and update your apps"
-msgstr ""
+msgstr "Instalați, administrați și actualizați-vă aplicațiile."
 
 msgctxt "[\"MARKET-BOTTOM_BANNER_TITLE\"]"
 msgid "APKPure App"
-msgstr ""
+msgstr "Aplicația APKPure"
 
 msgctxt "[\"MARKET-BOTTOM_BANNER_DES\"]"
 msgid "Try APKPure App - Download, update and install apks on your Android."
@@ -1377,11 +1404,13 @@ msgstr ""
 
 msgctxt "[\"MARKET-BOTTOM_BANNER_DOWNLOAD_BTN\"]"
 msgid "Download APP"
-msgstr ""
+msgstr "Descărcați APLICAȚIA"
 
 msgctxt "[\"MARKET-PROMOTION_BANNER_MOBILE1\"]"
 msgid "<p class=\"desc\">Using APKPure App to download/update this apk, faster, free and saving data!</p>"
 msgstr ""
+"<p class=\"desc\">Folosiți Aplicația APKPure pentru a descărca/actualiza "
+"acest apk, mai rapid, în mod gratuit și cu un consum redus de date!</p>"
 
 msgctxt "[\"MARKET-PROMOTION_BANNER_MOBILE1_XAPK\"]"
 msgid "<p class=\"desc\">Using APKPure App to install this XAPK, faster, free and saving data!</p>"
@@ -1390,6 +1419,8 @@ msgstr ""
 msgctxt "[\"MARKET-PROMOTION_BANNER_MOBILE2\"]"
 msgid "<p class=\"tit\">Using APKPure App</p><p class=\"des\">Faster, free and saving data!</p>"
 msgstr ""
+"<p class=\"tit\">Folosiți Aplicația APKPure<p class=\"des\">Mai rapid, "
+"gratis și cu un consum redus de date!</p>"
 
 msgctxt "[\"MARKET-PROMOTION_BANNER_MOBILE2_XAPK\"]"
 msgid "<p class=\"tit\">Using APKPure App</p><p class=\"des\">Install XAPK, Faster, free and saving data!</p>"
@@ -1398,78 +1429,88 @@ msgstr ""
 msgctxt "[\"MARKET-PROMOTION_BANNER_DOWN\"]"
 msgid "<p class=\"tit\">Using APKPure App</p><p class=\"des\">Download / Update this {0}, faster, free and saving data!</p>"
 msgstr ""
+"<p class=\"tit\">Folosind Aplicația APKPure<p class=\"des\">Descărcați/"
+"Actualizați aceasta {0}, mai rapid, gratis și cu un consum redus de date!</p>"
 
 msgctxt "[\"FLAG-Africa\"]"
 msgid "Africa"
-msgstr ""
+msgstr "Africa"
 
 msgctxt "[\"FLAG-Americas\"]"
 msgid "Americas"
-msgstr ""
+msgstr "Americani"
 
 msgctxt "[\"FLAG-Asia\"]"
 msgid "Asia"
-msgstr ""
+msgstr "Zona Asia"
 
 msgctxt "[\"FLAG-Europe\"]"
 msgid "Europe"
-msgstr ""
+msgstr "Europa"
 
 msgctxt "[\"FLAG-Oceania\"]"
 msgid "Oceania"
-msgstr ""
+msgstr "Zona Oceania"
 
 msgctxt "[\"FLAG-Rest_of_the_world\"]"
 msgid "Rest of the world"
-msgstr ""
+msgstr "Restul lumii"
 
 msgctxt "[\"ERROR-OOPS\"]"
 msgid "OOPS!,"
-msgstr ""
+msgstr "UPS!,"
 
 msgctxt "[\"ERROR-SUBTITLE\"]"
 msgid "You can visit the following Games and Apps instead"
-msgstr ""
+msgstr "Poți vizita următoarele Jocuri și Aplicații în loc"
 
 msgctxt "[\"RECOMMENDED-POSTS\"]"
 msgid "Recommended Posts"
-msgstr ""
+msgstr "Postări recomandate"
 
 msgctxt "[\"USERS-RECOMMENDED\"]"
 msgid "Users' Recommendations"
-msgstr ""
+msgstr "Recomandările utilizatorilor"
 
 msgctxt "[\"REVIEW_PRIVACY_POLICY_DES_M\"]"
 msgid "We encourage you to read our updated <a target='_blank' href='{pp}'>Privacy Policy</a> and <a target='_blank' href='{cp}'>Cookies Policy</a>."
 msgstr ""
+"Te încurajăm să citești <a target='_blank' href='{pp}'>Politica noastră de "
+"Confidențialitate actualizată</a>și<a target='_blank' href='{cp}'>Politica "
+"Utilizării de module Cookies</a>."
 
 msgctxt "[\"REVIEW_PRIVACY_POLICY_DES\"]"
 msgid "We use cookies and other technologies on this website to enhance your user experience.<br> By clicking any link on this page you are giving your consent to our <a target='_blank' href='{pp}'>Privacy Policy</a> and <a target='_blank' href='{cp}'>Cookies Policy</a>."
 msgstr ""
+"Folosim module cookies și alte tehnologii în acest site web pentru a crește "
+"experiența dvs de utilizare.<br> Prin apăsarea oricărui link de pe această "
+"pagină vă exprimați acordul <a target='_blank' href='{pp}'>Politica de "
+"Confidențialitate</a> and <a target='_blank' href='{cp}'>Politica Modulelor "
+"Cookie</a>."
 
 msgctxt "[\"REVIEW_PRIVACY_POLICY_BTN\"]"
 msgid "Ok I Agree"
-msgstr ""
+msgstr "Bine, accept"
 
 msgctxt "[\"REVIEW_PRIVACY_POLICY_MORE\"]"
 msgid "Learn More"
-msgstr ""
+msgstr "Învățați mai mult"
 
 msgctxt "[\"MARKET-TOP_COUNTRY\"][\"en-US\"]"
 msgid "USA"
-msgstr ""
+msgstr "SUA"
 
 msgctxt "[\"MARKET-TOP_COUNTRY\"][\"ja\"]"
 msgid "Japan"
-msgstr ""
+msgstr "Japonia"
 
 msgctxt "[\"MARKET-TOP_COUNTRY\"][\"zh-CN\"]"
 msgid "China"
-msgstr ""
+msgstr "China"
 
 msgctxt "[\"MARKET-TOP_COUNTRY\"][\"ko-KR\"]"
 msgid "Korea"
-msgstr ""
+msgstr "Coreea"
 
 msgctxt "[\"MARKET-TOP_COUNTRY\"][\"id-ID\"]"
 msgid "Indonesia"
@@ -1697,7 +1738,7 @@ msgstr ""
 
 msgctxt "[\"js\"][\"LANG_OK\"][\"nl\"]"
 msgid "OK"
-msgstr ""
+msgstr "Ok"
 
 msgctxt "[\"js\"][\"SIGN_VERIFY-OFFICIAL\"]"
 msgid "[Official] This {0} APK is the unmodified official version."
@@ -1725,7 +1766,7 @@ msgstr ""
 
 msgctxt "[\"js\"][\"SIGN_VERIFY-CLICK_UPLOAD\"]"
 msgid "Click Upload APK file"
-msgstr ""
+msgstr "Dați click încărcați fișier APK"
 
 msgctxt "[\"js\"][\"REGION_DOWN-REGION_ERROR\"]"
 msgid "Package name or region error , try again"
@@ -1745,11 +1786,11 @@ msgstr ""
 
 msgctxt "[\"js\"][\"SHOW_MORE\"]"
 msgid "Show More"
-msgstr ""
+msgstr "Arată mai mult"
 
 msgctxt "[\"js\"][\"SHOW_LESS\"]"
 msgid "Show less"
-msgstr ""
+msgstr "Arată mai puțin"
 
 msgctxt "[\"js\"][\"LOADING\"]"
 msgid "loading..."
@@ -1757,7 +1798,7 @@ msgstr ""
 
 msgctxt "[\"js\"][\"DOWNLOAD_APK\"]"
 msgid "Download APK"
-msgstr ""
+msgstr "Descărcați APK"
 
 msgctxt "[\"js\"][\"UPLOADED\"]"
 msgid "Uploaded {0}%"
@@ -1777,7 +1818,7 @@ msgstr ""
 
 msgctxt "[\"js\"][\"CANCEL\"]"
 msgid "Cancel"
-msgstr ""
+msgstr "Anulați"
 
 msgctxt "[\"js\"][\"YOUTUBE_URL\"]"
 msgid "Enter Youtube video URL"
@@ -1801,11 +1842,11 @@ msgstr ""
 
 msgctxt "[\"js\"][\"USER-INCORRECT_ACCOUNT\"]"
 msgid "The username you entered is invalid."
-msgstr ""
+msgstr "Numele de utilizator introdus este nevalid."
 
 msgctxt "[\"js\"][\"USER-INCORRECT_PASSWORD\"]"
 msgid "The password you entered is invalid."
-msgstr ""
+msgstr "Parola introdusă este nevalidă."
 
 msgctxt "[\"js\"][\"USER-SAVED_SUCCESS\"]"
 msgid "Saved Successfully"
@@ -1813,15 +1854,15 @@ msgstr ""
 
 msgctxt "[\"js\"][\"COMMENT-DELETE\"]"
 msgid "Yes,delete it!"
-msgstr ""
+msgstr "Da, șterge!"
 
 msgctxt "[\"js\"][\"COMMENT-DELETED\"]"
 msgid "Deleted!"
-msgstr ""
+msgstr "Șters!"
 
 msgctxt "[\"js\"][\"COMMENT-ARE_YOU_SURE\"]"
 msgid "Are you sure?"
-msgstr ""
+msgstr "Sunteți sigur?"
 
 msgctxt "[\"js\"][\"COMMENT-RATE_MUST\"]"
 msgid "Before writing a review or something, please rate the app first."
@@ -1829,7 +1870,7 @@ msgstr ""
 
 msgctxt "[\"js\"][\"COMMENT-VOTE\"]"
 msgid "Vote"
-msgstr ""
+msgstr "Votați"
 
 msgctxt "[\"meta\"][\"Index\"][\"title\"]"
 msgid "Download APK free online downloader | APKPure.com"
@@ -2042,6 +2083,9 @@ msgstr ""
 msgctxt "[\"meta\"][\"Verify\"][\"description\"]"
 msgid "APK Signature verification will verify Android app package signature to keep Android users away from potentially harmful APK files before APK installing."
 msgstr ""
+"Verificarea semnăturii APK va verifica semnătura pachetului aplicației de "
+"Android pentru păstrarea utilizatorilor Android departe de fișiere APK cu "
+"posibili viruși înaintea instalării de APK."
 
 msgctxt "[\"meta\"][\"Download\"][\"title\"]"
 msgid "Region free APK download daily update apps and games"
@@ -2089,7 +2133,7 @@ msgstr ""
 
 msgctxt "[\"meta\"][\"Topics\"][\"description\"]"
 msgid "Topics"
-msgstr ""
+msgstr "Subiecte"
 
 msgctxt "[\"meta\"][\"Topic\"][\"title\"]"
 msgid "{0} | APKPure.com"
@@ -2129,7 +2173,7 @@ msgstr ""
 
 msgctxt "[\"meta\"][\"Password\"][\"title\"]"
 msgid "Change Password"
-msgstr ""
+msgstr "Modificați parola"
 
 msgctxt "[\"meta\"][\"Password\"][\"description\"]"
 msgid "Change or reset my password."
@@ -2258,3 +2302,279 @@ msgstr ""
 msgctxt "[\"private_message\"][\"link_title\"][\"let_us_know\"]"
 msgid "let us know"
 msgstr ""
+
+msgctxt "[\"MARKET-POP_ADD_TAG\"]"
+msgid "Add Tags"
+msgstr "Adăugați Tag-uri"
+
+msgctxt "[\"MARKET-PAGE_TOP_COUNTRIES\"]"
+msgid "Partitioned Ranking"
+msgstr "Clasament partiționat"
+
+msgctxt "[\"MARKET-PAGE_TOP_DEVELOPERS\"]"
+msgid "Top Developers"
+msgstr "Top Dezvoltatori"
+
+msgctxt "[\"MARKET-PAGE_TOP_APPS\"]"
+msgid "Top Apps"
+msgstr "Top Aplicații"
+
+msgctxt "[\"MARKET-PAGE_TOP_GAMES\"]"
+msgid "Top Games"
+msgstr "Top Jocuri"
+
+msgctxt "[\"COPYRIGHT_MOBILE\"]"
+msgid "APKPure.com © 2014-2019"
+msgstr "APKPure.com © 2014-2019"
+
+msgctxt "[\"COPYRIGHT\"]"
+msgid "Copyright © 2014-2019 APKPure All rights reserved."
+msgstr "Drept de autor © 2014-2019 APKPure Toate drepturile rezervate."
+
+msgctxt "[\"SEARCH-NO_RESULTS\"]"
+msgid "Sorry, no results found."
+msgstr "Ne scuzați, nu am găsit rezultate."
+
+msgctxt "[\"SEARCH-TAB_HASHTAGS\"]"
+msgid "Hashtags"
+msgstr "Hashtag-uri"
+
+msgctxt "[\"SEARCH-TAB_USERS\"]"
+msgid "Users"
+msgstr "Utilizatori"
+
+msgctxt "[\"SEARCH-FEATURED_HASHTAG\"]"
+msgid "Featured hashtags"
+msgstr "Hashtag-uri recomandate"
+
+msgctxt "[\"SEARCH-TRENDING\"]"
+msgid "Trending searches"
+msgstr "Căutări populare"
+
+msgctxt "[\"SEARCH-APP\"]"
+msgid "Search App"
+msgstr "Căutați Aplicație"
+
+msgctxt "[\"USER-RETRIEVE_PASSWORD\"]"
+msgid "Retrieve Password"
+msgstr "Recuperați parola"
+
+msgctxt "[\"USER-SAVE_BTN\"]"
+msgid "SAVE"
+msgstr "SALVAȚI"
+
+msgctxt "[\"USER-CONNECT_YOUR_EMAIL_FIRST\"]"
+msgid "Please connect your email first"
+msgstr "Vă rugăm conectați-vă emailul mai întâi"
+
+msgctxt "[\"USER-CHANGE_EMAIL\"]"
+msgid "Change email"
+msgstr "Modificați email"
+
+msgctxt "[\"USER-CONNECT_YOUR_EMAIL\"]"
+msgid "Connect your email"
+msgstr "Conectați-vă emailul dvs"
+
+msgctxt "[\"USER-SEND_CODE\"]"
+msgid "Send Code"
+msgstr "Trimiteți codul"
+
+msgctxt "[\"USER-SEND_VERIFICATION_CODE\"]"
+msgid "Send verification code"
+msgstr "Trimiteți codul de verificare"
+
+msgctxt "[\"USER-DISABLE\"]"
+msgid "This account has been deleted"
+msgstr "Acest cont a fost șters"
+
+msgctxt "[\"USER-DELETE_ACCOUNT\"]"
+msgid "Delete your account and information"
+msgstr "Ștergeți contul și informațiile asociate cu acesta"
+
+msgctxt "[\"USER-PRIVATE_ACCOUNT\"]"
+msgid "Private Account"
+msgstr "Cont private"
+
+msgctxt "[\"USER-PRIVACY_SETTING\"]"
+msgid "Privacy Settings"
+msgstr "Setări private"
+
+msgctxt "[\"USER-A_PRIVATE_ACCOUNT\"]"
+msgid "It's a private account."
+msgstr "Este un cont privat."
+
+msgctxt "[\"USER-SAY_SOMETHING\"]"
+msgid "Why do you want to delete this account?"
+msgstr "De ce doriți să ștergeți acest cont?"
+
+msgctxt "[\"USER-INFO_STORY\"]"
+msgid "Story"
+msgstr "Poveste"
+
+msgctxt "[\"USER-INFO_REVIEW\"]"
+msgid "Review"
+msgstr "Recenzie"
+
+msgctxt "[\"USER-INFO_ALL\"]"
+msgid "All"
+msgstr "Toate"
+
+msgctxt "[\"USER-SETTINGS\"]"
+msgid "Settings"
+msgstr "Setări"
+
+msgctxt "[\"MORE_COOL_COMMENTS\"]"
+msgid "More cool comments"
+msgstr "Mai multe comentarii super"
+
+msgctxt "[\"COOL_COMMENT\"]"
+msgid "Cool Comment"
+msgstr "Comentariu super"
+
+msgctxt "[\"HOT_HASHTAG\"]"
+msgid "Featured Hashtags"
+msgstr "Hashtag-uri recomandate"
+
+msgctxt "[\"HASHTAG\"]"
+msgid "HASHTAG"
+msgstr "HASHTAG"
+
+msgctxt "[\"COMMENT-POST_COUNT\"]"
+msgid "Posts: {0}"
+msgstr "Postări: {0}"
+
+msgctxt "[\"COMMENT-FOLLOW_COUNT\"]"
+msgid "Followers: {0}"
+msgstr "Urmăritori: {0}"
+
+msgctxt "[\"COMMENT-HASHTAG\"]"
+msgid "Hashtag"
+msgstr "Hashtag"
+
+msgctxt "[\"COMMENT-HASHTAG_NOT_EXIST\"]"
+msgid "The hashtag does not exist"
+msgstr "Hashtag-ul nu există"
+
+msgctxt "[\"COMMENT-LINK\"]"
+msgid "Link"
+msgstr "Link"
+
+msgctxt "[\"COMMENT-SAME_TEXT\"]"
+msgid "The text is the same, please post it later."
+msgstr "Textul este același, vă rugăm postați-l mai târziu."
+
+msgctxt "[\"COMMENT-ERR_SENSITIVE_WORD\"]"
+msgid "Comment failed, your post contains sensitive terms."
+msgstr "Comentariu eșuat, postarea dvs conține termeni senzitivi."
+
+msgctxt "[\"js\"][\"COMMENT-LIKE\"]"
+msgid "Like"
+msgstr "Apreciez"
+
+msgctxt "[\"COMMENT-REVIEWS_CURRENT_MOB\"]"
+msgid "In {0}:"
+msgstr "În {0}:"
+
+msgctxt "[\"COMMENT-REVIEWS_CURRENT\"]"
+msgid "Reviews in {0}:"
+msgstr "Recenzii în {0}:"
+
+msgctxt "[\"COMMENT-REVIEWS_TOTAL\"]"
+msgid "Total Reviews:"
+msgstr "Recenzii totale:"
+
+msgctxt "[\"VARIANT-DPI\"]"
+msgid "DPI"
+msgstr "DPI"
+
+msgctxt "[\"VARIANT-ARCH\"]"
+msgid "Arch"
+msgstr "Arc"
+
+msgctxt "[\"VARIANT-SCREEN_DPI\"]"
+msgid "Screen DPI"
+msgstr "Ecran DPI"
+
+msgctxt "[\"VARIANT-MINIMUM\"]"
+msgid "Minimum Version"
+msgstr "Versiunea minimă"
+
+msgctxt "[\"VARIANT-ARCHITECTURE\"]"
+msgid "Architecture"
+msgstr "Arhitectură"
+
+msgctxt "[\"VARIANT-VARIANT\"]"
+msgid "Variant"
+msgstr "Variantă"
+
+msgctxt "[\"VARIANT-VARIANTS_TIT\"]"
+msgid "Variants"
+msgstr "Variante"
+
+msgctxt "[\"VARIANT-VARIANTS\"]"
+msgid "{0} Variants"
+msgstr "{0} Variante"
+
+msgctxt "[\"VERSION-ALL-VERSIONS\"]"
+msgid "All Versions"
+msgstr "Toate versiunile"
+
+msgctxt "[\"DETAIL_DOWNLOAD-FAST_DOWNLOADING_DES\"]"
+msgid "How \"Fast Download\" works?"
+msgstr "Cum funcționează \"Descărcați rapid\"?"
+
+msgctxt "[\"DETAIL_DOWNLOAD-FAST_DOWNLOADING\"]"
+msgid "Fast Downloading"
+msgstr "Descărcare rapidă"
+
+msgctxt "[\"DETAIL-DELETED_COPYRIGHT_GOOGLE_PLAY_DES\"]"
+msgid "{app_name} All rights reserved ©2019 {developer}. {developer} and the {developer} logo are trademarks of {developer} in the U.S. and/or other countries.All other trademarks are the property of their respective owners."
+msgstr ""
+"{nume_aplicație} Toate drepturile rezervate ©2019\n"
+"{dezvoltator}. {dezvoltator} și {dezvoltatorul} logo sunt mărci comerciale "
+"ale {dezvoltator} în S.U. și/sau alte țări. Toate celelalte mărci comerciale "
+"sunt proprietatea deținătorilor respectivi de acolo."
+
+msgctxt "[\"DETAIL-HOT_TAGS\"]"
+msgid "{0} Tags"
+msgstr "{0} Taguri"
+
+msgctxt "[\"SUBMITTING\"]"
+msgid "Submitting..."
+msgstr "Trimitere..."
+
+msgctxt "[\"SUBMIT\"]"
+msgid "Submit"
+msgstr "Trimiteți"
+
+msgctxt "[\"ADDITIONAL_INFORMATION\"]"
+msgid "Additional Information"
+msgstr "Informație adițională"
+
+msgctxt "[\"BROWSING_TAG\"]"
+msgid "Browsing {0}"
+msgstr "Navigare {0}"
+
+msgctxt "[\"TAG\"]"
+msgid "Tag {0}"
+msgstr "Tag {0}"
+
+msgctxt "[\"REASON\"]"
+msgid "Reason"
+msgstr "Motiv"
+
+msgctxt "[\"TOP-UPDATED-GAMES\"]"
+msgid "Recently Updated Games"
+msgstr "Jocuri recent actualizate"
+
+msgctxt "[\"TOP-UPDATED-APPS\"]"
+msgid "Recently Updated Apps"
+msgstr "Aplicații recent actualizate"
+
+msgctxt "[\"DOWNLOAD_AVAILABLE\"]"
+msgid "Download Variant {0}"
+msgstr "Descărcați variantă"
+
+msgctxt "[\"NAV-Cloud-Phone-Emulator\"]"
+msgid "Cloud Phone Emulator"
+msgstr "Emulator de telefon în sistem cloud"
