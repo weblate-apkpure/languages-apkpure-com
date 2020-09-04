@@ -1,3 +1,19 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-09-05 13:37+0000\n"
+"PO-Revision-Date: 2020-09-05 13:37+0000\n"
+"Last-Translator: Igor Ruckert <igorruckert@yahoo.com.br>\n"
+"Language-Team: Portuguese (Brazil) <https://translate.apkpure.com/projects/"
+"apkpure/apkpurecom/pt_BR/>\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 4.2.2\n"
+
 msgctxt "[\"NAV-GAME\"]"
 msgid "GAMES"
 msgstr "JOGOS"
@@ -1985,3 +2001,198 @@ msgstr "\"{post_details}\" enviado por {user_name} em {app_name} {app_type} Disc
 msgctxt "[\"meta\"][\"Invit\"][\"keywords\"]"
 msgid "group, {app_name}, {app_category}, {app_type}, {app_developer}, {app_short_name} community"
 msgstr "grupo, {app_name}, {app_category}, {app_type}, {app_developer}, {app_short_name} comunidade"
+
+msgctxt "[\"COMMENT-REVIEWS_CURRENT_MOB\"]"
+msgid "In {0}:"
+msgstr "Em {0}:"
+
+msgctxt "[\"COMMENT-REVIEWS_CURRENT\"]"
+msgid "Reviews in {0}:"
+msgstr "Comentários em {0}:"
+
+msgctxt "[\"COMMENT-REVIEWS_TOTAL\"]"
+msgid "Total Reviews:"
+msgstr "Comentários Totais:"
+
+msgctxt "[\"VARIANT-DPI\"]"
+msgid "DPI"
+msgstr "DPI"
+
+msgctxt "[\"VARIANT-ARCH\"]"
+msgid "Arch"
+msgstr "Arquitetura"
+
+msgctxt "[\"VARIANT-SCREEN_DPI\"]"
+msgid "Screen DPI"
+msgstr "DPI da Tela"
+
+msgctxt "[\"VARIANT-MINIMUM\"]"
+msgid "Minimum Version"
+msgstr "Versão Mínima"
+
+msgctxt "[\"VARIANT-ARCHITECTURE\"]"
+msgid "Architecture"
+msgstr "Arquitetura"
+
+msgctxt "[\"VARIANT-VARIANT\"]"
+msgid "Variant"
+msgstr "Variante"
+
+msgctxt "[\"VARIANT-VARIANTS_TIT\"]"
+msgid "Variants"
+msgstr "Variantes"
+
+msgctxt "[\"VARIANT-VARIANTS\"]"
+msgid "{0} Variants"
+msgstr "{0} Variantes"
+
+msgctxt "[\"VERSION-ALL-VERSIONS\"]"
+msgid "All Versions"
+msgstr "Todas as Versões"
+
+msgctxt "[\"VERSION-VERSIONS\"]"
+msgid "Versions"
+msgstr "Versões"
+
+msgctxt "[\"DETAIL_DOWNLOAD-FAST_DOWNLOADING_DES\"]"
+msgid "How \"Fast Download\" works?"
+msgstr "Como o \"Download Rápido\" funciona?"
+
+msgctxt "[\"DETAIL_DOWNLOAD-FAST_DOWNLOADING\"]"
+msgid "Fast Downloading"
+msgstr "Download Rápido"
+
+msgctxt "[\"DETAIL-CATEGORY_APP\"]"
+msgid "{0} APP"
+msgstr "{0} APP"
+
+msgctxt "[\"DETAIL-HOT_TAGS\"]"
+msgid "{0} Tags"
+msgstr "{0} Tags"
+
+msgctxt "[\"UPLOAD-PARSING_FAILED\"]"
+msgid "File parsing failed. (Error code: 10002)"
+msgstr "Falha ao analisar arquivo. (Código de erro: 10002)"
+
+msgctxt "[\"UPLOAD-FAILED\"]"
+msgid "File upload failed. (Error code: 10001)"
+msgstr "Falha de upload do arquivo. (Código de erro: 10001)"
+
+msgctxt "[\"DEV-NO_OFFICIAL_VERSION\"]"
+msgid "There is no Google Play official version on APKPure. Please claim this app later."
+msgstr ""
+"Não há versão oficial do Google Play no APKPure. Reivindique este aplicativo "
+"mais tarde."
+
+msgctxt "[\"DEV-INCORRECT_PKG\"]"
+msgid "Invalid Package Name"
+msgstr "Nome de Pacote Inválido"
+
+msgctxt "[\"DEV-GP_EXISTS\"]"
+msgid "This application has existed on google play."
+msgstr "Este aplicativo existe no Google Play."
+
+msgctxt "[\"DEV-PKG_EXISTS\"]"
+msgid "Application has been claimed"
+msgstr "O aplicativo foi reivindicado"
+
+msgctxt "[\"DEV-SEND_EMAIL_ERR\"]"
+msgid "Failed to send mail"
+msgstr "Falha ao enviar e-mail"
+
+msgctxt "[\"DEV-INCORRECT_PKG_EMAIL\"]"
+msgid "Invalid package name or email"
+msgstr "Nome do pacote ou e-mail inválido"
+
+msgctxt "[\"DEV-DEV_BANNER_SIZE_ERROR\"]"
+msgid "You need to resize your graphic. The required dimension is 4096px * 2304px."
+msgstr ""
+"Você precisa redimensionar seu gráfico. As dimensões necessárias são 4096px *"
+" 2304px."
+
+msgctxt "[\"DEV-BANNER_SIZE_ERROR\"]"
+msgid "You need to resize your feature graphic. The required dimensions are 1024px * 500px."
+msgstr ""
+"Você precisa redimensionar seu gráfico de recursos. As dimensões necessárias "
+"são 1024px * 500px."
+
+msgctxt "[\"DEV-APK_DESCRIPTION_SHORT_ERROR_MSG\"]"
+msgid "The short description is limited to 80 characters."
+msgstr "A descrição curta é limitada a 80 caracteres."
+
+msgctxt "[\"DEV-APK_DESCRIPTION_ERROR_MSG\"]"
+msgid "The description is limited to 4000 characters."
+msgstr "A descrição é limitada a 4000 caracteres."
+
+msgctxt "[\"DEV-IMG_ERROR\"]"
+msgid "The screenshots should be<br>- at least two<br>- JPEG or PNG<br>- Minimum dimension: 320px<br>- Maximum dimension: 3840px<br>- The maximum dimension can't be more than twice as long as the minimum dimension."
+msgstr ""
+"As capturas de tela devem ser<br>-pelo menos duas<br>- JPEG ou PNG<br>- "
+"Dimensão mínima: 320px<br>- Dimensão máxima: 3840px<br>- A dimensão máxima "
+"não pode ser mais do que o dobro da dimensão mínima."
+
+msgctxt "[\"DEV-ICON_TYPE_AND_SIZE_MSG\"]"
+msgid "The icon should be<br>- PNG <br>- limited to 1024KB"
+msgstr "O ícone deve ser<br>- PNG <br>- limite de 1024 KB"
+
+msgctxt "[\"DEV-ICON_SIZE_ERROR\"]"
+msgid "You need to resize your high-res icon. The required dimensions are 512px * 512px."
+msgstr ""
+"Você precisa redimensionar seu ícone em alta resolução. As dimensões "
+"necessárias são 512px * 512px."
+
+msgctxt "[\"SUBMITTING\"]"
+msgid "Submitting..."
+msgstr "Enviando..."
+
+msgctxt "[\"SUBMIT\"]"
+msgid "Submit"
+msgstr "Enviar"
+
+msgctxt "[\"ADDITIONAL_INFORMATION\"]"
+msgid "Additional Information"
+msgstr "Informações Adicionais"
+
+msgctxt "[\"TAG\"]"
+msgid "Tag {0}"
+msgstr "Tag {0}"
+
+msgctxt "[\"MORE-TOPICS\"]"
+msgid "More Topics"
+msgstr "Mais Tópicos"
+
+msgctxt "[\"REASON\"]"
+msgid "Reason"
+msgstr "Motivo"
+
+msgctxt "[\"UPLOADER\"]"
+msgid "Uploaded by"
+msgstr "Enviado por"
+
+msgctxt "[\"CATEGORY_JOIN\"]"
+msgid "{app_category} {app_type}"
+msgstr "{app_category} {app_type}"
+
+msgctxt "[\"POPULAR\"]"
+msgid "Popular"
+msgstr "Popular"
+
+msgctxt "[\"DOWNLOADS_ATTACHMENT\"]"
+msgid "Downloads"
+msgstr "Downloads"
+
+msgctxt "[\"EDITORS_CHOICE\"]"
+msgid "Editor's Choice"
+msgstr "Escolha do Editor"
+
+msgctxt "[\"DOWNLOAD_AVAILABLE\"]"
+msgid "Download Variant {0}"
+msgstr "Download da Variante {0}"
+
+msgctxt "[\"NAV-Cloud-Phone-Emulator\"]"
+msgid "Cloud Phone Emulator"
+msgstr "Emulador de Telefone na Nuvem"
+
+msgctxt "[\"FOOTER-XAPK\"]"
+msgid "XAPK"
+msgstr "XAPK"
