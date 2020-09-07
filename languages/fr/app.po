@@ -6,6 +6,10 @@ msgctxt "[\"NAV-APP\"]"
 msgid "APPS"
 msgstr "Applications"
 
+msgctxt "[\"NAV-XAPK\"]"
+msgid "XAPK"
+msgstr "XAPK"
+
 msgctxt "[\"NAV-NEW\"]"
 msgid "NEW"
 msgstr "Nouveaux"
@@ -101,6 +105,10 @@ msgstr "Applications"
 msgctxt "[\"MORE\"]"
 msgid "More"
 msgstr "Plus"
+
+msgctxt "[\"XAPK\"]"
+msgid "XAPK"
+msgstr "XAPK"
 
 msgctxt "[\"XAPK-GAMES\"]"
 msgid "XAPK Games"
@@ -1165,6 +1173,10 @@ msgstr "Soumettez votre application"
 msgctxt "[\"FOOTER-COOPERATION\"]"
 msgid "Business Cooperation"
 msgstr "Partenariat"
+
+msgctxt "[\"FOOTER-XAPK\"]"
+msgid "XAPK"
+msgstr "XAPK"
 
 msgctxt "[\"FOOTER-REPORT_ABUSE\"]"
 msgid "Report abuse"
