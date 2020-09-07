@@ -79,8 +79,12 @@ msgid "Buy"
 msgstr "Buy"
 
 msgctxt "[\"SELECT_LANGUAGE\"]"
-msgid "Select Language"
-msgstr "Select Language"
+msgid "Choose Language"
+msgstr "Choose Language"
+
+msgctxt "[\"EDITORS_CHOICE\"]"
+msgid "Editor's Choice"
+msgstr "Editor's Choice"
 
 msgctxt "[\"FREE\"]"
 msgid "Free"
@@ -162,6 +166,10 @@ msgctxt "[\"RATING\"]"
 msgid "Rating"
 msgstr "Rating"
 
+msgctxt "[\"POPULAR\"]"
+msgid "Popular"
+msgstr "Popular"
+
 msgctxt "[\"CATEGORY\"]"
 msgid "Category"
 msgstr "Category"
@@ -185,6 +193,10 @@ msgstr "All {0} Apps"
 msgctxt "[\"DEVELOPER\"]"
 msgid "Developer"
 msgstr "Developer"
+
+msgctxt "[\"UPLOADER\"]"
+msgid "Uploaded by"
+msgstr "Uploaded by"
 
 msgctxt "[\"POPULAR_GAMES_IN_LAST_HOURS\"]"
 msgid "Popular Games In Last {0} Hours"
@@ -290,6 +302,10 @@ msgctxt "[\"TOPICS\"]"
 msgid "Topics"
 msgstr "Topics"
 
+msgctxt "[\"MORE-TOPICS\"]"
+msgid "More Topics"
+msgstr "More Topics"
+
 msgctxt "[\"TAG\"]"
 msgid "Tag {0}"
 msgstr "Tag {0}"
@@ -322,6 +338,34 @@ msgctxt "[\"SUBMITTING\"]"
 msgid "Submitting..."
 msgstr "Submitting..."
 
+msgctxt "[\"DEV-ICON_SIZE_ERROR\"]"
+msgid "You need to resize your high-res icon. The required dimensions are 512px * 512px."
+msgstr "You need to resize your high-res icon. The required dimensions are 512px * 512px."
+
+msgctxt "[\"DEV-ICON_TYPE_AND_SIZE_MSG\"]"
+msgid "The icon should be<br>- PNG <br>- limited to 1024KB"
+msgstr "The icon should be<br>- PNG <br>- limited to 1024KB"
+
+msgctxt "[\"DEV-IMG_ERROR\"]"
+msgid "The screenshots should be<br>- at least two<br>- JPEG or PNG<br>- Minimum dimension: 320px<br>- Maximum dimension: 3840px<br>- The maximum dimension can't be more than twice as long as the minimum dimension."
+msgstr "The screenshots should be<br>- at least two<br>- JPEG or PNG<br>- Minimum dimension: 320px<br>- Maximum dimension: 3840px<br>- The maximum dimension can't be more than twice as long as the minimum dimension."
+
+msgctxt "[\"DEV-APK_DESCRIPTION_ERROR_MSG\"]"
+msgid "The description is limited to 4000 characters."
+msgstr "The description is limited to 4000 characters."
+
+msgctxt "[\"DEV-APK_DESCRIPTION_SHORT_ERROR_MSG\"]"
+msgid "The short description is limited to 80 characters."
+msgstr "The short description is limited to 80 characters."
+
+msgctxt "[\"DEV-BANNER_SIZE_ERROR\"]"
+msgid "You need to resize your feature graphic. The required dimensions are 1024px * 500px."
+msgstr "You need to resize your feature graphic. The required dimensions are 1024px * 500px."
+
+msgctxt "[\"DEV-DEV_BANNER_SIZE_ERROR\"]"
+msgid "You need to resize your graphic. The required dimension is 4096px * 2304px."
+msgstr "You need to resize your graphic. The required dimension is 4096px * 2304px."
+
 msgctxt "[\"DEV-INCORRECT_PKG_EMAIL\"]"
 msgid "Invalid package name or email"
 msgstr "Invalid package name or email"
@@ -333,6 +377,26 @@ msgstr "Failed to send mail"
 msgctxt "[\"DEV-PKG_EXISTS\"]"
 msgid "Application has been claimed"
 msgstr "Application has been claimed"
+
+msgctxt "[\"DEV-GP_EXISTS\"]"
+msgid "This application has existed on google play."
+msgstr "This application has existed on google play."
+
+msgctxt "[\"DEV-INCORRECT_PKG\"]"
+msgid "Invalid Package Name"
+msgstr "Invalid Package Name"
+
+msgctxt "[\"DEV-NO_OFFICIAL_VERSION\"]"
+msgid "There is no Google Play official version on APKPure. Please claim this app later."
+msgstr "There is no Google Play official version on APKPure. Please claim this app later."
+
+msgctxt "[\"UPLOAD-FAILED\"]"
+msgid "File upload failed. (Error code: 10001)"
+msgstr "File upload failed. (Error code: 10001)"
+
+msgctxt "[\"UPLOAD-PARSING_FAILED\"]"
+msgid "File parsing failed. (Error code: 10002)"
+msgstr "File parsing failed. (Error code: 10002)"
 
 msgctxt "[\"DETAIL\"]"
 msgid "Detail"
@@ -527,8 +591,8 @@ msgid "Download on Google Play"
 msgstr "Download on Google Play"
 
 msgctxt "[\"DETAIL-DELETED_COPYRIGHT_GOOGLE_PLAY_DES\"]"
-msgid "{app_name} All rights reserved ©2019 {developer}. {developer} and the {developer} logo are trademarks of {developer} in the U.S. and/or other countries.All other trademarks are the property of their respective owners."
-msgstr "{app_name} All rights reserved ©2019 {developer}. {developer} and the {developer} logo are trademarks of {developer} in the U.S. and/or other countries.All other trademarks are the property of their respective owners."
+msgid "{app_name} All rights reserved ©2020 {developer}. {developer} and the {developer} logo are trademarks of {developer} in the U.S. and/or other countries.All other trademarks are the property of their respective owners."
+msgstr "{app_name} All rights reserved ©2020 {developer}. {developer} and the {developer} logo are trademarks of {developer} in the U.S. and/or other countries.All other trademarks are the property of their respective owners."
 
 msgctxt "[\"DETAIL_DOWNLOAD-NAV_DOWNLOAD\"]"
 msgid "Download"
@@ -811,8 +875,8 @@ msgid "Your post contains link and is pending approval by an admin"
 msgstr "Your post contains link and is pending approval by an admin"
 
 msgctxt "[\"COMMENT-ERR_FORBIDDEN\"]"
-msgid "Comment forbidden"
-msgstr "Comment forbidden"
+msgid "Permission denied"
+msgstr "Permission denied"
 
 msgctxt "[\"COMMENT-ERR_FAILURE\"]"
 msgid "Comment unknown"
@@ -837,6 +901,10 @@ msgstr "You're banned from APKPure by using or posting content containing nudity
 msgctxt "[\"COMMENT-ERR_INVALID_VIDEO_URL\"]"
 msgid "Invalid Video URL"
 msgstr "Invalid Video URL"
+
+msgctxt "[\"COMMENT-ERR_INVALID_REVIEW_USER\"]"
+msgid "To give your ratings, you need to verify your email."
+msgstr "To give your ratings, you need to verify your email."
 
 msgctxt "[\"COMMENT-DELETE\"]"
 msgid "Yes,delete it!"
@@ -1346,6 +1414,10 @@ msgctxt "[\"SEARCH-TAB_HASHTAGS\"]"
 msgid "Hashtags"
 msgstr "Hashtags"
 
+msgctxt "[\"SEARCH-TAB_COMMENTS\"]"
+msgid "Posts"
+msgstr "Posts"
+
 msgctxt "[\"SEARCH-NO_RESULTS\"]"
 msgid "Sorry, no results found."
 msgstr "Sorry, no results found."
@@ -1374,13 +1446,17 @@ msgctxt "[\"404-DES\"]"
 msgid "It seems that page you are looking for no longer exists.<br />You can explore more Android Games and Apps below!"
 msgstr "It seems that page you are looking for no longer exists.<br />You can explore more Android Games and Apps below!"
 
+msgctxt "[\"FREQUENTLY-VISITED\"]"
+msgid "Your operation is too frequent. Please try again in {time} minutes."
+msgstr "Your operation is too frequent. Please try again in {time} minutes."
+
 msgctxt "[\"COPYRIGHT\"]"
-msgid "Copyright © 2014-2019 APKPure All rights reserved."
-msgstr "Copyright © 2014-2019 APKPure All rights reserved."
+msgid "Copyright © 2014-2020 APKPure All rights reserved."
+msgstr "Copyright © 2014-2020 APKPure All rights reserved."
 
 msgctxt "[\"COPYRIGHT_MOBILE\"]"
-msgid "APKPure.com © 2014-2019"
-msgstr "APKPure.com © 2014-2019"
+msgid "APKPure.com © 2014-2020"
+msgstr "APKPure.com © 2014-2020"
 
 msgctxt "[\"COMING_SOON\"]"
 msgid "COMING SOON"
@@ -1461,6 +1537,10 @@ msgstr "Contact Us"
 msgctxt "[\"FOOTER-ABOUT\"]"
 msgid "About Us"
 msgstr "About Us"
+
+msgctxt "[\"FOOTER-UPLOAD-APK\"]"
+msgid "Submit APK"
+msgstr "Submit APK"
 
 msgctxt "[\"FOOTER-SOLUTIONS\"]"
 msgid "SOLUTIONS"
@@ -1678,6 +1758,126 @@ msgctxt "[\"USERS-RECOMMENDED\"]"
 msgid "Users' Recommendations"
 msgstr "Users' Recommendations"
 
+msgctxt "[\"UPLOAD-YOUR-APP\"]"
+msgid "Upload Your Application"
+msgstr "Upload Your Application"
+
+msgctxt "[\"UPLOAD-APK-FILE\"]"
+msgid "Upload the apk file"
+msgstr "Upload the apk file"
+
+msgctxt "[\"UPLOAD-APK-FILE-PROMPT\"]"
+msgid "Only support <strong>.APK/XAPK</strong> file no larger than <strong>{0}Mb</strong>"
+msgstr "Only support <strong>.APK/XAPK</strong> file no larger than <strong>{0}Mb</strong>"
+
+msgctxt "[\"APP-DETAILS\"]"
+msgid "App Details"
+msgstr "App Details"
+
+msgctxt "[\"TARGET-OS-VERSION\"]"
+msgid "Target OS version"
+msgstr "Target OS version"
+
+msgctxt "[\"SUPPORTED-SCREENS\"]"
+msgid "Supported screens"
+msgstr "Supported screens"
+
+msgctxt "[\"SUPPORTED-DENSITIES\"]"
+msgid "Supported densities"
+msgstr "Supported densities"
+
+msgctxt "[\"SUPPORTED-ARCHITECTURES\"]"
+msgid "Supported architectures"
+msgstr "Supported architectures"
+
+msgctxt "[\"FEATURES-AND-PERMISSIONS\"]"
+msgid "Features and Permissions"
+msgstr "Features and Permissions"
+
+msgctxt "[\"DETAILS-PERMISSIONS\"]"
+msgid "Permissions"
+msgstr "Permissions"
+
+msgctxt "[\"DETAILS-USES-FEATURES\"]"
+msgid "Uses features"
+msgstr "Uses features"
+
+msgctxt "[\"LANGUAGE\"]"
+msgid "Language"
+msgstr "Language"
+
+msgctxt "[\"LANGUAGE-KR\"]"
+msgid "Korean"
+msgstr "Korean"
+
+msgctxt "[\"LANGUAGE-AR\"]"
+msgid "Arabic"
+msgstr "Arabic"
+
+msgctxt "[\"LANGUAGE-EN\"]"
+msgid "English"
+msgstr "English"
+
+msgctxt "[\"LANGUAGE-ES\"]"
+msgid "Spanish"
+msgstr "Spanish"
+
+msgctxt "[\"LANGUAGE-FR\"]"
+msgid "French"
+msgstr "French"
+
+msgctxt "[\"LANGUAGE-IN\"]"
+msgid "Hindi"
+msgstr "Hindi"
+
+msgctxt "[\"LANGUAGE-ID\"]"
+msgid "Indonesian"
+msgstr "Indonesian"
+
+msgctxt "[\"LANGUAGE-IT\"]"
+msgid "Italian"
+msgstr "Italian"
+
+msgctxt "[\"LANGUAGE-JP\"]"
+msgid "Japanese"
+msgstr "Japanese"
+
+msgctxt "[\"LANGUAGE-DE\"]"
+msgid "German"
+msgstr "German"
+
+msgctxt "[\"LANGUAGE-NL\"]"
+msgid "Dutch"
+msgstr "Dutch"
+
+msgctxt "[\"LANGUAGE-PL\"]"
+msgid "Polish"
+msgstr "Polish"
+
+msgctxt "[\"LANGUAGE-BR\"]"
+msgid "Portuguese"
+msgstr "Portuguese"
+
+msgctxt "[\"LANGUAGE-RU\"]"
+msgid "Russian"
+msgstr "Russian"
+
+msgctxt "[\"LANGUAGE-TR\"]"
+msgid "Turkish"
+msgstr "Turkish"
+
+msgctxt "[\"LANGUAGE-VN\"]"
+msgid "Vietnamese"
+msgstr "Vietnamese"
+
+msgctxt "[\"LANGUAGE-CN\"]"
+msgid "Chinese Simplified"
+msgstr "Chinese Simplified"
+
+msgctxt "[\"LANGUAGE-TW\"]"
+msgid "traditional Chinese"
+msgstr "traditional Chinese"
+
 msgctxt "[\"REVIEW_PRIVACY_POLICY_DES_M\"]"
 msgid "We encourage you to read our updated <a target='_blank' href='{pp}'>Privacy Policy</a> and <a target='_blank' href='{cp}'>Cookies Policy</a>."
 msgstr "We encourage you to read our updated <a target='_blank' href='{pp}'>Privacy Policy</a> and <a target='_blank' href='{cp}'>Cookies Policy</a>."
@@ -1753,6 +1953,10 @@ msgstr "Download failed, please try again in 5 minutes."
 msgctxt "[\"tip\"][\"SHORT_NAME\"]"
 msgid "{0}"
 msgstr "{0}"
+
+msgctxt "[\"tip\"][\"DEVELOPER_ICON\"]"
+msgid "{0} Icon"
+msgstr "{0} Icon"
 
 msgctxt "[\"tip\"][\"VERSION\"]"
 msgid "Download {app_short_name} v{version_name} for android"
@@ -1850,41 +2054,25 @@ msgctxt "[\"tip\"][\"DOWNLOAD_APK\"]"
 msgid "Download APK"
 msgstr "Download APK"
 
-msgctxt "[\"js\"][\"LANG_TIP\"][\"fr\"]"
-msgid "Voulez-vous changer votre langue préférée à <strong> français </strong>?"
-msgstr "Voulez-vous changer votre langue préférée à <strong> français </strong>?"
+msgctxt "[\"js\"][\"LANG_TIP\"][\"kr\"]"
+msgid "원하는 언어를 <strong> 한국어 </strong>로 변경 하시겠습니까?"
+msgstr "원하는 언어를 <strong> 한국어 </strong>로 변경 하시겠습니까?"
 
-msgctxt "[\"js\"][\"LANG_TIP\"][\"tr\"]"
-msgid "Tercih ettiğiniz dili <strong> Türkiye </strong> olarak değiştirmek istiyor musunuz?"
-msgstr "Tercih ettiğiniz dili <strong> Türkiye </strong> olarak değiştirmek istiyor musunuz?"
+msgctxt "[\"js\"][\"LANG_IGNORE\"][\"kr\"]"
+msgid "무시"
+msgstr "무시"
 
-msgctxt "[\"js\"][\"LANG_TIP\"][\"nl\"]"
-msgid "Wilt u uw voorkeurstaal naar <strong>Nederlands</strong> veranderen?"
-msgstr "Wilt u uw voorkeurstaal naar <strong>Nederlands</strong> veranderen?"
+msgctxt "[\"js\"][\"LANG_OK\"][\"kr\"]"
+msgid "승인"
+msgstr "승인"
 
-msgctxt "[\"js\"][\"LANG_IGNORE\"][\"fr\"]"
-msgid "Ignorer"
-msgstr "Ignorer"
+msgctxt "[\"js\"][\"UPLOAD-TIMED_OUT\"]"
+msgid "File parsing timed out. (Error code: 10003)"
+msgstr "File parsing timed out. (Error code: 10003)"
 
-msgctxt "[\"js\"][\"LANG_IGNORE\"][\"tr\"]"
-msgid "Aldırmamak"
-msgstr "Aldırmamak"
-
-msgctxt "[\"js\"][\"LANG_IGNORE\"][\"nl\"]"
-msgid "Negeren"
-msgstr "Negeren"
-
-msgctxt "[\"js\"][\"LANG_OK\"][\"fr\"]"
-msgid "D'accord"
-msgstr "D'accord"
-
-msgctxt "[\"js\"][\"LANG_OK\"][\"tr\"]"
-msgid "tamam"
-msgstr "tamam"
-
-msgctxt "[\"js\"][\"LANG_OK\"][\"nl\"]"
-msgid "OK"
-msgstr "OK"
+msgctxt "[\"js\"][\"UPLOAD-LIMIT_SIZE\"]"
+msgid "The file size cannot exceed {0}."
+msgstr "The file size cannot exceed {0}."
 
 msgctxt "[\"js\"][\"SIGN_VERIFY-OFFICIAL\"]"
 msgid "[Official] This {0} APK is the unmodified official version."
@@ -1953,6 +2141,10 @@ msgstr "Uploaded {0}%"
 msgctxt "[\"js\"][\"UPLOADING\"]"
 msgid "Uploading..."
 msgstr "Uploading..."
+
+msgctxt "[\"js\"][\"UPLOAD-APK-FILE\"]"
+msgid "Upload the apk file"
+msgstr "Upload the apk file"
 
 msgctxt "[\"js\"][\"VALIDATING\"]"
 msgid "Validating..."
@@ -2175,8 +2367,8 @@ msgid "android apps, android games, must have android games, must have android a
 msgstr "android apps, android games, must have android games, must have android apps, game download"
 
 msgctxt "[\"meta\"][\"Category_featured_editors-picks\"][\"description\"]"
-msgid "Play with millions of free apps in APKPure style on Android phones, tablets, TV ,etc. Download the best must have android games you should play 2019."
-msgstr "Play with millions of free apps in APKPure style on Android phones, tablets, TV ,etc. Download the best must have android games you should play 2019."
+msgid "Play with millions of free apps in APKPure style on Android phones, tablets, TV ,etc. Download the best must have android games you should play 2020."
+msgstr "Play with millions of free apps in APKPure style on Android phones, tablets, TV ,etc. Download the best must have android games you should play 2020."
 
 msgctxt "[\"meta\"][\"Category_app\"][\"title\"]"
 msgid "Download {0} APK Android App Online - Free Pure APK Downloader"
@@ -2215,16 +2407,20 @@ msgid "{0}"
 msgstr "{0}"
 
 msgctxt "[\"meta\"][\"Developer\"][\"title\"]"
-msgid "All {0} free Android apps apk download | APKPure.com"
-msgstr "All {0} free Android apps apk download | APKPure.com"
+msgid "All {developer} free Android apps apk download | APKPure.com"
+msgstr "All {developer} free Android apps apk download | APKPure.com"
 
 msgctxt "[\"meta\"][\"Developer\"][\"keywords\"]"
-msgid "{0} apk download, download {0} free app, {0} games for android,  {0} games app list, {0} app update, {0} app apk downloader"
-msgstr "{0} apk download, download {0} free app, {0} games for android,  {0} games app list, {0} app update, {0} app apk downloader"
+msgid "{developer} apk download, download {developer} free app, {developer} games for android,  {developer} games app list, {developer} app update, {developer} app apk downloader"
+msgstr "{developer} apk download, download {developer} free app, {developer} games for android,  {developer} games app list, {developer} app update, {developer} app apk downloader"
 
 msgctxt "[\"meta\"][\"Developer\"][\"description\"]"
-msgid "All Apps or Games Published by \"{0}\""
-msgstr "All Apps or Games Published by \"{0}\""
+msgid "All Apps or Games Published by \"{developer}\""
+msgstr "All Apps or Games Published by \"{developer}\""
+
+msgctxt "[\"meta\"][\"Developer\"][\"description_new\"]"
+msgid "{description}, All Apps or Games Published by \"{developer}\""
+msgstr "{description}, All Apps or Games Published by \"{developer}\""
 
 msgctxt "[\"meta\"][\"Tag\"][\"title\"]"
 msgid "Tag {0} - APKPure"
@@ -2286,6 +2482,26 @@ msgctxt "[\"meta\"][\"Verify\"][\"description\"]"
 msgid "APK Signature verification will verify Android app package signature to keep Android users away from potentially harmful APK files before APK installing."
 msgstr "APK Signature verification will verify Android app package signature to keep Android users away from potentially harmful APK files before APK installing."
 
+msgctxt "[\"meta\"][\"Upload\"][\"title\"]"
+msgid "Submit your Android Apps and games - Upload .APK File (Android App) at APKPure"
+msgstr "Submit your Android Apps and games - Upload .APK File (Android App) at APKPure"
+
+msgctxt "[\"meta\"][\"Upload\"][\"description\"]"
+msgid "Free to play games, free to use Android apps publishing submission on APKPure.com"
+msgstr "Free to play games, free to use Android apps publishing submission on APKPure.com"
+
+msgctxt "[\"meta\"][\"Apk_detail\"][\"title\"]"
+msgid "Apk detail"
+msgstr "Apk detail"
+
+msgctxt "[\"meta\"][\"Apk_detail\"][\"keywords\"]"
+msgid "Apk detail"
+msgstr "Apk detail"
+
+msgctxt "[\"meta\"][\"Apk_detail\"][\"description\"]"
+msgid "Apk detail web"
+msgstr "Apk detail web"
+
 msgctxt "[\"meta\"][\"Download\"][\"title\"]"
 msgid "Region free APK download daily update apps and games"
 msgstr "Region free APK download daily update apps and games"
@@ -2321,6 +2537,10 @@ msgstr "app category,game category"
 msgctxt "[\"meta\"][\"Category\"][\"description\"]"
 msgid "Android games and apps category"
 msgstr "Android games and apps category"
+
+msgctxt "[\"meta\"][\"Editor_choice\"][\"title\"]"
+msgid "Editor's Choice | APKPure.com"
+msgstr "Editor's Choice | APKPure.com"
 
 msgctxt "[\"meta\"][\"Topics\"][\"title\"]"
 msgid "Topics | APKPure.com"
@@ -2705,3 +2925,39 @@ msgstr "Drugs"
 msgctxt "[\"content_rating\"][\"Mild Language\"]"
 msgid "Mild Language"
 msgstr "Mild Language"
+
+msgctxt "[\"xapk\"][\"APK_OBB\"]"
+msgid "The XAPK (APK + OBB data) File, How to Install .XAPK File?"
+msgstr "The XAPK (APK + OBB data) File, How to Install .XAPK File?"
+
+msgctxt "[\"xapk\"][\"SPLIT_APKS\"]"
+msgid "The XAPK (Base APK + Split APKs) File, How to Install .XAPK File?"
+msgstr "The XAPK (Base APK + Split APKs) File, How to Install .XAPK File?"
+
+msgctxt "[\"xapk\"][\"APKs_AND_OBB\"]"
+msgid "The XAPK (Base APK + Split APKs + OBB data) File, How to Install .XAPK File?"
+msgstr "The XAPK (Base APK + Split APKs + OBB data) File, How to Install .XAPK File?"
+
+msgctxt "[\"xapk\"][\"APK_OBB_MOB_DOWN\"]"
+msgid "The XAPK (APK + OBB data) File, How to Install .XAPK File?"
+msgstr "The XAPK (APK + OBB data) File, How to Install .XAPK File?"
+
+msgctxt "[\"xapk\"][\"SPLIT_APKS_MOB_DOWN\"]"
+msgid "The XAPK (Base APK + Split APKs) File, How to Install .XAPK File?"
+msgstr "The XAPK (Base APK + Split APKs) File, How to Install .XAPK File?"
+
+msgctxt "[\"xapk\"][\"APKs_AND_OBB_MOB_DOWN\"]"
+msgid "The XAPK (Base APK + Split APKs + OBB data) File, How to Install .XAPK File?"
+msgstr "The XAPK (Base APK + Split APKs + OBB data) File, How to Install .XAPK File?"
+
+msgctxt "[\"xapk\"][\"SEVERAL_VARIANTS\"]"
+msgid "This release comes in several variants,"
+msgstr "This release comes in several variants,"
+
+msgctxt "[\"xapk\"][\"SEE_AVAILABLE_APKS\"]"
+msgid "See available APKs"
+msgstr "See available APKs"
+
+msgctxt "[\"xapk\"][\"VARIANTS\"]"
+msgid "This release comes in several variants, See available APKs"
+msgstr "This release comes in several variants, See available APKs"
