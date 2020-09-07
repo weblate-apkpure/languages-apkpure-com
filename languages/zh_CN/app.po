@@ -8,7 +8,7 @@ msgstr "应用"
 
 msgctxt "[\"NAV-XAPK\"]"
 msgid "XAPK"
-msgstr "XAPK"
+msgstr ""
 
 msgctxt "[\"NAV-NEW\"]"
 msgid "NEW"
@@ -50,9 +50,17 @@ msgctxt "[\"NAV-APKPURE_APP\"]"
 msgid "APKPure App"
 msgstr "APKPure 客户端"
 
+msgctxt "[\"NAV-Cloud-Phone-Emulator\"]"
+msgid "Cloud Phone Emulator"
+msgstr ""
+
 msgctxt "[\"DOWNLOAD\"]"
 msgid "Download"
 msgstr "下载"
+
+msgctxt "[\"DOWNLOAD_AVAILABLE\"]"
+msgid "Download Variant {0}"
+msgstr ""
 
 msgctxt "[\"FAST_DOWNLOAD\"]"
 msgid "Fast Download"
@@ -74,9 +82,21 @@ msgctxt "[\"SELECT_LANGUAGE\"]"
 msgid "Choose Language"
 msgstr "选择语言"
 
+msgctxt "[\"EDITORS_CHOICE\"]"
+msgid "Editor's Choice"
+msgstr ""
+
 msgctxt "[\"FREE\"]"
 msgid "Free"
 msgstr "免费"
+
+msgctxt "[\"TOP-UPDATED-APPS\"]"
+msgid "Recently Updated Apps"
+msgstr ""
+
+msgctxt "[\"TOP-UPDATED-GAMES\"]"
+msgid "Recently Updated Games"
+msgstr ""
 
 msgctxt "[\"READ_MORE\"]"
 msgid "Read More"
@@ -101,10 +121,6 @@ msgstr "应用"
 msgctxt "[\"MORE\"]"
 msgid "More"
 msgstr "更多"
-
-msgctxt "[\"XAPK\"]"
-msgid "XAPK"
-msgstr "XAPK"
 
 msgctxt "[\"XAPK-GAMES\"]"
 msgid "XAPK Games"
@@ -133,10 +149,6 @@ msgstr "附件"
 msgctxt "[\"DOWNLOADS\"]"
 msgid "Downloads"
 msgstr "下载最多"
-
-msgctxt "[\"DOWNLOADS_ATTACHMENT\"]"
-msgid "Downloads"
-msgstr "下载数"
 
 msgctxt "[\"NEWEST\"]"
 msgid "Newest"
@@ -318,6 +330,10 @@ msgctxt "[\"SUBMITTING\"]"
 msgid "Submitting..."
 msgstr "提交中"
 
+msgctxt "[\"DEV-ICON_SIZE_ERROR\"]"
+msgid "You need to resize your high-res icon. The required dimensions are 512px * 512px."
+msgstr ""
+
 msgctxt "[\"DEV-ICON_TYPE_AND_SIZE_MSG\"]"
 msgid "The icon should be<br>- PNG <br>- limited to 1024KB"
 msgstr "图标应为<br>- PNG 文件<br>- 最大文件大小: 1024KB"
@@ -333,6 +349,14 @@ msgstr "描述最多 4000 个字符。"
 msgctxt "[\"DEV-APK_DESCRIPTION_SHORT_ERROR_MSG\"]"
 msgid "The short description is limited to 80 characters."
 msgstr "短描述最多 80 个字符。"
+
+msgctxt "[\"DEV-BANNER_SIZE_ERROR\"]"
+msgid "You need to resize your feature graphic. The required dimensions are 1024px * 500px."
+msgstr ""
+
+msgctxt "[\"DEV-DEV_BANNER_SIZE_ERROR\"]"
+msgid "You need to resize your graphic. The required dimension is 4096px * 2304px."
+msgstr ""
 
 msgctxt "[\"DEV-INCORRECT_PKG_EMAIL\"]"
 msgid "Invalid package name or email"
@@ -409,10 +433,6 @@ msgstr "XAPK 是包含 obb 数据及 APK 的可安装文件格式, 点击下载X
 msgctxt "[\"DETAIL-MOBILE_XAPK_SHORT_DES\"]"
 msgid "Click to get XAPK Installer"
 msgstr "点击下载XAPK安装器"
-
-msgctxt "[\"DETAIL-CATEGORY\"]"
-msgid "Category"
-msgstr "类别"
 
 msgctxt "[\"DETAIL-LATEST_VERSION\"]"
 msgid "Latest Version"
@@ -494,10 +514,6 @@ msgctxt "[\"DETAIL-MORE_FROM\"]"
 msgid "More From {0}"
 msgstr "{0}的其他应用"
 
-msgctxt "[\"DETAIL-COMMENTS\"]"
-msgid "Comments"
-msgstr "用户评论"
-
 msgctxt "[\"DETAIL-FOLLOW_UPDATES\"]"
 msgid "Follow Updates"
 msgstr "订阅更新"
@@ -554,9 +570,13 @@ msgctxt "[\"DETAIL-MORE_DOWNLOAD\"]"
 msgid "More Download Locations:"
 msgstr "其他下载地址:"
 
-msgctxt "[\"DETAIL_DOWNLOAD-NAV_DOWNLOAD\"]"
-msgid "Download"
-msgstr "下载"
+msgctxt "[\"DETAIL-DELETED_COPYRIGHT_GOOGLE_PLAY_URL\"]"
+msgid "Download on Google Play"
+msgstr ""
+
+msgctxt "[\"DETAIL-DELETED_COPYRIGHT_GOOGLE_PLAY_DES\"]"
+msgid "{app_name} All rights reserved ©2020 {developer}. {developer} and the {developer} logo are trademarks of {developer} in the U.S. and/or other countries.All other trademarks are the property of their respective owners."
+msgstr ""
 
 msgctxt "[\"DETAIL_DOWNLOAD-DOWNLOADING\"]"
 msgid "Downloading"
@@ -597,6 +617,38 @@ msgstr "所有版本"
 msgctxt "[\"VERSION-REQUIRES_ANDROID\"]"
 msgid "Requires Android"
 msgstr "Android系统版本要求"
+
+msgctxt "[\"VARIANT-VARIANTS\"]"
+msgid "{0} Variants"
+msgstr ""
+
+msgctxt "[\"VARIANT-VARIANTS_TIT\"]"
+msgid "Variants"
+msgstr ""
+
+msgctxt "[\"VARIANT-VARIANT\"]"
+msgid "Variant"
+msgstr ""
+
+msgctxt "[\"VARIANT-ARCHITECTURE\"]"
+msgid "Architecture"
+msgstr ""
+
+msgctxt "[\"VARIANT-MINIMUM\"]"
+msgid "Minimum Version"
+msgstr ""
+
+msgctxt "[\"VARIANT-SCREEN_DPI\"]"
+msgid "Screen DPI"
+msgstr ""
+
+msgctxt "[\"VARIANT-ARCH\"]"
+msgid "Arch"
+msgstr ""
+
+msgctxt "[\"VARIANT-DPI\"]"
+msgid "DPI"
+msgstr ""
 
 msgctxt "[\"COMMENT-REVIEWS_TOTAL\"]"
 msgid "Total Reviews:"
@@ -662,25 +714,13 @@ msgctxt "[\"COMMENT-VIEWS\"]"
 msgid "Views"
 msgstr "浏览次数"
 
-msgctxt "[\"COMMENT-REPORT\"]"
-msgid "Report"
-msgstr "举报"
-
 msgctxt "[\"COMMENT-COLLAPSED\"]"
 msgid "comment collapsed"
 msgstr "已折叠"
 
-msgctxt "[\"COMMENT-POST\"]"
-msgid "Post"
-msgstr "提交"
-
 msgctxt "[\"COMMENT-REVIEW_OR_POST\"]"
 msgid "Post review or comment"
 msgstr "提交评价或评论"
-
-msgctxt "[\"COMMENT-COMMENTS\"]"
-msgid "Comments"
-msgstr "用户评论"
 
 msgctxt "[\"COMMENT-REPLY\"]"
 msgid "Reply"
@@ -693,14 +733,6 @@ msgstr "名称"
 msgctxt "[\"COMMENT-EMAIL\"]"
 msgid "Email"
 msgstr "电子邮件"
-
-msgctxt "[\"COMMENT-SORT_BY_NEWEST\"]"
-msgid "Newest"
-msgstr "最新评论"
-
-msgctxt "[\"COMMENT-SORT_BY_NEW\"]"
-msgid "Newest"
-msgstr "最新"
 
 msgctxt "[\"COMMENT-SORT_BY_OLDEST\"]"
 msgid "Oldest"
@@ -938,10 +970,6 @@ msgctxt "[\"USER-INFO_STORY\"]"
 msgid "Story"
 msgstr "图文"
 
-msgctxt "[\"USER-INFO_POST\"]"
-msgid "Post"
-msgstr "动态"
-
 msgctxt "[\"USER-SAY_SOMETHING\"]"
 msgid "Why do you want to delete this account?"
 msgstr "您为什么要删除此帐户？"
@@ -990,10 +1018,6 @@ msgctxt "[\"USER-FAVORITES\"]"
 msgid "Favorites"
 msgstr "收藏"
 
-msgctxt "[\"USER-REPLIES\"]"
-msgid "Replies"
-msgstr "回复"
-
 msgctxt "[\"USER-PROFILE\"]"
 msgid "Profile"
 msgstr "个人资料"
@@ -1005,10 +1029,6 @@ msgstr "修改密码"
 msgctxt "[\"USER-MESSAGES\"]"
 msgid "Messages"
 msgstr "我的消息"
-
-msgctxt "[\"USER-COMMENTS\"]"
-msgid "Comments"
-msgstr "我的评论"
 
 msgctxt "[\"USER-MY_FAVORITE\"]"
 msgid "My Favorite"
@@ -1254,17 +1274,13 @@ msgctxt "[\"SIGN_VERIFY-PACKAGE_NAME\"]"
 msgid "Package Name"
 msgstr "包名"
 
-msgctxt "[\"SIGN_VERIFY-SIGNATURE\"]"
-msgid "Signature"
-msgstr "签名"
-
-msgctxt "[\"SIGN_VERIFY-FILE_SHA1\"]"
-msgid "File SHA1"
-msgstr "文件SHA1"
-
 msgctxt "[\"SIGN_VERIFY-FILE_SIZE\"]"
 msgid "File Size"
 msgstr "文件大小"
+
+msgctxt "[\"SEARCH-ON_THE_APP_STORE\"]"
+msgid "{0} On the App Store"
+msgstr ""
 
 msgctxt "[\"SEARCH-ADVANCED_SEARCH\"]"
 msgid "Advanced Search"
@@ -1322,10 +1338,6 @@ msgctxt "[\"SEARCH-FEATURED_HASHTAG\"]"
 msgid "Featured hashtags"
 msgstr "精选话题"
 
-msgctxt "[\"SEARCH-TAB_APPS\"]"
-msgid "Apps"
-msgstr "应用"
-
 msgctxt "[\"SEARCH-TAB_USERS\"]"
 msgid "Users"
 msgstr "用户"
@@ -1333,10 +1345,6 @@ msgstr "用户"
 msgctxt "[\"SEARCH-TAB_HASHTAGS\"]"
 msgid "Hashtags"
 msgstr "话题"
-
-msgctxt "[\"SEARCH-TAB_COMMENTS\"]"
-msgid "Posts"
-msgstr "帖子"
 
 msgctxt "[\"SEARCH-NO_RESULTS\"]"
 msgid "Sorry, no results found."
@@ -1349,14 +1357,6 @@ msgstr "哇！"
 msgctxt "[\"404-Error_404\"]"
 msgid "Error 404!"
 msgstr "404了！"
-
-msgctxt "[\"PRE-REG-NEW\"]"
-msgid "Newest"
-msgstr "最新"
-
-msgctxt "[\"PRE-REG-BEST\"]"
-msgid "Best"
-msgstr "最热"
 
 msgctxt "[\"PRE-REG-RECOMMEND\"]"
 msgid "Recommendations"
@@ -1386,13 +1386,13 @@ msgctxt "[\"SEARCHING\"]"
 msgid "Searching..."
 msgstr "搜索中..."
 
+msgctxt "[\"FOOTER-APK_DOWNLOADS_SEO\"]"
+msgid "APK Downloads"
+msgstr ""
+
 msgctxt "[\"FOOTER-APK_DOWNLOAD\"]"
 msgid "APK Downloader (Region free)"
 msgstr "APK 下载工具"
-
-msgctxt "[\"FOOTER-APK_INSTALL\"]"
-msgid "APK Install"
-msgstr "APK 安装工具"
 
 msgctxt "[\"FOOTER-APK_SIGNATURE_VERIFICATION\"]"
 msgid "APK Signature Verification"
@@ -1407,10 +1407,6 @@ msgid "Privacy Policy"
 msgstr "隐私政策"
 
 msgctxt "[\"FOOTER-DMCA\"]"
-msgid "DMCA Disclaimer"
-msgstr "DMCA"
-
-msgctxt "[\"FOOTER-DMCA_TITLE\"]"
 msgid "DMCA Disclaimer"
 msgstr "DMCA"
 
@@ -1450,6 +1446,10 @@ msgctxt "[\"FOOTER-ABOUT\"]"
 msgid "About Us"
 msgstr "关于我们"
 
+msgctxt "[\"FOOTER-UPLOAD-APK\"]"
+msgid "Submit APK"
+msgstr ""
+
 msgctxt "[\"FOOTER-SOLUTIONS\"]"
 msgid "SOLUTIONS"
 msgstr "产品相关"
@@ -1485,10 +1485,6 @@ msgstr "开发者平台"
 msgctxt "[\"FOOTER-COOPERATION\"]"
 msgid "Business Cooperation"
 msgstr "商务合作"
-
-msgctxt "[\"FOOTER-XAPK\"]"
-msgid "XAPK"
-msgstr "XAPK"
 
 msgctxt "[\"FOOTER-REPORT_ABUSE\"]"
 msgid "Report abuse"
@@ -1562,14 +1558,6 @@ msgctxt "[\"MARKET-DETAIL_XAPK_SHORT_DES\"]"
 msgid "Install and update XAPK with APKPure App"
 msgstr "使用 APKPure 客户端升级安装 XAPK"
 
-msgctxt "[\"MARKET-DETAIL_XAPK_SHORT_DES_MOBILE\"]"
-msgid "Click to get XAPK Installer"
-msgstr "点击下载 XAPK 安装器"
-
-msgctxt "[\"MARKET-DETAIL_XAPK_SHORT_DES_TITLE\"]"
-msgid "Install and update XAPK with APKPure App"
-msgstr "使用 APKPure 客户端升级安装 XAPK"
-
 msgctxt "[\"MARKET-INDEX_BANNER_TITLE\"]"
 msgid "APKPure APP"
 msgstr "APKPure 客户端"
@@ -1577,10 +1565,6 @@ msgstr "APKPure 客户端"
 msgctxt "[\"MARKET-INDEX_BANNER_DES\"]"
 msgid "Install,manage and update your apps"
 msgstr "免费下载，更新升级安卓游戏及应用"
-
-msgctxt "[\"MARKET-BOTTOM_BANNER_TITLE\"]"
-msgid "APKPure App"
-msgstr "APKPure 客户端"
 
 msgctxt "[\"MARKET-BOTTOM_BANNER_DES\"]"
 msgid "Try APKPure App - Download, update and install apks on your Android."
@@ -1650,10 +1634,6 @@ msgctxt "[\"FLAG-Rest_of_the_world\"]"
 msgid "Rest of the world"
 msgstr "世界其它地区"
 
-msgctxt "[\"ERROR-OOPS\"]"
-msgid "OOPS!,"
-msgstr ":("
-
 msgctxt "[\"ERROR-SUBTITLE\"]"
 msgid "You can visit the following Games and Apps instead"
 msgstr "试试搜索其他安卓应用，或者看看大家在下载什么。"
@@ -1665,6 +1645,50 @@ msgstr "评论推荐"
 msgctxt "[\"USERS-RECOMMENDED\"]"
 msgid "Users' Recommendations"
 msgstr "用户推荐"
+
+msgctxt "[\"UPLOAD-YOUR-APP\"]"
+msgid "Upload Your Application"
+msgstr ""
+
+msgctxt "[\"UPLOAD-APK-FILE\"]"
+msgid "Upload the apk file"
+msgstr ""
+
+msgctxt "[\"UPLOAD-APK-FILE-PROMPT\"]"
+msgid "Only support <strong>.APK/XAPK</strong> file no larger than <strong>{0}Mb</strong>"
+msgstr ""
+
+msgctxt "[\"APP-DETAILS\"]"
+msgid "App Details"
+msgstr ""
+
+msgctxt "[\"TARGET-OS-VERSION\"]"
+msgid "Target OS version"
+msgstr ""
+
+msgctxt "[\"SUPPORTED-SCREENS\"]"
+msgid "Supported screens"
+msgstr ""
+
+msgctxt "[\"SUPPORTED-DENSITIES\"]"
+msgid "Supported densities"
+msgstr ""
+
+msgctxt "[\"SUPPORTED-ARCHITECTURES\"]"
+msgid "Supported architectures"
+msgstr ""
+
+msgctxt "[\"FEATURES-AND-PERMISSIONS\"]"
+msgid "Features and Permissions"
+msgstr ""
+
+msgctxt "[\"DETAILS-PERMISSIONS\"]"
+msgid "Permissions"
+msgstr ""
+
+msgctxt "[\"DETAILS-USES-FEATURES\"]"
+msgid "Uses features"
+msgstr ""
 
 msgctxt "[\"LANGUAGE\"]"
 msgid "Language"
@@ -1742,6 +1766,22 @@ msgctxt "[\"LANGUAGE-TW\"]"
 msgid "traditional Chinese"
 msgstr "中文繁体"
 
+msgctxt "[\"REVIEW_PRIVACY_POLICY_DES_M\"]"
+msgid "We encourage you to read our updated <a target='_blank' href='{pp}'>Privacy Policy</a> and <a target='_blank' href='{cp}'>Cookies Policy</a>."
+msgstr ""
+
+msgctxt "[\"REVIEW_PRIVACY_POLICY_DES\"]"
+msgid "We use cookies and other technologies on this website to enhance your user experience.<br> By clicking any link on this page you are giving your consent to our <a target='_blank' href='{pp}'>Privacy Policy</a> and <a target='_blank' href='{cp}'>Cookies Policy</a>."
+msgstr ""
+
+msgctxt "[\"REVIEW_PRIVACY_POLICY_BTN\"]"
+msgid "Ok I Agree"
+msgstr ""
+
+msgctxt "[\"REVIEW_PRIVACY_POLICY_MORE\"]"
+msgid "Learn More"
+msgstr ""
+
 msgctxt "[\"MARKET-TOP_COUNTRY\"][\"en-US\"]"
 msgid "USA"
 msgstr "美国"
@@ -1786,10 +1826,6 @@ msgctxt "[\"error\"][\"DOWN-UnknownError\"]"
 msgid "Download failed because of an unknown error. We will fix this problem soon."
 msgstr "未知错误，我们将尽快修复此问题。"
 
-msgctxt "[\"error\"][\"DOWN-LimitedCarrier\"]"
-msgid "Download failed because of an unknown error. We will fix this problem soon."
-msgstr "未知错误，我们将尽快修复此问题。"
-
 msgctxt "[\"error\"][\"DOWN-PreRegister\"]"
 msgid "It's a Pre-registration App, you can't download."
 msgstr "这是一个预注册应用，试试更改区域？"
@@ -1798,9 +1834,21 @@ msgctxt "[\"error\"][\"DOWN-RunOutOfDevice\"]"
 msgid "Download failed, please try again in 5 minutes."
 msgstr "请求量过大，请5分钟后再试。"
 
+msgctxt "[\"tip\"][\"SHORT_NAME\"]"
+msgid "{0}"
+msgstr ""
+
+msgctxt "[\"tip\"][\"DEVELOPER_ICON\"]"
+msgid "{0} Icon"
+msgstr ""
+
 msgctxt "[\"tip\"][\"VERSION\"]"
 msgid "Download {app_short_name} v{version_name} for android"
 msgstr "下载{app_short_name}安卓版 v {version_name}"
+
+msgctxt "[\"tip\"][\"VERSION_VARIANT\"]"
+msgid "Download {app_short_name} v{version_name} build variants in android"
+msgstr ""
 
 msgctxt "[\"tip\"][\"ICON\"]"
 msgid "{0} icon"
@@ -1809,6 +1857,10 @@ msgstr "{0} 图标"
 msgctxt "[\"tip\"][\"PREVIOUS_VERSIONS\"]"
 msgid "{0} Previous Versions"
 msgstr "{0}历史版本"
+
+msgctxt "[\"tip\"][\"LIST_ICON\"]"
+msgid "{0} APK"
+msgstr ""
 
 msgctxt "[\"tip\"][\"LIST_DOWN\"]"
 msgid "Download {0} latest version apk"
@@ -1821,6 +1873,10 @@ msgstr "下载 {0} 最新版 xapk"
 msgctxt "[\"tip\"][\"VERSION_DOWN\"]"
 msgid "Download {app_name} {version_name} ({version_code}) {file_type}"
 msgstr "下载 {app_name} {version_name} ({version_code}) {file_type}"
+
+msgctxt "[\"tip\"][\"VERSION_VARIANT_DOWN\"]"
+msgid "Download {app_name} {version_name} variant {file_type}"
+msgstr ""
 
 msgctxt "[\"tip\"][\"RATING\"]"
 msgid "{app_name} average rating {rating_average}"
@@ -1874,9 +1930,17 @@ msgctxt "[\"tip\"][\"HOT_ANDROID_APP\"]"
 msgid "hot android app apk"
 msgstr "热门安卓应用"
 
-msgctxt "[\"tip\"][\"DOWNLOAD_APK\"]"
-msgid "Download APK"
-msgstr "下载APK"
+msgctxt "[\"js\"][\"LANG_TIP\"][\"kr\"]"
+msgid "원하는 언어를 <strong> 한국어 </strong>로 변경 하시겠습니까?"
+msgstr ""
+
+msgctxt "[\"js\"][\"LANG_IGNORE\"][\"kr\"]"
+msgid "무시"
+msgstr ""
+
+msgctxt "[\"js\"][\"LANG_OK\"][\"kr\"]"
+msgid "승인"
+msgstr ""
 
 msgctxt "[\"js\"][\"UPLOAD-TIMED_OUT\"]"
 msgid "File parsing timed out. (Error code: 10003)"
@@ -1910,10 +1974,6 @@ msgctxt "[\"js\"][\"SIGN_VERIFY-UNSAFE\"]"
 msgid "unsafe"
 msgstr "不安全"
 
-msgctxt "[\"js\"][\"SIGN_VERIFY-CLICK_UPLOAD\"]"
-msgid "Click Upload APK file"
-msgstr "点击上传APK文件"
-
 msgctxt "[\"js\"][\"REGION_DOWN-REGION_ERROR\"]"
 msgid "Package name or region error , try again"
 msgstr "包名错误或区域选择错误，请选择后重新尝试"
@@ -1930,21 +1990,9 @@ msgctxt "[\"js\"][\"REGION_DOWN-DOWNLOADING\"]"
 msgid "Downloading, please wait..."
 msgstr "下载中，请稍后..."
 
-msgctxt "[\"js\"][\"SHOW_MORE\"]"
-msgid "Show More"
-msgstr "更多"
-
-msgctxt "[\"js\"][\"SHOW_LESS\"]"
-msgid "Show less"
-msgstr "收起"
-
 msgctxt "[\"js\"][\"LOADING\"]"
 msgid "loading..."
 msgstr "加载中..."
-
-msgctxt "[\"js\"][\"DOWNLOAD_APK\"]"
-msgid "Download APK"
-msgstr "下载APK"
 
 msgctxt "[\"js\"][\"UPLOADED\"]"
 msgid "Uploaded {0}%"
@@ -1961,10 +2009,6 @@ msgstr "验证中..."
 msgctxt "[\"js\"][\"FILE_UPLOAD_FAILED\"]"
 msgid "File upload failed!"
 msgstr "文件上传失败!"
-
-msgctxt "[\"js\"][\"CANCEL\"]"
-msgid "Cancel"
-msgstr "取消"
 
 msgctxt "[\"js\"][\"YOUTUBE_URL\"]"
 msgid "Enter Youtube video URL"
@@ -1986,14 +2030,6 @@ msgctxt "[\"js\"][\"USER-USERNAME_MUST\"]"
 msgid "Username must be 1-20 characters long and special characters are not allowed."
 msgstr "用户名必须为1-20个字符，不允许使用特殊字符。"
 
-msgctxt "[\"js\"][\"USER-INCORRECT_ACCOUNT\"]"
-msgid "The username you entered is invalid."
-msgstr "您输入的用户名无效。"
-
-msgctxt "[\"js\"][\"USER-INCORRECT_PASSWORD\"]"
-msgid "The password you entered is invalid."
-msgstr "您输入的密码无效。"
-
 msgctxt "[\"js\"][\"USER-SAVED_SUCCESS\"]"
 msgid "Saved Successfully"
 msgstr "保存成功"
@@ -2014,29 +2050,9 @@ msgctxt "[\"js\"][\"SUBMISSION_SUCCESS\"]"
 msgid "Submission success."
 msgstr "提交成功"
 
-msgctxt "[\"js\"][\"COMMENT-DELETE\"]"
-msgid "Yes,delete it!"
-msgstr "删除"
-
-msgctxt "[\"js\"][\"COMMENT-DELETED\"]"
-msgid "Deleted!"
-msgstr "已删除！"
-
-msgctxt "[\"js\"][\"COMMENT-ARE_YOU_SURE\"]"
-msgid "Are you sure?"
-msgstr "你确定？"
-
 msgctxt "[\"js\"][\"COMMENT-RATE_MUST\"]"
 msgid "Before writing a review or something, please rate the app first."
 msgstr "发表评价前，请先评星！"
-
-msgctxt "[\"js\"][\"COMMENT-LIKE\"]"
-msgid "Like"
-msgstr "赞"
-
-msgctxt "[\"js\"][\"COMMENT-VOTE\"]"
-msgid "Vote"
-msgstr "投票"
 
 msgctxt "[\"meta\"][\"Index\"][\"title\"]"
 msgid "Download APK free online downloader | APKPure.com"
@@ -2085,6 +2101,14 @@ msgstr "{app_short_name}，下载，旧版本，历史版本，apk, 发布日期
 msgctxt "[\"meta\"][\"Versions\"][\"description\"]"
 msgid "Download {app_short_name} old versions Android APK or update to {app_short_name} latest version. Review {app_short_name} release date, changelog and more."
 msgstr "下载{app_short_name}安卓老版本apk，{app_short_name}最新版更新，查看{app_short_name}发布日期，改动历史信息等。"
+
+msgctxt "[\"meta\"][\"Variants\"][\"title\"]"
+msgid "{app_short_name} {version_name} Build variants in Android - APK Download"
+msgstr ""
+
+msgctxt "[\"meta\"][\"Variants\"][\"keywords\"]"
+msgid ""
+msgstr ""
 
 msgctxt "[\"meta\"][\"Details_download\"][\"title\"]"
 msgid "Download {app_name} {version_name} APK | APKPure.com"
@@ -2146,21 +2170,17 @@ msgctxt "[\"meta\"][\"Category_featured\"][\"title\"]"
 msgid "Download {0} APK Android App Online - Free Pure APK Downloader"
 msgstr "安卓{0}APK在线下载 - APKPure应用商店"
 
-msgctxt "[\"meta\"][\"Category_featured\"][\"keywords\"]"
-msgid "{0}"
-msgstr "下载{0}安卓APK"
-
-msgctxt "[\"meta\"][\"Category_featured\"][\"description\"]"
-msgid "{0}"
-msgstr "下载官方正版安卓{0}"
-
 msgctxt "[\"meta\"][\"Category_featured_editors-picks\"][\"title\"]"
 msgid "APKPure Editors' Picks for the best Android Games & Apps"
 msgstr "编辑推荐 | APKPure.com"
 
-msgctxt "[\"meta\"][\"Category_app\"][\"title\"]"
-msgid "Download {0} APK Android App Online - Free Pure APK Downloader"
-msgstr "在线下载安卓正版{0} - APKPure应用市场"
+msgctxt "[\"meta\"][\"Category_featured_editors-picks\"][\"keywords\"]"
+msgid "android apps, android games, must have android games, must have android apps, game download"
+msgstr ""
+
+msgctxt "[\"meta\"][\"Category_featured_editors-picks\"][\"description\"]"
+msgid "Play with millions of free apps in APKPure style on Android phones, tablets, TV ,etc. Download the best must have android games you should play 2020."
+msgstr ""
 
 msgctxt "[\"meta\"][\"Category_app\"][\"keywords\"]"
 msgid "{0} apk download, free {0} download, {0} apk download, download {0} apk, {0} apk downloader, {0} android"
@@ -2169,10 +2189,6 @@ msgstr "安卓版{0}apk下载, 手机{0}最新版下载, 最新版{0}apk升级, 
 msgctxt "[\"meta\"][\"Category_app\"][\"description\"]"
 msgid "Download free and best {0}  for Android phone and tablet with online apk downloader on APKPure.com, including (tool apps, shopping apps, communication apps) and more."
 msgstr "下载最新免费正版安卓{0}，APK在线下载更新 - APKPure应用市场"
-
-msgctxt "[\"meta\"][\"Category_game\"][\"title\"]"
-msgid "Download {0} APK Android App Online - Free Pure APK Downloader"
-msgstr "在线下载安卓正版{0},{0}APK下载升级 - APKPure应用市场"
 
 msgctxt "[\"meta\"][\"Category_game\"][\"keywords\"]"
 msgid "{0} apk download, free {0} download, download {0} apk, {0} apk downloader, {0} android, {0} app download"
@@ -2185,10 +2201,6 @@ msgstr "下载最新免费正版安卓{0}，APK在线下载更新 - APKPure应�
 msgctxt "[\"meta\"][\"FAQ\"][\"title\"]"
 msgid "{0} FAQ | APKPure.com"
 msgstr "{0}问题 | APKPure.com"
-
-msgctxt "[\"meta\"][\"FAQ\"][\"keywords\"]"
-msgid "{0}"
-msgstr "常见问题, 热门问题, 下载问题, APK安装问题"
 
 msgctxt "[\"meta\"][\"Developer\"][\"title\"]"
 msgid "All {developer} free Android apps apk download | APKPure.com"
@@ -2258,9 +2270,21 @@ msgctxt "[\"meta\"][\"Verify\"][\"keywords\"]"
 msgid "apk signature verification, apk signature verify, apk signature checker, apk signature viewer, modified apk, free, online, scanner"
 msgstr "apk签名校验, apk签名, apk签名验证, apk签名校验工具, apk签名查看器, apk修改查看"
 
-msgctxt "[\"meta\"][\"Verify\"][\"description\"]"
-msgid "APK Signature verification will verify Android app package signature to keep Android users away from potentially harmful APK files before APK installing."
-msgstr "APKPure签名校验器可帮助用户在线扫描可疑的APK安装文件。"
+msgctxt "[\"meta\"][\"Upload\"][\"title\"]"
+msgid "Submit your Android Apps and games - Upload .APK File (Android App) at APKPure"
+msgstr ""
+
+msgctxt "[\"meta\"][\"Upload\"][\"description\"]"
+msgid "Free to play games, free to use Android apps publishing submission on APKPure.com"
+msgstr ""
+
+msgctxt "[\"meta\"][\"Apk_detail\"][\"title\"]"
+msgid "Apk detail"
+msgstr ""
+
+msgctxt "[\"meta\"][\"Apk_detail\"][\"description\"]"
+msgid "Apk detail web"
+msgstr ""
 
 msgctxt "[\"meta\"][\"Download\"][\"title\"]"
 msgid "Region free APK download daily update apps and games"
@@ -2282,10 +2306,6 @@ msgctxt "[\"meta\"][\"Error\"][\"keywords\"]"
 msgid "error"
 msgstr "错误"
 
-msgctxt "[\"meta\"][\"Error\"][\"description\"]"
-msgid "error"
-msgstr "错误"
-
 msgctxt "[\"meta\"][\"Category\"][\"title\"]"
 msgid "Browse Category | APKPure.com"
 msgstr "安卓手机游戏APK免费下载,Android手机软件,手机游戏下载 - APKPure应用商店"
@@ -2298,17 +2318,17 @@ msgctxt "[\"meta\"][\"Category\"][\"description\"]"
 msgid "Android games and apps category"
 msgstr "下载最新版安卓游戏，安卓应用APK海量应用免费下载升级。"
 
+msgctxt "[\"meta\"][\"Editor_choice\"][\"title\"]"
+msgid "Editor's Choice | APKPure.com"
+msgstr ""
+
 msgctxt "[\"meta\"][\"Topics\"][\"title\"]"
 msgid "Topics | APKPure.com"
 msgstr "专题 | APKPure.com"
 
-msgctxt "[\"meta\"][\"Topics\"][\"keywords\"]"
-msgid "Topics"
-msgstr "专题"
-
-msgctxt "[\"meta\"][\"Topics\"][\"description\"]"
-msgid "Topics"
-msgstr "专题"
+msgctxt "[\"meta\"][\"Topic\"][\"title\"]"
+msgid "{0} | APKPure.com"
+msgstr ""
 
 msgctxt "[\"meta\"][\"Similar\"][\"title\"]"
 msgid "{app_type} Like {app_short_name}"
@@ -2333,10 +2353,6 @@ msgstr "登录，新用户，账户"
 msgctxt "[\"meta\"][\"Login\"][\"description\"]"
 msgid "To join community group or vote on APKPure App Store, you must be registered. Register your APKPure account today!"
 msgstr "在讨论组发帖或评星前，请先登录你的APKPure账户。今天就加入APKPure吧！"
-
-msgctxt "[\"meta\"][\"Password\"][\"title\"]"
-msgid "Change Password"
-msgstr "修改密码"
 
 msgctxt "[\"meta\"][\"Password\"][\"description\"]"
 msgid "Change or reset my password."
@@ -2378,6 +2394,10 @@ msgctxt "[\"meta\"][\"User\"][\"description\"]"
 msgid "My APKPure AppStore profile and activity page for {user_name}. Join APKPure AppStore to connect with {user_name}."
 msgstr "{user_name}在APKPure的个人主页，加入APKPure与{user_name}一起互动。"
 
+msgctxt "[\"meta\"][\"User_post\"][\"title\"]"
+msgid "{summary} - {user_name} | APKPure"
+msgstr ""
+
 msgctxt "[\"meta\"][\"Profile\"][\"title\"]"
 msgid "{user_name}'s profile on APKPure App Store"
 msgstr "{user_name}的APKPure"
@@ -2393,10 +2413,6 @@ msgstr "APKPure用户注册"
 msgctxt "[\"meta\"][\"Register\"][\"keywords\"]"
 msgid "register, new member, account, registration"
 msgstr "注册，新用户，账户"
-
-msgctxt "[\"meta\"][\"Register\"][\"description\"]"
-msgid "To join community group or vote on APKPure App Store, you must be registered. Register your APKPure account today!"
-msgstr "在讨论组发帖或评星前，请先注册你的APKPure账户。今天就加入APKPure吧！"
 
 msgctxt "[\"meta\"][\"Retrieve_password\"][\"title\"]"
 msgid "Retrieve Password | APKPure"
@@ -2461,10 +2477,6 @@ msgstr "色情"
 msgctxt "[\"content_rating\"][\"Everyone\"]"
 msgid "Everyone"
 msgstr "所有人"
-
-msgctxt "[\"content_rating\"][\"Language\"]"
-msgid "Language"
-msgstr "粗俗用语"
 
 msgctxt "[\"content_rating\"][\"Simulated Gambling\"]"
 msgid "Simulated Gambling"
@@ -2665,3 +2677,27 @@ msgstr "毒品"
 msgctxt "[\"content_rating\"][\"Mild Language\"]"
 msgid "Mild Language"
 msgstr "轻度粗俗用语"
+
+msgctxt "[\"xapk\"][\"APK_OBB\"]"
+msgid "The XAPK (APK + OBB data) File, How to Install .XAPK File?"
+msgstr ""
+
+msgctxt "[\"xapk\"][\"SPLIT_APKS\"]"
+msgid "The XAPK (Base APK + Split APKs) File, How to Install .XAPK File?"
+msgstr ""
+
+msgctxt "[\"xapk\"][\"APKs_AND_OBB\"]"
+msgid "The XAPK (Base APK + Split APKs + OBB data) File, How to Install .XAPK File?"
+msgstr ""
+
+msgctxt "[\"xapk\"][\"SEVERAL_VARIANTS\"]"
+msgid "This release comes in several variants,"
+msgstr ""
+
+msgctxt "[\"xapk\"][\"SEE_AVAILABLE_APKS\"]"
+msgid "See available APKs"
+msgstr ""
+
+msgctxt "[\"xapk\"][\"VARIANTS\"]"
+msgid "This release comes in several variants, See available APKs"
+msgstr ""
