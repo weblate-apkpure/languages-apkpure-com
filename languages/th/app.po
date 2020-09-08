@@ -1,3 +1,19 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-09-09 05:10+0000\n"
+"PO-Revision-Date: 2020-09-09 05:10+0000\n"
+"Last-Translator: leao mett <leaomett@gmail.com>\n"
+"Language-Team: Thai <https://translate.apkpure.com/projects/apkpure/"
+"apkpurecom/th/>\n"
+"Language: th\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 4.2.2\n"
+
 msgctxt "[\"NAV-GAME\"]"
 msgid "GAMES"
 msgstr "เกม"
@@ -36,7 +52,7 @@ msgstr "แอป XAPK"
 
 msgctxt "[\"NAV-APK_INSTALL\"]"
 msgid "APK Install"
-msgstr ""
+msgstr "ติดตั้ง APK"
 
 msgctxt "[\"NAV-APK_DOWNLOAD\"]"
 msgid "APK Download"
@@ -50,9 +66,10 @@ msgctxt "[\"NAV-APKPURE_APP\"]"
 msgid "APKPure App"
 msgstr "แอพ APKPure"
 
+#, fuzzy
 msgctxt "[\"NAV-Cloud-Phone-Emulator\"]"
 msgid "Cloud Phone Emulator"
-msgstr ""
+msgstr "Cloud Phone Emulator"
 
 msgctxt "[\"DOWNLOAD\"]"
 msgid "Download"
@@ -84,7 +101,7 @@ msgstr "เลือกภาษา"
 
 msgctxt "[\"EDITORS_CHOICE\"]"
 msgid "Editor's Choice"
-msgstr ""
+msgstr "ทางเลือกของบรรณาธิการ"
 
 msgctxt "[\"FREE\"]"
 msgid "Free"
@@ -116,7 +133,7 @@ msgstr "เกมส์"
 
 msgctxt "[\"APPS\"]"
 msgid "Apps"
-msgstr ""
+msgstr "แอป"
 
 msgctxt "[\"MORE\"]"
 msgid "More"
@@ -144,7 +161,7 @@ msgstr "มาแรง"
 
 msgctxt "[\"ATTACHMENT\"]"
 msgid "Attachment"
-msgstr ""
+msgstr "ที่แนบมา"
 
 msgctxt "[\"DOWNLOADS\"]"
 msgid "Downloads"
@@ -160,7 +177,7 @@ msgstr "อันดับ"
 
 msgctxt "[\"POPULAR\"]"
 msgid "Popular"
-msgstr ""
+msgstr "เป็นที่นิยม"
 
 msgctxt "[\"CATEGORY\"]"
 msgid "Category"
@@ -168,7 +185,7 @@ msgstr "หมวดหมู่"
 
 msgctxt "[\"CATEGORY_JOIN\"]"
 msgid "{app_category} {app_type}"
-msgstr ""
+msgstr "{app_category} {app_type}"
 
 msgctxt "[\"SHOW_MORE\"]"
 msgid "Show More"
@@ -188,7 +205,7 @@ msgstr "ผู้พัฒนา"
 
 msgctxt "[\"UPLOADER\"]"
 msgid "Uploaded by"
-msgstr ""
+msgstr "อัพโหลดโดย"
 
 msgctxt "[\"POPULAR_GAMES_IN_LAST_HOURS\"]"
 msgid "Popular Games In Last {0} Hours"
@@ -224,11 +241,11 @@ msgstr "ความคิดเห็น"
 
 msgctxt "[\"NOT_FOUND\"]"
 msgid "Not Found"
-msgstr ""
+msgstr "ไม่พบสิ่งที่ต้องการ"
 
 msgctxt "[\"REASON\"]"
 msgid "Reason"
-msgstr ""
+msgstr "เหตุผล"
 
 msgctxt "[\"LATEST_UPDATE_GAMES\"]"
 msgid "Latest Update Games"
@@ -268,7 +285,7 @@ msgstr "ดาวน์โหลดไฟล์ apk อย่างไร"
 
 msgctxt "[\"INDEX-FAQ\"]"
 msgid "FAQ"
-msgstr ""
+msgstr "FAQ"
 
 msgctxt "[\"INDEX-POPULAR_CATEGORIES\"]"
 msgid "Popular categories"
@@ -296,19 +313,19 @@ msgstr "หัวข้อ"
 
 msgctxt "[\"MORE-TOPICS\"]"
 msgid "More Topics"
-msgstr ""
+msgstr "หัวข้อเพิ่มเติม"
 
 msgctxt "[\"TAG\"]"
 msgid "Tag {0}"
-msgstr ""
+msgstr "{0} แท็ก"
 
 msgctxt "[\"BROWSING_TAG\"]"
 msgid "Browsing {0}"
-msgstr ""
+msgstr "เรียกดู {0}"
 
 msgctxt "[\"ADDITIONAL_INFORMATION\"]"
 msgid "Additional Information"
-msgstr ""
+msgstr "ข้อมูลเพิ่มเติม"
 
 msgctxt "[\"SIMILAR_TO\"]"
 msgid "Similar to {0}"
@@ -333,58 +350,63 @@ msgstr ""
 msgctxt "[\"DEV-ICON_SIZE_ERROR\"]"
 msgid "You need to resize your high-res icon. The required dimensions are 512px * 512px."
 msgstr ""
+"คุณต้องปรับขนาดไอคอนความละเอียดสูงของคุณ ขนาดที่ต้องการคือ 512px * 512px"
 
 msgctxt "[\"DEV-ICON_TYPE_AND_SIZE_MSG\"]"
 msgid "The icon should be<br>- PNG <br>- limited to 1024KB"
-msgstr ""
+msgstr "ไอคอนควรเป็น <br> - PNG <br> - จำกัด ไว้ที่ 1024KB"
 
 msgctxt "[\"DEV-IMG_ERROR\"]"
 msgid "The screenshots should be<br>- at least two<br>- JPEG or PNG<br>- Minimum dimension: 320px<br>- Maximum dimension: 3840px<br>- The maximum dimension can't be more than twice as long as the minimum dimension."
 msgstr ""
+"ภาพหน้าจอควรมี <br> - อย่างน้อยสอง <br> - JPEG หรือ PNG <br> - ขนาดขั้นต่ำ: "
+"320px <br> - ขนาดสูงสุด: 3840px <br> - ขนาดสูงสุดต้องมีความยาวไม่เกินสองเท่า "
+"เป็นมิติข้อมูลขั้นต่ำ"
 
 msgctxt "[\"DEV-APK_DESCRIPTION_ERROR_MSG\"]"
 msgid "The description is limited to 4000 characters."
-msgstr ""
+msgstr "คำอธิบาย จำกัด ไว้ที่ 4000 อักขระ"
 
 msgctxt "[\"DEV-APK_DESCRIPTION_SHORT_ERROR_MSG\"]"
 msgid "The short description is limited to 80 characters."
-msgstr ""
+msgstr "คำอธิบายสั้น ๆ จำกัด ไว้ที่ 80 อักขระ"
 
 msgctxt "[\"DEV-BANNER_SIZE_ERROR\"]"
 msgid "You need to resize your feature graphic. The required dimensions are 1024px * 500px."
-msgstr ""
+msgstr "คุณต้องปรับขนาดกราฟิกเด่นของคุณ ขนาดที่ต้องการคือ 1024px * 500px"
 
 msgctxt "[\"DEV-DEV_BANNER_SIZE_ERROR\"]"
 msgid "You need to resize your graphic. The required dimension is 4096px * 2304px."
-msgstr ""
+msgstr "คุณต้องปรับขนาดกราฟิกของคุณ ขนาดที่ต้องการคือ 4096px * 2304px"
 
 msgctxt "[\"DEV-INCORRECT_PKG_EMAIL\"]"
 msgid "Invalid package name or email"
-msgstr ""
+msgstr "ชื่อหรืออีเมลผิด"
 
 msgctxt "[\"DEV-SEND_EMAIL_ERR\"]"
 msgid "Failed to send mail"
-msgstr ""
+msgstr "ส่งข้อความไปยังอีเมล์ไม่สำเร็จ"
 
 msgctxt "[\"DEV-PKG_EXISTS\"]"
 msgid "Application has been claimed"
-msgstr ""
+msgstr "อ้างสิทธิ์แอปแล้ว"
 
 msgctxt "[\"DEV-GP_EXISTS\"]"
 msgid "This application has existed on google play."
-msgstr ""
+msgstr "แอปพลิเคชันนี้มีอยู่ใน Google Play"
 
 msgctxt "[\"DEV-INCORRECT_PKG\"]"
 msgid "Invalid Package Name"
-msgstr ""
+msgstr "Package Name ของแอปไม่ถูกต้อง"
 
 msgctxt "[\"DEV-NO_OFFICIAL_VERSION\"]"
 msgid "There is no Google Play official version on APKPure. Please claim this app later."
 msgstr ""
+"APKPure ไม่มีเวอร์ชันทางการของ Google Play โปรดอ้างสิทธิ์แอปนี้ในภายหลัง"
 
 msgctxt "[\"UPLOAD-FAILED\"]"
 msgid "File upload failed. (Error code: 10001)"
-msgstr ""
+msgstr "อัพโหลดไฟล์ไม่สำเร็จ (รหัสข้อผิดพลาด: 10001)"
 
 msgctxt "[\"UPLOAD-PARSING_FAILED\"]"
 msgid "File parsing failed. (Error code: 10002)"
@@ -392,11 +414,11 @@ msgstr ""
 
 msgctxt "[\"DETAIL\"]"
 msgid "Detail"
-msgstr ""
+msgstr "รายละเอียด"
 
 msgctxt "[\"DETAIL-HOT_TAGS\"]"
 msgid "{0} Tags"
-msgstr ""
+msgstr "{0} แท็ก"
 
 msgctxt "[\"DETAIL-MAIGHT_LIKE\"]"
 msgid "You Might Also Like"
@@ -584,11 +606,11 @@ msgstr "กำลังดาวน์โหลด"
 
 msgctxt "[\"DETAIL_DOWNLOAD-FAST_DOWNLOADING\"]"
 msgid "Fast Downloading"
-msgstr ""
+msgstr "ดาวน์โหลดเร็ว"
 
 msgctxt "[\"DETAIL_DOWNLOAD-FAST_DOWNLOADING_DES\"]"
 msgid "How \"Fast Download\" works?"
-msgstr ""
+msgstr "\"ดาวน์โหลดเร็ว\" ทำงานอย่างไร?"
 
 msgctxt "[\"DETAIL_DOWNLOAD-DOWNLOADING_DES\"]"
 msgid "If the download doesn't start,"
@@ -612,7 +634,7 @@ msgstr "เวอร์ชั่น"
 
 msgctxt "[\"VERSION-ALL-VERSIONS\"]"
 msgid "All Versions"
-msgstr ""
+msgstr "ทุกรุ่น"
 
 msgctxt "[\"VERSION-REQUIRES_ANDROID\"]"
 msgid "Requires Android"
@@ -620,27 +642,27 @@ msgstr "ความต้องระบบของแอนดรอยด์
 
 msgctxt "[\"VARIANT-VARIANTS\"]"
 msgid "{0} Variants"
-msgstr ""
+msgstr "{0} ตัวแปร"
 
 msgctxt "[\"VARIANT-VARIANTS_TIT\"]"
 msgid "Variants"
-msgstr ""
+msgstr "ตัวแปร"
 
 msgctxt "[\"VARIANT-VARIANT\"]"
 msgid "Variant"
-msgstr ""
+msgstr "ตัวแปร"
 
 msgctxt "[\"VARIANT-ARCHITECTURE\"]"
 msgid "Architecture"
-msgstr ""
+msgstr "สถาปัตยกรรม"
 
 msgctxt "[\"VARIANT-MINIMUM\"]"
 msgid "Minimum Version"
-msgstr ""
+msgstr "เวอร์ชันขั้นต่ำ"
 
 msgctxt "[\"VARIANT-SCREEN_DPI\"]"
 msgid "Screen DPI"
-msgstr ""
+msgstr "DPI ของหน้าจอ"
 
 msgctxt "[\"VARIANT-ARCH\"]"
 msgid "Arch"
@@ -648,71 +670,71 @@ msgstr ""
 
 msgctxt "[\"VARIANT-DPI\"]"
 msgid "DPI"
-msgstr ""
+msgstr "DPI"
 
 msgctxt "[\"COMMENT-REVIEWS_TOTAL\"]"
 msgid "Total Reviews:"
-msgstr ""
+msgstr "บทวิจารณ์ทั้งหมด:"
 
 msgctxt "[\"COMMENT-REVIEWS_CURRENT\"]"
 msgid "Reviews in {0}:"
-msgstr ""
+msgstr "ตรวจทานภายใต้ {0}:"
 
 msgctxt "[\"COMMENT-REVIEWS_CURRENT_MOB\"]"
 msgid "In {0}:"
-msgstr ""
+msgstr "ใน {0}:"
 
 msgctxt "[\"COMMENT-REVIEW_OTHER_LANG\"]"
 msgid "There are {0} reviews in other languages"
-msgstr ""
+msgstr "มี {0} รีวิวที่เป็นภาษาอื่น"
 
 msgctxt "[\"COMMENT-ADD_NEW_DISCUSSION\"]"
 msgid "Add A New Discussion"
-msgstr ""
+msgstr "เพิ่มการสนทนาใหม่"
 
 msgctxt "[\"COMMENT-REPLIES\"]"
 msgid "Replies"
-msgstr ""
+msgstr "ตอบกลับ"
 
 msgctxt "[\"COMMENT-DISCUSSIONS\"]"
 msgid "Discussions"
-msgstr ""
+msgstr "การสนทนา"
 
 msgctxt "[\"COMMENT-ALL_DISCUSSIONS\"]"
 msgid "See all discussions"
-msgstr ""
+msgstr "ดูการสนทนาทั้งหมด"
 
 msgctxt "[\"COMMENT-SEE_ALL_DISCUSSIONS\"]"
 msgid "See all {0} discussions"
-msgstr ""
+msgstr "ดู {0} การสนทนา"
 
 msgctxt "[\"COMMENT-JOIN_IN_GROUP\"]"
 msgid "Join {0} group"
-msgstr ""
+msgstr "เข้าร่วม {0} กลุ่ม"
 
 msgctxt "[\"COMMENT-JOIN_GROUP\"]"
 msgid "Join Group"
-msgstr ""
+msgstr "เข้าร่วมกลุ่ม"
 
 msgctxt "[\"COMMENT-GROUP\"]"
 msgid "Group"
-msgstr ""
+msgstr "กลุ่ม"
 
 msgctxt "[\"COMMENT-TITLE_POST\"]"
 msgid "Post"
-msgstr ""
+msgstr "โพสต์"
 
 msgctxt "[\"COMMENT-ADD\"]"
 msgid "Add Comment"
-msgstr ""
+msgstr "แสดงความคิดเห็น"
 
 msgctxt "[\"COMMENT-ALL-REPLY\"]"
 msgid "All {0} replies"
-msgstr ""
+msgstr "มีการตอบกลับทั้งหมด {0}"
 
 msgctxt "[\"COMMENT-VIEWS\"]"
 msgid "Views"
-msgstr ""
+msgstr "การดู"
 
 msgctxt "[\"COMMENT-COLLAPSED\"]"
 msgid "comment collapsed"
@@ -720,7 +742,7 @@ msgstr "ยุบความคิดเห็น"
 
 msgctxt "[\"COMMENT-REVIEW_OR_POST\"]"
 msgid "Post review or comment"
-msgstr ""
+msgstr "โพสต์รีวิว หรือ แสดงความคิดเห็น"
 
 msgctxt "[\"COMMENT-REPLY\"]"
 msgid "Reply"
@@ -744,7 +766,7 @@ msgstr "ยอดนิยม"
 
 msgctxt "[\"COMMENT-SORT_BY_BEST_LONG\"]"
 msgid "Sort by best"
-msgstr ""
+msgstr "เรียงจากความยอดนิยม"
 
 msgctxt "[\"COMMENT-SORT_BY_MOST_RECENT\"]"
 msgid "Most Recent"
@@ -752,7 +774,7 @@ msgstr "เมื่อเร็วๆนี้"
 
 msgctxt "[\"COMMENT-SORT_BY_MOST_SCORE\"]"
 msgid "Top rated"
-msgstr ""
+msgstr "แง่บวกที่สุด"
 
 msgctxt "[\"COMMENT-SORT_BY_DEFAULT\"]"
 msgid "Sort by default"
@@ -800,7 +822,7 @@ msgstr "โหวต"
 
 msgctxt "[\"COMMENT-LIKE\"]"
 msgid "Like"
-msgstr ""
+msgstr "ถูกใจ"
 
 msgctxt "[\"COMMENT-ERR_QUICK_LOGIN\"]"
 msgid "Quick login error, please try again."
@@ -840,11 +862,11 @@ msgstr "ความคิดเห็นที่ไม่รู้จัก"
 
 msgctxt "[\"COMMENT-ERR_EMOJI\"]"
 msgid "Emoji comments are not allowed any more! Write something..."
-msgstr ""
+msgstr "ไม่รองรับระบบอิโมจิในนี้! ไม่ได้ก็ลองเขียนเอาสิ..."
 
 msgctxt "[\"COMMENT-ERR_NONE_MESSAGE\"]"
 msgid "You must write something!"
-msgstr ""
+msgstr "คุณต้องเขียนอะไรสักอย่าง!"
 
 msgctxt "[\"COMMENT-ERR_INVALID_PARAMETER\"]"
 msgid "Invalid comment parameter"
@@ -853,6 +875,9 @@ msgstr "แสดงความคิดเห็นไม่ถูกต้อ
 msgctxt "[\"COMMENT-ERR_INVALID_USER\"]"
 msgid "You're banned from APKPure by using or posting content containing nudity images. Please edit or remove the images before contacting Admin to restore your account."
 msgstr ""
+"คุณถูกแบนจาก APKPure เนื่องจากคุณได้ละเมิดกฎโดยการโพสต์ รูปภาพลามกอนาจาร "
+"คุณสามารถแก้ไขหรือลบรูปที่ผิดกฎได้ "
+"แล้วแจ้งไปยังแอดมินเพื่อกู้คืนบัญชีคุณกลับมา"
 
 msgctxt "[\"COMMENT-ERR_INVALID_VIDEO_URL\"]"
 msgid "Invalid Video URL"
@@ -860,7 +885,7 @@ msgstr "URL วิดีโอ ไม่ถูกต้อง"
 
 msgctxt "[\"COMMENT-ERR_INVALID_REVIEW_USER\"]"
 msgid "To give your ratings, you need to verify your email."
-msgstr ""
+msgstr "ในการให้คะแนนคุณต้องยืนยันอีเมลของคุณ"
 
 msgctxt "[\"COMMENT-DELETE\"]"
 msgid "Yes,delete it!"
@@ -872,7 +897,7 @@ msgstr "ลบแล้ว!"
 
 msgctxt "[\"COMMENT-SAME_TEXT\"]"
 msgid "The text is the same, please post it later."
-msgstr ""
+msgstr "ข้อความเหมือนกันโปรดโพสต์ในภายหลัง"
 
 msgctxt "[\"COMMENT-DEL\"]"
 msgid "Delete"
@@ -888,7 +913,7 @@ msgstr "กำลังโหลดความคิดเห็น..."
 
 msgctxt "[\"COMMENT-DOWNLOAD_APK\"]"
 msgid "Download the APK file on APKPure."
-msgstr ""
+msgstr "ดาวน์โหลด ไฟล์ APK ผ่าน APKPure"
 
 msgctxt "[\"COMMENT-ERR_SHARE_APK_DENY\"]"
 msgid "This APP cannot be uploaded"
