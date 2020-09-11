@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-09-07 12:45+0000\n"
-"PO-Revision-Date: 2020-09-10 09:09+0000\n"
+"PO-Revision-Date: 2020-09-11 05:43+0000\n"
 "Last-Translator: Isabella Heath <isabellaheath9@gmail.com>\n"
 "Language-Team: Malay <https://translate.apkpure.com/projects/apkpure/"
 "apkpurecom/ms/>\n"
@@ -20,7 +20,7 @@ msgstr "PERMAINAN"
 
 msgctxt "[\"NAV-APP\"]"
 msgid "APPS"
-msgstr "Aplikasi"
+msgstr "APLIKASI"
 
 msgctxt "[\"NAV-XAPK\"]"
 msgid "XAPK"
@@ -28,31 +28,31 @@ msgstr "XAPK"
 
 msgctxt "[\"NAV-NEW\"]"
 msgid "NEW"
-msgstr ""
+msgstr "Baharu"
 
 msgctxt "[\"NAV-PRODUCTS\"]"
 msgid "PRODUCTS"
-msgstr ""
+msgstr "Produk"
 
 msgctxt "[\"NAV-NEW_GAME\"]"
 msgid "NEW GAME"
-msgstr ""
+msgstr "Permainan Baharu"
 
 msgctxt "[\"NAV-NEW_APP\"]"
 msgid "NEW APP"
-msgstr ""
+msgstr "Aplikasi Baharu"
 
 msgctxt "[\"NAV-XAPK_GAME\"]"
 msgid "XAPK GAME"
-msgstr ""
+msgstr "Permainan XAPK"
 
 msgctxt "[\"NAV-XAPK_APP\"]"
 msgid "XAPK APP"
-msgstr ""
+msgstr "APLIKASI XAPK"
 
 msgctxt "[\"NAV-APK_INSTALL\"]"
 msgid "APK Install"
-msgstr ""
+msgstr "APK Memasang"
 
 msgctxt "[\"NAV-APK_DOWNLOAD\"]"
 msgid "APK Download"
@@ -60,7 +60,7 @@ msgstr "APK Muat Turun"
 
 msgctxt "[\"NAV-APK_VERIFICATION\"]"
 msgid "APK Verification"
-msgstr ""
+msgstr "PENGESAHAN APK"
 
 msgctxt "[\"NAV-APKPURE_APP\"]"
 msgid "APKPure App"
@@ -72,7 +72,7 @@ msgstr "Pelagak Telefon Awan"
 
 msgctxt "[\"DOWNLOAD\"]"
 msgid "Download"
-msgstr ""
+msgstr "Muat Turun"
 
 msgctxt "[\"DOWNLOAD_AVAILABLE\"]"
 msgid "Download Variant {0}"
@@ -80,23 +80,23 @@ msgstr ""
 
 msgctxt "[\"FAST_DOWNLOAD\"]"
 msgid "Fast Download"
-msgstr ""
+msgstr "Muat turun pantas"
 
 msgctxt "[\"IGNORE\"]"
 msgid "Ignore"
-msgstr ""
+msgstr "abaikan"
 
 msgctxt "[\"OK\"]"
 msgid "OK"
-msgstr ""
+msgstr "Ok"
 
 msgctxt "[\"BUY\"]"
 msgid "Buy"
-msgstr ""
+msgstr "Beli"
 
 msgctxt "[\"SELECT_LANGUAGE\"]"
 msgid "Choose Language"
-msgstr ""
+msgstr "PILIH BAHASA"
 
 msgctxt "[\"EDITORS_CHOICE\"]"
 msgid "Editor's Choice"
@@ -104,7 +104,7 @@ msgstr ""
 
 msgctxt "[\"FREE\"]"
 msgid "Free"
-msgstr ""
+msgstr "PERCUMA"
 
 msgctxt "[\"TOP-UPDATED-APPS\"]"
 msgid "Recently Updated Apps"
@@ -116,47 +116,47 @@ msgstr "Permainan yang dikemaskini akhir-akhir ini"
 
 msgctxt "[\"READ_MORE\"]"
 msgid "Read More"
-msgstr ""
+msgstr "BACA LAGI"
 
 msgctxt "[\"GAME\"]"
 msgid "GAME"
-msgstr ""
+msgstr "PERMAINAN"
 
 msgctxt "[\"APP\"]"
 msgid "APP"
-msgstr ""
+msgstr "APLIKASI"
 
 msgctxt "[\"GAMES\"]"
 msgid "Games"
-msgstr ""
+msgstr "PERMAINAN"
 
 msgctxt "[\"APPS\"]"
 msgid "Apps"
-msgstr ""
+msgstr "APLIKASI"
 
 msgctxt "[\"MORE\"]"
 msgid "More"
-msgstr ""
+msgstr "LAGI"
 
 msgctxt "[\"XAPK-GAMES\"]"
 msgid "XAPK Games"
-msgstr ""
+msgstr "PERMAINAN XAPK"
 
 msgctxt "[\"XAPK-APPS\"]"
 msgid "XAPK Apps"
-msgstr ""
+msgstr "APLIKASI XAPK"
 
 msgctxt "[\"HOME\"]"
 msgid "Home"
-msgstr ""
+msgstr "LAMAN UTAMA"
 
 msgctxt "[\"SORT_BY\"]"
 msgid "Sort by"
-msgstr ""
+msgstr "SUSUN MENGIKUT"
 
 msgctxt "[\"HOT\"]"
 msgid "Hot"
-msgstr ""
+msgstr "PANAS"
 
 msgctxt "[\"ATTACHMENT\"]"
 msgid "Attachment"
@@ -164,15 +164,15 @@ msgstr "Lampiran"
 
 msgctxt "[\"DOWNLOADS\"]"
 msgid "Downloads"
-msgstr ""
+msgstr "MUAT TURUN"
 
 msgctxt "[\"NEWEST\"]"
 msgid "Newest"
-msgstr ""
+msgstr "TERBARU"
 
 msgctxt "[\"RATING\"]"
 msgid "Rating"
-msgstr ""
+msgstr "PENARAFAN"
 
 msgctxt "[\"POPULAR\"]"
 msgid "Popular"
@@ -184,7 +184,7 @@ msgstr ""
 
 msgctxt "[\"CATEGORY_JOIN\"]"
 msgid "{app_category} {app_type}"
-msgstr ""
+msgstr "{app_category} {app_type}"
 
 msgctxt "[\"SHOW_MORE\"]"
 msgid "Show More"
@@ -200,7 +200,7 @@ msgstr "Semua Aplikasi {0}"
 
 msgctxt "[\"DEVELOPER\"]"
 msgid "Developer"
-msgstr ""
+msgstr "Pemaju"
 
 msgctxt "[\"UPLOADER\"]"
 msgid "Uploaded by"
