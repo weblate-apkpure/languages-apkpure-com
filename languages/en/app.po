@@ -330,58 +330,6 @@ msgctxt "[\"SUBMITTING\"]"
 msgid "Submitting..."
 msgstr "Submitting..."
 
-msgctxt "[\"DEV-ICON_SIZE_ERROR\"]"
-msgid "You need to resize your high-res icon. The required dimensions are 512px * 512px."
-msgstr "You need to resize your high-res icon. The required dimensions are 512px * 512px."
-
-msgctxt "[\"DEV-ICON_TYPE_AND_SIZE_MSG\"]"
-msgid "The icon should be<br>- PNG <br>- limited to 1024KB"
-msgstr "The icon should be<br>- PNG <br>- limited to 1024KB"
-
-msgctxt "[\"DEV-IMG_ERROR\"]"
-msgid "The screenshots should be<br>- at least two<br>- JPEG or PNG<br>- Minimum dimension: 320px<br>- Maximum dimension: 3840px<br>- The maximum dimension can't be more than twice as long as the minimum dimension."
-msgstr "The screenshots should be<br>- at least two<br>- JPEG or PNG<br>- Minimum dimension: 320px<br>- Maximum dimension: 3840px<br>- The maximum dimension can't be more than twice as long as the minimum dimension."
-
-msgctxt "[\"DEV-APK_DESCRIPTION_ERROR_MSG\"]"
-msgid "The description is limited to 4000 characters."
-msgstr "The description is limited to 4000 characters."
-
-msgctxt "[\"DEV-APK_DESCRIPTION_SHORT_ERROR_MSG\"]"
-msgid "The short description is limited to 80 characters."
-msgstr "The short description is limited to 80 characters."
-
-msgctxt "[\"DEV-BANNER_SIZE_ERROR\"]"
-msgid "You need to resize your feature graphic. The required dimensions are 1024px * 500px."
-msgstr "You need to resize your feature graphic. The required dimensions are 1024px * 500px."
-
-msgctxt "[\"DEV-DEV_BANNER_SIZE_ERROR\"]"
-msgid "You need to resize your graphic. The required dimension is 4096px * 2304px."
-msgstr "You need to resize your graphic. The required dimension is 4096px * 2304px."
-
-msgctxt "[\"DEV-INCORRECT_PKG_EMAIL\"]"
-msgid "Invalid package name or email"
-msgstr "Invalid package name or email"
-
-msgctxt "[\"DEV-SEND_EMAIL_ERR\"]"
-msgid "Failed to send mail"
-msgstr "Failed to send mail"
-
-msgctxt "[\"DEV-PKG_EXISTS\"]"
-msgid "Application has been claimed"
-msgstr "Application has been claimed"
-
-msgctxt "[\"DEV-GP_EXISTS\"]"
-msgid "This application has existed on google play."
-msgstr "This application has existed on google play."
-
-msgctxt "[\"DEV-INCORRECT_PKG\"]"
-msgid "Invalid Package Name"
-msgstr "Invalid Package Name"
-
-msgctxt "[\"DEV-NO_OFFICIAL_VERSION\"]"
-msgid "There is no Google Play official version on APKPure. Please claim this app later."
-msgstr "There is no Google Play official version on APKPure. Please claim this app later."
-
 msgctxt "[\"UPLOAD-FAILED\"]"
 msgid "File upload failed. (Error code: 10001)"
 msgstr "File upload failed. (Error code: 10001)"
