@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-09-09 05:10+0000\n"
-"PO-Revision-Date: 2020-09-13 11:56+0000\n"
+"PO-Revision-Date: 2020-09-13 12:29+0000\n"
 "Last-Translator: Mirosław Żylewicz <miroslaw.zylewicz@o2.pl>\n"
 "Language-Team: Polish <https://translate.apkpure.com/projects/apkpure/"
 "apkpurecom/pl/>\n"
@@ -181,7 +181,7 @@ msgstr "Popularne"
 
 msgctxt "[\"CATEGORY\"]"
 msgid "Category"
-msgstr "Kat egoria"
+msgstr "Kategoria"
 
 msgctxt "[\"CATEGORY_JOIN\"]"
 msgid "{app_category} {app_type}"
@@ -197,7 +197,7 @@ msgstr "Pokaż mniej"
 
 msgctxt "[\"HAVE_PRODUCTS\"]"
 msgid "All {0} Apps"
-msgstr "masz {0} produktów"
+msgstr "Wszystkie {0} aplikacji"
 
 msgctxt "[\"DEVELOPER\"]"
 msgid "Developer"
@@ -739,7 +739,7 @@ msgstr "komentarz zwinięty"
 
 msgctxt "[\"COMMENT-REVIEW_OR_POST\"]"
 msgid "Post review or comment"
-msgstr "Napisz recenzję lub komentarz"
+msgstr "Napisz opinię lub komentarz"
 
 msgctxt "[\"COMMENT-REPLY\"]"
 msgid "Reply"
@@ -986,7 +986,7 @@ msgstr "Wszystko"
 
 msgctxt "[\"USER-INFO_REVIEW\"]"
 msgid "Review"
-msgstr "Recenzja"
+msgstr "Opinia"
 
 msgctxt "[\"USER-INFO_STORY\"]"
 msgid "Story"
@@ -1667,7 +1667,7 @@ msgstr "W zamian możesz zobaczyć następujące Gry i Aplikacje"
 
 msgctxt "[\"RECOMMENDED-POSTS\"]"
 msgid "Recommended Posts"
-msgstr "Rekomendowane posty"
+msgstr "Polecane posty"
 
 msgctxt "[\"USERS-RECOMMENDED\"]"
 msgid "Users' Recommendations"
@@ -2094,7 +2094,7 @@ msgstr "Zgłoszenie zostało przyjęte."
 
 msgctxt "[\"js\"][\"COMMENT-RATE_MUST\"]"
 msgid "Before writing a review or something, please rate the app first."
-msgstr "Oceń aplikację przed opublikowaniem recenzji."
+msgstr "Oceń aplikację przed opublikowaniem opinii."
 
 msgctxt "[\"meta\"][\"Index\"][\"title\"]"
 msgid "Download APK free online downloader | APKPure.com"
