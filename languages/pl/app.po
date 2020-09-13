@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-09-09 05:10+0000\n"
-"PO-Revision-Date: 2020-09-13 12:29+0000\n"
+"PO-Revision-Date: 2020-09-13 14:25+0000\n"
 "Last-Translator: Mirosław Żylewicz <miroslaw.zylewicz@o2.pl>\n"
 "Language-Team: Polish <https://translate.apkpure.com/projects/apkpure/"
 "apkpurecom/pl/>\n"
@@ -249,15 +249,15 @@ msgstr "Powód"
 
 msgctxt "[\"LATEST_UPDATE_GAMES\"]"
 msgid "Latest Update Games"
-msgstr "Ostatnia aktualizacja gier"
+msgstr "Najnowsze zaktualizowane gry"
 
 msgctxt "[\"LATEST_UPDATE_APPS\"]"
 msgid "Latest Update Apps"
-msgstr "Ostatnia aktualizacja aplikacji"
+msgstr "Najnowsze zaktualizowane aplikacje"
 
 msgctxt "[\"LATEST_UPDATE\"]"
 msgid "Latest Update"
-msgstr "Ostatnia aktualizacja"
+msgstr "Ostatnio zaktualizowany"
 
 msgctxt "[\"XAPK_IS_APK_WITH_OBB_DATA\"]"
 msgid "XAPK is APK with OBB data"
@@ -265,7 +265,7 @@ msgstr "XAPK jest to APK wraz z danymi OBB"
 
 msgctxt "[\"MOST_POPULAR_IN_TODAY\"]"
 msgid "Most Popular In Today"
-msgstr "Najbardziej Popularne Dzisiaj"
+msgstr "Najbardziej popularne dziś"
 
 msgctxt "[\"SIMILAR_OR_RELATED\"]"
 msgid "Similar Or Related"
@@ -273,11 +273,11 @@ msgstr "Podobnych lub pokrewnych"
 
 msgctxt "[\"INDEX-TITLE\"]"
 msgid "Download free Android Games and Android Apps."
-msgstr "Pobierz za darmo Gry i Aplikacje na Androida."
+msgstr "Pobierz darmowe gry i aplikacje na Androida."
 
 msgctxt "[\"INDEX-MOBILE_TITLE\"]"
 msgid "Download free Android Games and Apps."
-msgstr "Pobierz darmowe Gry i Aplikacje na Android."
+msgstr "Pobierz darmowe gry i aplikacje na Androida."
 
 msgctxt "[\"INDEX-HOW_TO_DOWNLOAD\"]"
 msgid "How to download apk files?"
@@ -423,15 +423,15 @@ msgstr "Może ci się spodobać również"
 
 msgctxt "[\"DETAIL-PAID_GAME\"]"
 msgid "Paid Game"
-msgstr "Płatna Gra"
+msgstr "Płatna gra"
 
 msgctxt "[\"DETAIL-PAID_APP\"]"
 msgid "Paid App"
-msgstr "Płatna Aplikacja"
+msgstr "Płatna aplikacja"
 
 msgctxt "[\"DETAIL-PAID_GAME_DES\"]"
 msgid "Paid games are not available to download"
-msgstr "Płatne gry, ale nie możliwe do pobrania"
+msgstr "Płatne gry nie są dostępne do pobrania"
 
 msgctxt "[\"DETAIL-PAID_APP_DES\"]"
 msgid "Paid apps are not available to download"
@@ -439,27 +439,27 @@ msgstr "Płatne aplikacje nie są dostępne do pobrania"
 
 msgctxt "[\"DETAIL-WHY_SAFE\"]"
 msgid "Why we can guarantee APK 100% safe?"
-msgstr "Dlaczego możemy zagwarantować APK 100% bezpieczne?"
+msgstr "Dlaczego możemy zagwarantować, że APK są w 100% bezpieczne?"
 
 msgctxt "[\"DETAIL-SAFE\"]"
 msgid "Verification passed"
-msgstr "Weryfikacja minęła"
+msgstr "Weryfikacja udana"
 
 msgctxt "[\"DETAIL-XAPK_SHORT_DES\"]"
 msgid "XAPK is APK with OBB data, Click to get XAPK Installer"
-msgstr "XAPK jest to APK wraz z danymi OBB, Kliknij by otrzymać Instalator XAPK"
+msgstr "XAPK jest to APK wraz z danymi OBB, kliknij by otrzymać instalator XAPK"
 
 msgctxt "[\"DETAIL-MOBILE_XAPK_SHORT_DES\"]"
 msgid "Click to get XAPK Installer"
-msgstr "Kliknij aby pobrać Instalator XAPK"
+msgstr "Kliknij aby pobrać instalator XAPK"
 
 msgctxt "[\"DETAIL-LATEST_VERSION\"]"
 msgid "Latest Version"
-msgstr "Ostatnia Wersja"
+msgstr "Ostatnia wersja"
 
 msgctxt "[\"DETAIL-PUBLISH_DATE\"]"
 msgid "Publish Date"
-msgstr "Data Publikacji"
+msgstr "Data publikacji"
 
 msgctxt "[\"DETAIL-GET_IT_ON\"]"
 msgid "Get it on"
@@ -491,7 +491,7 @@ msgstr "Opis {0}"
 
 msgctxt "[\"DETAIL-OFFICIAL_TRAILER\"]"
 msgid "{0} for Android official Trailer"
-msgstr "Oficjalny Trailer na Androida"
+msgstr "Oficjalny zwiastun {0} dla Androida"
 
 msgctxt "[\"DETAIL-VERSION\"]"
 msgid "Version"
@@ -523,11 +523,11 @@ msgstr "Co nowego"
 
 msgctxt "[\"DETAIL-VERSION_HISTORY\"]"
 msgid "Version History"
-msgstr "Historia Wersji"
+msgstr "Historia wersji"
 
 msgctxt "[\"DETAIL-MORE_FROM_DEVELOPER\"]"
 msgid "More From Developer"
-msgstr "Wiecej od Dewelopera"
+msgstr "Więcej od dewelopera"
 
 msgctxt "[\"DETAIL-MORE_FROM\"]"
 msgid "More From {0}"
@@ -535,15 +535,15 @@ msgstr "Więcej od {0}"
 
 msgctxt "[\"DETAIL-FOLLOW_UPDATES\"]"
 msgid "Follow Updates"
-msgstr "Śledź Aktualizacje"
+msgstr "Śledź aktualizacje"
 
 msgctxt "[\"DETAIL-REQUEST_UPDATE\"]"
 msgid "Request Update"
-msgstr "Zapytanie o Aktualizacje"
+msgstr "Zapytanie o aktualizację"
 
 msgctxt "[\"DETAIL-RATING\"]"
 msgid "{votes} votes, average: {rating_average} out of {rating_best}"
-msgstr "{głosów} głosów, średnia:{ocena_średnia} poza {ocena_najlepsza}"
+msgstr "{votes} głosów, średnia: {rating_average} z {rating_best}"
 
 msgctxt "[\"DETAIL-RATING1\"]"
 msgid "average: {rating_average} out of {rating_best}"
@@ -551,7 +551,7 @@ msgstr "średnia: {rating_average} z {rating_best}"
 
 msgctxt "[\"DETAIL-MORE_DEVELOPER\"]"
 msgid "Get more from {0}"
-msgstr "Zdobądź wiecej z {0}"
+msgstr "Zdobądź więcej od {0}"
 
 msgctxt "[\"DETAIL-REMOVED\"]"
 msgid "Removed"
@@ -563,7 +563,7 @@ msgstr "{0} GRA"
 
 msgctxt "[\"DETAIL-CATEGORY_APP\"]"
 msgid "{0} APP"
-msgstr "{0} Aplikacja"
+msgstr "{0} APLIKACJA"
 
 msgctxt "[\"DETAIL-VERSION_LOAD_MORE\"]"
 msgid "Load more"
@@ -575,19 +575,19 @@ msgstr "Więcej..."
 
 msgctxt "[\"DETAIL-TRANSLATE\"]"
 msgid "Translate"
-msgstr "Tłumaczyć"
+msgstr "Tłumaczenie"
 
 msgctxt "[\"DETAIL-GP_DOWNLOAD\"]"
 msgid "Install on Google Play"
-msgstr "Instalacja na Google Play"
+msgstr "Zainstaluj z Google Play"
 
 msgctxt "[\"DETAIL-ITUNE_DOWNLOAD\"]"
 msgid "Install on iTunes"
-msgstr "Instalacja na iTunes"
+msgstr "Zainstaluj z iTunes"
 
 msgctxt "[\"DETAIL-MORE_DOWNLOAD\"]"
 msgid "More Download Locations:"
-msgstr "Pobierz więcej Lokalizacji:"
+msgstr "Więcej źródeł do pobrania:"
 
 msgctxt "[\"DETAIL-DELETED_COPYRIGHT_GOOGLE_PLAY_URL\"]"
 msgid "Download on Google Play"
@@ -671,7 +671,7 @@ msgstr "DPI"
 
 msgctxt "[\"COMMENT-REVIEWS_TOTAL\"]"
 msgid "Total Reviews:"
-msgstr "Wszystkich opinie:"
+msgstr "Wszystkie opinie:"
 
 msgctxt "[\"COMMENT-REVIEWS_CURRENT\"]"
 msgid "Reviews in {0}:"
@@ -807,7 +807,7 @@ msgstr "Wyloguj"
 
 msgctxt "[\"COMMENT-WEBSITE\"]"
 msgid "Website"
-msgstr "Strona"
+msgstr "Strona internetowa"
 
 msgctxt "[\"COMMENT-TO_BE_FIRST\"]"
 msgid "Ooops! No such content!"
@@ -831,12 +831,13 @@ msgstr "Błędny email lub login"
 
 msgctxt "[\"COMMENT-ERR_DISCUSSION\"]"
 msgid "Incorrect in discussion"
-msgstr "Nieprawidłowa dyskusja"
+msgstr "Nieprawidłowości w dyskusji"
 
 msgctxt "[\"COMMENT-ERR_RATE\"]"
 msgid "Vote failed, repeated"
 msgstr "Głosowanie nie powiodło się, wystawiłeś już ocenę"
 
+#, fuzzy
 msgctxt "[\"COMMENT-ERR_SENSITIVE_WORD\"]"
 msgid "Comment failed, your post contains sensitive terms."
 msgstr "Błąd, Twój wpis zawiera poufne hasła"
@@ -851,7 +852,7 @@ msgstr "Twój wpis zawiera link i oczekuje na zatwierdzenie przez administratora
 
 msgctxt "[\"COMMENT-ERR_FORBIDDEN\"]"
 msgid "Permission denied"
-msgstr "Odmowa zezwolenia"
+msgstr "Odmowa dostępu"
 
 msgctxt "[\"COMMENT-ERR_FAILURE\"]"
 msgid "Comment unknown"
@@ -882,7 +883,7 @@ msgstr "Nieprawidłowy adres URL wideo"
 
 msgctxt "[\"COMMENT-ERR_INVALID_REVIEW_USER\"]"
 msgid "To give your ratings, you need to verify your email."
-msgstr "Aby podać swoje oceny, musisz zweryfikować swój e-mail."
+msgstr "Aby wystawić ocenę, musisz zweryfikować swój adres email."
 
 msgctxt "[\"COMMENT-DELETE\"]"
 msgid "Yes,delete it!"
@@ -894,7 +895,7 @@ msgstr "Usunięto!"
 
 msgctxt "[\"COMMENT-SAME_TEXT\"]"
 msgid "The text is the same, please post it later."
-msgstr "Tekst jest taki sam, proszę napisać to później."
+msgstr "Tekst jest taki sam, opublikuj go później."
 
 msgctxt "[\"COMMENT-DEL\"]"
 msgid "Delete"
@@ -902,7 +903,7 @@ msgstr "Usuń"
 
 msgctxt "[\"COMMENT-ARE_YOU_SURE\"]"
 msgid "Are you sure?"
-msgstr "Jesteś pewny?"
+msgstr "Jesteś pewien?"
 
 msgctxt "[\"COMMENT-LOADING\"]"
 msgid "Comment Loading..."
@@ -918,7 +919,7 @@ msgstr "Tego APP nie można wysłać"
 
 msgctxt "[\"COMMENT-LINK\"]"
 msgid "Link"
-msgstr "Połączyć"
+msgstr "Odnośnik"
 
 msgctxt "[\"COMMENT-HASHTAG_NOT_EXIST\"]"
 msgid "The hashtag does not exist"
@@ -974,7 +975,7 @@ msgstr "Fajny komentarz"
 
 msgctxt "[\"MORE_COOL_COMMENTS\"]"
 msgid "More cool comments"
-msgstr "Więcej"
+msgstr "Więcej fajnych komentarzy"
 
 msgctxt "[\"USER-SETTINGS\"]"
 msgid "Settings"
@@ -1074,7 +1075,7 @@ msgstr "Ta nazwa użytkownika jest już w użyciu."
 
 msgctxt "[\"USER-ACCOUNT_NOT_EXIST\"]"
 msgid "The account you entered does not exist."
-msgstr "Wprowadzone konto nie istnieje."
+msgstr "Podane konto nie istnieje."
 
 msgctxt "[\"USER-DISPLAY_NAME_EXIST\"]"
 msgid "The nickname is already in use."
