@@ -1,3 +1,19 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-09-14 06:04+0000\n"
+"PO-Revision-Date: 2020-09-14 06:04+0000\n"
+"Last-Translator: Yousaf Jan <yjan8647@gmail.com>\n"
+"Language-Team: Japanese <https://translate.apkpure.com/projects/apkpure/"
+"apkpurecom/ja/>\n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 4.2.2\n"
+
 msgctxt "[\"NAV-GAME\"]"
 msgid "GAMES"
 msgstr "ゲーム"
@@ -10,6 +26,7 @@ msgctxt "[\"NAV-XAPK\"]"
 msgid "XAPK"
 msgstr ""
 
+#, fuzzy
 msgctxt "[\"NAV-NEW\"]"
 msgid "NEW"
 msgstr "最新"
@@ -78,9 +95,10 @@ msgctxt "[\"BUY\"]"
 msgid "Buy"
 msgstr "購入"
 
+#, fuzzy
 msgctxt "[\"SELECT_LANGUAGE\"]"
 msgid "Choose Language"
-msgstr "言語を選択してください"
+msgstr "Choose Language"
 
 msgctxt "[\"EDITORS_CHOICE\"]"
 msgid "Editor's Choice"
@@ -154,6 +172,7 @@ msgctxt "[\"NEWEST\"]"
 msgid "Newest"
 msgstr "最新"
 
+#, fuzzy
 msgctxt "[\"RATING\"]"
 msgid "Rating"
 msgstr "レーティング"

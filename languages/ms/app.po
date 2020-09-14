@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-09-07 12:45+0000\n"
-"PO-Revision-Date: 2020-09-11 05:43+0000\n"
+"PO-Revision-Date: 2020-09-11 09:46+0000\n"
 "Last-Translator: Isabella Heath <isabellaheath9@gmail.com>\n"
 "Language-Team: Malay <https://translate.apkpure.com/projects/apkpure/"
 "apkpurecom/ms/>\n"
@@ -176,7 +176,7 @@ msgstr "PENARAFAN"
 
 msgctxt "[\"POPULAR\"]"
 msgid "Popular"
-msgstr ""
+msgstr "Popular"
 
 msgctxt "[\"CATEGORY\"]"
 msgid "Category"
@@ -208,31 +208,31 @@ msgstr ""
 
 msgctxt "[\"POPULAR_GAMES_IN_LAST_HOURS\"]"
 msgid "Popular Games In Last {0} Hours"
-msgstr ""
+msgstr "Permainan Popular Dalam Masa Terakhir {0} Jam"
 
 msgctxt "[\"POPULAR_APPS_IN_LAST_HOURS\"]"
 msgid "Popular Apps In Last {0} Hours"
-msgstr ""
+msgstr "Aplikasi Popular Dalam Masa Terakhir {0} Jam"
 
 msgctxt "[\"POPULAR_APPS_IN_TODAY\"]"
 msgid "Popular Apps In Today"
-msgstr ""
+msgstr "Aplikasi Popular Hari Ini"
 
 msgctxt "[\"POPULAR_GAMES_IN_TODAY\"]"
 msgid "Popular Games In Today"
-msgstr ""
+msgstr "Permainan Popular Hari Ini"
 
 msgctxt "[\"HOT_GAMES\"]"
 msgid "Hot Games"
-msgstr ""
+msgstr "Permainan Panas"
 
 msgctxt "[\"HOT_APPS\"]"
 msgid "Hot Apps"
-msgstr ""
+msgstr "Aplikasi Terhangat"
 
 msgctxt "[\"CLOSE\"]"
 msgid "Close"
-msgstr ""
+msgstr "Tutup"
 
 msgctxt "[\"COMMENTS\"]"
 msgid "Comments"
@@ -248,47 +248,47 @@ msgstr "Sebab"
 
 msgctxt "[\"LATEST_UPDATE_GAMES\"]"
 msgid "Latest Update Games"
-msgstr ""
+msgstr "Kemaskini Terakhir Permainan"
 
 msgctxt "[\"LATEST_UPDATE_APPS\"]"
 msgid "Latest Update Apps"
-msgstr ""
+msgstr "Kemaskini Terbaru Aplikasi"
 
 msgctxt "[\"LATEST_UPDATE\"]"
 msgid "Latest Update"
-msgstr ""
+msgstr "Kemaskini Terbaru"
 
 msgctxt "[\"XAPK_IS_APK_WITH_OBB_DATA\"]"
 msgid "XAPK is APK with OBB data"
-msgstr ""
+msgstr "XAPK adalah APK dengan data OBB"
 
 msgctxt "[\"MOST_POPULAR_IN_TODAY\"]"
 msgid "Most Popular In Today"
-msgstr ""
+msgstr "Paling Popular Hari Ini"
 
 msgctxt "[\"SIMILAR_OR_RELATED\"]"
 msgid "Similar Or Related"
-msgstr ""
+msgstr "Serupa atau Berkaitan"
 
 msgctxt "[\"INDEX-TITLE\"]"
 msgid "Download free Android Games and Android Apps."
-msgstr ""
+msgstr "Muat turun percuma Aplikasi dan Permainan Android."
 
 msgctxt "[\"INDEX-MOBILE_TITLE\"]"
 msgid "Download free Android Games and Apps."
-msgstr ""
+msgstr "Muat turun Permainan dan Aplikasi Android percuma."
 
 msgctxt "[\"INDEX-HOW_TO_DOWNLOAD\"]"
 msgid "How to download apk files?"
-msgstr ""
+msgstr "Bagaimana untuk memuat turun fail apk?"
 
 msgctxt "[\"INDEX-FAQ\"]"
 msgid "FAQ"
-msgstr ""
+msgstr "FAQ"
 
 msgctxt "[\"INDEX-POPULAR_CATEGORIES\"]"
 msgid "Popular categories"
-msgstr ""
+msgstr "Kategori popular"
 
 msgctxt "[\"DOWNLOAD_APK\"]"
 msgid "Download APK"
@@ -296,19 +296,19 @@ msgstr ""
 
 msgctxt "[\"VERIFICATION_CODE\"]"
 msgid "Verification code"
-msgstr ""
+msgstr "Kod pengesahan"
 
 msgctxt "[\"VERIFICATION_INCORRECT\"]"
 msgid "The verification code is incorrect!"
-msgstr ""
+msgstr "Kod pengesahan tidak betul!"
 
 msgctxt "[\"VERIFICATION_DOWN\"]"
 msgid "Enter the code(s) as you see in the image, then click \"Download\"."
-msgstr ""
+msgstr "Masukkan kod yang anda lihat dalam imej, kemudian klik \"Muat turun\"."
 
 msgctxt "[\"TOPICS\"]"
 msgid "Topics"
-msgstr ""
+msgstr "Topik"
 
 msgctxt "[\"MORE-TOPICS\"]"
 msgid "More Topics"
@@ -328,11 +328,11 @@ msgstr "Maklumat Tambahan"
 
 msgctxt "[\"SIMILAR_TO\"]"
 msgid "Similar to {0}"
-msgstr ""
+msgstr "Sama seperti {0}"
 
 msgctxt "[\"CANCEL\"]"
 msgid "Cancel"
-msgstr ""
+msgstr "Batalkan"
 
 msgctxt "[\"UPDATE\"]"
 msgid "Update"
@@ -424,7 +424,7 @@ msgstr "Permainan berbayar"
 
 msgctxt "[\"DETAIL-PAID_APP\"]"
 msgid "Paid App"
-msgstr ""
+msgstr "Aplikasi Berbayar"
 
 msgctxt "[\"DETAIL-PAID_GAME_DES\"]"
 msgid "Paid games are not available to download"
