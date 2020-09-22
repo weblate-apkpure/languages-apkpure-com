@@ -2,69 +2,69 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-09-19 18:25+0000\n"
-"PO-Revision-Date: 2020-09-19 18:25+0000\n"
-"Last-Translator: Elisabeth Webb <wewebb19@gmail.com>\n"
-"Language-Team: Vietnamese <https://translate.apkpure.com/projects/apkpure/"
-"apkpurecom/vi/>\n"
-"Language: vi\n"
+"POT-Creation-Date: 2020-09-20 20:36+0000\n"
+"PO-Revision-Date: 2020-09-22 03:42+0000\n"
+"Last-Translator: Zhina Gull <hawzhenhussen15@gmail.com>\n"
+"Language-Team: Gun <https://translate.apkpure.com/projects/apkpure/"
+"apkpurecom/gun/>\n"
+"Language: gun\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
 "X-Generator: Weblate 4.2.2\n"
 
 msgctxt "[\"NAV-GAME\"]"
 msgid "GAMES"
-msgstr "TRÒ CHƠI"
+msgstr "1"
 
 msgctxt "[\"NAV-APP\"]"
 msgid "APPS"
-msgstr "English"
+msgstr "100"
 
 msgctxt "[\"NAV-XAPK\"]"
 msgid "XAPK"
-msgstr "XAPK"
+msgstr "99"
 
 msgctxt "[\"NAV-NEW\"]"
 msgid "NEW"
-msgstr "MỚI"
+msgstr "100"
 
 msgctxt "[\"NAV-PRODUCTS\"]"
 msgid "PRODUCTS"
-msgstr "SẢN PHẨM"
+msgstr ""
 
 msgctxt "[\"NAV-NEW_GAME\"]"
 msgid "NEW GAME"
-msgstr "TRÒ CHƠI MỚI"
+msgstr ""
 
 msgctxt "[\"NAV-NEW_APP\"]"
 msgid "NEW APP"
-msgstr "ỨNG DỤNG MỚI"
+msgstr ""
 
 msgctxt "[\"NAV-XAPK_GAME\"]"
 msgid "XAPK GAME"
-msgstr "TRÒ CHƠI XAPK"
+msgstr ""
 
 msgctxt "[\"NAV-XAPK_APP\"]"
 msgid "XAPK APP"
-msgstr "ỨNG DỤNG XAPK"
+msgstr ""
 
 msgctxt "[\"NAV-APK_INSTALL\"]"
 msgid "APK Install"
-msgstr "Cài đặt APK"
+msgstr ""
 
 msgctxt "[\"NAV-APK_DOWNLOAD\"]"
 msgid "APK Download"
-msgstr "Tải về APK"
+msgstr ""
 
 msgctxt "[\"NAV-APK_VERIFICATION\"]"
 msgid "APK Verification"
-msgstr "Xác minh APK"
+msgstr ""
 
 msgctxt "[\"NAV-APKPURE_APP\"]"
 msgid "APKPure App"
-msgstr "Ứng dụng APKPure"
+msgstr ""
 
 msgctxt "[\"NAV-Cloud-Phone-Emulator\"]"
 msgid "Cloud Phone Emulator"
@@ -72,7 +72,7 @@ msgstr ""
 
 msgctxt "[\"DOWNLOAD\"]"
 msgid "Download"
-msgstr "Tải về"
+msgstr ""
 
 msgctxt "[\"DOWNLOAD_AVAILABLE\"]"
 msgid "Download Variant {0}"
@@ -80,23 +80,23 @@ msgstr ""
 
 msgctxt "[\"FAST_DOWNLOAD\"]"
 msgid "Fast Download"
-msgstr "Tải nhanh"
+msgstr ""
 
 msgctxt "[\"IGNORE\"]"
 msgid "Ignore"
-msgstr "Bỏ qua"
+msgstr ""
 
 msgctxt "[\"OK\"]"
 msgid "OK"
-msgstr "Đồng ý"
+msgstr ""
 
 msgctxt "[\"BUY\"]"
 msgid "Buy"
-msgstr "Mua"
+msgstr ""
 
 msgctxt "[\"SELECT_LANGUAGE\"]"
 msgid "Choose Language"
-msgstr "Chọn ngôn ngữ"
+msgstr ""
 
 msgctxt "[\"EDITORS_CHOICE\"]"
 msgid "Editor's Choice"
@@ -104,59 +104,59 @@ msgstr ""
 
 msgctxt "[\"FREE\"]"
 msgid "Free"
-msgstr "Miễn phí"
+msgstr ""
 
 msgctxt "[\"TOP-UPDATED-APPS\"]"
 msgid "Recently Updated Apps"
-msgstr "Ứng dụng đã cập nhật hàng đầu"
+msgstr ""
 
 msgctxt "[\"TOP-UPDATED-GAMES\"]"
 msgid "Recently Updated Games"
-msgstr "Trò chơi đã cập nhật hàng đầu"
+msgstr ""
 
 msgctxt "[\"READ_MORE\"]"
 msgid "Read More"
-msgstr "Đọc thêm"
+msgstr ""
 
 msgctxt "[\"GAME\"]"
 msgid "GAME"
-msgstr "Trò chơi"
+msgstr ""
 
 msgctxt "[\"APP\"]"
 msgid "APP"
-msgstr "Ứng dụng"
+msgstr ""
 
 msgctxt "[\"GAMES\"]"
 msgid "Games"
-msgstr "Trò chơi"
+msgstr ""
 
 msgctxt "[\"APPS\"]"
 msgid "Apps"
-msgstr "Ứng dụng"
+msgstr ""
 
 msgctxt "[\"MORE\"]"
 msgid "More"
-msgstr "Thêm"
+msgstr ""
 
 msgctxt "[\"XAPK-GAMES\"]"
 msgid "XAPK Games"
-msgstr "Trò xoac 33chơi XAPK"
+msgstr ""
 
 msgctxt "[\"XAPK-APPS\"]"
 msgid "XAPK Apps"
-msgstr "Ứng dụng XAPK"
+msgstr ""
 
 msgctxt "[\"HOME\"]"
 msgid "Home"
-msgstr "Trang chủ"
+msgstr ""
 
 msgctxt "[\"SORT_BY\"]"
 msgid "Sort by"
-msgstr "Sắp xếp theo"
+msgstr ""
 
 msgctxt "[\"HOT\"]"
 msgid "Hot"
-msgstr "Nổi bật"
+msgstr ""
 
 msgctxt "[\"ATTACHMENT\"]"
 msgid "Attachment"
@@ -164,15 +164,15 @@ msgstr ""
 
 msgctxt "[\"DOWNLOADS\"]"
 msgid "Downloads"
-msgstr "Tải về"
+msgstr ""
 
 msgctxt "[\"NEWEST\"]"
 msgid "Newest"
-msgstr "Mới nhất"
+msgstr ""
 
 msgctxt "[\"RATING\"]"
 msgid "Rating"
-msgstr "Đánh giá"
+msgstr ""
 
 msgctxt "[\"POPULAR\"]"
 msgid "Popular"
@@ -180,7 +180,7 @@ msgstr ""
 
 msgctxt "[\"CATEGORY\"]"
 msgid "Category"
-msgstr "Thể loại"
+msgstr ""
 
 msgctxt "[\"CATEGORY_JOIN\"]"
 msgid "{app_category} {app_type}"
@@ -188,19 +188,19 @@ msgstr ""
 
 msgctxt "[\"SHOW_MORE\"]"
 msgid "Show More"
-msgstr "Hiển thị nhiều hơn"
+msgstr ""
 
 msgctxt "[\"SHOW_LESS\"]"
 msgid "Show less"
-msgstr "Hiển thị ít hơn"
+msgstr ""
 
 msgctxt "[\"HAVE_PRODUCTS\"]"
 msgid "All {0} Apps"
-msgstr "Tất cả {0} ứng dụng"
+msgstr ""
 
 msgctxt "[\"DEVELOPER\"]"
 msgid "Developer"
-msgstr "Nhà phát triển"
+msgstr ""
 
 msgctxt "[\"UPLOADER\"]"
 msgid "Uploaded by"
@@ -208,35 +208,35 @@ msgstr ""
 
 msgctxt "[\"POPULAR_GAMES_IN_LAST_HOURS\"]"
 msgid "Popular Games In Last {0} Hours"
-msgstr "Trò chơi phổ biến trong {0} giờ trước"
+msgstr ""
 
 msgctxt "[\"POPULAR_APPS_IN_LAST_HOURS\"]"
 msgid "Popular Apps In Last {0} Hours"
-msgstr "Ứng dụng phổ biến trong {0} giờ trước"
+msgstr ""
 
 msgctxt "[\"POPULAR_APPS_IN_TODAY\"]"
 msgid "Popular Apps In Today"
-msgstr "Ứng dụng phổ biến trong hôm nay"
+msgstr ""
 
 msgctxt "[\"POPULAR_GAMES_IN_TODAY\"]"
 msgid "Popular Games In Today"
-msgstr "Trò chơi phổ biến trong hôm nay"
+msgstr ""
 
 msgctxt "[\"HOT_GAMES\"]"
 msgid "Hot Games"
-msgstr "Trò chơi nổi bật"
+msgstr ""
 
 msgctxt "[\"HOT_APPS\"]"
 msgid "Hot Apps"
-msgstr "Ứng dụng nổi bật"
+msgstr ""
 
 msgctxt "[\"CLOSE\"]"
 msgid "Close"
-msgstr "Đóng"
+msgstr ""
 
 msgctxt "[\"COMMENTS\"]"
 msgid "Comments"
-msgstr "Bình luận"
+msgstr ""
 
 msgctxt "[\"NOT_FOUND\"]"
 msgid "Not Found"
@@ -248,67 +248,67 @@ msgstr ""
 
 msgctxt "[\"LATEST_UPDATE_GAMES\"]"
 msgid "Latest Update Games"
-msgstr "Trò chơi vừa mới cập nhật"
+msgstr ""
 
 msgctxt "[\"LATEST_UPDATE_APPS\"]"
 msgid "Latest Update Apps"
-msgstr "Ứng dụng vừa mới cập nhật"
+msgstr ""
 
 msgctxt "[\"LATEST_UPDATE\"]"
 msgid "Latest Update"
-msgstr "Cập nhật mới nhất"
+msgstr ""
 
 msgctxt "[\"XAPK_IS_APK_WITH_OBB_DATA\"]"
 msgid "XAPK is APK with OBB data"
-msgstr "XAPK là APK với dữ liệu OBB"
+msgstr ""
 
 msgctxt "[\"MOST_POPULAR_IN_TODAY\"]"
 msgid "Most Popular In Today"
-msgstr "Phổ biến nhất trong hôm nay"
+msgstr ""
 
 msgctxt "[\"SIMILAR_OR_RELATED\"]"
 msgid "Similar Or Related"
-msgstr "Tương tự hoặc liên quan"
+msgstr ""
 
 msgctxt "[\"INDEX-TITLE\"]"
 msgid "Download free Android Games and Android Apps."
-msgstr "Tải về miễn phí Trò chơi Android và Ứng dụng Android."
+msgstr ""
 
 msgctxt "[\"INDEX-MOBILE_TITLE\"]"
 msgid "Download free Android Games and Apps."
-msgstr "Tải về miễn phí trò chơi Android và ứng dụng."
+msgstr ""
 
 msgctxt "[\"INDEX-HOW_TO_DOWNLOAD\"]"
 msgid "How to download apk files?"
-msgstr "Làm thế nào để tải tệp apk?"
+msgstr ""
 
 msgctxt "[\"INDEX-FAQ\"]"
 msgid "FAQ"
-msgstr "Câu hỏi thường gặp"
+msgstr ""
 
 msgctxt "[\"INDEX-POPULAR_CATEGORIES\"]"
 msgid "Popular categories"
-msgstr "Thể loại phổ biến"
+msgstr ""
 
 msgctxt "[\"DOWNLOAD_APK\"]"
 msgid "Download APK"
-msgstr "Tải về APK"
+msgstr ""
 
 msgctxt "[\"VERIFICATION_CODE\"]"
 msgid "Verification code"
-msgstr "Mã xác nhận"
+msgstr ""
 
 msgctxt "[\"VERIFICATION_INCORRECT\"]"
 msgid "The verification code is incorrect!"
-msgstr "Mã xác nhận không chính xác!"
+msgstr ""
 
 msgctxt "[\"VERIFICATION_DOWN\"]"
 msgid "Enter the code(s) as you see in the image, then click \"Download\"."
-msgstr "Nhập mã bạn thấy trên ảnh, sau đó nhấp \"Tải về\"."
+msgstr ""
 
 msgctxt "[\"TOPICS\"]"
 msgid "Topics"
-msgstr "Chủ đề"
+msgstr ""
 
 msgctxt "[\"MORE-TOPICS\"]"
 msgid "More Topics"
@@ -328,15 +328,15 @@ msgstr ""
 
 msgctxt "[\"SIMILAR_TO\"]"
 msgid "Similar to {0}"
-msgstr "Tương tự với {0}"
+msgstr ""
 
 msgctxt "[\"CANCEL\"]"
 msgid "Cancel"
-msgstr "Hủy bỏ"
+msgstr ""
 
 msgctxt "[\"UPDATE\"]"
 msgid "Update"
-msgstr "Cập nhật"
+msgstr ""
 
 msgctxt "[\"SUBMIT\"]"
 msgid "Submit"
@@ -344,58 +344,6 @@ msgstr ""
 
 msgctxt "[\"SUBMITTING\"]"
 msgid "Submitting..."
-msgstr ""
-
-msgctxt "[\"DEV-ICON_SIZE_ERROR\"]"
-msgid "You need to resize your high-res icon. The required dimensions are 512px * 512px."
-msgstr ""
-
-msgctxt "[\"DEV-ICON_TYPE_AND_SIZE_MSG\"]"
-msgid "The icon should be<br>- PNG <br>- limited to 1024KB"
-msgstr ""
-
-msgctxt "[\"DEV-IMG_ERROR\"]"
-msgid "The screenshots should be<br>- at least two<br>- JPEG or PNG<br>- Minimum dimension: 320px<br>- Maximum dimension: 3840px<br>- The maximum dimension can't be more than twice as long as the minimum dimension."
-msgstr ""
-
-msgctxt "[\"DEV-APK_DESCRIPTION_ERROR_MSG\"]"
-msgid "The description is limited to 4000 characters."
-msgstr ""
-
-msgctxt "[\"DEV-APK_DESCRIPTION_SHORT_ERROR_MSG\"]"
-msgid "The short description is limited to 80 characters."
-msgstr ""
-
-msgctxt "[\"DEV-BANNER_SIZE_ERROR\"]"
-msgid "You need to resize your feature graphic. The required dimensions are 1024px * 500px."
-msgstr ""
-
-msgctxt "[\"DEV-DEV_BANNER_SIZE_ERROR\"]"
-msgid "You need to resize your graphic. The required dimension is 4096px * 2304px."
-msgstr ""
-
-msgctxt "[\"DEV-INCORRECT_PKG_EMAIL\"]"
-msgid "Invalid package name or email"
-msgstr ""
-
-msgctxt "[\"DEV-SEND_EMAIL_ERR\"]"
-msgid "Failed to send mail"
-msgstr ""
-
-msgctxt "[\"DEV-PKG_EXISTS\"]"
-msgid "Application has been claimed"
-msgstr ""
-
-msgctxt "[\"DEV-GP_EXISTS\"]"
-msgid "This application has existed on google play."
-msgstr ""
-
-msgctxt "[\"DEV-INCORRECT_PKG\"]"
-msgid "Invalid Package Name"
-msgstr ""
-
-msgctxt "[\"DEV-NO_OFFICIAL_VERSION\"]"
-msgid "There is no Google Play official version on APKPure. Please claim this app later."
 msgstr ""
 
 msgctxt "[\"UPLOAD-FAILED\"]"
@@ -416,187 +364,187 @@ msgstr ""
 
 msgctxt "[\"DETAIL-MAIGHT_LIKE\"]"
 msgid "You Might Also Like"
-msgstr "Có thể bạn sẽ thích"
+msgstr ""
 
 msgctxt "[\"DETAIL-PAID_GAME\"]"
 msgid "Paid Game"
-msgstr "Trò chơi trả phí"
+msgstr ""
 
 msgctxt "[\"DETAIL-PAID_APP\"]"
 msgid "Paid App"
-msgstr "Ứng dụng trả phí"
+msgstr ""
 
 msgctxt "[\"DETAIL-PAID_GAME_DES\"]"
 msgid "Paid games are not available to download"
-msgstr "Trò chơi trả phí không có sẵn để tải về"
+msgstr ""
 
 msgctxt "[\"DETAIL-PAID_APP_DES\"]"
 msgid "Paid apps are not available to download"
-msgstr "Ứng dụng trả phí không có sẵn để tải về"
+msgstr ""
 
 msgctxt "[\"DETAIL-WHY_SAFE\"]"
 msgid "Why we can guarantee APK 100% safe?"
-msgstr "Tại sao chúng tôi đảm bảo 100% tệp APK là an toàn?"
+msgstr ""
 
 msgctxt "[\"DETAIL-SAFE\"]"
 msgid "Verification passed"
-msgstr "Đã xác nhận"
+msgstr ""
 
 msgctxt "[\"DETAIL-XAPK_SHORT_DES\"]"
 msgid "XAPK is APK with OBB data, Click to get XAPK Installer"
-msgstr "XAPK là APK với dữ liệu OBB, Nhấn để tải bộ cài XAPK"
+msgstr ""
 
 msgctxt "[\"DETAIL-MOBILE_XAPK_SHORT_DES\"]"
 msgid "Click to get XAPK Installer"
-msgstr "Nhấn để tải Bộ cài XAPK"
+msgstr ""
 
 msgctxt "[\"DETAIL-LATEST_VERSION\"]"
 msgid "Latest Version"
-msgstr "Phiên bản mới nhất"
+msgstr ""
 
 msgctxt "[\"DETAIL-PUBLISH_DATE\"]"
 msgid "Publish Date"
-msgstr "Ngày phát hành"
+msgstr ""
 
 msgctxt "[\"DETAIL-GET_IT_ON\"]"
 msgid "Get it on"
-msgstr "Lấy nó trên"
+msgstr ""
 
 msgctxt "[\"DETAIL-REQUIREMENTS\"]"
 msgid "Requirements"
-msgstr "Yêu cầu"
+msgstr ""
 
 msgctxt "[\"DETAIL-AUTHOR\"]"
 msgid "Author"
-msgstr "Tác giả"
+msgstr ""
 
 msgctxt "[\"DETAIL-REPORT\"]"
 msgid "Report"
-msgstr "Báo cáo"
+msgstr ""
 
 msgctxt "[\"DETAIL-FLAG_AS_INAPPROPRIATE\"]"
 msgid "Flag as inappropriate"
-msgstr "Gắn cờ là không phù hợp"
+msgstr ""
 
 msgctxt "[\"DETAIL-VOTES\"]"
 msgid "votes"
-msgstr "đánh giá"
+msgstr ""
 
 msgctxt "[\"DETAIL-THE_DESCRIPTION\"]"
 msgid "The description of {0}"
-msgstr "Mô tả của {0}"
+msgstr ""
 
 msgctxt "[\"DETAIL-OFFICIAL_TRAILER\"]"
 msgid "{0} for Android official Trailer"
-msgstr "{0} cho Trailer Android chính thức"
+msgstr ""
 
 msgctxt "[\"DETAIL-VERSION\"]"
 msgid "Version"
-msgstr "Phiên bản"
+msgstr ""
 
 msgctxt "[\"DETAIL-UPDATE_ON\"]"
 msgid "Update on"
-msgstr "Cập nhật vào"
+msgstr ""
 
 msgctxt "[\"DETAIL-SIGNATURE\"]"
 msgid "Signature"
-msgstr "Chữ ký"
+msgstr ""
 
 msgctxt "[\"DETAIL-FILE_SHA1\"]"
 msgid "File SHA1"
-msgstr "Tệp SHA1"
+msgstr ""
 
 msgctxt "[\"DETAIL-APK_FILE_SHA1\"]"
 msgid "APK File SHA1"
-msgstr "Tệp APK SHA1"
+msgstr ""
 
 msgctxt "[\"DETAIL-XAPK_FILE_SHA1\"]"
 msgid "XAPK File SHA1"
-msgstr "Tệp XAPK SHA1"
+msgstr ""
 
 msgctxt "[\"DETAIL-WHATS_NEW\"]"
 msgid "What's new"
-msgstr "Có gì mới"
+msgstr ""
 
 msgctxt "[\"DETAIL-VERSION_HISTORY\"]"
 msgid "Version History"
-msgstr "Phiên bản cũ"
+msgstr ""
 
 msgctxt "[\"DETAIL-MORE_FROM_DEVELOPER\"]"
 msgid "More From Developer"
-msgstr "Xem thêm từ nhà phát triển"
+msgstr ""
 
 msgctxt "[\"DETAIL-MORE_FROM\"]"
 msgid "More From {0}"
-msgstr "Xem thêm từ {0}"
+msgstr ""
 
 msgctxt "[\"DETAIL-FOLLOW_UPDATES\"]"
 msgid "Follow Updates"
-msgstr "Theo dõi cập nhật"
+msgstr ""
 
 msgctxt "[\"DETAIL-REQUEST_UPDATE\"]"
 msgid "Request Update"
-msgstr "Yêu cầu cập nhật"
+msgstr ""
 
 msgctxt "[\"DETAIL-RATING\"]"
 msgid "{votes} votes, average: {rating_average} out of {rating_best}"
-msgstr "{votes} đánh giá, trung bình: {rating_average} trên {rating_best}"
+msgstr ""
 
 msgctxt "[\"DETAIL-RATING1\"]"
 msgid "average: {rating_average} out of {rating_best}"
-msgstr "trung bình: {rating_average} trên {rating_best}"
+msgstr ""
 
 msgctxt "[\"DETAIL-MORE_DEVELOPER\"]"
 msgid "Get more from {0}"
-msgstr "Xem thêm từ {0}"
+msgstr ""
 
 msgctxt "[\"DETAIL-REMOVED\"]"
 msgid "Removed"
-msgstr "Đã loại bỏ"
+msgstr ""
 
 msgctxt "[\"DETAIL-CATEGORY_GAME\"]"
 msgid "{0} GAME"
-msgstr "{0} TRÒ CHƠI"
+msgstr ""
 
 msgctxt "[\"DETAIL-CATEGORY_APP\"]"
 msgid "{0} APP"
-msgstr "{0} ỨNG DỤNG"
+msgstr ""
 
 msgctxt "[\"DETAIL-VERSION_LOAD_MORE\"]"
 msgid "Load more"
-msgstr "Nhiều hơn nữa"
+msgstr ""
 
 msgctxt "[\"DETAIL-VERSION_MORE\"]"
 msgid "More..."
-msgstr "Nhiều hơn..."
+msgstr ""
 
 msgctxt "[\"DETAIL-TRANSLATE\"]"
 msgid "Translate"
-msgstr "Dịch thuật"
+msgstr ""
 
 msgctxt "[\"DETAIL-GP_DOWNLOAD\"]"
 msgid "Install on Google Play"
-msgstr "Cài đặt từ Google Play"
+msgstr ""
 
 msgctxt "[\"DETAIL-ITUNE_DOWNLOAD\"]"
 msgid "Install on iTunes"
-msgstr "Cài đặt từ iTunes"
+msgstr ""
 
 msgctxt "[\"DETAIL-MORE_DOWNLOAD\"]"
 msgid "More Download Locations:"
-msgstr "Thêm địa chỉ tải về:"
+msgstr ""
 
 msgctxt "[\"DETAIL-DELETED_COPYRIGHT_GOOGLE_PLAY_URL\"]"
 msgid "Download on Google Play"
-msgstr "Tải về từ Google Play"
+msgstr ""
 
 msgctxt "[\"DETAIL-DELETED_COPYRIGHT_GOOGLE_PLAY_DES\"]"
 msgid "{app_name} All rights reserved ©2020 {developer}. {developer} and the {developer} logo are trademarks of {developer} in the U.S. and/or other countries.All other trademarks are the property of their respective owners."
-msgstr "{app_name} Đã đăng ký Bản quyền ©2020 {developer}. {developer} và logo {developer} là thương hiệu của {developer} tại Hoa Kỳ và/hoặc quốc gia khác. Tất cả các thương hiệu khác là tài sản của chủ sở hữu tương ứng."
+msgstr ""
 
 msgctxt "[\"DETAIL_DOWNLOAD-DOWNLOADING\"]"
 msgid "Downloading"
-msgstr "Đang tải về"
+msgstr ""
 
 msgctxt "[\"DETAIL_DOWNLOAD-FAST_DOWNLOADING\"]"
 msgid "Fast Downloading"
@@ -608,23 +556,23 @@ msgstr ""
 
 msgctxt "[\"DETAIL_DOWNLOAD-DOWNLOADING_DES\"]"
 msgid "If the download doesn't start,"
-msgstr "Nếu việc tải về không tự bắt đầu,"
+msgstr ""
 
 msgctxt "[\"DETAIL_DOWNLOAD-DOWNLOADING_DES_CLICK\"]"
 msgid "click here"
-msgstr "nhấn vào đây"
+msgstr ""
 
 msgctxt "[\"DETAIL_DOWNLOAD-HOW_TO_INSTALL_APK\"]"
 msgid "How to install APK / XAPK file"
-msgstr "Cách để cài tệp APK / XAPK"
+msgstr ""
 
 msgctxt "[\"VERSION-PREVIOUS\"]"
 msgid "Previous versions"
-msgstr "Phiên bản trước"
+msgstr ""
 
 msgctxt "[\"VERSION-VERSIONS\"]"
 msgid "Versions"
-msgstr "Phiên bản"
+msgstr ""
 
 msgctxt "[\"VERSION-ALL-VERSIONS\"]"
 msgid "All Versions"
@@ -632,7 +580,7 @@ msgstr ""
 
 msgctxt "[\"VERSION-REQUIRES_ANDROID\"]"
 msgid "Requires Android"
-msgstr "Yêu cầu Android"
+msgstr ""
 
 msgctxt "[\"VARIANT-VARIANTS\"]"
 msgid "{0} Variants"
@@ -684,55 +632,55 @@ msgstr ""
 
 msgctxt "[\"COMMENT-ADD_NEW_DISCUSSION\"]"
 msgid "Add A New Discussion"
-msgstr "Thêm thảo luận mới"
+msgstr ""
 
 msgctxt "[\"COMMENT-REPLIES\"]"
 msgid "Replies"
-msgstr "Trả lời"
+msgstr ""
 
 msgctxt "[\"COMMENT-DISCUSSIONS\"]"
 msgid "Discussions"
-msgstr "Thảo luận"
+msgstr ""
 
 msgctxt "[\"COMMENT-ALL_DISCUSSIONS\"]"
 msgid "See all discussions"
-msgstr "Xem tất cả các thảo luận"
+msgstr ""
 
 msgctxt "[\"COMMENT-SEE_ALL_DISCUSSIONS\"]"
 msgid "See all {0} discussions"
-msgstr "Xem tất cả {0} thảo luận"
+msgstr ""
 
 msgctxt "[\"COMMENT-JOIN_IN_GROUP\"]"
 msgid "Join {0} group"
-msgstr "Tham gia nhóm {0}"
+msgstr ""
 
 msgctxt "[\"COMMENT-JOIN_GROUP\"]"
 msgid "Join Group"
-msgstr "Tham gia nhóm"
+msgstr ""
 
 msgctxt "[\"COMMENT-GROUP\"]"
 msgid "Group"
-msgstr "Nhóm"
+msgstr ""
 
 msgctxt "[\"COMMENT-TITLE_POST\"]"
 msgid "Post"
-msgstr "Bài viết"
+msgstr ""
 
 msgctxt "[\"COMMENT-ADD\"]"
 msgid "Add Comment"
-msgstr "Thêm bình luận"
+msgstr ""
 
 msgctxt "[\"COMMENT-ALL-REPLY\"]"
 msgid "All {0} replies"
-msgstr "Tất cả {0} câu trả lời"
+msgstr ""
 
 msgctxt "[\"COMMENT-VIEWS\"]"
 msgid "Views"
-msgstr "Lượt xem"
+msgstr ""
 
 msgctxt "[\"COMMENT-COLLAPSED\"]"
 msgid "comment collapsed"
-msgstr "nhận xét đã bị xoá"
+msgstr ""
 
 msgctxt "[\"COMMENT-REVIEW_OR_POST\"]"
 msgid "Post review or comment"
@@ -740,11 +688,11 @@ msgstr ""
 
 msgctxt "[\"COMMENT-REPLY\"]"
 msgid "Reply"
-msgstr "Trả lời"
+msgstr ""
 
 msgctxt "[\"COMMENT-NAME\"]"
 msgid "Name"
-msgstr "Tên"
+msgstr ""
 
 msgctxt "[\"COMMENT-EMAIL\"]"
 msgid "Email"
@@ -752,19 +700,19 @@ msgstr ""
 
 msgctxt "[\"COMMENT-SORT_BY_OLDEST\"]"
 msgid "Oldest"
-msgstr "Cũ nhất"
+msgstr ""
 
 msgctxt "[\"COMMENT-SORT_BY_BEST\"]"
 msgid "Best"
-msgstr "Tốt nhất"
+msgstr ""
 
 msgctxt "[\"COMMENT-SORT_BY_BEST_LONG\"]"
 msgid "Sort by best"
-msgstr "Sắp xếp theo tốt nhất"
+msgstr ""
 
 msgctxt "[\"COMMENT-SORT_BY_MOST_RECENT\"]"
 msgid "Most Recent"
-msgstr "Gần đây nhất"
+msgstr ""
 
 msgctxt "[\"COMMENT-SORT_BY_MOST_SCORE\"]"
 msgid "Top rated"
@@ -772,47 +720,47 @@ msgstr ""
 
 msgctxt "[\"COMMENT-SORT_BY_DEFAULT\"]"
 msgid "Sort by default"
-msgstr "Sắp xếp theo mặc định"
+msgstr ""
 
 msgctxt "[\"COMMENT-RATING_REQUIRED\"]"
 msgid "Rating required"
-msgstr "Yêu cầu đánh giá"
+msgstr ""
 
 msgctxt "[\"COMMENT-GUEST\"]"
 msgid "Guest"
-msgstr "Khách"
+msgstr ""
 
 msgctxt "[\"COMMENT-START_THE_DISCUSSION\"]"
 msgid "Start the discussion…"
-msgstr "Bắt đầu thảo luận…"
+msgstr ""
 
 msgctxt "[\"COMMENT-LOG_IN_WITH\"]"
 msgid "Log in with"
-msgstr "Đăng nhập với"
+msgstr ""
 
 msgctxt "[\"COMMENT-COMMENTS_CANT_BE_BLANK\"]"
 msgid "Comments can't be blank."
-msgstr "Bình luận không thể bỏ trống."
+msgstr ""
 
 msgctxt "[\"COMMENT-POST_AS_GUEST\"]"
 msgid "Post As a Guest"
-msgstr "Đăng với tư cách là Khách"
+msgstr ""
 
 msgctxt "[\"COMMENT-LOGOUT\"]"
 msgid "Logout"
-msgstr "Đăng xuất"
+msgstr ""
 
 msgctxt "[\"COMMENT-WEBSITE\"]"
 msgid "Website"
-msgstr "Trang web"
+msgstr ""
 
 msgctxt "[\"COMMENT-TO_BE_FIRST\"]"
 msgid "Ooops! No such content!"
-msgstr "Trở thành người đầu tiên bình luận."
+msgstr ""
 
 msgctxt "[\"COMMENT-VOTE\"]"
 msgid "Vote"
-msgstr "Đánh giá"
+msgstr ""
 
 msgctxt "[\"COMMENT-LIKE\"]"
 msgid "Like"
@@ -820,39 +768,39 @@ msgstr ""
 
 msgctxt "[\"COMMENT-ERR_QUICK_LOGIN\"]"
 msgid "Quick login error, please try again."
-msgstr "Lỗi đăng nhập nhanh, vui lòng thử lại."
+msgstr ""
 
 msgctxt "[\"COMMENT-ERR_EMAIL_NAME\"]"
 msgid "Incorrect mail or name"
-msgstr "Mail hoặc tên không chính xác"
+msgstr ""
 
 msgctxt "[\"COMMENT-ERR_DISCUSSION\"]"
 msgid "Incorrect in discussion"
-msgstr "Nội dung thảo luận không chính xác"
+msgstr ""
 
 msgctxt "[\"COMMENT-ERR_RATE\"]"
 msgid "Vote failed, repeated"
-msgstr "Đánh giá không thành công, đang thử lại"
+msgstr ""
 
 msgctxt "[\"COMMENT-ERR_SENSITIVE_WORD\"]"
 msgid "Comment failed, your post contains sensitive terms."
-msgstr "Ôi chết, bài đăng của bạn chứa những từ ngữ nhạy cảm"
+msgstr ""
 
 msgctxt "[\"COMMENT-ERR_SENSITIVE_WORD_AUDIT\"]"
 msgid "Your post contains sensitive terms and is pending approval by an admin"
-msgstr "Bài đăng của bạn có chứa từ nhạy cảm và đang chờ chấp thuận từ quản trị viên"
+msgstr ""
 
 msgctxt "[\"COMMENT-ERR_LINK_AUDIT\"]"
 msgid "Your post contains link and is pending approval by an admin"
-msgstr "Bài đăng của bạn chứa liên kết và đang chờ chấp thuận từ quản trị viên"
+msgstr ""
 
 msgctxt "[\"COMMENT-ERR_FORBIDDEN\"]"
 msgid "Permission denied"
-msgstr "Quyền bị từ chối"
+msgstr ""
 
 msgctxt "[\"COMMENT-ERR_FAILURE\"]"
 msgid "Comment unknown"
-msgstr "Bình luận vô danh"
+msgstr ""
 
 msgctxt "[\"COMMENT-ERR_EMOJI\"]"
 msgid "Emoji comments are not allowed any more! Write something..."
@@ -864,7 +812,7 @@ msgstr ""
 
 msgctxt "[\"COMMENT-ERR_INVALID_PARAMETER\"]"
 msgid "Invalid comment parameter"
-msgstr "Tham số bình luận không hợp lệ"
+msgstr ""
 
 msgctxt "[\"COMMENT-ERR_INVALID_USER\"]"
 msgid "You're banned from APKPure by using or posting content containing nudity images. Please edit or remove the images before contacting Admin to restore your account."
@@ -872,35 +820,35 @@ msgstr ""
 
 msgctxt "[\"COMMENT-ERR_INVALID_VIDEO_URL\"]"
 msgid "Invalid Video URL"
-msgstr "URL video không hợp lệ"
+msgstr ""
 
 msgctxt "[\"COMMENT-ERR_INVALID_REVIEW_USER\"]"
 msgid "To give your ratings, you need to verify your email."
-msgstr "Để đưa ra xếp hạng của bạn, bạn cần xác minh email của bạn."
+msgstr ""
 
 msgctxt "[\"COMMENT-DELETE\"]"
 msgid "Yes,delete it!"
-msgstr "Đồng ý, xóa nó!"
+msgstr ""
 
 msgctxt "[\"COMMENT-DELETED\"]"
 msgid "Deleted!"
-msgstr "Đã xóa!"
+msgstr ""
 
 msgctxt "[\"COMMENT-SAME_TEXT\"]"
 msgid "The text is the same, please post it later."
-msgstr "Các văn bản là như nhau, xin vui lòng gửi nó sau này."
+msgstr ""
 
 msgctxt "[\"COMMENT-DEL\"]"
 msgid "Delete"
-msgstr "Xóa"
+msgstr ""
 
 msgctxt "[\"COMMENT-ARE_YOU_SURE\"]"
 msgid "Are you sure?"
-msgstr "Bạn có chắc không?"
+msgstr ""
 
 msgctxt "[\"COMMENT-LOADING\"]"
 msgid "Comment Loading..."
-msgstr "Đang tải bình luận..."
+msgstr ""
 
 msgctxt "[\"COMMENT-DOWNLOAD_APK\"]"
 msgid "Download the APK file on APKPure."
@@ -912,11 +860,11 @@ msgstr ""
 
 msgctxt "[\"COMMENT-LINK\"]"
 msgid "Link"
-msgstr "Liên kết"
+msgstr ""
 
 msgctxt "[\"COMMENT-HASHTAG_NOT_EXIST\"]"
 msgid "The hashtag does not exist"
-msgstr "Thẻ bắt đầu bằng # không tồn tại"
+msgstr ""
 
 msgctxt "[\"COMMENT-HASHTAG\"]"
 msgid "Hashtag"
@@ -956,19 +904,19 @@ msgstr ""
 
 msgctxt "[\"HASHTAG\"]"
 msgid "HASHTAG"
-msgstr "Chủ đề"
+msgstr ""
 
 msgctxt "[\"HOT_HASHTAG\"]"
 msgid "Featured Hashtags"
-msgstr "Chủ đề nổi bật"
+msgstr ""
 
 msgctxt "[\"COOL_COMMENT\"]"
 msgid "Cool Comment"
-msgstr "Nhận xét tuyệt vời"
+msgstr ""
 
 msgctxt "[\"MORE_COOL_COMMENTS\"]"
 msgid "More cool comments"
-msgstr "Thêm"
+msgstr ""
 
 msgctxt "[\"USER-SETTINGS\"]"
 msgid "Settings"
@@ -1036,67 +984,67 @@ msgstr ""
 
 msgctxt "[\"USER-PROFILE\"]"
 msgid "Profile"
-msgstr "Tài khoản"
+msgstr ""
 
 msgctxt "[\"USER-CHANGE_PASSWORD\"]"
 msgid "Change Password"
-msgstr "Thay đổi mật khẩu"
+msgstr ""
 
 msgctxt "[\"USER-MESSAGES\"]"
 msgid "Messages"
-msgstr "Tin nhắn"
+msgstr ""
 
 msgctxt "[\"USER-MY_FAVORITE\"]"
 msgid "My Favorite"
-msgstr "Yêu thích"
+msgstr ""
 
 msgctxt "[\"USER-LIKED_COMMENTS\"]"
 msgid "Liked Comments"
-msgstr "Bình luận đã thích"
+msgstr ""
 
 msgctxt "[\"USER-NEW_PASSWORD\"]"
 msgid "New password"
-msgstr "Mật khẩu mới"
+msgstr ""
 
 msgctxt "[\"USER-CURRENT_PASSWORD\"]"
 msgid "Current password"
-msgstr "Mật khẩu hiện tại"
+msgstr ""
 
 msgctxt "[\"USER-ACCOUNT_EXIST\"]"
 msgid "The username is already in use."
-msgstr "Tên đăng nhập đã được sử dụng."
+msgstr ""
 
 msgctxt "[\"USER-ACCOUNT_NOT_EXIST\"]"
 msgid "The account you entered does not exist."
-msgstr "Tài khoản bạn nhập không tồn tại."
+msgstr ""
 
 msgctxt "[\"USER-DISPLAY_NAME_EXIST\"]"
 msgid "The nickname is already in use."
-msgstr "Biệt danh đã được sử dụng."
+msgstr ""
 
 msgctxt "[\"USER-INCORRECT_EMAIL\"]"
 msgid "The e-mail address you entered is invalid."
-msgstr "Địa chỉ e-mail bạn nhập không hợp lệ."
+msgstr ""
 
 msgctxt "[\"USER-INCORRECT_PASSWORD\"]"
 msgid "The password you entered is invalid."
-msgstr "Mật khẩu không hợp lệ."
+msgstr ""
 
 msgctxt "[\"USER-INCORRECT_ACCOUNT\"]"
 msgid "The username you entered is invalid."
-msgstr "Tên đăng nhập không hợp lệ."
+msgstr ""
 
 msgctxt "[\"USER-INCORRECT_BIRTHDAY\"]"
 msgid "You have entered an invalid birthday."
-msgstr "Bạn đã nhập ngày sinh không có thực."
+msgstr ""
 
 msgctxt "[\"USER-INCORRECT_INTRO\"]"
 msgid "Information you have entered contains invalid characters."
-msgstr "Thông tin bạn vừa nhập chứa kí tự không hợp lệ."
+msgstr ""
 
 msgctxt "[\"USER-UNKNOWN_ERROR\"]"
 msgid "unknown mistake."
-msgstr "lỗi không xác định."
+msgstr ""
 
 msgctxt "[\"USER-DISABLE\"]"
 msgid "This account has been deleted"
@@ -1104,7 +1052,7 @@ msgstr ""
 
 msgctxt "[\"USER-BAD_NAME\"]"
 msgid "Your input includes sensitive vocabulary."
-msgstr "Nội dung bạn vừa nhập chứa các từ nhạy cảm."
+msgstr ""
 
 msgctxt "[\"USER-SOCIAL_ALREADY_BIND\"]"
 msgid "This third-party account has been connected to another account."
@@ -1152,35 +1100,35 @@ msgstr ""
 
 msgctxt "[\"USER-FEMALE\"]"
 msgid "Female"
-msgstr "Nữ"
+msgstr ""
 
 msgctxt "[\"USER-MALE\"]"
 msgid "Male"
-msgstr "Nam"
+msgstr ""
 
 msgctxt "[\"USER-USER_LOGIN\"]"
 msgid "User Login"
-msgstr "Người dùng đăng nhập"
+msgstr ""
 
 msgctxt "[\"USER-USERNAME\"]"
 msgid "Username"
-msgstr "Tên đăng nhập"
+msgstr ""
 
 msgctxt "[\"USER-NICKNAME\"]"
 msgid "Nickname"
-msgstr "Biệt danh"
+msgstr ""
 
 msgctxt "[\"USER-BIRTHDAY\"]"
 msgid "Birthday"
-msgstr "Ngày sinh"
+msgstr ""
 
 msgctxt "[\"USER-GENDER\"]"
 msgid "Gender"
-msgstr "Giới tính"
+msgstr ""
 
 msgctxt "[\"USER-SAVE\"]"
 msgid "Save"
-msgstr "Lưu"
+msgstr ""
 
 msgctxt "[\"USER-SAVE_BTN\"]"
 msgid "SAVE"
@@ -1188,19 +1136,19 @@ msgstr ""
 
 msgctxt "[\"USER-SAVING\"]"
 msgid "Saving..."
-msgstr "Đang lưu..."
+msgstr ""
 
 msgctxt "[\"USER-MY_PICTURE\"]"
 msgid "My Picture"
-msgstr "Ảnh của tôi"
+msgstr ""
 
 msgctxt "[\"USER-CHANGE_PICTURE\"]"
 msgid "Change Picture"
-msgstr "Thay đổi ảnh"
+msgstr ""
 
 msgctxt "[\"USER-PASSWORD\"]"
 msgid "Password"
-msgstr "Mật khẩu"
+msgstr ""
 
 msgctxt "[\"USER-RETRIEVE_PASSWORD\"]"
 msgid "Retrieve Password"
@@ -1208,91 +1156,91 @@ msgstr ""
 
 msgctxt "[\"USER-NEW_USER_REGISTRATION\"]"
 msgid "New User Registration"
-msgstr "Đăng ký người dùng mới"
+msgstr ""
 
 msgctxt "[\"USER-SIGN_IN_BTN\"]"
 msgid "SIGN IN"
-msgstr "ĐĂNG NHẬP"
+msgstr ""
 
 msgctxt "[\"USER-SIGN_IN\"]"
 msgid "Sign In"
-msgstr "Đăng nhập"
+msgstr ""
 
 msgctxt "[\"USER-SIGN_IN_WITH\"]"
 msgid "Or sign in with"
-msgstr "Hoặc đăng nhập với"
+msgstr ""
 
 msgctxt "[\"USER-SIGN_UP_BTN\"]"
 msgid "SIGN UP"
-msgstr "ĐĂNG KÝ"
+msgstr ""
 
 msgctxt "[\"USER-SIGN_UP\"]"
 msgid "Sign Up"
-msgstr "Đăng ký"
+msgstr ""
 
 msgctxt "[\"USER-CONFIRM_PASSWORD\"]"
 msgid "Confirm Password"
-msgstr "Xác nhận mật khẩu"
+msgstr ""
 
 msgctxt "[\"USER-TERMS_SERVICE\"]"
 msgid "By signing up you agree to our <a href='/terms-service.html' target='_blank'>terms of service</a>"
-msgstr "Bằng cách đăng kí bạn đã đồng ý với <a href='/terms-service.html' target='_blank'>điều khoản dịch vụ</a> của chúng tôi"
+msgstr ""
 
 msgctxt "[\"REGION_DOWN-TITLE\"]"
 msgid "Region free APK download"
-msgstr "Khu vực được tải APK miễn phí"
+msgstr ""
 
 msgctxt "[\"REGION_DOWN-DES\"]"
 msgid "- Download your favorite Android Apps with APK Downloader (Free Apps Only).<br>- Your download will begin automatically after you paste a package id and click the download button.<br>- Download failed? Please manually change country setting and try again.<br>- Want to tell us more about your problems? <a style='color:#FFFF00' href='contact-us.html'>Contact us here</a>"
-msgstr "- Tải về ứng dụng Android yêu thích của bạn với Trình tải về APK (Chỉ ứ.dụng miễn phí).<br>- Tải về sẽ bắt đầu tự động sau khi bạn dán một gói id và nhấn vào nút tải về.<br>- Bạn tải không thành công? Vui lòng thay đổi cài đặt quốc gia và thử lại.<br>- Bạn muốn hỗ trợ vấn đề? <a style='color:#FFFF00' href='contact-us.html'>Liên hệ ngay</a>"
+msgstr ""
 
 msgctxt "[\"REGION_DOWN-PLACEHOLDER\"]"
 msgid "com.facebook.katana or https://play.google.com...?id=com.facebook.katana"
-msgstr "com.facebook.katana hoặc https://play.google.com...?id=com.facebook.katana"
+msgstr ""
 
 msgctxt "[\"REGION_DOWN-SEARCH\"]"
 msgid "Search"
-msgstr "Tìm kiếm"
+msgstr ""
 
 msgctxt "[\"REGION_DOWN-COUNTRY_NAME\"]"
 msgid "Country name or Region code"
-msgstr "Tên quốc gia hoặc Mã vùng"
+msgstr ""
 
 msgctxt "[\"REGION_DOWN-MOBILE_TITLE\"]"
 msgid "APK Downloader"
-msgstr "Trình tải về APK"
+msgstr ""
 
 msgctxt "[\"REGION_DOWN-MOBILE_DES\"]"
 msgid "All Region Games and Apps Download."
-msgstr "Trò chơi và ứng dụng tải về tất cả khu vực."
+msgstr ""
 
 msgctxt "[\"LAST_DOWNLOAD\"]"
 msgid "Last Download"
-msgstr "Lượt tải cuối cùng"
+msgstr ""
 
 msgctxt "[\"SIGN_VERIFY-TITLE\"]"
 msgid "Signature Verification Online"
-msgstr "Chữ ký xác nhận trực tuyến"
+msgstr ""
 
 msgctxt "[\"SIGN_VERIFY-CLICK_UPLOAD\"]"
 msgid "Click Upload APK file"
-msgstr "Nhấn để tải lên tệp APK"
+msgstr ""
 
 msgctxt "[\"SIGN_VERIFY-MAXIMUM\"]"
 msgid "Maximum file size"
-msgstr "Dung lượng tệp tối đa"
+msgstr ""
 
 msgctxt "[\"SIGN_VERIFY-DES\"]"
 msgid "APK Signature verification will verify Android app package signature to keep Android users away from potentially harmful APK files before APK installing."
-msgstr "Hệ thống xác nhận APK Signature sẽ xác nhận signature của gói ứng dụng Android để tránh người dùng Android khỏi các tập tin APK nguy hiểm trước khi gói APK đó được cài đặt vào thiết bị."
+msgstr ""
 
 msgctxt "[\"SIGN_VERIFY-PACKAGE_NAME\"]"
 msgid "Package Name"
-msgstr "Tên gói hàng"
+msgstr ""
 
 msgctxt "[\"SIGN_VERIFY-FILE_SIZE\"]"
 msgid "File Size"
-msgstr "Dung lượng tệp"
+msgstr ""
 
 msgctxt "[\"SEARCH-ON_THE_APP_STORE\"]"
 msgid "{0} On the App Store"
@@ -1300,43 +1248,43 @@ msgstr ""
 
 msgctxt "[\"SEARCH-ADVANCED_SEARCH\"]"
 msgid "Advanced Search"
-msgstr "Tìm kiếm nâng cao"
+msgstr ""
 
 msgctxt "[\"SEARCH-SEARCH_RESULTS\"]"
 msgid "{0} search results found."
-msgstr "{0} kết quả tìm kiếm được tìm thấy."
+msgstr ""
 
 msgctxt "[\"SEARCH-NO_RESULTS_FOUND\"]"
 msgid "No results found? Try to advanced search again."
-msgstr "Không có kết quả nào được tìm thấy? Thử tìm kiếm nâng cao một lần nữa."
+msgstr ""
 
 msgctxt "[\"SEARCH-SELECT_REGION\"]"
 msgid "Select a region you want to search with"
-msgstr "Chọn một khu vực mà bạn muốn tìm kiếm với"
+msgstr ""
 
 msgctxt "[\"SEARCH-ABOUT_RESULTS\"]"
 msgid "About {0} results"
-msgstr "Về {0} kết quả"
+msgstr ""
 
 msgctxt "[\"SEARCH-PLACEHOLDER1\"]"
 msgid "APKPure or com.apkpure.aegon"
-msgstr "APKPure hoặc com.apkpure.aegon"
+msgstr ""
 
 msgctxt "[\"SEARCH-PLACEHOLDER2\"]"
 msgid "Search..."
-msgstr "Tìm kiếm..."
+msgstr ""
 
 msgctxt "[\"SEARCH-PLACEHOLDER3\"]"
 msgid "Name Or Package Name"
-msgstr "Tên hoặc Tên gói"
+msgstr ""
 
 msgctxt "[\"SEARCH-TITLE\"]"
 msgid "Enter App Name, Package Name, Package ID"
-msgstr "Nhập tên ứng dụng, tên gói, ID gói"
+msgstr ""
 
 msgctxt "[\"SEARCH-APK\"]"
 msgid "Search APK"
-msgstr "Tìm kiếm APK"
+msgstr ""
 
 msgctxt "[\"SEARCH-APP\"]"
 msgid "Search App"
@@ -1344,11 +1292,11 @@ msgstr ""
 
 msgctxt "[\"SEARCH-TRENDING\"]"
 msgid "Trending searches"
-msgstr "tìm kiếm thịnh hành"
+msgstr ""
 
 msgctxt "[\"SEARCH-HISTORY\"]"
 msgid "Search history"
-msgstr "Lịch sử tìm kiếm"
+msgstr ""
 
 msgctxt "[\"SEARCH-FEATURED_HASHTAG\"]"
 msgid "Featured hashtags"
@@ -1356,11 +1304,11 @@ msgstr ""
 
 msgctxt "[\"SEARCH-TAB_USERS\"]"
 msgid "Users"
-msgstr "Người dùng"
+msgstr ""
 
 msgctxt "[\"SEARCH-TAB_HASHTAGS\"]"
 msgid "Hashtags"
-msgstr "Chủ đề"
+msgstr ""
 
 msgctxt "[\"SEARCH-NO_RESULTS\"]"
 msgid "Sorry, no results found."
@@ -1368,11 +1316,11 @@ msgstr ""
 
 msgctxt "[\"404-OOPS\"]"
 msgid "OOPS!,"
-msgstr "Ôi!,"
+msgstr ""
 
 msgctxt "[\"404-Error_404\"]"
 msgid "Error 404!"
-msgstr "Lỗi 404!"
+msgstr ""
 
 msgctxt "[\"PRE-REG-RECOMMEND\"]"
 msgid "Recommendations"
@@ -1380,15 +1328,15 @@ msgstr ""
 
 msgctxt "[\"404-DES\"]"
 msgid "It seems that page you are looking for no longer exists.<br />You can explore more Android Games and Apps below!"
-msgstr "Hình như trang bạn đang tìm không tồn tại.<br /> Nhưng bạn vẫn có thể khám phá nhiều trò chơi và ứng dụng Android phía dưới!"
+msgstr ""
 
 msgctxt "[\"FREQUENTLY-VISITED\"]"
 msgid "Your operation is too frequent. Please try again in {time} minutes."
-msgstr "Hoạt động của bạn là quá thường xuyên. Vui lòng thử lại sau {time} phút."
+msgstr ""
 
 msgctxt "[\"COPYRIGHT\"]"
 msgid "Copyright © 2014-2020 APKPure All rights reserved."
-msgstr "Bản quyền APKPure © 2014-2020. Mọi quyền được bảo lưu."
+msgstr ""
 
 msgctxt "[\"COPYRIGHT_MOBILE\"]"
 msgid "APKPure.com © 2014-2020"
@@ -1396,71 +1344,71 @@ msgstr ""
 
 msgctxt "[\"COMING_SOON\"]"
 msgid "COMING SOON"
-msgstr "SẮP RA MẮT"
+msgstr ""
 
 msgctxt "[\"SEARCHING\"]"
 msgid "Searching..."
-msgstr "Đang tìm kiếm..."
+msgstr ""
 
 msgctxt "[\"FOOTER-APK_DOWNLOADS_SEO\"]"
 msgid "APK Downloads"
-msgstr "Tải về APK"
+msgstr ""
 
 msgctxt "[\"FOOTER-APK_DOWNLOAD\"]"
 msgid "APK Downloader (Region free)"
-msgstr "Trình tải về APK (Vùng miễn phí)"
+msgstr ""
 
 msgctxt "[\"FOOTER-APK_SIGNATURE_VERIFICATION\"]"
 msgid "APK Signature Verification"
-msgstr "Xác thực Chữ ký APK"
+msgstr ""
 
 msgctxt "[\"FOOTER-APK_TO_APPX\"]"
 msgid "APK to APPX"
-msgstr "APK tới APPX"
+msgstr ""
 
 msgctxt "[\"FOOTER-PRIVACY_POLICY\"]"
 msgid "Privacy Policy"
-msgstr "Chính sách bảo mật"
+msgstr ""
 
 msgctxt "[\"FOOTER-DMCA\"]"
 msgid "DMCA Disclaimer"
-msgstr "Luật bảo vệ bàn quyền tác giả"
+msgstr ""
 
 msgctxt "[\"FOOTER-TERM_OF_USE\"]"
 msgid "Term of Use"
-msgstr "Điều khoản sử dụng"
+msgstr ""
 
 msgctxt "[\"FOOTER-MARKET_FOR_ANDROID\"]"
 msgid "APKPure For Android"
-msgstr "APKPure cho Android"
+msgstr ""
 
 msgctxt "[\"FOOTER-EXPLORE_XAPK_GAMES\"]"
 msgid "Explore XAPK Games"
-msgstr "Khám phá trò chơi XAPK"
+msgstr ""
 
 msgctxt "[\"FOOTER-EXPLORE_XAPK_APPS\"]"
 msgid "Explore XAPK Apps"
-msgstr "Khám phá ứng dụng XAPK"
+msgstr ""
 
 msgctxt "[\"FOOTER-DESKTOP_VERSION\"]"
 msgid "Desktop Version"
-msgstr "Phiên bản máy tính"
+msgstr ""
 
 msgctxt "[\"FOOTER-MOBILE_VERSION\"]"
 msgid "Mobile Version"
-msgstr "Phiên bản di động"
+msgstr ""
 
 msgctxt "[\"FOOTER-MOBILE_SITE\"]"
 msgid "Mobile Site"
-msgstr "Trang di động"
+msgstr ""
 
 msgctxt "[\"FOOTER-CONTACT_US\"]"
 msgid "Contact Us"
-msgstr "Liên hệ với chúng tôi"
+msgstr ""
 
 msgctxt "[\"FOOTER-ABOUT\"]"
 msgid "About Us"
-msgstr "Về chúng tôi"
+msgstr ""
 
 msgctxt "[\"FOOTER-UPLOAD-APK\"]"
 msgid "Submit APK"
@@ -1468,31 +1416,31 @@ msgstr ""
 
 msgctxt "[\"FOOTER-SOLUTIONS\"]"
 msgid "SOLUTIONS"
-msgstr "GIẢI PHÁP"
+msgstr ""
 
 msgctxt "[\"FOOTER-CUSTOMER_SERVICE\"]"
 msgid "CUSTOMER SERVICE"
-msgstr "DỊCH VỤ KHÁCH HÀNG"
+msgstr ""
 
 msgctxt "[\"FOOTER-FOLLOW_US\"]"
 msgid "FOLLOW US"
-msgstr "THEO DÕI CHÚNG TÔI"
+msgstr ""
 
 msgctxt "[\"FOOTER-TOP_ANDROID_APPS\"]"
 msgid "TOP ANDROID APPS"
-msgstr "Ứng dụng Android hàng đầu"
+msgstr ""
 
 msgctxt "[\"FOOTER-TOP_ANDROID_GAMES\"]"
 msgid "TOP ANDROID GAMES"
-msgstr "Trò chơi Android hàng đầu"
+msgstr ""
 
 msgctxt "[\"FOOTER-TRANSLATE\"]"
 msgid "Help translate APKPure"
-msgstr "Giúp dịch thuật APKPure"
+msgstr ""
 
 msgctxt "[\"FOOTER-DEVELOPER\"]"
 msgid "Submit Your App"
-msgstr "Gửi ứng dụng của bạn"
+msgstr ""
 
 msgctxt "[\"FOOTER-DEVELOPER_CONSOLE\"]"
 msgid "Developer Console"
@@ -1500,19 +1448,19 @@ msgstr ""
 
 msgctxt "[\"FOOTER-COOPERATION\"]"
 msgid "Business Cooperation"
-msgstr "Công ty Thương mại"
+msgstr ""
 
 msgctxt "[\"FOOTER-REPORT_ABUSE\"]"
 msgid "Report abuse"
-msgstr "Báo cáo lạm dụng"
+msgstr ""
 
 msgctxt "[\"MARKET-PAGE_TOP_GAMES\"]"
 msgid "Top Games"
-msgstr "Trò chơi"
+msgstr ""
 
 msgctxt "[\"MARKET-PAGE_TOP_APPS\"]"
 msgid "Top Apps"
-msgstr "Ứng dụng"
+msgstr ""
 
 msgctxt "[\"MARKET-PAGE_TOP_DEVELOPERS\"]"
 msgid "Top Developers"
@@ -1524,15 +1472,15 @@ msgstr ""
 
 msgctxt "[\"MARKET-POP_TITLE\"]"
 msgid "APKPure AppStore App"
-msgstr "Ứng dụng AppStore APKPure"
+msgstr ""
 
 msgctxt "[\"MARKET-POP_CHANGE_TITLE\"]"
 msgid "Change Profile Settings"
-msgstr "Thay đổi cài đặt tài khoản"
+msgstr ""
 
 msgctxt "[\"MARKET-POP_ADD_IMAGE\"]"
 msgid "Add Images To Post"
-msgstr "Thêm ảnh vào bài đăng"
+msgstr ""
 
 msgctxt "[\"MARKET-POP_ADD_NEW_POST\"]"
 msgid "Add New Post or Comment"
@@ -1544,115 +1492,115 @@ msgstr ""
 
 msgctxt "[\"MARKET-QR\"]"
 msgid "Download<br>APKPure App"
-msgstr "Tải về <br>ứng dụng APKPure"
+msgstr ""
 
 msgctxt "[\"MARKET-QR-TITLE\"]"
 msgid "Download APKPure App"
-msgstr "Tải về ứng dụng APKPure"
+msgstr ""
 
 msgctxt "[\"MARKET-INDEX_SHORT_DES\"]"
 msgid "Try <strong title=\"Download APKPure APK\">APKPure App</strong> - Download, update and install apks on your Android."
-msgstr "Thử <strong title=\"Download APKPure APK\">ứng dụng APKPure</strong>- Tải về, cập nhật và cài đặt tệp APK lên thiết bị Android của bạn."
+msgstr ""
 
 msgctxt "[\"MARKET-INDEX_SHORT_DES_TITLE\"]"
 msgid "Try APKPure Mobile app, to install, manage and update your Android apps."
-msgstr "Hãy thử ứng dụng APKPure Mobile, để cài đặt, quản lí và cập nhật ứng dụng Android của bạn."
+msgstr ""
 
 msgctxt "[\"MARKET-DETAIL_APK_SHORT_DES\"]"
 msgid "Faster apks download and update on APKPure App"
-msgstr "Tải về và cập nhật ứng dụng nhanh hơn trên ứng dụng APKPure"
+msgstr ""
 
 msgctxt "[\"MARKET-DETAIL_APK_SHORT_DES_MOBILE\"]"
 msgid "Download and update on APKPure App"
-msgstr "Tải về và cập nhật trên ứng dụng APKPure"
+msgstr ""
 
 msgctxt "[\"MARKET-DETAIL_APK_SHORT_DES_TITLE\"]"
 msgid "Faster apks download and update on APKPure"
-msgstr "Tải về và cập nhật tệp apk nhanh hơn với APKpure"
+msgstr ""
 
 msgctxt "[\"MARKET-DETAIL_XAPK_SHORT_DES\"]"
 msgid "Install and update XAPK with APKPure App"
-msgstr "Cài đặt và cập nhật XAPK với ứng dụng APKPure"
+msgstr ""
 
 msgctxt "[\"MARKET-INDEX_BANNER_TITLE\"]"
 msgid "APKPure APP"
-msgstr "ỨNG DỤNG APKPure"
+msgstr ""
 
 msgctxt "[\"MARKET-INDEX_BANNER_DES\"]"
 msgid "Install,manage and update your apps"
-msgstr "Cài đặt, quản lý và cập nhật ứng dụng của bạn"
+msgstr ""
 
 msgctxt "[\"MARKET-BOTTOM_BANNER_DES\"]"
 msgid "Try APKPure App - Download, update and install apks on your Android."
-msgstr "Thử ứng dụng APKPure - Tải về, cập nhật và cài đặt tệp apk trên thiết bị của bạn."
+msgstr ""
 
 msgctxt "[\"MARKET-BOTTOM_BANNER_DETAIL_APK_DES\"]"
 msgid "Using APKPure App to upgrade <strong>{0}</strong>, fast, free and save your internet data."
-msgstr "Sử dụng ứng dụng APKPure để cập nhật <strong>{0}</strong>, nhanh, miễn phí và tiết kiệm dữ liệu mạng."
+msgstr ""
 
 msgctxt "[\"MARKET-BOTTOM_BANNER_DETAIL_APK_DES_TITLE\"]"
 msgid "Using APKPure App to upgrade {0}, fast, free and save your internet data."
-msgstr "Sử dụng ứng dụng APKPure để cập nhật {0}, nhanh, miễn phí và tiết kiệm dữ liệu mạng."
+msgstr ""
 
 msgctxt "[\"MARKET-BOTTOM_BANNER_DETAIL_XAPK_DES\"]"
 msgid "Using APKPure App to upgrade <strong>{0}</strong>, install xapk, fast, free and save your internet data."
-msgstr "Sử dụng ứng dụng APKPure để cập nhật<strong>{0}</strong>, cài đặt xapk, nhanh, miễn phí và tiết kiệm dữ liệu mạng."
+msgstr ""
 
 msgctxt "[\"MARKET-BOTTOM_BANNER_DETAIL_XAPK_DES_TITLE\"]"
 msgid "Using APKPure App to upgrade {0}, install xapk, fast, free and save your internet data."
-msgstr "Sử dụng ứng dụng APKPure để cập nhật {0}, cài đặt xapk, nhanh, miễn phí và tiết kiệm dữ liệu mạng."
+msgstr ""
 
 msgctxt "[\"MARKET-BOTTOM_BANNER_DOWNLOAD_BTN\"]"
 msgid "Download APP"
-msgstr "Tải ứng dụng"
+msgstr ""
 
 msgctxt "[\"MARKET-PROMOTION_BANNER_MOBILE1\"]"
 msgid "<p class=\"desc\">Using APKPure App to download/update this apk, faster, free and saving data!</p>"
-msgstr "<p class=\"desc\">Sử dụng APKPure để tải/cập nhật ứng dụng này, nhanh hơn, miễn phí và tiết kiệm dữ liệu!</p>"
+msgstr ""
 
 msgctxt "[\"MARKET-PROMOTION_BANNER_MOBILE1_XAPK\"]"
 msgid "<p class=\"desc\">Using APKPure App to install this XAPK, faster, free and saving data!</p>"
-msgstr "<p class=\"desc\">Sử dụng ứng dụng APKPure để cài đặt XAPK này, nhanh hơn, miễn phí và tiết kiệm dữ liệu!</p>"
+msgstr ""
 
 msgctxt "[\"MARKET-PROMOTION_BANNER_MOBILE2\"]"
 msgid "<p class=\"tit\">Using APKPure App</p><p class=\"des\">Faster, free and saving data!</p>"
-msgstr "<p class=\"tit\">Sử dụng ứng dụng APKPure</p><p class=\"des\">Nhanh hơn, miễn phí và tiết kiệm dữ liệu!</p>"
+msgstr ""
 
 msgctxt "[\"MARKET-PROMOTION_BANNER_MOBILE2_XAPK\"]"
 msgid "<p class=\"tit\">Using APKPure App</p><p class=\"des\">Install XAPK, Faster, free and saving data!</p>"
-msgstr "<p class=\"tit\">Sử dụng ứng dụng APKPure</p><p class=\"des\">Cài đặt XAPK, nhanh hơn, miễn phí và tiết kiệm dữ liệu!</p>"
+msgstr ""
 
 msgctxt "[\"MARKET-PROMOTION_BANNER_DOWN\"]"
 msgid "<p class=\"tit\">Using APKPure App</p><p class=\"des\">Download / Update this {0}, faster, free and saving data!</p>"
-msgstr "<p class=\"tit\">Sử dụng ứng dụng APKPure</p><p class=\"des\">Tải về/Cập nhật {0} này, nhanh hơn, miễn phí và tiết kiệm dữ liệu!</p>"
+msgstr ""
 
 msgctxt "[\"FLAG-Africa\"]"
 msgid "Africa"
-msgstr "Châu Phi"
+msgstr ""
 
 msgctxt "[\"FLAG-Americas\"]"
 msgid "Americas"
-msgstr "Châu Mỹ"
+msgstr ""
 
 msgctxt "[\"FLAG-Asia\"]"
 msgid "Asia"
-msgstr "Châu Á"
+msgstr ""
 
 msgctxt "[\"FLAG-Europe\"]"
 msgid "Europe"
-msgstr "Châu Âu"
+msgstr ""
 
 msgctxt "[\"FLAG-Oceania\"]"
 msgid "Oceania"
-msgstr "Châu Đại Dương"
+msgstr ""
 
 msgctxt "[\"FLAG-Rest_of_the_world\"]"
 msgid "Rest of the world"
-msgstr "Phần còn lại của thế giới"
+msgstr ""
 
 msgctxt "[\"ERROR-SUBTITLE\"]"
 msgid "You can visit the following Games and Apps instead"
-msgstr "Thay vì thế bạn có thể ghé thăm ứng dụng và trò chơi bên dưới"
+msgstr ""
 
 msgctxt "[\"RECOMMENDED-POSTS\"]"
 msgid "Recommended Posts"
@@ -1712,75 +1660,75 @@ msgstr ""
 
 msgctxt "[\"LANGUAGE-KR\"]"
 msgid "Korean"
-msgstr "Tiếng hàn"
+msgstr ""
 
 msgctxt "[\"LANGUAGE-AR\"]"
 msgid "Arabic"
-msgstr "Tiếng ả rập"
+msgstr ""
 
 msgctxt "[\"LANGUAGE-EN\"]"
 msgid "English"
-msgstr "Tiếng anh"
+msgstr ""
 
 msgctxt "[\"LANGUAGE-ES\"]"
 msgid "Spanish"
-msgstr "Tây Ban Nha"
+msgstr ""
 
 msgctxt "[\"LANGUAGE-FR\"]"
 msgid "French"
-msgstr "Tiếng pháp"
+msgstr ""
 
 msgctxt "[\"LANGUAGE-IN\"]"
 msgid "Hindi"
-msgstr "Tiếng Hindi"
+msgstr ""
 
 msgctxt "[\"LANGUAGE-ID\"]"
 msgid "Indonesian"
-msgstr "Tiếng Indonesia"
+msgstr ""
 
 msgctxt "[\"LANGUAGE-IT\"]"
 msgid "Italian"
-msgstr "Ý"
+msgstr ""
 
 msgctxt "[\"LANGUAGE-JP\"]"
 msgid "Japanese"
-msgstr "Tiếng nhật"
+msgstr ""
 
 msgctxt "[\"LANGUAGE-DE\"]"
 msgid "German"
-msgstr "Tiếng Đức"
+msgstr ""
 
 msgctxt "[\"LANGUAGE-NL\"]"
 msgid "Dutch"
-msgstr "Hà Lan"
+msgstr ""
 
 msgctxt "[\"LANGUAGE-PL\"]"
 msgid "Polish"
-msgstr "Ba Lan"
+msgstr ""
 
 msgctxt "[\"LANGUAGE-BR\"]"
 msgid "Portuguese"
-msgstr "Bồ Đào Nha"
+msgstr ""
 
 msgctxt "[\"LANGUAGE-RU\"]"
 msgid "Russian"
-msgstr "Tiếng nga"
+msgstr ""
 
 msgctxt "[\"LANGUAGE-TR\"]"
 msgid "Turkish"
-msgstr "Thổ Nhĩ Kỳ"
+msgstr ""
 
 msgctxt "[\"LANGUAGE-VN\"]"
 msgid "Vietnamese"
-msgstr "Tiếng việt nam"
+msgstr ""
 
 msgctxt "[\"LANGUAGE-CN\"]"
 msgid "Chinese Simplified"
-msgstr "Tiếng Trung giản thể"
+msgstr ""
 
 msgctxt "[\"LANGUAGE-TW\"]"
 msgid "traditional Chinese"
-msgstr "Trung Quốc truyền thống"
+msgstr ""
 
 msgctxt "[\"REVIEW_PRIVACY_POLICY_DES_M\"]"
 msgid "We encourage you to read our updated <a target='_blank' href='{pp}'>Privacy Policy</a> and <a target='_blank' href='{cp}'>Cookies Policy</a>."
@@ -1800,19 +1748,19 @@ msgstr ""
 
 msgctxt "[\"MARKET-TOP_COUNTRY\"][\"en-US\"]"
 msgid "USA"
-msgstr "Hoa Kì"
+msgstr ""
 
 msgctxt "[\"MARKET-TOP_COUNTRY\"][\"ja\"]"
 msgid "Japan"
-msgstr "Nhật Bản"
+msgstr ""
 
 msgctxt "[\"MARKET-TOP_COUNTRY\"][\"zh-CN\"]"
 msgid "China"
-msgstr "Trung Quốc"
+msgstr ""
 
 msgctxt "[\"MARKET-TOP_COUNTRY\"][\"ko-KR\"]"
 msgid "Korea"
-msgstr "Hàn Quốc"
+msgstr ""
 
 msgctxt "[\"MARKET-TOP_COUNTRY\"][\"id-ID\"]"
 msgid "Indonesia"
@@ -1824,31 +1772,31 @@ msgstr ""
 
 msgctxt "[\"error\"][\"DOWN-ItemNotFree\"]"
 msgid "Sorry, paid apps are not available to download with our APK Download Service."
-msgstr "Xin lỗi, ứng dụng trả phí không khả dụng để tải về bằng Dịch vụ tải về APK của chúng tôi ."
+msgstr ""
 
 msgctxt "[\"error\"][\"DOWN-ItemNotFound\"]"
 msgid "Sorry, download failed, the APK cannot be found."
-msgstr "Xin lỗi, tải về không thành công, không tìm thấy tệp APK."
+msgstr ""
 
 msgctxt "[\"error\"][\"DOWN-LimitedRegion\"]"
 msgid "Oops! Change your region and try download again."
-msgstr "Ôi! Thay đổi khu vực và thử tải về lần nữa."
+msgstr ""
 
 msgctxt "[\"error\"][\"DOWN-LimitedDevice\"]"
 msgid "Sorry, download failed, the APK does not support our device."
-msgstr "Xin lỗi, tải về không thành công, tệp APK không hỗ trợ thiết bị của bạn."
+msgstr ""
 
 msgctxt "[\"error\"][\"DOWN-UnknownError\"]"
 msgid "Download failed because of an unknown error. We will fix this problem soon."
-msgstr "Tải về không thành công vì một lỗi không rõ. Chúng tôi sẽ sớm sửa vấn đề này."
+msgstr ""
 
 msgctxt "[\"error\"][\"DOWN-PreRegister\"]"
 msgid "It's a Pre-registration App, you can't download."
-msgstr "Đây là ứng dụng phải đăng kí trước, bạn không thể tải về."
+msgstr ""
 
 msgctxt "[\"error\"][\"DOWN-RunOutOfDevice\"]"
 msgid "Download failed, please try again in 5 minutes."
-msgstr "Tải về không thành công, hãy thử lại sau 5 phút."
+msgstr ""
 
 msgctxt "[\"tip\"][\"SHORT_NAME\"]"
 msgid "{0}"
@@ -1860,7 +1808,7 @@ msgstr ""
 
 msgctxt "[\"tip\"][\"VERSION\"]"
 msgid "Download {app_short_name} v{version_name} for android"
-msgstr "Tải về {app_short_name} v{version_name} cho android"
+msgstr ""
 
 msgctxt "[\"tip\"][\"VERSION_VARIANT\"]"
 msgid "Download {app_short_name} v{version_name} build variants in android"
@@ -1868,11 +1816,11 @@ msgstr ""
 
 msgctxt "[\"tip\"][\"ICON\"]"
 msgid "{0} icon"
-msgstr "{0} biểu tượng"
+msgstr ""
 
 msgctxt "[\"tip\"][\"PREVIOUS_VERSIONS\"]"
 msgid "{0} Previous Versions"
-msgstr "{0} Phiên bản trước"
+msgstr ""
 
 msgctxt "[\"tip\"][\"LIST_ICON\"]"
 msgid "{0} APK"
@@ -1880,15 +1828,15 @@ msgstr ""
 
 msgctxt "[\"tip\"][\"LIST_DOWN\"]"
 msgid "Download {0} latest version apk"
-msgstr "Tải về apk {0} phiên bản mới nhất"
+msgstr ""
 
 msgctxt "[\"tip\"][\"LIST_DOWN_XAPK\"]"
 msgid "Download {0} latest version xapk"
-msgstr "Tải về xapk {0} phiên bản mới nhất"
+msgstr ""
 
 msgctxt "[\"tip\"][\"VERSION_DOWN\"]"
 msgid "Download {app_name} {version_name} ({version_code}) {file_type}"
-msgstr "Tải về {app_name} {version_name} ({version_code}) {file_type}"
+msgstr ""
 
 msgctxt "[\"tip\"][\"VERSION_VARIANT_DOWN\"]"
 msgid "Download {app_name} {version_name} variant {file_type}"
@@ -1896,55 +1844,55 @@ msgstr ""
 
 msgctxt "[\"tip\"][\"RATING\"]"
 msgid "{app_name} average rating {rating_average}"
-msgstr "{app_name} đánh giá trung bình {rating_average}"
+msgstr ""
 
 msgctxt "[\"tip\"][\"QR_DOWN\"]"
 msgid "{0} QR code download"
-msgstr "Mã QR tải về {0}"
+msgstr ""
 
 msgctxt "[\"tip\"][\"SAFE_VERIFIED\"]"
 msgid "{0} safe verified"
-msgstr "{0} đã xác nhận an toàn"
+msgstr ""
 
 msgctxt "[\"tip\"][\"SCREEN_POSTER\"]"
 msgid "{0} poster"
-msgstr "{0} bài đăng"
+msgstr ""
 
 msgctxt "[\"tip\"][\"SCREEN\"]"
 msgid "{0} apk screenshot"
-msgstr "{0} ảnh màn hình apk"
+msgstr ""
 
 msgctxt "[\"tip\"][\"SCREEN_INDEX\"]"
 msgid "{0} screenshot {1}"
-msgstr "{0} ảnh chụp màn hình {1}"
+msgstr ""
 
 msgctxt "[\"tip\"][\"CATEGORY_GAME\"]"
 msgid "Download more {0} games"
-msgstr "Tải về nhiều trò chơi {0} hơn"
+msgstr ""
 
 msgctxt "[\"tip\"][\"CATEGORY_APP\"]"
 msgid "Download more {0} apps"
-msgstr "Tải về nhiều ứng dụng {0} hơn"
+msgstr ""
 
 msgctxt "[\"tip\"][\"GET_IT_ON_GOOGLE_PLAY\"]"
 msgid "Get {0} on Google Play"
-msgstr "Tải {0} trên Google Play"
+msgstr ""
 
 msgctxt "[\"tip\"][\"GET_IT_ON_OTHER\"]"
 msgid "Get {app_name} on {source_name}"
-msgstr "Tải {app_name} trên {source_name}"
+msgstr ""
 
 msgctxt "[\"tip\"][\"REQUEST_UPDATE\"]"
 msgid "Request {0} Update"
-msgstr "Yêu cầu cập nhật {0}"
+msgstr ""
 
 msgctxt "[\"tip\"][\"HOT_ANDROID_GAME\"]"
 msgid "hot android game apk"
-msgstr "apk trò chơi android hàng đầu"
+msgstr ""
 
 msgctxt "[\"tip\"][\"HOT_ANDROID_APP\"]"
 msgid "hot android app apk"
-msgstr "apk ứng dụng android hàng đầu"
+msgstr ""
 
 msgctxt "[\"js\"][\"LANG_TIP\"][\"kr\"]"
 msgid "원하는 언어를 <strong> 한국어 </strong>로 변경 하시겠습니까?"
@@ -1968,63 +1916,63 @@ msgstr ""
 
 msgctxt "[\"js\"][\"SIGN_VERIFY-OFFICIAL\"]"
 msgid "[Official] This {0} APK is the unmodified official version."
-msgstr "[Chính thức] APK {0} này là phiên bản không được chỉnh sửa."
+msgstr ""
 
 msgctxt "[\"js\"][\"SIGN_VERIFY-NOT_TRUSTED\"]"
 msgid "[Not Trusted] This {0} APK is a modified version, we don't recommend installing it."
-msgstr "[Không đáng tin] APK {0} này là phiên bản đã chỉnh sửa, chúng tôi không khuyến khích việc cài đặt nó."
+msgstr ""
 
 msgctxt "[\"js\"][\"SIGN_VERIFY-ERROR_APK_FILE\"]"
 msgid "Error APK file"
-msgstr "Tệp tin APK lỗi"
+msgstr ""
 
 msgctxt "[\"js\"][\"SIGN_VERIFY-VALID\"]"
 msgid "The uploaded file is not a valid Android application."
-msgstr "Tệp tin đã tải lên không phả là ứng dụng Android hợp lệ."
+msgstr ""
 
 msgctxt "[\"js\"][\"SIGN_VERIFY-SAFE\"]"
 msgid "safe"
-msgstr "an toàn"
+msgstr ""
 
 msgctxt "[\"js\"][\"SIGN_VERIFY-UNSAFE\"]"
 msgid "unsafe"
-msgstr "không an toàn"
+msgstr ""
 
 msgctxt "[\"js\"][\"REGION_DOWN-REGION_ERROR\"]"
 msgid "Package name or region error , try again"
-msgstr "Lỗi khu vực hoặc lỗi tên gói, thử lại"
+msgstr ""
 
 msgctxt "[\"js\"][\"REGION_DOWN-INVALID_APP\"]"
 msgid "Invalid app package name,"
-msgstr "Tên gói ứng dụng không hợp lệ,"
+msgstr ""
 
 msgctxt "[\"js\"][\"REGION_DOWN-SEARCH_RESULTS\"]"
 msgid "Check all {0} search results here."
-msgstr "Kiểm tra tất cả {0} kết quả tìm kiếm tại đây."
+msgstr ""
 
 msgctxt "[\"js\"][\"REGION_DOWN-DOWNLOADING\"]"
 msgid "Downloading, please wait..."
-msgstr "Đang tải, vui lòng chờ...."
+msgstr ""
 
 msgctxt "[\"js\"][\"LOADING\"]"
 msgid "loading..."
-msgstr "đang tải..."
+msgstr ""
 
 msgctxt "[\"js\"][\"UPLOADED\"]"
 msgid "Uploaded {0}%"
-msgstr "Đã tải lên {0}%"
+msgstr ""
 
 msgctxt "[\"js\"][\"UPLOADING\"]"
 msgid "Uploading..."
-msgstr "Đang tải lên…"
+msgstr ""
 
 msgctxt "[\"js\"][\"VALIDATING\"]"
 msgid "Validating..."
-msgstr "Đang xác thực…"
+msgstr ""
 
 msgctxt "[\"js\"][\"FILE_UPLOAD_FAILED\"]"
 msgid "File upload failed!"
-msgstr "Tải lên tập tin không thành công!"
+msgstr ""
 
 msgctxt "[\"js\"][\"YOUTUBE_URL\"]"
 msgid "Enter Youtube video URL"
@@ -2036,19 +1984,19 @@ msgstr ""
 
 msgctxt "[\"js\"][\"USER-PASSWORD_NOT_MATCH\"]"
 msgid "Passwords do not match"
-msgstr "Mật khẩu không trùng khớp"
+msgstr ""
 
 msgctxt "[\"js\"][\"USER-PASSWORD_MUST\"]"
 msgid "Password must be 6-32 characters long"
-msgstr "Mật khẩu phải có độ dài 6-32 ký tự"
+msgstr ""
 
 msgctxt "[\"js\"][\"USER-USERNAME_MUST\"]"
 msgid "Username must be 1-20 characters long and special characters are not allowed."
-msgstr "Tên người dùng phải có độ dài từ 1-20 ký tự và không chấp nhận các ký tự đặc biệt."
+msgstr ""
 
 msgctxt "[\"js\"][\"USER-SAVED_SUCCESS\"]"
 msgid "Saved Successfully"
-msgstr "Đã lưu thành công"
+msgstr ""
 
 msgctxt "[\"js\"][\"USER-RESEND_VERIFICATION\"]"
 msgid "Resend verification code"
@@ -2072,51 +2020,51 @@ msgstr ""
 
 msgctxt "[\"meta\"][\"Index\"][\"title\"]"
 msgid "Download APK free online downloader | APKPure.com"
-msgstr "Công cụ tải về APK trực tuyến miễn phí | APKPure.com"
+msgstr ""
 
 msgctxt "[\"meta\"][\"Index\"][\"keywords\"]"
 msgid "apk download, apk downloader, android apk download"
-msgstr "tải apk, tải về apk, tải android apk"
+msgstr ""
 
 msgctxt "[\"meta\"][\"Index\"][\"description\"]"
 msgid "Download apk for Android with APKPure APK downloader. NoAds, Faster apk downloads and apk file update speed. Best of all, it's free"
-msgstr "Tải về apk cho Android với Trình tải về APK của APKPure. Không quảng cáo, Tải về và cập nhật apk nhanh chóng. Tốt cho tất cả, nhưng miễn phí"
+msgstr ""
 
 msgctxt "[\"meta\"][\"Details\"][\"title\"]"
 msgid "{app_name} APK Download - Free {app_category} {app_type} for Android | APKPure.com"
-msgstr "Tải về {app_name} APK - {app_category} {app_type} miễn phí cho Android | APKPure.com"
+msgstr ""
 
 msgctxt "[\"meta\"][\"Details\"][\"keywords\"]"
 msgid "{app_name} apk, {app_name} apk download, {app_name} download, {app_name}.apk, {app_name} android, {app_category} {app_type} download"
-msgstr "{app_name} apk, {app_name} tải apk, {app_name} tải về, {app_name}.apk, {app_name} android, {app_category} {app_type} tải về"
+msgstr ""
 
 msgctxt "[\"meta\"][\"Details\"][\"description\"]"
 msgid "Download {app_short_name} apk {version_name} and all version history for Android. {app_short_description}"
-msgstr "Tải về {app_short_name} apk {version_name} và tất cả lịch sử phiên bản cho  Android. {app_short_description}"
+msgstr ""
 
 msgctxt "[\"meta\"][\"Details_new\"][\"title\"]"
 msgid "{app_short_name} for Android - APK Download"
-msgstr "{app_short_name} cho Android - Tải về APK"
+msgstr ""
 
 msgctxt "[\"meta\"][\"Details_new\"][\"keywords\"]"
 msgid "{app_short_name}, {app_short_name} for android, {app_short_name} android download, {app_short_name} apk, {app_short_name} android apk, {app_short_name} download"
-msgstr "{app_short_name}, {app_short_name} cho android, {app_short_name} tải về android, {app_short_name} apk, {app_short_name} android apk, {app_short_name} tải về"
+msgstr ""
 
 msgctxt "[\"meta\"][\"Details_new\"][\"description\"]"
 msgid "Download {app_short_name} apk {version_name} for Android. {app_short_description}"
-msgstr "Tải về apk {app_short_name} {version_name} cho Android. {app_short_description}"
+msgstr ""
 
 msgctxt "[\"meta\"][\"Versions\"][\"title\"]"
 msgid "{app_short_name} update version history for Android - APK Download"
-msgstr "{app_short_name} lịch sử cập nhật phiên bản cho Android - Tải về APK"
+msgstr ""
 
 msgctxt "[\"meta\"][\"Versions\"][\"keywords\"]"
 msgid "{app_short_name}, download, old, version history, apk, release date, changelog"
-msgstr "{app_short_name}, tải về, cũ, phiên bản lịch sử, apk, phát hành sớm, nhật ký thay đổi"
+msgstr ""
 
 msgctxt "[\"meta\"][\"Versions\"][\"description\"]"
 msgid "Download {app_short_name} old versions Android APK or update to {app_short_name} latest version. Review {app_short_name} release date, changelog and more."
-msgstr "Tải về {app_short_name} phiên bản Android APK cũ hoặc cập nhật {app_short_name} tới phiên bản mới nhất. Xem trước ngày phát hành, nhật ký thay đổi {app_short_name} và nhiều hơn."
+msgstr ""
 
 msgctxt "[\"meta\"][\"Variants\"][\"title\"]"
 msgid "{app_short_name} {version_name} Build variants in Android - APK Download"
@@ -2128,35 +2076,35 @@ msgstr ""
 
 msgctxt "[\"meta\"][\"Details_download\"][\"title\"]"
 msgid "Download {app_name} {version_name} APK | APKPure.com"
-msgstr "Tải về APK {app_name} {version_name} | APKPure.com"
+msgstr ""
 
 msgctxt "[\"meta\"][\"Details_download\"][\"keywords\"]"
 msgid "{app_name} apk, {app_name} apk download, {app_name} download"
-msgstr "{app_name} apk, {app_name} tải về apk, {app_name} tải về"
+msgstr ""
 
 msgctxt "[\"meta\"][\"Details_download\"][\"description\"]"
 msgid "{app_name} {version_name} APK Download"
-msgstr "Tải về APK {app_name} {version_name}"
+msgstr ""
 
 msgctxt "[\"meta\"][\"Details_download_new\"][\"title\"]"
 msgid "Download {app_short_name} latest {version_name} Android APK"
-msgstr "Tải về APK {app_short_name} Android {version_name} mới nhất"
+msgstr ""
 
 msgctxt "[\"meta\"][\"Details_download_new\"][\"title_old\"]"
 msgid "Download {app_short_name} {version_name} Android APK"
-msgstr "Tải về APK {app_short_name} {version_name} Android"
+msgstr ""
 
 msgctxt "[\"meta\"][\"Details_download_new\"][\"keywords\"]"
 msgid "{app_short_name}, android, apk, download, {app_short_name} android, {app_short_name} download"
-msgstr "{app_short_name}, android, apk, tải về, {app_short_name} android, {app_short_name} tải về"
+msgstr ""
 
 msgctxt "[\"meta\"][\"Details_download_new\"][\"description\"]"
 msgid "{app_short_name} Android latest {version_name} APK Download and Install. {app_short_description}"
-msgstr "Tải về và cài đặt APK {app_short_name} Android {version_name} mới nhất. {app_short_description}"
+msgstr ""
 
 msgctxt "[\"meta\"][\"Details_download_new\"][\"description_old\"]"
 msgid "{app_short_name} Android {version_name} APK Download and Install. {app_short_description}"
-msgstr "Tải về và cài đặt APK {app_short_name} Android {version_name}. {app_short_description}"
+msgstr ""
 
 msgctxt "[\"meta\"][\"Download_apk_info\"][\"title\"]"
 msgid "Getting Started in {app_short_name}"
@@ -2172,63 +2120,63 @@ msgstr ""
 
 msgctxt "[\"meta\"][\"Category_xapk\"][\"title\"]"
 msgid "XAPK ( apk with obb file) {0}.apk for Android download"
-msgstr "Tải về XAPK (apk với tệp tin obb) {0}.apk cho Android"
+msgstr ""
 
 msgctxt "[\"meta\"][\"Category_xapk\"][\"keywords\"]"
 msgid "xapk {0}, {0} xapk, xapk {0} download, download apk obb, apk with obb data, android"
-msgstr "xapk {0}, {0} xapk, tải về {0} xapk, tải về apk obb, apk vớ dữ liệu obb, android"
+msgstr ""
 
 msgctxt "[\"meta\"][\"Category_xapk\"][\"description\"]"
 msgid "Download Android {0} XAPK, full version with obb data file."
-msgstr "Tải {0} Android XAPK, tất cả phiên bản với tệp tin dữ liệu obb."
+msgstr ""
 
 msgctxt "[\"meta\"][\"Category_featured\"][\"title\"]"
 msgid "Download {0} APK Android App Online - Free Pure APK Downloader"
-msgstr "Tải về ứng dụng Android {0} trực tuyến - Trình tải về APKPure miễn phí"
+msgstr ""
 
 msgctxt "[\"meta\"][\"Category_featured_editors-picks\"][\"title\"]"
 msgid "APKPure Editors' Picks for the best Android Games & Apps"
-msgstr "Lựa chọn của Biên tập viên APKPure cho Ứng dụng Android và Trò chơi tốt nhất"
+msgstr ""
 
 msgctxt "[\"meta\"][\"Category_featured_editors-picks\"][\"keywords\"]"
 msgid "android apps, android games, must have android games, must have android apps, game download"
-msgstr "ứng dụng android, trò chơi android, phải có trò chơi android, phải có ứng dụng android, tải trò chơi"
+msgstr ""
 
 msgctxt "[\"meta\"][\"Category_featured_editors-picks\"][\"description\"]"
 msgid "Play with millions of free apps in APKPure style on Android phones, tablets, TV ,etc. Download the best must have android games you should play 2020."
-msgstr "Chơi hàng triệu ứng dụng miễn phí theo cách APKPure trên điện thoại Android, máy tính bảng, TV, v.v. Tải về những trò chơi nên chơi trong năm 2020."
+msgstr ""
 
 msgctxt "[\"meta\"][\"Category_app\"][\"keywords\"]"
 msgid "{0} apk download, free {0} download, {0} apk download, download {0} apk, {0} apk downloader, {0} android"
-msgstr "{0} tải apk, tải miễn phí {0}, {0} tải apk, tải {0} apk, trình tải về {0} apk, {0} android"
+msgstr ""
 
 msgctxt "[\"meta\"][\"Category_app\"][\"description\"]"
 msgid "Download free and best {0}  for Android phone and tablet with online apk downloader on APKPure.com, including (tool apps, shopping apps, communication apps) and more."
-msgstr "Tải về {0} miễn phí và tốt nhất cho điện thoại và máy tính bảng Android với trình tải về apk trực tuyến tại APKPure.com, gồm có (ứng dụng công cụ, ứng dụng mua sắm, ứng dụng cộng đồng) và hơn thế nữa."
+msgstr ""
 
 msgctxt "[\"meta\"][\"Category_game\"][\"keywords\"]"
 msgid "{0} apk download, free {0} download, download {0} apk, {0} apk downloader, {0} android, {0} app download"
-msgstr "{0} tải về apk, tải về {0} miễn phí, tải về {0} apk, trình tải về {0} apk, {0} android, {0} tải ứng dụng"
+msgstr ""
 
 msgctxt "[\"meta\"][\"Category_game\"][\"description\"]"
 msgid "Download free and best {0} for Android phone and tablet with online apk downloader on APKPure.com, including (driving games, shooting games, fighting games) and more."
-msgstr "Tải ứng dụng miễn phí và tốt nhất {0} cho điện thoại Android và máy tính bảng với trình tải apk trực tuyến trên APKPure.com, bao gồm (game đua xe, game bắn súng, game chiến đấu) và nhiều hơn nữa."
+msgstr ""
 
 msgctxt "[\"meta\"][\"FAQ\"][\"title\"]"
 msgid "{0} FAQ | APKPure.com"
-msgstr "{0} Câu hỏi thường gặp | APKPure.com"
+msgstr ""
 
 msgctxt "[\"meta\"][\"Developer\"][\"title\"]"
 msgid "All {developer} free Android apps apk download | APKPure.com"
-msgstr "Tất cả {developer} tải về apk ứng dụng Android miễn phí | APKPure.com"
+msgstr ""
 
 msgctxt "[\"meta\"][\"Developer\"][\"keywords\"]"
 msgid "{developer} apk download, download {developer} free app, {developer} games for android,  {developer} games app list, {developer} app update, {developer} app apk downloader"
-msgstr "{developer} tải apk, tải {developer} ứng dụng miễn phí, {developer} trò chơi cho android,  {developer} danh sách ứng dụng các trò chơi, {developer} ứng dụng cập nhật, {developer} trình tải apk ứng dụng"
+msgstr ""
 
 msgctxt "[\"meta\"][\"Developer\"][\"description\"]"
 msgid "All Apps or Games Published by \"{developer}\""
-msgstr "Tất cả ứng dụng và trò chơi đã phát hành bởi \"{developer}\""
+msgstr ""
 
 msgctxt "[\"meta\"][\"Developer\"][\"description_new\"]"
 msgid "{description}, All Apps or Games Published by \"{developer}\""
@@ -2248,43 +2196,43 @@ msgstr ""
 
 msgctxt "[\"meta\"][\"Search\"][\"title\"]"
 msgid "{0} search results | APKPure.com"
-msgstr "{0} kết quả tìm kiếm | APKPure.com"
+msgstr ""
 
 msgctxt "[\"meta\"][\"Search\"][\"keywords\"]"
 msgid "{0} apk download, download {0} apk"
-msgstr "{0} tải apk, tải {0} apk"
+msgstr ""
 
 msgctxt "[\"meta\"][\"Search_hot\"][\"title\"]"
 msgid "Search - APKPure Android App Store"
-msgstr "Tìm kiếm - Cửa hàng ứng dụng Android APKPure"
+msgstr ""
 
 msgctxt "[\"meta\"][\"Search_hot\"][\"keywords\"]"
 msgid "Search {add_trending}"
-msgstr "Tìm kiếm {add_trending}"
+msgstr ""
 
 msgctxt "[\"meta\"][\"Search_hot\"][\"description\"]"
 msgid "Discover Android games free download on APKPure Android App Store."
-msgstr "Khám phá tải về trò chơi Android miễn phí trên Cửa hàng ứng dụng Android APKPure"
+msgstr ""
 
 msgctxt "[\"meta\"][\"New\"][\"title\"]"
 msgid "Download the latest {0} APK | APKPure.com"
-msgstr "Tải phần mới nhất {0} APK | APKPure.com"
+msgstr ""
 
 msgctxt "[\"meta\"][\"New\"][\"keywords\"]"
 msgid "{0} apk download, {0} update, free top {0} download, free {0} downloader,  best {0} for Android,"
-msgstr "{0} tải apk, {0} cập nhật, đỉnh cao miễn phí {0} tải, miễn phí {0} trình tải, toost nhất {0} cho Android,"
+msgstr ""
 
 msgctxt "[\"meta\"][\"New\"][\"description\"]"
 msgid "Daily update top free {0} apk download."
-msgstr "Cập nhật hàng đầu mỗi ngày miễn phí {0} tải apk."
+msgstr ""
 
 msgctxt "[\"meta\"][\"Verify\"][\"title\"]"
 msgid "APK Signature Verification, Official Version APK Detection Service"
-msgstr "Chữ ký APK xác nhận, Phiên bản APK chính thức xuất hiện dịch vụ"
+msgstr ""
 
 msgctxt "[\"meta\"][\"Verify\"][\"keywords\"]"
 msgid "apk signature verification, apk signature verify, apk signature checker, apk signature viewer, modified apk, free, online, scanner"
-msgstr "xác minh chữ kí apk, xác thực chữ kí apk, kiểm tra chữ mí apk, xem chữ kí apk, chỉnh sửa apk, miễn phí, online, quét"
+msgstr ""
 
 msgctxt "[\"meta\"][\"Upload\"][\"title\"]"
 msgid "Submit your Android Apps and games - Upload .APK File (Android App) at APKPure"
@@ -2304,35 +2252,35 @@ msgstr ""
 
 msgctxt "[\"meta\"][\"Download\"][\"title\"]"
 msgid "Region free APK download daily update apps and games"
-msgstr "Hỗ trợ tất cả vùng APK tải về sẽ cập nhật ứng dụng và trò chơi hàng ngày"
+msgstr ""
 
 msgctxt "[\"meta\"][\"Download\"][\"keywords\"]"
 msgid "apk download, region free apk download"
-msgstr "tải apk, tải về apk tự do"
+msgstr ""
 
 msgctxt "[\"meta\"][\"Download\"][\"description\"]"
 msgid "download free apps APK for Android phone and tablet."
-msgstr "tải về ứng dụng miễn phí APK cho điện thoại và máy tính bảng Android."
+msgstr ""
 
 msgctxt "[\"meta\"][\"Error\"][\"title\"]"
 msgid "Error"
-msgstr "Lỗi"
+msgstr ""
 
 msgctxt "[\"meta\"][\"Error\"][\"keywords\"]"
 msgid "error"
-msgstr "lỗi"
+msgstr ""
 
 msgctxt "[\"meta\"][\"Category\"][\"title\"]"
 msgid "Browse Category | APKPure.com"
-msgstr "Danh mục Trình duyệt | APKPure.com"
+msgstr ""
 
 msgctxt "[\"meta\"][\"Category\"][\"keywords\"]"
 msgid "app category,game category"
-msgstr "danh mục ứng dụng, danh mục game"
+msgstr ""
 
 msgctxt "[\"meta\"][\"Category\"][\"description\"]"
 msgid "Android games and apps category"
-msgstr "Danh mục ứng dụng và game Android"
+msgstr ""
 
 msgctxt "[\"meta\"][\"Editor_choice\"][\"title\"]"
 msgid "Editor's Choice | APKPure.com"
@@ -2340,7 +2288,7 @@ msgstr ""
 
 msgctxt "[\"meta\"][\"Topics\"][\"title\"]"
 msgid "Topics | APKPure.com"
-msgstr "Chủ đề | APKPure.com"
+msgstr ""
 
 msgctxt "[\"meta\"][\"Topic\"][\"title\"]"
 msgid "{0} | APKPure.com"
@@ -2348,31 +2296,31 @@ msgstr ""
 
 msgctxt "[\"meta\"][\"Similar\"][\"title\"]"
 msgid "{app_type} Like {app_short_name}"
-msgstr "{app_type} Như {app_short_name}"
+msgstr ""
 
 msgctxt "[\"meta\"][\"Similar\"][\"keywords\"]"
 msgid "{app_short_name} alternative, {app_short_name} similar {app_type}, {app_category} {app_type} like {app_short_name}"
-msgstr "{app_short_name} thay thế, {app_short_name} giống {app_type}, {app_category} {app_type} như {app_short_name}"
+msgstr ""
 
 msgctxt "[\"meta\"][\"Similar\"][\"description\"]"
 msgid "Popular alternative {app_type} to {app_short_name} for Android, Android tablet and more. Download top {similar_count} {app_type} like {app_short_name}, all {app_type} suggested by APKPure."
-msgstr "Thay thế {app_type} phổ biến bằng {app_short_name} cho Android, máy tính bản Android và nhiều hơn. Tải về {similar_count} {app_type} hàng đầu như {app_short_name}, tất cả {app_type} được đề nghị bởi APKPure."
+msgstr ""
 
 msgctxt "[\"meta\"][\"Login\"][\"title\"]"
 msgid "Sign in account for APKPure Android App Store"
-msgstr "Đăng nhập tài khoản cho Cửa hàng ứng dụng Android APKPure"
+msgstr ""
 
 msgctxt "[\"meta\"][\"Login\"][\"keywords\"]"
 msgid "login, new member, account, registration"
-msgstr "đăng nhập, thành viên mới, tài khoản, đăng kí"
+msgstr ""
 
 msgctxt "[\"meta\"][\"Login\"][\"description\"]"
 msgid "To join community group or vote on APKPure App Store, you must be registered. Register your APKPure account today!"
-msgstr "Để tham gia cộng đồng hoặc đánh giá Cửa hàng ứng dụng Android APKPure, bạn cần phải đăng kí. Đăng kí tài khoản APKPure ngay hôm nay!"
+msgstr ""
 
 msgctxt "[\"meta\"][\"Password\"][\"description\"]"
 msgid "Change or reset my password."
-msgstr "Thay đổi hay đặt lại mật khẩu."
+msgstr ""
 
 msgctxt "[\"meta\"][\"Email\"][\"title\"]"
 msgid "Verify Your Email Address | APKPure"
@@ -2404,11 +2352,11 @@ msgstr ""
 
 msgctxt "[\"meta\"][\"User\"][\"title\"]"
 msgid "{user_name}: Profile and Activity - APKPure AppStore"
-msgstr "{user_name}: Thông tin và hoạt động - Cửa hàng ứng dụng APKPure"
+msgstr ""
 
 msgctxt "[\"meta\"][\"User\"][\"description\"]"
 msgid "My APKPure AppStore profile and activity page for {user_name}. Join APKPure AppStore to connect with {user_name}."
-msgstr "Tài khoản Cửa hàng ứng dụng APKPure của tôi và trang hoạt động cho {user_name}. Tham gia Cửa hàng ứng dụng APKPure để kết nối với {user_name}."
+msgstr ""
 
 msgctxt "[\"meta\"][\"User_post\"][\"title\"]"
 msgid "{summary} - {user_name} | APKPure"
@@ -2416,19 +2364,19 @@ msgstr ""
 
 msgctxt "[\"meta\"][\"Profile\"][\"title\"]"
 msgid "{user_name}'s profile on APKPure App Store"
-msgstr "Tài khoản của {user_name} tại Cửa hàng ứng dụng APKPure"
+msgstr ""
 
 msgctxt "[\"meta\"][\"Profile\"][\"description\"]"
 msgid "The APKPure member profile for {user_name}."
-msgstr "Tài khoản thành viên APKPure cho {user_name}."
+msgstr ""
 
 msgctxt "[\"meta\"][\"Register\"][\"title\"]"
 msgid "Register account for APKPure Android App Store"
-msgstr "Đăng kí tài khoản cho Cửa hàng ứng dụng APKPure"
+msgstr ""
 
 msgctxt "[\"meta\"][\"Register\"][\"keywords\"]"
 msgid "register, new member, account, registration"
-msgstr "đăng kí, thành viên mới, tài khoản, đăng kí"
+msgstr ""
 
 msgctxt "[\"meta\"][\"Retrieve_password\"][\"title\"]"
 msgid "Retrieve Password | APKPure"
@@ -2436,7 +2384,7 @@ msgstr ""
 
 msgctxt "[\"meta\"][\"Group\"][\"title\"]"
 msgid "{app_name} {app_type} Discussion Group | APKPure Groups"
-msgstr "Nhóm thảo luận {app_name} {app_type} | Nhóm APKPure"
+msgstr ""
 
 msgctxt "[\"meta\"][\"Group\"][\"keywords\"]"
 msgid "{app_name} group, {app_short_name} community, {app_name} forum, about {app_short_name}, {app_type} discussions"
