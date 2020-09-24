@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-09-13 12:14+0000\n"
-"PO-Revision-Date: 2020-09-21 02:00+0000\n"
+"PO-Revision-Date: 2020-09-24 23:29+0000\n"
 "Last-Translator: Stanislav Rupar <stanislav.rupar@gmail.com>\n"
 "Language-Team: Slovenian <https://translate.apkpure.com/projects/apkpure/"
 "apkpurecom/sl/>\n"
@@ -667,243 +667,250 @@ msgstr "Pridružite se skupini {0}"
 
 msgctxt "[\"COMMENT-JOIN_GROUP\"]"
 msgid "Join Group"
-msgstr ""
+msgstr "Pridruži se skupini"
 
 msgctxt "[\"COMMENT-GROUP\"]"
 msgid "Group"
-msgstr ""
+msgstr "Skupina"
 
 msgctxt "[\"COMMENT-TITLE_POST\"]"
 msgid "Post"
-msgstr ""
+msgstr "Objavi"
 
 msgctxt "[\"COMMENT-ADD\"]"
 msgid "Add Comment"
-msgstr ""
+msgstr "Dodaj komentar"
 
 msgctxt "[\"COMMENT-ALL-REPLY\"]"
 msgid "All {0} replies"
-msgstr ""
+msgstr "Vseh {0} odgovorov"
 
 msgctxt "[\"COMMENT-VIEWS\"]"
 msgid "Views"
-msgstr ""
+msgstr "Pogledi"
 
 msgctxt "[\"COMMENT-COLLAPSED\"]"
 msgid "comment collapsed"
-msgstr ""
+msgstr "strnjeni komentarji"
 
 msgctxt "[\"COMMENT-REVIEW_OR_POST\"]"
 msgid "Post review or comment"
-msgstr ""
+msgstr "Objavite pregled ali komentar"
 
 msgctxt "[\"COMMENT-REPLY\"]"
 msgid "Reply"
-msgstr ""
+msgstr "Odgovori"
 
 msgctxt "[\"COMMENT-NAME\"]"
 msgid "Name"
-msgstr ""
+msgstr "Ime"
 
 msgctxt "[\"COMMENT-EMAIL\"]"
 msgid "Email"
-msgstr ""
+msgstr "E-pošta"
 
 msgctxt "[\"COMMENT-SORT_BY_OLDEST\"]"
 msgid "Oldest"
-msgstr ""
+msgstr "Najstarejši"
 
 msgctxt "[\"COMMENT-SORT_BY_BEST\"]"
 msgid "Best"
-msgstr ""
+msgstr "Najboljši"
 
 msgctxt "[\"COMMENT-SORT_BY_BEST_LONG\"]"
 msgid "Sort by best"
-msgstr ""
+msgstr "Razvrsti po najboljših"
 
 msgctxt "[\"COMMENT-SORT_BY_MOST_RECENT\"]"
 msgid "Most Recent"
-msgstr ""
+msgstr "Najnovejši"
 
 msgctxt "[\"COMMENT-SORT_BY_MOST_SCORE\"]"
 msgid "Top rated"
-msgstr ""
+msgstr "Najbolje ocenjeno"
 
 msgctxt "[\"COMMENT-SORT_BY_DEFAULT\"]"
 msgid "Sort by default"
-msgstr ""
+msgstr "Razvrsti po privzeto"
 
 msgctxt "[\"COMMENT-RATING_REQUIRED\"]"
 msgid "Rating required"
-msgstr ""
+msgstr "Zahtevana ocena"
 
 msgctxt "[\"COMMENT-GUEST\"]"
 msgid "Guest"
-msgstr ""
+msgstr "Gost"
 
 msgctxt "[\"COMMENT-START_THE_DISCUSSION\"]"
 msgid "Start the discussion…"
-msgstr ""
+msgstr "Začnite razpravo…"
 
 msgctxt "[\"COMMENT-LOG_IN_WITH\"]"
 msgid "Log in with"
-msgstr ""
+msgstr "Prijavi se z"
 
 msgctxt "[\"COMMENT-COMMENTS_CANT_BE_BLANK\"]"
 msgid "Comments can't be blank."
-msgstr ""
+msgstr "Komentarji ne smejo biti prazni."
 
 msgctxt "[\"COMMENT-POST_AS_GUEST\"]"
 msgid "Post As a Guest"
-msgstr ""
+msgstr "Objavi kot gost"
 
 msgctxt "[\"COMMENT-LOGOUT\"]"
 msgid "Logout"
-msgstr ""
+msgstr "Odjava"
 
 msgctxt "[\"COMMENT-WEBSITE\"]"
 msgid "Website"
-msgstr ""
+msgstr "Spletna stran"
 
 msgctxt "[\"COMMENT-TO_BE_FIRST\"]"
 msgid "Ooops! No such content!"
-msgstr ""
+msgstr "Ups! Takšne vsebine ni!"
 
 msgctxt "[\"COMMENT-VOTE\"]"
 msgid "Vote"
-msgstr ""
+msgstr "Glasujte"
 
 msgctxt "[\"COMMENT-LIKE\"]"
 msgid "Like"
-msgstr ""
+msgstr "Všeč mi je"
 
 msgctxt "[\"COMMENT-ERR_QUICK_LOGIN\"]"
 msgid "Quick login error, please try again."
-msgstr ""
+msgstr "Napaka pri hitri prijavi, poskusite znova."
 
 msgctxt "[\"COMMENT-ERR_EMAIL_NAME\"]"
 msgid "Incorrect mail or name"
-msgstr ""
+msgstr "Napačna pošta ali ime"
 
 msgctxt "[\"COMMENT-ERR_DISCUSSION\"]"
 msgid "Incorrect in discussion"
-msgstr ""
+msgstr "Nepravilno v razpravi"
 
+#, fuzzy
 msgctxt "[\"COMMENT-ERR_RATE\"]"
 msgid "Vote failed, repeated"
-msgstr ""
+msgstr "Glasovanje ni uspelo, ponovljeno"
 
 msgctxt "[\"COMMENT-ERR_SENSITIVE_WORD\"]"
 msgid "Comment failed, your post contains sensitive terms."
-msgstr ""
+msgstr "Komentar ni uspel, vaša objava vsebuje občutljive izraze."
 
 msgctxt "[\"COMMENT-ERR_SENSITIVE_WORD_AUDIT\"]"
 msgid "Your post contains sensitive terms and is pending approval by an admin"
-msgstr ""
+msgstr "Vaša objava vsebuje občutljive izraze in čaka na odobritev skrbnika"
 
 msgctxt "[\"COMMENT-ERR_LINK_AUDIT\"]"
 msgid "Your post contains link and is pending approval by an admin"
-msgstr ""
+msgstr "Vaša objava vsebuje povezavo in čaka na odobritev skrbnika"
 
 msgctxt "[\"COMMENT-ERR_FORBIDDEN\"]"
 msgid "Permission denied"
-msgstr ""
+msgstr "Dovoljenje zavrnjeno"
 
 msgctxt "[\"COMMENT-ERR_FAILURE\"]"
 msgid "Comment unknown"
-msgstr ""
+msgstr "Neznan komentar"
 
+#, fuzzy
 msgctxt "[\"COMMENT-ERR_EMOJI\"]"
 msgid "Emoji comments are not allowed any more! Write something..."
-msgstr ""
+msgstr "Komentarji z emodžiji niso več dovoljeni! Napišite nekaj..."
 
 msgctxt "[\"COMMENT-ERR_NONE_MESSAGE\"]"
 msgid "You must write something!"
-msgstr ""
+msgstr "Nekaj morate napisati!"
 
 msgctxt "[\"COMMENT-ERR_INVALID_PARAMETER\"]"
 msgid "Invalid comment parameter"
-msgstr ""
+msgstr "Neveljaven parameter komentarja"
 
 msgctxt "[\"COMMENT-ERR_INVALID_USER\"]"
 msgid "You're banned from APKPure by using or posting content containing nudity images. Please edit or remove the images before contacting Admin to restore your account."
 msgstr ""
+"APKPure vam je prepovedan z uporabo ali objavljanjem vsebine, ki vsebuje "
+"slike golote. Preden se obrnete na skrbnika za obnovitev računa, uredite ali "
+"odstranite slike."
 
 msgctxt "[\"COMMENT-ERR_INVALID_VIDEO_URL\"]"
 msgid "Invalid Video URL"
-msgstr ""
+msgstr "Neveljaven URL videoposnetka"
 
 msgctxt "[\"COMMENT-ERR_INVALID_REVIEW_USER\"]"
 msgid "To give your ratings, you need to verify your email."
-msgstr ""
+msgstr "Če želite podati svoje ocene, morate potrditi svoj e-poštni naslov."
 
 msgctxt "[\"COMMENT-DELETE\"]"
 msgid "Yes,delete it!"
-msgstr ""
+msgstr "Da, izbriši!"
 
 msgctxt "[\"COMMENT-DELETED\"]"
 msgid "Deleted!"
-msgstr ""
+msgstr "Izbrisano!"
 
 msgctxt "[\"COMMENT-SAME_TEXT\"]"
 msgid "The text is the same, please post it later."
-msgstr ""
+msgstr "Besedilo je enako, objavite ga pozneje."
 
 msgctxt "[\"COMMENT-DEL\"]"
 msgid "Delete"
-msgstr ""
+msgstr "Izbriši"
 
 msgctxt "[\"COMMENT-ARE_YOU_SURE\"]"
 msgid "Are you sure?"
-msgstr ""
+msgstr "Ali ste prepričani?"
 
 msgctxt "[\"COMMENT-LOADING\"]"
 msgid "Comment Loading..."
-msgstr ""
+msgstr "Nalaganje komentarja..."
 
 msgctxt "[\"COMMENT-DOWNLOAD_APK\"]"
 msgid "Download the APK file on APKPure."
-msgstr ""
+msgstr "Prenesite datoteko APK iz APKPure."
 
 msgctxt "[\"COMMENT-ERR_SHARE_APK_DENY\"]"
 msgid "This APP cannot be uploaded"
-msgstr ""
+msgstr "Te aplikacije ni mogoče naložiti"
 
 msgctxt "[\"COMMENT-LINK\"]"
 msgid "Link"
-msgstr ""
+msgstr "Ppovezava"
 
+#, fuzzy
 msgctxt "[\"COMMENT-HASHTAG_NOT_EXIST\"]"
 msgid "The hashtag does not exist"
-msgstr ""
+msgstr "Oznaka teme ne obstaja"
 
+#, fuzzy
 msgctxt "[\"COMMENT-HASHTAG\"]"
 msgid "Hashtag"
-msgstr ""
+msgstr "Hashtag"
 
 msgctxt "[\"COMMENT-FOLLOW_COUNT\"]"
 msgid "Followers: {0}"
-msgstr ""
+msgstr "Sledilci: {0}"
 
 msgctxt "[\"COMMENT-POST_COUNT\"]"
 msgid "Posts: {0}"
-msgstr ""
+msgstr "Objave: {0}"
 
 msgctxt "[\"PRE-REGISTER\"]"
 msgid "Pre-Registration Games"
-msgstr ""
+msgstr "Pred-registracija iger"
 
 msgctxt "[\"PRE-REGISTRANTS\"]"
 msgid "Pre-Registrants"
-msgstr ""
+msgstr "Pred-registranti"
 
 msgctxt "[\"PRE-REGISTER_DETAILS\"]"
 msgid "Pre-Register Details"
-msgstr ""
+msgstr "Podrobnosti o pred-registraciji"
 
 msgctxt "[\"PRE-REGISTER_DATE\"]"
 msgid "Release Date"
-msgstr ""
+msgstr "Datum izdaje"
 
 msgctxt "[\"PRE-REGISTER_REWARDS\"]"
 msgid "Register Rewards"
@@ -911,11 +918,12 @@ msgstr ""
 
 msgctxt "[\"PRE-REGISTER_PAGE\"]"
 msgid "Pre-Register Page"
-msgstr ""
+msgstr "Stran za pred-registracijo"
 
+#, fuzzy
 msgctxt "[\"HASHTAG\"]"
 msgid "HASHTAG"
-msgstr ""
+msgstr "HASHTAG"
 
 msgctxt "[\"HOT_HASHTAG\"]"
 msgid "Featured Hashtags"
@@ -923,1163 +931,1251 @@ msgstr ""
 
 msgctxt "[\"COOL_COMMENT\"]"
 msgid "Cool Comment"
-msgstr ""
+msgstr "Super komentar"
 
 msgctxt "[\"MORE_COOL_COMMENTS\"]"
 msgid "More cool comments"
-msgstr ""
+msgstr "Več super komentarjev"
 
 msgctxt "[\"USER-SETTINGS\"]"
 msgid "Settings"
-msgstr ""
+msgstr "Nastavitve"
 
 msgctxt "[\"USER-INFO_ALL\"]"
 msgid "All"
-msgstr ""
+msgstr "Vse"
 
 msgctxt "[\"USER-INFO_REVIEW\"]"
 msgid "Review"
-msgstr ""
+msgstr "Pregled"
 
 msgctxt "[\"USER-INFO_STORY\"]"
 msgid "Story"
-msgstr ""
+msgstr "Zgodba"
 
 msgctxt "[\"USER-SAY_SOMETHING\"]"
 msgid "Why do you want to delete this account?"
-msgstr ""
+msgstr "Zakaj želite izbrisati ta račun?"
 
 msgctxt "[\"USER-A_PRIVATE_ACCOUNT\"]"
 msgid "It's a private account."
-msgstr ""
+msgstr "To je zasebni račun."
 
 msgctxt "[\"USER-PRIVACY_SETTING\"]"
 msgid "Privacy Settings"
-msgstr ""
+msgstr "Nastavitve zasebnosti"
 
 msgctxt "[\"USER-PRIVATE_ACCOUNT\"]"
 msgid "Private Account"
-msgstr ""
+msgstr "Zasebni račun"
 
 msgctxt "[\"USER-DELETE_ACCOUNT\"]"
 msgid "Delete your account and information"
-msgstr ""
+msgstr "Izbrišite svoj račun in podatke"
 
+#, fuzzy
 msgctxt "[\"USER-FOLLOWING\"]"
 msgid "Following"
-msgstr ""
+msgstr "Sledi"
 
 msgctxt "[\"USER-FOLLOWER\"]"
 msgid "Followers"
-msgstr ""
+msgstr "Sledilci"
 
 msgctxt "[\"USER-LIKES\"]"
 msgid "Likes"
-msgstr ""
+msgstr "Všečki"
 
 msgctxt "[\"USER-POSTS\"]"
 msgid "Posts"
-msgstr ""
+msgstr "Objave"
 
 msgctxt "[\"USER-REVIEWS\"]"
 msgid "Reviews"
-msgstr ""
+msgstr "Ocene"
 
 msgctxt "[\"USER-REVIEWS_NONE\"]"
 msgid "Too few users ratings"
-msgstr ""
+msgstr "Premalo ocen uporabnikov"
 
 msgctxt "[\"USER-FAVORITES\"]"
 msgid "Favorites"
-msgstr ""
+msgstr "Priljubljeno"
 
 msgctxt "[\"USER-PROFILE\"]"
 msgid "Profile"
-msgstr ""
+msgstr "Profil"
 
 msgctxt "[\"USER-CHANGE_PASSWORD\"]"
 msgid "Change Password"
-msgstr ""
+msgstr "Spremeni geslo"
 
 msgctxt "[\"USER-MESSAGES\"]"
 msgid "Messages"
-msgstr ""
+msgstr "Sporočila"
 
 msgctxt "[\"USER-MY_FAVORITE\"]"
 msgid "My Favorite"
-msgstr ""
+msgstr "Moj najljubši"
 
 msgctxt "[\"USER-LIKED_COMMENTS\"]"
 msgid "Liked Comments"
-msgstr ""
+msgstr "Všečkani komentarji"
 
 msgctxt "[\"USER-NEW_PASSWORD\"]"
 msgid "New password"
-msgstr ""
+msgstr "Novo geslo"
 
 msgctxt "[\"USER-CURRENT_PASSWORD\"]"
 msgid "Current password"
-msgstr ""
+msgstr "Trenutno geslo"
 
 msgctxt "[\"USER-ACCOUNT_EXIST\"]"
 msgid "The username is already in use."
-msgstr ""
+msgstr "Uporabniško ime je že v uporabi."
 
 msgctxt "[\"USER-ACCOUNT_NOT_EXIST\"]"
 msgid "The account you entered does not exist."
-msgstr ""
+msgstr "Račun, ki ste ga vnesli, ne obstaja."
 
 msgctxt "[\"USER-DISPLAY_NAME_EXIST\"]"
 msgid "The nickname is already in use."
-msgstr ""
+msgstr "Vzdevek je že v uporabi."
 
 msgctxt "[\"USER-INCORRECT_EMAIL\"]"
 msgid "The e-mail address you entered is invalid."
-msgstr ""
+msgstr "Vneseni e-poštni naslov ni veljaven."
 
 msgctxt "[\"USER-INCORRECT_PASSWORD\"]"
 msgid "The password you entered is invalid."
-msgstr ""
+msgstr "Vneseno geslo je neveljavno."
 
 msgctxt "[\"USER-INCORRECT_ACCOUNT\"]"
 msgid "The username you entered is invalid."
-msgstr ""
+msgstr "Vneseno uporabniško ime je neveljavno."
 
 msgctxt "[\"USER-INCORRECT_BIRTHDAY\"]"
 msgid "You have entered an invalid birthday."
-msgstr ""
+msgstr "Vnesli ste neveljaven rojstni dan."
 
 msgctxt "[\"USER-INCORRECT_INTRO\"]"
 msgid "Information you have entered contains invalid characters."
-msgstr ""
+msgstr "Vneseni podatki vsebujejo neveljavne znake."
 
 msgctxt "[\"USER-UNKNOWN_ERROR\"]"
 msgid "unknown mistake."
-msgstr ""
+msgstr "neznana napaka."
 
 msgctxt "[\"USER-DISABLE\"]"
 msgid "This account has been deleted"
-msgstr ""
+msgstr "Ta račun je bil izbrisan"
 
 msgctxt "[\"USER-BAD_NAME\"]"
 msgid "Your input includes sensitive vocabulary."
-msgstr ""
+msgstr "Vaš prispevek vključuje občutljiv besednjak."
 
+#, fuzzy
 msgctxt "[\"USER-SOCIAL_ALREADY_BIND\"]"
 msgid "This third-party account has been connected to another account."
-msgstr ""
+msgstr "Ta račun tretje osebe je bil povezan z drugim računom."
 
 msgctxt "[\"USER-EMAIL_EXIST\"]"
 msgid "This email has been connected to another account."
-msgstr ""
+msgstr "To e-poštno sporočilo je bilo povezano z drugim računom."
 
 msgctxt "[\"USER-SEND_EMAIL_ERR\"]"
 msgid "Failed to send verification code."
-msgstr ""
+msgstr "Kode za preverjanje ni bilo mogoče poslati."
 
 msgctxt "[\"USER-EMAIL_UNBOUND\"]"
 msgid "This email address is not connected to any account."
-msgstr ""
+msgstr "Ta e-poštni naslov ni povezan z nobenim računom."
 
+#, fuzzy
 msgctxt "[\"USER-CAPTCHA_TIME_OUT\"]"
 msgid "Verification Code Timeout."
-msgstr ""
+msgstr "Koda za preverjanje je potekla."
 
 msgctxt "[\"USER-INCORRECT_CAPTCHA\"]"
 msgid "Incorrect Verification Code"
-msgstr ""
+msgstr "Napačna potrditvena koda"
 
 msgctxt "[\"USER-SEND_VERIFICATION_CODE\"]"
 msgid "Send verification code"
-msgstr ""
+msgstr "Pošljite kodo za preverjanje"
 
 msgctxt "[\"USER-SEND_CODE\"]"
 msgid "Send Code"
-msgstr ""
+msgstr "Pošljite kodo"
 
 msgctxt "[\"USER-CONNECT_YOUR_EMAIL\"]"
 msgid "Connect your email"
-msgstr ""
+msgstr "Povežite svoj e-poštni naslov"
 
 msgctxt "[\"USER-CHANGE_EMAIL\"]"
 msgid "Change email"
-msgstr ""
+msgstr "Spremeni e-pošto"
 
 msgctxt "[\"USER-CONNECT_YOUR_EMAIL_FIRST\"]"
 msgid "Please connect your email first"
-msgstr ""
+msgstr "Prosimo, najprej povežite svoj e-poštni naslov"
 
 msgctxt "[\"USER-FEMALE\"]"
 msgid "Female"
-msgstr ""
+msgstr "Ženska"
 
 msgctxt "[\"USER-MALE\"]"
 msgid "Male"
-msgstr ""
+msgstr "Moški"
 
 msgctxt "[\"USER-USER_LOGIN\"]"
 msgid "User Login"
-msgstr ""
+msgstr "Prijava uporabnika"
 
 msgctxt "[\"USER-USERNAME\"]"
 msgid "Username"
-msgstr ""
+msgstr "Uporabniško ime"
 
 msgctxt "[\"USER-NICKNAME\"]"
 msgid "Nickname"
-msgstr ""
+msgstr "Vzdevek"
 
 msgctxt "[\"USER-BIRTHDAY\"]"
 msgid "Birthday"
-msgstr ""
+msgstr "Datum rojstva"
 
 msgctxt "[\"USER-GENDER\"]"
 msgid "Gender"
-msgstr ""
+msgstr "Spol"
 
 msgctxt "[\"USER-SAVE\"]"
 msgid "Save"
-msgstr ""
+msgstr "Shrani"
 
 msgctxt "[\"USER-SAVE_BTN\"]"
 msgid "SAVE"
-msgstr ""
+msgstr "SHRANI"
 
 msgctxt "[\"USER-SAVING\"]"
 msgid "Saving..."
-msgstr ""
+msgstr "Shranjujem..."
 
 msgctxt "[\"USER-MY_PICTURE\"]"
 msgid "My Picture"
-msgstr ""
+msgstr "Moja slika"
 
 msgctxt "[\"USER-CHANGE_PICTURE\"]"
 msgid "Change Picture"
-msgstr ""
+msgstr "Spremeni sliko"
 
 msgctxt "[\"USER-PASSWORD\"]"
 msgid "Password"
-msgstr ""
+msgstr "Geslo"
 
 msgctxt "[\"USER-RETRIEVE_PASSWORD\"]"
 msgid "Retrieve Password"
-msgstr ""
+msgstr "Pridobite geslo"
 
 msgctxt "[\"USER-NEW_USER_REGISTRATION\"]"
 msgid "New User Registration"
-msgstr ""
+msgstr "Registracija novega uporabnika"
 
 msgctxt "[\"USER-SIGN_IN_BTN\"]"
 msgid "SIGN IN"
-msgstr ""
+msgstr "PRIJAVA"
 
 msgctxt "[\"USER-SIGN_IN\"]"
 msgid "Sign In"
-msgstr ""
+msgstr "Prijava"
 
 msgctxt "[\"USER-SIGN_IN_WITH\"]"
 msgid "Or sign in with"
-msgstr ""
+msgstr "Ali pa se prijavite z"
 
 msgctxt "[\"USER-SIGN_UP_BTN\"]"
 msgid "SIGN UP"
-msgstr ""
+msgstr "PRIJAVITE SE"
 
 msgctxt "[\"USER-SIGN_UP\"]"
 msgid "Sign Up"
-msgstr ""
+msgstr "Prijavite se"
 
 msgctxt "[\"USER-CONFIRM_PASSWORD\"]"
 msgid "Confirm Password"
-msgstr ""
+msgstr "Potrdi geslo"
 
 msgctxt "[\"USER-TERMS_SERVICE\"]"
 msgid "By signing up you agree to our <a href='/terms-service.html' target='_blank'>terms of service</a>"
 msgstr ""
+"S prijavo se strinjate z našimi <a href='/terms-service.html' "
+"target='_blank'> pogoji storitve </a>"
 
+#, fuzzy
 msgctxt "[\"REGION_DOWN-TITLE\"]"
 msgid "Region free APK download"
-msgstr ""
+msgstr "Področje brezplačen prenos APK-ja"
 
 msgctxt "[\"REGION_DOWN-DES\"]"
 msgid "- Download your favorite Android Apps with APK Downloader (Free Apps Only).<br>- Your download will begin automatically after you paste a package id and click the download button.<br>- Download failed? Please manually change country setting and try again.<br>- Want to tell us more about your problems? <a style='color:#FFFF00' href='contact-us.html'>Contact us here</a>"
 msgstr ""
+"- Prenesite svoje najljubše aplikacije za Android s programom APK Downloader "
+"(samo brezplačne aplikacije).<br> - Prenos se bo začel samodejno, ko "
+"prilepite ID paketa in kliknete gumb za prenos.<br> - Prenos ni uspel? "
+"Prosimo, ročno spremenite nastavitev države in poskusite znova.<br> - Nam "
+"želite povedati več o svojih težavah? <a style='color:#FFFF00' href='contact-"
+"us.html'> Pišite nam tukaj</a>"
 
 msgctxt "[\"REGION_DOWN-PLACEHOLDER\"]"
 msgid "com.facebook.katana or https://play.google.com...?id=com.facebook.katana"
 msgstr ""
+"com.facebook.katana ali https://play.google.com...?id=com.facebook.katana"
 
 msgctxt "[\"REGION_DOWN-SEARCH\"]"
 msgid "Search"
-msgstr ""
+msgstr "Iskanje"
 
 msgctxt "[\"REGION_DOWN-COUNTRY_NAME\"]"
 msgid "Country name or Region code"
-msgstr ""
+msgstr "Ime države ali koda regije"
 
+#, fuzzy
 msgctxt "[\"REGION_DOWN-MOBILE_TITLE\"]"
 msgid "APK Downloader"
-msgstr ""
+msgstr "APK Downloader"
 
+#, fuzzy
 msgctxt "[\"REGION_DOWN-MOBILE_DES\"]"
 msgid "All Region Games and Apps Download."
-msgstr ""
+msgstr "Prenos vseh področnih iger in aplikacij."
 
 msgctxt "[\"LAST_DOWNLOAD\"]"
 msgid "Last Download"
-msgstr ""
+msgstr "Zadnji prenos"
 
 msgctxt "[\"SIGN_VERIFY-TITLE\"]"
 msgid "Signature Verification Online"
-msgstr ""
+msgstr "Preverjanje podpisa na spletu"
 
 msgctxt "[\"SIGN_VERIFY-CLICK_UPLOAD\"]"
 msgid "Click Upload APK file"
-msgstr ""
+msgstr "Kliknite Naloži datoteko APK"
 
 msgctxt "[\"SIGN_VERIFY-MAXIMUM\"]"
 msgid "Maximum file size"
-msgstr ""
+msgstr "Največja velikost datoteke"
 
 msgctxt "[\"SIGN_VERIFY-DES\"]"
 msgid "APK Signature verification will verify Android app package signature to keep Android users away from potentially harmful APK files before APK installing."
 msgstr ""
+"Preverjanje podpisa APK bo preverilo podpis paketa aplikacij za Android, da "
+"bodo uporabniki Android pred namestitvijo APK-ja oddaljeni od potencialno "
+"škodljivih datotek APK."
 
 msgctxt "[\"SIGN_VERIFY-PACKAGE_NAME\"]"
 msgid "Package Name"
-msgstr ""
+msgstr "Ime paketa"
 
 msgctxt "[\"SIGN_VERIFY-FILE_SIZE\"]"
 msgid "File Size"
-msgstr ""
+msgstr "Velikost datoteke"
 
 msgctxt "[\"SEARCH-ON_THE_APP_STORE\"]"
 msgid "{0} On the App Store"
-msgstr ""
+msgstr "{0} v trgovini App Store"
 
 msgctxt "[\"SEARCH-ADVANCED_SEARCH\"]"
 msgid "Advanced Search"
-msgstr ""
+msgstr "Napredno iskanje"
 
 msgctxt "[\"SEARCH-SEARCH_RESULTS\"]"
 msgid "{0} search results found."
-msgstr ""
+msgstr "Najdenih je {0} rezultatov iskanja."
 
 msgctxt "[\"SEARCH-NO_RESULTS_FOUND\"]"
 msgid "No results found? Try to advanced search again."
-msgstr ""
+msgstr "Ni zadetkov? Poskusite znova z naprednim iskanjem."
 
 msgctxt "[\"SEARCH-SELECT_REGION\"]"
 msgid "Select a region you want to search with"
-msgstr ""
+msgstr "Izberite področje, po katerem želite iskati"
 
 msgctxt "[\"SEARCH-ABOUT_RESULTS\"]"
 msgid "About {0} results"
-msgstr ""
+msgstr "O {0} rezultatih"
 
 msgctxt "[\"SEARCH-PLACEHOLDER1\"]"
 msgid "APKPure or com.apkpure.aegon"
-msgstr ""
+msgstr "APKPure ali com.apkpure.aegon"
 
 msgctxt "[\"SEARCH-PLACEHOLDER2\"]"
 msgid "Search..."
-msgstr ""
+msgstr "Iskanje..."
 
 msgctxt "[\"SEARCH-PLACEHOLDER3\"]"
 msgid "Name Or Package Name"
-msgstr ""
+msgstr "Ime ali ime paketa"
 
 msgctxt "[\"SEARCH-TITLE\"]"
 msgid "Enter App Name, Package Name, Package ID"
-msgstr ""
+msgstr "Vnesite ime aplikacije, ime paketa, ID paketa"
 
 msgctxt "[\"SEARCH-APK\"]"
 msgid "Search APK"
-msgstr ""
+msgstr "Išči APK"
 
 msgctxt "[\"SEARCH-APP\"]"
 msgid "Search App"
-msgstr ""
+msgstr "Išči aplikacijo"
 
 msgctxt "[\"SEARCH-TRENDING\"]"
 msgid "Trending searches"
-msgstr ""
+msgstr "Priljubljena iskanja"
 
 msgctxt "[\"SEARCH-HISTORY\"]"
 msgid "Search history"
-msgstr ""
+msgstr "Zgodovina iskanja"
 
+#, fuzzy
 msgctxt "[\"SEARCH-FEATURED_HASHTAG\"]"
 msgid "Featured hashtags"
-msgstr ""
+msgstr "Featured hashtags"
 
 msgctxt "[\"SEARCH-TAB_USERS\"]"
 msgid "Users"
-msgstr ""
+msgstr "Uporabniki"
 
+#, fuzzy
 msgctxt "[\"SEARCH-TAB_HASHTAGS\"]"
 msgid "Hashtags"
-msgstr ""
+msgstr "Hashtags"
 
 msgctxt "[\"SEARCH-NO_RESULTS\"]"
 msgid "Sorry, no results found."
-msgstr ""
+msgstr "Oprostite, ni rezultatov."
 
 msgctxt "[\"404-OOPS\"]"
 msgid "OOPS!,"
-msgstr ""
+msgstr "UPS!,"
 
 msgctxt "[\"404-Error_404\"]"
 msgid "Error 404!"
-msgstr ""
+msgstr "Napaka 404!"
 
 msgctxt "[\"PRE-REG-RECOMMEND\"]"
 msgid "Recommendations"
-msgstr ""
+msgstr "Priporočila"
 
 msgctxt "[\"404-DES\"]"
 msgid "It seems that page you are looking for no longer exists.<br />You can explore more Android Games and Apps below!"
 msgstr ""
+"Zdi se, da stran, ki jo iščete, ne obstaja več.<br />Spodaj lahko raziščete "
+"več iger in aplikacij za Android!"
 
 msgctxt "[\"FREQUENTLY-VISITED\"]"
 msgid "Your operation is too frequent. Please try again in {time} minutes."
-msgstr ""
+msgstr "Vaša operacija je prepogosta. Poskusite znova čez {time} minut."
 
 msgctxt "[\"COPYRIGHT\"]"
 msgid "Copyright © 2014-2020 APKPure All rights reserved."
-msgstr ""
+msgstr "Copyright © 2014-2020 APKPure Vse pravice pridržane."
 
 msgctxt "[\"COPYRIGHT_MOBILE\"]"
 msgid "APKPure.com © 2014-2020"
-msgstr ""
+msgstr "APKPure.com © 2014-2020"
 
 msgctxt "[\"COMING_SOON\"]"
 msgid "COMING SOON"
-msgstr ""
+msgstr "PRIHAJA KMALU"
 
 msgctxt "[\"SEARCHING\"]"
 msgid "Searching..."
-msgstr ""
+msgstr "Iskanje..."
 
 msgctxt "[\"FOOTER-APK_DOWNLOADS_SEO\"]"
 msgid "APK Downloads"
-msgstr ""
+msgstr "APK prenosi"
 
 msgctxt "[\"FOOTER-APK_DOWNLOAD\"]"
 msgid "APK Downloader (Region free)"
-msgstr ""
+msgstr "APK Downloader (brezplačno področje)"
 
 msgctxt "[\"FOOTER-APK_SIGNATURE_VERIFICATION\"]"
 msgid "APK Signature Verification"
-msgstr ""
+msgstr "APK preverjanje podpisa"
 
 msgctxt "[\"FOOTER-APK_TO_APPX\"]"
 msgid "APK to APPX"
-msgstr ""
+msgstr "APK v APPX"
 
 msgctxt "[\"FOOTER-PRIVACY_POLICY\"]"
 msgid "Privacy Policy"
-msgstr ""
+msgstr "Politika zasebnosti"
 
 msgctxt "[\"FOOTER-DMCA\"]"
 msgid "DMCA Disclaimer"
-msgstr ""
+msgstr "DMCA izjava o omejitvi odgovornosti"
 
 msgctxt "[\"FOOTER-TERM_OF_USE\"]"
 msgid "Term of Use"
-msgstr ""
+msgstr "Pogoji uporabe"
 
 msgctxt "[\"FOOTER-MARKET_FOR_ANDROID\"]"
 msgid "APKPure For Android"
-msgstr ""
+msgstr "APKPure za Android"
 
 msgctxt "[\"FOOTER-EXPLORE_XAPK_GAMES\"]"
 msgid "Explore XAPK Games"
-msgstr ""
+msgstr "Raziščite igre XAPK"
 
 msgctxt "[\"FOOTER-EXPLORE_XAPK_APPS\"]"
 msgid "Explore XAPK Apps"
-msgstr ""
+msgstr "Raziščite aplikacije XAPK"
 
 msgctxt "[\"FOOTER-DESKTOP_VERSION\"]"
 msgid "Desktop Version"
-msgstr ""
+msgstr "Namizna različica"
 
 msgctxt "[\"FOOTER-MOBILE_VERSION\"]"
 msgid "Mobile Version"
-msgstr ""
+msgstr "Mobilna različica"
 
+#, fuzzy
 msgctxt "[\"FOOTER-MOBILE_SITE\"]"
 msgid "Mobile Site"
-msgstr ""
+msgstr "Mobilna stran"
 
 msgctxt "[\"FOOTER-CONTACT_US\"]"
 msgid "Contact Us"
-msgstr ""
+msgstr "Kontaktirajte nas"
 
 msgctxt "[\"FOOTER-ABOUT\"]"
 msgid "About Us"
-msgstr ""
+msgstr "Vizitka"
 
 msgctxt "[\"FOOTER-UPLOAD-APK\"]"
 msgid "Submit APK"
-msgstr ""
+msgstr "Pošlji APK"
 
 msgctxt "[\"FOOTER-SOLUTIONS\"]"
 msgid "SOLUTIONS"
-msgstr ""
+msgstr "REŠITVE"
 
 msgctxt "[\"FOOTER-CUSTOMER_SERVICE\"]"
 msgid "CUSTOMER SERVICE"
-msgstr ""
+msgstr "STORITEV ZA STRANKE"
 
 msgctxt "[\"FOOTER-FOLLOW_US\"]"
 msgid "FOLLOW US"
-msgstr ""
+msgstr "SLEDITE NAM"
 
 msgctxt "[\"FOOTER-TOP_ANDROID_APPS\"]"
 msgid "TOP ANDROID APPS"
-msgstr ""
+msgstr "TOP ANDROID APLIKACIJE"
 
 msgctxt "[\"FOOTER-TOP_ANDROID_GAMES\"]"
 msgid "TOP ANDROID GAMES"
-msgstr ""
+msgstr "TOP ANDROID IGRE"
 
 msgctxt "[\"FOOTER-TRANSLATE\"]"
 msgid "Help translate APKPure"
-msgstr ""
+msgstr "Pomagajte prevesti APKPure"
 
 msgctxt "[\"FOOTER-DEVELOPER\"]"
 msgid "Submit Your App"
-msgstr ""
+msgstr "Pošljite svojo aplikacijo"
 
 msgctxt "[\"FOOTER-DEVELOPER_CONSOLE\"]"
 msgid "Developer Console"
-msgstr ""
+msgstr "Konzola za razvijalce"
 
 msgctxt "[\"FOOTER-COOPERATION\"]"
 msgid "Business Cooperation"
-msgstr ""
+msgstr "Poslovno sodelovanje"
 
 msgctxt "[\"FOOTER-REPORT_ABUSE\"]"
 msgid "Report abuse"
-msgstr ""
+msgstr "Prijavite zlorabo"
 
 msgctxt "[\"MARKET-PAGE_TOP_GAMES\"]"
 msgid "Top Games"
-msgstr ""
+msgstr "Top igre"
 
 msgctxt "[\"MARKET-PAGE_TOP_APPS\"]"
 msgid "Top Apps"
-msgstr ""
+msgstr "Top aplikacije"
 
 msgctxt "[\"MARKET-PAGE_TOP_DEVELOPERS\"]"
 msgid "Top Developers"
-msgstr ""
+msgstr "Top razvijalci"
 
+#, fuzzy
 msgctxt "[\"MARKET-PAGE_TOP_COUNTRIES\"]"
 msgid "Partitioned Ranking"
-msgstr ""
+msgstr "Razdeljena razvrstitev"
 
 msgctxt "[\"MARKET-POP_TITLE\"]"
 msgid "APKPure AppStore App"
-msgstr ""
+msgstr "APKPure AppStore Aplikacije"
 
 msgctxt "[\"MARKET-POP_CHANGE_TITLE\"]"
 msgid "Change Profile Settings"
-msgstr ""
+msgstr "Spremenite nastavitve profila"
 
 msgctxt "[\"MARKET-POP_ADD_IMAGE\"]"
 msgid "Add Images To Post"
-msgstr ""
+msgstr "Dodaj slike za objavo"
 
 msgctxt "[\"MARKET-POP_ADD_NEW_POST\"]"
 msgid "Add New Post or Comment"
-msgstr ""
+msgstr "Dodajte novo objavo ali komentar"
 
 msgctxt "[\"MARKET-POP_ADD_TAG\"]"
 msgid "Add Tags"
-msgstr ""
+msgstr "Dodaj oznake"
 
 msgctxt "[\"MARKET-QR\"]"
 msgid "Download<br>APKPure App"
-msgstr ""
+msgstr "Prenos <br>APKPure aplikacije"
 
 msgctxt "[\"MARKET-QR-TITLE\"]"
 msgid "Download APKPure App"
-msgstr ""
+msgstr "Prenos APKPure aplikacije"
 
 msgctxt "[\"MARKET-INDEX_SHORT_DES\"]"
 msgid "Try <strong title=\"Download APKPure APK\">APKPure App</strong> - Download, update and install apks on your Android."
 msgstr ""
+"Preizkusite <strong title=\"Prenos APKPure aplikacije\">APKPure aplikacijo </"
+"strong> - prenesite, posodobite in namestite apk v svoj Android."
 
 msgctxt "[\"MARKET-INDEX_SHORT_DES_TITLE\"]"
 msgid "Try APKPure Mobile app, to install, manage and update your Android apps."
 msgstr ""
+"Preizkusite aplikacijo APKPure Mobile za namestitev, upravljanje in "
+"posodobitev aplikacij za Android."
 
 msgctxt "[\"MARKET-DETAIL_APK_SHORT_DES\"]"
 msgid "Faster apks download and update on APKPure App"
-msgstr ""
+msgstr "Hitrejši prenos in posodobitev apk-jev v aplikaciji APKPure"
 
 msgctxt "[\"MARKET-DETAIL_APK_SHORT_DES_MOBILE\"]"
 msgid "Download and update on APKPure App"
-msgstr ""
+msgstr "Prenesite in posodobite aplikacijo APKPure"
 
 msgctxt "[\"MARKET-DETAIL_APK_SHORT_DES_TITLE\"]"
 msgid "Faster apks download and update on APKPure"
-msgstr ""
+msgstr "Hitrejši prenos in posodobitev apk-jev na APKPure"
 
 msgctxt "[\"MARKET-DETAIL_XAPK_SHORT_DES\"]"
 msgid "Install and update XAPK with APKPure App"
-msgstr ""
+msgstr "Namestite in posodobite XAPK z aplikacijo APKPure"
 
 msgctxt "[\"MARKET-INDEX_BANNER_TITLE\"]"
 msgid "APKPure APP"
-msgstr ""
+msgstr "APKPure APLIKACIJE"
 
 msgctxt "[\"MARKET-INDEX_BANNER_DES\"]"
 msgid "Install,manage and update your apps"
-msgstr ""
+msgstr "Namestite, upravljajte in posodobite svoje aplikacije"
 
 msgctxt "[\"MARKET-BOTTOM_BANNER_DES\"]"
 msgid "Try APKPure App - Download, update and install apks on your Android."
 msgstr ""
+"Preizkusite aplikacijo APKPure - prenesite, posodobite in namestite apk-je v "
+"svoj Android."
 
 msgctxt "[\"MARKET-BOTTOM_BANNER_DETAIL_APK_DES\"]"
 msgid "Using APKPure App to upgrade <strong>{0}</strong>, fast, free and save your internet data."
 msgstr ""
+"Uporaba aplikacije APKPure za nadgradnjo <strong>{0}</strong>, hitro, "
+"brezplačno in shranjevanje internetnih podatkov."
 
 msgctxt "[\"MARKET-BOTTOM_BANNER_DETAIL_APK_DES_TITLE\"]"
 msgid "Using APKPure App to upgrade {0}, fast, free and save your internet data."
 msgstr ""
+"Z aplikacijo APKPure lahko nadgradite {0}, hitro, brezplačno in shranite "
+"internetne podatke ."
 
 msgctxt "[\"MARKET-BOTTOM_BANNER_DETAIL_XAPK_DES\"]"
 msgid "Using APKPure App to upgrade <strong>{0}</strong>, install xapk, fast, free and save your internet data."
 msgstr ""
+"Z aplikacijo APKPure nadgradite <strong>{0}</strong>, namestite xapk, hitro, "
+"brezplačno in shranite internetne podatke."
 
 msgctxt "[\"MARKET-BOTTOM_BANNER_DETAIL_XAPK_DES_TITLE\"]"
 msgid "Using APKPure App to upgrade {0}, install xapk, fast, free and save your internet data."
 msgstr ""
+"Z aplikacijo APKPure nadgradite {0}, namestite xapk, hitro, brezplačno in "
+"shranite internetne podatke."
 
 msgctxt "[\"MARKET-BOTTOM_BANNER_DOWNLOAD_BTN\"]"
 msgid "Download APP"
-msgstr ""
+msgstr "Prenesite APP"
 
 msgctxt "[\"MARKET-PROMOTION_BANNER_MOBILE1\"]"
 msgid "<p class=\"desc\">Using APKPure App to download/update this apk, faster, free and saving data!</p>"
 msgstr ""
+"<p class=\"desc\"> Uporaba aplikacije APKPure za prenos/posodobitev tega "
+"apk, hitreje, brezplačno in shranjevanje podatkov!</p>"
 
 msgctxt "[\"MARKET-PROMOTION_BANNER_MOBILE1_XAPK\"]"
 msgid "<p class=\"desc\">Using APKPure App to install this XAPK, faster, free and saving data!</p>"
 msgstr ""
+"<p class=\"desc\">Uporaba aplikacije APKPure za namestitev tega XAPK, "
+"hitreje, brezplačno in shranjevanje podatkov!</p>"
 
 msgctxt "[\"MARKET-PROMOTION_BANNER_MOBILE2\"]"
 msgid "<p class=\"tit\">Using APKPure App</p><p class=\"des\">Faster, free and saving data!</p>"
 msgstr ""
+"<p class=\"tit\">Uporaba aplikacije APKPure</p><p class =\"des\">Hitreje, "
+"brezplačno in shranjevanje podatkov!</p>"
 
+#, fuzzy
 msgctxt "[\"MARKET-PROMOTION_BANNER_MOBILE2_XAPK\"]"
 msgid "<p class=\"tit\">Using APKPure App</p><p class=\"des\">Install XAPK, Faster, free and saving data!</p>"
 msgstr ""
+"<p class =\"tit\">Uporaba aplikacije APKPure</p><p class=\"des\"> Namestite "
+"XAPK, hitreje, brezplačno in prihranite podatke!</p>"
 
+#, fuzzy
 msgctxt "[\"MARKET-PROMOTION_BANNER_DOWN\"]"
 msgid "<p class=\"tit\">Using APKPure App</p><p class=\"des\">Download / Update this {0}, faster, free and saving data!</p>"
 msgstr ""
+"<p class=\"tit\">Uporaba aplikacije APKPure</p><p class=\"des\">Prenesite/"
+"posodobite to {0}, hitreje, brezplačno in prihranite podatke!</p>"
 
 msgctxt "[\"FLAG-Africa\"]"
 msgid "Africa"
-msgstr ""
+msgstr "Afrika"
 
 msgctxt "[\"FLAG-Americas\"]"
 msgid "Americas"
-msgstr ""
+msgstr "Amerike"
 
 msgctxt "[\"FLAG-Asia\"]"
 msgid "Asia"
-msgstr ""
+msgstr "Azija"
 
 msgctxt "[\"FLAG-Europe\"]"
 msgid "Europe"
-msgstr ""
+msgstr "Evropa"
 
 msgctxt "[\"FLAG-Oceania\"]"
 msgid "Oceania"
-msgstr ""
+msgstr "Oceanija"
 
 msgctxt "[\"FLAG-Rest_of_the_world\"]"
 msgid "Rest of the world"
-msgstr ""
+msgstr "Ostali svet"
 
 msgctxt "[\"ERROR-SUBTITLE\"]"
 msgid "You can visit the following Games and Apps instead"
-msgstr ""
+msgstr "Namesto tega lahko obiščete naslednje igre in aplikacije"
 
 msgctxt "[\"RECOMMENDED-POSTS\"]"
 msgid "Recommended Posts"
-msgstr ""
+msgstr "Priporočene objave"
 
 msgctxt "[\"USERS-RECOMMENDED\"]"
 msgid "Users' Recommendations"
-msgstr ""
+msgstr "Priporočila uporabnikov"
 
 msgctxt "[\"UPLOAD-YOUR-APP\"]"
 msgid "Upload Your Application"
-msgstr ""
+msgstr "Naložite svojo aplikacijo"
 
 msgctxt "[\"UPLOAD-APK-FILE\"]"
 msgid "Upload the apk file"
-msgstr ""
+msgstr "Naložite apk datoteko"
 
 msgctxt "[\"UPLOAD-APK-FILE-PROMPT\"]"
 msgid "Only support <strong>.APK/XAPK</strong> file no larger than <strong>{0}Mb</strong>"
 msgstr ""
+"Podpira samo datoteko<strong>.APK/XAPK</strong>, ki ni večja od "
+"<strong>{0}Mb</strong>"
 
 msgctxt "[\"APP-DETAILS\"]"
 msgid "App Details"
-msgstr ""
+msgstr "Podrobnosti o aplikaciji"
 
 msgctxt "[\"TARGET-OS-VERSION\"]"
 msgid "Target OS version"
-msgstr ""
+msgstr "Različica ciljnega OS"
 
 msgctxt "[\"SUPPORTED-SCREENS\"]"
 msgid "Supported screens"
-msgstr ""
+msgstr "Podprti zasloni"
 
+#, fuzzy
 msgctxt "[\"SUPPORTED-DENSITIES\"]"
 msgid "Supported densities"
-msgstr ""
+msgstr "Podprte gostote"
 
 msgctxt "[\"SUPPORTED-ARCHITECTURES\"]"
 msgid "Supported architectures"
-msgstr ""
+msgstr "Podprte arhitekture"
 
 msgctxt "[\"FEATURES-AND-PERMISSIONS\"]"
 msgid "Features and Permissions"
-msgstr ""
+msgstr "Funkcije in dovoljenja"
 
 msgctxt "[\"DETAILS-PERMISSIONS\"]"
 msgid "Permissions"
-msgstr ""
+msgstr "Dovoljenja"
 
 msgctxt "[\"DETAILS-USES-FEATURES\"]"
 msgid "Uses features"
-msgstr ""
+msgstr "Uporablja funkcije"
 
 msgctxt "[\"LANGUAGE\"]"
 msgid "Language"
-msgstr ""
+msgstr "Jezik"
 
 msgctxt "[\"LANGUAGE-KR\"]"
 msgid "Korean"
-msgstr ""
+msgstr "Korejski"
 
 msgctxt "[\"LANGUAGE-AR\"]"
 msgid "Arabic"
-msgstr ""
+msgstr "Arabski"
 
 msgctxt "[\"LANGUAGE-EN\"]"
 msgid "English"
-msgstr ""
+msgstr "Angleški"
 
 msgctxt "[\"LANGUAGE-ES\"]"
 msgid "Spanish"
-msgstr ""
+msgstr "Španski"
 
 msgctxt "[\"LANGUAGE-FR\"]"
 msgid "French"
-msgstr ""
+msgstr "Francoski"
 
 msgctxt "[\"LANGUAGE-IN\"]"
 msgid "Hindi"
-msgstr ""
+msgstr "Hindujski"
 
 msgctxt "[\"LANGUAGE-ID\"]"
 msgid "Indonesian"
-msgstr ""
+msgstr "Indonezijski"
 
 msgctxt "[\"LANGUAGE-IT\"]"
 msgid "Italian"
-msgstr ""
+msgstr "Italijanski"
 
 msgctxt "[\"LANGUAGE-JP\"]"
 msgid "Japanese"
-msgstr ""
+msgstr "Japonski"
 
 msgctxt "[\"LANGUAGE-DE\"]"
 msgid "German"
-msgstr ""
+msgstr "Nemški"
 
 msgctxt "[\"LANGUAGE-NL\"]"
 msgid "Dutch"
-msgstr ""
+msgstr "Nizozemski"
 
 msgctxt "[\"LANGUAGE-PL\"]"
 msgid "Polish"
-msgstr ""
+msgstr "Poljski"
 
 msgctxt "[\"LANGUAGE-BR\"]"
 msgid "Portuguese"
-msgstr ""
+msgstr "Portugalski"
 
 msgctxt "[\"LANGUAGE-RU\"]"
 msgid "Russian"
-msgstr ""
+msgstr "Ruski"
 
 msgctxt "[\"LANGUAGE-TR\"]"
 msgid "Turkish"
-msgstr ""
+msgstr "Turški"
 
 msgctxt "[\"LANGUAGE-VN\"]"
 msgid "Vietnamese"
-msgstr ""
+msgstr "Vietnamski"
 
 msgctxt "[\"LANGUAGE-CN\"]"
 msgid "Chinese Simplified"
-msgstr ""
+msgstr "Kitajski poenostavljeno"
 
 msgctxt "[\"LANGUAGE-TW\"]"
 msgid "traditional Chinese"
-msgstr ""
+msgstr "Kitajski tradicionalni"
 
 msgctxt "[\"REVIEW_PRIVACY_POLICY_DES_M\"]"
 msgid "We encourage you to read our updated <a target='_blank' href='{pp}'>Privacy Policy</a> and <a target='_blank' href='{cp}'>Cookies Policy</a>."
 msgstr ""
+"Priporočamo vam, da preberete naš posodobljeni <a target='_blank' href='{pp}"
+"'>Pravilnik o zasebnosti</a> and <a target='_blank' href='{cp}'>Pravilnik o "
+"piškotkih</a>."
 
 msgctxt "[\"REVIEW_PRIVACY_POLICY_DES\"]"
 msgid "We use cookies and other technologies on this website to enhance your user experience.<br> By clicking any link on this page you are giving your consent to our <a target='_blank' href='{pp}'>Privacy Policy</a> and <a target='_blank' href='{cp}'>Cookies Policy</a>."
 msgstr ""
+"Na tej spletni strani uporabljamo piškotke in druge tehnologije za "
+"izboljšanje vaše uporabniške izkušnje. <br> S klikom na katero koli povezavo "
+"na tej strani dajete soglasje k našemu <a target='_blank' href='{pp}'> "
+"Pravilniku o zasebnosti </a> in <a target='_blank' href='{cp}'> Pravilniku o "
+"piškotkih</a>."
 
 msgctxt "[\"REVIEW_PRIVACY_POLICY_BTN\"]"
 msgid "Ok I Agree"
-msgstr ""
+msgstr "V redu, strinjam se"
 
 msgctxt "[\"REVIEW_PRIVACY_POLICY_MORE\"]"
 msgid "Learn More"
-msgstr ""
+msgstr "Več o tem"
 
 msgctxt "[\"MARKET-TOP_COUNTRY\"][\"en-US\"]"
 msgid "USA"
-msgstr ""
+msgstr "ZDA"
 
 msgctxt "[\"MARKET-TOP_COUNTRY\"][\"ja\"]"
 msgid "Japan"
-msgstr ""
+msgstr "Japonska"
 
 msgctxt "[\"MARKET-TOP_COUNTRY\"][\"zh-CN\"]"
 msgid "China"
-msgstr ""
+msgstr "Kitajska"
 
 msgctxt "[\"MARKET-TOP_COUNTRY\"][\"ko-KR\"]"
 msgid "Korea"
-msgstr ""
+msgstr "Koreja"
 
 msgctxt "[\"MARKET-TOP_COUNTRY\"][\"id-ID\"]"
 msgid "Indonesia"
-msgstr ""
+msgstr "Indonezija"
 
 msgctxt "[\"MARKET-TOP_COUNTRY\"][\"pt-BR\"]"
 msgid "Brazil"
-msgstr ""
+msgstr "Brazilija"
 
 msgctxt "[\"error\"][\"DOWN-ItemNotFree\"]"
 msgid "Sorry, paid apps are not available to download with our APK Download Service."
 msgstr ""
+"Žal plačljivih aplikacij ni mogoče prenesti z našo storitvijo za prenos APK."
 
 msgctxt "[\"error\"][\"DOWN-ItemNotFound\"]"
 msgid "Sorry, download failed, the APK cannot be found."
-msgstr ""
+msgstr "Žal prenos ni uspel, APK-ja ni mogoče najti."
 
 msgctxt "[\"error\"][\"DOWN-LimitedRegion\"]"
 msgid "Oops! Change your region and try download again."
-msgstr ""
+msgstr "Ups! Spremenite svojo regijo in poskusite prenesti znova."
 
 msgctxt "[\"error\"][\"DOWN-LimitedDevice\"]"
 msgid "Sorry, download failed, the APK does not support our device."
-msgstr ""
+msgstr "Žal prenos ni uspel, APK ne podpira naše naprave."
 
 msgctxt "[\"error\"][\"DOWN-UnknownError\"]"
 msgid "Download failed because of an unknown error. We will fix this problem soon."
-msgstr ""
+msgstr "Prenos ni uspel zaradi neznane napake. To težavo bomo kmalu odpravili."
 
 msgctxt "[\"error\"][\"DOWN-PreRegister\"]"
 msgid "It's a Pre-registration App, you can't download."
-msgstr ""
+msgstr "To je aplikacija za predhodno registracijo, ki je ni mogoče prenesti."
 
 msgctxt "[\"error\"][\"DOWN-RunOutOfDevice\"]"
 msgid "Download failed, please try again in 5 minutes."
-msgstr ""
+msgstr "Prenos ni uspel, poskusite znova čez 5 minut."
 
 msgctxt "[\"tip\"][\"SHORT_NAME\"]"
 msgid "{0}"
-msgstr ""
+msgstr "{0}"
 
 msgctxt "[\"tip\"][\"DEVELOPER_ICON\"]"
 msgid "{0} Icon"
-msgstr ""
+msgstr "{0} ikona"
 
 msgctxt "[\"tip\"][\"VERSION\"]"
 msgid "Download {app_short_name} v{version_name} for android"
-msgstr ""
+msgstr "Prenesite {app_short_name} v{version_name} za android"
 
 msgctxt "[\"tip\"][\"VERSION_VARIANT\"]"
 msgid "Download {app_short_name} v{version_name} build variants in android"
-msgstr ""
+msgstr "Prenesite različice gradnje {app_short_name} v{version_name} v android"
 
 msgctxt "[\"tip\"][\"ICON\"]"
 msgid "{0} icon"
-msgstr ""
+msgstr "{0} ikona"
 
 msgctxt "[\"tip\"][\"PREVIOUS_VERSIONS\"]"
 msgid "{0} Previous Versions"
-msgstr ""
+msgstr "{0} Prejšnje različice"
 
 msgctxt "[\"tip\"][\"LIST_ICON\"]"
 msgid "{0} APK"
-msgstr ""
+msgstr "{0} APK"
 
 msgctxt "[\"tip\"][\"LIST_DOWN\"]"
 msgid "Download {0} latest version apk"
-msgstr ""
+msgstr "Prenesite {0} najnovejšo različico apk"
 
 msgctxt "[\"tip\"][\"LIST_DOWN_XAPK\"]"
 msgid "Download {0} latest version xapk"
-msgstr ""
+msgstr "Prenesite {0} najnovejšo različico xapk"
 
 msgctxt "[\"tip\"][\"VERSION_DOWN\"]"
 msgid "Download {app_name} {version_name} ({version_code}) {file_type}"
-msgstr ""
+msgstr "Prenesite {app_name} {version_name} ({version_code}) {file_type}"
 
 msgctxt "[\"tip\"][\"VERSION_VARIANT_DOWN\"]"
 msgid "Download {app_name} {version_name} variant {file_type}"
-msgstr ""
+msgstr "Prenesite {app_name} {version_name} različico {file_type}"
 
 msgctxt "[\"tip\"][\"RATING\"]"
 msgid "{app_name} average rating {rating_average}"
-msgstr ""
+msgstr "{app_name} povprečna ocena {rating_average}"
 
 msgctxt "[\"tip\"][\"QR_DOWN\"]"
 msgid "{0} QR code download"
-msgstr ""
+msgstr "{0} Prenos kode QR"
 
 msgctxt "[\"tip\"][\"SAFE_VERIFIED\"]"
 msgid "{0} safe verified"
-msgstr ""
+msgstr "{0} varnostno preverjeno"
 
 msgctxt "[\"tip\"][\"SCREEN_POSTER\"]"
 msgid "{0} poster"
-msgstr ""
+msgstr "{0} poster"
 
 msgctxt "[\"tip\"][\"SCREEN\"]"
 msgid "{0} apk screenshot"
-msgstr ""
+msgstr "{0} posnetek zaslona apk"
 
 msgctxt "[\"tip\"][\"SCREEN_INDEX\"]"
 msgid "{0} screenshot {1}"
-msgstr ""
+msgstr "{0} posnetek zaslona {1}"
 
 msgctxt "[\"tip\"][\"CATEGORY_GAME\"]"
 msgid "Download more {0} games"
-msgstr ""
+msgstr "Prenesite {0} več iger"
 
 msgctxt "[\"tip\"][\"CATEGORY_APP\"]"
 msgid "Download more {0} apps"
-msgstr ""
+msgstr "Prenesite več {0} aplikacij"
 
 msgctxt "[\"tip\"][\"GET_IT_ON_GOOGLE_PLAY\"]"
 msgid "Get {0} on Google Play"
-msgstr ""
+msgstr "Pridobite {0} v Google Play"
 
 msgctxt "[\"tip\"][\"GET_IT_ON_OTHER\"]"
 msgid "Get {app_name} on {source_name}"
-msgstr ""
+msgstr "Pridobite {app_name} na {source_name}"
 
 msgctxt "[\"tip\"][\"REQUEST_UPDATE\"]"
 msgid "Request {0} Update"
-msgstr ""
+msgstr "Zahtevajte {0} posodobitev"
 
 msgctxt "[\"tip\"][\"HOT_ANDROID_GAME\"]"
 msgid "hot android game apk"
-msgstr ""
+msgstr "vroče android apk igre"
 
 msgctxt "[\"tip\"][\"HOT_ANDROID_APP\"]"
 msgid "hot android app apk"
-msgstr ""
+msgstr "vroče android apk aplikacije"
 
 msgctxt "[\"js\"][\"LANG_TIP\"][\"kr\"]"
 msgid "원하는 언어를 <strong> 한국어 </strong>로 변경 하시겠습니까?"
-msgstr ""
+msgstr "Ali želite jezik, ki ga želite, spremeniti v <strong>korejski</strong>?"
 
 msgctxt "[\"js\"][\"LANG_IGNORE\"][\"kr\"]"
 msgid "무시"
-msgstr ""
+msgstr "Prezri"
 
 msgctxt "[\"js\"][\"LANG_OK\"][\"kr\"]"
 msgid "승인"
-msgstr ""
+msgstr "Zahvala"
 
 msgctxt "[\"js\"][\"UPLOAD-TIMED_OUT\"]"
 msgid "File parsing timed out. (Error code: 10003)"
-msgstr ""
+msgstr "Razčlenjevanje datotek je poteklo. (Koda napake: 10003)"
 
 msgctxt "[\"js\"][\"UPLOAD-LIMIT_SIZE\"]"
 msgid "The file size cannot exceed {0}."
-msgstr ""
+msgstr "Velikost datoteke ne sme presegati {0}."
 
 msgctxt "[\"js\"][\"SIGN_VERIFY-OFFICIAL\"]"
 msgid "[Official] This {0} APK is the unmodified official version."
-msgstr ""
+msgstr "[Uradno] Ta {0} APK je nespremenjena uradna različica."
 
 msgctxt "[\"js\"][\"SIGN_VERIFY-NOT_TRUSTED\"]"
 msgid "[Not Trusted] This {0} APK is a modified version, we don't recommend installing it."
 msgstr ""
+"[Ni zaupanja vredna] Ta {0} APK je spremenjena različica, zato ne "
+"priporočamo namestitve."
 
 msgctxt "[\"js\"][\"SIGN_VERIFY-ERROR_APK_FILE\"]"
 msgid "Error APK file"
-msgstr ""
+msgstr "Napaka APK datoteke"
 
 msgctxt "[\"js\"][\"SIGN_VERIFY-VALID\"]"
 msgid "The uploaded file is not a valid Android application."
-msgstr ""
+msgstr "Naložena datoteka ni veljavna aplikacija za Android."
 
 msgctxt "[\"js\"][\"SIGN_VERIFY-SAFE\"]"
 msgid "safe"
-msgstr ""
+msgstr "varno"
 
 msgctxt "[\"js\"][\"SIGN_VERIFY-UNSAFE\"]"
 msgid "unsafe"
-msgstr ""
+msgstr "ni varno"
 
 msgctxt "[\"js\"][\"REGION_DOWN-REGION_ERROR\"]"
 msgid "Package name or region error , try again"
-msgstr ""
+msgstr "Napaka imena paketa ali regije, poskusite znova"
 
 msgctxt "[\"js\"][\"REGION_DOWN-INVALID_APP\"]"
 msgid "Invalid app package name,"
-msgstr ""
+msgstr "Neveljavno ime paketa aplikacij,"
 
 msgctxt "[\"js\"][\"REGION_DOWN-SEARCH_RESULTS\"]"
 msgid "Check all {0} search results here."
-msgstr ""
+msgstr "Tukaj preverite vse {0} rezultate iskanja."
 
 msgctxt "[\"js\"][\"REGION_DOWN-DOWNLOADING\"]"
 msgid "Downloading, please wait..."
-msgstr ""
+msgstr "Prenašanje, prosimo počakajte..."
 
 msgctxt "[\"js\"][\"LOADING\"]"
 msgid "loading..."
-msgstr ""
+msgstr "nalaganje..."
 
 msgctxt "[\"js\"][\"UPLOADED\"]"
 msgid "Uploaded {0}%"
-msgstr ""
+msgstr "Naloženo {0}%"
 
 msgctxt "[\"js\"][\"UPLOADING\"]"
 msgid "Uploading..."
-msgstr ""
+msgstr "Nalaganje..."
 
 msgctxt "[\"js\"][\"VALIDATING\"]"
 msgid "Validating..."
-msgstr ""
+msgstr "Preverjanje..."
 
 msgctxt "[\"js\"][\"FILE_UPLOAD_FAILED\"]"
 msgid "File upload failed!"
-msgstr ""
+msgstr "Nalaganje datoteke ni uspelo!"
 
 msgctxt "[\"js\"][\"YOUTUBE_URL\"]"
 msgid "Enter Youtube video URL"
-msgstr ""
+msgstr "Vnesite URL videoposnetka Youtube"
 
 msgctxt "[\"js\"][\"YOUTUBE_URL_ERR\"]"
 msgid "Invalid URL: Please enter a valid YouTube video URL"
-msgstr ""
+msgstr "Neveljaven URL: Vnesite veljaven URL videoposnetka YouTube"
 
 msgctxt "[\"js\"][\"USER-PASSWORD_NOT_MATCH\"]"
 msgid "Passwords do not match"
-msgstr ""
+msgstr "Gesla se ne ujemata"
 
 msgctxt "[\"js\"][\"USER-PASSWORD_MUST\"]"
 msgid "Password must be 6-32 characters long"
-msgstr ""
+msgstr "Geslo mora biti dolgo 6–32 znakov"
 
 msgctxt "[\"js\"][\"USER-USERNAME_MUST\"]"
 msgid "Username must be 1-20 characters long and special characters are not allowed."
 msgstr ""
+"Uporabniško ime mora biti dolgo 1–20 znakov, posebni znaki pa niso dovoljeni."
 
 msgctxt "[\"js\"][\"USER-SAVED_SUCCESS\"]"
 msgid "Saved Successfully"
-msgstr ""
+msgstr "Uspešno shranjeno"
 
 msgctxt "[\"js\"][\"USER-RESEND_VERIFICATION\"]"
 msgid "Resend verification code"
-msgstr ""
+msgstr "Znova pošljite kodo za preverjanje"
 
 msgctxt "[\"js\"][\"USER-RESEND\"]"
 msgid "Resend code"
-msgstr ""
+msgstr "Ponovno pošlji kodo"
 
 msgctxt "[\"js\"][\"USER-RESEND_IN\"]"
 msgid "Resend in {0}"
-msgstr ""
+msgstr "Znova pošlji v {0}"
 
 msgctxt "[\"js\"][\"SUBMISSION_SUCCESS\"]"
 msgid "Submission success."
-msgstr ""
+msgstr "Uspešno oddano."
 
 msgctxt "[\"js\"][\"COMMENT-RATE_MUST\"]"
 msgid "Before writing a review or something, please rate the app first."
-msgstr ""
+msgstr "Preden napišete mnenje ali kaj podobnega, najprej ocenite aplikacijo."
 
 msgctxt "[\"meta\"][\"Index\"][\"title\"]"
 msgid "Download APK free online downloader | APKPure.com"
-msgstr ""
+msgstr "Prenesite APK brezplačni spletni prenosnik | APKPure.com"
 
 msgctxt "[\"meta\"][\"Index\"][\"keywords\"]"
 msgid "apk download, apk downloader, android apk download"
-msgstr ""
+msgstr "prenos apk, prenosnik apk, prenos android apk"
 
 msgctxt "[\"meta\"][\"Index\"][\"description\"]"
 msgid "Download apk for Android with APKPure APK downloader. NoAds, Faster apk downloads and apk file update speed. Best of all, it's free"
 msgstr ""
+"Prenesite apk za Android s programom APKPure APK prenosnikom. Brez oglasov, "
+"hitrejši prenosi apk in hitrost posodobitve datotek apk. Najboljše od vsega "
+"je, da je brezplačno"
 
 msgctxt "[\"meta\"][\"Details\"][\"title\"]"
 msgid "{app_name} APK Download - Free {app_category} {app_type} for Android | APKPure.com"
 msgstr ""
+"{app_name} Prenos APK-ja - brezplačno {app_category} {app_type} za Android | "
+"APKPure.com"
 
 msgctxt "[\"meta\"][\"Details\"][\"keywords\"]"
 msgid "{app_name} apk, {app_name} apk download, {app_name} download, {app_name}.apk, {app_name} android, {app_category} {app_type} download"
 msgstr ""
+"{app_name} apk, {app_name} apk prenos, {app_name} prenos, {app_name} .apk, "
+"{app_name} android, {app_category} {app_type} prenos"
 
 msgctxt "[\"meta\"][\"Details\"][\"description\"]"
 msgid "Download {app_short_name} apk {version_name} and all version history for Android. {app_short_description}"
 msgstr ""
+"Prenesite {app_short_name} apk {version_name} in vso zgodovino različic za "
+"Android. {app_short_description}"
 
 msgctxt "[\"meta\"][\"Details_new\"][\"title\"]"
 msgid "{app_short_name} for Android - APK Download"
-msgstr ""
+msgstr "{app_short_name} za Android - Prenos APK-ja"
 
 msgctxt "[\"meta\"][\"Details_new\"][\"keywords\"]"
 msgid "{app_short_name}, {app_short_name} for android, {app_short_name} android download, {app_short_name} apk, {app_short_name} android apk, {app_short_name} download"
 msgstr ""
+"{app_short_name}, {app_short_name} za android, {app_short_name} android "
+"prenos, {app_short_name} apk, {app_short_name} android apk, {app_short_name} "
+"prenos"
 
 msgctxt "[\"meta\"][\"Details_new\"][\"description\"]"
 msgid "Download {app_short_name} apk {version_name} for Android. {app_short_description}"
 msgstr ""
+"Prenesite {app_short_name} apk {version_name} za Android. "
+"{app_short_description}"
 
 msgctxt "[\"meta\"][\"Versions\"][\"title\"]"
 msgid "{app_short_name} update version history for Android - APK Download"
 msgstr ""
+"{app_short_name} zgodovina različice posodobitve za Android - APK prenos"
 
 msgctxt "[\"meta\"][\"Versions\"][\"keywords\"]"
 msgid "{app_short_name}, download, old, version history, apk, release date, changelog"
 msgstr ""
+"{app_short_name}, prenos, staro, zgodovina različic, apk, datum izdaje, "
+"dnevnik sprememb"
 
 msgctxt "[\"meta\"][\"Versions\"][\"description\"]"
 msgid "Download {app_short_name} old versions Android APK or update to {app_short_name} latest version. Review {app_short_name} release date, changelog and more."
 msgstr ""
+"Prenesite {app_short_name} stare različice APK za Android ali posodobite na "
+"najnovejšo različico {app_short_name}. Preglejte datum izdaje programa "
+"{app_short_name}, dnevnik sprememb in še več."
 
+#, fuzzy
 msgctxt "[\"meta\"][\"Variants\"][\"title\"]"
 msgid "{app_short_name} {version_name} Build variants in Android - APK Download"
 msgstr ""
+"{app_short_name} {version_name} Različice različic v sistemu Android - "
+"prenos APK-ja"
 
 msgctxt "[\"meta\"][\"Variants\"][\"keywords\"]"
 msgid ""
@@ -2087,179 +2183,225 @@ msgstr ""
 
 msgctxt "[\"meta\"][\"Details_download\"][\"title\"]"
 msgid "Download {app_name} {version_name} APK | APKPure.com"
-msgstr ""
+msgstr "Prenesite APK {app_name} {version_name} | APKPure.com"
 
 msgctxt "[\"meta\"][\"Details_download\"][\"keywords\"]"
 msgid "{app_name} apk, {app_name} apk download, {app_name} download"
-msgstr ""
+msgstr "{app_name} apk, {app_name} apk prenos, {app_name} prenos"
 
 msgctxt "[\"meta\"][\"Details_download\"][\"description\"]"
 msgid "{app_name} {version_name} APK Download"
-msgstr ""
+msgstr "{app_name} {version_name} Prenos APK-ja"
 
 msgctxt "[\"meta\"][\"Details_download_new\"][\"title\"]"
 msgid "Download {app_short_name} latest {version_name} Android APK"
-msgstr ""
+msgstr "Prenesite {app_short_name} najnovejši {version_name} APK za Android"
 
 msgctxt "[\"meta\"][\"Details_download_new\"][\"title_old\"]"
 msgid "Download {app_short_name} {version_name} Android APK"
-msgstr ""
+msgstr "Prenesite APK {app_short_name} {version_name} za Android"
 
 msgctxt "[\"meta\"][\"Details_download_new\"][\"keywords\"]"
 msgid "{app_short_name}, android, apk, download, {app_short_name} android, {app_short_name} download"
 msgstr ""
+"{app_short_name}, android, apk, prenos, {app_short_name} android, "
+"{app_short_name} prenos"
 
 msgctxt "[\"meta\"][\"Details_download_new\"][\"description\"]"
 msgid "{app_short_name} Android latest {version_name} APK Download and Install. {app_short_description}"
 msgstr ""
+"{app_short_name} Android najnovejša različica {version_name} APK Prenos in "
+"namestitev. {app_short_description}"
 
 msgctxt "[\"meta\"][\"Details_download_new\"][\"description_old\"]"
 msgid "{app_short_name} Android {version_name} APK Download and Install. {app_short_description}"
 msgstr ""
+"{app_short_name} Android {version_name} APK prenos in namestitev. "
+"{app_short_description}"
 
 msgctxt "[\"meta\"][\"Download_apk_info\"][\"title\"]"
 msgid "Getting Started in {app_short_name}"
-msgstr ""
+msgstr "Uvod v {app_short_name}"
 
 msgctxt "[\"meta\"][\"Download_apk_info\"][\"keywords\"]"
 msgid "{app_short_name} information, game info, app info, requirements, versions"
 msgstr ""
+"informacije o {app_short_name}, informacije o igrah, informacije o "
+"aplikacijah, zahteve, različice"
 
 msgctxt "[\"meta\"][\"Download_apk_info\"][\"description\"]"
 msgid "Download {app_name} and learn more details about {app_short_name} requirements, running os version and more on APKPure Android App Store."
 msgstr ""
+"Prenesite aplikacijo {app_name} in v APKPure Android App Store preberite več "
+"podrobnosti o zahtevah za {app_short_name}, različici OS in še več."
 
 msgctxt "[\"meta\"][\"Category_xapk\"][\"title\"]"
 msgid "XAPK ( apk with obb file) {0}.apk for Android download"
-msgstr ""
+msgstr "XAPK (apk z datoteko obb) {0}.apk za prenos v Android"
 
 msgctxt "[\"meta\"][\"Category_xapk\"][\"keywords\"]"
 msgid "xapk {0}, {0} xapk, xapk {0} download, download apk obb, apk with obb data, android"
 msgstr ""
+"xapk {0}, {0} xapk, xapk {0} prenos, prenos apk obb, apk s podatki obb, "
+"android"
 
 msgctxt "[\"meta\"][\"Category_xapk\"][\"description\"]"
 msgid "Download Android {0} XAPK, full version with obb data file."
-msgstr ""
+msgstr "Prenesite Android {0} XAPK, polno različico s podatkovno datoteko obb."
 
 msgctxt "[\"meta\"][\"Category_featured\"][\"title\"]"
 msgid "Download {0} APK Android App Online - Free Pure APK Downloader"
-msgstr ""
+msgstr "Prenesite {0} APK Android App na spletu- Brezplačen čist APK Downloader"
 
 msgctxt "[\"meta\"][\"Category_featured_editors-picks\"][\"title\"]"
 msgid "APKPure Editors' Picks for the best Android Games & Apps"
-msgstr ""
+msgstr "APKPure uredniški izbor za najboljše igre in aplikacije za Android"
 
 msgctxt "[\"meta\"][\"Category_featured_editors-picks\"][\"keywords\"]"
 msgid "android apps, android games, must have android games, must have android apps, game download"
 msgstr ""
+"android aplikacije, android igre, morate imeti android igre, morate imeti "
+"android aplikacije, prenos iger"
 
 msgctxt "[\"meta\"][\"Category_featured_editors-picks\"][\"description\"]"
 msgid "Play with millions of free apps in APKPure style on Android phones, tablets, TV ,etc. Download the best must have android games you should play 2020."
 msgstr ""
+"Igrajte se z milijoni brezplačnih aplikacij v načinu APKPure v telefonih "
+"Android, tabličnih računalnikih, televizorjih itd. Prenesite najboljše "
+"android igre, ki bi jih morali igrati leta 2020."
 
 msgctxt "[\"meta\"][\"Category_app\"][\"keywords\"]"
 msgid "{0} apk download, free {0} download, {0} apk download, download {0} apk, {0} apk downloader, {0} android"
 msgstr ""
+"{0} prenos apk, brezplačen {0} prenos, {0} prenos apk, prenos {0} apk, {0} "
+"apk downloader, {0} android"
 
 msgctxt "[\"meta\"][\"Category_app\"][\"description\"]"
 msgid "Download free and best {0}  for Android phone and tablet with online apk downloader on APKPure.com, including (tool apps, shopping apps, communication apps) and more."
 msgstr ""
+"Prenesite brezplačen in najboljši {0} za telefon in tablični računalnik "
+"Android s spletnim programom za prenos apk na APKPure.com, vključno z ("
+"orodnimi aplikacijami, nakupovalnimi aplikacijami, komunikacijskimi "
+"aplikacijami) in drugimi."
 
 msgctxt "[\"meta\"][\"Category_game\"][\"keywords\"]"
 msgid "{0} apk download, free {0} download, download {0} apk, {0} apk downloader, {0} android, {0} app download"
 msgstr ""
+"{0} prenos apk, brezplačen {0} prenos, prenos {0} apk, {0} apk downloader, "
+"{0} android, {0} prenos aplikacije"
 
 msgctxt "[\"meta\"][\"Category_game\"][\"description\"]"
 msgid "Download free and best {0} for Android phone and tablet with online apk downloader on APKPure.com, including (driving games, shooting games, fighting games) and more."
 msgstr ""
+"Prenesite brezplačen in najboljši {0} za telefon s sistemom Android in "
+"tablični računalnik s spletnim programom za prenos apk na APKPure.com, "
+"vključno (igre za vožnjo, igre za streljanje, borbene igre) in še več."
 
 msgctxt "[\"meta\"][\"FAQ\"][\"title\"]"
 msgid "{0} FAQ | APKPure.com"
-msgstr ""
+msgstr "{0} PZV | APKPure.com"
 
 msgctxt "[\"meta\"][\"Developer\"][\"title\"]"
 msgid "All {developer} free Android apps apk download | APKPure.com"
-msgstr ""
+msgstr "Prenos vseh brezplačnih aplikacij {developer} za Android | APKPure.com"
 
 msgctxt "[\"meta\"][\"Developer\"][\"keywords\"]"
 msgid "{developer} apk download, download {developer} free app, {developer} games for android,  {developer} games app list, {developer} app update, {developer} app apk downloader"
 msgstr ""
+"{developer} apk prenos, prenos {developer} brezplačne aplikacije, {developer}"
+" igre za android, {developer} seznam aplikacij igre, {developer} posodobitev "
+"aplikacije, {developer} apk downloader"
 
 msgctxt "[\"meta\"][\"Developer\"][\"description\"]"
 msgid "All Apps or Games Published by \"{developer}\""
-msgstr ""
+msgstr "Vse aplikacije ali igre, ki jih je objavil \"{developer}\""
 
 msgctxt "[\"meta\"][\"Developer\"][\"description_new\"]"
 msgid "{description}, All Apps or Games Published by \"{developer}\""
 msgstr ""
+"{description}, Vse aplikacije ali igre, ki jih je objavil \"{developer}\""
 
 msgctxt "[\"meta\"][\"Tag\"][\"title\"]"
 msgid "Tag {0} - APKPure"
-msgstr ""
+msgstr "Oznaka {0} - APKPure"
 
 msgctxt "[\"meta\"][\"Tag\"][\"keywords\"]"
 msgid "{0}, {0} games,{0} apps, {0} download, {0} android"
-msgstr ""
+msgstr "{0}, {0} igre, {0} aplikacije, {0} prenos, {0} android"
 
 msgctxt "[\"meta\"][\"Tag\"][\"description\"]"
 msgid "Browse and download top {0} games and apps for android mobile, tablets and more"
 msgstr ""
+"Brskajte in prenašajte najboljše {0} igre in aplikacije za mobilne naprave "
+"Android, tablične računalnike in drugo"
 
 msgctxt "[\"meta\"][\"Search\"][\"title\"]"
 msgid "{0} search results | APKPure.com"
-msgstr ""
+msgstr "{0} rezultati iskanja | APKPure.com"
 
 msgctxt "[\"meta\"][\"Search\"][\"keywords\"]"
 msgid "{0} apk download, download {0} apk"
-msgstr ""
+msgstr "{0} apk prenos, prenos {0} apk"
 
 msgctxt "[\"meta\"][\"Search_hot\"][\"title\"]"
 msgid "Search - APKPure Android App Store"
-msgstr ""
+msgstr "Iskanje - APKPure Android App Store"
 
 msgctxt "[\"meta\"][\"Search_hot\"][\"keywords\"]"
 msgid "Search {add_trending}"
-msgstr ""
+msgstr "Iskanje {add_trending}"
 
 msgctxt "[\"meta\"][\"Search_hot\"][\"description\"]"
 msgid "Discover Android games free download on APKPure Android App Store."
 msgstr ""
+"Odkrijte igre Android, ki jih lahko brezplačno prenesete iz APKPure Android "
+"App Store."
 
 msgctxt "[\"meta\"][\"New\"][\"title\"]"
 msgid "Download the latest {0} APK | APKPure.com"
-msgstr ""
+msgstr "Prenesite najnovejši {0} APK | APKPure.com"
 
 msgctxt "[\"meta\"][\"New\"][\"keywords\"]"
 msgid "{0} apk download, {0} update, free top {0} download, free {0} downloader,  best {0} for Android,"
 msgstr ""
+"{0} prenos apk, {0} posodobitev, brezplačen top {0} prenos, brezplačen {0} "
+"downloader, najboljši {0} za Android,"
 
 msgctxt "[\"meta\"][\"New\"][\"description\"]"
 msgid "Daily update top free {0} apk download."
-msgstr ""
+msgstr "Dnevna posodobitev top brezplačnega prenosa {0} apk."
 
 msgctxt "[\"meta\"][\"Verify\"][\"title\"]"
 msgid "APK Signature Verification, Official Version APK Detection Service"
-msgstr ""
+msgstr "Preverjanje podpisa APK, uradna različica Storitve za zaznavanje APK"
 
+#, fuzzy
 msgctxt "[\"meta\"][\"Verify\"][\"keywords\"]"
 msgid "apk signature verification, apk signature verify, apk signature checker, apk signature viewer, modified apk, free, online, scanner"
 msgstr ""
+"preverjanje podpisa apk, preverjanje podpisa apk, preverjanje podpisa apk, "
+"pregledovalnik podpisa apk, spremenjeni apk, brezplačno, na spletu, optični "
+"bralnik"
 
 msgctxt "[\"meta\"][\"Upload\"][\"title\"]"
 msgid "Submit your Android Apps and games - Upload .APK File (Android App) at APKPure"
 msgstr ""
+"Pošlite svoje aplikacije in igre za Android - naložite datoteko .APK ("
+"aplikacija za Android) na APKPure"
 
 msgctxt "[\"meta\"][\"Upload\"][\"description\"]"
 msgid "Free to play games, free to use Android apps publishing submission on APKPure.com"
 msgstr ""
+"Brezplačno igranje iger, brezplačna uporaba aplikacij za Android, ki "
+"objavljajo prispevke na APKPure.com"
 
 msgctxt "[\"meta\"][\"Apk_detail\"][\"title\"]"
 msgid "Apk detail"
-msgstr ""
+msgstr "Podrobnosti apk"
 
 msgctxt "[\"meta\"][\"Apk_detail\"][\"description\"]"
 msgid "Apk detail web"
-msgstr ""
+msgstr "Apk podrobnosti na spletu"
 
 msgctxt "[\"meta\"][\"Download\"][\"title\"]"
 msgid "Region free APK download daily update apps and games"
