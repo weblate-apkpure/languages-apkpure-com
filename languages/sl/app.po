@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-09-13 12:14+0000\n"
-"PO-Revision-Date: 2020-09-24 23:29+0000\n"
+"PO-Revision-Date: 2020-09-25 05:44+0000\n"
 "Last-Translator: Stanislav Rupar <stanislav.rupar@gmail.com>\n"
 "Language-Team: Slovenian <https://translate.apkpure.com/projects/apkpure/"
 "apkpurecom/sl/>\n"
@@ -23,7 +23,6 @@ msgctxt "[\"NAV-APP\"]"
 msgid "APPS"
 msgstr "PROGRAMI"
 
-#, fuzzy
 msgctxt "[\"NAV-XAPK\"]"
 msgid "XAPK"
 msgstr "XAPK"
@@ -44,12 +43,10 @@ msgctxt "[\"NAV-NEW_APP\"]"
 msgid "NEW APP"
 msgstr "NOV PROGRAM"
 
-#, fuzzy
 msgctxt "[\"NAV-XAPK_GAME\"]"
 msgid "XAPK GAME"
 msgstr "IGRA XAPK"
 
-#, fuzzy
 msgctxt "[\"NAV-XAPK_APP\"]"
 msgid "XAPK APP"
 msgstr "PROGRAM XAPK"
@@ -186,7 +183,6 @@ msgctxt "[\"CATEGORY\"]"
 msgid "Category"
 msgstr "Kategorija"
 
-#, fuzzy
 msgctxt "[\"CATEGORY_JOIN\"]"
 msgid "{app_category} {app_type}"
 msgstr "{app_category} {app_type}"
@@ -451,7 +447,7 @@ msgstr "Različica"
 
 msgctxt "[\"DETAIL-UPDATE_ON\"]"
 msgid "Update on"
-msgstr ""
+msgstr "Posodobitev dne"
 
 msgctxt "[\"DETAIL-SIGNATURE\"]"
 msgid "Signature"
@@ -881,7 +877,7 @@ msgstr "Ppovezava"
 #, fuzzy
 msgctxt "[\"COMMENT-HASHTAG_NOT_EXIST\"]"
 msgid "The hashtag does not exist"
-msgstr "Oznaka teme ne obstaja"
+msgstr "Hashtag ne obstaja"
 
 #, fuzzy
 msgctxt "[\"COMMENT-HASHTAG\"]"
@@ -912,9 +908,10 @@ msgctxt "[\"PRE-REGISTER_DATE\"]"
 msgid "Release Date"
 msgstr "Datum izdaje"
 
+#, fuzzy
 msgctxt "[\"PRE-REGISTER_REWARDS\"]"
 msgid "Register Rewards"
-msgstr ""
+msgstr "Registrirane nagrade"
 
 msgctxt "[\"PRE-REGISTER_PAGE\"]"
 msgid "Pre-Register Page"
@@ -973,7 +970,6 @@ msgctxt "[\"USER-DELETE_ACCOUNT\"]"
 msgid "Delete your account and information"
 msgstr "Izbrišite svoj račun in podatke"
 
-#, fuzzy
 msgctxt "[\"USER-FOLLOWING\"]"
 msgid "Following"
 msgstr "Sledi"
@@ -1074,7 +1070,6 @@ msgctxt "[\"USER-BAD_NAME\"]"
 msgid "Your input includes sensitive vocabulary."
 msgstr "Vaš prispevek vključuje občutljiv besednjak."
 
-#, fuzzy
 msgctxt "[\"USER-SOCIAL_ALREADY_BIND\"]"
 msgid "This third-party account has been connected to another account."
 msgstr "Ta račun tretje osebe je bil povezan z drugim računom."
@@ -1091,7 +1086,6 @@ msgctxt "[\"USER-EMAIL_UNBOUND\"]"
 msgid "This email address is not connected to any account."
 msgstr "Ta e-poštni naslov ni povezan z nobenim računom."
 
-#, fuzzy
 msgctxt "[\"USER-CAPTCHA_TIME_OUT\"]"
 msgid "Verification Code Timeout."
 msgstr "Koda za preverjanje je potekla."
@@ -1210,10 +1204,9 @@ msgstr ""
 "S prijavo se strinjate z našimi <a href='/terms-service.html' "
 "target='_blank'> pogoji storitve </a>"
 
-#, fuzzy
 msgctxt "[\"REGION_DOWN-TITLE\"]"
 msgid "Region free APK download"
-msgstr "Področje brezplačen prenos APK-ja"
+msgstr "Področje brezplačnega prenosa APK-ja"
 
 msgctxt "[\"REGION_DOWN-DES\"]"
 msgid "- Download your favorite Android Apps with APK Downloader (Free Apps Only).<br>- Your download will begin automatically after you paste a package id and click the download button.<br>- Download failed? Please manually change country setting and try again.<br>- Want to tell us more about your problems? <a style='color:#FFFF00' href='contact-us.html'>Contact us here</a>"
@@ -1238,15 +1231,13 @@ msgctxt "[\"REGION_DOWN-COUNTRY_NAME\"]"
 msgid "Country name or Region code"
 msgstr "Ime države ali koda regije"
 
-#, fuzzy
 msgctxt "[\"REGION_DOWN-MOBILE_TITLE\"]"
 msgid "APK Downloader"
 msgstr "APK Downloader"
 
-#, fuzzy
 msgctxt "[\"REGION_DOWN-MOBILE_DES\"]"
 msgid "All Region Games and Apps Download."
-msgstr "Prenos vseh področnih iger in aplikacij."
+msgstr "Vsa področja prenosa iger in aplikacij."
 
 msgctxt "[\"LAST_DOWNLOAD\"]"
 msgid "Last Download"
@@ -1439,7 +1430,6 @@ msgctxt "[\"FOOTER-MOBILE_VERSION\"]"
 msgid "Mobile Version"
 msgstr "Mobilna različica"
 
-#, fuzzy
 msgctxt "[\"FOOTER-MOBILE_SITE\"]"
 msgid "Mobile Site"
 msgstr "Mobilna stran"
@@ -2170,12 +2160,11 @@ msgstr ""
 "najnovejšo različico {app_short_name}. Preglejte datum izdaje programa "
 "{app_short_name}, dnevnik sprememb in še več."
 
-#, fuzzy
 msgctxt "[\"meta\"][\"Variants\"][\"title\"]"
 msgid "{app_short_name} {version_name} Build variants in Android - APK Download"
 msgstr ""
-"{app_short_name} {version_name} Različice različic v sistemu Android - "
-"prenos APK-ja"
+"{app_short_name} {version_name} Različice gradnje v sistemu Android - prenos "
+"APK-ja"
 
 msgctxt "[\"meta\"][\"Variants\"][\"keywords\"]"
 msgid ""
@@ -2405,23 +2394,25 @@ msgstr "Apk podrobnosti na spletu"
 
 msgctxt "[\"meta\"][\"Download\"][\"title\"]"
 msgid "Region free APK download daily update apps and games"
-msgstr ""
+msgstr "Področje APK brezplačnih prenosov dnevnih posodobitev aplikacij in iger"
 
 msgctxt "[\"meta\"][\"Download\"][\"keywords\"]"
 msgid "apk download, region free apk download"
-msgstr ""
+msgstr "apk prenos, področje brezplačnega prenosa apk"
 
 msgctxt "[\"meta\"][\"Download\"][\"description\"]"
 msgid "download free apps APK for Android phone and tablet."
 msgstr ""
+"prenesite brezplačne aplikacije APK za telefon in tablični računalnik "
+"Android."
 
 msgctxt "[\"meta\"][\"Error\"][\"title\"]"
 msgid "Error"
-msgstr ""
+msgstr "Napaka"
 
 msgctxt "[\"meta\"][\"Error\"][\"keywords\"]"
 msgid "error"
-msgstr ""
+msgstr "napaka"
 
 msgctxt "[\"meta\"][\"Category\"][\"title\"]"
 msgid "Browse Category | APKPure.com"
