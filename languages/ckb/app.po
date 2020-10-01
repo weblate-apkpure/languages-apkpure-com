@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-09-29 19:21+0000\n"
-"PO-Revision-Date: 2020-09-29 20:44+0000\n"
+"PO-Revision-Date: 2020-10-01 23:13+0000\n"
 "Last-Translator: Kurd As <kurd68587@gmail.com>\n"
 "Language-Team: Kurdish Sorani <https://translate.apkpure.com/projects/"
 "apkpure/apkpurecom/ckb/>\n"
@@ -204,7 +204,7 @@ msgstr "پەرەپێدەر"
 
 msgctxt "[\"UPLOADER\"]"
 msgid "Uploaded by"
-msgstr ""
+msgstr "بارکرا لەلایەن"
 
 msgctxt "[\"POPULAR_GAMES_IN_LAST_HOURS\"]"
 msgid "Popular Games In Last {0} Hours"
@@ -212,87 +212,87 @@ msgstr ""
 
 msgctxt "[\"POPULAR_APPS_IN_LAST_HOURS\"]"
 msgid "Popular Apps In Last {0} Hours"
-msgstr ""
+msgstr "کاربەرنامە بەناوبانگەکان لە {٠} کاژێردا"
 
 msgctxt "[\"POPULAR_APPS_IN_TODAY\"]"
 msgid "Popular Apps In Today"
-msgstr ""
+msgstr "بەرنامە بەناوبانگەکان لە ئەمڕۆوە"
 
 msgctxt "[\"POPULAR_GAMES_IN_TODAY\"]"
 msgid "Popular Games In Today"
-msgstr ""
+msgstr "یارییە بەناوبانگەکان لە ئەمڕۆدا"
 
 msgctxt "[\"HOT_GAMES\"]"
 msgid "Hot Games"
-msgstr ""
+msgstr "بەناوبانگترین یاری"
 
 msgctxt "[\"HOT_APPS\"]"
 msgid "Hot Apps"
-msgstr ""
+msgstr "زۆربەی بەرنامە بەناوبانگەکان"
 
 msgctxt "[\"CLOSE\"]"
 msgid "Close"
-msgstr ""
+msgstr "کۆتایی"
 
 msgctxt "[\"COMMENTS\"]"
 msgid "Comments"
-msgstr ""
+msgstr "لێدوانەکان"
 
 msgctxt "[\"NOT_FOUND\"]"
 msgid "Not Found"
-msgstr ""
+msgstr "نەدۆزرایەوە"
 
 msgctxt "[\"REASON\"]"
 msgid "Reason"
-msgstr ""
+msgstr "هۆکار"
 
 msgctxt "[\"LATEST_UPDATE_GAMES\"]"
 msgid "Latest Update Games"
-msgstr ""
+msgstr "نوێترین نوێکردنەوەی یارییەکان"
 
 msgctxt "[\"LATEST_UPDATE_APPS\"]"
 msgid "Latest Update Apps"
-msgstr ""
+msgstr "تازەترین نوێکردنەوەی بەرنامەکان"
 
 msgctxt "[\"LATEST_UPDATE\"]"
 msgid "Latest Update"
-msgstr ""
+msgstr "نوێترین نوێکردنەوە"
 
 msgctxt "[\"XAPK_IS_APK_WITH_OBB_DATA\"]"
 msgid "XAPK is APK with OBB data"
-msgstr ""
+msgstr "XAPK ئەوەیە APK لەگەڵ OBB ی داتا"
 
 msgctxt "[\"MOST_POPULAR_IN_TODAY\"]"
 msgid "Most Popular In Today"
-msgstr ""
+msgstr "زۆرترین بەکارهێنەری ئەمڕۆ"
 
 msgctxt "[\"SIMILAR_OR_RELATED\"]"
 msgid "Similar Or Related"
-msgstr ""
+msgstr "هاوشێوە یان پەیوەست"
 
 msgctxt "[\"INDEX-TITLE\"]"
 msgid "Download free Android Games and Android Apps."
-msgstr ""
+msgstr "داگرتنی یارییەکانی ئەندرۆید و بەرنامەکانی ئەندرۆید."
 
 msgctxt "[\"INDEX-MOBILE_TITLE\"]"
 msgid "Download free Android Games and Apps."
-msgstr ""
+msgstr "داگرتنی یاری و بەرنامە بێ بەرامبەرەکانی ئەندرۆید."
 
 msgctxt "[\"INDEX-HOW_TO_DOWNLOAD\"]"
 msgid "How to download apk files?"
-msgstr ""
+msgstr "چۆن فایلەکانی APK دابەزێنم؟"
 
 msgctxt "[\"INDEX-FAQ\"]"
 msgid "FAQ"
-msgstr ""
+msgstr "لێدوانەکان"
 
 msgctxt "[\"INDEX-POPULAR_CATEGORIES\"]"
 msgid "Popular categories"
-msgstr ""
+msgstr "هاوپۆلە بەناوبانگەکان"
 
 msgctxt "[\"DOWNLOAD_APK\"]"
 msgid "Download APK"
-msgstr ""
+msgstr "داگرتنی APK"
 
 msgctxt "[\"VERIFICATION_CODE\"]"
 msgid "Verification code"
@@ -300,23 +300,24 @@ msgstr "کۆدی سەلماندن"
 
 msgctxt "[\"VERIFICATION_INCORRECT\"]"
 msgid "The verification code is incorrect!"
-msgstr ""
+msgstr "کۆدی سەلماندن نادروستە!"
 
 msgctxt "[\"VERIFICATION_DOWN\"]"
 msgid "Enter the code(s) as you see in the image, then click \"Download\"."
 msgstr ""
+"کۆدەکان داخڵ بکە وەک لە وێنەکەدا دەیبینیت، پاشان کرتە بکە لەسەر \"داگرتن\"."
 
 msgctxt "[\"TOPICS\"]"
 msgid "Topics"
-msgstr ""
+msgstr "بابەتەکان"
 
 msgctxt "[\"MORE-TOPICS\"]"
 msgid "More Topics"
-msgstr ""
+msgstr "بابەتەکانی زیاتر"
 
 msgctxt "[\"TAG\"]"
 msgid "Tag {0}"
-msgstr ""
+msgstr "تاگ {٠}"
 
 msgctxt "[\"BROWSING_TAG\"]"
 msgid "Browsing {0}"
@@ -384,7 +385,7 @@ msgstr ""
 
 msgctxt "[\"DETAIL-WHY_SAFE\"]"
 msgid "Why we can guarantee APK 100% safe?"
-msgstr ""
+msgstr "بۆچی دەتوانین ٪١٠٠ دڵنیایی بە APK بدەین؟"
 
 msgctxt "[\"DETAIL-SAFE\"]"
 msgid "Verification passed"
@@ -1404,7 +1405,7 @@ msgstr ""
 
 msgctxt "[\"FOOTER-CONTACT_US\"]"
 msgid "Contact Us"
-msgstr ""
+msgstr "پەیوەندیمان پێوە بکە"
 
 msgctxt "[\"FOOTER-ABOUT\"]"
 msgid "About Us"
