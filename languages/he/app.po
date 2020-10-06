@@ -3,14 +3,17 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-10-06 17:00+0000\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2020-10-06 17:10+0000\n"
+"Last-Translator: وليد جمعة <12345velitcuma12345@gmail.com>\n"
+"Language-Team: Hebrew <https://translate.apkpure.com/projects/apkpure/"
+"apkpurecom/he/>\n"
 "Language: he\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 3.0.0\n"
+"Plural-Forms: nplurals=4; plural=(n == 1) ? 0 : ((n == 2) ? 1 : ((n > 10 && "
+"n % 10 == 0) ? 2 : 3));\n"
+"X-Generator: Weblate 4.2.2\n"
 
 msgctxt "[\"NAV-GAME\"]"
 msgid "GAMES"
@@ -2648,18 +2651,23 @@ msgctxt "[\"xapk\"][\"SPLIT_APKS\"]"
 msgid "The XAPK (Base APK + Split APKs) File, How to Install .XAPK File?"
 msgstr ""
 
+#, fuzzy
 msgctxt "[\"xapk\"][\"APKs_AND_OBB\"]"
 msgid "The XAPK (Base APK + Split APKs + OBB data) File, How to Install .XAPK File?"
 msgstr ""
+"The XAPK (Base APK + Split APKs + OBB data) File, How to Install .XAPK File?"
 
+#, fuzzy
 msgctxt "[\"xapk\"][\"SEVERAL_VARIANTS\"]"
 msgid "This release comes in several variants,"
-msgstr ""
+msgstr "This release comes in several variants,"
 
+#, fuzzy
 msgctxt "[\"xapk\"][\"SEE_AVAILABLE_APKS\"]"
 msgid "See available APKs"
-msgstr ""
+msgstr "See available APKs"
 
+#, fuzzy
 msgctxt "[\"xapk\"][\"VARIANTS\"]"
 msgid "This release comes in several variants, See available APKs"
-msgstr ""
+msgstr "This release comes in several variants, See available APKs"
