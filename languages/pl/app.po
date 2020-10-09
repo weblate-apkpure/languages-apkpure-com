@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-09-09 05:10+0000\n"
-"PO-Revision-Date: 2020-09-22 03:42+0000\n"
-"Last-Translator: Mirosław Żylewicz <miroslaw.zylewicz@o2.pl>\n"
+"PO-Revision-Date: 2020-10-09 02:00+0000\n"
+"Last-Translator: Kamila Miodek <kamila.miodek1991@gmail.com>\n"
 "Language-Team: Polish <https://translate.apkpure.com/projects/apkpure/"
 "apkpurecom/pl/>\n"
 "Language: pl\n"
@@ -2085,6 +2085,7 @@ msgctxt "[\"js\"][\"UPLOADING\"]"
 msgid "Uploading..."
 msgstr "Wysyłanie..."
 
+#, fuzzy
 msgctxt "[\"js\"][\"VALIDATING\"]"
 msgid "Validating..."
 msgstr "Weryfikacja..."
@@ -2273,12 +2274,15 @@ msgstr "XAPK ( apk with obb file) {0}.apk pobieranie na Android"
 
 msgctxt "[\"meta\"][\"Category_xapk\"][\"keywords\"]"
 msgid "xapk {0}, {0} xapk, xapk {0} download, download apk obb, apk with obb data, android"
-msgstr "xapk {0}, {0} xapk, xapk {0} pobierz, pobierz apk obb, apk z obb data, android"
+msgstr ""
+"xapk {0}, {0} xapk, xapk {0} pobierz, pobierz apk obb, apk z danymi obb, "
+"android"
 
 msgctxt "[\"meta\"][\"Category_xapk\"][\"description\"]"
 msgid "Download Android {0} XAPK, full version with obb data file."
 msgstr "Pobierz Androida {0} XAPK, pełna wersja z plikiem danych obb."
 
+#, fuzzy
 msgctxt "[\"meta\"][\"Category_featured\"][\"title\"]"
 msgid "Download {0} APK Android App Online - Free Pure APK Downloader"
 msgstr ""
@@ -2298,7 +2302,9 @@ msgstr "Graj w miliony darmowych aplikacji w APKPure na telefonach z Androidem, 
 
 msgctxt "[\"meta\"][\"Category_app\"][\"keywords\"]"
 msgid "{0} apk download, free {0} download, {0} apk download, download {0} apk, {0} apk downloader, {0} android"
-msgstr "{0} pobierz apk, darmowe pobieranie {0}, {0} apk pobierz, pobierz {0} apk, {0} apk downloader, {0} android"
+msgstr ""
+"{0} pobierz apk, za darmo {0} pobierz, {0} apk pobierz, pobierz {0} apk, {0} "
+"apk downloader, {0} android"
 
 msgctxt "[\"meta\"][\"Category_app\"][\"description\"]"
 msgid "Download free and best {0}  for Android phone and tablet with online apk downloader on APKPure.com, including (tool apps, shopping apps, communication apps) and more."
@@ -2306,11 +2312,16 @@ msgstr "Pobierz darmowe i najlepsze {0} na telefony z Android oraz tablety z bez
 
 msgctxt "[\"meta\"][\"Category_game\"][\"keywords\"]"
 msgid "{0} apk download, free {0} download, download {0} apk, {0} apk downloader, {0} android, {0} app download"
-msgstr "{0} apk download, {0} za darmo pobierz, pobierz {0} apk, {0} apk downloader, {0} android, {0} app download"
+msgstr ""
+"{0} apk download, za darmo {0} pobierz, pobierz {0} apk, {0} apk downloader, "
+"{0} android, {0} app download"
 
+#, fuzzy
 msgctxt "[\"meta\"][\"Category_game\"][\"description\"]"
 msgid "Download free and best {0} for Android phone and tablet with online apk downloader on APKPure.com, including (driving games, shooting games, fighting games) and more."
-msgstr "Pobierz darmowe i najlepsze {0} na telefony z Androidem oraz tablety na APKPure.com, w tym (gry wyścigowe, gry akcji, gry strategiczne) i nie tylko."
+msgstr ""
+"Pobierz darmowe i najlepsze {0} na telefony z Androidem oraz tablety na "
+"APKPure.com, w tym (gry wyścigowe, gry akcji, gry strategiczne) i nie tylko."
 
 msgctxt "[\"meta\"][\"FAQ\"][\"title\"]"
 msgid "{0} FAQ | APKPure.com"

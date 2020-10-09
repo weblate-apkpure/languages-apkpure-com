@@ -1,3 +1,19 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-10-09 02:00+0000\n"
+"PO-Revision-Date: 2020-10-09 02:00+0000\n"
+"Last-Translator: Prashant Yadav <prashant969646@gmail.com>\n"
+"Language-Team: Hindi <https://translate.apkpure.com/projects/apkpure/"
+"apkpurecom/hi/>\n"
+"Language: hi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 4.2.2\n"
+
 msgctxt "[\"NAV-GAME\"]"
 msgid "GAMES"
 msgstr "गेम्स"
@@ -52,7 +68,7 @@ msgstr "APKPure ऐप"
 
 msgctxt "[\"NAV-Cloud-Phone-Emulator\"]"
 msgid "Cloud Phone Emulator"
-msgstr ""
+msgstr "क्लाउड फोन एमुलेटर"
 
 msgctxt "[\"DOWNLOAD\"]"
 msgid "Download"
@@ -60,11 +76,11 @@ msgstr "डाउनलोड"
 
 msgctxt "[\"DOWNLOAD_AVAILABLE\"]"
 msgid "Download Variant {0}"
-msgstr ""
+msgstr "डाउनलोड वेरिएंट {0}"
 
 msgctxt "[\"FAST_DOWNLOAD\"]"
 msgid "Fast Download"
-msgstr ""
+msgstr "तेज डाउनलोड"
 
 msgctxt "[\"IGNORE\"]"
 msgid "Ignore"
@@ -76,7 +92,7 @@ msgstr "ठीक"
 
 msgctxt "[\"BUY\"]"
 msgid "Buy"
-msgstr ""
+msgstr "खरीदें"
 
 msgctxt "[\"SELECT_LANGUAGE\"]"
 msgid "Choose Language"
@@ -84,19 +100,19 @@ msgstr "भाषा चुनें"
 
 msgctxt "[\"EDITORS_CHOICE\"]"
 msgid "Editor's Choice"
-msgstr ""
+msgstr "संपादकों की पसंद"
 
 msgctxt "[\"FREE\"]"
 msgid "Free"
-msgstr "फ्री"
+msgstr "नि: शुल्क/ फ्री"
 
 msgctxt "[\"TOP-UPDATED-APPS\"]"
 msgid "Recently Updated Apps"
-msgstr ""
+msgstr "हाल ही में अपडेटेड ऐप्स"
 
 msgctxt "[\"TOP-UPDATED-GAMES\"]"
 msgid "Recently Updated Games"
-msgstr ""
+msgstr "हाल ही में अपडेटेड /अद्यतित खेल"
 
 msgctxt "[\"READ_MORE\"]"
 msgid "Read More"
@@ -1056,7 +1072,7 @@ msgstr "आपके द्वारा दर्ज किया गया ख�
 
 msgctxt "[\"USER-DISPLAY_NAME_EXIST\"]"
 msgid "The nickname is already in use."
-msgstr "उपनाम पहले से उपयोग में है"
+msgstr "उपनाम पहले से उपयोग में है |"
 
 msgctxt "[\"USER-INCORRECT_EMAIL\"]"
 msgid "The e-mail address you entered is invalid."
@@ -1068,15 +1084,15 @@ msgstr "आपके द्वारा दर्ज किया गया प�
 
 msgctxt "[\"USER-INCORRECT_ACCOUNT\"]"
 msgid "The username you entered is invalid."
-msgstr "आपके द्वारा दर्ज उपयोगकर्ता नाम अमान्य है"
+msgstr "आपके द्वारा दर्ज उपयोगकर्ता नाम अमान्य है|"
 
 msgctxt "[\"USER-INCORRECT_BIRTHDAY\"]"
 msgid "You have entered an invalid birthday."
-msgstr ""
+msgstr "आपने अमान्य जन्मदिन भरा है।"
 
 msgctxt "[\"USER-INCORRECT_INTRO\"]"
 msgid "Information you have entered contains invalid characters."
-msgstr ""
+msgstr "आपके द्वारा दर्ज की गई जानकारी में अमान्य वर्ण हैं।"
 
 msgctxt "[\"USER-UNKNOWN_ERROR\"]"
 msgid "unknown mistake."
@@ -2445,6 +2461,8 @@ msgstr ""
 msgctxt "[\"meta\"][\"Invit\"][\"description\"]"
 msgid "View all {user_name}'s comments and posts on APKPure {app_type} discussion group. Join now to connect with {user_name}."
 msgstr ""
+"सभी {user_name} की टिप्पणियां और पोस्ट देखें। APKPure {app_type} चर्चा समूह। "
+"{User_name} से जुड़ने के लिए अभी जुड़ें।"
 
 msgctxt "[\"meta\"][\"Invit\"][\"title_title\"]"
 msgid "{title} {app_type} Discussions | {app_name} Group"
