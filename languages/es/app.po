@@ -1,3 +1,19 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-11-01 05:09+0000\n"
+"PO-Revision-Date: 2020-11-01 05:09+0000\n"
+"Last-Translator: KNTRO <tskuhn@gmail.com>\n"
+"Language-Team: Spanish <https://translate.apkpure.com/projects/apkpure/"
+"apkpurecom/es/>\n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.2.2\n"
+
 msgctxt "[\"NAV-GAME\"]"
 msgid "GAMES"
 msgstr "Juegos"
@@ -8,7 +24,7 @@ msgstr "Aplicaciones"
 
 msgctxt "[\"NAV-XAPK\"]"
 msgid "XAPK"
-msgstr ""
+msgstr "XAPK"
 
 msgctxt "[\"NAV-NEW\"]"
 msgid "NEW"
@@ -52,7 +68,7 @@ msgstr "Aplicación de APKPure"
 
 msgctxt "[\"NAV-Cloud-Phone-Emulator\"]"
 msgid "Cloud Phone Emulator"
-msgstr ""
+msgstr "Emulador de teléfono en la nube"
 
 msgctxt "[\"DOWNLOAD\"]"
 msgid "Download"
@@ -60,11 +76,11 @@ msgstr "Descargar"
 
 msgctxt "[\"DOWNLOAD_AVAILABLE\"]"
 msgid "Download Variant {0}"
-msgstr ""
+msgstr "Descargar variante {0}"
 
 msgctxt "[\"FAST_DOWNLOAD\"]"
 msgid "Fast Download"
-msgstr ""
+msgstr "Descarga rápida"
 
 msgctxt "[\"IGNORE\"]"
 msgid "Ignore"
@@ -76,7 +92,7 @@ msgstr "DE ACUERDO"
 
 msgctxt "[\"BUY\"]"
 msgid "Buy"
-msgstr ""
+msgstr "Comprar"
 
 msgctxt "[\"SELECT_LANGUAGE\"]"
 msgid "Choose Language"
@@ -84,7 +100,7 @@ msgstr "Seleccionar idioma"
 
 msgctxt "[\"EDITORS_CHOICE\"]"
 msgid "Editor's Choice"
-msgstr ""
+msgstr "Elección del editor"
 
 msgctxt "[\"FREE\"]"
 msgid "Free"
@@ -92,11 +108,11 @@ msgstr "Gratis"
 
 msgctxt "[\"TOP-UPDATED-APPS\"]"
 msgid "Recently Updated Apps"
-msgstr ""
+msgstr "Aplicaciones recientemente actualizadas"
 
 msgctxt "[\"TOP-UPDATED-GAMES\"]"
 msgid "Recently Updated Games"
-msgstr ""
+msgstr "Juegos recientemente actualizados"
 
 msgctxt "[\"READ_MORE\"]"
 msgid "Read More"
@@ -144,7 +160,7 @@ msgstr "Popular"
 
 msgctxt "[\"ATTACHMENT\"]"
 msgid "Attachment"
-msgstr ""
+msgstr "Adjunto"
 
 msgctxt "[\"DOWNLOADS\"]"
 msgid "Downloads"
@@ -160,7 +176,7 @@ msgstr "Valoradas"
 
 msgctxt "[\"POPULAR\"]"
 msgid "Popular"
-msgstr ""
+msgstr "Popular"
 
 msgctxt "[\"CATEGORY\"]"
 msgid "Category"
@@ -168,7 +184,7 @@ msgstr "Categoría"
 
 msgctxt "[\"CATEGORY_JOIN\"]"
 msgid "{app_category} {app_type}"
-msgstr ""
+msgstr "{app_category} {app_type}"
 
 msgctxt "[\"SHOW_MORE\"]"
 msgid "Show More"
@@ -188,7 +204,7 @@ msgstr "Desarrollador"
 
 msgctxt "[\"UPLOADER\"]"
 msgid "Uploaded by"
-msgstr ""
+msgstr "Subida por"
 
 msgctxt "[\"POPULAR_GAMES_IN_LAST_HOURS\"]"
 msgid "Popular Games In Last {0} Hours"
@@ -224,11 +240,11 @@ msgstr "Comentarios"
 
 msgctxt "[\"NOT_FOUND\"]"
 msgid "Not Found"
-msgstr ""
+msgstr "No encontrada"
 
 msgctxt "[\"REASON\"]"
 msgid "Reason"
-msgstr ""
+msgstr "Razón"
 
 msgctxt "[\"LATEST_UPDATE_GAMES\"]"
 msgid "Latest Update Games"
@@ -280,15 +296,17 @@ msgstr "Descargar APK"
 
 msgctxt "[\"VERIFICATION_CODE\"]"
 msgid "Verification code"
-msgstr ""
+msgstr "Código de verificación"
 
 msgctxt "[\"VERIFICATION_INCORRECT\"]"
 msgid "The verification code is incorrect!"
-msgstr ""
+msgstr "¡El código de verificación es incorrecto!"
 
 msgctxt "[\"VERIFICATION_DOWN\"]"
 msgid "Enter the code(s) as you see in the image, then click \"Download\"."
 msgstr ""
+"Ingresá el/los código/s que ves en la imagen y después hacé clic en "
+"\"Descargar\"."
 
 msgctxt "[\"TOPICS\"]"
 msgid "Topics"
@@ -296,19 +314,19 @@ msgstr "Temas"
 
 msgctxt "[\"MORE-TOPICS\"]"
 msgid "More Topics"
-msgstr ""
+msgstr "Más temas"
 
 msgctxt "[\"TAG\"]"
 msgid "Tag {0}"
-msgstr ""
+msgstr "Etiqueta {0}"
 
 msgctxt "[\"BROWSING_TAG\"]"
 msgid "Browsing {0}"
-msgstr ""
+msgstr "Explorar {0}"
 
 msgctxt "[\"ADDITIONAL_INFORMATION\"]"
 msgid "Additional Information"
-msgstr ""
+msgstr "Información adicional"
 
 msgctxt "[\"SIMILAR_TO\"]"
 msgid "Similar to {0}"
@@ -324,11 +342,11 @@ msgstr "Actualizar"
 
 msgctxt "[\"SUBMIT\"]"
 msgid "Submit"
-msgstr ""
+msgstr "Enviar"
 
 msgctxt "[\"SUBMITTING\"]"
 msgid "Submitting..."
-msgstr ""
+msgstr "Enviando…"
 
 msgctxt "[\"DEV-ICON_SIZE_ERROR\"]"
 msgid "You need to resize your high-res icon. The required dimensions are 512px * 512px."
@@ -384,11 +402,11 @@ msgstr ""
 
 msgctxt "[\"UPLOAD-FAILED\"]"
 msgid "File upload failed. (Error code: 10001)"
-msgstr ""
+msgstr "Error al subir el archivo. (Código de error: 10001)"
 
 msgctxt "[\"UPLOAD-PARSING_FAILED\"]"
 msgid "File parsing failed. (Error code: 10002)"
-msgstr ""
+msgstr "Error al analizar el archivo. (Código de error: 10002)"
 
 msgctxt "[\"DETAIL\"]"
 msgid "Detail"
@@ -396,11 +414,11 @@ msgstr "Detalle"
 
 msgctxt "[\"DETAIL-HOT_TAGS\"]"
 msgid "{0} Tags"
-msgstr ""
+msgstr "{0} etiquetas"
 
 msgctxt "[\"DETAIL-MAIGHT_LIKE\"]"
 msgid "You Might Also Like"
-msgstr ""
+msgstr "También te podría gustar"
 
 msgctxt "[\"DETAIL-PAID_GAME\"]"
 msgid "Paid Game"
@@ -544,7 +562,7 @@ msgstr "{0} JUEGO"
 
 msgctxt "[\"DETAIL-CATEGORY_APP\"]"
 msgid "{0} APP"
-msgstr ""
+msgstr "{0} aplicaciones"
 
 msgctxt "[\"DETAIL-VERSION_LOAD_MORE\"]"
 msgid "Load more"
@@ -584,11 +602,11 @@ msgstr "Descargando"
 
 msgctxt "[\"DETAIL_DOWNLOAD-FAST_DOWNLOADING\"]"
 msgid "Fast Downloading"
-msgstr ""
+msgstr "Descarga rápida"
 
 msgctxt "[\"DETAIL_DOWNLOAD-FAST_DOWNLOADING_DES\"]"
 msgid "How \"Fast Download\" works?"
-msgstr ""
+msgstr "¿Cómo funciona la descarga rápida?"
 
 msgctxt "[\"DETAIL_DOWNLOAD-DOWNLOADING_DES\"]"
 msgid "If the download doesn't start,"
@@ -608,11 +626,11 @@ msgstr "Versiones anteriores"
 
 msgctxt "[\"VERSION-VERSIONS\"]"
 msgid "Versions"
-msgstr ""
+msgstr "Versiones"
 
 msgctxt "[\"VERSION-ALL-VERSIONS\"]"
 msgid "All Versions"
-msgstr ""
+msgstr "Todas las versiones"
 
 msgctxt "[\"VERSION-REQUIRES_ANDROID\"]"
 msgid "Requires Android"
@@ -620,51 +638,51 @@ msgstr "Requiere Android"
 
 msgctxt "[\"VARIANT-VARIANTS\"]"
 msgid "{0} Variants"
-msgstr ""
+msgstr "{0} variantes"
 
 msgctxt "[\"VARIANT-VARIANTS_TIT\"]"
 msgid "Variants"
-msgstr ""
+msgstr "Variantes"
 
 msgctxt "[\"VARIANT-VARIANT\"]"
 msgid "Variant"
-msgstr ""
+msgstr "Variante"
 
 msgctxt "[\"VARIANT-ARCHITECTURE\"]"
 msgid "Architecture"
-msgstr ""
+msgstr "Arquitectura"
 
 msgctxt "[\"VARIANT-MINIMUM\"]"
 msgid "Minimum Version"
-msgstr ""
+msgstr "Versión mínima"
 
 msgctxt "[\"VARIANT-SCREEN_DPI\"]"
 msgid "Screen DPI"
-msgstr ""
+msgstr "Puntos por pulgada de la pantalla"
 
 msgctxt "[\"VARIANT-ARCH\"]"
 msgid "Arch"
-msgstr ""
+msgstr "Arq."
 
 msgctxt "[\"VARIANT-DPI\"]"
 msgid "DPI"
-msgstr ""
+msgstr "Puntos por pulgada"
 
 msgctxt "[\"COMMENT-REVIEWS_TOTAL\"]"
 msgid "Total Reviews:"
-msgstr ""
+msgstr "Revisiones totales:"
 
 msgctxt "[\"COMMENT-REVIEWS_CURRENT\"]"
 msgid "Reviews in {0}:"
-msgstr ""
+msgstr "Revisiones en {0}:"
 
 msgctxt "[\"COMMENT-REVIEWS_CURRENT_MOB\"]"
 msgid "In {0}:"
-msgstr ""
+msgstr "En {0}:"
 
 msgctxt "[\"COMMENT-REVIEW_OTHER_LANG\"]"
 msgid "There are {0} reviews in other languages"
-msgstr ""
+msgstr "Hay {0} revisiones en otros idiomas"
 
 msgctxt "[\"COMMENT-ADD_NEW_DISCUSSION\"]"
 msgid "Add A New Discussion"
@@ -700,7 +718,7 @@ msgstr "Grupo"
 
 msgctxt "[\"COMMENT-TITLE_POST\"]"
 msgid "Post"
-msgstr ""
+msgstr "Publicar"
 
 msgctxt "[\"COMMENT-ADD\"]"
 msgid "Add Comment"
@@ -716,11 +734,11 @@ msgstr "Puntos de vista"
 
 msgctxt "[\"COMMENT-COLLAPSED\"]"
 msgid "comment collapsed"
-msgstr ""
+msgstr "comentario colapsado"
 
 msgctxt "[\"COMMENT-REVIEW_OR_POST\"]"
 msgid "Post review or comment"
-msgstr ""
+msgstr "Publicar revisión o comentario"
 
 msgctxt "[\"COMMENT-REPLY\"]"
 msgid "Reply"
@@ -732,7 +750,7 @@ msgstr "Nombre"
 
 msgctxt "[\"COMMENT-EMAIL\"]"
 msgid "Email"
-msgstr ""
+msgstr "Correo electrónico"
 
 msgctxt "[\"COMMENT-SORT_BY_OLDEST\"]"
 msgid "Oldest"
@@ -752,7 +770,7 @@ msgstr "Más reciente"
 
 msgctxt "[\"COMMENT-SORT_BY_MOST_SCORE\"]"
 msgid "Top rated"
-msgstr ""
+msgstr "Los mejores votados"
 
 msgctxt "[\"COMMENT-SORT_BY_DEFAULT\"]"
 msgid "Sort by default"
@@ -800,7 +818,7 @@ msgstr "Votar"
 
 msgctxt "[\"COMMENT-LIKE\"]"
 msgid "Like"
-msgstr ""
+msgstr "Me gusta"
 
 msgctxt "[\"COMMENT-ERR_QUICK_LOGIN\"]"
 msgid "Quick login error, please try again."
