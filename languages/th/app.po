@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-09-09 05:10+0000\n"
-"PO-Revision-Date: 2020-11-04 09:30+0000\n"
-"Last-Translator: Worachet Deejongyawngam <nworachet@gmail.com>\n"
+"PO-Revision-Date: 2020-11-21 20:26+0000\n"
+"Last-Translator: MR. KAN TUNHASING <tunhasingk@gmail.com>\n"
 "Language-Team: Thai <https://translate.apkpure.com/projects/apkpure/"
 "apkpurecom/th/>\n"
 "Language: th\n"
@@ -14,10 +14,9 @@ msgstr ""
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Generator: Weblate 4.2.2\n"
 
-#, fuzzy
 msgctxt "[\"NAV-GAME\"]"
 msgid "GAMES"
-msgstr "GAME'S"
+msgstr "เกมส์"
 
 msgctxt "[\"NAV-APP\"]"
 msgid "APPS"
@@ -67,10 +66,9 @@ msgctxt "[\"NAV-APKPURE_APP\"]"
 msgid "APKPure App"
 msgstr "แอพ APKPure"
 
-#, fuzzy
 msgctxt "[\"NAV-Cloud-Phone-Emulator\"]"
 msgid "Cloud Phone Emulator"
-msgstr "Cloud Phone Emulator"
+msgstr "โปรแกรมจําลองบนโทรศัพท์บนระบบคลาวด์"
 
 msgctxt "[\"DOWNLOAD\"]"
 msgid "Download"
@@ -78,7 +76,7 @@ msgstr "ดาวน์โหลด"
 
 msgctxt "[\"DOWNLOAD_AVAILABLE\"]"
 msgid "Download Variant {0}"
-msgstr "ดาวน์โหลด ตัวแปร {0}"
+msgstr "ดาวน์โหลด [0] ตัวแปร"
 
 msgctxt "[\"FAST_DOWNLOAD\"]"
 msgid "Fast Download"
@@ -90,7 +88,7 @@ msgstr "ไม่สนใจ"
 
 msgctxt "[\"OK\"]"
 msgid "OK"
-msgstr "ตกลง"
+msgstr "ได้"
 
 msgctxt "[\"BUY\"]"
 msgid "Buy"
