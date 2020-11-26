@@ -1,14 +1,30 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-11-27 05:26+0000\n"
+"PO-Revision-Date: 2020-11-27 05:26+0000\n"
+"Last-Translator: Dutch <apkpure@hidebox.org>\n"
+"Language-Team: Dutch <https://translate.apkpure.com/projects/apkpure/"
+"apkpurecom/nl/>\n"
+"Language: nl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.2.2\n"
+
 msgctxt "[\"NAV-GAME\"]"
 msgid "GAMES"
 msgstr "SPELLEN"
 
 msgctxt "[\"NAV-APP\"]"
 msgid "APPS"
-msgstr ""
+msgstr "APPS"
 
 msgctxt "[\"NAV-XAPK\"]"
 msgid "XAPK"
-msgstr ""
+msgstr "XAPK"
 
 msgctxt "[\"NAV-NEW\"]"
 msgid "NEW"
@@ -60,7 +76,7 @@ msgstr "Downloaden"
 
 msgctxt "[\"DOWNLOAD_AVAILABLE\"]"
 msgid "Download Variant {0}"
-msgstr ""
+msgstr "wDownload variant (0)"
 
 msgctxt "[\"FAST_DOWNLOAD\"]"
 msgid "Fast Download"
@@ -72,7 +88,7 @@ msgstr "Negeren"
 
 msgctxt "[\"OK\"]"
 msgid "OK"
-msgstr ""
+msgstr "OK"
 
 msgctxt "[\"BUY\"]"
 msgid "Buy"
@@ -84,7 +100,7 @@ msgstr "Taal selecteren"
 
 msgctxt "[\"EDITORS_CHOICE\"]"
 msgid "Editor's Choice"
-msgstr ""
+msgstr "Keuze van de Bewerker"
 
 msgctxt "[\"FREE\"]"
 msgid "Free"
@@ -92,11 +108,11 @@ msgstr "Gratis"
 
 msgctxt "[\"TOP-UPDATED-APPS\"]"
 msgid "Recently Updated Apps"
-msgstr ""
+msgstr "Recent Geupdate Apps"
 
 msgctxt "[\"TOP-UPDATED-GAMES\"]"
 msgid "Recently Updated Games"
-msgstr ""
+msgstr "Recent Bijgewerkte Games"
 
 msgctxt "[\"READ_MORE\"]"
 msgid "Read More"
@@ -108,7 +124,7 @@ msgstr "SPEL"
 
 msgctxt "[\"APP\"]"
 msgid "APP"
-msgstr ""
+msgstr "APP"
 
 msgctxt "[\"GAMES\"]"
 msgid "Games"
@@ -116,7 +132,7 @@ msgstr "Spelletjes"
 
 msgctxt "[\"APPS\"]"
 msgid "Apps"
-msgstr ""
+msgstr "Apps"
 
 msgctxt "[\"MORE\"]"
 msgid "More"
@@ -144,11 +160,11 @@ msgstr "Populair"
 
 msgctxt "[\"ATTACHMENT\"]"
 msgid "Attachment"
-msgstr ""
+msgstr "Bijlage"
 
 msgctxt "[\"DOWNLOADS\"]"
 msgid "Downloads"
-msgstr ""
+msgstr "Downloads"
 
 msgctxt "[\"NEWEST\"]"
 msgid "Newest"
@@ -160,7 +176,7 @@ msgstr "Beoordeling"
 
 msgctxt "[\"POPULAR\"]"
 msgid "Popular"
-msgstr ""
+msgstr "Populair"
 
 msgctxt "[\"CATEGORY\"]"
 msgid "Category"
@@ -188,7 +204,7 @@ msgstr "Ontwikkelaar"
 
 msgctxt "[\"UPLOADER\"]"
 msgid "Uploaded by"
-msgstr ""
+msgstr "Geupload door"
 
 msgctxt "[\"POPULAR_GAMES_IN_LAST_HOURS\"]"
 msgid "Popular Games In Last {0} Hours"
@@ -224,11 +240,11 @@ msgstr "Opmerkingen"
 
 msgctxt "[\"NOT_FOUND\"]"
 msgid "Not Found"
-msgstr ""
+msgstr "Niet Gevonden"
 
 msgctxt "[\"REASON\"]"
 msgid "Reason"
-msgstr ""
+msgstr "Oorzaak"
 
 msgctxt "[\"LATEST_UPDATE_GAMES\"]"
 msgid "Latest Update Games"
@@ -276,7 +292,7 @@ msgstr "Populaire categorieën"
 
 msgctxt "[\"DOWNLOAD_APK\"]"
 msgid "Download APK"
-msgstr ""
+msgstr "APK Downloaden"
 
 msgctxt "[\"VERIFICATION_CODE\"]"
 msgid "Verification code"
@@ -296,19 +312,19 @@ msgstr "Onderwerpen"
 
 msgctxt "[\"MORE-TOPICS\"]"
 msgid "More Topics"
-msgstr ""
+msgstr "Meer Onderwerpen"
 
 msgctxt "[\"TAG\"]"
 msgid "Tag {0}"
-msgstr ""
+msgstr "Tag (0)"
 
 msgctxt "[\"BROWSING_TAG\"]"
 msgid "Browsing {0}"
-msgstr ""
+msgstr "Surfen"
 
 msgctxt "[\"ADDITIONAL_INFORMATION\"]"
 msgid "Additional Information"
-msgstr ""
+msgstr "Aanvullende Informatie"
 
 msgctxt "[\"SIMILAR_TO\"]"
 msgid "Similar to {0}"
@@ -320,15 +336,15 @@ msgstr "Annuleren"
 
 msgctxt "[\"UPDATE\"]"
 msgid "Update"
-msgstr ""
+msgstr "Bijgewerken"
 
 msgctxt "[\"SUBMIT\"]"
 msgid "Submit"
-msgstr ""
+msgstr "Bevestigen"
 
 msgctxt "[\"SUBMITTING\"]"
 msgid "Submitting..."
-msgstr ""
+msgstr "Bevestigen..."
 
 msgctxt "[\"DEV-ICON_SIZE_ERROR\"]"
 msgid "You need to resize your high-res icon. The required dimensions are 512px * 512px."
@@ -384,7 +400,7 @@ msgstr ""
 
 msgctxt "[\"UPLOAD-FAILED\"]"
 msgid "File upload failed. (Error code: 10001)"
-msgstr ""
+msgstr "Laden van bestand mislukt. (Foutcode: 10001)"
 
 msgctxt "[\"UPLOAD-PARSING_FAILED\"]"
 msgid "File parsing failed. (Error code: 10002)"
@@ -396,11 +412,11 @@ msgstr "Detail-"
 
 msgctxt "[\"DETAIL-HOT_TAGS\"]"
 msgid "{0} Tags"
-msgstr ""
+msgstr "(0) Tags"
 
 msgctxt "[\"DETAIL-MAIGHT_LIKE\"]"
 msgid "You Might Also Like"
-msgstr ""
+msgstr "Misschien ook interessant"
 
 msgctxt "[\"DETAIL-PAID_GAME\"]"
 msgid "Paid Game"
@@ -512,7 +528,7 @@ msgstr "Meer van ontwikkelaar"
 
 msgctxt "[\"DETAIL-MORE_FROM\"]"
 msgid "More From {0}"
-msgstr ""
+msgstr "Meer Van (0)"
 
 msgctxt "[\"DETAIL-FOLLOW_UPDATES\"]"
 msgid "Follow Updates"
@@ -520,7 +536,7 @@ msgstr "Volg updates"
 
 msgctxt "[\"DETAIL-REQUEST_UPDATE\"]"
 msgid "Request Update"
-msgstr "Verzoek update"
+msgstr "Update Verzoek"
 
 msgctxt "[\"DETAIL-RATING\"]"
 msgid "{votes} votes, average: {rating_average} out of {rating_best}"
