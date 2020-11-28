@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-09-09 05:10+0000\n"
-"PO-Revision-Date: 2020-11-28 06:16+0000\n"
+"PO-Revision-Date: 2020-11-28 13:16+0000\n"
 "Last-Translator: Ash Ketchum 1996 <xiazy2007@outlook.com>\n"
 "Language-Team: Chinese (Simplified) <https://translate.apkpure.com/projects/"
 "apkpure/apkpurecom/zh_Hans/>\n"
@@ -2198,7 +2198,7 @@ msgstr ""
 
 msgctxt "[\"meta\"][\"Category_featured_editors-picks\"][\"description\"]"
 msgid "Play with millions of free apps in APKPure style on Android phones, tablets, TV ,etc. Download the best must have android games you should play 2020."
-msgstr ""
+msgstr "在Android手机，平板，智慧型电视上玩到数以百万记的免费应用，就上APKPure。下载2020年度你最应该尝试的游戏。"
 
 msgctxt "[\"meta\"][\"Category_app\"][\"keywords\"]"
 msgid "{0} apk download, free {0} download, {0} apk download, download {0} apk, {0} apk downloader, {0} android"
@@ -2290,19 +2290,19 @@ msgstr "apk签名校验, apk签名, apk签名验证, apk签名校验工具, apk�
 
 msgctxt "[\"meta\"][\"Upload\"][\"title\"]"
 msgid "Submit your Android Apps and games - Upload .APK File (Android App) at APKPure"
-msgstr ""
+msgstr "提交您的Android应用和游戏 - 上传.APK文件（Android应用）到APKPure"
 
 msgctxt "[\"meta\"][\"Upload\"][\"description\"]"
 msgid "Free to play games, free to use Android apps publishing submission on APKPure.com"
-msgstr ""
+msgstr "免费玩游戏，并使用Android应用免费在APKPure.com上发布您的意见书"
 
 msgctxt "[\"meta\"][\"Apk_detail\"][\"title\"]"
 msgid "Apk detail"
-msgstr ""
+msgstr "APK详情"
 
 msgctxt "[\"meta\"][\"Apk_detail\"][\"description\"]"
 msgid "Apk detail web"
-msgstr ""
+msgstr "APK原网站详情"
 
 msgctxt "[\"meta\"][\"Download\"][\"title\"]"
 msgid "Region free APK download daily update apps and games"
@@ -2338,7 +2338,7 @@ msgstr "下载最新版安卓游戏，安卓应用APK海量应用免费下载升
 
 msgctxt "[\"meta\"][\"Editor_choice\"][\"title\"]"
 msgid "Editor's Choice | APKPure.com"
-msgstr ""
+msgstr "编辑选择 | APKPure.com"
 
 msgctxt "[\"meta\"][\"Topics\"][\"title\"]"
 msgid "Topics | APKPure.com"
@@ -2414,7 +2414,7 @@ msgstr "{user_name}在APKPure的个人主页，加入APKPure与{user_name}一起
 
 msgctxt "[\"meta\"][\"User_post\"][\"title\"]"
 msgid "{summary} - {user_name} | APKPure"
-msgstr ""
+msgstr "{summary} - {user_name} | APKPure"
 
 msgctxt "[\"meta\"][\"Profile\"][\"title\"]"
 msgid "{user_name}'s profile on APKPure App Store"
@@ -2698,11 +2698,11 @@ msgstr "轻度粗俗用语"
 
 msgctxt "[\"xapk\"][\"APK_OBB\"]"
 msgid "The XAPK (APK + OBB data) File, How to Install .XAPK File?"
-msgstr ""
+msgstr "如何安装.XAPK文件（XAPK = APK+OBB数据）？"
 
 msgctxt "[\"xapk\"][\"SPLIT_APKS\"]"
 msgid "The XAPK (Base APK + Split APKs) File, How to Install .XAPK File?"
-msgstr ""
+msgstr "XAPK文件（Base APK+Split APK），如何安装.XAPK文件？"
 
 msgctxt "[\"xapk\"][\"APKs_AND_OBB\"]"
 msgid "The XAPK (Base APK + Split APKs + OBB data) File, How to Install .XAPK File?"
@@ -2710,12 +2710,12 @@ msgstr "XAPK(Base APK + Split APKs + OBB data)文件,如何安装.XAPK文件？"
 
 msgctxt "[\"xapk\"][\"SEVERAL_VARIANTS\"]"
 msgid "This release comes in several variants,"
-msgstr ""
+msgstr "此版本有多个变体，"
 
 msgctxt "[\"xapk\"][\"SEE_AVAILABLE_APKS\"]"
 msgid "See available APKs"
-msgstr ""
+msgstr "查看可用的APK"
 
 msgctxt "[\"xapk\"][\"VARIANTS\"]"
 msgid "This release comes in several variants, See available APKs"
-msgstr ""
+msgstr "此版本有多个变体，查看可用的APK"
