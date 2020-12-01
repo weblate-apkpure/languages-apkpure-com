@@ -1,3 +1,19 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-11-28 06:16+0000\n"
+"PO-Revision-Date: 2020-11-28 06:16+0000\n"
+"Last-Translator: Erdi Dogan <erdi.doqan@gmail.com>\n"
+"Language-Team: Turkish <https://translate.apkpure.com/projects/apkpure/"
+"apkpurecom/tr/>\n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.2.2\n"
+
 msgctxt "[\"NAV-GAME\"]"
 msgid "GAMES"
 msgstr "OYUNLAR"
@@ -52,7 +68,7 @@ msgstr "APKPure Uygulaması"
 
 msgctxt "[\"NAV-Cloud-Phone-Emulator\"]"
 msgid "Cloud Phone Emulator"
-msgstr ""
+msgstr "Bulut Telefon Emülatörü"
 
 msgctxt "[\"DOWNLOAD\"]"
 msgid "Download"
@@ -60,7 +76,7 @@ msgstr "İndir"
 
 msgctxt "[\"DOWNLOAD_AVAILABLE\"]"
 msgid "Download Variant {0}"
-msgstr ""
+msgstr "Varyant İndir {0}"
 
 msgctxt "[\"FAST_DOWNLOAD\"]"
 msgid "Fast Download"
@@ -84,7 +100,7 @@ msgstr "Dil Seçimi"
 
 msgctxt "[\"EDITORS_CHOICE\"]"
 msgid "Editor's Choice"
-msgstr ""
+msgstr "Editörün Seçimi"
 
 msgctxt "[\"FREE\"]"
 msgid "Free"
@@ -160,7 +176,7 @@ msgstr "Değerlendirin"
 
 msgctxt "[\"POPULAR\"]"
 msgid "Popular"
-msgstr ""
+msgstr "Popüler"
 
 msgctxt "[\"CATEGORY\"]"
 msgid "Category"
@@ -168,7 +184,7 @@ msgstr "Kategori"
 
 msgctxt "[\"CATEGORY_JOIN\"]"
 msgid "{app_category} {app_type}"
-msgstr ""
+msgstr "{app_kategori}{app_tipi}"
 
 msgctxt "[\"SHOW_MORE\"]"
 msgid "Show More"
@@ -188,7 +204,7 @@ msgstr "Geliştirici"
 
 msgctxt "[\"UPLOADER\"]"
 msgid "Uploaded by"
-msgstr ""
+msgstr "Yüklendi"
 
 msgctxt "[\"POPULAR_GAMES_IN_LAST_HOURS\"]"
 msgid "Popular Games In Last {0} Hours"
@@ -228,7 +244,7 @@ msgstr "Bulunamadı"
 
 msgctxt "[\"REASON\"]"
 msgid "Reason"
-msgstr ""
+msgstr "Sebep"
 
 msgctxt "[\"LATEST_UPDATE_GAMES\"]"
 msgid "Latest Update Games"
