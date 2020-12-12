@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-09-09 05:10+0000\n"
-"PO-Revision-Date: 2020-12-12 09:19+0000\n"
+"PO-Revision-Date: 2020-12-12 16:30+0000\n"
 "Last-Translator: Isabella Heath <isabellaheath9@gmail.com>\n"
 "Language-Team: Thai <https://translate.apkpure.com/projects/apkpure/"
 "apkpurecom/th/>\n"
@@ -1861,6 +1861,8 @@ msgstr "บราซิล"
 msgctxt "[\"error\"][\"DOWN-ItemNotFree\"]"
 msgid "Sorry, paid apps are not available to download with our APK Download Service."
 msgstr ""
+"ขออภัย แอปที่ต้องเสียเงินยังไม่สามารถดาวน์โหลดผ่านบริการดาวน์โหลด APK "
+"ของคุณได้"
 
 msgctxt "[\"error\"][\"DOWN-ItemNotFound\"]"
 msgid "Sorry, download failed, the APK cannot be found."
@@ -1872,7 +1874,7 @@ msgstr "อ๊ะ! รบกวนเปลี่ยนภูมิภาคข�
 
 msgctxt "[\"error\"][\"DOWN-LimitedDevice\"]"
 msgid "Sorry, download failed, the APK does not support our device."
-msgstr ""
+msgstr "ขออภัย การดาวน์โหลดล้มเหลว เนื่องจาก APK ไม่รองรับอุปกรณ์ของคุณ"
 
 msgctxt "[\"error\"][\"DOWN-UnknownError\"]"
 msgid "Download failed because of an unknown error. We will fix this problem soon."
@@ -1888,9 +1890,10 @@ msgctxt "[\"error\"][\"DOWN-RunOutOfDevice\"]"
 msgid "Download failed, please try again in 5 minutes."
 msgstr "การดาวน์โหลดล้มเหลว กรุณาลองใหม่อีกครั้งในอีก 5 นาที"
 
+#, fuzzy
 msgctxt "[\"tip\"][\"SHORT_NAME\"]"
 msgid "{0}"
-msgstr ""
+msgstr "{0}"
 
 msgctxt "[\"tip\"][\"DEVELOPER_ICON\"]"
 msgid "{0} Icon"
@@ -1914,7 +1917,7 @@ msgstr "{0} เวอร์ชันก่อนหน้า"
 
 msgctxt "[\"tip\"][\"LIST_ICON\"]"
 msgid "{0} APK"
-msgstr ""
+msgstr "{0} APK"
 
 msgctxt "[\"tip\"][\"LIST_DOWN\"]"
 msgid "Download {0} latest version apk"
@@ -2609,31 +2612,31 @@ msgstr "ไม่ได้จัดประเภท"
 
 msgctxt "[\"content_rating\"][\"Rated for 16+\"]"
 msgid "Rated for 16+"
-msgstr ""
+msgstr "จัดประเภทสำหรับอายุ 16 ปีขึ้นไป"
 
 msgctxt "[\"content_rating\"][\"Sex\"]"
 msgid "Sex"
-msgstr ""
+msgstr "มีฉากการร่วมเพศ"
 
 msgctxt "[\"content_rating\"][\"Everyone\"]"
 msgid "Everyone"
-msgstr ""
+msgstr "ทุกคน"
 
 msgctxt "[\"content_rating\"][\"Simulated Gambling\"]"
 msgid "Simulated Gambling"
-msgstr ""
+msgstr "มีฉากเล่นการพนัน"
 
 msgctxt "[\"content_rating\"][\"Everyone 10+\"]"
 msgid "Everyone 10+"
-msgstr ""
+msgstr "ทุกคน อายุ 10 ปีขึ้นไป"
 
 msgctxt "[\"content_rating\"][\"Fantasy Violence\"]"
 msgid "Fantasy Violence"
-msgstr ""
+msgstr "มีฉากใช้ความรุนแรงผ่านตัวละครแนวแฟนตาซี"
 
 msgctxt "[\"content_rating\"][\"Violence\"]"
 msgid "Violence"
-msgstr ""
+msgstr "มีฉากการใช้ความรุนแรงในระดับทั่วไป"
 
 msgctxt "[\"content_rating\"][\"Blood\"]"
 msgid "Blood"
@@ -2641,63 +2644,63 @@ msgstr ""
 
 msgctxt "[\"content_rating\"][\"Mild Fantasy Violence\"]"
 msgid "Mild Fantasy Violence"
-msgstr ""
+msgstr "มีฉากใช้ความรุนแรงเล็กน้อยผ่านตัวละครแนวแฟนตาซี"
 
 msgctxt "[\"content_rating\"][\"Suggestive Themes\"]"
 msgid "Suggestive Themes"
-msgstr ""
+msgstr "มีเนื้อหาชี้นำทางเพศ"
 
 msgctxt "[\"content_rating\"][\"Mature 17+\"]"
 msgid "Mature 17+"
-msgstr ""
+msgstr "ผู้ใหญ่ อายุ 17 ปีขึ้นไป"
 
 msgctxt "[\"content_rating\"][\"Drug and Alcohol Reference\"]"
 msgid "Drug and Alcohol Reference"
-msgstr ""
+msgstr "มีการอ้างอิงถึงยาเสพติดและเครื่องดื่มแอลกอฮอล์"
 
 msgctxt "[\"content_rating\"][\"Blood and Gore\"]"
 msgid "Blood and Gore"
-msgstr ""
+msgstr "มีฉากที่เห็นเลือด บาดแผล หรืออวัยวะภายใน"
 
 msgctxt "[\"content_rating\"][\"Crude Humor\"]"
 msgid "Crude Humor"
-msgstr ""
+msgstr "มีการใช้มุกหยาบโลน"
 
 msgctxt "[\"content_rating\"][\"Alcohol Reference\"]"
 msgid "Alcohol Reference"
-msgstr ""
+msgstr "มีการอ้างอิงถึงเครื่องดื่มแอลกอฮอล์"
 
 msgctxt "[\"content_rating\"][\"Alcohol and Tobacco Reference\"]"
 msgid "Alcohol and Tobacco Reference"
-msgstr ""
+msgstr "มีการอ้างอิงถึงเครื่องดื่มแอลกอฮอล์และยาสูบ"
 
 msgctxt "[\"content_rating\"][\"Violent References\"]"
 msgid "Violent References"
-msgstr ""
+msgstr "มีการอ้างอิงถึงการใช้ความรุนแรง"
 
 msgctxt "[\"content_rating\"][\"Rated for 3+\"]"
 msgid "Rated for 3+"
-msgstr ""
+msgstr "จัดประเภทสำหรับอายุ 3 ปีขึ้นไป"
 
 msgctxt "[\"content_rating\"][\"Partial Nudity\"]"
 msgid "Partial Nudity"
-msgstr ""
+msgstr "มีฉากโป๊เปลือยบางส่วน"
 
 msgctxt "[\"content_rating\"][\"Comic Mischief\"]"
 msgid "Comic Mischief"
-msgstr ""
+msgstr "มีการใช้มุกตลกแนวการ์ตูน"
 
 msgctxt "[\"content_rating\"][\"Sexual Themes\"]"
 msgid "Sexual Themes"
-msgstr ""
+msgstr "มีเนื้อหาเกี่ยวกับเพศ"
 
 msgctxt "[\"content_rating\"][\"Intense Violence\"]"
 msgid "Intense Violence"
-msgstr ""
+msgstr "มีฉากการใช้ความรุนแรงในระดับสูง"
 
 msgctxt "[\"content_rating\"][\"Drug Reference\"]"
 msgid "Drug Reference"
-msgstr ""
+msgstr "มีการอ้างอิงถึงยาเสพติด"
 
 msgctxt "[\"content_rating\"][\"Strong Language\"]"
 msgid "Strong Language"
@@ -2705,115 +2708,115 @@ msgstr "มีการใช้ภาษาที่รุนแรง"
 
 msgctxt "[\"content_rating\"][\"Use of Alcohol\"]"
 msgid "Use of Alcohol"
-msgstr ""
+msgstr "มีฉากการดื่มเครื่องดื่มแอลกอฮอล์"
 
 msgctxt "[\"content_rating\"][\"Use of Tobacco\"]"
 msgid "Use of Tobacco"
-msgstr ""
+msgstr "มีฉากการสูบบุหรี่"
 
 msgctxt "[\"content_rating\"][\"Mild Blood\"]"
 msgid "Mild Blood"
-msgstr ""
+msgstr "มีฉากที่เห็นเลือดจริงเล็กน้อย"
 
 msgctxt "[\"content_rating\"][\"Mild Violence\"]"
 msgid "Mild Violence"
-msgstr ""
+msgstr "ความรุนแรงเล็กน้อย"
 
 msgctxt "[\"content_rating\"][\"Tobacco Reference\"]"
 msgid "Tobacco Reference"
-msgstr ""
+msgstr "มีการอ้างอิงถึงยาสูบ"
 
 msgctxt "[\"content_rating\"][\"Sexual Content\"]"
 msgid "Sexual Content"
-msgstr ""
+msgstr "มีฉากเกี่ยวกับเรื่องเพศ"
 
 msgctxt "[\"content_rating\"][\"Rated for 12+\"]"
 msgid "Rated for 12+"
-msgstr ""
+msgstr "จัดประเภทสำหรับอายุ 12 ปีขึ้นไป"
 
 msgctxt "[\"content_rating\"][\"Moderate Violence\"]"
 msgid "Moderate Violence"
-msgstr ""
+msgstr "มีฉากการใช้ความรุนแรงในระดับปานกลาง"
 
 msgctxt "[\"content_rating\"][\"Sexual Innuendo\"]"
 msgid "Sexual Innuendo"
-msgstr ""
+msgstr "มีการเสียดสีทางเพศ"
 
 msgctxt "[\"content_rating\"][\"Use of Alcohol and Tobacco\"]"
 msgid "Use of Alcohol and Tobacco"
-msgstr ""
+msgstr "มีฉากการดื่มเครื่องดื่มแอลกอฮอล์และการสูบบุหรี่"
 
 msgctxt "[\"content_rating\"][\"Strong Violence\"]"
 msgid "Strong Violence"
-msgstr ""
+msgstr "มีฉากการใช้ความรุนแรงแบบชัดเจน"
 
 msgctxt "[\"content_rating\"][\"Mild Swearing\"]"
 msgid "Mild Swearing"
-msgstr ""
+msgstr "มีการใช้คำสบถเล็กน้อย"
 
 msgctxt "[\"content_rating\"][\"Nudity\"]"
 msgid "Nudity"
-msgstr ""
+msgstr "มีฉากโป๊เปลือย"
 
 msgctxt "[\"content_rating\"][\"Use of Drugs\"]"
 msgid "Use of Drugs"
-msgstr ""
+msgstr "มีฉากการใช้สารเสพติด"
 
 msgctxt "[\"content_rating\"][\"Adults only 18+\"]"
 msgid "Adults only 18+"
-msgstr ""
+msgstr "ผู้ใหญ่ อายุ 18 ปีขึ้นไปเท่านั้น"
 
 msgctxt "[\"content_rating\"][\"Strong Sexual Content\"]"
 msgid "Strong Sexual Content"
-msgstr ""
+msgstr "มีฉากที่เกี่ยวกับเรื่องเพศแบบชัดเจน"
 
 msgctxt "[\"content_rating\"][\"Use of Drugs and Alcohol\"]"
 msgid "Use of Drugs and Alcohol"
-msgstr ""
+msgstr "มีฉากการใช้สารเสพติดและการดื่มเครื่องดื่มแอลกอฮอล์"
 
 msgctxt "[\"content_rating\"][\"Rated for 7+\"]"
 msgid "Rated for 7+"
-msgstr ""
+msgstr "จัดประเภทสำหรับอายุ 7 ปีขึ้นไป"
 
 msgctxt "[\"content_rating\"][\"Implied Violence\"]"
 msgid "Implied Violence"
-msgstr ""
+msgstr "มีฉากการใช้ความรุนแรงแบบมีนัยยะ"
 
 msgctxt "[\"content_rating\"][\"Horror\"]"
 msgid "Horror"
-msgstr ""
+msgstr "มีฉากสยองขวัญ"
 
 msgctxt "[\"content_rating\"][\"Parental Guidance Recommended\"]"
 msgid "Parental Guidance Recommended"
-msgstr ""
+msgstr "ผู้ปกครองต้องให้คำแนะนำ"
 
 msgctxt "[\"content_rating\"][\"Sexual Violence\"]"
 msgid "Sexual Violence"
-msgstr ""
+msgstr "มีฉากที่ใช้ความรุนแรงทางเพศ"
 
 msgctxt "[\"content_rating\"][\"Fear\"]"
 msgid "Fear"
-msgstr ""
+msgstr "มีการใช้ความกลัว"
 
 msgctxt "[\"content_rating\"][\"Rated for 18+\"]"
 msgid "Rated for 18+"
-msgstr ""
+msgstr "จัดประเภทสำหรับอายุ 18 ปีขึ้นไป"
 
 msgctxt "[\"content_rating\"][\"Gambling\"]"
 msgid "Gambling"
-msgstr ""
+msgstr "มีเรื่องของการพนัน"
 
 msgctxt "[\"content_rating\"][\"Extreme Violence\"]"
 msgid "Extreme Violence"
-msgstr ""
+msgstr "มีฉากการใช้ความรุนแรงระดับรุนแรงมาก"
 
 msgctxt "[\"content_rating\"][\"Use of Alcohol/Tobacco\"]"
 msgid "Use of Alcohol/Tobacco"
-msgstr ""
+msgstr "มีฉากการดื่มเครื่องดื่มแอลกอฮอล์/การสูบบุหรี่"
 
 msgctxt "[\"content_rating\"][\"Drugs\"]"
 msgid "Drugs"
-msgstr ""
+msgstr "ยาเสพติด"
 
 msgctxt "[\"content_rating\"][\"Mild Language\"]"
 msgid "Mild Language"
@@ -2821,24 +2824,25 @@ msgstr "มีการใช้ภาษาต่างประเทศเล
 
 msgctxt "[\"xapk\"][\"APK_OBB\"]"
 msgid "The XAPK (APK + OBB data) File, How to Install .XAPK File?"
-msgstr ""
+msgstr "ไฟล์ XAPK (APK + ข้อมูล OBB) วิธีการติดตั้งไฟล์ .XAPK?"
 
 msgctxt "[\"xapk\"][\"SPLIT_APKS\"]"
 msgid "The XAPK (Base APK + Split APKs) File, How to Install .XAPK File?"
-msgstr ""
+msgstr "ไฟล์ XAPK (APK ตั้งต้น + APK แยก) วิธีการติดตั้งไฟล์ .XAPK?"
 
 msgctxt "[\"xapk\"][\"APKs_AND_OBB\"]"
 msgid "The XAPK (Base APK + Split APKs + OBB data) File, How to Install .XAPK File?"
 msgstr ""
+"ไฟล์ XAPK (APK ตั้งต้น + APK แยก + ข้อมูล OBB) วิธีการติดตั้งไฟล์ .XAPK?"
 
 msgctxt "[\"xapk\"][\"SEVERAL_VARIANTS\"]"
 msgid "This release comes in several variants,"
-msgstr ""
+msgstr "การวางจำหน่ายครั้งนี้แบ่งเป็น Variant หลายแบบ"
 
 msgctxt "[\"xapk\"][\"SEE_AVAILABLE_APKS\"]"
 msgid "See available APKs"
-msgstr ""
+msgstr "ดู APK ที่มีอยู่"
 
 msgctxt "[\"xapk\"][\"VARIANTS\"]"
 msgid "This release comes in several variants, See available APKs"
-msgstr ""
+msgstr "การวางจำหน่ายครั้งนี้แบ่งเป็น Variant หลายแบบ ดู APK ที่มีอยู่"
