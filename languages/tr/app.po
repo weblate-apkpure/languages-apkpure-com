@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-11-28 06:16+0000\n"
-"PO-Revision-Date: 2020-12-21 11:06+0000\n"
+"PO-Revision-Date: 2020-12-22 00:01+0000\n"
 "Last-Translator: serkan ege <serkanegetr@gmail.com>\n"
 "Language-Team: Turkish <https://translate.apkpure.com/projects/apkpure/"
 "apkpurecom/tr/>\n"
@@ -408,7 +408,7 @@ msgstr "Dosya ayrıştırılamadı. (Hata kodu: 10002)"
 
 msgctxt "[\"DETAIL\"]"
 msgid "Detail"
-msgstr "Detaylar"
+msgstr "Detay"
 
 msgctxt "[\"DETAIL-HOT_TAGS\"]"
 msgid "{0} Tags"
@@ -436,7 +436,7 @@ msgstr "Ücretli uygulamalar indirmek için kullanılabilir değil"
 
 msgctxt "[\"DETAIL-WHY_SAFE\"]"
 msgid "Why we can guarantee APK 100% safe?"
-msgstr "Neden APK'nin %100 güvenli olduğunun garantisini veririz?"
+msgstr "APK'nin %100 güvenliğini neden garanti edebiliriz?"
 
 msgctxt "[\"DETAIL-SAFE\"]"
 msgid "Verification passed"
@@ -592,7 +592,10 @@ msgstr "Google Play'de İndir"
 
 msgctxt "[\"DETAIL-DELETED_COPYRIGHT_GOOGLE_PLAY_DES\"]"
 msgid "{app_name} All rights reserved ©2020 {developer}. {developer} and the {developer} logo are trademarks of {developer} in the U.S. and/or other countries.All other trademarks are the property of their respective owners."
-msgstr "[\"DETAIL-DELETED_COPYRIGHT_GOOGLE_PLAY_DES\"]{app_name} Tüm hakları saklıdır ©2020 {developer}. {developer} ve   {developer} logosu, {developer}'un ABD ve diğer ülkelerde tescilli markasıdır. Diğer tüm ticari markalar kendi sahiplerinin mülkiyetindedir."
+msgstr ""
+"{app_name} Tüm hakları saklıdır © 2020 {geliştirici}. {geliştirici} ve "
+"{geliştirici} logosu, ABD ve/veya diğer ülkelerde {geliştirici}'nin ticari "
+"markalarıdır. Diğer tüm ticari markalar, ilgili sahiplerinin mülkiyetindedir."
 
 msgctxt "[\"DETAIL_DOWNLOAD-DOWNLOADING\"]"
 msgid "Downloading"
@@ -836,7 +839,7 @@ msgstr "Oylama hatası, tekrarlanmış"
 
 msgctxt "[\"COMMENT-ERR_SENSITIVE_WORD\"]"
 msgid "Comment failed, your post contains sensitive terms."
-msgstr "Geçersiz ileti, Mesajınız hassas şeyler içeriyor"
+msgstr "Geçersiz ileti, Mesajınız hassas şeyler içeriyor."
 
 msgctxt "[\"COMMENT-ERR_SENSITIVE_WORD_AUDIT\"]"
 msgid "Your post contains sensitive terms and is pending approval by an admin"
@@ -920,7 +923,7 @@ msgstr "Konu mevcut değil"
 
 msgctxt "[\"COMMENT-HASHTAG\"]"
 msgid "Hashtag"
-msgstr "Hashtag"
+msgstr "Başlık etiketi"
 
 msgctxt "[\"COMMENT-FOLLOW_COUNT\"]"
 msgid "Followers: {0}"
@@ -1456,7 +1459,7 @@ msgstr "Mobil Site"
 
 msgctxt "[\"FOOTER-CONTACT_US\"]"
 msgid "Contact Us"
-msgstr "Bizimle İletişime Geçin"
+msgstr "Bize Ulaşın"
 
 msgctxt "[\"FOOTER-ABOUT\"]"
 msgid "About Us"
@@ -2130,7 +2133,7 @@ msgstr ""
 
 msgctxt "[\"meta\"][\"Variants\"][\"keywords\"]"
 msgid ""
-msgstr ""
+msgstr "[\"meta\"][\"Variants\"][\"keywords\"]"
 
 msgctxt "[\"meta\"][\"Details_download\"][\"title\"]"
 msgid "Download {app_name} {version_name} APK | APKPure.com"
@@ -2195,7 +2198,7 @@ msgstr "Android {0} XAPK indirin, tam versiyonu ve obb verisi ile birlikte."
 
 msgctxt "[\"meta\"][\"Category_featured\"][\"title\"]"
 msgid "Download {0} APK Android App Online - Free Pure APK Downloader"
-msgstr "{0} APK Android Uygulamasını İndirin -  Ücretsiz APK Downloader"
+msgstr "{0} APK Android Uygulamasını İndirin - Ücretsiz APK Downloader"
 
 msgctxt "[\"meta\"][\"Category_featured_editors-picks\"][\"title\"]"
 msgid "APKPure Editors' Picks for the best Android Games & Apps"
@@ -2473,7 +2476,7 @@ msgstr "{app_name} grubu, {app_short_name} uygulamasını nasıl kullanacağın�
 
 msgctxt "[\"meta\"][\"Hashtag\"][\"title\"]"
 msgid "Hashtag {hashtag} - APKPure"
-msgstr "Hashtag {hashtag} - APKPure"
+msgstr "Başlık etiketi {hashtag} - APKPure"
 
 msgctxt "[\"meta\"][\"Invit\"][\"title\"]"
 msgid "{user_name} add a post under {app_name} Discussion Group | APKPure Group"
@@ -2509,7 +2512,7 @@ msgstr "16+ için derecelendirilmiştir"
 
 msgctxt "[\"content_rating\"][\"Sex\"]"
 msgid "Sex"
-msgstr "Sex"
+msgstr "Seks"
 
 msgctxt "[\"content_rating\"][\"Everyone\"]"
 msgid "Everyone"
@@ -2722,19 +2725,22 @@ msgstr "XAPK (APK + OBB verileri) Dosyası, .XAPK Dosyası Nasıl Kurulur?"
 msgctxt "[\"xapk\"][\"SPLIT_APKS\"]"
 msgid "The XAPK (Base APK + Split APKs) File, How to Install .XAPK File?"
 msgstr ""
+"XAPK (Temel APK + Bölünmüş APK'ler) Dosyası, .XAPK Dosyası Nasıl Kurulur?"
 
 msgctxt "[\"xapk\"][\"APKs_AND_OBB\"]"
 msgid "The XAPK (Base APK + Split APKs + OBB data) File, How to Install .XAPK File?"
 msgstr ""
+"XAPK (Temel APK + Bölünmüş APK'ler + OBB verileri) Dosyası, .XAPK Dosyası "
+"Nasıl Kurulur?"
 
 msgctxt "[\"xapk\"][\"SEVERAL_VARIANTS\"]"
 msgid "This release comes in several variants,"
-msgstr ""
+msgstr "Bu sürümün birkaç çeşidi vardır,"
 
 msgctxt "[\"xapk\"][\"SEE_AVAILABLE_APKS\"]"
 msgid "See available APKs"
-msgstr ""
+msgstr "Mevcut APK'lara bakın"
 
 msgctxt "[\"xapk\"][\"VARIANTS\"]"
 msgid "This release comes in several variants, See available APKs"
-msgstr ""
+msgstr "Bu sürümün birkaç çeşidi vardır, Kullanılabilir APK'lara bakın"
