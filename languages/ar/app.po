@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-09-10 09:09+0000\n"
-"PO-Revision-Date: 2020-12-08 11:48+0000\n"
-"Last-Translator: صالح المحمود <szvzs4@gmail.com>\n"
+"PO-Revision-Date: 2020-12-26 19:42+0000\n"
+"Last-Translator: Georges Raad <raad.georges@outlook.com>\n"
 "Language-Team: Arabic <https://translate.apkpure.com/projects/apkpure/"
 "apkpurecom/ar/>\n"
 "Language: ar\n"
@@ -628,11 +628,11 @@ msgstr "الإصدارات السابقة"
 
 msgctxt "[\"VERSION-VERSIONS\"]"
 msgid "Versions"
-msgstr "الأصدارات"
+msgstr "الإصدارات"
 
 msgctxt "[\"VERSION-ALL-VERSIONS\"]"
 msgid "All Versions"
-msgstr "كل الأصدارات"
+msgstr "كل الإصدارات"
 
 msgctxt "[\"VERSION-REQUIRES_ANDROID\"]"
 msgid "Requires Android"
@@ -677,15 +677,15 @@ msgstr "جميع الإقتراحات"
 
 msgctxt "[\"COMMENT-REVIEWS_CURRENT\"]"
 msgid "Reviews in {0}:"
-msgstr ""
+msgstr "اقتراحات في {0}:"
 
 msgctxt "[\"COMMENT-REVIEWS_CURRENT_MOB\"]"
 msgid "In {0}:"
-msgstr ""
+msgstr "في {0}:"
 
 msgctxt "[\"COMMENT-REVIEW_OTHER_LANG\"]"
 msgid "There are {0} reviews in other languages"
-msgstr ""
+msgstr "يوجد {0} اقتراحات في لغات مختلفة"
 
 msgctxt "[\"COMMENT-ADD_NEW_DISCUSSION\"]"
 msgid "Add A New Discussion"
@@ -773,7 +773,7 @@ msgstr "الأحدث"
 
 msgctxt "[\"COMMENT-SORT_BY_MOST_SCORE\"]"
 msgid "Top rated"
-msgstr ""
+msgstr "أعلى التصنيفات"
 
 msgctxt "[\"COMMENT-SORT_BY_DEFAULT\"]"
 msgid "Sort by default"
@@ -857,7 +857,7 @@ msgstr ""
 
 msgctxt "[\"COMMENT-ERR_FAILURE\"]"
 msgid "Comment unknown"
-msgstr ""
+msgstr "تعليق غير معروف"
 
 msgctxt "[\"COMMENT-ERR_EMOJI\"]"
 msgid "Emoji comments are not allowed any more! Write something..."
@@ -877,7 +877,7 @@ msgstr ""
 
 msgctxt "[\"COMMENT-ERR_INVALID_VIDEO_URL\"]"
 msgid "Invalid Video URL"
-msgstr ""
+msgstr "عنوان رابط الفيديو غير صالح"
 
 msgctxt "[\"COMMENT-ERR_INVALID_REVIEW_USER\"]"
 msgid "To give your ratings, you need to verify your email."
@@ -909,11 +909,11 @@ msgstr "تعليق لوادينغ..."
 
 msgctxt "[\"COMMENT-DOWNLOAD_APK\"]"
 msgid "Download the APK file on APKPure."
-msgstr ""
+msgstr "قم بتحميل ملف APK على APKPure."
 
 msgctxt "[\"COMMENT-ERR_SHARE_APK_DENY\"]"
 msgid "This APP cannot be uploaded"
-msgstr ""
+msgstr "لا يمكن تحميل هذا التطبيق"
 
 msgctxt "[\"COMMENT-LINK\"]"
 msgid "Link"
@@ -933,7 +933,7 @@ msgstr ""
 
 msgctxt "[\"COMMENT-POST_COUNT\"]"
 msgid "Posts: {0}"
-msgstr ""
+msgstr "المشاركات: {0}"
 
 msgctxt "[\"PRE-REGISTER\"]"
 msgid "Pre-Registration Games"
@@ -1021,11 +1021,11 @@ msgstr ""
 
 msgctxt "[\"USER-LIKES\"]"
 msgid "Likes"
-msgstr ""
+msgstr "الإعجابات"
 
 msgctxt "[\"USER-POSTS\"]"
 msgid "Posts"
-msgstr ""
+msgstr "المشاركات"
 
 msgctxt "[\"USER-REVIEWS\"]"
 msgid "Reviews"
@@ -1041,7 +1041,7 @@ msgstr ""
 
 msgctxt "[\"USER-PROFILE\"]"
 msgid "Profile"
-msgstr ""
+msgstr "الملف الشخصي"
 
 msgctxt "[\"USER-CHANGE_PASSWORD\"]"
 msgid "Change Password"
@@ -1061,7 +1061,7 @@ msgstr ""
 
 msgctxt "[\"USER-NEW_PASSWORD\"]"
 msgid "New password"
-msgstr ""
+msgstr "كلمة مرور جديدة"
 
 msgctxt "[\"USER-CURRENT_PASSWORD\"]"
 msgid "Current password"
@@ -1093,11 +1093,11 @@ msgstr "اسم المستخدم الذي أدخلته غير صالح."
 
 msgctxt "[\"USER-INCORRECT_BIRTHDAY\"]"
 msgid "You have entered an invalid birthday."
-msgstr ""
+msgstr "لقد قمت بادخل تاريخ ميلاد غير صحيح."
 
 msgctxt "[\"USER-INCORRECT_INTRO\"]"
 msgid "Information you have entered contains invalid characters."
-msgstr ""
+msgstr "المعلومات التي أدخلتها تحتوي على أحرف غير صالحة."
 
 msgctxt "[\"USER-UNKNOWN_ERROR\"]"
 msgid "unknown mistake."
@@ -1105,7 +1105,7 @@ msgstr "خطأ غير معروف."
 
 msgctxt "[\"USER-DISABLE\"]"
 msgid "This account has been deleted"
-msgstr ""
+msgstr "تم حذف هذا الحساب"
 
 msgctxt "[\"USER-BAD_NAME\"]"
 msgid "Your input includes sensitive vocabulary."
@@ -1369,7 +1369,7 @@ msgstr "موضوعات مميزة"
 
 msgctxt "[\"SEARCH-NO_RESULTS\"]"
 msgid "Sorry, no results found."
-msgstr ""
+msgstr "عذرا ، لا توجد نتائج."
 
 msgctxt "[\"404-OOPS\"]"
 msgid "OOPS!,"
@@ -1509,7 +1509,7 @@ msgstr ""
 
 msgctxt "[\"FOOTER-REPORT_ABUSE\"]"
 msgid "Report abuse"
-msgstr ""
+msgstr "بلغ عن أي إساءة"
 
 msgctxt "[\"MARKET-PAGE_TOP_GAMES\"]"
 msgid "Top Games"
@@ -1664,7 +1664,7 @@ msgstr "يمكنك زيارة ألعاب وتطبيقات التالية بدل�
 
 msgctxt "[\"RECOMMENDED-POSTS\"]"
 msgid "Recommended Posts"
-msgstr ""
+msgstr "المشاركات المقترحة"
 
 msgctxt "[\"USERS-RECOMMENDED\"]"
 msgid "Users' Recommendations"
@@ -1672,7 +1672,7 @@ msgstr "المستخدمين الموصى بها"
 
 msgctxt "[\"UPLOAD-YOUR-APP\"]"
 msgid "Upload Your Application"
-msgstr ""
+msgstr "قم بتحميل التطبيق الخاص بك"
 
 msgctxt "[\"UPLOAD-APK-FILE\"]"
 msgid "Upload the apk file"
@@ -1716,7 +1716,7 @@ msgstr ""
 
 msgctxt "[\"LANGUAGE\"]"
 msgid "Language"
-msgstr ""
+msgstr "لغة"
 
 msgctxt "[\"LANGUAGE-KR\"]"
 msgid "Korean"
@@ -1800,7 +1800,7 @@ msgstr ""
 
 msgctxt "[\"REVIEW_PRIVACY_POLICY_BTN\"]"
 msgid "Ok I Agree"
-msgstr ""
+msgstr "حسنا اوافق"
 
 msgctxt "[\"REVIEW_PRIVACY_POLICY_MORE\"]"
 msgid "Learn More"
@@ -1808,11 +1808,11 @@ msgstr ""
 
 msgctxt "[\"MARKET-TOP_COUNTRY\"][\"en-US\"]"
 msgid "USA"
-msgstr ""
+msgstr "الولايات المتحدة الأمريكية"
 
 msgctxt "[\"MARKET-TOP_COUNTRY\"][\"ja\"]"
 msgid "Japan"
-msgstr ""
+msgstr "اليابان"
 
 msgctxt "[\"MARKET-TOP_COUNTRY\"][\"zh-CN\"]"
 msgid "China"
@@ -1820,15 +1820,15 @@ msgstr ""
 
 msgctxt "[\"MARKET-TOP_COUNTRY\"][\"ko-KR\"]"
 msgid "Korea"
-msgstr ""
+msgstr "كوريا"
 
 msgctxt "[\"MARKET-TOP_COUNTRY\"][\"id-ID\"]"
 msgid "Indonesia"
-msgstr ""
+msgstr "إندونيسيا"
 
 msgctxt "[\"MARKET-TOP_COUNTRY\"][\"pt-BR\"]"
 msgid "Brazil"
-msgstr ""
+msgstr "البرازيل"
 
 msgctxt "[\"error\"][\"DOWN-ItemNotFree\"]"
 msgid "Sorry, paid apps are not available to download with our APK Download Service."
@@ -1972,7 +1972,7 @@ msgstr ""
 
 msgctxt "[\"js\"][\"UPLOAD-LIMIT_SIZE\"]"
 msgid "The file size cannot exceed {0}."
-msgstr ""
+msgstr "لا يمكن أن يتجاوز حجم الملف {0}."
 
 msgctxt "[\"js\"][\"SIGN_VERIFY-OFFICIAL\"]"
 msgid "[Official] This {0} APK is the unmodified official version."
@@ -2379,7 +2379,7 @@ msgstr ""
 
 msgctxt "[\"meta\"][\"Login\"][\"title\"]"
 msgid "Sign in account for APKPure Android App Store"
-msgstr ""
+msgstr "تسجيل الدخول لحساب APKPure لمتجر تطبيقات أندرويد"
 
 msgctxt "[\"meta\"][\"Login\"][\"keywords\"]"
 msgid "login, new member, account, registration"
@@ -2499,7 +2499,7 @@ msgstr ""
 
 msgctxt "[\"content_rating\"][\"Unrated\"]"
 msgid "Unrated"
-msgstr ""
+msgstr "غير مصنف"
 
 msgctxt "[\"content_rating\"][\"Rated for 16+\"]"
 msgid "Rated for 16+"
@@ -2531,7 +2531,7 @@ msgstr ""
 
 msgctxt "[\"content_rating\"][\"Blood\"]"
 msgid "Blood"
-msgstr ""
+msgstr "دم"
 
 msgctxt "[\"content_rating\"][\"Mild Fantasy Violence\"]"
 msgid "Mild Fantasy Violence"
@@ -2647,7 +2647,7 @@ msgstr ""
 
 msgctxt "[\"content_rating\"][\"Nudity\"]"
 msgid "Nudity"
-msgstr ""
+msgstr "عري"
 
 msgctxt "[\"content_rating\"][\"Use of Drugs\"]"
 msgid "Use of Drugs"
@@ -2675,7 +2675,7 @@ msgstr ""
 
 msgctxt "[\"content_rating\"][\"Horror\"]"
 msgid "Horror"
-msgstr ""
+msgstr "رعب"
 
 msgctxt "[\"content_rating\"][\"Parental Guidance Recommended\"]"
 msgid "Parental Guidance Recommended"
