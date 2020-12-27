@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-09-10 09:09+0000\n"
-"PO-Revision-Date: 2020-12-27 21:02+0000\n"
+"PO-Revision-Date: 2020-12-27 23:07+0000\n"
 "Last-Translator: Georges Raad <raad.georges@outlook.com>\n"
 "Language-Team: Arabic <https://translate.apkpure.com/projects/apkpure/"
 "apkpurecom/ar/>\n"
@@ -673,7 +673,7 @@ msgstr "صباح الخير"
 
 msgctxt "[\"COMMENT-REVIEWS_TOTAL\"]"
 msgid "Total Reviews:"
-msgstr "جميع الإقتراحات"
+msgstr "جميع الاقتراحات:"
 
 msgctxt "[\"COMMENT-REVIEWS_CURRENT\"]"
 msgid "Reviews in {0}:"
@@ -853,7 +853,7 @@ msgstr ""
 
 msgctxt "[\"COMMENT-ERR_FORBIDDEN\"]"
 msgid "Permission denied"
-msgstr ""
+msgstr "الإذن مرفوض"
 
 msgctxt "[\"COMMENT-ERR_FAILURE\"]"
 msgid "Comment unknown"
@@ -865,7 +865,7 @@ msgstr ""
 
 msgctxt "[\"COMMENT-ERR_NONE_MESSAGE\"]"
 msgid "You must write something!"
-msgstr ""
+msgstr "يجب أن تكتب شيئًا!"
 
 msgctxt "[\"COMMENT-ERR_INVALID_PARAMETER\"]"
 msgid "Invalid comment parameter"
@@ -925,11 +925,11 @@ msgstr "علامة التصنيف غير موجودة"
 
 msgctxt "[\"COMMENT-HASHTAG\"]"
 msgid "Hashtag"
-msgstr ""
+msgstr "رابطة هاشتاغ"
 
 msgctxt "[\"COMMENT-FOLLOW_COUNT\"]"
 msgid "Followers: {0}"
-msgstr ""
+msgstr "المتابعون: {0}"
 
 msgctxt "[\"COMMENT-POST_COUNT\"]"
 msgid "Posts: {0}"
@@ -937,7 +937,7 @@ msgstr "المشاركات: {0}"
 
 msgctxt "[\"PRE-REGISTER\"]"
 msgid "Pre-Registration Games"
-msgstr ""
+msgstr "التسجيل المسبق للألعاب"
 
 msgctxt "[\"PRE-REGISTRANTS\"]"
 msgid "Pre-Registrants"
@@ -1644,7 +1644,7 @@ msgstr "أمريكا"
 
 msgctxt "[\"FLAG-Asia\"]"
 msgid "Asia"
-msgstr "أسيا"
+msgstr "آسيا"
 
 msgctxt "[\"FLAG-Europe\"]"
 msgid "Europe"
@@ -2571,7 +2571,7 @@ msgstr "مراجع عنيفة"
 
 msgctxt "[\"content_rating\"][\"Rated for 3+\"]"
 msgid "Rated for 3+"
-msgstr "تم تقييمه لـ 3+"
+msgstr "تم تقييمه ل 3+"
 
 msgctxt "[\"content_rating\"][\"Partial Nudity\"]"
 msgid "Partial Nudity"
@@ -2623,7 +2623,7 @@ msgstr "محتوى جنسي"
 
 msgctxt "[\"content_rating\"][\"Rated for 12+\"]"
 msgid "Rated for 12+"
-msgstr "تم تقييمه لـ 12+"
+msgstr "تم تقييمه ل 12+"
 
 msgctxt "[\"content_rating\"][\"Moderate Violence\"]"
 msgid "Moderate Violence"
@@ -2667,11 +2667,11 @@ msgstr "استخدام المخدرات والكحول"
 
 msgctxt "[\"content_rating\"][\"Rated for 7+\"]"
 msgid "Rated for 7+"
-msgstr "تم تقييمه لـ 7+"
+msgstr "تم تقييمه ل 7+"
 
 msgctxt "[\"content_rating\"][\"Implied Violence\"]"
 msgid "Implied Violence"
-msgstr ""
+msgstr "عنف ضمني"
 
 msgctxt "[\"content_rating\"][\"Horror\"]"
 msgid "Horror"
@@ -2679,19 +2679,19 @@ msgstr "رعب"
 
 msgctxt "[\"content_rating\"][\"Parental Guidance Recommended\"]"
 msgid "Parental Guidance Recommended"
-msgstr ""
+msgstr "ينصح بالإرشاد الأبوي"
 
 msgctxt "[\"content_rating\"][\"Sexual Violence\"]"
 msgid "Sexual Violence"
-msgstr ""
+msgstr "العنف الجنسي"
 
 msgctxt "[\"content_rating\"][\"Fear\"]"
 msgid "Fear"
-msgstr ""
+msgstr "خوف"
 
 msgctxt "[\"content_rating\"][\"Rated for 18+\"]"
 msgid "Rated for 18+"
-msgstr "تم تقييمه لـ 18+"
+msgstr "تم تقييمه ل 18+"
 
 msgctxt "[\"content_rating\"][\"Gambling\"]"
 msgid "Gambling"
@@ -2699,11 +2699,11 @@ msgstr "القمار"
 
 msgctxt "[\"content_rating\"][\"Extreme Violence\"]"
 msgid "Extreme Violence"
-msgstr ""
+msgstr "عنف شديد"
 
 msgctxt "[\"content_rating\"][\"Use of Alcohol/Tobacco\"]"
 msgid "Use of Alcohol/Tobacco"
-msgstr ""
+msgstr "تعاطي الكحول/التبغ"
 
 msgctxt "[\"content_rating\"][\"Drugs\"]"
 msgid "Drugs"
@@ -2727,12 +2727,12 @@ msgstr ""
 
 msgctxt "[\"xapk\"][\"SEVERAL_VARIANTS\"]"
 msgid "This release comes in several variants,"
-msgstr ""
+msgstr "يتضمن هذا الإصدار عدة أشكال،"
 
 msgctxt "[\"xapk\"][\"SEE_AVAILABLE_APKS\"]"
 msgid "See available APKs"
-msgstr "عرض التطبيقات المتاحة"
+msgstr "عرض تطبيقات الAPKs المتاحة"
 
 msgctxt "[\"xapk\"][\"VARIANTS\"]"
 msgid "This release comes in several variants, See available APKs"
-msgstr ""
+msgstr "يتضمن هذا الإصدار بعدة أشكال، انظر لملفات الAPK المتوفرة"
