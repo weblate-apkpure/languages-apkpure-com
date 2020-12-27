@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-09-10 09:09+0000\n"
-"PO-Revision-Date: 2020-12-26 19:42+0000\n"
+"PO-Revision-Date: 2020-12-27 21:02+0000\n"
 "Last-Translator: Georges Raad <raad.georges@outlook.com>\n"
 "Language-Team: Arabic <https://translate.apkpure.com/projects/apkpure/"
 "apkpurecom/ar/>\n"
@@ -1057,7 +1057,7 @@ msgstr ""
 
 msgctxt "[\"USER-LIKED_COMMENTS\"]"
 msgid "Liked Comments"
-msgstr ""
+msgstr "التعليقات التي نالت اعجابا"
 
 msgctxt "[\"USER-NEW_PASSWORD\"]"
 msgid "New password"
@@ -2495,7 +2495,7 @@ msgstr ""
 
 msgctxt "[\"content_rating\"][\"Teen\"]"
 msgid "Teen"
-msgstr ""
+msgstr "مراهق"
 
 msgctxt "[\"content_rating\"][\"Unrated\"]"
 msgid "Unrated"
@@ -2503,31 +2503,31 @@ msgstr "غير مصنف"
 
 msgctxt "[\"content_rating\"][\"Rated for 16+\"]"
 msgid "Rated for 16+"
-msgstr ""
+msgstr "تم تقييمه ل 16+"
 
 msgctxt "[\"content_rating\"][\"Sex\"]"
 msgid "Sex"
-msgstr ""
+msgstr "جنس"
 
 msgctxt "[\"content_rating\"][\"Everyone\"]"
 msgid "Everyone"
-msgstr ""
+msgstr "كل شخص"
 
 msgctxt "[\"content_rating\"][\"Simulated Gambling\"]"
 msgid "Simulated Gambling"
-msgstr ""
+msgstr "القمار الصوري"
 
 msgctxt "[\"content_rating\"][\"Everyone 10+\"]"
 msgid "Everyone 10+"
-msgstr ""
+msgstr "كل شخص 10+"
 
 msgctxt "[\"content_rating\"][\"Fantasy Violence\"]"
 msgid "Fantasy Violence"
-msgstr ""
+msgstr "عنف خيالي"
 
 msgctxt "[\"content_rating\"][\"Violence\"]"
 msgid "Violence"
-msgstr ""
+msgstr "عنف"
 
 msgctxt "[\"content_rating\"][\"Blood\"]"
 msgid "Blood"
@@ -2535,7 +2535,7 @@ msgstr "دم"
 
 msgctxt "[\"content_rating\"][\"Mild Fantasy Violence\"]"
 msgid "Mild Fantasy Violence"
-msgstr ""
+msgstr "عنف خيالي معتدل"
 
 msgctxt "[\"content_rating\"][\"Suggestive Themes\"]"
 msgid "Suggestive Themes"
@@ -2543,11 +2543,11 @@ msgstr ""
 
 msgctxt "[\"content_rating\"][\"Mature 17+\"]"
 msgid "Mature 17+"
-msgstr ""
+msgstr "البالغ 17+"
 
 msgctxt "[\"content_rating\"][\"Drug and Alcohol Reference\"]"
 msgid "Drug and Alcohol Reference"
-msgstr ""
+msgstr "مراجع للمخدرات والكحول"
 
 msgctxt "[\"content_rating\"][\"Blood and Gore\"]"
 msgid "Blood and Gore"
@@ -2555,27 +2555,27 @@ msgstr ""
 
 msgctxt "[\"content_rating\"][\"Crude Humor\"]"
 msgid "Crude Humor"
-msgstr ""
+msgstr "فكاهة فذة"
 
 msgctxt "[\"content_rating\"][\"Alcohol Reference\"]"
 msgid "Alcohol Reference"
-msgstr ""
+msgstr "مراجع للكحول"
 
 msgctxt "[\"content_rating\"][\"Alcohol and Tobacco Reference\"]"
 msgid "Alcohol and Tobacco Reference"
-msgstr ""
+msgstr "مرجع للكحول والتبغ"
 
 msgctxt "[\"content_rating\"][\"Violent References\"]"
 msgid "Violent References"
-msgstr ""
+msgstr "مراجع عنيفة"
 
 msgctxt "[\"content_rating\"][\"Rated for 3+\"]"
 msgid "Rated for 3+"
-msgstr ""
+msgstr "تم تقييمه لـ 3+"
 
 msgctxt "[\"content_rating\"][\"Partial Nudity\"]"
 msgid "Partial Nudity"
-msgstr ""
+msgstr "العري الجزئي"
 
 msgctxt "[\"content_rating\"][\"Comic Mischief\"]"
 msgid "Comic Mischief"
@@ -2587,7 +2587,7 @@ msgstr ""
 
 msgctxt "[\"content_rating\"][\"Intense Violence\"]"
 msgid "Intense Violence"
-msgstr ""
+msgstr "عنف شديد"
 
 msgctxt "[\"content_rating\"][\"Drug Reference\"]"
 msgid "Drug Reference"
@@ -2607,43 +2607,43 @@ msgstr ""
 
 msgctxt "[\"content_rating\"][\"Mild Blood\"]"
 msgid "Mild Blood"
-msgstr ""
+msgstr "مشهد دموي خفيف"
 
 msgctxt "[\"content_rating\"][\"Mild Violence\"]"
 msgid "Mild Violence"
-msgstr ""
+msgstr "عنف بسيط"
 
 msgctxt "[\"content_rating\"][\"Tobacco Reference\"]"
 msgid "Tobacco Reference"
-msgstr ""
+msgstr "مرجع للتبغ"
 
 msgctxt "[\"content_rating\"][\"Sexual Content\"]"
 msgid "Sexual Content"
-msgstr ""
+msgstr "محتوى جنسي"
 
 msgctxt "[\"content_rating\"][\"Rated for 12+\"]"
 msgid "Rated for 12+"
-msgstr ""
+msgstr "تم تقييمه لـ 12+"
 
 msgctxt "[\"content_rating\"][\"Moderate Violence\"]"
 msgid "Moderate Violence"
-msgstr ""
+msgstr "عنف معتدل"
 
 msgctxt "[\"content_rating\"][\"Sexual Innuendo\"]"
 msgid "Sexual Innuendo"
-msgstr ""
+msgstr "تلميح جنسي"
 
 msgctxt "[\"content_rating\"][\"Use of Alcohol and Tobacco\"]"
 msgid "Use of Alcohol and Tobacco"
-msgstr ""
+msgstr "تعاطي الكحول والتبغ"
 
 msgctxt "[\"content_rating\"][\"Strong Violence\"]"
 msgid "Strong Violence"
-msgstr ""
+msgstr "عنف شديد"
 
 msgctxt "[\"content_rating\"][\"Mild Swearing\"]"
 msgid "Mild Swearing"
-msgstr ""
+msgstr "شتائم معتدلة"
 
 msgctxt "[\"content_rating\"][\"Nudity\"]"
 msgid "Nudity"
@@ -2651,23 +2651,23 @@ msgstr "عري"
 
 msgctxt "[\"content_rating\"][\"Use of Drugs\"]"
 msgid "Use of Drugs"
-msgstr ""
+msgstr "استخدام المخدرات"
 
 msgctxt "[\"content_rating\"][\"Adults only 18+\"]"
 msgid "Adults only 18+"
-msgstr ""
+msgstr "للبالغين فقط 18+"
 
 msgctxt "[\"content_rating\"][\"Strong Sexual Content\"]"
 msgid "Strong Sexual Content"
-msgstr ""
+msgstr "محتوى جنسي قوي"
 
 msgctxt "[\"content_rating\"][\"Use of Drugs and Alcohol\"]"
 msgid "Use of Drugs and Alcohol"
-msgstr ""
+msgstr "استخدام المخدرات والكحول"
 
 msgctxt "[\"content_rating\"][\"Rated for 7+\"]"
 msgid "Rated for 7+"
-msgstr ""
+msgstr "تم تقييمه لـ 7+"
 
 msgctxt "[\"content_rating\"][\"Implied Violence\"]"
 msgid "Implied Violence"
@@ -2691,11 +2691,11 @@ msgstr ""
 
 msgctxt "[\"content_rating\"][\"Rated for 18+\"]"
 msgid "Rated for 18+"
-msgstr ""
+msgstr "تم تقييمه لـ 18+"
 
 msgctxt "[\"content_rating\"][\"Gambling\"]"
 msgid "Gambling"
-msgstr ""
+msgstr "القمار"
 
 msgctxt "[\"content_rating\"][\"Extreme Violence\"]"
 msgid "Extreme Violence"
@@ -2707,7 +2707,7 @@ msgstr ""
 
 msgctxt "[\"content_rating\"][\"Drugs\"]"
 msgid "Drugs"
-msgstr ""
+msgstr "مخدرات"
 
 msgctxt "[\"content_rating\"][\"Mild Language\"]"
 msgid "Mild Language"
