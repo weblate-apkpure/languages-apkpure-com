@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-09-10 09:09+0000\n"
-"PO-Revision-Date: 2020-12-27 23:07+0000\n"
-"Last-Translator: Georges Raad <raad.georges@outlook.com>\n"
+"PO-Revision-Date: 2021-01-05 02:24+0000\n"
+"Last-Translator: عنياد عنياد <osama7900897@gmail.com>\n"
 "Language-Team: Arabic <https://translate.apkpure.com/projects/apkpure/"
 "apkpurecom/ar/>\n"
 "Language: ar\n"
@@ -17,7 +17,7 @@ msgstr ""
 
 msgctxt "[\"NAV-GAME\"]"
 msgid "GAMES"
-msgstr "GAMES"
+msgstr "Wifi"
 
 msgctxt "[\"NAV-APP\"]"
 msgid "APPS"
@@ -159,6 +159,7 @@ msgctxt "[\"HOT\"]"
 msgid "Hot"
 msgstr "الأكثر استخدام"
 
+#, fuzzy
 msgctxt "[\"ATTACHMENT\"]"
 msgid "Attachment"
 msgstr "مرفق"
@@ -664,7 +665,7 @@ msgstr "دقة الشاشة"
 
 msgctxt "[\"VARIANT-ARCH\"]"
 msgid "Arch"
-msgstr "100000000٠0000000000000000000000000000000000000000000000"
+msgstr "قوس"
 
 #, fuzzy
 msgctxt "[\"VARIANT-DPI\"]"
@@ -869,11 +870,13 @@ msgstr "يجب أن تكتب شيئًا!"
 
 msgctxt "[\"COMMENT-ERR_INVALID_PARAMETER\"]"
 msgid "Invalid comment parameter"
-msgstr ""
+msgstr "مقياس التعليق غير صالح"
 
 msgctxt "[\"COMMENT-ERR_INVALID_USER\"]"
 msgid "You're banned from APKPure by using or posting content containing nudity images. Please edit or remove the images before contacting Admin to restore your account."
 msgstr ""
+"تم منعك من APKPure لاستخدامك أو لنشرك محتوى يتضمن صور عُري. يرجى منك تعديل "
+"أو إزالة الصور قبل الاتصال بالإدارة لاستعادة حسابك."
 
 msgctxt "[\"COMMENT-ERR_INVALID_VIDEO_URL\"]"
 msgid "Invalid Video URL"
@@ -941,23 +944,23 @@ msgstr "التسجيل المسبق للألعاب"
 
 msgctxt "[\"PRE-REGISTRANTS\"]"
 msgid "Pre-Registrants"
-msgstr ""
+msgstr "المسجلين مسبقا"
 
 msgctxt "[\"PRE-REGISTER_DETAILS\"]"
 msgid "Pre-Register Details"
-msgstr ""
+msgstr "تفاصيل التسجيل المسبق"
 
 msgctxt "[\"PRE-REGISTER_DATE\"]"
 msgid "Release Date"
-msgstr ""
+msgstr "تاريخ النشر"
 
 msgctxt "[\"PRE-REGISTER_REWARDS\"]"
 msgid "Register Rewards"
-msgstr ""
+msgstr "تسجيل المكافآت"
 
 msgctxt "[\"PRE-REGISTER_PAGE\"]"
 msgid "Pre-Register Page"
-msgstr ""
+msgstr "صفحة التسجيل المسبق"
 
 msgctxt "[\"HASHTAG\"]"
 msgid "HASHTAG"
@@ -977,19 +980,19 @@ msgstr "أكثر"
 
 msgctxt "[\"USER-SETTINGS\"]"
 msgid "Settings"
-msgstr ""
+msgstr "إعدادات"
 
 msgctxt "[\"USER-INFO_ALL\"]"
 msgid "All"
-msgstr ""
+msgstr "الكل"
 
 msgctxt "[\"USER-INFO_REVIEW\"]"
 msgid "Review"
-msgstr ""
+msgstr "تقييم"
 
 msgctxt "[\"USER-INFO_STORY\"]"
 msgid "Story"
-msgstr ""
+msgstr "قصة"
 
 msgctxt "[\"USER-SAY_SOMETHING\"]"
 msgid "Why do you want to delete this account?"
@@ -997,15 +1000,15 @@ msgstr ""
 
 msgctxt "[\"USER-A_PRIVATE_ACCOUNT\"]"
 msgid "It's a private account."
-msgstr ""
+msgstr "ان هذا الحساب خاص."
 
 msgctxt "[\"USER-PRIVACY_SETTING\"]"
 msgid "Privacy Settings"
-msgstr ""
+msgstr "إعدادات الخصوصية"
 
 msgctxt "[\"USER-PRIVATE_ACCOUNT\"]"
 msgid "Private Account"
-msgstr ""
+msgstr "حساب خاص"
 
 msgctxt "[\"USER-DELETE_ACCOUNT\"]"
 msgid "Delete your account and information"
@@ -1029,7 +1032,7 @@ msgstr "المشاركات"
 
 msgctxt "[\"USER-REVIEWS\"]"
 msgid "Reviews"
-msgstr ""
+msgstr "تقييمات"
 
 msgctxt "[\"USER-REVIEWS_NONE\"]"
 msgid "Too few users ratings"
@@ -1065,7 +1068,7 @@ msgstr "كلمة مرور جديدة"
 
 msgctxt "[\"USER-CURRENT_PASSWORD\"]"
 msgid "Current password"
-msgstr ""
+msgstr "كلمة المرور الحالية"
 
 msgctxt "[\"USER-ACCOUNT_EXIST\"]"
 msgid "The username is already in use."
