@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-10-04 02:53+0000\n"
-"PO-Revision-Date: 2020-11-21 20:26+0000\n"
-"Last-Translator: Karim Abdallah <kimospprt@gmail.com>\n"
+"PO-Revision-Date: 2021-01-15 22:55+0000\n"
+"Last-Translator: مقاطع فيديو قصيره ومتنوعة <alomaaloma229@gmail.com>\n"
 "Language-Team: Arabic (Egypt) <https://translate.apkpure.com/projects/"
 "apkpure/apkpurecom/ar_EG/>\n"
 "Language: ar_EG\n"
@@ -13,7 +13,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 "
 "&& n%100<=10 ? 3 : n%100>=11 ? 4 : 5;\n"
-"X-Generator: Weblate 4.2.2\n"
+"X-Generator: Weblate 4.3.2\n"
 
 msgctxt "[\"NAV-GAME\"]"
 msgid "GAMES"
@@ -662,65 +662,71 @@ msgctxt "[\"COMMENT-JOIN_GROUP\"]"
 msgid "Join Group"
 msgstr ""
 
+#, fuzzy
 msgctxt "[\"COMMENT-GROUP\"]"
 msgid "Group"
-msgstr ""
+msgstr "مجموعه"
 
+#, fuzzy
 msgctxt "[\"COMMENT-TITLE_POST\"]"
 msgid "Post"
-msgstr ""
+msgstr "بريد"
 
 msgctxt "[\"COMMENT-ADD\"]"
 msgid "Add Comment"
-msgstr ""
+msgstr "أضف تعليق"
 
+#, fuzzy
 msgctxt "[\"COMMENT-ALL-REPLY\"]"
 msgid "All {0} replies"
-msgstr ""
+msgstr "كل الردود"
 
+#, fuzzy
 msgctxt "[\"COMMENT-VIEWS\"]"
 msgid "Views"
-msgstr ""
+msgstr "مشاهده"
 
+#, fuzzy
 msgctxt "[\"COMMENT-COLLAPSED\"]"
 msgid "comment collapsed"
-msgstr ""
+msgstr "انهار التعليق"
 
+#, fuzzy
 msgctxt "[\"COMMENT-REVIEW_OR_POST\"]"
 msgid "Post review or comment"
-msgstr ""
+msgstr "مراجعة أو تعليق"
 
 msgctxt "[\"COMMENT-REPLY\"]"
 msgid "Reply"
-msgstr ""
+msgstr "الرد"
 
 msgctxt "[\"COMMENT-NAME\"]"
 msgid "Name"
-msgstr ""
+msgstr "اسم"
 
 msgctxt "[\"COMMENT-EMAIL\"]"
 msgid "Email"
-msgstr ""
+msgstr "البريد الإلكتروني"
 
 msgctxt "[\"COMMENT-SORT_BY_OLDEST\"]"
 msgid "Oldest"
-msgstr ""
+msgstr "الأقدم"
 
 msgctxt "[\"COMMENT-SORT_BY_BEST\"]"
 msgid "Best"
-msgstr ""
+msgstr "الأفضل"
 
 msgctxt "[\"COMMENT-SORT_BY_BEST_LONG\"]"
 msgid "Sort by best"
-msgstr ""
+msgstr "فرز حسب الأفضل"
 
 msgctxt "[\"COMMENT-SORT_BY_MOST_RECENT\"]"
 msgid "Most Recent"
-msgstr ""
+msgstr "الأحدث"
 
 msgctxt "[\"COMMENT-SORT_BY_MOST_SCORE\"]"
 msgid "Top rated"
-msgstr ""
+msgstr "أعلى التقييمات"
 
 msgctxt "[\"COMMENT-SORT_BY_DEFAULT\"]"
 msgid "Sort by default"
