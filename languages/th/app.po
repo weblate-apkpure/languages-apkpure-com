@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-09-09 05:10+0000\n"
-"PO-Revision-Date: 2021-01-12 02:56+0000\n"
-"Last-Translator: Tunk Modify <tunkmodifyby77@gmail.com>\n"
+"PO-Revision-Date: 2021-01-18 01:05+0000\n"
+"Last-Translator: Chananchita Raksachub <s_keng_9422@hotmail.com>\n"
 "Language-Team: Thai <https://translate.apkpure.com/projects/apkpure/"
 "apkpurecom/th/>\n"
 "Language: th\n"
@@ -38,10 +38,9 @@ msgctxt "[\"NAV-NEW_GAME\"]"
 msgid "NEW GAME"
 msgstr "เกมใหม่ล่าสุด"
 
-#, fuzzy
 msgctxt "[\"NAV-NEW_APP\"]"
 msgid "NEW APP"
-msgstr "แอพใหม่ล่าสุด"
+msgstr "แอพใหม่ล่าสุดเปลี่ยนภาษาให้ทีโว้ยยยยยยย"
 
 #, fuzzy
 msgctxt "[\"NAV-XAPK_GAME\"]"
