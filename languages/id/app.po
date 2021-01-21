@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-09-19 07:41+0000\n"
-"PO-Revision-Date: 2020-12-08 11:48+0000\n"
-"Last-Translator: Neiva Indana <neivaindana@gmail.com>\n"
+"PO-Revision-Date: 2021-01-21 08:23+0000\n"
+"Last-Translator: Anonymous Anonymous <hello.itsme.puak@gmail.com>\n"
 "Language-Team: Indonesian <https://translate.apkpure.com/projects/apkpure/"
 "apkpurecom/id/>\n"
 "Language: id\n"
@@ -100,7 +100,7 @@ msgstr "Pilih Bahasa"
 
 msgctxt "[\"EDITORS_CHOICE\"]"
 msgid "Editor's Choice"
-msgstr ""
+msgstr "Pilihan Editor"
 
 msgctxt "[\"FREE\"]"
 msgid "Free"
@@ -136,7 +136,7 @@ msgstr "Apl"
 
 msgctxt "[\"MORE\"]"
 msgid "More"
-msgstr "Lebih Lanjut"
+msgstr "Selengkapnya"
 
 msgctxt "[\"XAPK-GAMES\"]"
 msgid "XAPK Games"
@@ -158,10 +158,9 @@ msgctxt "[\"HOT\"]"
 msgid "Hot"
 msgstr "Terbaik"
 
-#, fuzzy
 msgctxt "[\"ATTACHMENT\"]"
 msgid "Attachment"
-msgstr "Attachment"
+msgstr "Lampiran"
 
 msgctxt "[\"DOWNLOADS\"]"
 msgid "Downloads"
@@ -177,7 +176,7 @@ msgstr ""
 
 msgctxt "[\"POPULAR\"]"
 msgid "Popular"
-msgstr ""
+msgstr "Populer"
 
 msgctxt "[\"CATEGORY\"]"
 msgid "Category"
@@ -193,7 +192,7 @@ msgstr "Tampilkan Selengkapnya"
 
 msgctxt "[\"SHOW_LESS\"]"
 msgid "Show less"
-msgstr "Tampilkan sedikit"
+msgstr "Lebih sedikit"
 
 msgctxt "[\"HAVE_PRODUCTS\"]"
 msgid "All {0} Apps"
@@ -205,7 +204,7 @@ msgstr "Pengembang"
 
 msgctxt "[\"UPLOADER\"]"
 msgid "Uploaded by"
-msgstr ""
+msgstr "Diunggah oleh"
 
 msgctxt "[\"POPULAR_GAMES_IN_LAST_HOURS\"]"
 msgid "Popular Games In Last {0} Hours"
@@ -241,19 +240,19 @@ msgstr "Komentar"
 
 msgctxt "[\"NOT_FOUND\"]"
 msgid "Not Found"
-msgstr ""
+msgstr "Tidak Ditemukan"
 
 msgctxt "[\"REASON\"]"
 msgid "Reason"
-msgstr ""
+msgstr "Alasan"
 
 msgctxt "[\"LATEST_UPDATE_GAMES\"]"
 msgid "Latest Update Games"
-msgstr "Permainan Terbaharui"
+msgstr "Permainan Diperbarui"
 
 msgctxt "[\"LATEST_UPDATE_APPS\"]"
 msgid "Latest Update Apps"
-msgstr "Aplikasi Terbaharui"
+msgstr "Aplikasi Diperbarui"
 
 msgctxt "[\"LATEST_UPDATE\"]"
 msgid "Latest Update"
@@ -269,15 +268,15 @@ msgstr "Paling Populer Hari Ini"
 
 msgctxt "[\"SIMILAR_OR_RELATED\"]"
 msgid "Similar Or Related"
-msgstr "Persis atau Terkait"
+msgstr "Serupa"
 
 msgctxt "[\"INDEX-TITLE\"]"
 msgid "Download free Android Games and Android Apps."
-msgstr "Unduh gratis Permainan Android dan Aplikasi Android."
+msgstr "Unduh Permainan dan Aplikasi Android secara gratis."
 
 msgctxt "[\"INDEX-MOBILE_TITLE\"]"
 msgid "Download free Android Games and Apps."
-msgstr "Unduh gratis Permainan Android dan Aplikasi"
+msgstr "Unduh Permainan dan Aplikasi secara gratis."
 
 msgctxt "[\"INDEX-HOW_TO_DOWNLOAD\"]"
 msgid "How to download apk files?"
@@ -285,7 +284,7 @@ msgstr "Bagaimana cara mengunduh berkas apk?"
 
 msgctxt "[\"INDEX-FAQ\"]"
 msgid "FAQ"
-msgstr ""
+msgstr "Sering Ditanyakan"
 
 msgctxt "[\"INDEX-POPULAR_CATEGORIES\"]"
 msgid "Popular categories"
@@ -301,11 +300,11 @@ msgstr "Kode verifikasi"
 
 msgctxt "[\"VERIFICATION_INCORRECT\"]"
 msgid "The verification code is incorrect!"
-msgstr "Kode verifikasi tidak benar!"
+msgstr "Kode verifikasi salah!"
 
 msgctxt "[\"VERIFICATION_DOWN\"]"
 msgid "Enter the code(s) as you see in the image, then click \"Download\"."
-msgstr ""
+msgstr "Masukkan kode yang terlihat pada gambar, selanjutnya klik \"Unduh\"."
 
 msgctxt "[\"TOPICS\"]"
 msgid "Topics"
@@ -313,23 +312,23 @@ msgstr "Topik"
 
 msgctxt "[\"MORE-TOPICS\"]"
 msgid "More Topics"
-msgstr ""
+msgstr "Topik Lainnya"
 
 msgctxt "[\"TAG\"]"
 msgid "Tag {0}"
-msgstr ""
+msgstr "Menandai {0}"
 
 msgctxt "[\"BROWSING_TAG\"]"
 msgid "Browsing {0}"
-msgstr ""
+msgstr "Meramban {0}"
 
 msgctxt "[\"ADDITIONAL_INFORMATION\"]"
 msgid "Additional Information"
-msgstr ""
+msgstr "Informasi Tambahan"
 
 msgctxt "[\"SIMILAR_TO\"]"
 msgid "Similar to {0}"
-msgstr "Mirip dengan {0}"
+msgstr "Serupa dengan {0}"
 
 msgctxt "[\"CANCEL\"]"
 msgid "Cancel"
@@ -341,11 +340,11 @@ msgstr "Memperbarui"
 
 msgctxt "[\"SUBMIT\"]"
 msgid "Submit"
-msgstr ""
+msgstr "Kirim"
 
 msgctxt "[\"SUBMITTING\"]"
 msgid "Submitting..."
-msgstr ""
+msgstr "Mengirimkan..."
 
 msgctxt "[\"DEV-ICON_SIZE_ERROR\"]"
 msgid "You need to resize your high-res icon. The required dimensions are 512px * 512px."
@@ -401,23 +400,23 @@ msgstr ""
 
 msgctxt "[\"UPLOAD-FAILED\"]"
 msgid "File upload failed. (Error code: 10001)"
-msgstr ""
+msgstr "Unggah berkas gagal. (Galat kode: 10001)"
 
 msgctxt "[\"UPLOAD-PARSING_FAILED\"]"
 msgid "File parsing failed. (Error code: 10002)"
-msgstr ""
+msgstr "Parsing berkas gagal. (Galat kode: 10002)"
 
 msgctxt "[\"DETAIL\"]"
 msgid "Detail"
-msgstr ""
+msgstr "Detail"
 
 msgctxt "[\"DETAIL-HOT_TAGS\"]"
 msgid "{0} Tags"
-msgstr ""
+msgstr "{0} Tanda"
 
 msgctxt "[\"DETAIL-MAIGHT_LIKE\"]"
 msgid "You Might Also Like"
-msgstr ""
+msgstr "Anda Mungkin Juga Suka"
 
 msgctxt "[\"DETAIL-PAID_GAME\"]"
 msgid "Paid Game"
@@ -441,11 +440,11 @@ msgstr "Mengapa kami bisa menjamin APK 100% aman?"
 
 msgctxt "[\"DETAIL-SAFE\"]"
 msgid "Verification passed"
-msgstr "Verifikasi disahkan"
+msgstr "Verifikasi berhasil"
 
 msgctxt "[\"DETAIL-XAPK_SHORT_DES\"]"
 msgid "XAPK is APK with OBB data, Click to get XAPK Installer"
-msgstr "XAPK adalah APK dengan data OBB, klik untuk mendapatkan XAPK Installer"
+msgstr "XAPK adalah APK dengan data OBB, Klik untuk mendapatkan XAPK Installer"
 
 msgctxt "[\"DETAIL-MOBILE_XAPK_SHORT_DES\"]"
 msgid "Click to get XAPK Installer"
@@ -477,19 +476,19 @@ msgstr "Laporkan"
 
 msgctxt "[\"DETAIL-FLAG_AS_INAPPROPRIATE\"]"
 msgid "Flag as inappropriate"
-msgstr "Tandai sebagai hal yang tak patut"
+msgstr "Tandai sebagai tidak pantas"
 
 msgctxt "[\"DETAIL-VOTES\"]"
 msgid "votes"
-msgstr "memilih"
+msgstr "suara"
 
 msgctxt "[\"DETAIL-THE_DESCRIPTION\"]"
 msgid "The description of {0}"
-msgstr "Penjabaran dari {0}"
+msgstr "Tentang {0}"
 
 msgctxt "[\"DETAIL-OFFICIAL_TRAILER\"]"
 msgid "{0} for Android official Trailer"
-msgstr "{0} untuk Trailer Android resmi"
+msgstr "{0} untuk Cuplikan Android resmi"
 
 msgctxt "[\"DETAIL-VERSION\"]"
 msgid "Version"
@@ -497,7 +496,7 @@ msgstr "Versi"
 
 msgctxt "[\"DETAIL-UPDATE_ON\"]"
 msgid "Update on"
-msgstr "Update pada"
+msgstr "Diperbarui"
 
 msgctxt "[\"DETAIL-SIGNATURE\"]"
 msgid "Signature"
@@ -517,7 +516,7 @@ msgstr "Berkas XAPK SHA1"
 
 msgctxt "[\"DETAIL-WHATS_NEW\"]"
 msgid "What's new"
-msgstr "Apa yang terbaru"
+msgstr "Apa yang baru"
 
 msgctxt "[\"DETAIL-VERSION_HISTORY\"]"
 msgid "Version History"
@@ -525,31 +524,31 @@ msgstr "Riwayat Versi"
 
 msgctxt "[\"DETAIL-MORE_FROM_DEVELOPER\"]"
 msgid "More From Developer"
-msgstr "Selebihnya Dari Pengembang"
+msgstr "Tentang Pengembang"
 
 msgctxt "[\"DETAIL-MORE_FROM\"]"
 msgid "More From {0}"
-msgstr "Selebihnya Dari {0}"
+msgstr "Lainnya oleh {0}"
 
 msgctxt "[\"DETAIL-FOLLOW_UPDATES\"]"
 msgid "Follow Updates"
-msgstr "Ikuti Pembaharuan"
+msgstr "Ikuti Pembaruan"
 
 msgctxt "[\"DETAIL-REQUEST_UPDATE\"]"
 msgid "Request Update"
-msgstr "Permintaan Pembaharuan"
+msgstr "Minta Pembaruan"
 
 msgctxt "[\"DETAIL-RATING\"]"
 msgid "{votes} votes, average: {rating_average} out of {rating_best}"
-msgstr "{votes} memilih, pukul rata: {rating_average} dari {rating_best}"
+msgstr "{votes} suara, rata-rata: {rating_average} dari {rating_best}"
 
 msgctxt "[\"DETAIL-RATING1\"]"
 msgid "average: {rating_average} out of {rating_best}"
-msgstr "pukul rata: {rating_average} dari {rating_best}"
+msgstr "rata-rata: {rating_average} dari {rating_best}"
 
 msgctxt "[\"DETAIL-MORE_DEVELOPER\"]"
 msgid "Get more from {0}"
-msgstr "Mendapatkan lebih banyak dari {0}"
+msgstr "Dapatkan lebih banyak dari {0}"
 
 msgctxt "[\"DETAIL-REMOVED\"]"
 msgid "Removed"
@@ -565,11 +564,11 @@ msgstr "{0} APLIKASI"
 
 msgctxt "[\"DETAIL-VERSION_LOAD_MORE\"]"
 msgid "Load more"
-msgstr "Memuat lebih"
+msgstr "Muat lebih"
 
 msgctxt "[\"DETAIL-VERSION_MORE\"]"
 msgid "More..."
-msgstr "Selebihnya…"
+msgstr "Selengkapnya..."
 
 msgctxt "[\"DETAIL-TRANSLATE\"]"
 msgid "Translate"
@@ -585,7 +584,7 @@ msgstr "Pasang di iTunes"
 
 msgctxt "[\"DETAIL-MORE_DOWNLOAD\"]"
 msgid "More Download Locations:"
-msgstr "Lokasi Unduh Selebihnya:"
+msgstr "Tempat Unduh Lainnya:"
 
 msgctxt "[\"DETAIL-DELETED_COPYRIGHT_GOOGLE_PLAY_URL\"]"
 msgid "Download on Google Play"
@@ -601,11 +600,11 @@ msgstr "Mengunduh"
 
 msgctxt "[\"DETAIL_DOWNLOAD-FAST_DOWNLOADING\"]"
 msgid "Fast Downloading"
-msgstr ""
+msgstr "Mengunduh Cepat"
 
 msgctxt "[\"DETAIL_DOWNLOAD-FAST_DOWNLOADING_DES\"]"
 msgid "How \"Fast Download\" works?"
-msgstr ""
+msgstr "Cara kerja \"Unduhan Cepat\""
 
 msgctxt "[\"DETAIL_DOWNLOAD-DOWNLOADING_DES\"]"
 msgid "If the download doesn't start,"
@@ -617,7 +616,7 @@ msgstr "klik di sini"
 
 msgctxt "[\"DETAIL_DOWNLOAD-HOW_TO_INSTALL_APK\"]"
 msgid "How to install APK / XAPK file"
-msgstr "Bagaimana cara memasang berkas APK / XAPK"
+msgstr "Cara memasang berkas APK / XAPK"
 
 msgctxt "[\"VERSION-PREVIOUS\"]"
 msgid "Previous versions"
@@ -625,11 +624,11 @@ msgstr "Versi sebelumnya"
 
 msgctxt "[\"VERSION-VERSIONS\"]"
 msgid "Versions"
-msgstr ""
+msgstr "Versi"
 
 msgctxt "[\"VERSION-ALL-VERSIONS\"]"
 msgid "All Versions"
-msgstr ""
+msgstr "Semua Versi"
 
 msgctxt "[\"VERSION-REQUIRES_ANDROID\"]"
 msgid "Requires Android"
@@ -653,7 +652,7 @@ msgstr ""
 
 msgctxt "[\"VARIANT-MINIMUM\"]"
 msgid "Minimum Version"
-msgstr ""
+msgstr "Versi Minimal"
 
 msgctxt "[\"VARIANT-SCREEN_DPI\"]"
 msgid "Screen DPI"
@@ -669,11 +668,11 @@ msgstr ""
 
 msgctxt "[\"COMMENT-REVIEWS_TOTAL\"]"
 msgid "Total Reviews:"
-msgstr ""
+msgstr "Jumlah Ulasan:"
 
 msgctxt "[\"COMMENT-REVIEWS_CURRENT\"]"
 msgid "Reviews in {0}:"
-msgstr ""
+msgstr "Ulasan berbahasa {0}:"
 
 msgctxt "[\"COMMENT-REVIEWS_CURRENT_MOB\"]"
 msgid "In {0}:"
@@ -681,11 +680,11 @@ msgstr ""
 
 msgctxt "[\"COMMENT-REVIEW_OTHER_LANG\"]"
 msgid "There are {0} reviews in other languages"
-msgstr ""
+msgstr "{0} ulasan dalam bahasa lain"
 
 msgctxt "[\"COMMENT-ADD_NEW_DISCUSSION\"]"
 msgid "Add A New Discussion"
-msgstr "Tambahkan Diskusi Baru"
+msgstr "Tambah Diskusi Baru"
 
 msgctxt "[\"COMMENT-REPLIES\"]"
 msgid "Replies"
@@ -701,7 +700,7 @@ msgstr "Lihat semua diskusi"
 
 msgctxt "[\"COMMENT-SEE_ALL_DISCUSSIONS\"]"
 msgid "See all {0} discussions"
-msgstr "Lihat semua {0} diskusi"
+msgstr "Lihat semua diskusi {0}"
 
 msgctxt "[\"COMMENT-JOIN_IN_GROUP\"]"
 msgid "Join {0} group"
@@ -713,11 +712,11 @@ msgstr "Bergabung dengan grup"
 
 msgctxt "[\"COMMENT-GROUP\"]"
 msgid "Group"
-msgstr "Kelompok"
+msgstr "Grup"
 
 msgctxt "[\"COMMENT-TITLE_POST\"]"
 msgid "Post"
-msgstr ""
+msgstr "Kiriman"
 
 msgctxt "[\"COMMENT-ADD\"]"
 msgid "Add Comment"
@@ -725,7 +724,7 @@ msgstr "Tambahkan komentar"
 
 msgctxt "[\"COMMENT-ALL-REPLY\"]"
 msgid "All {0} replies"
-msgstr "Semua {0} balasan"
+msgstr "Tampilkan {0} balasan"
 
 msgctxt "[\"COMMENT-VIEWS\"]"
 msgid "Views"
@@ -733,11 +732,11 @@ msgstr "Tampilan"
 
 msgctxt "[\"COMMENT-COLLAPSED\"]"
 msgid "comment collapsed"
-msgstr ""
+msgstr "komentar diciutkan"
 
 msgctxt "[\"COMMENT-REVIEW_OR_POST\"]"
 msgid "Post review or comment"
-msgstr ""
+msgstr "Kirim ulasan atau komentar"
 
 msgctxt "[\"COMMENT-REPLY\"]"
 msgid "Reply"
@@ -749,19 +748,19 @@ msgstr "Nama"
 
 msgctxt "[\"COMMENT-EMAIL\"]"
 msgid "Email"
-msgstr "E-mail"
+msgstr "Surel"
 
 msgctxt "[\"COMMENT-SORT_BY_OLDEST\"]"
 msgid "Oldest"
-msgstr "Urut dari yang Terlama"
+msgstr "Terlama"
 
 msgctxt "[\"COMMENT-SORT_BY_BEST\"]"
 msgid "Best"
-msgstr "Urut dari yang terbaik"
+msgstr "Paling relevan"
 
 msgctxt "[\"COMMENT-SORT_BY_BEST_LONG\"]"
 msgid "Sort by best"
-msgstr "Urut dari yang terbaik"
+msgstr "Paling relevan"
 
 msgctxt "[\"COMMENT-SORT_BY_MOST_RECENT\"]"
 msgid "Most Recent"
@@ -769,7 +768,7 @@ msgstr "Terbaru"
 
 msgctxt "[\"COMMENT-SORT_BY_MOST_SCORE\"]"
 msgid "Top rated"
-msgstr ""
+msgstr "Rating teratas"
 
 msgctxt "[\"COMMENT-SORT_BY_DEFAULT\"]"
 msgid "Sort by default"
@@ -777,11 +776,11 @@ msgstr "Urutkan secara default"
 
 msgctxt "[\"COMMENT-RATING_REQUIRED\"]"
 msgid "Rating required"
-msgstr "Perlu nilai bintang"
+msgstr "Rating diperlukan"
 
 msgctxt "[\"COMMENT-GUEST\"]"
 msgid "Guest"
-msgstr "tamu"
+msgstr "Tamu"
 
 msgctxt "[\"COMMENT-START_THE_DISCUSSION\"]"
 msgid "Start the discussion…"
@@ -797,7 +796,7 @@ msgstr "Komentar tidak boleh kosong."
 
 msgctxt "[\"COMMENT-POST_AS_GUEST\"]"
 msgid "Post As a Guest"
-msgstr "Posting Sebagai Tamu"
+msgstr "Kirim Sebagai Tamu"
 
 msgctxt "[\"COMMENT-LOGOUT\"]"
 msgid "Logout"
@@ -817,15 +816,15 @@ msgstr "Memilih"
 
 msgctxt "[\"COMMENT-LIKE\"]"
 msgid "Like"
-msgstr ""
+msgstr "Suka"
 
 msgctxt "[\"COMMENT-ERR_QUICK_LOGIN\"]"
 msgid "Quick login error, please try again."
-msgstr ""
+msgstr "Kesalahan masuk cepat, coba lagi."
 
 msgctxt "[\"COMMENT-ERR_EMAIL_NAME\"]"
 msgid "Incorrect mail or name"
-msgstr ""
+msgstr "Surel atau nama salah"
 
 msgctxt "[\"COMMENT-ERR_DISCUSSION\"]"
 msgid "Incorrect in discussion"
@@ -833,55 +832,58 @@ msgstr ""
 
 msgctxt "[\"COMMENT-ERR_RATE\"]"
 msgid "Vote failed, repeated"
-msgstr ""
+msgstr "Vote gagal, mengulangi"
 
 msgctxt "[\"COMMENT-ERR_SENSITIVE_WORD\"]"
 msgid "Comment failed, your post contains sensitive terms."
-msgstr "Defeat,your post contains sensitive terms"
+msgstr "Komentar gagal, kiriman Anda mengandung istilah sensitif."
 
 msgctxt "[\"COMMENT-ERR_SENSITIVE_WORD_AUDIT\"]"
 msgid "Your post contains sensitive terms and is pending approval by an admin"
-msgstr ""
+msgstr "Kiriman Anda mengandung istilah sensitif dan menunggu persetujuan admin"
 
 msgctxt "[\"COMMENT-ERR_LINK_AUDIT\"]"
 msgid "Your post contains link and is pending approval by an admin"
-msgstr ""
+msgstr "Kiriman Anda mengandung pranala dan menunggu persetujuan admin"
 
 msgctxt "[\"COMMENT-ERR_FORBIDDEN\"]"
 msgid "Permission denied"
-msgstr ""
+msgstr "Izin ditolak"
 
 msgctxt "[\"COMMENT-ERR_FAILURE\"]"
 msgid "Comment unknown"
-msgstr ""
+msgstr "Komentar tidak diketahui"
 
 msgctxt "[\"COMMENT-ERR_EMOJI\"]"
 msgid "Emoji comments are not allowed any more! Write something..."
-msgstr ""
+msgstr "Komentar emoji tidak diperbolehkan lagi! Tulis sesuatu..."
 
 msgctxt "[\"COMMENT-ERR_NONE_MESSAGE\"]"
 msgid "You must write something!"
-msgstr ""
+msgstr "Anda harus menulis sesuatu!"
 
 msgctxt "[\"COMMENT-ERR_INVALID_PARAMETER\"]"
 msgid "Invalid comment parameter"
-msgstr ""
+msgstr "Parameter komentar tidak valid"
 
 msgctxt "[\"COMMENT-ERR_INVALID_USER\"]"
 msgid "You're banned from APKPure by using or posting content containing nudity images. Please edit or remove the images before contacting Admin to restore your account."
 msgstr ""
+"Anda ditangguhkan dari APKPure karena menggunakan atau memposting konten "
+"yang mengandung gambar telanjang. Harap sunting atau hapus gambar sebelum "
+"menghubungi Admin untuk memulihkan akun Anda."
 
 msgctxt "[\"COMMENT-ERR_INVALID_VIDEO_URL\"]"
 msgid "Invalid Video URL"
-msgstr ""
+msgstr "Tautan Video Tidak Valid"
 
 msgctxt "[\"COMMENT-ERR_INVALID_REVIEW_USER\"]"
 msgid "To give your ratings, you need to verify your email."
-msgstr "Untuk memberikan peringkat Anda, Anda perlu memverifikasi email Anda."
+msgstr "Untuk dapat memberikan rating, Surel Anda perlu diverifikasi."
 
 msgctxt "[\"COMMENT-DELETE\"]"
 msgid "Yes,delete it!"
-msgstr "Ya, menghapusnya!"
+msgstr "Ya, hapus saja!"
 
 msgctxt "[\"COMMENT-DELETED\"]"
 msgid "Deleted!"
@@ -889,211 +891,211 @@ msgstr "Dihapus!"
 
 msgctxt "[\"COMMENT-SAME_TEXT\"]"
 msgid "The text is the same, please post it later."
-msgstr "Teksnya sama, silakan posting nanti."
+msgstr "Mwngandung kesamaan tulisan, posting lagi nanti."
 
 msgctxt "[\"COMMENT-DEL\"]"
 msgid "Delete"
-msgstr "Menghapus"
+msgstr "Hapus"
 
 msgctxt "[\"COMMENT-ARE_YOU_SURE\"]"
 msgid "Are you sure?"
-msgstr "Apakah Anda yakin?"
+msgstr "Anda yakin?"
 
 msgctxt "[\"COMMENT-LOADING\"]"
 msgid "Comment Loading..."
-msgstr "Komentar Loading..."
+msgstr "Memuat Komentar..."
 
 msgctxt "[\"COMMENT-DOWNLOAD_APK\"]"
 msgid "Download the APK file on APKPure."
-msgstr ""
+msgstr "Unduh berkas APK di APKPure"
 
 msgctxt "[\"COMMENT-ERR_SHARE_APK_DENY\"]"
 msgid "This APP cannot be uploaded"
-msgstr ""
+msgstr "APL ini tidak dapat diunggah"
 
 msgctxt "[\"COMMENT-LINK\"]"
 msgid "Link"
-msgstr ""
+msgstr "Tautan"
 
 msgctxt "[\"COMMENT-HASHTAG_NOT_EXIST\"]"
 msgid "The hashtag does not exist"
-msgstr "Hashtag tidak ada"
+msgstr "Tagar tidak tersedia"
 
 msgctxt "[\"COMMENT-HASHTAG\"]"
 msgid "Hashtag"
-msgstr ""
+msgstr "Tagar"
 
 msgctxt "[\"COMMENT-FOLLOW_COUNT\"]"
 msgid "Followers: {0}"
-msgstr ""
+msgstr "Pengikut: {0}"
 
 msgctxt "[\"COMMENT-POST_COUNT\"]"
 msgid "Posts: {0}"
-msgstr ""
+msgstr "Kiriman: {0}"
 
 msgctxt "[\"PRE-REGISTER\"]"
 msgid "Pre-Registration Games"
-msgstr ""
+msgstr "Game Pradaftar"
 
 msgctxt "[\"PRE-REGISTRANTS\"]"
 msgid "Pre-Registrants"
-msgstr ""
+msgstr "Prapendaftar"
 
 msgctxt "[\"PRE-REGISTER_DETAILS\"]"
 msgid "Pre-Register Details"
-msgstr ""
+msgstr "Tentang Pradaftar"
 
 msgctxt "[\"PRE-REGISTER_DATE\"]"
 msgid "Release Date"
-msgstr ""
+msgstr "Tanggal Rilis"
 
 msgctxt "[\"PRE-REGISTER_REWARDS\"]"
 msgid "Register Rewards"
-msgstr ""
+msgstr "Hadiah Pendaftaran"
 
 msgctxt "[\"PRE-REGISTER_PAGE\"]"
 msgid "Pre-Register Page"
-msgstr ""
+msgstr "Halaman Pradaftar"
 
 msgctxt "[\"HASHTAG\"]"
 msgid "HASHTAG"
-msgstr "Topik"
+msgstr "TAGAR"
 
 msgctxt "[\"HOT_HASHTAG\"]"
 msgid "Featured Hashtags"
-msgstr "Topik Unggulan"
+msgstr "Tagar Unggulan"
 
 msgctxt "[\"COOL_COMMENT\"]"
 msgid "Cool Comment"
-msgstr "Komentar yang luar biasa"
+msgstr "Komentar Keren"
 
 msgctxt "[\"MORE_COOL_COMMENTS\"]"
 msgid "More cool comments"
-msgstr "Lebih banyak lagi"
+msgstr "Komentar keren lainnya"
 
 msgctxt "[\"USER-SETTINGS\"]"
 msgid "Settings"
-msgstr ""
+msgstr "Pengaturan"
 
 msgctxt "[\"USER-INFO_ALL\"]"
 msgid "All"
-msgstr ""
+msgstr "Semua"
 
 msgctxt "[\"USER-INFO_REVIEW\"]"
 msgid "Review"
-msgstr ""
+msgstr "Ulasan"
 
 msgctxt "[\"USER-INFO_STORY\"]"
 msgid "Story"
-msgstr ""
+msgstr "Cerita"
 
 msgctxt "[\"USER-SAY_SOMETHING\"]"
 msgid "Why do you want to delete this account?"
-msgstr ""
+msgstr "Kenapa ingin mengapus akun ini?"
 
 msgctxt "[\"USER-A_PRIVATE_ACCOUNT\"]"
 msgid "It's a private account."
-msgstr ""
+msgstr "Akun ini bersifat pribadi"
 
 msgctxt "[\"USER-PRIVACY_SETTING\"]"
 msgid "Privacy Settings"
-msgstr ""
+msgstr "Pengaturan Privasi"
 
 msgctxt "[\"USER-PRIVATE_ACCOUNT\"]"
 msgid "Private Account"
-msgstr ""
+msgstr "Akun Pribadi"
 
 msgctxt "[\"USER-DELETE_ACCOUNT\"]"
 msgid "Delete your account and information"
-msgstr ""
+msgstr "Hapus akun dan informasi Anda"
 
 msgctxt "[\"USER-FOLLOWING\"]"
 msgid "Following"
-msgstr ""
+msgstr "Mengikuti"
 
 msgctxt "[\"USER-FOLLOWER\"]"
 msgid "Followers"
-msgstr ""
+msgstr "Pengikut"
 
 msgctxt "[\"USER-LIKES\"]"
 msgid "Likes"
-msgstr ""
+msgstr "Suka"
 
 msgctxt "[\"USER-POSTS\"]"
 msgid "Posts"
-msgstr ""
+msgstr "Kiriman"
 
 msgctxt "[\"USER-REVIEWS\"]"
 msgid "Reviews"
-msgstr ""
+msgstr "Ulasan"
 
 msgctxt "[\"USER-REVIEWS_NONE\"]"
 msgid "Too few users ratings"
-msgstr ""
+msgstr "Rating pengguna terlalu sedikit"
 
 msgctxt "[\"USER-FAVORITES\"]"
 msgid "Favorites"
-msgstr ""
+msgstr "Favorit"
 
 msgctxt "[\"USER-PROFILE\"]"
 msgid "Profile"
-msgstr ""
+msgstr "Profil"
 
 msgctxt "[\"USER-CHANGE_PASSWORD\"]"
 msgid "Change Password"
-msgstr ""
+msgstr "Ubah Kata Sandi"
 
 msgctxt "[\"USER-MESSAGES\"]"
 msgid "Messages"
-msgstr ""
+msgstr "Pesan"
 
 msgctxt "[\"USER-MY_FAVORITE\"]"
 msgid "My Favorite"
-msgstr ""
+msgstr "Favorit Saya"
 
 msgctxt "[\"USER-LIKED_COMMENTS\"]"
 msgid "Liked Comments"
-msgstr ""
+msgstr "Komentar Disukai"
 
 msgctxt "[\"USER-NEW_PASSWORD\"]"
 msgid "New password"
-msgstr ""
+msgstr "Kata Sandi Baru"
 
 msgctxt "[\"USER-CURRENT_PASSWORD\"]"
 msgid "Current password"
-msgstr ""
+msgstr "Kata Sandi saat ini"
 
 msgctxt "[\"USER-ACCOUNT_EXIST\"]"
 msgid "The username is already in use."
-msgstr "username sudah digunakan."
+msgstr "Nama pengguna telah digunakan."
 
 msgctxt "[\"USER-ACCOUNT_NOT_EXIST\"]"
 msgid "The account you entered does not exist."
-msgstr "Akun Anda masukkan tidak ada."
+msgstr "Akun yang Anda masukkan tidak ada."
 
 msgctxt "[\"USER-DISPLAY_NAME_EXIST\"]"
 msgid "The nickname is already in use."
-msgstr "Julukan ini sudah digunakan."
+msgstr "Nama panggilan telah digunakan."
 
 msgctxt "[\"USER-INCORRECT_EMAIL\"]"
 msgid "The e-mail address you entered is invalid."
-msgstr "Alamat e-mail Anda masukkan tidak valid."
+msgstr "Alamat surel salah."
 
 msgctxt "[\"USER-INCORRECT_PASSWORD\"]"
 msgid "The password you entered is invalid."
-msgstr "Sandi Anda masukkan tidak sah."
+msgstr "Kata Sandi salah."
 
 msgctxt "[\"USER-INCORRECT_ACCOUNT\"]"
 msgid "The username you entered is invalid."
-msgstr "Nama pengguna yang dimasukkan tidak valid."
+msgstr "Nama pengguna salah."
 
 msgctxt "[\"USER-INCORRECT_BIRTHDAY\"]"
 msgid "You have entered an invalid birthday."
-msgstr ""
+msgstr "Tanggal lahir tidak valid"
 
 msgctxt "[\"USER-INCORRECT_INTRO\"]"
 msgid "Information you have entered contains invalid characters."
-msgstr ""
+msgstr "Informasi yang Anda masukkan mengandung karakter tidak valid"
 
 msgctxt "[\"USER-UNKNOWN_ERROR\"]"
 msgid "unknown mistake."
@@ -1101,7 +1103,7 @@ msgstr "Kesalahan tidak diketahui."
 
 msgctxt "[\"USER-DISABLE\"]"
 msgid "This account has been deleted"
-msgstr ""
+msgstr "Akun telah terhapus"
 
 msgctxt "[\"USER-BAD_NAME\"]"
 msgid "Your input includes sensitive vocabulary."
@@ -1113,43 +1115,43 @@ msgstr ""
 
 msgctxt "[\"USER-EMAIL_EXIST\"]"
 msgid "This email has been connected to another account."
-msgstr ""
+msgstr "Surel ini telah terhubung dengan akun lain."
 
 msgctxt "[\"USER-SEND_EMAIL_ERR\"]"
 msgid "Failed to send verification code."
-msgstr ""
+msgstr "Gagal mengirimkan kode verifikasi."
 
 msgctxt "[\"USER-EMAIL_UNBOUND\"]"
 msgid "This email address is not connected to any account."
-msgstr ""
+msgstr "Alamat surel ini tidak terhubung dengan akun lain."
 
 msgctxt "[\"USER-CAPTCHA_TIME_OUT\"]"
 msgid "Verification Code Timeout."
-msgstr ""
+msgstr "Batas Waktu Kode Verifikasi Habis."
 
 msgctxt "[\"USER-INCORRECT_CAPTCHA\"]"
 msgid "Incorrect Verification Code"
-msgstr ""
+msgstr "Kode Verifikasi Salah"
 
 msgctxt "[\"USER-SEND_VERIFICATION_CODE\"]"
 msgid "Send verification code"
-msgstr ""
+msgstr "Kirim kode verifikasi"
 
 msgctxt "[\"USER-SEND_CODE\"]"
 msgid "Send Code"
-msgstr ""
+msgstr "Kirim Kode"
 
 msgctxt "[\"USER-CONNECT_YOUR_EMAIL\"]"
 msgid "Connect your email"
-msgstr "Sambungkan pos-el Anda"
+msgstr "Hubungkan surel Anda"
 
 msgctxt "[\"USER-CHANGE_EMAIL\"]"
 msgid "Change email"
-msgstr "Ubah pos-el"
+msgstr "Ubah surel"
 
 msgctxt "[\"USER-CONNECT_YOUR_EMAIL_FIRST\"]"
 msgid "Please connect your email first"
-msgstr "Koneksikan pos-el Anda terlebih dahulu"
+msgstr "Hubungkan surel Anda terlebih dahulu"
 
 msgctxt "[\"USER-FEMALE\"]"
 msgid "Female"
@@ -1161,7 +1163,7 @@ msgstr "Pria"
 
 msgctxt "[\"USER-USER_LOGIN\"]"
 msgid "User Login"
-msgstr "Login pengguna"
+msgstr "Login Pengguna"
 
 msgctxt "[\"USER-USERNAME\"]"
 msgid "Username"
@@ -1181,19 +1183,19 @@ msgstr "Jenis kelamin"
 
 msgctxt "[\"USER-SAVE\"]"
 msgid "Save"
-msgstr "Menyimpan"
+msgstr "Simpan"
 
 msgctxt "[\"USER-SAVE_BTN\"]"
 msgid "SAVE"
-msgstr ""
+msgstr "SIMPAN"
 
 msgctxt "[\"USER-SAVING\"]"
 msgid "Saving..."
-msgstr "Penghematan..."
+msgstr "Menyimpan..."
 
 msgctxt "[\"USER-MY_PICTURE\"]"
 msgid "My Picture"
-msgstr "Gambarku"
+msgstr "Gambar Saya"
 
 msgctxt "[\"USER-CHANGE_PICTURE\"]"
 msgid "Change Picture"
@@ -1233,19 +1235,27 @@ msgstr "Daftar"
 
 msgctxt "[\"USER-CONFIRM_PASSWORD\"]"
 msgid "Confirm Password"
-msgstr "konfirmasi sandi"
+msgstr "Konfirmasi Sandi"
 
 msgctxt "[\"USER-TERMS_SERVICE\"]"
 msgid "By signing up you agree to our <a href='/terms-service.html' target='_blank'>terms of service</a>"
-msgstr "Dengan mendaftar, Anda menyetujui <a href='terms-service.html' target='_blank'>persyaratan layanan</a> kami."
+msgstr ""
+"Dengan mendaftar, Anda setuju dengan <a href='terms-service.html' "
+"target='_blank'>persyaratan layanan</a> kami."
 
 msgctxt "[\"REGION_DOWN-TITLE\"]"
 msgid "Region free APK download"
-msgstr "Wilayah gratis mengunduh APK"
+msgstr "Unduhan APK wilayah gratis"
 
 msgctxt "[\"REGION_DOWN-DES\"]"
 msgid "- Download your favorite Android Apps with APK Downloader (Free Apps Only).<br>- Your download will begin automatically after you paste a package id and click the download button.<br>- Download failed? Please manually change country setting and try again.<br>- Want to tell us more about your problems? <a style='color:#FFFF00' href='contact-us.html'>Contact us here</a>"
-msgstr "-  Unduh Aplikasi Android favorit anda dengan Pengunduh APK (Free Apps Only).<br>- Unduhan anda akan dimulai secara otomatis setelah anda menyisipkan id paket.<br>- Unduhan gagal? Silahkan ganti secara manual pengaturan negara anda dan coba lagi.<br>- Ingin beritahu kami lebih lanjut mengenai masalah anda? <a style='color:#FFFF00' href='contact-us.html'>Kontak kami disini</a>"
+msgstr ""
+"-  Unduh Aplikasi Android favorit anda dengan Pengunduh APK (Hanya Apl "
+"Gratis).<br>- Unduhan anda akan dimulai secara otomatis setelah anda "
+"menyisipkan id paket.<br>- Unduhan gagal? Silahkan ganti secara manual "
+"pengaturan negara anda dan coba lagi.<br>- Ingin beritahu kami lebih lanjut "
+"mengenai masalah anda? <a style='color:#FFFF00' href='contact-"
+"us.html'>Hubungi kami</a>"
 
 msgctxt "[\"REGION_DOWN-PLACEHOLDER\"]"
 msgid "com.facebook.katana or https://play.google.com...?id=com.facebook.katana"
@@ -1257,51 +1267,54 @@ msgstr "Cari"
 
 msgctxt "[\"REGION_DOWN-COUNTRY_NAME\"]"
 msgid "Country name or Region code"
-msgstr "Nama negeri atau kode wiyalah"
+msgstr "Nama negara atau Kode wilayah"
 
 msgctxt "[\"REGION_DOWN-MOBILE_TITLE\"]"
 msgid "APK Downloader"
-msgstr ""
+msgstr "Pengunduh APK"
 
 msgctxt "[\"REGION_DOWN-MOBILE_DES\"]"
 msgid "All Region Games and Apps Download."
-msgstr "Semua wilayah permainan dan App Download."
+msgstr "Semua Game Wilayah dan Unduh Aplikasi."
 
 msgctxt "[\"LAST_DOWNLOAD\"]"
 msgid "Last Download"
-msgstr "Download terakhir"
+msgstr "Pengunduhan Terakhir"
 
 msgctxt "[\"SIGN_VERIFY-TITLE\"]"
 msgid "Signature Verification Online"
-msgstr "Verifikasi tanda tangan Online"
+msgstr "Verifikasi Tanda Tangan Online"
 
 msgctxt "[\"SIGN_VERIFY-CLICK_UPLOAD\"]"
 msgid "Click Upload APK file"
-msgstr "Klik file APK"
+msgstr "Klik Unggah berkas APK"
 
 msgctxt "[\"SIGN_VERIFY-MAXIMUM\"]"
 msgid "Maximum file size"
-msgstr "Ukuran file maksimum"
+msgstr "Ukuran berkas maksimum"
 
 msgctxt "[\"SIGN_VERIFY-DES\"]"
 msgid "APK Signature verification will verify Android app package signature to keep Android users away from potentially harmful APK files before APK installing."
-msgstr "Verifikasi tanda tangan APK akan verifikasi tanda tangan paket app  Android agar pengguna Android dari file APK yang berpotensi berbahaya sebelum menginstal APK."
+msgstr ""
+"Verifikasi Tanda Tangan APK akan memverifikasi tanda tangan paket aplikasi "
+"Android untuk menjauhkan pengguna Android dari berkas APK yang berpotensi "
+"berbahaya sebelum menginstal APK."
 
 msgctxt "[\"SIGN_VERIFY-PACKAGE_NAME\"]"
 msgid "Package Name"
-msgstr "Nama paket"
+msgstr "Nama Paket"
 
 msgctxt "[\"SIGN_VERIFY-FILE_SIZE\"]"
 msgid "File Size"
-msgstr "Ukuran file"
+msgstr "Ukuran Berkas"
 
 msgctxt "[\"SEARCH-ON_THE_APP_STORE\"]"
 msgid "{0} On the App Store"
-msgstr ""
+msgstr "{0} Di App Store"
 
 msgctxt "[\"SEARCH-ADVANCED_SEARCH\"]"
 msgid "Advanced Search"
-msgstr "Pencarian lanjutan"
+msgstr "Pencarian Lanjutan"
 
 msgctxt "[\"SEARCH-SEARCH_RESULTS\"]"
 msgid "{0} search results found."
@@ -1309,11 +1322,11 @@ msgstr "{0} hasil pencarian ditemukan."
 
 msgctxt "[\"SEARCH-NO_RESULTS_FOUND\"]"
 msgid "No results found? Try to advanced search again."
-msgstr "Hasil tidak ditemukan? Coba cari lagi."
+msgstr "Hasil tidak ditemukan? Coba pencarian lanjutan."
 
 msgctxt "[\"SEARCH-SELECT_REGION\"]"
 msgid "Select a region you want to search with"
-msgstr "Pilih wilayah Anda ingin mencari dengan"
+msgstr "Pilih wilayah yang ingin Anda cari"
 
 msgctxt "[\"SEARCH-ABOUT_RESULTS\"]"
 msgid "About {0} results"
@@ -1329,7 +1342,7 @@ msgstr "Cari…"
 
 msgctxt "[\"SEARCH-PLACEHOLDER3\"]"
 msgid "Name Or Package Name"
-msgstr "Nama atau nama paket"
+msgstr "Nama atau Nama Paket"
 
 msgctxt "[\"SEARCH-TITLE\"]"
 msgid "Enter App Name, Package Name, Package ID"
@@ -1341,15 +1354,15 @@ msgstr "Cari APK"
 
 msgctxt "[\"SEARCH-APP\"]"
 msgid "Search App"
-msgstr ""
+msgstr "Cari Apl"
 
 msgctxt "[\"SEARCH-TRENDING\"]"
 msgid "Trending searches"
-msgstr "Pencarian trending"
+msgstr "Pencarian aktual"
 
 msgctxt "[\"SEARCH-HISTORY\"]"
 msgid "Search history"
-msgstr "Sejarah pencarian"
+msgstr "Riwayat pencarian"
 
 msgctxt "[\"SEARCH-FEATURED_HASHTAG\"]"
 msgid "Featured hashtags"
@@ -1361,15 +1374,15 @@ msgstr "Pengguna"
 
 msgctxt "[\"SEARCH-TAB_HASHTAGS\"]"
 msgid "Hashtags"
-msgstr "Topik Unggulan"
+msgstr "Tagar"
 
 msgctxt "[\"SEARCH-NO_RESULTS\"]"
 msgid "Sorry, no results found."
-msgstr ""
+msgstr "Maaf, tidak ditemukan hasil."
 
 msgctxt "[\"404-OOPS\"]"
 msgid "OOPS!,"
-msgstr ""
+msgstr "OOPS!,"
 
 msgctxt "[\"404-Error_404\"]"
 msgid "Error 404!"
@@ -1377,15 +1390,17 @@ msgstr "Kesalahan 404!"
 
 msgctxt "[\"PRE-REG-RECOMMEND\"]"
 msgid "Recommendations"
-msgstr ""
+msgstr "Rekomendasi"
 
 msgctxt "[\"404-DES\"]"
 msgid "It seems that page you are looking for no longer exists.<br />You can explore more Android Games and Apps below!"
-msgstr "Tampaknya halaman yang Anda cari tidak lagi ada. <br /> Anda dapat menjelajahi lebih banyak id Android permainan dan app!"
+msgstr ""
+"Tampaknya halaman yang Anda cari tidak ada lagi. <br /> Anda dapat "
+"menjelajahi lebih banyak Game dan Aplikasi Android di bawah ini!"
 
 msgctxt "[\"FREQUENTLY-VISITED\"]"
 msgid "Your operation is too frequent. Please try again in {time} minutes."
-msgstr "Operasi Anda terlalu sering. Silakan coba lagi dalam {time} menit"
+msgstr "Operasi Anda terlalu sering. Coba lagi dalam {time} menit"
 
 msgctxt "[\"COPYRIGHT\"]"
 msgid "Copyright © 2014-2020 APKPure All rights reserved."
@@ -1393,19 +1408,19 @@ msgstr "Hak cipta © 2014-2020 APKPure. Milik semua Hak."
 
 msgctxt "[\"COPYRIGHT_MOBILE\"]"
 msgid "APKPure.com © 2014-2020"
-msgstr ""
+msgstr "APKPure.com © 2014-2020"
 
 msgctxt "[\"COMING_SOON\"]"
 msgid "COMING SOON"
-msgstr "Segera datang"
+msgstr "SEGERA HADIR"
 
 msgctxt "[\"SEARCHING\"]"
 msgid "Searching..."
-msgstr "Cari..."
+msgstr "Mencari..."
 
 msgctxt "[\"FOOTER-APK_DOWNLOADS_SEO\"]"
 msgid "APK Downloads"
-msgstr "APK Download"
+msgstr "Pengunduh APK"
 
 msgctxt "[\"FOOTER-APK_DOWNLOAD\"]"
 msgid "APK Downloader (Region free)"
@@ -1461,15 +1476,15 @@ msgstr "Hubungi kami"
 
 msgctxt "[\"FOOTER-ABOUT\"]"
 msgid "About Us"
-msgstr "Tentang kita"
+msgstr "Tentang Kami"
 
 msgctxt "[\"FOOTER-UPLOAD-APK\"]"
 msgid "Submit APK"
-msgstr ""
+msgstr "Kirim APK"
 
 msgctxt "[\"FOOTER-SOLUTIONS\"]"
 msgid "SOLUTIONS"
-msgstr "SOLUSI"
+msgstr "PEMECAHAN MASALAH"
 
 msgctxt "[\"FOOTER-CUSTOMER_SERVICE\"]"
 msgid "CUSTOMER SERVICE"
@@ -1485,11 +1500,11 @@ msgstr "APP ANDROID TERBAIK"
 
 msgctxt "[\"FOOTER-TOP_ANDROID_GAMES\"]"
 msgid "TOP ANDROID GAMES"
-msgstr "PERMAINAN ANDROID PERMAINAN TERBAIK"
+msgstr "GAME ANDROID TERBAIK"
 
 msgctxt "[\"FOOTER-TRANSLATE\"]"
 msgid "Help translate APKPure"
-msgstr "Membantu menerjemahkan APKPure"
+msgstr "Bantu terjemahkan APKPure"
 
 msgctxt "[\"FOOTER-DEVELOPER\"]"
 msgid "Submit Your App"
@@ -1497,27 +1512,27 @@ msgstr "Kirim app Anda"
 
 msgctxt "[\"FOOTER-DEVELOPER_CONSOLE\"]"
 msgid "Developer Console"
-msgstr ""
+msgstr "Konsol Pengembang"
 
 msgctxt "[\"FOOTER-COOPERATION\"]"
 msgid "Business Cooperation"
-msgstr "Kerjasama bisnis"
+msgstr "Kerjasama Bisnis"
 
 msgctxt "[\"FOOTER-REPORT_ABUSE\"]"
 msgid "Report abuse"
-msgstr ""
+msgstr "Laporkan penyalahgunaan"
 
 msgctxt "[\"MARKET-PAGE_TOP_GAMES\"]"
 msgid "Top Games"
-msgstr "Permainan"
+msgstr "Game Terbaik"
 
 msgctxt "[\"MARKET-PAGE_TOP_APPS\"]"
 msgid "Top Apps"
-msgstr "Aplikasi"
+msgstr "Aplikasi Terbaik"
 
 msgctxt "[\"MARKET-PAGE_TOP_DEVELOPERS\"]"
 msgid "Top Developers"
-msgstr "Pengembang teratas"
+msgstr "Pengembang Teratas"
 
 msgctxt "[\"MARKET-PAGE_TOP_COUNTRIES\"]"
 msgid "Partitioned Ranking"
