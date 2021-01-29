@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-09-09 05:10+0000\n"
-"PO-Revision-Date: 2021-01-25 02:13+0000\n"
-"Last-Translator: ใจมันรัก 2ที <surachai1979zero@gmail.com>\n"
+"PO-Revision-Date: 2021-01-27 11:47+0000\n"
+"Last-Translator: Song Nguyen <songnguyen1978nvs@gmail.com>\n"
 "Language-Team: Thai <https://translate.apkpure.com/projects/apkpure/"
 "apkpurecom/th/>\n"
 "Language: th\n"
@@ -16,13 +16,13 @@ msgstr ""
 
 msgctxt "[\"NAV-GAME\"]"
 msgid "GAMES"
-msgstr "เกมส์"
-
-msgctxt "[\"NAV-APP\"]"
-msgid "APPS"
-msgstr "แอปพลิเคชั่น"
+msgstr "Tien viet"
 
 #, fuzzy
+msgctxt "[\"NAV-APP\"]"
+msgid "APPS"
+msgstr "Tien viet"
+
 msgctxt "[\"NAV-XAPK\"]"
 msgid "XAPK"
 msgstr "เอ็กซ์เอพีเค"
@@ -41,9 +41,8 @@ msgstr "เกมใหม่ล่าสุด"
 
 msgctxt "[\"NAV-NEW_APP\"]"
 msgid "NEW APP"
-msgstr "แอพใหม่ล่าสุดเปลี่ยนภาษาให้ทีโว้ยยยยยยย"
+msgstr "แอพใหม่"
 
-#, fuzzy
 msgctxt "[\"NAV-XAPK_GAME\"]"
 msgid "XAPK GAME"
 msgstr "เกม XAPK"
