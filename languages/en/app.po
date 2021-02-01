@@ -187,8 +187,8 @@ msgid "Developer"
 msgstr "Developer"
 
 msgctxt "[\"UPLOADER\"]"
-msgid "Uploaded by"
-msgstr "Uploaded by"
+msgid "App uploaded by"
+msgstr "App uploaded by"
 
 msgctxt "[\"POPULAR_GAMES_IN_LAST_HOURS\"]"
 msgid "Popular Games In Last {0} Hours"
@@ -307,8 +307,8 @@ msgid "Browsing {0}"
 msgstr "Browsing {0}"
 
 msgctxt "[\"ADDITIONAL_INFORMATION\"]"
-msgid "Additional Information"
-msgstr "Additional Information"
+msgid "Additional App Information"
+msgstr "Additional App Information"
 
 msgctxt "[\"SIMILAR_TO\"]"
 msgid "Similar to {0}"
@@ -459,8 +459,8 @@ msgid "More From Developer"
 msgstr "More From Developer"
 
 msgctxt "[\"DETAIL-MORE_FROM\"]"
-msgid "More From {0}"
-msgstr "More From {0}"
+msgid "More Apps from {0}"
+msgstr "More Apps from {0}"
 
 msgctxt "[\"DETAIL-FOLLOW_UPDATES\"]"
 msgid "Follow Updates"
@@ -1319,12 +1319,12 @@ msgid "Your operation is too frequent. Please try again in {time} minutes."
 msgstr "Your operation is too frequent. Please try again in {time} minutes."
 
 msgctxt "[\"COPYRIGHT\"]"
-msgid "Copyright © 2014-2020 APKPure All rights reserved."
-msgstr "Copyright © 2014-2020 APKPure All rights reserved."
+msgid "Copyright © 2014-2021 APKPure All rights reserved."
+msgstr "Copyright © 2014-2021 APKPure All rights reserved."
 
 msgctxt "[\"COPYRIGHT_MOBILE\"]"
-msgid "APKPure.com © 2014-2020"
-msgstr "APKPure.com © 2014-2020"
+msgid "APKPure.com © 2014-2021"
+msgstr "APKPure.com © 2014-2021"
 
 msgctxt "[\"COMING_SOON\"]"
 msgid "COMING SOON"
@@ -1714,6 +1714,10 @@ msgctxt "[\"LANGUAGE-TW\"]"
 msgid "traditional Chinese"
 msgstr "traditional Chinese"
 
+msgctxt "[\"PURE-NO-MORE-DATA\"]"
+msgid "No more data"
+msgstr "No more data"
+
 msgctxt "[\"REVIEW_PRIVACY_POLICY_DES_M\"]"
 msgid "We encourage you to read our updated <a target='_blank' href='{pp}'>Privacy Policy</a> and <a target='_blank' href='{cp}'>Cookies Policy</a>."
 msgstr "We encourage you to read our updated <a target='_blank' href='{pp}'>Privacy Policy</a> and <a target='_blank' href='{cp}'>Cookies Policy</a>."
@@ -1882,13 +1886,25 @@ msgctxt "[\"js\"][\"LANG_TIP\"][\"kr\"]"
 msgid "원하는 언어를 <strong> 한국어 </strong>로 변경 하시겠습니까?"
 msgstr "원하는 언어를 <strong> 한국어 </strong>로 변경 하시겠습니까?"
 
+msgctxt "[\"js\"][\"LANG_TIP\"][\"ms\"]"
+msgid "Bahasa yang anda mahu <strong> Malay </strong>Adakah anda mahu berubah ke? "
+msgstr "Bahasa yang anda mahu <strong> Malay </strong>Adakah anda mahu berubah ke? "
+
 msgctxt "[\"js\"][\"LANG_IGNORE\"][\"kr\"]"
 msgid "무시"
 msgstr "무시"
 
+msgctxt "[\"js\"][\"LANG_IGNORE\"][\"ms\"]"
+msgid "abaikan"
+msgstr "abaikan"
+
 msgctxt "[\"js\"][\"LANG_OK\"][\"kr\"]"
 msgid "승인"
 msgstr "승인"
+
+msgctxt "[\"js\"][\"LANG_OK\"][\"ms\"]"
+msgid "sahkan "
+msgstr "sahkan "
 
 msgctxt "[\"js\"][\"UPLOAD-TIMED_OUT\"]"
 msgid "File parsing timed out. (Error code: 10003)"
