@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-09-13 12:14+0000\n"
-"PO-Revision-Date: 2020-09-25 20:44+0000\n"
+"PO-Revision-Date: 2021-02-01 17:58+0000\n"
 "Last-Translator: Stanislav Rupar <stanislav.rupar@gmail.com>\n"
 "Language-Team: Slovenian <https://translate.apkpure.com/projects/apkpure/"
 "apkpurecom/sl/>\n"
@@ -13,7 +13,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=4; plural=n%100==1 ? 0 : n%100==2 ? 1 : n%100==3 || n"
 "%100==4 ? 2 : 3;\n"
-"X-Generator: Weblate 4.2.2\n"
+"X-Generator: Weblate 4.3.2\n"
 
 msgctxt "[\"NAV-GAME\"]"
 msgid "GAMES"
@@ -436,10 +436,9 @@ msgctxt "[\"DETAIL-THE_DESCRIPTION\"]"
 msgid "The description of {0}"
 msgstr "Opis {0}"
 
-#, fuzzy
 msgctxt "[\"DETAIL-OFFICIAL_TRAILER\"]"
 msgid "{0} for Android official Trailer"
-msgstr "{0} za Android uradni napovednik"
+msgstr "{0} za uradni Android napovednik"
 
 msgctxt "[\"DETAIL-VERSION\"]"
 msgid "Version"
@@ -615,7 +614,7 @@ msgstr "DPI zaslona"
 #, fuzzy
 msgctxt "[\"VARIANT-ARCH\"]"
 msgid "Arch"
-msgstr "Arch"
+msgstr "Arhitektura"
 
 msgctxt "[\"VARIANT-DPI\"]"
 msgid "DPI"
@@ -785,7 +784,6 @@ msgctxt "[\"COMMENT-ERR_DISCUSSION\"]"
 msgid "Incorrect in discussion"
 msgstr "Nepravilno v razpravi"
 
-#, fuzzy
 msgctxt "[\"COMMENT-ERR_RATE\"]"
 msgid "Vote failed, repeated"
 msgstr "Glasovanje ni uspelo, ponovljeno"
@@ -810,10 +808,9 @@ msgctxt "[\"COMMENT-ERR_FAILURE\"]"
 msgid "Comment unknown"
 msgstr "Neznan komentar"
 
-#, fuzzy
 msgctxt "[\"COMMENT-ERR_EMOJI\"]"
 msgid "Emoji comments are not allowed any more! Write something..."
-msgstr "Komentarji z emodžiji niso več dovoljeni! Napišite nekaj..."
+msgstr "Komentarji s čustvenimi simboli niso več dovoljeni! Napišite nekaj..."
 
 msgctxt "[\"COMMENT-ERR_NONE_MESSAGE\"]"
 msgid "You must write something!"
@@ -874,15 +871,13 @@ msgctxt "[\"COMMENT-LINK\"]"
 msgid "Link"
 msgstr "Ppovezava"
 
-#, fuzzy
 msgctxt "[\"COMMENT-HASHTAG_NOT_EXIST\"]"
 msgid "The hashtag does not exist"
-msgstr "Hashtag ne obstaja"
+msgstr "Lojtra ne obstaja"
 
-#, fuzzy
 msgctxt "[\"COMMENT-HASHTAG\"]"
 msgid "Hashtag"
-msgstr "Hashtag"
+msgstr "Lojtra"
 
 msgctxt "[\"COMMENT-FOLLOW_COUNT\"]"
 msgid "Followers: {0}"
@@ -911,20 +906,20 @@ msgstr "Datum izdaje"
 #, fuzzy
 msgctxt "[\"PRE-REGISTER_REWARDS\"]"
 msgid "Register Rewards"
-msgstr "Registrirane nagrade"
+msgstr "Registrirajte nagrade"
 
 msgctxt "[\"PRE-REGISTER_PAGE\"]"
 msgid "Pre-Register Page"
 msgstr "Stran za pred-registracijo"
 
-#, fuzzy
 msgctxt "[\"HASHTAG\"]"
 msgid "HASHTAG"
-msgstr "HASHTAG"
+msgstr "LOJTRA"
 
+#, fuzzy
 msgctxt "[\"HOT_HASHTAG\"]"
 msgid "Featured Hashtags"
-msgstr ""
+msgstr "Značilnosti lojtre"
 
 msgctxt "[\"COOL_COMMENT\"]"
 msgid "Cool Comment"
@@ -1329,16 +1324,15 @@ msgstr "Zgodovina iskanja"
 #, fuzzy
 msgctxt "[\"SEARCH-FEATURED_HASHTAG\"]"
 msgid "Featured hashtags"
-msgstr "Featured hashtags"
+msgstr "Značilnosti lojtre"
 
 msgctxt "[\"SEARCH-TAB_USERS\"]"
 msgid "Users"
 msgstr "Uporabniki"
 
-#, fuzzy
 msgctxt "[\"SEARCH-TAB_HASHTAGS\"]"
 msgid "Hashtags"
-msgstr "Hashtags"
+msgstr "Lojtre"
 
 msgctxt "[\"SEARCH-NO_RESULTS\"]"
 msgid "Sorry, no results found."
@@ -1498,7 +1492,6 @@ msgctxt "[\"MARKET-PAGE_TOP_DEVELOPERS\"]"
 msgid "Top Developers"
 msgstr "Top razvijalci"
 
-#, fuzzy
 msgctxt "[\"MARKET-PAGE_TOP_COUNTRIES\"]"
 msgid "Partitioned Ranking"
 msgstr "Razdeljena razvrstitev"
@@ -1619,18 +1612,16 @@ msgstr ""
 "<p class=\"tit\">Uporaba aplikacije APKPure</p><p class =\"des\">Hitreje, "
 "brezplačno in shranjevanje podatkov!</p>"
 
-#, fuzzy
 msgctxt "[\"MARKET-PROMOTION_BANNER_MOBILE2_XAPK\"]"
 msgid "<p class=\"tit\">Using APKPure App</p><p class=\"des\">Install XAPK, Faster, free and saving data!</p>"
 msgstr ""
-"<p class =\"tit\">Uporaba aplikacije APKPure</p><p class=\"des\"> Namestite "
+"<p class =\"tit\">Uporaba aplikacije APKPure</p><p class=\"des\">Namestite "
 "XAPK, hitreje, brezplačno in prihranite podatke!</p>"
 
-#, fuzzy
 msgctxt "[\"MARKET-PROMOTION_BANNER_DOWN\"]"
 msgid "<p class=\"tit\">Using APKPure App</p><p class=\"des\">Download / Update this {0}, faster, free and saving data!</p>"
 msgstr ""
-"<p class=\"tit\">Uporaba aplikacije APKPure</p><p class=\"des\">Prenesite/"
+"<p class=\"tit\">Uporaba aplikacije APKPure</p><p class=\"des\">Prenesite / "
 "posodobite to {0}, hitreje, brezplačno in prihranite podatke!</p>"
 
 msgctxt "[\"FLAG-Africa\"]"
@@ -1698,7 +1689,7 @@ msgstr "Podprti zasloni"
 #, fuzzy
 msgctxt "[\"SUPPORTED-DENSITIES\"]"
 msgid "Supported densities"
-msgstr "Podprte gostote"
+msgstr "Redno podprte"
 
 msgctxt "[\"SUPPORTED-ARCHITECTURES\"]"
 msgid "Supported architectures"
@@ -2568,10 +2559,9 @@ msgstr ""
 "radi delijo izkušnje o uporabi aplikacije {app_short_name} in aplikaciji "
 "{app_short_name} dajejo koristne ocene aplikacij."
 
-#, fuzzy
 msgctxt "[\"meta\"][\"Hashtag\"][\"title\"]"
 msgid "Hashtag {hashtag} - APKPure"
-msgstr "Hashtag {hashtag} - APKPure"
+msgstr "Lojtra {lojtra} - APKPure"
 
 msgctxt "[\"meta\"][\"Invit\"][\"title\"]"
 msgid "{user_name} add a post under {app_name} Discussion Group | APKPure Group"
@@ -2659,7 +2649,7 @@ msgstr "Reference o drogah in alkoholu"
 #, fuzzy
 msgctxt "[\"content_rating\"][\"Blood and Gore\"]"
 msgid "Blood and Gore"
-msgstr "Kri in klanje"
+msgstr "Kri in krvavo"
 
 msgctxt "[\"content_rating\"][\"Crude Humor\"]"
 msgid "Crude Humor"
@@ -2848,3 +2838,43 @@ msgstr "Oglejte si razpoložljive APK-je"
 msgctxt "[\"xapk\"][\"VARIANTS\"]"
 msgid "This release comes in several variants, See available APKs"
 msgstr "Ta izdaja je na voljo v več različicah, oglejte si razpoložljive APK-je"
+
+#, fuzzy
+msgctxt "[\"js\"][\"LANG_OK\"][\"ms\"]"
+msgid "sahkan "
+msgstr "V redu "
+
+#, fuzzy
+msgctxt "[\"js\"][\"LANG_IGNORE\"][\"ms\"]"
+msgid "abaikan"
+msgstr "prezri"
+
+#, fuzzy
+msgctxt "[\"js\"][\"LANG_TIP\"][\"ms\"]"
+msgid "Bahasa yang anda mahu <strong> Malay </strong>Adakah anda mahu berubah ke? "
+msgstr ""
+"Jezik, ki ga želite <strong>Malajščina</strong> Ali ga želite spremeniti? "
+
+msgctxt "[\"PURE-NO-MORE-DATA\"]"
+msgid "No more data"
+msgstr "Ni več podatkov"
+
+msgctxt "[\"COPYRIGHT_MOBILE\"]"
+msgid "APKPure.com © 2014-2021"
+msgstr "APKPure.com © 2014-2021"
+
+msgctxt "[\"COPYRIGHT\"]"
+msgid "Copyright © 2014-2021 APKPure All rights reserved."
+msgstr "Copyright © 2014-2021 APKPure. Vse pravice pridržane."
+
+msgctxt "[\"DETAIL-MORE_FROM\"]"
+msgid "More Apps from {0}"
+msgstr "Več aplikacij od {0}"
+
+msgctxt "[\"ADDITIONAL_INFORMATION\"]"
+msgid "Additional App Information"
+msgstr "Dodatne informacije o aplikaciji"
+
+msgctxt "[\"UPLOADER\"]"
+msgid "App uploaded by"
+msgstr "Aplikacijo je naložil"
