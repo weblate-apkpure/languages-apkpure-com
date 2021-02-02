@@ -103,12 +103,12 @@ msgid "Read More"
 msgstr "Read More"
 
 msgctxt "[\"GAME\"]"
-msgid "GAME"
-msgstr "GAME"
+msgid "Game"
+msgstr "Game"
 
 msgctxt "[\"APP\"]"
-msgid "APP"
-msgstr "APP"
+msgid "App"
+msgstr "App"
 
 msgctxt "[\"GAMES\"]"
 msgid "Games"
@@ -487,12 +487,12 @@ msgid "Removed"
 msgstr "Removed"
 
 msgctxt "[\"DETAIL-CATEGORY_GAME\"]"
-msgid "{0} GAME"
-msgstr "{0} GAME"
+msgid "{0} Game"
+msgstr "{0} Game"
 
 msgctxt "[\"DETAIL-CATEGORY_APP\"]"
-msgid "{0} APP"
-msgstr "{0} APP"
+msgid "{0} App"
+msgstr "{0} App"
 
 msgctxt "[\"DETAIL-VERSION_LOAD_MORE\"]"
 msgid "Load more"
