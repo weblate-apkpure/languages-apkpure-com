@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-09-09 05:10+0000\n"
-"PO-Revision-Date: 2021-01-27 11:47+0000\n"
-"Last-Translator: Song Nguyen <songnguyen1978nvs@gmail.com>\n"
+"PO-Revision-Date: 2021-02-08 12:20+0000\n"
+"Last-Translator: ณัฐวัศห์ ฉลภิญโญ <sd11665@ssru.ac.th>\n"
 "Language-Team: Thai <https://translate.apkpure.com/projects/apkpure/"
 "apkpurecom/th/>\n"
 "Language: th\n"
@@ -16,16 +16,15 @@ msgstr ""
 
 msgctxt "[\"NAV-GAME\"]"
 msgid "GAMES"
-msgstr "Tien viet"
+msgstr "เกม"
 
-#, fuzzy
 msgctxt "[\"NAV-APP\"]"
 msgid "APPS"
-msgstr "Tien viet"
+msgstr "แอป"
 
 msgctxt "[\"NAV-XAPK\"]"
 msgid "XAPK"
-msgstr "เอ็กซ์เอพีเค"
+msgstr "XAPK"
 
 msgctxt "[\"NAV-NEW\"]"
 msgid "NEW"
@@ -33,11 +32,11 @@ msgstr "ใหม่"
 
 msgctxt "[\"NAV-PRODUCTS\"]"
 msgid "PRODUCTS"
-msgstr "โปรดักส์"
+msgstr "ผลิตภัณฑ์"
 
 msgctxt "[\"NAV-NEW_GAME\"]"
 msgid "NEW GAME"
-msgstr "เกมใหม่ล่าสุด"
+msgstr "เกมใหม่"
 
 msgctxt "[\"NAV-NEW_APP\"]"
 msgid "NEW APP"
@@ -61,16 +60,15 @@ msgstr "ดาวน์โหลด APK"
 
 msgctxt "[\"NAV-APK_VERIFICATION\"]"
 msgid "APK Verification"
-msgstr "การยืนยัน ไฟล์ APK"
+msgstr "การยืนยันไฟล์ APK"
 
 msgctxt "[\"NAV-APKPURE_APP\"]"
 msgid "APKPure App"
 msgstr "แอป APKPure"
 
-#, fuzzy
 msgctxt "[\"NAV-Cloud-Phone-Emulator\"]"
 msgid "Cloud Phone Emulator"
-msgstr "Cloud Phone Emulator"
+msgstr "โปรแกรมจำลองโทรศัพท์บนคลาวด์"
 
 msgctxt "[\"DOWNLOAD\"]"
 msgid "Download"
@@ -1022,7 +1020,7 @@ msgstr "กำลังติดตาม"
 
 msgctxt "[\"USER-FOLLOWER\"]"
 msgid "Followers"
-msgstr ""
+msgstr "ติดตาม"
 
 msgctxt "[\"USER-LIKES\"]"
 msgid "Likes"
@@ -1588,7 +1586,7 @@ msgstr "ติดตั้งและอัปเดต XAPK ด้วยแอ
 
 msgctxt "[\"MARKET-INDEX_BANNER_TITLE\"]"
 msgid "APKPure APP"
-msgstr ""
+msgstr "APKPure APP"
 
 msgctxt "[\"MARKET-INDEX_BANNER_DES\"]"
 msgid "Install,manage and update your apps"
@@ -1950,7 +1948,7 @@ msgstr "{0} ความปลอดภัยที่ถูกตรวจส�
 
 msgctxt "[\"tip\"][\"SCREEN_POSTER\"]"
 msgid "{0} poster"
-msgstr ""
+msgstr "{0} โปสเตอร์"
 
 msgctxt "[\"tip\"][\"SCREEN\"]"
 msgid "{0} apk screenshot"
@@ -1988,17 +1986,20 @@ msgctxt "[\"tip\"][\"HOT_ANDROID_APP\"]"
 msgid "hot android app apk"
 msgstr "APK แอปแอนดรอยด์สุดฮิต"
 
+#, fuzzy
 msgctxt "[\"js\"][\"LANG_TIP\"][\"kr\"]"
 msgid "원하는 언어를 <strong> 한국어 </strong>로 변경 하시겠습니까?"
-msgstr ""
+msgstr "원하는 언어를 <strong> 한국어 </strong>로 변경 하시겠습니까?"
 
+#, fuzzy
 msgctxt "[\"js\"][\"LANG_IGNORE\"][\"kr\"]"
 msgid "무시"
-msgstr ""
+msgstr "무시"
 
+#, fuzzy
 msgctxt "[\"js\"][\"LANG_OK\"][\"kr\"]"
 msgid "승인"
-msgstr ""
+msgstr "승인"
 
 msgctxt "[\"js\"][\"UPLOAD-TIMED_OUT\"]"
 msgid "File parsing timed out. (Error code: 10003)"
@@ -2641,7 +2642,7 @@ msgstr "มีฉากการใช้ความรุนแรงในร
 
 msgctxt "[\"content_rating\"][\"Blood\"]"
 msgid "Blood"
-msgstr ""
+msgstr "เลือด"
 
 msgctxt "[\"content_rating\"][\"Mild Fantasy Violence\"]"
 msgid "Mild Fantasy Violence"
@@ -2847,3 +2848,59 @@ msgstr "ดู APK ที่มีอยู่"
 msgctxt "[\"xapk\"][\"VARIANTS\"]"
 msgid "This release comes in several variants, See available APKs"
 msgstr "การวางจำหน่ายครั้งนี้แบ่งเป็น Variant หลายแบบ ดู APK ที่มีอยู่"
+
+#, fuzzy
+msgctxt "[\"js\"][\"LANG_OK\"][\"ms\"]"
+msgid "sahkan "
+msgstr "sahkan "
+
+#, fuzzy
+msgctxt "[\"js\"][\"LANG_IGNORE\"][\"ms\"]"
+msgid "abaikan"
+msgstr "abaikan"
+
+#, fuzzy
+msgctxt "[\"js\"][\"LANG_TIP\"][\"ms\"]"
+msgid "Bahasa yang anda mahu <strong> Malay </strong>Adakah anda mahu berubah ke? "
+msgstr ""
+"Bahasa yang anda mahu <strong> Malay </strong>Adakah anda mahu berubah ke? "
+
+msgctxt "[\"PURE-NO-MORE-DATA\"]"
+msgid "No more data"
+msgstr "ไม่มีข้อมูลเพิ่มเติม"
+
+msgctxt "[\"COPYRIGHT_MOBILE\"]"
+msgid "APKPure.com © 2014-2021"
+msgstr "APKPure.com © 2014-2021"
+
+msgctxt "[\"COPYRIGHT\"]"
+msgid "Copyright © 2014-2021 APKPure All rights reserved."
+msgstr "ลิขสิทธิ์© 2014-2021 APKPure All rights reserved."
+
+msgctxt "[\"DETAIL-CATEGORY_APP\"]"
+msgid "{0} App"
+msgstr "{0} แอป"
+
+msgctxt "[\"DETAIL-CATEGORY_GAME\"]"
+msgid "{0} Game"
+msgstr "{0} เกม"
+
+msgctxt "[\"DETAIL-MORE_FROM\"]"
+msgid "More Apps from {0}"
+msgstr "แอปเพิ่มเติมจาก {0}"
+
+msgctxt "[\"ADDITIONAL_INFORMATION\"]"
+msgid "Additional App Information"
+msgstr "ข้อมูลแอพเพิ่มเติม"
+
+msgctxt "[\"UPLOADER\"]"
+msgid "App uploaded by"
+msgstr "อัปโหลดแอปโดย"
+
+msgctxt "[\"APP\"]"
+msgid "App"
+msgstr "แอป"
+
+msgctxt "[\"GAME\"]"
+msgid "Game"
+msgstr "เกม"
