@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-12-05 01:34+0000\n"
-"PO-Revision-Date: 2021-02-23 08:32+0000\n"
+"PO-Revision-Date: 2021-02-23 19:53+0000\n"
 "Last-Translator: zaw zaw <www.uzaw321@gmail.com>\n"
 "Language-Team: Burmese <https://translate.apkpure.com/projects/apkpure/"
 "apkpurecom/my/>\n"
@@ -154,354 +154,439 @@ msgctxt "[\"SORT_BY\"]"
 msgid "Sort by"
 msgstr "အလိုက်စဥ်သည်"
 
+#, fuzzy
 msgctxt "[\"HOT\"]"
 msgid "Hot"
-msgstr ""
+msgstr "ပူ"
 
+#, fuzzy
 msgctxt "[\"ATTACHMENT\"]"
 msgid "Attachment"
-msgstr ""
+msgstr "ပူးတွဲပါ"
 
+#, fuzzy
 msgctxt "[\"DOWNLOADS\"]"
 msgid "Downloads"
-msgstr ""
+msgstr "ကူးယူးသည်"
 
+#, fuzzy
 msgctxt "[\"NEWEST\"]"
 msgid "Newest"
-msgstr ""
+msgstr "နောက်ဆုံးပေါ်"
 
+#, fuzzy
 msgctxt "[\"RATING\"]"
 msgid "Rating"
-msgstr ""
+msgstr "အဆင့်သတ်မှတ်ချက်"
 
+#, fuzzy
 msgctxt "[\"POPULAR\"]"
 msgid "Popular"
-msgstr ""
+msgstr "လူကြိုက်များ"
 
+#, fuzzy
 msgctxt "[\"CATEGORY\"]"
 msgid "Category"
-msgstr ""
+msgstr "အမျိုးအစား"
 
+#, fuzzy
 msgctxt "[\"CATEGORY_JOIN\"]"
 msgid "{app_category} {app_type}"
-msgstr ""
+msgstr "{အက်(ပ်)_ရွေးချယ်}{အက်(ပ်)_အမျိုးအစား}"
 
+#, fuzzy
 msgctxt "[\"SHOW_MORE\"]"
 msgid "Show More"
-msgstr ""
+msgstr "ပိုမိုပြပါ"
 
+#, fuzzy
 msgctxt "[\"SHOW_LESS\"]"
 msgid "Show less"
-msgstr ""
+msgstr "နည်းနည်းပြပါ"
 
+#, fuzzy
 msgctxt "[\"HAVE_PRODUCTS\"]"
 msgid "All {0} Apps"
-msgstr ""
+msgstr "{0} အက်ပလီကေးရှင်းအားလုံး"
 
+#, fuzzy
 msgctxt "[\"DEVELOPER\"]"
 msgid "Developer"
-msgstr ""
+msgstr "တင်သွင်းသူ"
 
 msgctxt "[\"UPLOADER\"]"
 msgid "Uploaded by"
 msgstr ""
 
+#, fuzzy
 msgctxt "[\"POPULAR_GAMES_IN_LAST_HOURS\"]"
 msgid "Popular Games In Last {0} Hours"
-msgstr ""
+msgstr "နောက်ဆုံး၌လူကြိုက်များသောဂိမ်းများ {0} နာရီ"
 
+#, fuzzy
 msgctxt "[\"POPULAR_APPS_IN_LAST_HOURS\"]"
 msgid "Popular Apps In Last {0} Hours"
-msgstr ""
+msgstr "နောက်ဆုံးပေါ်လူကြိုက်များသောအက်ပ်များ {0} နာရီ"
 
 msgctxt "[\"POPULAR_APPS_IN_TODAY\"]"
 msgid "Popular Apps In Today"
-msgstr ""
+msgstr "ယနေ့လူကြိုက်များသောအက်ပလီကေးရှင်းများ"
 
+#, fuzzy
 msgctxt "[\"POPULAR_GAMES_IN_TODAY\"]"
 msgid "Popular Games In Today"
-msgstr ""
+msgstr "ယနေ့လူကြိုက်များသောဂိမ်းမျာ"
 
+#, fuzzy
 msgctxt "[\"HOT_GAMES\"]"
 msgid "Hot Games"
-msgstr ""
+msgstr "အားကစားဂိမ်းများ"
 
+#, fuzzy
 msgctxt "[\"HOT_APPS\"]"
 msgid "Hot Apps"
-msgstr ""
+msgstr "ခေတ်အစားအက်(ပ်)များ"
 
+#, fuzzy
 msgctxt "[\"CLOSE\"]"
 msgid "Close"
-msgstr ""
+msgstr "ပိတ်"
 
+#, fuzzy
 msgctxt "[\"COMMENTS\"]"
 msgid "Comments"
-msgstr ""
+msgstr "မှတ်ချက်များ"
 
+#, fuzzy
 msgctxt "[\"NOT_FOUND\"]"
 msgid "Not Found"
-msgstr ""
+msgstr "မတွေ့ပါ"
 
+#, fuzzy
 msgctxt "[\"REASON\"]"
 msgid "Reason"
-msgstr ""
+msgstr "အကြောင်းပြချက်"
 
+#, fuzzy
 msgctxt "[\"LATEST_UPDATE_GAMES\"]"
 msgid "Latest Update Games"
-msgstr ""
+msgstr "နောက်ဆုံးအပ်ဒိတ်ဂိမ်းများ"
 
+#, fuzzy
 msgctxt "[\"LATEST_UPDATE_APPS\"]"
 msgid "Latest Update Apps"
-msgstr ""
+msgstr "နောက်ဆုံးအပ်ဒိတ် အက်(ပ်)"
 
+#, fuzzy
 msgctxt "[\"LATEST_UPDATE\"]"
 msgid "Latest Update"
-msgstr ""
+msgstr "နောက်ဆုံးသတင်းများ"
 
+#, fuzzy
 msgctxt "[\"XAPK_IS_APK_WITH_OBB_DATA\"]"
 msgid "XAPK is APK with OBB data"
-msgstr ""
+msgstr "XAPK သည် OBB ဒေတာနှင့် အက်(ပ်) ဖြစ်သည်"
 
+#, fuzzy
 msgctxt "[\"MOST_POPULAR_IN_TODAY\"]"
 msgid "Most Popular In Today"
-msgstr ""
+msgstr "ယနေ့လူကြိုက်အများဆုံး"
 
+#, fuzzy
 msgctxt "[\"SIMILAR_OR_RELATED\"]"
 msgid "Similar Or Related"
-msgstr ""
+msgstr "အလားတူသို့မဟုတ်ဆက်စပ်"
 
+#, fuzzy
 msgctxt "[\"INDEX-TITLE\"]"
 msgid "Download free Android Games and Android Apps."
-msgstr ""
+msgstr "အခမဲ့ ဖုန်း ဂိမ်းများနှင့် ဖုန်းအက်(ပ်) များကိုဒေါင်းလုပ်ဆွဲပါ။"
 
+#, fuzzy
 msgctxt "[\"INDEX-MOBILE_TITLE\"]"
 msgid "Download free Android Games and Apps."
-msgstr ""
+msgstr "အခမဲ့ ဖုန်း ဂိမ်းများနှင့်အက်ပလီကေးရှင်းများကိုဒေါင်းလုပ်ဆွဲပါ။"
 
+#, fuzzy
 msgctxt "[\"INDEX-HOW_TO_DOWNLOAD\"]"
 msgid "How to download apk files?"
-msgstr ""
+msgstr "apk ဖိုင်များကိုမည်သို့ ဒေါင်းလော့ လုပ်ရမည်နည်း။"
 
+#, fuzzy
 msgctxt "[\"INDEX-FAQ\"]"
 msgid "FAQ"
-msgstr ""
+msgstr "အမြဲမေးလေ့ရှိသောမေးခွန်းမျာ"
 
+#, fuzzy
 msgctxt "[\"INDEX-POPULAR_CATEGORIES\"]"
 msgid "Popular categories"
-msgstr ""
+msgstr "လူကြိုက်များအမျိုးအစားမျာ"
 
+#, fuzzy
 msgctxt "[\"DOWNLOAD_APK\"]"
 msgid "Download APK"
-msgstr ""
+msgstr "APK ကိုဒေါင်းလုပ်ဆွဲပါ"
 
 #, fuzzy
 msgctxt "[\"VERIFICATION_CODE\"]"
 msgid "Verification code"
-msgstr "အတည်ပြုကုဒ်"
+msgstr "အတည်ပြုရန်ကုဒ်"
 
+#, fuzzy
 msgctxt "[\"VERIFICATION_INCORRECT\"]"
 msgid "The verification code is incorrect!"
-msgstr ""
+msgstr "အတည်ပြုကုဒ်မှာမမှန်ကန်ပါ။"
 
+#, fuzzy
 msgctxt "[\"VERIFICATION_DOWN\"]"
 msgid "Enter the code(s) as you see in the image, then click \"Download\"."
 msgstr ""
+"ပုံတွင်မြင်ရသည့်အတိုင်းကုဒ်များကိုထည့်ပါ၊ ပြီးနောက် \"ဒေါင်းလုပ်\" "
+"ကိုနှိပ်ပါ။"
 
+#, fuzzy
 msgctxt "[\"TOPICS\"]"
 msgid "Topics"
-msgstr ""
+msgstr "ခေါင်းစဉ်များ"
 
+#, fuzzy
 msgctxt "[\"MORE-TOPICS\"]"
 msgid "More Topics"
-msgstr ""
+msgstr "နောက်ထပ်အကြောင်းအရာများ"
 
+#, fuzzy
 msgctxt "[\"TAG\"]"
 msgid "Tag {0}"
-msgstr ""
+msgstr "Tag {0}"
 
+#, fuzzy
 msgctxt "[\"BROWSING_TAG\"]"
 msgid "Browsing {0}"
-msgstr ""
+msgstr "Browsing {0}"
 
 msgctxt "[\"ADDITIONAL_INFORMATION\"]"
 msgid "Additional Information"
 msgstr ""
 
+#, fuzzy
 msgctxt "[\"SIMILAR_TO\"]"
 msgid "Similar to {0}"
-msgstr ""
+msgstr "{0} နှင့်ဆင်တူသည်"
 
+#, fuzzy
 msgctxt "[\"CANCEL\"]"
 msgid "Cancel"
-msgstr ""
+msgstr "ပယ်ဖျက်ပါ"
 
+#, fuzzy
 msgctxt "[\"UPDATE\"]"
 msgid "Update"
-msgstr ""
+msgstr "နောက်ဆုံးသတင်း"
 
+#, fuzzy
 msgctxt "[\"SUBMIT\"]"
 msgid "Submit"
-msgstr ""
+msgstr "တင်သွင်းပါ"
 
+#, fuzzy
 msgctxt "[\"SUBMITTING\"]"
 msgid "Submitting..."
-msgstr ""
+msgstr "တင်ပြနေသည် ..."
 
+#, fuzzy
 msgctxt "[\"UPLOAD-FAILED\"]"
 msgid "File upload failed. (Error code: 10001)"
-msgstr ""
+msgstr "ဖိုင်တင်ပို့မှုမအောင်မြင်ပါ။ (အမှားကုဒ် - ၁၀၀၀၁)"
 
+#, fuzzy
 msgctxt "[\"UPLOAD-PARSING_FAILED\"]"
 msgid "File parsing failed. (Error code: 10002)"
-msgstr ""
+msgstr "ဖိုင်စစ်စစ်မအောင်မြင်ပါ။ (အမှားကုဒ် - ၁၀၀၀၂)"
 
+#, fuzzy
 msgctxt "[\"DETAIL\"]"
 msgid "Detail"
-msgstr ""
+msgstr "အသေးစိတ်"
 
+#, fuzzy
 msgctxt "[\"DETAIL-HOT_TAGS\"]"
 msgid "{0} Tags"
-msgstr ""
+msgstr "{0} အမှတ်အသားမျာ"
 
+#, fuzzy
 msgctxt "[\"DETAIL-MAIGHT_LIKE\"]"
 msgid "You Might Also Like"
-msgstr ""
+msgstr "နင်ကြိုက်ကောင်းကြိုက်လိမ့်မယ်"
 
+#, fuzzy
 msgctxt "[\"DETAIL-PAID_GAME\"]"
 msgid "Paid Game"
-msgstr ""
+msgstr "Paid ဂိမ်း"
 
+#, fuzzy
 msgctxt "[\"DETAIL-PAID_APP\"]"
 msgid "Paid App"
-msgstr ""
+msgstr "Paid အက်(ပ်) ကို"
 
+#, fuzzy
 msgctxt "[\"DETAIL-PAID_GAME_DES\"]"
 msgid "Paid games are not available to download"
-msgstr ""
+msgstr "ပေးဆောင်ရသောဂိမ်းများကိုဒေါင်းလုပ်လုပ်မရပါ"
 
+#, fuzzy
 msgctxt "[\"DETAIL-PAID_APP_DES\"]"
 msgid "Paid apps are not available to download"
-msgstr ""
+msgstr "Paid အက်(ပ်) များသည် ဒေါင်းလုပ် လုပ်ရန်မရပါ"
 
+#, fuzzy
 msgctxt "[\"DETAIL-WHY_SAFE\"]"
 msgid "Why we can guarantee APK 100% safe?"
-msgstr ""
+msgstr "အက်(ပ်) ကို ၁၀၀% လုံခြုံအောင်ဘာလို့အာမခံနိုင်တာလဲ။"
 
+#, fuzzy
 msgctxt "[\"DETAIL-SAFE\"]"
 msgid "Verification passed"
-msgstr ""
+msgstr "အတည်ပြုအတည်ပြုပြီး"
 
+#, fuzzy
 msgctxt "[\"DETAIL-XAPK_SHORT_DES\"]"
 msgid "XAPK is APK with OBB data, Click to get XAPK Installer"
-msgstr ""
+msgstr "XAPK သည် OBB အချက်အလက်ပါသော အက်(ပ်) ဖြစ်သည်"
 
+#, fuzzy
 msgctxt "[\"DETAIL-MOBILE_XAPK_SHORT_DES\"]"
 msgid "Click to get XAPK Installer"
-msgstr ""
+msgstr "XAPK ထည့်သွင်း ရရှိရန်နှိပ်ပါ"
 
+#, fuzzy
 msgctxt "[\"DETAIL-LATEST_VERSION\"]"
 msgid "Latest Version"
-msgstr ""
+msgstr "နောက်ဆုံးမူကွဲ"
 
+#, fuzzy
 msgctxt "[\"DETAIL-PUBLISH_DATE\"]"
 msgid "Publish Date"
-msgstr ""
+msgstr "ထုတ်ဝေသည့်နေ့စွဲ"
 
+#, fuzzy
 msgctxt "[\"DETAIL-GET_IT_ON\"]"
 msgid "Get it on"
-msgstr ""
+msgstr "ရယူပါ"
 
+#, fuzzy
 msgctxt "[\"DETAIL-REQUIREMENTS\"]"
 msgid "Requirements"
-msgstr ""
+msgstr "လိုအပ်ချက်များ"
 
+#, fuzzy
 msgctxt "[\"DETAIL-AUTHOR\"]"
 msgid "Author"
-msgstr ""
+msgstr "စာရေးသူ"
 
+#, fuzzy
 msgctxt "[\"DETAIL-REPORT\"]"
 msgid "Report"
-msgstr ""
+msgstr "အစီရင်ခံစာ"
 
+#, fuzzy
 msgctxt "[\"DETAIL-FLAG_AS_INAPPROPRIATE\"]"
 msgid "Flag as inappropriate"
-msgstr ""
+msgstr "မသင့်တော်သောအဖြစ်အလံပြပါ"
 
+#, fuzzy
 msgctxt "[\"DETAIL-VOTES\"]"
 msgid "votes"
-msgstr ""
+msgstr "မဲ"
 
+#, fuzzy
 msgctxt "[\"DETAIL-THE_DESCRIPTION\"]"
 msgid "The description of {0}"
-msgstr ""
+msgstr "{0} ၏ဖော်ပြချက်"
 
+#, fuzzy
 msgctxt "[\"DETAIL-OFFICIAL_TRAILER\"]"
 msgid "{0} for Android official Trailer"
-msgstr ""
+msgstr "ဖုန်း တရားဝင် ကြော်ငြာ အတွက် {0}"
 
+#, fuzzy
 msgctxt "[\"DETAIL-VERSION\"]"
 msgid "Version"
-msgstr ""
+msgstr "ဗားရှင်း"
 
+#, fuzzy
 msgctxt "[\"DETAIL-UPDATE_ON\"]"
 msgid "Update on"
-msgstr ""
+msgstr "အသစ်လုပ်ပါ"
 
+#, fuzzy
 msgctxt "[\"DETAIL-SIGNATURE\"]"
 msgid "Signature"
-msgstr ""
+msgstr "လက်မှတ်ပေါင်း"
 
+#, fuzzy
 msgctxt "[\"DETAIL-FILE_SHA1\"]"
 msgid "File SHA1"
-msgstr ""
+msgstr "SHA1 ဖိုင်ကို"
 
+#, fuzzy
 msgctxt "[\"DETAIL-APK_FILE_SHA1\"]"
 msgid "APK File SHA1"
-msgstr ""
+msgstr "SHA1 ဖိုင် အက်(ပ်)"
 
+#, fuzzy
 msgctxt "[\"DETAIL-XAPK_FILE_SHA1\"]"
 msgid "XAPK File SHA1"
-msgstr ""
+msgstr "XAPK ဖိုင် SHA1"
 
+#, fuzzy
 msgctxt "[\"DETAIL-WHATS_NEW\"]"
 msgid "What's new"
-msgstr ""
+msgstr "ဘာထူးသလဲ"
 
+#, fuzzy
 msgctxt "[\"DETAIL-VERSION_HISTORY\"]"
 msgid "Version History"
-msgstr ""
+msgstr "ဗားရှင်းသမိုင်း"
 
+#, fuzzy
 msgctxt "[\"DETAIL-MORE_FROM_DEVELOPER\"]"
 msgid "More From Developer"
-msgstr ""
+msgstr "တင်သွင်းသူ မှပိုသည်"
 
 msgctxt "[\"DETAIL-MORE_FROM\"]"
 msgid "More From {0}"
 msgstr ""
 
+#, fuzzy
 msgctxt "[\"DETAIL-FOLLOW_UPDATES\"]"
 msgid "Follow Updates"
-msgstr ""
+msgstr "နောက်ဆုံးသတင်းများကိုလိုက်နာပါ"
 
+#, fuzzy
 msgctxt "[\"DETAIL-REQUEST_UPDATE\"]"
 msgid "Request Update"
-msgstr ""
+msgstr "နောက်ဆုံးအခြေအနေတောင်းဆိုခြင်း"
 
+#, fuzzy
 msgctxt "[\"DETAIL-RATING\"]"
 msgid "{votes} votes, average: {rating_average} out of {rating_best}"
 msgstr ""
+"{အချိုး} မဲ၊ ပျမ်းမျှအား - {အကောင်းဆုံး_အချိုး} မှ {အချိုး_တည်ရှိနှုန်း}"
 
+#, fuzzy
 msgctxt "[\"DETAIL-RATING1\"]"
 msgid "average: {rating_average} out of {rating_best}"
-msgstr ""
+msgstr "ပျမ်းမျှအား - {အချိုး_တည်ရှိနှုန်း} {အကောင်းဆုံး_အချိုး} မှ"
 
+#, fuzzy
 msgctxt "[\"DETAIL-MORE_DEVELOPER\"]"
 msgid "Get more from {0}"
-msgstr ""
+msgstr "{0} မှပိုမိုရယူပါ"
 
+#, fuzzy
 msgctxt "[\"DETAIL-REMOVED\"]"
 msgid "Removed"
-msgstr ""
+msgstr "ဖယ်ရှားခဲ့သည်"
 
 msgctxt "[\"DETAIL-CATEGORY_GAME\"]"
 msgid "{0} GAME"
@@ -511,829 +596,1057 @@ msgctxt "[\"DETAIL-CATEGORY_APP\"]"
 msgid "{0} APP"
 msgstr ""
 
+#, fuzzy
 msgctxt "[\"DETAIL-VERSION_LOAD_MORE\"]"
 msgid "Load more"
-msgstr ""
+msgstr "ပိုပြီးတင်ပါ"
 
+#, fuzzy
 msgctxt "[\"DETAIL-VERSION_MORE\"]"
 msgid "More..."
-msgstr ""
+msgstr "နောက်ထပ်..."
 
+#, fuzzy
 msgctxt "[\"DETAIL-TRANSLATE\"]"
 msgid "Translate"
-msgstr ""
+msgstr "ဘာသာပြန်ပါ"
 
+#, fuzzy
 msgctxt "[\"DETAIL-GP_DOWNLOAD\"]"
 msgid "Install on Google Play"
-msgstr ""
+msgstr "Google Play တွင်ထည့်ပါ"
 
+#, fuzzy
 msgctxt "[\"DETAIL-ITUNE_DOWNLOAD\"]"
 msgid "Install on iTunes"
-msgstr ""
+msgstr "iTunes ပေါ်တွင် ထည့်သွင်း လုပ်ဆောင်ပါ"
 
+#, fuzzy
 msgctxt "[\"DETAIL-MORE_DOWNLOAD\"]"
 msgid "More Download Locations:"
-msgstr ""
+msgstr "ဒေါင်းလုပ်ဆွဲရန်နေရာများ"
 
+#, fuzzy
 msgctxt "[\"DETAIL-DELETED_COPYRIGHT_GOOGLE_PLAY_URL\"]"
 msgid "Download on Google Play"
-msgstr ""
+msgstr "Google Play တွင်ဒေါင်းလုပ်လုပ်ပါ"
 
+#, fuzzy
 msgctxt "[\"DETAIL-DELETED_COPYRIGHT_GOOGLE_PLAY_DES\"]"
 msgid "{app_name} All rights reserved ©2020 {developer}. {developer} and the {developer} logo are trademarks of {developer} in the U.S. and/or other countries.All other trademarks are the property of their respective owners."
 msgstr ""
+"{အက်(ပ်)_အမည်} မူပိုင်ခွင့်အားလုံး©© {တင်သွင်းသူ} ကိုကာကွယ်ထားသည်။ "
+"{တင်သွင်းသူ} နှင့် {တင်သွင်းသူ} လိုဂိုသည်အမေရိကန်နှင့် / "
+"သို့မဟုတ်အခြားနိုင်ငံများတွင် {တင်သွင်းသူ} ၏ကုန်အမှတ်တံဆိပ်ဖြစ်သည်။ အခြားသောက"
+"ုန်အမှတ်တံဆိပ်အားလုံးသည်သူတို့၏သက်ဆိုင်ရာပိုင်ရှင်များ၏ပိုင်ဆိုင်မှုဖြစ်သည်။"
 
+#, fuzzy
 msgctxt "[\"DETAIL_DOWNLOAD-DOWNLOADING\"]"
 msgid "Downloading"
-msgstr ""
+msgstr "ဒေါင်းလုပ်ရယူပါ"
 
+#, fuzzy
 msgctxt "[\"DETAIL_DOWNLOAD-FAST_DOWNLOADING\"]"
 msgid "Fast Downloading"
-msgstr ""
+msgstr "ဒေါင်းလုပ်ဆွဲမြန်"
 
+#, fuzzy
 msgctxt "[\"DETAIL_DOWNLOAD-FAST_DOWNLOADING_DES\"]"
 msgid "How \"Fast Download\" works?"
-msgstr ""
+msgstr "\"ဒေါင်းလုပ်အမြန်\" ဘယ်လိုအလုပ်လုပ်သလဲ။"
 
+#, fuzzy
 msgctxt "[\"DETAIL_DOWNLOAD-DOWNLOADING_DES\"]"
 msgid "If the download doesn't start,"
-msgstr ""
+msgstr "အကယ်၍ ဒေါင်းလုပ်သည်မစတင်ပါက၊"
 
+#, fuzzy
 msgctxt "[\"DETAIL_DOWNLOAD-DOWNLOADING_DES_CLICK\"]"
 msgid "click here"
-msgstr ""
+msgstr "ဤနေရာကိုကလစ်နှိပ်ပါ"
 
+#, fuzzy
 msgctxt "[\"DETAIL_DOWNLOAD-HOW_TO_INSTALL_APK\"]"
 msgid "How to install APK / XAPK file"
-msgstr ""
+msgstr "အက်(ပ်) / XAPK ဖိုင်ကိုမည်သို့သွင်းရမည်နည်"
 
+#, fuzzy
 msgctxt "[\"VERSION-PREVIOUS\"]"
 msgid "Previous versions"
-msgstr ""
+msgstr "ယခင်ဗားရှင်း"
 
+#, fuzzy
 msgctxt "[\"VERSION-VERSIONS\"]"
 msgid "Versions"
-msgstr ""
+msgstr "ဗားရှင်း"
 
+#, fuzzy
 msgctxt "[\"VERSION-ALL-VERSIONS\"]"
 msgid "All Versions"
-msgstr ""
+msgstr "ဗားရှင်းအားလုံး"
 
+#, fuzzy
 msgctxt "[\"VERSION-REQUIRES_ANDROID\"]"
 msgid "Requires Android"
-msgstr ""
+msgstr "ဖုန်း ဗားရှင်းလိုအပ်သည်"
 
+#, fuzzy
 msgctxt "[\"VARIANT-VARIANTS\"]"
 msgid "{0} Variants"
-msgstr ""
+msgstr "{0} ကိန်းဂဏန်းများ"
 
+#, fuzzy
 msgctxt "[\"VARIANT-VARIANTS_TIT\"]"
 msgid "Variants"
-msgstr ""
+msgstr "မူကွဲ"
 
+#, fuzzy
 msgctxt "[\"VARIANT-VARIANT\"]"
 msgid "Variant"
-msgstr ""
+msgstr "မူကွဲ"
 
+#, fuzzy
 msgctxt "[\"VARIANT-ARCHITECTURE\"]"
 msgid "Architecture"
-msgstr ""
+msgstr "ဗိသုကာ"
 
+#, fuzzy
 msgctxt "[\"VARIANT-MINIMUM\"]"
 msgid "Minimum Version"
-msgstr ""
+msgstr "အနည်းဆုံးဗားရှင်း"
 
+#, fuzzy
 msgctxt "[\"VARIANT-SCREEN_DPI\"]"
 msgid "Screen DPI"
-msgstr ""
+msgstr "မျက်နှာပြင် DPI"
 
+#, fuzzy
 msgctxt "[\"VARIANT-ARCH\"]"
 msgid "Arch"
-msgstr ""
+msgstr "Arch"
 
+#, fuzzy
 msgctxt "[\"VARIANT-DPI\"]"
 msgid "DPI"
-msgstr ""
+msgstr "DPI"
 
+#, fuzzy
 msgctxt "[\"COMMENT-REVIEWS_TOTAL\"]"
 msgid "Total Reviews:"
-msgstr ""
+msgstr "စုစုပေါင်းသုံးသပ်ချက်များ:"
 
+#, fuzzy
 msgctxt "[\"COMMENT-REVIEWS_CURRENT\"]"
 msgid "Reviews in {0}:"
-msgstr ""
+msgstr "{0} တွင်ပြန်လည်သုံးသပ်ချက်များ:"
 
+#, fuzzy
 msgctxt "[\"COMMENT-REVIEWS_CURRENT_MOB\"]"
 msgid "In {0}:"
-msgstr ""
+msgstr "{0} တွင် -"
 
+#, fuzzy
 msgctxt "[\"COMMENT-REVIEW_OTHER_LANG\"]"
 msgid "There are {0} reviews in other languages"
-msgstr ""
+msgstr "ပြန်လည်သုံးသပ်ခြင်းများ {0} ကိုအခြားဘာသာစကားများဖြင့်ရှိပါတယ်"
 
+#, fuzzy
 msgctxt "[\"COMMENT-ADD_NEW_DISCUSSION\"]"
 msgid "Add A New Discussion"
-msgstr ""
+msgstr "ဆွေးနွေးချက်အသစ်ထည့်ပါ"
 
+#, fuzzy
 msgctxt "[\"COMMENT-REPLIES\"]"
 msgid "Replies"
-msgstr ""
+msgstr "ပြန်ကြားချက်မျာ"
 
+#, fuzzy
 msgctxt "[\"COMMENT-DISCUSSIONS\"]"
 msgid "Discussions"
-msgstr ""
+msgstr "ဆွေးနွေးချက်များ"
 
+#, fuzzy
 msgctxt "[\"COMMENT-ALL_DISCUSSIONS\"]"
 msgid "See all discussions"
-msgstr ""
+msgstr "ဆွေးနွေးမှုအားလုံးကိုကြည့်ပါ"
 
+#, fuzzy
 msgctxt "[\"COMMENT-SEE_ALL_DISCUSSIONS\"]"
 msgid "See all {0} discussions"
-msgstr ""
+msgstr "{0} ဆွေးနွေးမှုအားလုံးကိုကြည့်ပါ"
 
+#, fuzzy
 msgctxt "[\"COMMENT-JOIN_IN_GROUP\"]"
 msgid "Join {0} group"
-msgstr ""
+msgstr "{0} အုပ်စုသို့ဆက်သွယ်ပါ"
 
+#, fuzzy
 msgctxt "[\"COMMENT-JOIN_GROUP\"]"
 msgid "Join Group"
-msgstr ""
+msgstr "အုပ်စုလိုက်ပါ"
 
+#, fuzzy
 msgctxt "[\"COMMENT-GROUP\"]"
 msgid "Group"
-msgstr ""
+msgstr "အုပ်စု"
 
+#, fuzzy
 msgctxt "[\"COMMENT-TITLE_POST\"]"
 msgid "Post"
-msgstr ""
+msgstr "ပို့စ်တင်"
 
+#, fuzzy
 msgctxt "[\"COMMENT-ADD\"]"
 msgid "Add Comment"
-msgstr ""
+msgstr "ထင်မြင်ချက်ပေါင်းထည့်သည်"
 
+#, fuzzy
 msgctxt "[\"COMMENT-ALL-REPLY\"]"
 msgid "All {0} replies"
-msgstr ""
+msgstr "အားလုံး {0} ပြန်ကြားချက်"
 
+#, fuzzy
 msgctxt "[\"COMMENT-VIEWS\"]"
 msgid "Views"
-msgstr ""
+msgstr "မြင်ကွင်းများ"
 
+#, fuzzy
 msgctxt "[\"COMMENT-COLLAPSED\"]"
 msgid "comment collapsed"
-msgstr ""
+msgstr "မှတ်ချက်ပျက်သွားသည်"
 
+#, fuzzy
 msgctxt "[\"COMMENT-REVIEW_OR_POST\"]"
 msgid "Post review or comment"
-msgstr ""
+msgstr "ပြန်လည်သုံးသပ်သို့မဟုတ်မှတ်ချက် ပို့စ်"
 
+#, fuzzy
 msgctxt "[\"COMMENT-REPLY\"]"
 msgid "Reply"
-msgstr ""
+msgstr "ပြန်ပြောပါ"
 
+#, fuzzy
 msgctxt "[\"COMMENT-NAME\"]"
 msgid "Name"
-msgstr ""
+msgstr "နာမည်"
 
+#, fuzzy
 msgctxt "[\"COMMENT-EMAIL\"]"
 msgid "Email"
-msgstr ""
+msgstr "အီးမေးလ်"
 
+#, fuzzy
 msgctxt "[\"COMMENT-SORT_BY_OLDEST\"]"
 msgid "Oldest"
-msgstr ""
+msgstr "အသက်အကြီးဆုံး"
 
+#, fuzzy
 msgctxt "[\"COMMENT-SORT_BY_BEST\"]"
 msgid "Best"
-msgstr ""
+msgstr "အကောင်းဆုံး"
 
+#, fuzzy
 msgctxt "[\"COMMENT-SORT_BY_BEST_LONG\"]"
 msgid "Sort by best"
-msgstr ""
+msgstr "အကောင်းဆုံးဖြင့်စီပါ"
 
+#, fuzzy
 msgctxt "[\"COMMENT-SORT_BY_MOST_RECENT\"]"
 msgid "Most Recent"
-msgstr ""
+msgstr "လတ်တလောလတ်တလေ"
 
+#, fuzzy
 msgctxt "[\"COMMENT-SORT_BY_MOST_SCORE\"]"
 msgid "Top rated"
-msgstr ""
+msgstr "ထိပ်တန်းအဆင့်သတ်မှတ်ချက်"
 
+#, fuzzy
 msgctxt "[\"COMMENT-SORT_BY_DEFAULT\"]"
 msgid "Sort by default"
-msgstr ""
+msgstr "ပုံမှန်အားဖြင့်စီပါ"
 
+#, fuzzy
 msgctxt "[\"COMMENT-RATING_REQUIRED\"]"
 msgid "Rating required"
-msgstr ""
+msgstr "အဆင့်သတ်မှတ်ချက်လိုအပ်သည်"
 
+#, fuzzy
 msgctxt "[\"COMMENT-GUEST\"]"
 msgid "Guest"
-msgstr ""
+msgstr "ဧည့်သည်"
 
+#, fuzzy
 msgctxt "[\"COMMENT-START_THE_DISCUSSION\"]"
 msgid "Start the discussion…"
-msgstr ""
+msgstr "ဆွေးနွေးမှုစတင်ပါ…"
 
+#, fuzzy
 msgctxt "[\"COMMENT-LOG_IN_WITH\"]"
 msgid "Log in with"
-msgstr ""
+msgstr "နှင့်ဝင်ပါ"
 
+#, fuzzy
 msgctxt "[\"COMMENT-COMMENTS_CANT_BE_BLANK\"]"
 msgid "Comments can't be blank."
-msgstr ""
+msgstr "မှတ်ချက်များသည်အလွတ်မဖြစ်နိုင်ပါ။"
 
+#, fuzzy
 msgctxt "[\"COMMENT-POST_AS_GUEST\"]"
 msgid "Post As a Guest"
-msgstr ""
+msgstr "ဧည့်သည်အဖြစ်ပို့စ်"
 
+#, fuzzy
 msgctxt "[\"COMMENT-LOGOUT\"]"
 msgid "Logout"
-msgstr ""
+msgstr "ထွက်ပေါက်"
 
+#, fuzzy
 msgctxt "[\"COMMENT-WEBSITE\"]"
 msgid "Website"
-msgstr ""
+msgstr "ဝဘ်ဆိုက်"
 
+#, fuzzy
 msgctxt "[\"COMMENT-TO_BE_FIRST\"]"
 msgid "Ooops! No such content!"
-msgstr ""
+msgstr "Ooops! ထိုကဲ့သို့သောအကြောင်းအရာမရှိပါ"
 
 msgctxt "[\"COMMENT-VOTE\"]"
 msgid "Vote"
-msgstr ""
+msgstr "မဲ"
 
+#, fuzzy
 msgctxt "[\"COMMENT-LIKE\"]"
 msgid "Like"
-msgstr ""
+msgstr "ကြိုက်တယ်"
 
+#, fuzzy
 msgctxt "[\"COMMENT-ERR_QUICK_LOGIN\"]"
 msgid "Quick login error, please try again."
-msgstr ""
+msgstr "အမြန်လော့အင်အမှား၊ ကျေးဇူးပြု၍ ထပ်မံကြိုးစားပါ။"
 
+#, fuzzy
 msgctxt "[\"COMMENT-ERR_EMAIL_NAME\"]"
 msgid "Incorrect mail or name"
-msgstr ""
+msgstr "မမှန်ကန်သောစာတိုက်သို့မဟုတ်နာမည်"
 
+#, fuzzy
 msgctxt "[\"COMMENT-ERR_DISCUSSION\"]"
 msgid "Incorrect in discussion"
-msgstr ""
+msgstr "ဆွေးနွေးမှုမှာမမှန်ကန်ပါ"
 
+#, fuzzy
 msgctxt "[\"COMMENT-ERR_RATE\"]"
 msgid "Vote failed, repeated"
-msgstr ""
+msgstr "ထပ်ခါတလဲလဲမဲမအောင်မြင်ပါ"
 
+#, fuzzy
 msgctxt "[\"COMMENT-ERR_SENSITIVE_WORD\"]"
 msgid "Comment failed, your post contains sensitive terms."
 msgstr ""
+"မှတ်ချက်မအောင်မြင်ပါ၊ သင့်စာမူတွင်အထိခိုက်မခံသောအသုံးအနှုန်းများပါရှိသည်။"
 
+#, fuzzy
 msgctxt "[\"COMMENT-ERR_SENSITIVE_WORD_AUDIT\"]"
 msgid "Your post contains sensitive terms and is pending approval by an admin"
 msgstr ""
+"သင်၏ပို့စ်တွင်အထိခိုက်မခံသောဝေါဟာရများပါ ၀ င်ပြီး admin "
+"၏ခွင့်ပြုချက်ကိုစောင့်ဆိုင်းနေသည်"
 
+#, fuzzy
 msgctxt "[\"COMMENT-ERR_LINK_AUDIT\"]"
 msgid "Your post contains link and is pending approval by an admin"
-msgstr ""
+msgstr "သင်၏ပို့စ်တွင် link ပါရှိပြီး admin မှအတည်ပြုချက်ကိုဆိုင်းငံ့ထားသည်"
 
+#, fuzzy
 msgctxt "[\"COMMENT-ERR_FORBIDDEN\"]"
 msgid "Permission denied"
-msgstr ""
+msgstr "ခွင့်တောင်းမှုငြင်းဆိုခြင်း"
 
+#, fuzzy
 msgctxt "[\"COMMENT-ERR_FAILURE\"]"
 msgid "Comment unknown"
-msgstr ""
+msgstr "မှတ်ချက်မရှိဘူး"
 
+#, fuzzy
 msgctxt "[\"COMMENT-ERR_EMOJI\"]"
 msgid "Emoji comments are not allowed any more! Write something..."
-msgstr ""
+msgstr "Emoji မှတ်ချက်များကိုခွင့်မပြုတော့ပါ။ တစ်ခုခုရေးပါ ..."
 
+#, fuzzy
 msgctxt "[\"COMMENT-ERR_NONE_MESSAGE\"]"
 msgid "You must write something!"
-msgstr ""
+msgstr "မင်းတစ်ခုခုရေးရမယ်။"
 
+#, fuzzy
 msgctxt "[\"COMMENT-ERR_INVALID_PARAMETER\"]"
 msgid "Invalid comment parameter"
-msgstr ""
+msgstr "မမှန်ကန်သောမှတ်ချက် parameter သည်"
 
+#, fuzzy
 msgctxt "[\"COMMENT-ERR_INVALID_USER\"]"
 msgid "You're banned from APKPure by using or posting content containing nudity images. Please edit or remove the images before contacting Admin to restore your account."
 msgstr ""
+"ဗလာရုပ်ပုံများပါ ၀ "
+"င်သည့်အကြောင်းအရာများကိုအသုံးပြုခြင်းသို့မဟုတ်တင်ခြင်းအားဖြင့်သင်သည် APKPure "
+"မှတားမြစ်ထားသည်။ သင်၏အကောင့်ကိုပြန်လည်ရယူရန်အတွက်အက်မင်နှင့်ဆက်သွယ်ခြင်းမပြုမ"
+"ီဓာတ်ပုံများကိုပြင်ဆင်တည်းဖြတ်ပါ။"
 
+#, fuzzy
 msgctxt "[\"COMMENT-ERR_INVALID_VIDEO_URL\"]"
 msgid "Invalid Video URL"
-msgstr ""
+msgstr "မမှန်ကန်သောဗီဒီယို URL"
 
+#, fuzzy
 msgctxt "[\"COMMENT-ERR_INVALID_REVIEW_USER\"]"
 msgid "To give your ratings, you need to verify your email."
-msgstr ""
+msgstr "သင်၏အဆင့်သတ်မှတ်ချက်များကိုပေးရန်သင်၏အီးမေးလ်ကိုစစ်ဆေးရန်လိုအပ်သည်။"
 
+#, fuzzy
 msgctxt "[\"COMMENT-DELETE\"]"
 msgid "Yes,delete it!"
-msgstr ""
+msgstr "ဟုတ်ကဲ့၊ ဖျက်ပစ်ပါ။"
 
+#, fuzzy
 msgctxt "[\"COMMENT-DELETED\"]"
 msgid "Deleted!"
-msgstr ""
+msgstr "ဖျက်လိုက်ပြီ"
 
+#, fuzzy
 msgctxt "[\"COMMENT-SAME_TEXT\"]"
 msgid "The text is the same, please post it later."
-msgstr ""
+msgstr "စာသားသည်အတူတူပင်ဖြစ်သည်၊ ကျေးဇူးပြုပြီးနောက်မှပို့ပါ"
 
+#, fuzzy
 msgctxt "[\"COMMENT-DEL\"]"
 msgid "Delete"
-msgstr ""
+msgstr "ဖျက်ပါ"
 
+#, fuzzy
 msgctxt "[\"COMMENT-ARE_YOU_SURE\"]"
 msgid "Are you sure?"
-msgstr ""
+msgstr "သေချာလား?"
 
+#, fuzzy
 msgctxt "[\"COMMENT-LOADING\"]"
 msgid "Comment Loading..."
-msgstr ""
+msgstr "မှတ်ချက်တင်နေသည် ..."
 
+#, fuzzy
 msgctxt "[\"COMMENT-DOWNLOAD_APK\"]"
 msgid "Download the APK file on APKPure."
-msgstr ""
+msgstr "APK ဖိုင်ပေါ်ရှိ APK ဖိုင်ကိုကူးယူပါ။"
 
+#, fuzzy
 msgctxt "[\"COMMENT-ERR_SHARE_APK_DENY\"]"
 msgid "This APP cannot be uploaded"
-msgstr ""
+msgstr "ဤအက်ပ်ကို တင်၍ မရပါ"
 
 msgctxt "[\"COMMENT-LINK\"]"
 msgid "Link"
-msgstr ""
+msgstr "လင့်ခ်"
 
+#, fuzzy
 msgctxt "[\"COMMENT-HASHTAG_NOT_EXIST\"]"
 msgid "The hashtag does not exist"
-msgstr ""
+msgstr "hashtag မရှိပါ"
 
+#, fuzzy
 msgctxt "[\"COMMENT-HASHTAG\"]"
 msgid "Hashtag"
-msgstr ""
+msgstr "နံပါတ်အစားအသုံးပြုသောဟက်ရှ်သင်္ကေတ"
 
+#, fuzzy
 msgctxt "[\"COMMENT-FOLLOW_COUNT\"]"
 msgid "Followers: {0}"
-msgstr ""
+msgstr "နောက်လိုက်များ {0}"
 
+#, fuzzy
 msgctxt "[\"COMMENT-POST_COUNT\"]"
 msgid "Posts: {0}"
-msgstr ""
+msgstr "ရေးသားချက်များ - {0}"
 
+#, fuzzy
 msgctxt "[\"PRE-REGISTER\"]"
 msgid "Pre-Registration Games"
-msgstr ""
+msgstr "အကြိုမှတ်ပုံတင်ခြင်းဂိမ်းများ"
 
+#, fuzzy
 msgctxt "[\"PRE-REGISTRANTS\"]"
 msgid "Pre-Registrants"
-msgstr ""
+msgstr "ကြိုတင်စာရင်းသွင်းသူ"
 
+#, fuzzy
 msgctxt "[\"PRE-REGISTER_DETAILS\"]"
 msgid "Pre-Register Details"
-msgstr ""
+msgstr "ကြိုတင်စာရင်းသွင်းအသေးစိတ်"
 
+#, fuzzy
 msgctxt "[\"PRE-REGISTER_DATE\"]"
 msgid "Release Date"
-msgstr ""
+msgstr "ဖြန့်ချိသည့်ရက်"
 
+#, fuzzy
 msgctxt "[\"PRE-REGISTER_REWARDS\"]"
 msgid "Register Rewards"
-msgstr ""
+msgstr "ဆုချီးမြှင့်မှတ်ပုံတင်ပါ"
 
+#, fuzzy
 msgctxt "[\"PRE-REGISTER_PAGE\"]"
 msgid "Pre-Register Page"
-msgstr ""
+msgstr "ကြိုတင်စာရင်းသွင်းစာမျက်နှာ"
 
+#, fuzzy
 msgctxt "[\"HASHTAG\"]"
 msgid "HASHTAG"
-msgstr ""
+msgstr "နံပါတ်အစားအသုံးပြုသောဟက်ရှ်သင်္ကေတ"
 
 msgctxt "[\"HOT_HASHTAG\"]"
 msgid "Featured Hashtags"
-msgstr ""
+msgstr "ကဗျာအစားအသုံးပြုသူဟက်ရှ်သင်္ကေတ"
 
+#, fuzzy
 msgctxt "[\"COOL_COMMENT\"]"
 msgid "Cool Comment"
-msgstr ""
+msgstr "ထင်မြင်ချက်"
 
 msgctxt "[\"MORE_COOL_COMMENTS\"]"
 msgid "More cool comments"
-msgstr ""
+msgstr "ပိုပြီးအေးမြသောမှတ်ချက်များ"
 
+#, fuzzy
 msgctxt "[\"USER-SETTINGS\"]"
 msgid "Settings"
-msgstr ""
+msgstr "ချိန်ညှိချက်များ"
 
 msgctxt "[\"USER-INFO_ALL\"]"
 msgid "All"
-msgstr ""
+msgstr "အားလုံး"
 
+#, fuzzy
 msgctxt "[\"USER-INFO_REVIEW\"]"
 msgid "Review"
-msgstr ""
+msgstr "ပြန်လည်သုံးသပ်"
 
+#, fuzzy
 msgctxt "[\"USER-INFO_STORY\"]"
 msgid "Story"
-msgstr ""
+msgstr "ပုံပြင်"
 
+#, fuzzy
 msgctxt "[\"USER-SAY_SOMETHING\"]"
 msgid "Why do you want to delete this account?"
-msgstr ""
+msgstr "ဤအကောင့်ကိုအဘယ်ကြောင့်ဖျက်လိုသနည်း"
 
 msgctxt "[\"USER-A_PRIVATE_ACCOUNT\"]"
 msgid "It's a private account."
-msgstr ""
+msgstr "၎င်းသည်သီးသန့်အကောင့်တစ်ခုဖြစ်သည်။"
 
+#, fuzzy
 msgctxt "[\"USER-PRIVACY_SETTING\"]"
 msgid "Privacy Settings"
-msgstr ""
+msgstr "ကိုယ်ရေးကိုယ်တာ ပြုပြင်ခက်တွေကို"
 
+#, fuzzy
 msgctxt "[\"USER-PRIVATE_ACCOUNT\"]"
 msgid "Private Account"
-msgstr ""
+msgstr "ကိုယ်ပိုင်အကောင့်"
 
+#, fuzzy
 msgctxt "[\"USER-DELETE_ACCOUNT\"]"
 msgid "Delete your account and information"
-msgstr ""
+msgstr "သင်၏အကောင့်နှင့်အချက်အလက်များကိုဖျက်ပါ"
 
+#, fuzzy
 msgctxt "[\"USER-FOLLOWING\"]"
 msgid "Following"
-msgstr ""
+msgstr "အောက်ပါ"
 
+#, fuzzy
 msgctxt "[\"USER-FOLLOWER\"]"
 msgid "Followers"
-msgstr ""
+msgstr "နောက်လိုက်များ"
 
+#, fuzzy
 msgctxt "[\"USER-LIKES\"]"
 msgid "Likes"
-msgstr ""
+msgstr "ကြိုက်တယ်"
 
+#, fuzzy
 msgctxt "[\"USER-POSTS\"]"
 msgid "Posts"
-msgstr ""
+msgstr "ပို့စ်များ"
 
+#, fuzzy
 msgctxt "[\"USER-REVIEWS\"]"
 msgid "Reviews"
-msgstr ""
+msgstr "သုံးသပ်ချက်များ"
 
+#, fuzzy
 msgctxt "[\"USER-REVIEWS_NONE\"]"
 msgid "Too few users ratings"
-msgstr ""
+msgstr "သုံးစွဲသူအဆင့်သတ်မှတ်ချက်များအလွန်နည်းသည်"
 
+#, fuzzy
 msgctxt "[\"USER-FAVORITES\"]"
 msgid "Favorites"
-msgstr ""
+msgstr "အကြိုက်ဆုံးများ"
 
+#, fuzzy
 msgctxt "[\"USER-PROFILE\"]"
 msgid "Profile"
-msgstr ""
+msgstr "ကိုယ်ရေးအကျဉ်း"
 
+#, fuzzy
 msgctxt "[\"USER-CHANGE_PASSWORD\"]"
 msgid "Change Password"
-msgstr ""
+msgstr "စကားဝှက်ကိုပြောင်းရန်"
 
+#, fuzzy
 msgctxt "[\"USER-MESSAGES\"]"
 msgid "Messages"
-msgstr ""
+msgstr "မက်ဆေ့ခ်ျများ"
 
+#, fuzzy
 msgctxt "[\"USER-MY_FAVORITE\"]"
 msgid "My Favorite"
-msgstr ""
+msgstr "ကိုယ်နှစ်သက်သော"
 
+#, fuzzy
 msgctxt "[\"USER-LIKED_COMMENTS\"]"
 msgid "Liked Comments"
-msgstr ""
+msgstr "မှတ်ချက်များကြိုက်ခဲ့သည်"
 
+#, fuzzy
 msgctxt "[\"USER-NEW_PASSWORD\"]"
 msgid "New password"
-msgstr ""
+msgstr "စကားဝှက်အသစ်"
 
+#, fuzzy
 msgctxt "[\"USER-CURRENT_PASSWORD\"]"
 msgid "Current password"
-msgstr ""
+msgstr "လက်ရှိစကားဝှက်"
 
+#, fuzzy
 msgctxt "[\"USER-ACCOUNT_EXIST\"]"
 msgid "The username is already in use."
-msgstr ""
+msgstr "အသုံးပြုသူအမည်သုံးစွဲထားပြီးဖြစ်သည်"
 
+#, fuzzy
 msgctxt "[\"USER-ACCOUNT_NOT_EXIST\"]"
 msgid "The account you entered does not exist."
-msgstr ""
+msgstr "သင်ဖြည့်ထားသောအကောင့်မရှိပါ။"
 
+#, fuzzy
 msgctxt "[\"USER-DISPLAY_NAME_EXIST\"]"
 msgid "The nickname is already in use."
-msgstr ""
+msgstr "အမည်ပြောင်ကိုအသုံးပြုပြီးဖြစ်သည်။"
 
+#, fuzzy
 msgctxt "[\"USER-INCORRECT_EMAIL\"]"
 msgid "The e-mail address you entered is invalid."
-msgstr ""
+msgstr "သင်ရိုက်ထည့်သောအီးမေးလိပ်စာသည်မမှန်ကန်ပါ။"
 
+#, fuzzy
 msgctxt "[\"USER-INCORRECT_PASSWORD\"]"
 msgid "The password you entered is invalid."
-msgstr ""
+msgstr "သင်ရေးထည့်သောစကားဝှက်မှာမမှန်ကန်ပါ"
 
+#, fuzzy
 msgctxt "[\"USER-INCORRECT_ACCOUNT\"]"
 msgid "The username you entered is invalid."
-msgstr ""
+msgstr "သင်ဖြည့်သွင်းထားသောသုံးစွဲသူအမည်မှားသည်"
 
+#, fuzzy
 msgctxt "[\"USER-INCORRECT_BIRTHDAY\"]"
 msgid "You have entered an invalid birthday."
-msgstr ""
+msgstr "မမှန်ကန်တဲ့မွေးနေ့ကိုရေးပါ"
 
+#, fuzzy
 msgctxt "[\"USER-INCORRECT_INTRO\"]"
 msgid "Information you have entered contains invalid characters."
-msgstr ""
+msgstr "သင်ဖြည့်သွင်းထားသောအချက်အလက်များတွင်မမှန်ကန်သောစာလုံးများပါရှိသည်။"
 
+#, fuzzy
 msgctxt "[\"USER-UNKNOWN_ERROR\"]"
 msgid "unknown mistake."
-msgstr ""
+msgstr "မသိသောအမှား။"
 
+#, fuzzy
 msgctxt "[\"USER-DISABLE\"]"
 msgid "This account has been deleted"
-msgstr ""
+msgstr "ဒီအကောင့်ကိုဖျက်ထားသည်"
 
+#, fuzzy
 msgctxt "[\"USER-BAD_NAME\"]"
 msgid "Your input includes sensitive vocabulary."
-msgstr ""
+msgstr "သင်၏ထည့်သွင်းမှုတွင်အထိခိုက်မခံသောဝေါဟာရပါဝင်သည်။"
 
+#, fuzzy
 msgctxt "[\"USER-SOCIAL_ALREADY_BIND\"]"
 msgid "This third-party account has been connected to another account."
-msgstr ""
+msgstr "ဤတတိယပါတီအကောင့်ကိုအခြားအကောင့်တစ်ခုနှင့်ချိတ်ဆက်ထားသည်"
 
+#, fuzzy
 msgctxt "[\"USER-EMAIL_EXIST\"]"
 msgid "This email has been connected to another account."
-msgstr ""
+msgstr "ဤအီးမေးလ်သည်အခြားအကောင့်တစ်ခုနှင့်ချိတ်ဆက်ထားသည်"
 
+#, fuzzy
 msgctxt "[\"USER-SEND_EMAIL_ERR\"]"
 msgid "Failed to send verification code."
-msgstr ""
+msgstr "အတည်ပြုနံပါတ်ကိုပို့ရန်မအောင်မြင်ပါ။"
 
+#, fuzzy
 msgctxt "[\"USER-EMAIL_UNBOUND\"]"
 msgid "This email address is not connected to any account."
-msgstr ""
+msgstr "ဤအီးမေးလိပ်စာသည်မည်သည့်အကောင့်နှင့်မျှဆက်သွယ်မှုမရှိပါ"
 
+#, fuzzy
 msgctxt "[\"USER-CAPTCHA_TIME_OUT\"]"
 msgid "Verification Code Timeout."
-msgstr ""
+msgstr "အတည်ပြုချက်ကုဒ်အချိန်ကုန်။"
 
+#, fuzzy
 msgctxt "[\"USER-INCORRECT_CAPTCHA\"]"
 msgid "Incorrect Verification Code"
-msgstr ""
+msgstr "မှားယွင်းနေသောအတည်ပြု Code ကို"
 
+#, fuzzy
 msgctxt "[\"USER-SEND_VERIFICATION_CODE\"]"
 msgid "Send verification code"
-msgstr ""
+msgstr "အတည်ပြုကုဒ်ပို့ပါ"
 
+#, fuzzy
 msgctxt "[\"USER-SEND_CODE\"]"
 msgid "Send Code"
-msgstr ""
+msgstr "ကုဒ် ကိုပို့ပါ"
 
+#, fuzzy
 msgctxt "[\"USER-CONNECT_YOUR_EMAIL\"]"
 msgid "Connect your email"
-msgstr ""
+msgstr "သင်၏အီးမေးလ်ကိုဆက်သွယ်ပါ"
 
+#, fuzzy
 msgctxt "[\"USER-CHANGE_EMAIL\"]"
 msgid "Change email"
-msgstr ""
+msgstr "အီးမေးလ်ပြောင်းပါ"
 
+#, fuzzy
 msgctxt "[\"USER-CONNECT_YOUR_EMAIL_FIRST\"]"
 msgid "Please connect your email first"
-msgstr ""
+msgstr "ကျေးဇူးပြု၍ သင့်အီးမေးလ်ကိုအရင်ဆက်သွယ်ပါ"
 
+#, fuzzy
 msgctxt "[\"USER-FEMALE\"]"
 msgid "Female"
-msgstr ""
+msgstr "အမျိုးသမီး"
 
+#, fuzzy
 msgctxt "[\"USER-MALE\"]"
 msgid "Male"
-msgstr ""
+msgstr "အမျိုးသား"
 
+#, fuzzy
 msgctxt "[\"USER-USER_LOGIN\"]"
 msgid "User Login"
-msgstr ""
+msgstr "အသုံးပြုသူဝင်ရန်"
 
+#, fuzzy
 msgctxt "[\"USER-USERNAME\"]"
 msgid "Username"
-msgstr ""
+msgstr "အသုံးပြုသူအမည်"
 
+#, fuzzy
 msgctxt "[\"USER-NICKNAME\"]"
 msgid "Nickname"
-msgstr ""
+msgstr "အမည်ပြောင်"
 
+#, fuzzy
 msgctxt "[\"USER-BIRTHDAY\"]"
 msgid "Birthday"
-msgstr ""
+msgstr "မွေးနေ့"
 
+#, fuzzy
 msgctxt "[\"USER-GENDER\"]"
 msgid "Gender"
-msgstr ""
+msgstr "လိင်"
 
+#, fuzzy
 msgctxt "[\"USER-SAVE\"]"
 msgid "Save"
-msgstr ""
+msgstr "သိမ်းဆည်းပါ"
 
+#, fuzzy
 msgctxt "[\"USER-SAVE_BTN\"]"
 msgid "SAVE"
-msgstr ""
+msgstr "သိမ်းဆည်းပါ"
 
+#, fuzzy
 msgctxt "[\"USER-SAVING\"]"
 msgid "Saving..."
-msgstr ""
+msgstr "သိမ်းနေသည် ..."
 
+#, fuzzy
 msgctxt "[\"USER-MY_PICTURE\"]"
 msgid "My Picture"
-msgstr ""
+msgstr "ကျွန်တော့်ပုံ"
 
+#, fuzzy
 msgctxt "[\"USER-CHANGE_PICTURE\"]"
 msgid "Change Picture"
-msgstr ""
+msgstr "ရုပ်ပုံပြောင်းပါ"
 
+#, fuzzy
 msgctxt "[\"USER-PASSWORD\"]"
 msgid "Password"
-msgstr ""
+msgstr "စကားဝှက်"
 
+#, fuzzy
 msgctxt "[\"USER-RETRIEVE_PASSWORD\"]"
 msgid "Retrieve Password"
-msgstr ""
+msgstr "စကားဝှက်ကိုပြန်လည်ရယူပါ"
 
+#, fuzzy
 msgctxt "[\"USER-NEW_USER_REGISTRATION\"]"
 msgid "New User Registration"
-msgstr ""
+msgstr "အသုံးပြုသူအသစ်မှတ်ပုံတင်ခြင်း"
 
+#, fuzzy
 msgctxt "[\"USER-SIGN_IN_BTN\"]"
 msgid "SIGN IN"
-msgstr ""
+msgstr "ဆိုင်းအင်လုပ်ခြင်း"
 
+#, fuzzy
 msgctxt "[\"USER-SIGN_IN\"]"
 msgid "Sign In"
-msgstr ""
+msgstr "ဆိုင်းအင်လုပ်ခြင်း"
 
+#, fuzzy
 msgctxt "[\"USER-SIGN_IN_WITH\"]"
 msgid "Or sign in with"
-msgstr ""
+msgstr "ဒါမှမဟုတ်ဆိုင်းအင်လုပ်ပါ"
 
+#, fuzzy
 msgctxt "[\"USER-SIGN_UP_BTN\"]"
 msgid "SIGN UP"
-msgstr ""
+msgstr "လက်မှတ်ထိုးဝင်ရန်"
 
+#, fuzzy
 msgctxt "[\"USER-SIGN_UP\"]"
 msgid "Sign Up"
-msgstr ""
+msgstr "ဝန်ရန်"
 
+#, fuzzy
 msgctxt "[\"USER-CONFIRM_PASSWORD\"]"
 msgid "Confirm Password"
-msgstr ""
+msgstr "စကားဝှက်ကိုအတည်ပြုပါ"
 
+#, fuzzy
 msgctxt "[\"USER-TERMS_SERVICE\"]"
 msgid "By signing up you agree to our <a href='/terms-service.html' target='_blank'>terms of service</a>"
 msgstr ""
+"စာရင်းသွင်းခြင်းအားဖြင့်သင်တို့ကိုငါတို့သဘောတူသည် <a href='/terms-"
+"service.html' target='_blank'>ဝန်ဆောင်မှု၏စည်းကမ်းချက်များ</a>"
 
+#, fuzzy
 msgctxt "[\"REGION_DOWN-TITLE\"]"
 msgid "Region free APK download"
-msgstr ""
+msgstr "ဒေသအခမဲ့ APK download လုပ်ပါ"
 
+#, fuzzy
 msgctxt "[\"REGION_DOWN-DES\"]"
 msgid "- Download your favorite Android Apps with APK Downloader (Free Apps Only).<br>- Your download will begin automatically after you paste a package id and click the download button.<br>- Download failed? Please manually change country setting and try again.<br>- Want to tell us more about your problems? <a style='color:#FFFF00' href='contact-us.html'>Contact us here</a>"
 msgstr ""
+"- သင်၏အကြိုက်ဆုံး အင်းဒရိုက် အက်ပလီကေးရှင်းများကို APK ဒေါင်းလုပ် "
+"(အခမဲ့အက်ပလီကေးရှင်းများသာ) ဖြင့်ဒေါင်းလုပ်လုပ်ပါ။ - သင်အထုပ် id ကိုကူးထည့်ပြ"
+"ီးဒေါင်းလုပ်ခလုတ်ကိုနှိပ်ပြီးနောက်သင်၏ဒေါင်းလုပ်သည်အလိုအလျောက်စတင်မည်။ "
+"ကျေးဇူးပြု၍ ကိုယ်တိုင်ချိန်ညှိချက်ပြောင်းပြီးထပ်မံကြိုးစားပါ။ <br> - "
+"သင်၏ပြသနာများအကြောင်းပိုမိုပြောပြလိုပါသလား။ <a style='color:#FFFF00' href"
+"='contact-us.html'> ဤနေရာတွင်ကျွန်ုပ်တို့ကိုဆက်သွယ်ပါ။ </a>"
 
+#, fuzzy
 msgctxt "[\"REGION_DOWN-PLACEHOLDER\"]"
 msgid "com.facebook.katana or https://play.google.com...?id=com.facebook.katana"
 msgstr ""
+"com.facebook.katana သို့မဟုတ် https: //play.google.com ... ? id = com."
+"facebook.katana"
 
+#, fuzzy
 msgctxt "[\"REGION_DOWN-SEARCH\"]"
 msgid "Search"
-msgstr ""
+msgstr "ရှာပါ"
 
+#, fuzzy
 msgctxt "[\"REGION_DOWN-COUNTRY_NAME\"]"
 msgid "Country name or Region code"
-msgstr ""
+msgstr "နိုင်ငံအမည်သို့မဟုတ်တိုင်းဒေသကြီးကုဒ်"
 
+#, fuzzy
 msgctxt "[\"REGION_DOWN-MOBILE_TITLE\"]"
 msgid "APK Downloader"
-msgstr ""
+msgstr "အက်ပလီကေးရှင်း ဒေါင်းလုဒ်"
 
+#, fuzzy
 msgctxt "[\"REGION_DOWN-MOBILE_DES\"]"
 msgid "All Region Games and Apps Download."
-msgstr ""
+msgstr "အားလုံးဒေသကြီးဂိမ်းများနှင့် Apps ကဒေါင်းလုပ်။"
 
+#, fuzzy
 msgctxt "[\"LAST_DOWNLOAD\"]"
 msgid "Last Download"
-msgstr ""
+msgstr "နောက်ဆုံးဒေါင်းလုဒ်လုပ်ပါ"
 
+#, fuzzy
 msgctxt "[\"SIGN_VERIFY-TITLE\"]"
 msgid "Signature Verification Online"
-msgstr ""
+msgstr "အွန်လိုင်းလက်မှတ်"
 
+#, fuzzy
 msgctxt "[\"SIGN_VERIFY-CLICK_UPLOAD\"]"
 msgid "Click Upload APK file"
-msgstr ""
+msgstr "အေပီကေ တင်ရန် ဖိုင်ကိုနှိပ်ပါ"
 
+#, fuzzy
 msgctxt "[\"SIGN_VERIFY-MAXIMUM\"]"
 msgid "Maximum file size"
-msgstr ""
+msgstr "ဖိုင်အရွယ်အစားအများဆုံး"
 
+#, fuzzy
 msgctxt "[\"SIGN_VERIFY-DES\"]"
 msgid "APK Signature verification will verify Android app package signature to keep Android users away from potentially harmful APK files before APK installing."
 msgstr ""
+"APK မှတ်ပုံတင်ခြင်း ကိုအတည်ပြုခြင်းသည် အင်းဒရိုက် အက်(ပ်) မှတ်ပုံတင်ခြင်း "
+"ကိုစစ်ဆေးပြီး အင်းဒရိုက် သုံးစွဲသူများအား APK မထည့်သွင်းမီအန္တရာယ်ရှိသော APK "
+"ဖိုင်များမှရှောင်ရှားရန်။"
 
+#, fuzzy
 msgctxt "[\"SIGN_VERIFY-PACKAGE_NAME\"]"
 msgid "Package Name"
-msgstr ""
+msgstr "ပက်ကေ့ရှ် အမည်"
 
+#, fuzzy
 msgctxt "[\"SIGN_VERIFY-FILE_SIZE\"]"
 msgid "File Size"
-msgstr ""
+msgstr "ဖိုင်အရွယ်အစား"
 
+#, fuzzy
 msgctxt "[\"SEARCH-ON_THE_APP_STORE\"]"
 msgid "{0} On the App Store"
-msgstr ""
+msgstr "{၀} အက်(ပ်) သိုလှောင်ခန်း တွင်"
 
+#, fuzzy
 msgctxt "[\"SEARCH-ADVANCED_SEARCH\"]"
 msgid "Advanced Search"
-msgstr ""
+msgstr "အဆင့်မြင့်ရှာဖွေရေး"
 
+#, fuzzy
 msgctxt "[\"SEARCH-SEARCH_RESULTS\"]"
 msgid "{0} search results found."
-msgstr ""
+msgstr "{၀} ရှာဖွေမှုရလဒ်များကိုရှ"
 
+#, fuzzy
 msgctxt "[\"SEARCH-NO_RESULTS_FOUND\"]"
 msgid "No results found? Try to advanced search again."
-msgstr ""
+msgstr "ရှာမတွေ့ပါ။ ထပ်မံရှာဖွေရန်ကြိုးစားပါ"
 
+#, fuzzy
 msgctxt "[\"SEARCH-SELECT_REGION\"]"
 msgid "Select a region you want to search with"
-msgstr ""
+msgstr "သင်ရှာဖွေလိုသည့်ဒေသတစ်ခုကိုရွေးချယ်ပါ"
 
+#, fuzzy
 msgctxt "[\"SEARCH-ABOUT_RESULTS\"]"
 msgid "About {0} results"
-msgstr ""
+msgstr "{၀} ရလဒ်အကြောင်း"
 
+#, fuzzy
 msgctxt "[\"SEARCH-PLACEHOLDER1\"]"
 msgid "APKPure or com.apkpure.aegon"
-msgstr ""
+msgstr "APKPure သို့မဟုတ် com.apkpure.aegon"
 
+#, fuzzy
 msgctxt "[\"SEARCH-PLACEHOLDER2\"]"
 msgid "Search..."
-msgstr ""
+msgstr "ရှာရန် ..."
 
+#, fuzzy
 msgctxt "[\"SEARCH-PLACEHOLDER3\"]"
 msgid "Name Or Package Name"
-msgstr ""
+msgstr "အမည်သို့မဟုတ်အထုပ်အမည်"
 
+#, fuzzy
 msgctxt "[\"SEARCH-TITLE\"]"
 msgid "Enter App Name, Package Name, Package ID"
-msgstr ""
+msgstr "အက်(ပ်) နာမည်၊ ပက်ကေ့ရှ် အမည်၊ ပက်ကေ့ရှ် ID ကိုရိုက်ထည့်ပါ"
 
+#, fuzzy
 msgctxt "[\"SEARCH-APK\"]"
 msgid "Search APK"
-msgstr ""
+msgstr "ရှာရန် APK"
 
+#, fuzzy
 msgctxt "[\"SEARCH-APP\"]"
 msgid "Search App"
-msgstr ""
+msgstr "အက်(ပ်) ကိုရှာပါ"
 
+#, fuzzy
 msgctxt "[\"SEARCH-TRENDING\"]"
 msgid "Trending searches"
-msgstr ""
+msgstr "ခေတ်မှီရှာဖွေမှုများ"
 
+#, fuzzy
 msgctxt "[\"SEARCH-HISTORY\"]"
 msgid "Search history"
-msgstr ""
+msgstr "ရှာဖွေခြင်းရာဇဝင်"
 
+#, fuzzy
 msgctxt "[\"SEARCH-FEATURED_HASHTAG\"]"
 msgid "Featured hashtags"
-msgstr ""
+msgstr "ရှက်"
 
+#, fuzzy
 msgctxt "[\"SEARCH-TAB_USERS\"]"
 msgid "Users"
-msgstr ""
+msgstr "အသုံးပြုသူများ"
 
+#, fuzzy
 msgctxt "[\"SEARCH-TAB_HASHTAGS\"]"
 msgid "Hashtags"
-msgstr ""
+msgstr "ရှက်"
 
+#, fuzzy
 msgctxt "[\"SEARCH-NO_RESULTS\"]"
 msgid "Sorry, no results found."
-msgstr ""
+msgstr "စိတ်မရှိပါနဲ့ရှာမတွေ့ပါ။"
 
+#, fuzzy
 msgctxt "[\"404-OOPS\"]"
 msgid "OOPS!,"
-msgstr ""
+msgstr "OOPS !,"
 
+#, fuzzy
 msgctxt "[\"404-Error_404\"]"
 msgid "Error 404!"
-msgstr ""
+msgstr "အမှား ၄၀၄!"
 
+#, fuzzy
 msgctxt "[\"PRE-REG-RECOMMEND\"]"
 msgid "Recommendations"
-msgstr ""
+msgstr "အကြံပြုချက်များ"
 
+#, fuzzy
 msgctxt "[\"404-DES\"]"
 msgid "It seems that page you are looking for no longer exists.<br />You can explore more Android Games and Apps below!"
 msgstr ""
+"သင်ရှာဖွေနေတဲ့စာမျက်နှာဟာမရှိတော့ဘူးလို့ထင်ရတယ်။<br />အင်းဒရိုက် "
+"ဂိမ်းများနှင့်အက်ပလီကေးရှင်းများကိုအောက်တွင်လေ့လာနိုင်ပါသည်။"
 
+#, fuzzy
 msgctxt "[\"FREQUENTLY-VISITED\"]"
 msgid "Your operation is too frequent. Please try again in {time} minutes."
 msgstr ""
+"သင့်ရဲ့စစ်ဆင်ရေးလွန်းမကြာခဏဖြစ်ပါတယ်။ {အချိန်} "
+"မိနစ်ပိုင်းအတွင်းထပ်မံကြိုးစားပါ။"
 
 msgctxt "[\"COPYRIGHT\"]"
 msgid "Copyright © 2014-2020 APKPure All rights reserved."
@@ -1343,25 +1656,30 @@ msgctxt "[\"COPYRIGHT_MOBILE\"]"
 msgid "APKPure.com © 2014-2020"
 msgstr ""
 
+#, fuzzy
 msgctxt "[\"COMING_SOON\"]"
 msgid "COMING SOON"
-msgstr ""
+msgstr "မကြာမှီလာမည်"
 
+#, fuzzy
 msgctxt "[\"SEARCHING\"]"
 msgid "Searching..."
-msgstr ""
+msgstr "ရှာဖွေနေသည် ..."
 
+#, fuzzy
 msgctxt "[\"FOOTER-APK_DOWNLOADS_SEO\"]"
 msgid "APK Downloads"
-msgstr ""
+msgstr "APK ဒေါင်းလုပ်များ"
 
+#, fuzzy
 msgctxt "[\"FOOTER-APK_DOWNLOAD\"]"
 msgid "APK Downloader (Region free)"
-msgstr ""
+msgstr "APK ဒေါင်းလုပ် (တိုင်းအခမဲ့)"
 
+#, fuzzy
 msgctxt "[\"FOOTER-APK_SIGNATURE_VERIFICATION\"]"
 msgid "APK Signature Verification"
-msgstr ""
+msgstr "APK လက်မှတ်လက်မှတ်ထိုးခြင်း"
 
 msgctxt "[\"FOOTER-APK_TO_APPX\"]"
 msgid "APK to APPX"
@@ -1403,9 +1721,10 @@ msgctxt "[\"FOOTER-MOBILE_SITE\"]"
 msgid "Mobile Site"
 msgstr ""
 
+#, fuzzy
 msgctxt "[\"FOOTER-CONTACT_US\"]"
 msgid "Contact Us"
-msgstr ""
+msgstr "ဆက်သွယ်ပါ"
 
 msgctxt "[\"FOOTER-ABOUT\"]"
 msgid "About Us"
@@ -2675,3 +2994,33 @@ msgstr "အက်(ပ်)"
 msgctxt "[\"GAME\"]"
 msgid "Game"
 msgstr "ဂိမ်း"
+
+#, fuzzy
+msgctxt "[\"COPYRIGHT\"]"
+msgid "Copyright © 2014-2021 APKPure All rights reserved."
+msgstr "မူပိုင်ခွင့်© 2014-2021 APKPure All rights reserved ။"
+
+#, fuzzy
+msgctxt "[\"DETAIL-CATEGORY_APP\"]"
+msgid "{0} App"
+msgstr "{0} အက်ပလီကေးရှင်း"
+
+#, fuzzy
+msgctxt "[\"DETAIL-CATEGORY_GAME\"]"
+msgid "{0} Game"
+msgstr "{0} ဂိမ်"
+
+#, fuzzy
+msgctxt "[\"DETAIL-MORE_FROM\"]"
+msgid "More Apps from {0}"
+msgstr "{0} မှနောက်ထပ်အက်ပ်များ"
+
+#, fuzzy
+msgctxt "[\"ADDITIONAL_INFORMATION\"]"
+msgid "Additional App Information"
+msgstr "အပိုဆောင်း အက်(ပ်) သတင်းအချက်အလက်"
+
+#, fuzzy
+msgctxt "[\"UPLOADER\"]"
+msgid "App uploaded by"
+msgstr "တင်ယူအက်ပလီကေးရှင်း"
