@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-12-05 01:34+0000\n"
-"PO-Revision-Date: 2021-02-24 06:48+0000\n"
+"PO-Revision-Date: 2021-02-24 17:11+0000\n"
 "Last-Translator: zaw zaw <www.uzaw321@gmail.com>\n"
 "Language-Team: Burmese <https://translate.apkpure.com/projects/apkpure/"
 "apkpurecom/my/>\n"
@@ -1374,77 +1374,62 @@ msgctxt "[\"COPYRIGHT_MOBILE\"]"
 msgid "APKPure.com © 2014-2020"
 msgstr ""
 
-#, fuzzy
 msgctxt "[\"COMING_SOON\"]"
 msgid "COMING SOON"
 msgstr "မကြာမှီလာမည်"
 
-#, fuzzy
 msgctxt "[\"SEARCHING\"]"
 msgid "Searching..."
 msgstr "ရှာဖွေနေသည် ..."
 
-#, fuzzy
 msgctxt "[\"FOOTER-APK_DOWNLOADS_SEO\"]"
 msgid "APK Downloads"
 msgstr "APK ဒေါင်းလုပ်များ"
 
-#, fuzzy
 msgctxt "[\"FOOTER-APK_DOWNLOAD\"]"
 msgid "APK Downloader (Region free)"
 msgstr "APK ဒေါင်းလုပ် (တိုင်းအခမဲ့)"
 
-#, fuzzy
 msgctxt "[\"FOOTER-APK_SIGNATURE_VERIFICATION\"]"
 msgid "APK Signature Verification"
 msgstr "APK လက်မှတ်လက်မှတ်ထိုးခြင်း"
 
-#, fuzzy
 msgctxt "[\"FOOTER-APK_TO_APPX\"]"
 msgid "APK to APPX"
 msgstr "APPX APK ကိုနှိပ်ပါ"
 
-#, fuzzy
 msgctxt "[\"FOOTER-PRIVACY_POLICY\"]"
 msgid "Privacy Policy"
 msgstr "ကိုယ်ရေးအချက်အလက်မူဝါဒ"
 
-#, fuzzy
 msgctxt "[\"FOOTER-DMCA\"]"
 msgid "DMCA Disclaimer"
 msgstr "DMCA ရှင်းလင်းချက်"
 
-#, fuzzy
 msgctxt "[\"FOOTER-TERM_OF_USE\"]"
 msgid "Term of Use"
 msgstr "အသုံးပြုမှုကာလ"
 
-#, fuzzy
 msgctxt "[\"FOOTER-MARKET_FOR_ANDROID\"]"
 msgid "APKPure For Android"
 msgstr "အင်းဒရိုက် အတွက် APKPure"
 
-#, fuzzy
 msgctxt "[\"FOOTER-EXPLORE_XAPK_GAMES\"]"
 msgid "Explore XAPK Games"
 msgstr "XAPK ဂိမ်းများကိုစူးစမ်းပါ"
 
-#, fuzzy
 msgctxt "[\"FOOTER-EXPLORE_XAPK_APPS\"]"
 msgid "Explore XAPK Apps"
 msgstr "XAPK အက်(ပ်) များကိုလေ့လာပါ"
 
-#, fuzzy
 msgctxt "[\"FOOTER-DESKTOP_VERSION\"]"
 msgid "Desktop Version"
 msgstr "ဒတ်စတော့ ဗားရှင်"
 
-#, fuzzy
 msgctxt "[\"FOOTER-MOBILE_VERSION\"]"
 msgid "Mobile Version"
 msgstr "မိုဘိုင်းဗားရှင်း"
 
-#, fuzzy
 msgctxt "[\"FOOTER-MOBILE_SITE\"]"
 msgid "Mobile Site"
 msgstr "မိုဘိုင်းဆိုက်"
@@ -1453,446 +1438,472 @@ msgctxt "[\"FOOTER-CONTACT_US\"]"
 msgid "Contact Us"
 msgstr "ဆက်သွယ်ပါ"
 
-#, fuzzy
 msgctxt "[\"FOOTER-ABOUT\"]"
 msgid "About Us"
 msgstr "ကျွန်ုပ်တို့အကြောင်း"
 
-#, fuzzy
 msgctxt "[\"FOOTER-UPLOAD-APK\"]"
 msgid "Submit APK"
 msgstr "APK တင်သွင်းပါ"
 
-#, fuzzy
 msgctxt "[\"FOOTER-SOLUTIONS\"]"
 msgid "SOLUTIONS"
 msgstr "အဖြေ"
 
-#, fuzzy
 msgctxt "[\"FOOTER-CUSTOMER_SERVICE\"]"
 msgid "CUSTOMER SERVICE"
 msgstr "ဧည့်ဝန်ဆောင်မှု"
 
-#, fuzzy
 msgctxt "[\"FOOTER-FOLLOW_US\"]"
 msgid "FOLLOW US"
 msgstr "ကျွန်ုပ်တို့နောက်လိုက်ပါ"
 
-#, fuzzy
 msgctxt "[\"FOOTER-TOP_ANDROID_APPS\"]"
 msgid "TOP ANDROID APPS"
 msgstr "ထိပ်တန်း အင်းဒရိုက် အက်ပ်များ"
 
-#, fuzzy
 msgctxt "[\"FOOTER-TOP_ANDROID_GAMES\"]"
 msgid "TOP ANDROID GAMES"
 msgstr "ထိပ်တန်း အင်းဒရိုက် ဂိမ်းများ"
 
-#, fuzzy
 msgctxt "[\"FOOTER-TRANSLATE\"]"
 msgid "Help translate APKPure"
 msgstr "APKPure ကိုဘာသာပြန်ရန်ကူညီပါ"
 
-#, fuzzy
 msgctxt "[\"FOOTER-DEVELOPER\"]"
 msgid "Submit Your App"
 msgstr "သင်၏အက်ပလီကေးရှင်းကိုတင်ပါ"
 
-#, fuzzy
 msgctxt "[\"FOOTER-DEVELOPER_CONSOLE\"]"
 msgid "Developer Console"
 msgstr "တင်သွင်းသူ"
 
-#, fuzzy
 msgctxt "[\"FOOTER-COOPERATION\"]"
 msgid "Business Cooperation"
 msgstr "စီးပွားရေးပူးပေါင်းဆောင်ရွက်မှု"
 
-#, fuzzy
 msgctxt "[\"FOOTER-REPORT_ABUSE\"]"
 msgid "Report abuse"
 msgstr "အလွဲသုံးစားမှုကိုသတင်းပို့ပါ"
 
-#, fuzzy
 msgctxt "[\"MARKET-PAGE_TOP_GAMES\"]"
 msgid "Top Games"
 msgstr "ထိပ်တန်းဂိမ်းများ"
 
-#, fuzzy
 msgctxt "[\"MARKET-PAGE_TOP_APPS\"]"
 msgid "Top Apps"
 msgstr "ထိပ်တန်း အက်(ပ်) များ"
 
-#, fuzzy
 msgctxt "[\"MARKET-PAGE_TOP_DEVELOPERS\"]"
 msgid "Top Developers"
 msgstr "ထိပ်တန်း တင်သွင်းသူ များ"
 
-#, fuzzy
 msgctxt "[\"MARKET-PAGE_TOP_COUNTRIES\"]"
 msgid "Partitioned Ranking"
 msgstr "ခွဲခြားအဆင့်သတ်မှတ်ချက်"
 
-#, fuzzy
 msgctxt "[\"MARKET-POP_TITLE\"]"
 msgid "APKPure AppStore App"
 msgstr "APKPure AppStore အက်(ပ်)"
 
-#, fuzzy
 msgctxt "[\"MARKET-POP_CHANGE_TITLE\"]"
 msgid "Change Profile Settings"
 msgstr "ပရိုဖိုင်းဆက်တင်ကိုပြောင်းပါ"
 
-#, fuzzy
 msgctxt "[\"MARKET-POP_ADD_IMAGE\"]"
 msgid "Add Images To Post"
 msgstr "တင်ရန်ပုံများထည့်ပါ"
 
-#, fuzzy
 msgctxt "[\"MARKET-POP_ADD_NEW_POST\"]"
 msgid "Add New Post or Comment"
 msgstr "ပို့စ် အသစ် သို့မဟုတ်ထင်မြင်ချက်ပေါင်းထည့်သည်"
 
-#, fuzzy
 msgctxt "[\"MARKET-POP_ADD_TAG\"]"
 msgid "Add Tags"
 msgstr "အမှတ်အသားများထည့်ပါ"
 
 msgctxt "[\"MARKET-QR\"]"
 msgid "Download<br>APKPure App"
-msgstr ""
+msgstr "ဒေါင်းလုဒ် <br> APKPure အက်ပ်"
 
 msgctxt "[\"MARKET-QR-TITLE\"]"
 msgid "Download APKPure App"
-msgstr ""
+msgstr "APKPure အက်ပ် ကိုဒေါင်းလုပ်ဆွဲပါ"
 
 msgctxt "[\"MARKET-INDEX_SHORT_DES\"]"
 msgid "Try <strong title=\"Download APKPure APK\">APKPure App</strong> - Download, update and install apks on your Android."
 msgstr ""
+"<strong title = \"APKPure APK ကိုဒေါင်းလုပ်\">APKPure App</strong> - သင်၏ "
+"Android တွင် apks များကိုဒေါင်းလုတ် လုပ်၍ မွမ်းမံပါ။"
 
 msgctxt "[\"MARKET-INDEX_SHORT_DES_TITLE\"]"
 msgid "Try APKPure Mobile app, to install, manage and update your Android apps."
 msgstr ""
+"သင်၏ အင်းဒရိုကိက် အက်ပ်များကိုတပ်ဆင်ရန်၊ စီမံရန်နှင့်အသစ်ပြောင်းရန် APKPure "
+"မိုဘိုင်းအက်ပ်ကိုကြိုးစားပါ။"
 
 msgctxt "[\"MARKET-DETAIL_APK_SHORT_DES\"]"
 msgid "Faster apks download and update on APKPure App"
 msgstr ""
+"ပိုမိုမြန်ဆန်သော အက်ပ် များကို APKPure အက်ပ်တွင်ဒေါင်းလုပ် လုပ်၍ "
+"အသစ်ပြောင်းပါ"
 
 msgctxt "[\"MARKET-DETAIL_APK_SHORT_DES_MOBILE\"]"
 msgid "Download and update on APKPure App"
-msgstr ""
+msgstr "APKPure အက်ပ် တွင်ဒေါင်းလုတ် လုပ်၍ မွမ်းမံပါ"
 
 msgctxt "[\"MARKET-DETAIL_APK_SHORT_DES_TITLE\"]"
 msgid "Faster apks download and update on APKPure"
 msgstr ""
+"APKPure တွင်ပိုမိုမြန်ဆန်စွာ အက်ပ် များကို ဒေါင်လုဒ် လုပ်၍ အဆင့်မြှင့်တင်ပါ"
 
 msgctxt "[\"MARKET-DETAIL_XAPK_SHORT_DES\"]"
 msgid "Install and update XAPK with APKPure App"
-msgstr ""
+msgstr "XAPK ကို APKPure အက်ပ်ဖြင့်တပ်ဆင်ပြီးအပ်ဒိတ်လုပ်ပါ"
 
 msgctxt "[\"MARKET-INDEX_BANNER_TITLE\"]"
 msgid "APKPure APP"
-msgstr ""
+msgstr "APKPure အက်ပ်"
 
 msgctxt "[\"MARKET-INDEX_BANNER_DES\"]"
 msgid "Install,manage and update your apps"
-msgstr ""
+msgstr "သင်၏အက်ပ်များကိုတပ်ဆင်၊ စီမံ၊ အပ်ဒိတ်လုပ်ပါ"
 
 msgctxt "[\"MARKET-BOTTOM_BANNER_DES\"]"
 msgid "Try APKPure App - Download, update and install apks on your Android."
 msgstr ""
+"APKPure အက်ပ် ကိုကြိုးစားကြည့်ပါ။ သင်၏ အင်ဒရိုက် တွင် အက်ပ် များကိုဒေါင်းလုတ်"
+" လုပ်၍ မွမ်းမံပါ။"
 
 msgctxt "[\"MARKET-BOTTOM_BANNER_DETAIL_APK_DES\"]"
 msgid "Using APKPure App to upgrade <strong>{0}</strong>, fast, free and save your internet data."
 msgstr ""
+"အဆင့်မြှင့်တင်ရန် APKPure အက်ပ်ကိုအသုံးပြုခြင်း "
+"<strong>{0}</strong>မြန်ဆန်စွာအခမဲ့အင်တာနက်ကိုသိမ်းဆည်းပါ။"
 
 msgctxt "[\"MARKET-BOTTOM_BANNER_DETAIL_APK_DES_TITLE\"]"
 msgid "Using APKPure App to upgrade {0}, fast, free and save your internet data."
 msgstr ""
+"{၀} အဆင့်မြှင့်ရန် APKPure အက်ပလီကေးရှင်းကို သုံး၍ "
+"သင်၏အင်တာနက်အချက်အလက်များကိုမြန်မြန်ဆန်ဆန်အခမဲ့ပြီးသိမ်းဆည်းပါ။"
 
 msgctxt "[\"MARKET-BOTTOM_BANNER_DETAIL_XAPK_DES\"]"
 msgid "Using APKPure App to upgrade <strong>{0}</strong>, install xapk, fast, free and save your internet data."
 msgstr ""
+"အဆင့်မြှင့်တင်ရန် APKPure အက်ပ်ကိုအသုံးပြုခြင်း "
+"<strong>{0}</strong>မြန်မြန်ဆန်ဆန်အခမဲ့၊ အင်တာနက်အချက်အလက်များကိုသိမ်းဆည်းပါ။"
 
 msgctxt "[\"MARKET-BOTTOM_BANNER_DETAIL_XAPK_DES_TITLE\"]"
 msgid "Using APKPure App to upgrade {0}, install xapk, fast, free and save your internet data."
 msgstr ""
+"{0} ကိုအဆင့်မြှင့်ရန်၊ မြန်ဆန်စွာအခမဲ့၊ သင်၏အင်တာနက်အချက်အလက်များကိုသိမ်းရန် "
+"APKPure အက်ပလီကေးရှင်းကို အသုံးပြု၍ ။"
 
 msgctxt "[\"MARKET-BOTTOM_BANNER_DOWNLOAD_BTN\"]"
 msgid "Download APP"
-msgstr ""
+msgstr "အက်ပ် ကိုဒေါင်းလုပ်ဆွဲပါ"
 
 msgctxt "[\"MARKET-PROMOTION_BANNER_MOBILE1\"]"
 msgid "<p class=\"desc\">Using APKPure App to download/update this apk, faster, free and saving data!</p>"
 msgstr ""
+"<p class = \"desc\">ဤ APK ကိုဒေါင်းလုပ် / မွမ်းမံရန် APKPure "
+"အက်ပလီကေးရှင်းကိုအသုံးပြုခြင်း၊ ပိုမိုမြန်ဆန်သော၊ "
+"အခမဲ့နှင့်ဒေတာသိမ်းဆည်းခြင်း!</p>"
 
 msgctxt "[\"MARKET-PROMOTION_BANNER_MOBILE1_XAPK\"]"
 msgid "<p class=\"desc\">Using APKPure App to install this XAPK, faster, free and saving data!</p>"
 msgstr ""
+"<p class = \"desc\">ဤ XAPK ကိုထည့်သွင်းရန် APKPure အက်ပလီကေးရှင်းကို သုံး၍ "
+"ပိုမိုမြန်ဆန်သောအခမဲ့အချက်အလက်များနှင့်သိမ်းဆည်းမှုများ!</p>"
 
 msgctxt "[\"MARKET-PROMOTION_BANNER_MOBILE2\"]"
 msgid "<p class=\"tit\">Using APKPure App</p><p class=\"des\">Faster, free and saving data!</p>"
 msgstr ""
+"<p class = \"tit\">APKPure အက်ပ် ကိုအသုံးပြုခြင်း</p><p class = \"des\""
+">ပိုမိုမြန်ဆန်သော၊</p>"
 
 msgctxt "[\"MARKET-PROMOTION_BANNER_MOBILE2_XAPK\"]"
 msgid "<p class=\"tit\">Using APKPure App</p><p class=\"des\">Install XAPK, Faster, free and saving data!</p>"
 msgstr ""
+"<p class = \"tit\">APKPure App ကိုအသုံးပြုခြင်း</p><p class = \"des\">XAPK၊ "
+"ပိုမိုမြန်ဆန်စွာ၊ အချက်အလက်များကိုသိမ်းဆည်းပြီးအခမဲ့သိမ်းဆည်းပါ။</p>"
 
 msgctxt "[\"MARKET-PROMOTION_BANNER_DOWN\"]"
 msgid "<p class=\"tit\">Using APKPure App</p><p class=\"des\">Download / Update this {0}, faster, free and saving data!</p>"
 msgstr ""
+"<p class = \"tit\">APKPure အက်ပ် ကိုအသုံးပြုခြင်း</p><p class = \"des\">ဤ {0}"
+" ကိုမြန်မြန်ဆန်ဆန်အခမဲ့၊ သိမ်းဆည်း။ သိမ်းဆည်းပါ။</p>"
 
 msgctxt "[\"FLAG-Africa\"]"
 msgid "Africa"
-msgstr ""
+msgstr "အာဖရိက"
 
 msgctxt "[\"FLAG-Americas\"]"
 msgid "Americas"
-msgstr ""
+msgstr "အမေရိကတိုက်"
 
 msgctxt "[\"FLAG-Asia\"]"
 msgid "Asia"
-msgstr ""
+msgstr "အာရှ"
 
 msgctxt "[\"FLAG-Europe\"]"
 msgid "Europe"
-msgstr ""
+msgstr "ဥရောပ"
 
 msgctxt "[\"FLAG-Oceania\"]"
 msgid "Oceania"
-msgstr ""
+msgstr "အိုစီအာနီအာ"
 
 msgctxt "[\"FLAG-Rest_of_the_world\"]"
 msgid "Rest of the world"
-msgstr ""
+msgstr "ကမ္ဘာ၏ကြွင်းသောအရာ"
 
 msgctxt "[\"ERROR-SUBTITLE\"]"
 msgid "You can visit the following Games and Apps instead"
-msgstr ""
+msgstr "သင်အစားအောက်ပါဂိမ်းများနှင့် အက်ပ် များသွားရောက်ကြည့်ရှုနိုင်ပါတယ်"
 
 msgctxt "[\"RECOMMENDED-POSTS\"]"
 msgid "Recommended Posts"
-msgstr ""
+msgstr "အကြံပြုရေးသားချက်များ"
 
 msgctxt "[\"USERS-RECOMMENDED\"]"
 msgid "Users' Recommendations"
-msgstr ""
+msgstr "အသုံးပြုသူများ၏အကြံပြုချက်များ"
 
 msgctxt "[\"UPLOAD-YOUR-APP\"]"
 msgid "Upload Your Application"
-msgstr ""
+msgstr "သင်၏လျှောက်လွှာတင်ပါ"
 
 msgctxt "[\"UPLOAD-APK-FILE\"]"
 msgid "Upload the apk file"
-msgstr ""
+msgstr "apk ဖိုင်ကိုတင်ပါ"
 
 msgctxt "[\"UPLOAD-APK-FILE-PROMPT\"]"
 msgid "Only support <strong>.APK/XAPK</strong> file no larger than <strong>{0}Mb</strong>"
 msgstr ""
+"ထောက်ခံမှုသာ <strong>.APK / XAPK</strong> ထက်ပိုကြီးသောဖိုင်ကို <strong>{0} "
+"Mb</strong>"
 
 msgctxt "[\"APP-DETAILS\"]"
 msgid "App Details"
-msgstr ""
+msgstr "အက်ပ် အသေးစိတ်"
 
 msgctxt "[\"TARGET-OS-VERSION\"]"
 msgid "Target OS version"
-msgstr ""
+msgstr "ပစ်မှတ် OS ဗားရှင်း"
 
 msgctxt "[\"SUPPORTED-SCREENS\"]"
 msgid "Supported screens"
-msgstr ""
+msgstr "ထောက်ပံ့ထားသောဖန်သားပြင်"
 
 msgctxt "[\"SUPPORTED-DENSITIES\"]"
 msgid "Supported densities"
-msgstr ""
+msgstr "ထောက်ပံ့သောထု"
 
 msgctxt "[\"SUPPORTED-ARCHITECTURES\"]"
 msgid "Supported architectures"
-msgstr ""
+msgstr "ထောက်ပံ့ဗိသုကာ"
 
 msgctxt "[\"FEATURES-AND-PERMISSIONS\"]"
 msgid "Features and Permissions"
-msgstr ""
+msgstr "အင်္ဂါရပ်များနှင့်ခွင့်ပြုချက်"
 
 msgctxt "[\"DETAILS-PERMISSIONS\"]"
 msgid "Permissions"
-msgstr ""
+msgstr "ခွင့်ပြုချက်"
 
 msgctxt "[\"DETAILS-USES-FEATURES\"]"
 msgid "Uses features"
-msgstr ""
+msgstr "အင်္ဂါရပ်များကိုအသုံးပြုသည်"
 
 msgctxt "[\"LANGUAGE\"]"
 msgid "Language"
-msgstr ""
+msgstr "ဘာသာစကား"
 
 msgctxt "[\"LANGUAGE-KR\"]"
 msgid "Korean"
-msgstr ""
+msgstr "ကိုရီးယား"
 
 msgctxt "[\"LANGUAGE-AR\"]"
 msgid "Arabic"
-msgstr ""
+msgstr "အာရဗီ"
 
 msgctxt "[\"LANGUAGE-EN\"]"
 msgid "English"
-msgstr ""
+msgstr "အင်္ဂလိပ်"
 
 msgctxt "[\"LANGUAGE-ES\"]"
 msgid "Spanish"
-msgstr ""
+msgstr "စပိန်ဘာသာစကား"
 
 msgctxt "[\"LANGUAGE-FR\"]"
 msgid "French"
-msgstr ""
+msgstr "ပြင်သစ်"
 
 msgctxt "[\"LANGUAGE-IN\"]"
 msgid "Hindi"
-msgstr ""
+msgstr "ဟိန္ဒီ"
 
 msgctxt "[\"LANGUAGE-ID\"]"
 msgid "Indonesian"
-msgstr ""
+msgstr "အင်ဒိုနီးရှား"
 
 msgctxt "[\"LANGUAGE-IT\"]"
 msgid "Italian"
-msgstr ""
+msgstr "အီတလီ"
 
 msgctxt "[\"LANGUAGE-JP\"]"
 msgid "Japanese"
-msgstr ""
+msgstr "ဂျပန်"
 
 msgctxt "[\"LANGUAGE-DE\"]"
 msgid "German"
-msgstr ""
+msgstr "ဂျာမန်"
 
 msgctxt "[\"LANGUAGE-NL\"]"
 msgid "Dutch"
-msgstr ""
+msgstr "ဒတ်ချ်"
 
 msgctxt "[\"LANGUAGE-PL\"]"
 msgid "Polish"
-msgstr ""
+msgstr "ပိုလန်"
 
 msgctxt "[\"LANGUAGE-BR\"]"
 msgid "Portuguese"
-msgstr ""
+msgstr "ပေါ်တူဂီ"
 
 msgctxt "[\"LANGUAGE-RU\"]"
 msgid "Russian"
-msgstr ""
+msgstr "ရုရှား"
 
 msgctxt "[\"LANGUAGE-TR\"]"
 msgid "Turkish"
-msgstr ""
+msgstr "တူရကီ"
 
 msgctxt "[\"LANGUAGE-VN\"]"
 msgid "Vietnamese"
-msgstr ""
+msgstr "ဗီယက်နမ်လူမျိုး"
 
 msgctxt "[\"LANGUAGE-CN\"]"
 msgid "Chinese Simplified"
-msgstr ""
+msgstr "တရုတ်ရိုးရှင်း"
 
 msgctxt "[\"LANGUAGE-TW\"]"
 msgid "traditional Chinese"
-msgstr ""
+msgstr "တရုတ်ရိုးရာ"
 
 msgctxt "[\"REVIEW_PRIVACY_POLICY_DES_M\"]"
 msgid "We encourage you to read our updated <a target='_blank' href='{pp}'>Privacy Policy</a> and <a target='_blank' href='{cp}'>Cookies Policy</a>."
 msgstr ""
+"ကျွန်တော်တို့ရဲ့နောက်ဆုံးရေးသားဖတ်ရှုဖို့သင့်အားတိုက်တွန်းပါသည် <a "
+"target='_blank' href='{pp}'>ကိုယ်ရေးအချက်အလက်မူဝါဒ</a> နှင့် <a "
+"target='_blank' href='{cp}'>ကွတ်ကီးမူဝါဒ</a>။"
 
 msgctxt "[\"REVIEW_PRIVACY_POLICY_DES\"]"
 msgid "We use cookies and other technologies on this website to enhance your user experience.<br> By clicking any link on this page you are giving your consent to our <a target='_blank' href='{pp}'>Privacy Policy</a> and <a target='_blank' href='{cp}'>Cookies Policy</a>."
 msgstr ""
+"သင်၏အသုံးပြုသူအတွေ့အကြုံကိုမြှင့်တင်ရန်ကျွန်ုပ်တို့သည်ဤဝက်ဘ်ဆိုက်ရှိ cookies "
+"နှင့်အခြားနည်းပညာများကိုအသုံးပြုသည်။ <br> ဤစာမျက်နှာရှိမည်သည့် link "
+"ကိုမဆိုနှိပ်ခြင်းအားဖြင့်ကျွန်ုပ်တို့၏ <a target='_blank' href='{pp}'> "
+"သီးသန့်လုံခြုံရေးမူဝါဒ < / a> နှင့် <a target='_blank' href='{cp}'> Cookies "
+"ဆိုင်ရာမူဝါဒ </a>"
 
 msgctxt "[\"REVIEW_PRIVACY_POLICY_BTN\"]"
 msgid "Ok I Agree"
-msgstr ""
+msgstr "အိုကေသဘောတူသည်"
 
 msgctxt "[\"REVIEW_PRIVACY_POLICY_MORE\"]"
 msgid "Learn More"
-msgstr ""
+msgstr "ပိုမိုသိရှိရန်"
 
 msgctxt "[\"MARKET-TOP_COUNTRY\"][\"en-US\"]"
 msgid "USA"
-msgstr ""
+msgstr "ယူအက်စ်အေ"
 
 msgctxt "[\"MARKET-TOP_COUNTRY\"][\"ja\"]"
 msgid "Japan"
-msgstr ""
+msgstr "ဂျပန်"
 
 msgctxt "[\"MARKET-TOP_COUNTRY\"][\"zh-CN\"]"
 msgid "China"
-msgstr ""
+msgstr "တရုတ်"
 
 msgctxt "[\"MARKET-TOP_COUNTRY\"][\"ko-KR\"]"
 msgid "Korea"
-msgstr ""
+msgstr "ကိုရီးယား"
 
 msgctxt "[\"MARKET-TOP_COUNTRY\"][\"id-ID\"]"
 msgid "Indonesia"
-msgstr ""
+msgstr "အင်ဒိုနီးရှား"
 
 msgctxt "[\"MARKET-TOP_COUNTRY\"][\"pt-BR\"]"
 msgid "Brazil"
-msgstr ""
+msgstr "ဘရာဇီး"
 
 msgctxt "[\"error\"][\"DOWN-ItemNotFree\"]"
 msgid "Sorry, paid apps are not available to download with our APK Download Service."
 msgstr ""
+"စိတ်မကောင်းပါ၊ အခပေး အက်ပ် များကိုကျွန်ုပ်တို့၏ APK Download Service "
+"နှင့်ဒေါင်းလုတ်လုပ်လို့မရပါ။"
 
 msgctxt "[\"error\"][\"DOWN-ItemNotFound\"]"
 msgid "Sorry, download failed, the APK cannot be found."
-msgstr ""
+msgstr "စိတ်မကောင်းပါ၊ ဒေါင်းလုဒ် မအောင်မြင်ပါ၊ APK ကိုမတွေ့ပါ။"
 
 msgctxt "[\"error\"][\"DOWN-LimitedRegion\"]"
 msgid "Oops! Change your region and try download again."
-msgstr ""
+msgstr "အိုး! သင့်ဒေသကိုပြောင်းလဲပြီးထပ်မံဒေါင်းလုပ်လုပ်ပါ။"
 
 msgctxt "[\"error\"][\"DOWN-LimitedDevice\"]"
 msgid "Sorry, download failed, the APK does not support our device."
 msgstr ""
+"စိတ်မကောင်းပါ၊ ဒေါင်းလုဒ် မအောင်မြင်ပါ၊ APK သည်ကျွန်ုပ်၏စက်ကိုမထောက်ပံ့ပါ။"
 
 msgctxt "[\"error\"][\"DOWN-UnknownError\"]"
 msgid "Download failed because of an unknown error. We will fix this problem soon."
 msgstr ""
+"မသိသောအမှားတစ်ခုကြောင့်ဒေါင်းလုပ်သည်မအောင်မြင်ပါ။ "
+"ဤပြသနာကိုမကြာခင်ဖြေရှင်းပါမည်"
 
 msgctxt "[\"error\"][\"DOWN-PreRegister\"]"
 msgid "It's a Pre-registration App, you can't download."
 msgstr ""
+"၎င်းသည်သင်ကြိုတင်မှတ်ပုံတင်ခြင်းဆိုင်ရာအက်ပလီကေးရှင်းတစ်ခုဖြစ်သည်၊ "
+"သင်ဒေါင်းလုပ် လုပ်၍ မရပါ။"
 
 msgctxt "[\"error\"][\"DOWN-RunOutOfDevice\"]"
 msgid "Download failed, please try again in 5 minutes."
-msgstr ""
+msgstr "ဒေါင်းလုဒ် ကိုမအောင်မြင်ပါ၊ ၅ မိနစ်အတွင်းထပ်မံကြိုးစားပါ။"
 
 msgctxt "[\"tip\"][\"SHORT_NAME\"]"
 msgid "{0}"
-msgstr ""
+msgstr "{၀}"
 
 msgctxt "[\"tip\"][\"DEVELOPER_ICON\"]"
 msgid "{0} Icon"
-msgstr ""
+msgstr "{၀} အိုင်ကွန်"
 
 msgctxt "[\"tip\"][\"VERSION\"]"
 msgid "Download {app_short_name} v{version_name} for android"
 msgstr ""
+"အင်းဒရိုက် အတွက် {app_short_name} v {version_name} ကို ဒေါင်းလုဒ် လုပ်ပါ"
 
 msgctxt "[\"tip\"][\"VERSION_VARIANT\"]"
 msgid "Download {app_short_name} v{version_name} build variants in android"
 msgstr ""
+"{app_short_name} v {version_name} ကို အင်းဒရိုက် ထဲမှာမျိုးကွဲတွေတည်ဆောက်ပါ"
 
 msgctxt "[\"tip\"][\"ICON\"]"
 msgid "{0} icon"
-msgstr ""
+msgstr "{၀} အိုင်ကွန်"
 
 msgctxt "[\"tip\"][\"PREVIOUS_VERSIONS\"]"
 msgid "{0} Previous Versions"
-msgstr ""
+msgstr "{0} ယခင်ဗားရှင်း"
 
 msgctxt "[\"tip\"][\"LIST_ICON\"]"
 msgid "{0} APK"
-msgstr ""
+msgstr "{၀} APK"
 
 msgctxt "[\"tip\"][\"LIST_DOWN\"]"
 msgid "Download {0} latest version apk"
@@ -2742,7 +2753,6 @@ msgctxt "[\"GAME\"]"
 msgid "Game"
 msgstr "ဂိမ်း"
 
-#, fuzzy
 msgctxt "[\"COPYRIGHT\"]"
 msgid "Copyright © 2014-2021 APKPure All rights reserved."
 msgstr "မူပိုင်ခွင့်© 2014-2021 APKPure All rights reserved ။"
@@ -2767,7 +2777,10 @@ msgctxt "[\"UPLOADER\"]"
 msgid "App uploaded by"
 msgstr "တင်ယူအက်ပလီကေးရှင်း"
 
-#, fuzzy
 msgctxt "[\"COPYRIGHT_MOBILE\"]"
 msgid "APKPure.com © 2014-2021"
 msgstr "APKPure.com © ၂၀၁၄-၂၀၂၁"
+
+msgctxt "[\"PURE-NO-MORE-DATA\"]"
+msgid "No more data"
+msgstr "နောက်ထပ်အချက်အလက်မရှိပါ"
