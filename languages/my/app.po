@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-12-05 01:34+0000\n"
-"PO-Revision-Date: 2021-02-25 17:55+0000\n"
+"PO-Revision-Date: 2021-02-26 10:52+0000\n"
 "Last-Translator: zaw zaw <www.uzaw321@gmail.com>\n"
 "Language-Team: Burmese <https://translate.apkpure.com/projects/apkpure/"
 "apkpurecom/my/>\n"
@@ -2235,113 +2235,173 @@ msgstr ""
 "{အက်ပ်_အတို_အမည်} သတင်းအချက်အလက်, ဂိမ်းအချက်အလက်, အက်ပ် အချက်အလက်, "
 "လိုအပ်ချက်များ, ဗားရှင်း"
 
+#, fuzzy
 msgctxt "[\"meta\"][\"Download_apk_info\"][\"description\"]"
 msgid "Download {app_name} and learn more details about {app_short_name} requirements, running os version and more on APKPure Android App Store."
 msgstr ""
+"{app_name} ကို ဒေါင်းလုဒ် လုပ်ပြီး {app_short_name} လိုအပ်ချက်များ၊ os "
+"ဗားရှင်းနှင့်အခြားအရာများ APKPure အင်းဒရိုက် App Store တွင်အသေးစိတ်လေ့လာပါ။"
 
+#, fuzzy
 msgctxt "[\"meta\"][\"Category_xapk\"][\"title\"]"
 msgid "XAPK ( apk with obb file) {0}.apk for Android download"
-msgstr ""
+msgstr "XAPK (obb file apk) {0} အင်းဒရွိုက် ဒေါင်းလုဒ် အတွက် .apk"
 
+#, fuzzy
 msgctxt "[\"meta\"][\"Category_xapk\"][\"keywords\"]"
 msgid "xapk {0}, {0} xapk, xapk {0} download, download apk obb, apk with obb data, android"
 msgstr ""
+"xapk {၀}, {၀} xapk, xapk {၀} ဒေါင်းလုဒ်, apk obb ကို ဒေါင်းလုဒ် လုပ်ပါ၊ obb "
+"အချက်အလက်ပါသော apk, အင်းဒရွိုက်"
 
+#, fuzzy
 msgctxt "[\"meta\"][\"Category_xapk\"][\"description\"]"
 msgid "Download Android {0} XAPK, full version with obb data file."
-msgstr ""
+msgstr "obb ဒေတာဖိုင်နှင့်ပြည့်စုံသည့် အင်းဒရွိုက် {၀} XAPK ကိုဒေါင်းလုပ်ဆွဲပါ။"
 
 msgctxt "[\"meta\"][\"Category_featured\"][\"title\"]"
 msgid "Download {0} APK Android App Online - Free Pure APK Downloader"
 msgstr ""
 
+#, fuzzy
 msgctxt "[\"meta\"][\"Category_featured_editors-picks\"][\"title\"]"
 msgid "APKPure Editors' Picks for the best Android Games & Apps"
 msgstr ""
+"အကောင်းဆုံး အင်းဒရွိုက် ဂိမ်းများနှင့်အက်ပလီကေးရှင်းများအတွက် APKPure "
+"အယ်ဒီတာများရွေးချယ်ခြင်း"
 
+#, fuzzy
 msgctxt "[\"meta\"][\"Category_featured_editors-picks\"][\"keywords\"]"
 msgid "android apps, android games, must have android games, must have android apps, game download"
 msgstr ""
+"အင်းဒရွိုက် အက်ပ်ပလီကေးရှင်း များ၊ အင်းဒရွိုက်ဂိမ်း များတွင် အင်းဒရွိုက် "
+"ဂိမ်းများရှိရမည်၊ အင်းဒရွိုက် အက်ပ် များ၊ ဂိမ်း ဒေါင်းလုဒ် ရှိရမည်"
 
+#, fuzzy
 msgctxt "[\"meta\"][\"Category_featured_editors-picks\"][\"description\"]"
 msgid "Play with millions of free apps in APKPure style on Android phones, tablets, TV ,etc. Download the best must have android games you should play 2020."
 msgstr ""
+"အင်းဒရွိုက် ဖုန်းများ၊ တက်ဘလက်များ၊ တီဗီများစသဖြင့် APKPure "
+"စတိုင်သန်းနှင့်ချီသောအခမဲ့အက်ပလီကေးရှင်းများဖြင့်ကစားပါ။ သင် ၂၀၂၀ "
+"ကစားသင့်သောအကောင်းဆုံး အင်းဒရွိုက် ဂိမ်းများကို ဒေါင်းလုဒ် လုပ်ပါ။"
 
+#, fuzzy
 msgctxt "[\"meta\"][\"Category_app\"][\"keywords\"]"
 msgid "{0} apk download, free {0} download, {0} apk download, download {0} apk, {0} apk downloader, {0} android"
 msgstr ""
+"{၀} apk ဒေါင်းလုပ်၊ အခမဲ့ {၀} ဒေါင်းလုပ်၊ {၀} apk ဒေါင်းလုပ်၊ ဒေါင်းလုပ် {၀} "
+"apk, {၀} apk ဒေါင်းလုပ်၊ {၀} အင်းဒရွိုက်"
 
+#, fuzzy
 msgctxt "[\"meta\"][\"Category_app\"][\"description\"]"
 msgid "Download free and best {0}  for Android phone and tablet with online apk downloader on APKPure.com, including (tool apps, shopping apps, communication apps) and more."
 msgstr ""
+"အခမဲ့နှင့်အကောင်းဆုံးကိုရယူပါ {0}  အင်းဒရွိုက် ဖုန်းနှင့်တက်ဘလက်များအတွက် "
+"APKPure.com တွင် အွန်လိုင်း apk ဒေါင်းလုဒ်ဒါ ပါ ၀ င်သည်။"
 
+#, fuzzy
 msgctxt "[\"meta\"][\"Category_game\"][\"keywords\"]"
 msgid "{0} apk download, free {0} download, download {0} apk, {0} apk downloader, {0} android, {0} app download"
 msgstr ""
+"{၀} apk ဒေါင်းလုပ်၊ အခမဲ့ {၀} ဒေါင်းလုဒ်, ဒေါင်းလုဒ် {၀} apk၊ {၀} apk "
+"ဒေါင်းလုပ်၊ {၀} အင်းဒရွိုက်, {၀} အက်ပလီကေးရှင်းကိုဒေါင်းလုပ်ဆွဲပါ။"
 
+#, fuzzy
 msgctxt "[\"meta\"][\"Category_game\"][\"description\"]"
 msgid "Download free and best {0} for Android phone and tablet with online apk downloader on APKPure.com, including (driving games, shooting games, fighting games) and more."
 msgstr ""
+"အင်းဒရွိုက် ဖုန်းနှင့်တက်ဘလက်အတွက်အခမဲ့နှင့်အကောင်းဆုံး {၀} ကို APKPure.com "
+"တွင် အွန်လိုင်း apk ဒေါင်လုဒ်ဒါ ဖြင့်ဒေါင်းလုပ်ဆွဲပါ။ (ကားမောင်းခြင်း၊ "
+"သေနတ်ပစ်ဂိမ်းများ၊ တိုက်ခိုက်ခြင်းဂိမ်းများ) နှင့်အခြားအရာများပါ ၀ င်သည်။"
 
+#, fuzzy
 msgctxt "[\"meta\"][\"FAQ\"][\"title\"]"
 msgid "{0} FAQ | APKPure.com"
-msgstr ""
+msgstr "{၀} မကြာခဏမေးလေ့ရှိသောမေးခွန်းများ။ APKPure.com"
 
+#, fuzzy
 msgctxt "[\"meta\"][\"Developer\"][\"title\"]"
 msgid "All {developer} free Android apps apk download | APKPure.com"
 msgstr ""
+"အားလုံး {တင်သွင်းသူ} အခမဲ့ အင်းဒရွိုက် အက်ပ် များကို ဒေါင်းလုဒ် ရယူနိုင်သည် "
+"APKPure.com"
 
+#, fuzzy
 msgctxt "[\"meta\"][\"Developer\"][\"keywords\"]"
 msgid "{developer} apk download, download {developer} free app, {developer} games for android,  {developer} games app list, {developer} app update, {developer} app apk downloader"
 msgstr ""
+"{တင်သွင်းသူ} apk ကိုဒေါင်းလုပ်ဆွဲပါ။ {တင်သွင်းသူ} အခမဲ့ အက်ပ်၊ {တင်သွင်းသူ} "
+"အတွက် အင်းဒရွိုက် အတွက်ဂိမ်းများ,  {တင်သွင်းသူ} "
+"ဂိမ်းအက်ပလီကေးရှင်းများစာရင်း၊"
 
+#, fuzzy
 msgctxt "[\"meta\"][\"Developer\"][\"description\"]"
 msgid "All Apps or Games Published by \"{developer}\""
-msgstr ""
+msgstr "\"{တင်သွင်းသူ}\" မှထုတ်ပြန်သောအက်ပ်များသို့မဟုတ်ဂိမ်းများအားလုံး"
 
+#, fuzzy
 msgctxt "[\"meta\"][\"Developer\"][\"description_new\"]"
 msgid "{description}, All Apps or Games Published by \"{developer}\""
 msgstr ""
+"{ဖော်ပြချက်}, \"{တင်သွင်းသူ}\" မှထုတ်ဝေသော အက်ပ်များ "
+"အားလုံးသို့မဟုတ်ဂိမ်းများ"
 
+#, fuzzy
 msgctxt "[\"meta\"][\"Tag\"][\"title\"]"
 msgid "Tag {0} - APKPure"
-msgstr ""
+msgstr "Tag {၀} - APKPure"
 
+#, fuzzy
 msgctxt "[\"meta\"][\"Tag\"][\"keywords\"]"
 msgid "{0}, {0} games,{0} apps, {0} download, {0} android"
 msgstr ""
+"{၀}၊ {၀} ဂိမ်းများ၊ {၀} အက်ပလီကေးရှင်းများ၊ {၀} ဒေါင်းလုပ်၊ {၀} အင်းဒရွိုက်"
 
+#, fuzzy
 msgctxt "[\"meta\"][\"Tag\"][\"description\"]"
 msgid "Browse and download top {0} games and apps for android mobile, tablets and more"
 msgstr ""
+"အင်းဒရွိုက် မိုဘိုင်း, တက်ပလက် နှင့်အခြားများအတွက်ထိပ်တန်း {၀} "
+"ဂိမ်းများနှင့်အက်ပလီကေးရှင်းများကိုလှန်လှောရှာဖွေပါ"
 
+#, fuzzy
 msgctxt "[\"meta\"][\"Search\"][\"title\"]"
 msgid "{0} search results | APKPure.com"
-msgstr ""
+msgstr "{၀} ရှာဖွေမှုရလဒ်များ | APKPure.com"
 
+#, fuzzy
 msgctxt "[\"meta\"][\"Search\"][\"keywords\"]"
 msgid "{0} apk download, download {0} apk"
-msgstr ""
+msgstr "{၀} apk ဒေါင်းလုပ်ဆွဲ ယူ၍ ဒေါင်းလုဒ် {0} apk ကို ဒေါင်းလုဒ် လုပ်ပါ"
 
+#, fuzzy
 msgctxt "[\"meta\"][\"Search_hot\"][\"title\"]"
 msgid "Search - APKPure Android App Store"
-msgstr ""
+msgstr "ရှာဖွေခြင်း - APKPure အင်းဒရွိုက် အက်ပ် စတိုး"
 
+#, fuzzy
 msgctxt "[\"meta\"][\"Search_hot\"][\"keywords\"]"
 msgid "Search {add_trending}"
-msgstr ""
+msgstr "ရှာဖွေရေး {add_trending}"
 
+#, fuzzy
 msgctxt "[\"meta\"][\"Search_hot\"][\"description\"]"
 msgid "Discover Android games free download on APKPure Android App Store."
 msgstr ""
+"အင်းဒရွိုက် ဂိမ်းများကိုအခမဲ့ ဒေါင်းလုဒ် ရယူရန် APKPure အင်းဒရွိုက် အက်ပ် "
+"စတိုး တွင်ရှာဖွေပါ။"
 
+#, fuzzy
 msgctxt "[\"meta\"][\"New\"][\"title\"]"
 msgid "Download the latest {0} APK | APKPure.com"
-msgstr ""
+msgstr "နောက်ဆုံးပေါ် {၀} APK | ကို ဒေါင်းလုဒ် လုပ်ပါ APKPure.com"
 
+#, fuzzy
 msgctxt "[\"meta\"][\"New\"][\"keywords\"]"
 msgid "{0} apk download, {0} update, free top {0} download, free {0} downloader,  best {0} for Android,"
 msgstr ""
+"{၀} apk ဒေါင်းလုပ်၊ {၀} အသစ်၊ အခမဲ့ ထိပ်တန်း {၀} ဒေါင်းလုပ်၊ အခမဲ့ {၀} "
+"ကူးယူပါ။  အင်းဒရွိုက် အတွက်အကောင်းဆုံး {၀}၊"
 
 msgctxt "[\"meta\"][\"New\"][\"description\"]"
 msgid "Daily update top free {0} apk download."
