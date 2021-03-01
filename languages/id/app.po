@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-09-19 07:41+0000\n"
-"PO-Revision-Date: 2021-02-16 12:47+0000\n"
-"Last-Translator: Kurd As <kurd68587@gmail.com>\n"
+"PO-Revision-Date: 2021-03-01 19:40+0000\n"
+"Last-Translator: よがすあら <yoghaswara123@gmail.com>\n"
 "Language-Team: Indonesian <https://translate.apkpure.com/projects/apkpure/"
 "apkpurecom/id/>\n"
 "Language: id\n"
@@ -170,9 +170,10 @@ msgctxt "[\"NEWEST\"]"
 msgid "Newest"
 msgstr "Terbaru"
 
+#, fuzzy
 msgctxt "[\"RATING\"]"
 msgid "Rating"
-msgstr ""
+msgstr "Rating"
 
 msgctxt "[\"POPULAR\"]"
 msgid "Popular"
@@ -638,17 +639,18 @@ msgctxt "[\"VARIANT-VARIANTS\"]"
 msgid "{0} Variants"
 msgstr ""
 
+#, fuzzy
 msgctxt "[\"VARIANT-VARIANTS_TIT\"]"
 msgid "Variants"
-msgstr ""
+msgstr "Kumpulan Varian"
 
 msgctxt "[\"VARIANT-VARIANT\"]"
 msgid "Variant"
-msgstr ""
+msgstr "Varian"
 
 msgctxt "[\"VARIANT-ARCHITECTURE\"]"
 msgid "Architecture"
-msgstr ""
+msgstr "Arsitektur"
 
 msgctxt "[\"VARIANT-MINIMUM\"]"
 msgid "Minimum Version"
@@ -656,15 +658,16 @@ msgstr "Versi Minimal"
 
 msgctxt "[\"VARIANT-SCREEN_DPI\"]"
 msgid "Screen DPI"
-msgstr ""
+msgstr "DPI Layar"
 
+#, fuzzy
 msgctxt "[\"VARIANT-ARCH\"]"
 msgid "Arch"
-msgstr ""
+msgstr "Ars"
 
 msgctxt "[\"VARIANT-DPI\"]"
 msgid "DPI"
-msgstr ""
+msgstr "DPI"
 
 msgctxt "[\"COMMENT-REVIEWS_TOTAL\"]"
 msgid "Total Reviews:"
@@ -674,9 +677,10 @@ msgctxt "[\"COMMENT-REVIEWS_CURRENT\"]"
 msgid "Reviews in {0}:"
 msgstr "Ulasan berbahasa {0}:"
 
+#, fuzzy
 msgctxt "[\"COMMENT-REVIEWS_CURRENT_MOB\"]"
 msgid "In {0}:"
-msgstr ""
+msgstr "Di {0}:"
 
 msgctxt "[\"COMMENT-REVIEW_OTHER_LANG\"]"
 msgid "There are {0} reviews in other languages"
@@ -826,9 +830,10 @@ msgctxt "[\"COMMENT-ERR_EMAIL_NAME\"]"
 msgid "Incorrect mail or name"
 msgstr "Surel atau nama salah"
 
+#, fuzzy
 msgctxt "[\"COMMENT-ERR_DISCUSSION\"]"
 msgid "Incorrect in discussion"
-msgstr ""
+msgstr "Diskusi tidak benar"
 
 msgctxt "[\"COMMENT-ERR_RATE\"]"
 msgid "Vote failed, repeated"
@@ -1111,7 +1116,7 @@ msgstr "masukan Anda termasuk kosa kata yang sensitif."
 
 msgctxt "[\"USER-SOCIAL_ALREADY_BIND\"]"
 msgid "This third-party account has been connected to another account."
-msgstr ""
+msgstr "Akun pihak ketiga ini telah tersambung dengan akun lain."
 
 msgctxt "[\"USER-EMAIL_EXIST\"]"
 msgid "This email has been connected to another account."
@@ -1207,7 +1212,7 @@ msgstr "Kata sandi"
 
 msgctxt "[\"USER-RETRIEVE_PASSWORD\"]"
 msgid "Retrieve Password"
-msgstr ""
+msgstr "Mengambil Kata Sandi"
 
 msgctxt "[\"USER-NEW_USER_REGISTRATION\"]"
 msgid "New User Registration"
@@ -1366,7 +1371,7 @@ msgstr "Riwayat pencarian"
 
 msgctxt "[\"SEARCH-FEATURED_HASHTAG\"]"
 msgid "Featured hashtags"
-msgstr ""
+msgstr "Tagar unggulan"
 
 msgctxt "[\"SEARCH-TAB_USERS\"]"
 msgid "Users"
@@ -1538,25 +1543,27 @@ msgctxt "[\"MARKET-PAGE_TOP_COUNTRIES\"]"
 msgid "Partitioned Ranking"
 msgstr "Negara teratas"
 
+#, fuzzy
 msgctxt "[\"MARKET-POP_TITLE\"]"
 msgid "APKPure AppStore App"
-msgstr ""
+msgstr "APKPure AppStore Apl"
 
 msgctxt "[\"MARKET-POP_CHANGE_TITLE\"]"
 msgid "Change Profile Settings"
-msgstr ""
+msgstr "Ubah pengaturan profil"
 
+#, fuzzy
 msgctxt "[\"MARKET-POP_ADD_IMAGE\"]"
 msgid "Add Images To Post"
-msgstr ""
+msgstr "Tambahkan gambar dalam Pos"
 
 msgctxt "[\"MARKET-POP_ADD_NEW_POST\"]"
 msgid "Add New Post or Comment"
-msgstr ""
+msgstr "Tambahkan Pos atau Komentar baru"
 
 msgctxt "[\"MARKET-POP_ADD_TAG\"]"
 msgid "Add Tags"
-msgstr ""
+msgstr "Tambahkan Tagar"
 
 msgctxt "[\"MARKET-QR\"]"
 msgid "Download<br>APKPure App"
@@ -1590,9 +1597,10 @@ msgctxt "[\"MARKET-DETAIL_XAPK_SHORT_DES\"]"
 msgid "Install and update XAPK with APKPure App"
 msgstr "Instal dan update XAPK dengan APKPure App"
 
+#, fuzzy
 msgctxt "[\"MARKET-INDEX_BANNER_TITLE\"]"
 msgid "APKPure APP"
-msgstr ""
+msgstr "APKPure APL"
 
 msgctxt "[\"MARKET-INDEX_BANNER_DES\"]"
 msgid "Install,manage and update your apps"
@@ -1652,15 +1660,15 @@ msgstr "Amerika"
 
 msgctxt "[\"FLAG-Asia\"]"
 msgid "Asia"
-msgstr ""
+msgstr "Asia"
 
 msgctxt "[\"FLAG-Europe\"]"
 msgid "Europe"
-msgstr ""
+msgstr "Eropa"
 
 msgctxt "[\"FLAG-Oceania\"]"
 msgid "Oceania"
-msgstr ""
+msgstr "Oseania"
 
 msgctxt "[\"FLAG-Rest_of_the_world\"]"
 msgid "Rest of the world"
@@ -1670,9 +1678,10 @@ msgctxt "[\"ERROR-SUBTITLE\"]"
 msgid "You can visit the following Games and Apps instead"
 msgstr "Anda dapat mengunjungi permainan dan Apps berikutnya"
 
+#, fuzzy
 msgctxt "[\"RECOMMENDED-POSTS\"]"
 msgid "Recommended Posts"
-msgstr ""
+msgstr "Postingan Pilihan"
 
 msgctxt "[\"USERS-RECOMMENDED\"]"
 msgid "Users' Recommendations"
@@ -2220,7 +2229,10 @@ msgstr ""
 
 msgctxt "[\"meta\"][\"Category_app\"][\"description\"]"
 msgid "Download free and best {0}  for Android phone and tablet with online apk downloader on APKPure.com, including (tool apps, shopping apps, communication apps) and more."
-msgstr "Download {0} gratis dan terbaik  untuk ponsel Android dan tablet melalui alat download online apk di APKPure.com, termasuk (alat app, app belanja, app komunikasi) dan banyak lagi."
+msgstr ""
+"Unduh {0} gratis dan terbaik  untuk ponsel Android dan tablet melalui alat "
+"unduhan daring apl di APKPure.com, termasuk (alat apl, apl belanja, apl "
+"komunikasi) dan banyak lagi."
 
 msgctxt "[\"meta\"][\"Category_game\"][\"keywords\"]"
 msgid "{0} apk download, free {0} download, download {0} apk, {0} apk downloader, {0} android, {0} app download"
@@ -2324,7 +2336,7 @@ msgstr "Wilayah APK gratis download harian pembaruan app dan permainan"
 
 msgctxt "[\"meta\"][\"Download\"][\"keywords\"]"
 msgid "apk download, region free apk download"
-msgstr "apk download, download gratis di apk wilayah"
+msgstr "unduh apl, bebas batasan wilayah unduh apl gratis"
 
 msgctxt "[\"meta\"][\"Download\"][\"description\"]"
 msgid "download free apps APK for Android phone and tablet."
@@ -2733,3 +2745,41 @@ msgstr ""
 msgctxt "[\"xapk\"][\"VARIANTS\"]"
 msgid "This release comes in several variants, See available APKs"
 msgstr ""
+
+msgctxt "[\"COPYRIGHT_MOBILE\"]"
+msgid "APKPure.com © 2014-2021"
+msgstr "APKPure.com © 2014-2021"
+
+#, fuzzy
+msgctxt "[\"COPYRIGHT\"]"
+msgid "Copyright © 2014-2021 APKPure All rights reserved."
+msgstr "Hak Cipta © 2014-2021 APKPure Seluruh hak cipta."
+
+msgctxt "[\"DETAIL-MORE_FROM\"]"
+msgid "More Apps from {0}"
+msgstr "Aplikasi lainya dari {0}"
+
+msgctxt "[\"DETAIL-CATEGORY_APP\"]"
+msgid "{0} App"
+msgstr "{0} Apl"
+
+msgctxt "[\"DETAIL-CATEGORY_GAME\"]"
+msgid "{0} Game"
+msgstr "{0} Permainan"
+
+#, fuzzy
+msgctxt "[\"ADDITIONAL_INFORMATION\"]"
+msgid "Additional App Information"
+msgstr "Informasi tambahan tentang Apl"
+
+msgctxt "[\"UPLOADER\"]"
+msgid "App uploaded by"
+msgstr "Apl diunggah oleh"
+
+msgctxt "[\"APP\"]"
+msgid "App"
+msgstr "Apl"
+
+msgctxt "[\"GAME\"]"
+msgid "Game"
+msgstr "Permainan"
