@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-09-09 05:10+0000\n"
-"PO-Revision-Date: 2020-09-10 09:09+0000\n"
-"Last-Translator: chenhsi Liang <lchenhsi@gmail.com>\n"
+"PO-Revision-Date: 2021-03-01 19:40+0000\n"
+"Last-Translator: Diyar Nassyrov <diyar96.31@gmail.com>\n"
 "Language-Team: Russian <https://translate.apkpure.com/projects/apkpure/"
 "apkpurecom/ru/>\n"
 "Language: ru\n"
@@ -13,7 +13,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
 "%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 4.2.2\n"
+"X-Generator: Weblate 4.3.2\n"
 
 msgctxt "[\"NAV-GAME\"]"
 msgid "GAMES"
@@ -49,7 +49,7 @@ msgstr "ИГРЫ в форме XAPK"
 
 msgctxt "[\"NAV-XAPK_APP\"]"
 msgid "XAPK APP"
-msgstr "ПРИЛОЖЕНИЯ  XAPK"
+msgstr "ПРИЛОЖЕНИЯ XAPK"
 
 msgctxt "[\"NAV-APK_INSTALL\"]"
 msgid "APK Install"
@@ -89,7 +89,7 @@ msgstr "Игнорировать"
 
 msgctxt "[\"OK\"]"
 msgid "OK"
-msgstr "Окей"
+msgstr "OK"
 
 msgctxt "[\"BUY\"]"
 msgid "Buy"
@@ -137,7 +137,7 @@ msgstr "Приложения"
 
 msgctxt "[\"MORE\"]"
 msgid "More"
-msgstr "Далее"
+msgstr "Еще"
 
 msgctxt "[\"XAPK-GAMES\"]"
 msgid "XAPK Games"
@@ -149,7 +149,7 @@ msgstr "Приложения в форме XAPK"
 
 msgctxt "[\"HOME\"]"
 msgid "Home"
-msgstr "главная страница"
+msgstr "Главная страница"
 
 msgctxt "[\"SORT_BY\"]"
 msgid "Sort by"
@@ -189,15 +189,15 @@ msgstr "{app_category} {app_type}"
 
 msgctxt "[\"SHOW_MORE\"]"
 msgid "Show More"
-msgstr "Ещё"
+msgstr "Показать Ещё"
 
 msgctxt "[\"SHOW_LESS\"]"
 msgid "Show less"
-msgstr "Скрыть"
+msgstr "Показывай меньше"
 
 msgctxt "[\"HAVE_PRODUCTS\"]"
 msgid "All {0} Apps"
-msgstr "всего {0} приложений"
+msgstr "Всего {0} приложений"
 
 msgctxt "[\"DEVELOPER\"]"
 msgid "Developer"
@@ -261,7 +261,7 @@ msgstr "Последние обновления"
 
 msgctxt "[\"XAPK_IS_APK_WITH_OBB_DATA\"]"
 msgid "XAPK is APK with OBB data"
-msgstr "XAPK , это APK с  OBB данными"
+msgstr "XAPK , это APK с OBB данными"
 
 msgctxt "[\"MOST_POPULAR_IN_TODAY\"]"
 msgid "Most Popular In Today"
@@ -285,7 +285,7 @@ msgstr "Как скачать APK-файлы?"
 
 msgctxt "[\"INDEX-FAQ\"]"
 msgid "FAQ"
-msgstr "ЧАСТО ЗАДАВАЕМЫЕ ВОПРОСЫ"
+msgstr "ЧАВО"
 
 msgctxt "[\"INDEX-POPULAR_CATEGORIES\"]"
 msgid "Popular categories"
@@ -420,7 +420,7 @@ msgstr "Ошибка разбора файла.(Код: 10002)"
 
 msgctxt "[\"DETAIL\"]"
 msgid "Detail"
-msgstr "подробно"
+msgstr "Подробно"
 
 msgctxt "[\"DETAIL-HOT_TAGS\"]"
 msgid "{0} Tags"
@@ -448,7 +448,7 @@ msgstr "Платные приложения недоступны для скач
 
 msgctxt "[\"DETAIL-WHY_SAFE\"]"
 msgid "Why we can guarantee APK 100% safe?"
-msgstr "Почему мы можем гарантировать безопасность APK на 100%?"
+msgstr "Почему мы можем гарантировать 100% безопасность APK?"
 
 msgctxt "[\"DETAIL-SAFE\"]"
 msgid "Verification passed"
@@ -484,7 +484,7 @@ msgstr "Автор"
 
 msgctxt "[\"DETAIL-REPORT\"]"
 msgid "Report"
-msgstr "Жаловаться"
+msgstr "Пожаловаться"
 
 msgctxt "[\"DETAIL-FLAG_AS_INAPPROPRIATE\"]"
 msgid "Flag as inappropriate"
@@ -636,7 +636,7 @@ msgstr "Предыдущие версии"
 
 msgctxt "[\"VERSION-VERSIONS\"]"
 msgid "Versions"
-msgstr "версии"
+msgstr "Версии"
 
 msgctxt "[\"VERSION-ALL-VERSIONS\"]"
 msgid "All Versions"
@@ -724,7 +724,7 @@ msgstr "Вступить в группу"
 
 msgctxt "[\"COMMENT-GROUP\"]"
 msgid "Group"
-msgstr "группа"
+msgstr "Группа"
 
 msgctxt "[\"COMMENT-TITLE_POST\"]"
 msgid "Post"
@@ -788,7 +788,7 @@ msgstr "Сортировка по умолчанию"
 
 msgctxt "[\"COMMENT-RATING_REQUIRED\"]"
 msgid "Rating required"
-msgstr "Поставьте оценку"
+msgstr "Требуется рейтинг"
 
 msgctxt "[\"COMMENT-GUEST\"]"
 msgid "Guest"
@@ -804,7 +804,7 @@ msgstr "Войти с"
 
 msgctxt "[\"COMMENT-COMMENTS_CANT_BE_BLANK\"]"
 msgid "Comments can't be blank."
-msgstr "Комментариям нельзя быть пустым."
+msgstr "Комментарии не могут быть пустыми."
 
 msgctxt "[\"COMMENT-POST_AS_GUEST\"]"
 msgid "Post As a Guest"
@@ -820,7 +820,7 @@ msgstr "Сайт"
 
 msgctxt "[\"COMMENT-TO_BE_FIRST\"]"
 msgid "Ooops! No such content!"
-msgstr "Оставьте первый комментарий."
+msgstr "Ой! Нет такого содержания!"
 
 msgctxt "[\"COMMENT-VOTE\"]"
 msgid "Vote"
@@ -844,11 +844,12 @@ msgstr "Некорректное в обсуждении"
 
 msgctxt "[\"COMMENT-ERR_RATE\"]"
 msgid "Vote failed, repeated"
-msgstr "Ошибка голосования, повторно"
+msgstr "Голосование не выполнено, повторите"
 
 msgctxt "[\"COMMENT-ERR_SENSITIVE_WORD\"]"
 msgid "Comment failed, your post contains sensitive terms."
-msgstr "Ужас, ваше сообщение содержит чувствительные термины"
+msgstr ""
+"Не удалось комментировать, ваше сообщение содержит чувствительные термины."
 
 msgctxt "[\"COMMENT-ERR_SENSITIVE_WORD_AUDIT\"]"
 msgid "Your post contains sensitive terms and is pending approval by an admin"
@@ -872,7 +873,7 @@ msgstr "Комментарии Emoji больше не разрешены! На�
 
 msgctxt "[\"COMMENT-ERR_NONE_MESSAGE\"]"
 msgid "You must write something!"
-msgstr "Напишите что-нибудь!"
+msgstr "Вы должны что-нибудь написать!"
 
 msgctxt "[\"COMMENT-ERR_INVALID_PARAMETER\"]"
 msgid "Invalid comment parameter"
@@ -1468,7 +1469,7 @@ msgstr "Сайт для мобильных"
 
 msgctxt "[\"FOOTER-CONTACT_US\"]"
 msgid "Contact Us"
-msgstr "Контакты"
+msgstr "Связаться с нами"
 
 msgctxt "[\"FOOTER-ABOUT\"]"
 msgid "About Us"
@@ -1998,7 +1999,7 @@ msgstr "[Не доверенное] Файл {0} модифицирован, и�
 
 msgctxt "[\"js\"][\"SIGN_VERIFY-ERROR_APK_FILE\"]"
 msgid "Error APK file"
-msgstr "Ошибка  APK"
+msgstr "Ошибка APK файла"
 
 msgctxt "[\"js\"][\"SIGN_VERIFY-VALID\"]"
 msgid "The uploaded file is not a valid Android application."
@@ -2026,7 +2027,7 @@ msgstr "Посмотрите все {0} результатов поиска зд
 
 msgctxt "[\"js\"][\"REGION_DOWN-DOWNLOADING\"]"
 msgid "Downloading, please wait..."
-msgstr "Загружается,  подождите пожалуйста..."
+msgstr "Загружается, подождите пожалуйста..."
 
 msgctxt "[\"js\"][\"LOADING\"]"
 msgid "loading..."
@@ -2034,19 +2035,19 @@ msgstr "загружается..."
 
 msgctxt "[\"js\"][\"UPLOADED\"]"
 msgid "Uploaded {0}%"
-msgstr "Залито {0}%"
+msgstr "Загружено {0}%"
 
 msgctxt "[\"js\"][\"UPLOADING\"]"
 msgid "Uploading..."
-msgstr "Заливается..."
+msgstr "Загружается..."
 
 msgctxt "[\"js\"][\"VALIDATING\"]"
 msgid "Validating..."
-msgstr "Проверяется..."
+msgstr "Проверка..."
 
 msgctxt "[\"js\"][\"FILE_UPLOAD_FAILED\"]"
 msgid "File upload failed!"
-msgstr "Ошибка заливки файла!"
+msgstr "Ошибка загрузки файла!"
 
 msgctxt "[\"js\"][\"YOUTUBE_URL\"]"
 msgid "Enter Youtube video URL"
@@ -2058,7 +2059,7 @@ msgstr "Недействительный URL: Введите действите�
 
 msgctxt "[\"js\"][\"USER-PASSWORD_NOT_MATCH\"]"
 msgid "Passwords do not match"
-msgstr "Неправильные пароли"
+msgstr "Пароли не соответствуют"
 
 msgctxt "[\"js\"][\"USER-PASSWORD_MUST\"]"
 msgid "Password must be 6-32 characters long"
@@ -2086,13 +2087,13 @@ msgstr "Отправить повторно через {0}"
 
 msgctxt "[\"js\"][\"SUBMISSION_SUCCESS\"]"
 msgid "Submission success."
-msgstr "Подача успешно."
+msgstr "Успешная отправка."
 
 msgctxt "[\"js\"][\"COMMENT-RATE_MUST\"]"
 msgid "Before writing a review or something, please rate the app first."
 msgstr ""
-"Прежде чем писать обзор или что-нибудь, сначала оцените "
-"приложение,пожалуйста."
+"Прежде чем писать обзор или что-нибудь, пожалуйста, сначала оцените "
+"приложение."
 
 msgctxt "[\"meta\"][\"Index\"][\"title\"]"
 msgid "Download APK free online downloader | APKPure.com"
@@ -2700,7 +2701,7 @@ msgstr "Подразумеваемое насилие"
 
 msgctxt "[\"content_rating\"][\"Horror\"]"
 msgid "Horror"
-msgstr "Ужас"
+msgstr "Ужасы"
 
 msgctxt "[\"content_rating\"][\"Parental Guidance Recommended\"]"
 msgid "Parental Guidance Recommended"
@@ -2761,4 +2762,48 @@ msgstr "Посмотреть доступные APKs"
 msgctxt "[\"xapk\"][\"VARIANTS\"]"
 msgid "This release comes in several variants, See available APKs"
 msgstr ""
-"Этот выпуск представлен в нескольких вариантах. Смотреть доступные APKs-файлы"
+"Этот выпуск представлен в нескольких вариантах. Смотреть доступные APK - "
+"файлы"
+
+msgctxt "[\"DETAIL-MORE_FROM\"]"
+msgid "More Apps from {0}"
+msgstr "Больше приложений от {0}"
+
+msgctxt "[\"ADDITIONAL_INFORMATION\"]"
+msgid "Additional App Information"
+msgstr "Дополнительная информация о приложении"
+
+msgctxt "[\"PURE-NO-MORE-DATA\"]"
+msgid "No more data"
+msgstr "Больше нет данных"
+
+#, fuzzy
+msgctxt "[\"COPYRIGHT_MOBILE\"]"
+msgid "APKPure.com © 2014-2021"
+msgstr "APKPure.com © 2014-2021"
+
+msgctxt "[\"COPYRIGHT\"]"
+msgid "Copyright © 2014-2021 APKPure All rights reserved."
+msgstr "Copyright © 2014-2021 APKPure Все права защищены."
+
+msgctxt "[\"DETAIL-CATEGORY_APP\"]"
+msgid "{0} App"
+msgstr "{0} Приложение"
+
+#, fuzzy
+msgctxt "[\"DETAIL-CATEGORY_GAME\"]"
+msgid "{0} Game"
+msgstr "{0} Игра"
+
+#, fuzzy
+msgctxt "[\"UPLOADER\"]"
+msgid "App uploaded by"
+msgstr "Приложение было опубликовано"
+
+msgctxt "[\"APP\"]"
+msgid "App"
+msgstr "Приложение"
+
+msgctxt "[\"GAME\"]"
+msgid "Game"
+msgstr "Игра"
