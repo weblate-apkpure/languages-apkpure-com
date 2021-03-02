@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-10-09 02:00+0000\n"
-"PO-Revision-Date: 2021-01-07 12:51+0000\n"
-"Last-Translator: awadh bihari gupta <awadhbiharigup8@gmail.com>\n"
+"PO-Revision-Date: 2021-03-02 08:53+0000\n"
+"Last-Translator: Gyann dtdf studio <granstudio123@gmail.com>\n"
 "Language-Team: Hindi <https://translate.apkpure.com/projects/apkpure/"
 "apkpurecom/hi/>\n"
 "Language: hi\n"
@@ -54,25 +54,22 @@ msgctxt "[\"NAV-APK_INSTALL\"]"
 msgid "APK Install"
 msgstr "APK इन्स्टॉल"
 
-#, fuzzy
 msgctxt "[\"NAV-APK_DOWNLOAD\"]"
 msgid "APK Download"
-msgstr "APK डाउनलोड"
+msgstr "एपीके डाउनलोड करें"
 
 msgctxt "[\"NAV-APK_VERIFICATION\"]"
 msgid "APK Verification"
 msgstr "APK जाँच"
 
-#, fuzzy
 msgctxt "[\"NAV-APKPURE_APP\"]"
 msgid "APKPure App"
-msgstr "APKPure ऐप"
+msgstr "एपीके एप"
 
 msgctxt "[\"NAV-Cloud-Phone-Emulator\"]"
 msgid "Cloud Phone Emulator"
 msgstr "क्लाउड फोन एमुलेटर"
 
-#, fuzzy
 msgctxt "[\"DOWNLOAD\"]"
 msgid "Download"
 msgstr "डाउनलोड"
@@ -2722,3 +2719,7 @@ msgstr ""
 msgctxt "[\"xapk\"][\"VARIANTS\"]"
 msgid "This release comes in several variants, See available APKs"
 msgstr ""
+
+msgctxt "[\"GAME\"]"
+msgid "Game"
+msgstr "खेल"
