@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-09-09 05:10+0000\n"
-"PO-Revision-Date: 2021-01-06 14:42+0000\n"
-"Last-Translator: yucho <yucho123987@163.com>\n"
+"PO-Revision-Date: 2021-03-12 02:07+0000\n"
+"Last-Translator: lrhtony <ruihonglu215@gmail.com>\n"
 "Language-Team: Chinese (Simplified) <https://translate.apkpure.com/projects/"
 "apkpure/apkpurecom/zh_Hans/>\n"
 "Language: zh_CN\n"
@@ -1787,18 +1787,22 @@ msgstr "中文繁体"
 msgctxt "[\"REVIEW_PRIVACY_POLICY_DES_M\"]"
 msgid "We encourage you to read our updated <a target='_blank' href='{pp}'>Privacy Policy</a> and <a target='_blank' href='{cp}'>Cookies Policy</a>."
 msgstr ""
+"我们建议您阅读我们更新的 <a target='_blank' href='{pp}'>隐私政策</a> 和 <a target='_blank' "
+"href='{cp}'>Cookies 政策</a>."
 
 msgctxt "[\"REVIEW_PRIVACY_POLICY_DES\"]"
 msgid "We use cookies and other technologies on this website to enhance your user experience.<br> By clicking any link on this page you are giving your consent to our <a target='_blank' href='{pp}'>Privacy Policy</a> and <a target='_blank' href='{cp}'>Cookies Policy</a>."
 msgstr ""
+"我们使用cookies和本网站的其他技术来增强您的用户体验。<br> 点击本页上的任何链接即表示您同意我们的 <a target='_blank' "
+"href='{pp}'>隐私政策</a> 和 <a target='_blank' href='{cp}'>Cookies 政策</a>."
 
 msgctxt "[\"REVIEW_PRIVACY_POLICY_BTN\"]"
 msgid "Ok I Agree"
-msgstr ""
+msgstr "确定 I 同意"
 
 msgctxt "[\"REVIEW_PRIVACY_POLICY_MORE\"]"
 msgid "Learn More"
-msgstr ""
+msgstr "了解更多"
 
 msgctxt "[\"MARKET-TOP_COUNTRY\"][\"en-US\"]"
 msgid "USA"
@@ -1826,19 +1830,19 @@ msgstr "巴西"
 
 msgctxt "[\"error\"][\"DOWN-ItemNotFree\"]"
 msgid "Sorry, paid apps are not available to download with our APK Download Service."
-msgstr "对不起，不提供付费 APK 下载。"
+msgstr "对不起，我们的APK下载服务不提供付费软件下载。"
 
 msgctxt "[\"error\"][\"DOWN-ItemNotFound\"]"
 msgid "Sorry, download failed, the APK cannot be found."
-msgstr "对不起，无法找到此 APK。"
+msgstr "对不起，下载失败，无法找到此 APK。"
 
 msgctxt "[\"error\"][\"DOWN-LimitedRegion\"]"
 msgid "Oops! Change your region and try download again."
-msgstr "无法在当前区域下载此 APK，请更改区域重新尝试。"
+msgstr "噢！请更改您的地区并再次尝试下载。"
 
 msgctxt "[\"error\"][\"DOWN-LimitedDevice\"]"
 msgid "Sorry, download failed, the APK does not support our device."
-msgstr "未知错误，我们将尽快修复此问题。"
+msgstr "抱歉，下载失败，这个APK不支持这个设备。"
 
 msgctxt "[\"error\"][\"DOWN-UnknownError\"]"
 msgid "Download failed because of an unknown error. We will fix this problem soon."
@@ -1846,11 +1850,11 @@ msgstr "未知错误，我们将尽快修复此问题。"
 
 msgctxt "[\"error\"][\"DOWN-PreRegister\"]"
 msgid "It's a Pre-registration App, you can't download."
-msgstr "这是一个预注册应用，试试更改区域？"
+msgstr "这是一个预注册应用，你无法下载它。"
 
 msgctxt "[\"error\"][\"DOWN-RunOutOfDevice\"]"
 msgid "Download failed, please try again in 5 minutes."
-msgstr "请求量过大，请5分钟后再试。"
+msgstr "下载失败，请5分钟后再试。"
 
 msgctxt "[\"tip\"][\"SHORT_NAME\"]"
 msgid "{0}"
@@ -2719,3 +2723,30 @@ msgstr "查看可用的APK"
 msgctxt "[\"xapk\"][\"VARIANTS\"]"
 msgid "This release comes in several variants, See available APKs"
 msgstr "此版本有多个变体，查看可用的APK"
+
+#, fuzzy
+msgctxt "[\"COPYRIGHT_MOBILE\"]"
+msgid "APKPure.com © 2014-2021"
+msgstr "APKPure.com © 2014-2021"
+
+msgctxt "[\"COPYRIGHT\"]"
+msgid "Copyright © 2014-2021 APKPure All rights reserved."
+msgstr "© 2014-2021 APKPure 版权所有"
+
+#, fuzzy
+msgctxt "[\"ADDITIONAL_INFORMATION\"]"
+msgid "Additional App Information"
+msgstr "其他应用信息"
+
+#, fuzzy
+msgctxt "[\"UPLOADER\"]"
+msgid "App uploaded by"
+msgstr "应用上传自"
+
+msgctxt "[\"GAME\"]"
+msgid "Game"
+msgstr "游戏"
+
+msgctxt "[\"PURE-NO-MORE-DATA\"]"
+msgid "No more data"
+msgstr "没有更多数据"
