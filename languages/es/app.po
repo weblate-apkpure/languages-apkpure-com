@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-11-01 05:09+0000\n"
-"PO-Revision-Date: 2020-11-25 07:10+0000\n"
-"Last-Translator: Dominik Apache <dominikapache@gmail.com>\n"
+"PO-Revision-Date: 2021-03-24 06:57+0000\n"
+"Last-Translator: Eliana Luque <celesteacciardi28@gmail.com>\n"
 "Language-Team: Spanish <https://translate.apkpure.com/projects/apkpure/"
 "apkpurecom/es/>\n"
 "Language: es\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.2.2\n"
+"X-Generator: Weblate 4.3.2\n"
 
 msgctxt "[\"NAV-GAME\"]"
 msgid "GAMES"
@@ -810,7 +810,7 @@ msgstr "Sitio web"
 
 msgctxt "[\"COMMENT-TO_BE_FIRST\"]"
 msgid "Ooops! No such content!"
-msgstr "Se el primero en comentar."
+msgstr "¡UPS! ¡No hay tal contenido!"
 
 msgctxt "[\"COMMENT-VOTE\"]"
 msgid "Vote"
@@ -822,59 +822,64 @@ msgstr "Me gusta"
 
 msgctxt "[\"COMMENT-ERR_QUICK_LOGIN\"]"
 msgid "Quick login error, please try again."
-msgstr "Quick login error, please try again."
+msgstr "Error de inicio de sesión rápido, vuelve a intentarlo."
 
 msgctxt "[\"COMMENT-ERR_EMAIL_NAME\"]"
 msgid "Incorrect mail or name"
-msgstr ""
+msgstr "Mail incorrecto o nombre incorrecto"
 
 msgctxt "[\"COMMENT-ERR_DISCUSSION\"]"
 msgid "Incorrect in discussion"
-msgstr ""
+msgstr "Incorrecto en discusión"
 
 msgctxt "[\"COMMENT-ERR_RATE\"]"
 msgid "Vote failed, repeated"
-msgstr ""
+msgstr "Votación fallida, repetida"
 
 msgctxt "[\"COMMENT-ERR_SENSITIVE_WORD\"]"
 msgid "Comment failed, your post contains sensitive terms."
-msgstr "Defeat,your post contains sensitive terms"
+msgstr "Derrota, tu publicación contiene términos sensibles."
 
 msgctxt "[\"COMMENT-ERR_SENSITIVE_WORD_AUDIT\"]"
 msgid "Your post contains sensitive terms and is pending approval by an admin"
 msgstr ""
+"Tu post contiene términos sensibles y está pendiente en aprobación de un "
+"admin"
 
 msgctxt "[\"COMMENT-ERR_LINK_AUDIT\"]"
 msgid "Your post contains link and is pending approval by an admin"
 msgstr ""
+"Tu post contiene un enlace o link y está pendiente de aprobación del admin"
 
 msgctxt "[\"COMMENT-ERR_FORBIDDEN\"]"
 msgid "Permission denied"
-msgstr ""
+msgstr "Permiso denegado"
 
 msgctxt "[\"COMMENT-ERR_FAILURE\"]"
 msgid "Comment unknown"
-msgstr ""
+msgstr "Comentario desconocido"
 
 msgctxt "[\"COMMENT-ERR_EMOJI\"]"
 msgid "Emoji comments are not allowed any more! Write something..."
-msgstr ""
+msgstr "¡Los comentarios con emojis no están permitidos! Escribe algo…"
 
 msgctxt "[\"COMMENT-ERR_NONE_MESSAGE\"]"
 msgid "You must write something!"
-msgstr ""
+msgstr "¡Tienes que escribir algo!"
 
 msgctxt "[\"COMMENT-ERR_INVALID_PARAMETER\"]"
 msgid "Invalid comment parameter"
-msgstr ""
+msgstr "Parámetro inválido del comentario"
 
 msgctxt "[\"COMMENT-ERR_INVALID_USER\"]"
 msgid "You're banned from APKPure by using or posting content containing nudity images. Please edit or remove the images before contacting Admin to restore your account."
 msgstr ""
+"Estás baneado de APKPure por usar o postear contenido ilícito. Por favor "
+"edita o elimina el post antes de contactar al admin para recuperar tu cuenta."
 
 msgctxt "[\"COMMENT-ERR_INVALID_VIDEO_URL\"]"
 msgid "Invalid Video URL"
-msgstr ""
+msgstr "URL de vídeo nopor inválida"
 
 msgctxt "[\"COMMENT-ERR_INVALID_REVIEW_USER\"]"
 msgid "To give your ratings, you need to verify your email."
@@ -906,11 +911,11 @@ msgstr "Comentario Cargando..."
 
 msgctxt "[\"COMMENT-DOWNLOAD_APK\"]"
 msgid "Download the APK file on APKPure."
-msgstr ""
+msgstr "Descarga el APK en APKPuere."
 
 msgctxt "[\"COMMENT-ERR_SHARE_APK_DENY\"]"
 msgid "This APP cannot be uploaded"
-msgstr ""
+msgstr "Esta APLICACIÓN no se puede subir"
 
 msgctxt "[\"COMMENT-LINK\"]"
 msgid "Link"
@@ -926,7 +931,7 @@ msgstr ""
 
 msgctxt "[\"COMMENT-FOLLOW_COUNT\"]"
 msgid "Followers: {0}"
-msgstr ""
+msgstr "Seguidores: {0}"
 
 msgctxt "[\"COMMENT-POST_COUNT\"]"
 msgid "Posts: {0}"
@@ -934,27 +939,27 @@ msgstr ""
 
 msgctxt "[\"PRE-REGISTER\"]"
 msgid "Pre-Registration Games"
-msgstr ""
+msgstr "Juegos en Pre-Registración"
 
 msgctxt "[\"PRE-REGISTRANTS\"]"
 msgid "Pre-Registrants"
-msgstr ""
+msgstr "Pre-Registrantes"
 
 msgctxt "[\"PRE-REGISTER_DETAILS\"]"
 msgid "Pre-Register Details"
-msgstr ""
+msgstr "Detalles de la Pre-Registración"
 
 msgctxt "[\"PRE-REGISTER_DATE\"]"
 msgid "Release Date"
-msgstr ""
+msgstr "Fecha de lanzamiento"
 
 msgctxt "[\"PRE-REGISTER_REWARDS\"]"
 msgid "Register Rewards"
-msgstr ""
+msgstr "Recompensas de la registración"
 
 msgctxt "[\"PRE-REGISTER_PAGE\"]"
 msgid "Pre-Register Page"
-msgstr ""
+msgstr "Página de Pre-Registración"
 
 msgctxt "[\"HASHTAG\"]"
 msgid "HASHTAG"
@@ -974,31 +979,31 @@ msgstr "Más"
 
 msgctxt "[\"USER-SETTINGS\"]"
 msgid "Settings"
-msgstr ""
+msgstr "Ajustes"
 
 msgctxt "[\"USER-INFO_ALL\"]"
 msgid "All"
-msgstr ""
+msgstr "Todo"
 
 msgctxt "[\"USER-INFO_REVIEW\"]"
 msgid "Review"
-msgstr ""
+msgstr "Review"
 
 msgctxt "[\"USER-INFO_STORY\"]"
 msgid "Story"
-msgstr ""
+msgstr "Historial"
 
 msgctxt "[\"USER-SAY_SOMETHING\"]"
 msgid "Why do you want to delete this account?"
-msgstr ""
+msgstr "¿Por qué quieres eliminar esta cuenta?"
 
 msgctxt "[\"USER-A_PRIVATE_ACCOUNT\"]"
 msgid "It's a private account."
-msgstr ""
+msgstr "Es una cuenta privada."
 
 msgctxt "[\"USER-PRIVACY_SETTING\"]"
 msgid "Privacy Settings"
-msgstr ""
+msgstr "Ajustes de privacidad"
 
 msgctxt "[\"USER-PRIVATE_ACCOUNT\"]"
 msgid "Private Account"
@@ -1458,7 +1463,7 @@ msgstr "Sitio Movil"
 
 msgctxt "[\"FOOTER-CONTACT_US\"]"
 msgid "Contact Us"
-msgstr "Contactarnos"
+msgstr "Contáctanos"
 
 msgctxt "[\"FOOTER-ABOUT\"]"
 msgid "About Us"
@@ -2286,7 +2291,10 @@ msgstr "Verificacion de Firma del APK, Servicio de Deteccion de la Version Ofici
 
 msgctxt "[\"meta\"][\"Verify\"][\"keywords\"]"
 msgid "apk signature verification, apk signature verify, apk signature checker, apk signature viewer, modified apk, free, online, scanner"
-msgstr "verificacion de firma del apk, verifique la firma del apk, analizador de la firma del apk, mirador de la firma del apk, apk modificada, gratis, online, scanner"
+msgstr ""
+"verificación de firma del apk, verifique la firma del apk, analizador de la "
+"firma del apk, mirador de la firma del apk, apk modificada, gratis, online, "
+"scanner"
 
 msgctxt "[\"meta\"][\"Upload\"][\"title\"]"
 msgid "Submit your Android Apps and games - Upload .APK File (Android App) at APKPure"
@@ -2719,3 +2727,31 @@ msgstr ""
 msgctxt "[\"xapk\"][\"VARIANTS\"]"
 msgid "This release comes in several variants, See available APKs"
 msgstr ""
+
+msgctxt "[\"DETAIL-CATEGORY_APP\"]"
+msgid "{0} App"
+msgstr "{0} Aplicación"
+
+msgctxt "[\"DETAIL-CATEGORY_GAME\"]"
+msgid "{0} Game"
+msgstr "{0} Juego"
+
+msgctxt "[\"DETAIL-MORE_FROM\"]"
+msgid "More Apps from {0}"
+msgstr "Más aplicaciones de {0}"
+
+msgctxt "[\"ADDITIONAL_INFORMATION\"]"
+msgid "Additional App Information"
+msgstr "Información adicional de la aplicación"
+
+msgctxt "[\"UPLOADER\"]"
+msgid "App uploaded by"
+msgstr "Aplicación subida por"
+
+msgctxt "[\"APP\"]"
+msgid "App"
+msgstr "Aplicación"
+
+msgctxt "[\"GAME\"]"
+msgid "Game"
+msgstr "Juego"
