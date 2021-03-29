@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-09-09 05:10+0000\n"
-"PO-Revision-Date: 2021-03-02 20:42+0000\n"
-"Last-Translator: Diyar Nassyrov <diyar96.31@gmail.com>\n"
+"PO-Revision-Date: 2021-03-29 20:34+0000\n"
+"Last-Translator: Bakytbek Romanov <bakytbek.romanov79@gmail.com>\n"
 "Language-Team: Russian <https://translate.apkpure.com/projects/apkpure/"
 "apkpurecom/ru/>\n"
 "Language: ru\n"
@@ -2790,10 +2790,9 @@ msgctxt "[\"DETAIL-CATEGORY_APP\"]"
 msgid "{0} App"
 msgstr "{0} Приложение"
 
-#, fuzzy
 msgctxt "[\"DETAIL-CATEGORY_GAME\"]"
 msgid "{0} Game"
-msgstr "{0} Игра"
+msgstr "Golden Mines ru"
 
 #, fuzzy
 msgctxt "[\"UPLOADER\"]"
