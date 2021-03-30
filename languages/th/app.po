@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-09-09 05:10+0000\n"
-"PO-Revision-Date: 2021-03-27 19:13+0000\n"
-"Last-Translator: Wa Ra <warapaksi4@gmail.com>\n"
+"PO-Revision-Date: 2021-03-30 19:16+0000\n"
+"Last-Translator: Yu Re <yre73794@gmail.com>\n"
 "Language-Team: Thai <https://translate.apkpure.com/projects/apkpure/"
 "apkpurecom/th/>\n"
 "Language: th\n"
@@ -180,7 +180,7 @@ msgstr "เป็นที่นิยม"
 
 msgctxt "[\"CATEGORY\"]"
 msgid "Category"
-msgstr "หมวดหมู่"
+msgstr "Category ”"
 
 msgctxt "[\"CATEGORY_JOIN\"]"
 msgid "{app_category} {app_type}"
@@ -455,26 +455,25 @@ msgctxt "[\"DETAIL-MOBILE_XAPK_SHORT_DES\"]"
 msgid "Click to get XAPK Installer"
 msgstr "คลิกเพื่อรับตัวติดตั้ง XAPK"
 
-#, fuzzy
 msgctxt "[\"DETAIL-LATEST_VERSION\"]"
 msgid "Latest Version"
-msgstr "Latest Version"
+msgstr "”Latest Version"
 
 msgctxt "[\"DETAIL-PUBLISH_DATE\"]"
 msgid "Publish Date"
-msgstr "วันที่ลง"
+msgstr "”Publish Date"
 
 msgctxt "[\"DETAIL-GET_IT_ON\"]"
 msgid "Get it on"
-msgstr "รับได้ที่"
+msgstr "”รับได้ที่"
 
 msgctxt "[\"DETAIL-REQUIREMENTS\"]"
 msgid "Requirements"
-msgstr "ความต้องการของระบบ"
+msgstr "”ความต้องการของระบบ"
 
 msgctxt "[\"DETAIL-AUTHOR\"]"
 msgid "Author"
-msgstr "ผู้เขียน"
+msgstr "”ผู้เขียน"
 
 msgctxt "[\"DETAIL-REPORT\"]"
 msgid "Report"
@@ -482,7 +481,7 @@ msgstr "รายงาน"
 
 msgctxt "[\"DETAIL-FLAG_AS_INAPPROPRIATE\"]"
 msgid "Flag as inappropriate"
-msgstr "ปักธงว่าไม่เหมาะสม"
+msgstr "”ปักธงว่าไม่เหมาะสม"
 
 msgctxt "[\"DETAIL-VOTES\"]"
 msgid "votes"
@@ -582,7 +581,7 @@ msgstr "แปลภาษา"
 
 msgctxt "[\"DETAIL-GP_DOWNLOAD\"]"
 msgid "Install on Google Play"
-msgstr "ติดตั้งผ่าน Google Play"
+msgstr "”ติดตั้งผ่าน Google Play"
 
 msgctxt "[\"DETAIL-ITUNE_DOWNLOAD\"]"
 msgid "Install on iTunes"
@@ -1890,10 +1889,9 @@ msgctxt "[\"error\"][\"DOWN-RunOutOfDevice\"]"
 msgid "Download failed, please try again in 5 minutes."
 msgstr "การดาวน์โหลดล้มเหลว กรุณาลองใหม่อีกครั้งในอีก 5 นาที"
 
-#, fuzzy
 msgctxt "[\"tip\"][\"SHORT_NAME\"]"
 msgid "{0}"
-msgstr "{0}"
+msgstr "”{0}"
 
 msgctxt "[\"tip\"][\"DEVELOPER_ICON\"]"
 msgid "{0} Icon"
@@ -1987,20 +1985,17 @@ msgctxt "[\"tip\"][\"HOT_ANDROID_APP\"]"
 msgid "hot android app apk"
 msgstr "APK แอปแอนดรอยด์สุดฮิต"
 
-#, fuzzy
 msgctxt "[\"js\"][\"LANG_TIP\"][\"kr\"]"
 msgid "원하는 언어를 <strong> 한국어 </strong>로 변경 하시겠습니까?"
-msgstr "원하는 언어를 <strong> 한국어 </strong>로 변경 하시겠습니까?"
+msgstr "”원하는 언어를 <strong> 한국어 </strong>로 변경 하시겠습니까?"
 
-#, fuzzy
 msgctxt "[\"js\"][\"LANG_IGNORE\"][\"kr\"]"
 msgid "무시"
-msgstr "무시"
+msgstr "”무시"
 
-#, fuzzy
 msgctxt "[\"js\"][\"LANG_OK\"][\"kr\"]"
 msgid "승인"
-msgstr "승인"
+msgstr "”승인"
 
 msgctxt "[\"js\"][\"UPLOAD-TIMED_OUT\"]"
 msgid "File parsing timed out. (Error code: 10003)"
@@ -2846,26 +2841,22 @@ msgctxt "[\"xapk\"][\"SEE_AVAILABLE_APKS\"]"
 msgid "See available APKs"
 msgstr "ดู APK ที่มีอยู่"
 
-#, fuzzy
 msgctxt "[\"xapk\"][\"VARIANTS\"]"
 msgid "This release comes in several variants, See available APKs"
-msgstr "การวางจำหน่ายครั้งนี้แบ่งเป็น Variant หลายแบบ ดู APK ที่มีอยู่"
+msgstr "This release comes in several variants, See available APKs”"
 
-#, fuzzy
 msgctxt "[\"js\"][\"LANG_OK\"][\"ms\"]"
 msgid "sahkan "
-msgstr "sahkan "
+msgstr "”sahkan "
 
-#, fuzzy
 msgctxt "[\"js\"][\"LANG_IGNORE\"][\"ms\"]"
 msgid "abaikan"
-msgstr "abaikan"
+msgstr "”abaikan"
 
-#, fuzzy
 msgctxt "[\"js\"][\"LANG_TIP\"][\"ms\"]"
 msgid "Bahasa yang anda mahu <strong> Malay </strong>Adakah anda mahu berubah ke? "
 msgstr ""
-"Bahasa yang anda mahu <strong> Malay </strong>Adakah anda mahu berubah ke? "
+"”Bahasa yang anda mahu <strong> Malay </strong>Adakah anda mahu berubah ke? "
 
 msgctxt "[\"PURE-NO-MORE-DATA\"]"
 msgid "No more data"
