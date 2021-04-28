@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-09-10 09:09+0000\n"
-"PO-Revision-Date: 2021-04-24 16:51+0000\n"
-"Last-Translator: أبو يحيى <abwyhyy995@gmail.com>\n"
+"PO-Revision-Date: 2021-04-29 01:13+0000\n"
+"Last-Translator: Hani Rouatbi <lamjed001@gmail.com>\n"
 "Language-Team: Arabic <https://translate.apkpure.com/projects/apkpure/"
 "apkpurecom/ar/>\n"
 "Language: ar\n"
@@ -669,7 +669,7 @@ msgstr "قوس"
 #, fuzzy
 msgctxt "[\"VARIANT-DPI\"]"
 msgid "DPI"
-msgstr "صباح الخير"
+msgstr "نقاط لكل إنش"
 
 msgctxt "[\"COMMENT-REVIEWS_TOTAL\"]"
 msgid "Total Reviews:"
@@ -849,7 +849,7 @@ msgstr "العربية"
 
 msgctxt "[\"COMMENT-ERR_LINK_AUDIT\"]"
 msgid "Your post contains link and is pending approval by an admin"
-msgstr ""
+msgstr "رسالتك تحتوي على رابط وتنتظر الموافقة من قبل المسؤول"
 
 msgctxt "[\"COMMENT-ERR_FORBIDDEN\"]"
 msgid "Permission denied"
@@ -861,7 +861,7 @@ msgstr "تعليق غير معروف"
 
 msgctxt "[\"COMMENT-ERR_EMOJI\"]"
 msgid "Emoji comments are not allowed any more! Write something..."
-msgstr ""
+msgstr "لم يعد مسموحًا بتعليقات الرموز التعبيرية! أكتب شيئا..."
 
 msgctxt "[\"COMMENT-ERR_NONE_MESSAGE\"]"
 msgid "You must write something!"
@@ -995,7 +995,7 @@ msgstr "قصة"
 
 msgctxt "[\"USER-SAY_SOMETHING\"]"
 msgid "Why do you want to delete this account?"
-msgstr ""
+msgstr "لماذا تريد حذف هذا الحساب؟"
 
 msgctxt "[\"USER-A_PRIVATE_ACCOUNT\"]"
 msgid "It's a private account."
@@ -1011,15 +1011,15 @@ msgstr "حساب خاص"
 
 msgctxt "[\"USER-DELETE_ACCOUNT\"]"
 msgid "Delete your account and information"
-msgstr ""
+msgstr "احذف حسابك ومعلوماتك"
 
 msgctxt "[\"USER-FOLLOWING\"]"
 msgid "Following"
-msgstr ""
+msgstr "متابعة"
 
 msgctxt "[\"USER-FOLLOWER\"]"
 msgid "Followers"
-msgstr ""
+msgstr "متابعون"
 
 msgctxt "[\"USER-LIKES\"]"
 msgid "Likes"
@@ -1035,11 +1035,11 @@ msgstr "تقييمات"
 
 msgctxt "[\"USER-REVIEWS_NONE\"]"
 msgid "Too few users ratings"
-msgstr ""
+msgstr "عدد قليل جدًا من تقييمات المستخدمين"
 
 msgctxt "[\"USER-FAVORITES\"]"
 msgid "Favorites"
-msgstr ""
+msgstr "المفضلة"
 
 msgctxt "[\"USER-PROFILE\"]"
 msgid "Profile"
@@ -1047,15 +1047,15 @@ msgstr "الملف الشخصي"
 
 msgctxt "[\"USER-CHANGE_PASSWORD\"]"
 msgid "Change Password"
-msgstr ""
+msgstr "تغيير كلمة المرور"
 
 msgctxt "[\"USER-MESSAGES\"]"
 msgid "Messages"
-msgstr ""
+msgstr "رسائل"
 
 msgctxt "[\"USER-MY_FAVORITE\"]"
 msgid "My Favorite"
-msgstr ""
+msgstr "مفضلتي"
 
 msgctxt "[\"USER-LIKED_COMMENTS\"]"
 msgid "Liked Comments"
@@ -1115,47 +1115,47 @@ msgstr "يتضمن إدخالك المفردات الحساسة."
 
 msgctxt "[\"USER-SOCIAL_ALREADY_BIND\"]"
 msgid "This third-party account has been connected to another account."
-msgstr ""
+msgstr "تم ربط حساب الطرف الثالث هذا بحساب آخر."
 
 msgctxt "[\"USER-EMAIL_EXIST\"]"
 msgid "This email has been connected to another account."
-msgstr ""
+msgstr "تم ربط هذا البريد الإلكتروني بحساب آخر."
 
 msgctxt "[\"USER-SEND_EMAIL_ERR\"]"
 msgid "Failed to send verification code."
-msgstr ""
+msgstr "فشل في إرسال رمز التحقق."
 
 msgctxt "[\"USER-EMAIL_UNBOUND\"]"
 msgid "This email address is not connected to any account."
-msgstr ""
+msgstr "عنوان البريد الإلكتروني هذا غير متصل بأي حساب."
 
 msgctxt "[\"USER-CAPTCHA_TIME_OUT\"]"
 msgid "Verification Code Timeout."
-msgstr ""
+msgstr "مهلة رمز التحقق."
 
 msgctxt "[\"USER-INCORRECT_CAPTCHA\"]"
 msgid "Incorrect Verification Code"
-msgstr ""
+msgstr "رمز التحقق غير صحيح"
 
 msgctxt "[\"USER-SEND_VERIFICATION_CODE\"]"
 msgid "Send verification code"
-msgstr ""
+msgstr "أرسل رمز التحقق"
 
 msgctxt "[\"USER-SEND_CODE\"]"
 msgid "Send Code"
-msgstr ""
+msgstr "أرسل الرمز"
 
 msgctxt "[\"USER-CONNECT_YOUR_EMAIL\"]"
 msgid "Connect your email"
-msgstr ""
+msgstr "قم بتوصيل بريدك الإلكتروني"
 
 msgctxt "[\"USER-CHANGE_EMAIL\"]"
 msgid "Change email"
-msgstr ""
+msgstr "تغيير البريد الالكتروني"
 
 msgctxt "[\"USER-CONNECT_YOUR_EMAIL_FIRST\"]"
 msgid "Please connect your email first"
-msgstr ""
+msgstr "الرجاء توصيل البريد الإلكتروني الخاص بك أولا"
 
 msgctxt "[\"USER-FEMALE\"]"
 msgid "Female"
@@ -1191,7 +1191,7 @@ msgstr "حفظ"
 
 msgctxt "[\"USER-SAVE_BTN\"]"
 msgid "SAVE"
-msgstr ""
+msgstr "حفظ"
 
 msgctxt "[\"USER-SAVING\"]"
 msgid "Saving..."
@@ -1211,7 +1211,7 @@ msgstr "كلمه السر"
 
 msgctxt "[\"USER-RETRIEVE_PASSWORD\"]"
 msgid "Retrieve Password"
-msgstr ""
+msgstr "استرجاع كلمة المرور"
 
 msgctxt "[\"USER-NEW_USER_REGISTRATION\"]"
 msgid "New User Registration"
@@ -1256,6 +1256,7 @@ msgstr "- تحميل المفضلة لديك تطبيقات أندرويد مع 
 msgctxt "[\"REGION_DOWN-PLACEHOLDER\"]"
 msgid "com.facebook.katana or https://play.google.com...?id=com.facebook.katana"
 msgstr ""
+"com.facebook.katana أو https://play.google.com...?id=com.facebook.katana"
 
 msgctxt "[\"REGION_DOWN-SEARCH\"]"
 msgid "Search"
@@ -1303,7 +1304,7 @@ msgstr "حجم الملف"
 
 msgctxt "[\"SEARCH-ON_THE_APP_STORE\"]"
 msgid "{0} On the App Store"
-msgstr ""
+msgstr "{0} في App Store"
 
 msgctxt "[\"SEARCH-ADVANCED_SEARCH\"]"
 msgid "Advanced Search"
@@ -1347,7 +1348,7 @@ msgstr "البحث APK"
 
 msgctxt "[\"SEARCH-APP\"]"
 msgid "Search App"
-msgstr ""
+msgstr "بحث عن تطبيق"
 
 msgctxt "[\"SEARCH-TRENDING\"]"
 msgid "Trending searches"
@@ -1359,7 +1360,7 @@ msgstr "سجل البحث"
 
 msgctxt "[\"SEARCH-FEATURED_HASHTAG\"]"
 msgid "Featured hashtags"
-msgstr ""
+msgstr "علامات التجزئة المميزة"
 
 msgctxt "[\"SEARCH-TAB_USERS\"]"
 msgid "Users"
@@ -1383,7 +1384,7 @@ msgstr "خطأ 404!"
 
 msgctxt "[\"PRE-REG-RECOMMEND\"]"
 msgid "Recommendations"
-msgstr ""
+msgstr "التوصيات"
 
 msgctxt "[\"404-DES\"]"
 msgid "It seems that page you are looking for no longer exists.<br />You can explore more Android Games and Apps below!"
@@ -1471,7 +1472,7 @@ msgstr "حول"
 
 msgctxt "[\"FOOTER-UPLOAD-APK\"]"
 msgid "Submit APK"
-msgstr ""
+msgstr "إرسال APK"
 
 msgctxt "[\"FOOTER-SOLUTIONS\"]"
 msgid "SOLUTIONS"
@@ -1503,11 +1504,11 @@ msgstr "المطورون"
 
 msgctxt "[\"FOOTER-DEVELOPER_CONSOLE\"]"
 msgid "Developer Console"
-msgstr ""
+msgstr "وحدة تحكم المطور"
 
 msgctxt "[\"FOOTER-COOPERATION\"]"
 msgid "Business Cooperation"
-msgstr ""
+msgstr "التعاون التجاري"
 
 msgctxt "[\"FOOTER-REPORT_ABUSE\"]"
 msgid "Report abuse"
@@ -1535,19 +1536,19 @@ msgstr ""
 
 msgctxt "[\"MARKET-POP_CHANGE_TITLE\"]"
 msgid "Change Profile Settings"
-msgstr ""
+msgstr "تغيير إعدادات الملف الشخصي"
 
 msgctxt "[\"MARKET-POP_ADD_IMAGE\"]"
 msgid "Add Images To Post"
-msgstr ""
+msgstr "أضف صور للنشر"
 
 msgctxt "[\"MARKET-POP_ADD_NEW_POST\"]"
 msgid "Add New Post or Comment"
-msgstr ""
+msgstr "أضف منشورًا جديدًا أو تعليقًا"
 
 msgctxt "[\"MARKET-POP_ADD_TAG\"]"
 msgid "Add Tags"
-msgstr ""
+msgstr "إضافة علامات"
 
 msgctxt "[\"MARKET-QR\"]"
 msgid "Download<br>APKPure App"
@@ -1678,7 +1679,7 @@ msgstr "قم بتحميل التطبيق الخاص بك"
 
 msgctxt "[\"UPLOAD-APK-FILE\"]"
 msgid "Upload the apk file"
-msgstr ""
+msgstr "قم برفع ملف apk"
 
 msgctxt "[\"UPLOAD-APK-FILE-PROMPT\"]"
 msgid "Only support <strong>.APK/XAPK</strong> file no larger than <strong>{0}Mb</strong>"
@@ -2754,3 +2755,23 @@ msgstr "هو"
 msgctxt "[\"UPLOADER\"]"
 msgid "App uploaded by"
 msgstr "+20 101 068 4043"
+
+msgctxt "[\"COPYRIGHT_MOBILE\"]"
+msgid "APKPure.com © 2014-2021"
+msgstr "APKPure.com © 2014-2021"
+
+msgctxt "[\"COPYRIGHT\"]"
+msgid "Copyright © 2014-2021 APKPure All rights reserved."
+msgstr "حقوق النشر © 2014-2021 APKPure جميع الحقوق محفوظة."
+
+msgctxt "[\"DETAIL-CATEGORY_APP\"]"
+msgid "{0} App"
+msgstr "{0} تطبيق"
+
+msgctxt "[\"DETAIL-CATEGORY_GAME\"]"
+msgid "{0} Game"
+msgstr "{0} لعبة"
+
+msgctxt "[\"ADDITIONAL_INFORMATION\"]"
+msgid "Additional App Information"
+msgstr "معلومات التطبيق الإضافية"
