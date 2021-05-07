@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-10-09 02:00+0000\n"
-"PO-Revision-Date: 2021-03-02 08:53+0000\n"
-"Last-Translator: Gyann dtdf studio <granstudio123@gmail.com>\n"
+"PO-Revision-Date: 2021-05-01 19:55+0000\n"
+"Last-Translator: Arnav Kumar <arnav-kumar@googlegroups.com>\n"
 "Language-Team: Hindi <https://translate.apkpure.com/projects/apkpure/"
 "apkpurecom/hi/>\n"
 "Language: hi\n"
@@ -160,7 +160,7 @@ msgstr "हॉट"
 
 msgctxt "[\"ATTACHMENT\"]"
 msgid "Attachment"
-msgstr ""
+msgstr "आसक्ति"
 
 msgctxt "[\"DOWNLOADS\"]"
 msgid "Downloads"
@@ -176,7 +176,7 @@ msgstr "रेटिंग"
 
 msgctxt "[\"POPULAR\"]"
 msgid "Popular"
-msgstr ""
+msgstr "लोकप्रिय"
 
 msgctxt "[\"CATEGORY\"]"
 msgid "Category"
@@ -184,7 +184,7 @@ msgstr "श्रेणी"
 
 msgctxt "[\"CATEGORY_JOIN\"]"
 msgid "{app_category} {app_type}"
-msgstr ""
+msgstr "{ऐप श्रेणी} {ऐप प्रकार}"
 
 msgctxt "[\"SHOW_MORE\"]"
 msgid "Show More"
@@ -240,11 +240,11 @@ msgstr "टिप्पणियां"
 
 msgctxt "[\"NOT_FOUND\"]"
 msgid "Not Found"
-msgstr ""
+msgstr "पता नहीं चला"
 
 msgctxt "[\"REASON\"]"
 msgid "Reason"
-msgstr ""
+msgstr "कारण"
 
 msgctxt "[\"LATEST_UPDATE_GAMES\"]"
 msgid "Latest Update Games"
@@ -312,15 +312,15 @@ msgstr "विषय"
 
 msgctxt "[\"MORE-TOPICS\"]"
 msgid "More Topics"
-msgstr ""
+msgstr "अधिक विषय"
 
 msgctxt "[\"TAG\"]"
 msgid "Tag {0}"
-msgstr ""
+msgstr "टैग {0}"
 
 msgctxt "[\"BROWSING_TAG\"]"
 msgid "Browsing {0}"
-msgstr ""
+msgstr "ब्राउज़िंग {0}"
 
 msgctxt "[\"ADDITIONAL_INFORMATION\"]"
 msgid "Additional Information"
@@ -340,11 +340,11 @@ msgstr "अद्यतन"
 
 msgctxt "[\"SUBMIT\"]"
 msgid "Submit"
-msgstr ""
+msgstr "प्रस्तुत करें"
 
 msgctxt "[\"SUBMITTING\"]"
 msgid "Submitting..."
-msgstr ""
+msgstr "जमा किया जा रहा है..."
 
 msgctxt "[\"DEV-ICON_SIZE_ERROR\"]"
 msgid "You need to resize your high-res icon. The required dimensions are 512px * 512px."
@@ -400,11 +400,11 @@ msgstr ""
 
 msgctxt "[\"UPLOAD-FAILED\"]"
 msgid "File upload failed. (Error code: 10001)"
-msgstr ""
+msgstr "फ़ाइल अपलोड विफल रहा। (त्रुटि कोड: 10001)"
 
 msgctxt "[\"UPLOAD-PARSING_FAILED\"]"
 msgid "File parsing failed. (Error code: 10002)"
-msgstr ""
+msgstr "फ़ाइल पार्स करना विफल रहा। (त्रुटि कोड: 10002)"
 
 msgctxt "[\"DETAIL\"]"
 msgid "Detail"
@@ -412,11 +412,11 @@ msgstr "विस्तार"
 
 msgctxt "[\"DETAIL-HOT_TAGS\"]"
 msgid "{0} Tags"
-msgstr ""
+msgstr "{0} टैग"
 
 msgctxt "[\"DETAIL-MAIGHT_LIKE\"]"
 msgid "You Might Also Like"
-msgstr ""
+msgstr "शायद आपको यह भी अच्छा लगे"
 
 msgctxt "[\"DETAIL-PAID_GAME\"]"
 msgid "Paid Game"
@@ -436,7 +436,7 @@ msgstr "भुगतान किए ऐप्स डाउनलोड के �
 
 msgctxt "[\"DETAIL-WHY_SAFE\"]"
 msgid "Why we can guarantee APK 100% safe?"
-msgstr "हम APK के 100%  सुरक्षित होने की गारंटी क्यों दे सकते हैं?"
+msgstr "हम APK के 100% सुरक्षित होने की गारंटी क्यों दे सकते हैं?"
 
 msgctxt "[\"DETAIL-SAFE\"]"
 msgid "Verification passed"
@@ -600,11 +600,11 @@ msgstr "डाउनलोड हो रहा है"
 
 msgctxt "[\"DETAIL_DOWNLOAD-FAST_DOWNLOADING\"]"
 msgid "Fast Downloading"
-msgstr ""
+msgstr "फास्ट डाउनलोडिंग"
 
 msgctxt "[\"DETAIL_DOWNLOAD-FAST_DOWNLOADING_DES\"]"
 msgid "How \"Fast Download\" works?"
-msgstr ""
+msgstr "\"फास्ट डाउनलोड\" कैसे काम करता है?"
 
 msgctxt "[\"DETAIL_DOWNLOAD-DOWNLOADING_DES\"]"
 msgid "If the download doesn't start,"
@@ -624,11 +624,11 @@ msgstr "पिछला संस्करण"
 
 msgctxt "[\"VERSION-VERSIONS\"]"
 msgid "Versions"
-msgstr ""
+msgstr "संस्करणों"
 
 msgctxt "[\"VERSION-ALL-VERSIONS\"]"
 msgid "All Versions"
-msgstr ""
+msgstr "सभी संस्करण"
 
 msgctxt "[\"VERSION-REQUIRES_ANDROID\"]"
 msgid "Requires Android"
@@ -636,51 +636,51 @@ msgstr "Android आवश्यक है"
 
 msgctxt "[\"VARIANT-VARIANTS\"]"
 msgid "{0} Variants"
-msgstr ""
+msgstr "{०} भिन्न"
 
 msgctxt "[\"VARIANT-VARIANTS_TIT\"]"
 msgid "Variants"
-msgstr ""
+msgstr "वेरिएंट"
 
 msgctxt "[\"VARIANT-VARIANT\"]"
 msgid "Variant"
-msgstr ""
+msgstr "प्रकार"
 
 msgctxt "[\"VARIANT-ARCHITECTURE\"]"
 msgid "Architecture"
-msgstr ""
+msgstr "आर्किटेक्चर"
 
 msgctxt "[\"VARIANT-MINIMUM\"]"
 msgid "Minimum Version"
-msgstr ""
+msgstr "न्यूनतम संस्करण"
 
 msgctxt "[\"VARIANT-SCREEN_DPI\"]"
 msgid "Screen DPI"
-msgstr ""
+msgstr "स्क्रीन डीपीआई"
 
 msgctxt "[\"VARIANT-ARCH\"]"
 msgid "Arch"
-msgstr ""
+msgstr "मेहराब"
 
 msgctxt "[\"VARIANT-DPI\"]"
 msgid "DPI"
-msgstr ""
+msgstr "DPI"
 
 msgctxt "[\"COMMENT-REVIEWS_TOTAL\"]"
 msgid "Total Reviews:"
-msgstr ""
+msgstr "कुल समीक्षा:"
 
 msgctxt "[\"COMMENT-REVIEWS_CURRENT\"]"
 msgid "Reviews in {0}:"
-msgstr ""
+msgstr "{0} में समीक्षाएं:"
 
 msgctxt "[\"COMMENT-REVIEWS_CURRENT_MOB\"]"
 msgid "In {0}:"
-msgstr ""
+msgstr "{0} में:"
 
 msgctxt "[\"COMMENT-REVIEW_OTHER_LANG\"]"
 msgid "There are {0} reviews in other languages"
-msgstr ""
+msgstr "अन्य भाषाओं में {0} समीक्षाएं हैं"
 
 msgctxt "[\"COMMENT-ADD_NEW_DISCUSSION\"]"
 msgid "Add A New Discussion"
@@ -716,7 +716,7 @@ msgstr "समूह"
 
 msgctxt "[\"COMMENT-TITLE_POST\"]"
 msgid "Post"
-msgstr ""
+msgstr "पद"
 
 msgctxt "[\"COMMENT-ADD\"]"
 msgid "Add Comment"
@@ -732,11 +732,11 @@ msgstr "दृश्य"
 
 msgctxt "[\"COMMENT-COLLAPSED\"]"
 msgid "comment collapsed"
-msgstr ""
+msgstr "टिप्पणी ढह गई"
 
 msgctxt "[\"COMMENT-REVIEW_OR_POST\"]"
 msgid "Post review or comment"
-msgstr ""
+msgstr "समीक्षा या टिप्पणी पोस्ट करें"
 
 msgctxt "[\"COMMENT-REPLY\"]"
 msgid "Reply"
@@ -768,7 +768,7 @@ msgstr "सबसे हाल का"
 
 msgctxt "[\"COMMENT-SORT_BY_MOST_SCORE\"]"
 msgid "Top rated"
-msgstr ""
+msgstr "टॉप रेटेड"
 
 msgctxt "[\"COMMENT-SORT_BY_DEFAULT\"]"
 msgid "Sort by default"
@@ -808,7 +808,7 @@ msgstr "वेबसाइट"
 
 msgctxt "[\"COMMENT-TO_BE_FIRST\"]"
 msgid "Ooops! No such content!"
-msgstr "टिप्पणी करने वाला पहला व्यक्ति बनें।"
+msgstr "उफ़! ऐसी कोई सामग्री नहीं!"
 
 msgctxt "[\"COMMENT-VOTE\"]"
 msgid "Vote"
@@ -816,51 +816,52 @@ msgstr "वोट"
 
 msgctxt "[\"COMMENT-LIKE\"]"
 msgid "Like"
-msgstr ""
+msgstr "पसंद"
 
 msgctxt "[\"COMMENT-ERR_QUICK_LOGIN\"]"
 msgid "Quick login error, please try again."
-msgstr ""
+msgstr "त्वरित लॉगिन त्रुटि, कृपया पुनः प्रयास करें।"
 
 msgctxt "[\"COMMENT-ERR_EMAIL_NAME\"]"
 msgid "Incorrect mail or name"
-msgstr ""
+msgstr "गलत मेल या नाम"
 
 msgctxt "[\"COMMENT-ERR_DISCUSSION\"]"
 msgid "Incorrect in discussion"
-msgstr ""
+msgstr "चर्चा में गलत"
 
 msgctxt "[\"COMMENT-ERR_RATE\"]"
 msgid "Vote failed, repeated"
-msgstr ""
+msgstr "वोट विफल, दोहराया गया"
 
 msgctxt "[\"COMMENT-ERR_SENSITIVE_WORD\"]"
 msgid "Comment failed, your post contains sensitive terms."
-msgstr "Defeat,your post contains sensitive terms"
+msgstr "टिप्पणी विफल रही, आपकी पोस्ट में संवेदनशील शब्द हैं।"
 
 msgctxt "[\"COMMENT-ERR_SENSITIVE_WORD_AUDIT\"]"
 msgid "Your post contains sensitive terms and is pending approval by an admin"
 msgstr ""
+"आपकी पोस्ट में संवेदनशील शब्द हैं और एक व्यवस्थापक द्वारा अनुमोदन लंबित है"
 
 msgctxt "[\"COMMENT-ERR_LINK_AUDIT\"]"
 msgid "Your post contains link and is pending approval by an admin"
-msgstr ""
+msgstr "आपकी पोस्ट में लिंक है और एक व्यवस्थापक द्वारा अनुमोदन लंबित है"
 
 msgctxt "[\"COMMENT-ERR_FORBIDDEN\"]"
 msgid "Permission denied"
-msgstr ""
+msgstr "अनुमति नहीं मिली"
 
 msgctxt "[\"COMMENT-ERR_FAILURE\"]"
 msgid "Comment unknown"
-msgstr ""
+msgstr "टिप्पणी अज्ञात"
 
 msgctxt "[\"COMMENT-ERR_EMOJI\"]"
 msgid "Emoji comments are not allowed any more! Write something..."
-msgstr ""
+msgstr "इमोजी टिप्पणियों को और अधिक की अनुमति नहीं है! कुछ लिखेंगे..."
 
 msgctxt "[\"COMMENT-ERR_NONE_MESSAGE\"]"
 msgid "You must write something!"
-msgstr ""
+msgstr "आपको कुछ लिखना होगा!"
 
 msgctxt "[\"COMMENT-ERR_INVALID_PARAMETER\"]"
 msgid "Invalid comment parameter"
@@ -1068,7 +1069,7 @@ msgstr "उपयोगकर्ता का नाम पहले से प�
 
 msgctxt "[\"USER-ACCOUNT_NOT_EXIST\"]"
 msgid "The account you entered does not exist."
-msgstr "आपके द्वारा दर्ज किया गया खाता मौजूद नहीं है"
+msgstr "आपके द्वारा दर्ज किया गया खाता मौजूद नहीं है।"
 
 msgctxt "[\"USER-DISPLAY_NAME_EXIST\"]"
 msgid "The nickname is already in use."
@@ -1104,7 +1105,7 @@ msgstr ""
 
 msgctxt "[\"USER-BAD_NAME\"]"
 msgid "Your input includes sensitive vocabulary."
-msgstr "आपके इनपुट में संवेदनशील शब्दावली शामिल है"
+msgstr "आपके इनपुट में संवेदनशील शब्दावली शामिल है।"
 
 msgctxt "[\"USER-SOCIAL_ALREADY_BIND\"]"
 msgid "This third-party account has been connected to another account."
@@ -1932,7 +1933,7 @@ msgstr "{0} Google Play प्राप्त करें"
 
 msgctxt "[\"tip\"][\"GET_IT_ON_OTHER\"]"
 msgid "Get {app_name} on {source_name}"
-msgstr "{app_name}  {source_name} प्राप्त करें"
+msgstr "{app_name} को {source_name} प्राप्त करें"
 
 msgctxt "[\"tip\"][\"REQUEST_UPDATE\"]"
 msgid "Request {0} Update"
@@ -2184,7 +2185,7 @@ msgstr "एंडरॉयड {0} XAPK, डाउनलोड करें, प�
 
 msgctxt "[\"meta\"][\"Category_featured\"][\"title\"]"
 msgid "Download {0} APK Android App Online - Free Pure APK Downloader"
-msgstr "{0} APK एंडरॉयड ऐप ऑनलाइन डाउनलोड करें - मुफ्त  Pure APK डाउनलोडर"
+msgstr "{0} APK एंडरॉयड ऐप ऑनलाइन डाउनलोड करें - मुफ्त Pure APK डाउनलोडर"
 
 msgctxt "[\"meta\"][\"Category_featured_editors-picks\"][\"title\"]"
 msgid "APKPure Editors' Picks for the best Android Games & Apps"
@@ -2212,7 +2213,10 @@ msgstr "{0} apk डाउनलोड, मुफ्त {0} डाउनलोड
 
 msgctxt "[\"meta\"][\"Category_game\"][\"description\"]"
 msgid "Download free and best {0} for Android phone and tablet with online apk downloader on APKPure.com, including (driving games, shooting games, fighting games) and more."
-msgstr "APKPure.com पर ऑनलाइन apk डाउनलोडर के साथ एंडरॉयड फोन व टैबलेट के लिए मुफ्त व बेहतर {0}  डाउनलोड करें, जिसमें शामिल है (ड्राइविंग गेम्स, शूटिंग गेम्स, फाइटिंग गेम्स) आदि।"
+msgstr ""
+"APKPure.com पर ऑनलाइन apk डाउनलोडर के साथ एंडरॉयड फोन व टैबलेट के लिए मुफ्त "
+"व बेहतर {0} डाउनलोड करें, जिसमें शामिल है (ड्राइविंग गेम्स, शूटिंग गेम्स, "
+"फाइटिंग गेम्स) आदि।"
 
 msgctxt "[\"meta\"][\"FAQ\"][\"title\"]"
 msgid "{0} FAQ | APKPure.com"
@@ -2284,7 +2288,9 @@ msgstr "APK हस्ताक्षर जांच, आधिकारिक �
 
 msgctxt "[\"meta\"][\"Verify\"][\"keywords\"]"
 msgid "apk signature verification, apk signature verify, apk signature checker, apk signature viewer, modified apk, free, online, scanner"
-msgstr "apk हस्ताक्षर जांच, apk हस्ताक्षर जांच करना,  apk हस्ताक्षर जांचकर्ता,  apk हस्ताक्षर प्रेक्षक, संशोधित apk, मुफ्त, ऑनलाइन स्कैनर"
+msgstr ""
+"apk हस्ताक्षर जांच, apk हस्ताक्षर जांच करना, apk हस्ताक्षर जांचकर्ता, apk "
+"हस्ताक्षर प्रेक्षक, संशोधित apk, मुफ्त, ऑनलाइन स्कैनर"
 
 msgctxt "[\"meta\"][\"Upload\"][\"title\"]"
 msgid "Submit your Android Apps and games - Upload .APK File (Android App) at APKPure"
@@ -2723,3 +2729,27 @@ msgstr ""
 msgctxt "[\"GAME\"]"
 msgid "Game"
 msgstr "खेल"
+
+msgctxt "[\"DETAIL-CATEGORY_APP\"]"
+msgid "{0} App"
+msgstr "{0} ऐप"
+
+msgctxt "[\"DETAIL-CATEGORY_GAME\"]"
+msgid "{0} Game"
+msgstr "{0} गेम"
+
+msgctxt "[\"DETAIL-MORE_FROM\"]"
+msgid "More Apps from {0}"
+msgstr "{0} से अधिक एप्लिकेशन"
+
+msgctxt "[\"APP\"]"
+msgid "App"
+msgstr "एप्लिकेशन"
+
+msgctxt "[\"ADDITIONAL_INFORMATION\"]"
+msgid "Additional App Information"
+msgstr "अतिरिक्त ऐप की जानकारी"
+
+msgctxt "[\"UPLOADER\"]"
+msgid "App uploaded by"
+msgstr "द्वारा अपलोड किया गया ऐप"
