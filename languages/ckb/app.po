@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-09-29 19:21+0000\n"
-"PO-Revision-Date: 2021-04-24 11:27+0000\n"
-"Last-Translator: Kurd As <kurd68587@gmail.com>\n"
+"PO-Revision-Date: 2021-05-08 14:39+0000\n"
+"Last-Translator: Handren ramazan <handrenramazan@gmail.com>\n"
 "Language-Team: Kurdish Sorani <https://translate.apkpure.com/projects/"
 "apkpure/apkpurecom/ckb/>\n"
 "Language: ckb\n"
@@ -1540,7 +1540,7 @@ msgstr ""
 
 msgctxt "[\"MARKET-DETAIL_APK_SHORT_DES_MOBILE\"]"
 msgid "Download and update on APKPure App"
-msgstr ""
+msgstr "دابەزاندن و نوێکردنەوە لە بەرنامەی ئەیپیکەی پیوەر"
 
 msgctxt "[\"MARKET-DETAIL_APK_SHORT_DES_TITLE\"]"
 msgid "Faster apks download and update on APKPure"
@@ -1548,19 +1548,21 @@ msgstr ""
 
 msgctxt "[\"MARKET-DETAIL_XAPK_SHORT_DES\"]"
 msgid "Install and update XAPK with APKPure App"
-msgstr ""
+msgstr "چەسپاندن و نوێکردنەوەی ئێکسئەیپیکەی لەگەڵ بەرنامەی ئەیپیکەیپیوەر"
 
 msgctxt "[\"MARKET-INDEX_BANNER_TITLE\"]"
 msgid "APKPure APP"
-msgstr ""
+msgstr "بەرنامەی ئەیپیکەی پیور"
 
 msgctxt "[\"MARKET-INDEX_BANNER_DES\"]"
 msgid "Install,manage and update your apps"
-msgstr ""
+msgstr "چەسپاندن، بەڕێوەبرد و نوێکردنەوەی بەرنامەکانت"
 
 msgctxt "[\"MARKET-BOTTOM_BANNER_DES\"]"
 msgid "Try APKPure App - Download, update and install apks on your Android."
 msgstr ""
+"بەرنامەی ئەیپیکەیپیور تاقیبکەوە - دابەزاندن، نوێکردنەوە و چەسپاندنی "
+"بەرنامەکان لەسەر مۆبایلی ئەندرۆیدەکەت."
 
 msgctxt "[\"MARKET-BOTTOM_BANNER_DETAIL_APK_DES\"]"
 msgid "Using APKPure App to upgrade <strong>{0}</strong>, fast, free and save your internet data."
@@ -1580,7 +1582,7 @@ msgstr ""
 
 msgctxt "[\"MARKET-BOTTOM_BANNER_DOWNLOAD_BTN\"]"
 msgid "Download APP"
-msgstr ""
+msgstr "دابەزاندنی بەرنامە"
 
 msgctxt "[\"MARKET-PROMOTION_BANNER_MOBILE1\"]"
 msgid "<p class=\"desc\">Using APKPure App to download/update this apk, faster, free and saving data!</p>"
@@ -1604,19 +1606,19 @@ msgstr ""
 
 msgctxt "[\"FLAG-Africa\"]"
 msgid "Africa"
-msgstr ""
+msgstr "ئەفریکا"
 
 msgctxt "[\"FLAG-Americas\"]"
 msgid "Americas"
-msgstr ""
+msgstr "ئەمریکا"
 
 msgctxt "[\"FLAG-Asia\"]"
 msgid "Asia"
-msgstr ""
+msgstr "ئاسیا"
 
 msgctxt "[\"FLAG-Europe\"]"
 msgid "Europe"
-msgstr ""
+msgstr "ئەوڕوپا"
 
 msgctxt "[\"FLAG-Oceania\"]"
 msgid "Oceania"
@@ -1624,7 +1626,7 @@ msgstr ""
 
 msgctxt "[\"FLAG-Rest_of_the_world\"]"
 msgid "Rest of the world"
-msgstr ""
+msgstr "تەواوی جیهان"
 
 msgctxt "[\"ERROR-SUBTITLE\"]"
 msgid "You can visit the following Games and Apps instead"
@@ -1632,19 +1634,19 @@ msgstr ""
 
 msgctxt "[\"RECOMMENDED-POSTS\"]"
 msgid "Recommended Posts"
-msgstr ""
+msgstr "پۆستی ڕاسپێردراو"
 
 msgctxt "[\"USERS-RECOMMENDED\"]"
 msgid "Users' Recommendations"
-msgstr ""
+msgstr "بەکارهێنەری ڕاسپێردراو"
 
 msgctxt "[\"UPLOAD-YOUR-APP\"]"
 msgid "Upload Your Application"
-msgstr ""
+msgstr "بەرنامەکەت بار بکە"
 
 msgctxt "[\"UPLOAD-APK-FILE\"]"
 msgid "Upload the apk file"
-msgstr ""
+msgstr "فایلی ئەیپیکەی بار بکە"
 
 msgctxt "[\"UPLOAD-APK-FILE-PROMPT\"]"
 msgid "Only support <strong>.APK/XAPK</strong> file no larger than <strong>{0}Mb</strong>"
@@ -1652,15 +1654,15 @@ msgstr ""
 
 msgctxt "[\"APP-DETAILS\"]"
 msgid "App Details"
-msgstr ""
+msgstr "ناوەڕۆکی بەرنامەکە"
 
 msgctxt "[\"TARGET-OS-VERSION\"]"
 msgid "Target OS version"
-msgstr ""
+msgstr "سیستەمی بەکارخەری ئامانجگیراو"
 
 msgctxt "[\"SUPPORTED-SCREENS\"]"
 msgid "Supported screens"
-msgstr ""
+msgstr "سکرینی پاڵپشتیکراو"
 
 msgctxt "[\"SUPPORTED-DENSITIES\"]"
 msgid "Supported densities"
@@ -1676,7 +1678,7 @@ msgstr ""
 
 msgctxt "[\"DETAILS-PERMISSIONS\"]"
 msgid "Permissions"
-msgstr ""
+msgstr "ڕێگاپێدراوەکان"
 
 msgctxt "[\"DETAILS-USES-FEATURES\"]"
 msgid "Uses features"
@@ -1684,79 +1686,79 @@ msgstr ""
 
 msgctxt "[\"LANGUAGE\"]"
 msgid "Language"
-msgstr ""
+msgstr "زمان"
 
 msgctxt "[\"LANGUAGE-KR\"]"
 msgid "Korean"
-msgstr ""
+msgstr "کۆری"
 
 msgctxt "[\"LANGUAGE-AR\"]"
 msgid "Arabic"
-msgstr ""
+msgstr "عەرەبی"
 
 msgctxt "[\"LANGUAGE-EN\"]"
 msgid "English"
-msgstr ""
+msgstr "ئینگلیزی"
 
 msgctxt "[\"LANGUAGE-ES\"]"
 msgid "Spanish"
-msgstr ""
+msgstr "ئیسپانی"
 
 msgctxt "[\"LANGUAGE-FR\"]"
 msgid "French"
-msgstr ""
+msgstr "فەڕەنسی"
 
 msgctxt "[\"LANGUAGE-IN\"]"
 msgid "Hindi"
-msgstr ""
+msgstr "هیندی"
 
 msgctxt "[\"LANGUAGE-ID\"]"
 msgid "Indonesian"
-msgstr ""
+msgstr "ئەندەنوسی"
 
 msgctxt "[\"LANGUAGE-IT\"]"
 msgid "Italian"
-msgstr ""
+msgstr "ئیتاڵی"
 
 msgctxt "[\"LANGUAGE-JP\"]"
 msgid "Japanese"
-msgstr ""
+msgstr "ژاپۆنی"
 
 msgctxt "[\"LANGUAGE-DE\"]"
 msgid "German"
-msgstr ""
+msgstr "ئەڵمانی"
 
 msgctxt "[\"LANGUAGE-NL\"]"
 msgid "Dutch"
-msgstr ""
+msgstr "هۆڵندی"
 
 msgctxt "[\"LANGUAGE-PL\"]"
 msgid "Polish"
-msgstr ""
+msgstr "پۆڵندی"
 
 msgctxt "[\"LANGUAGE-BR\"]"
 msgid "Portuguese"
-msgstr ""
+msgstr "پرتوگالی"
 
 msgctxt "[\"LANGUAGE-RU\"]"
 msgid "Russian"
-msgstr ""
+msgstr "ڕووسی"
 
 msgctxt "[\"LANGUAGE-TR\"]"
 msgid "Turkish"
-msgstr ""
+msgstr "تورکی"
 
 msgctxt "[\"LANGUAGE-VN\"]"
 msgid "Vietnamese"
-msgstr ""
+msgstr "ڤێتنامی"
 
 msgctxt "[\"LANGUAGE-CN\"]"
 msgid "Chinese Simplified"
-msgstr ""
+msgstr "چینی نوێ"
 
 msgctxt "[\"LANGUAGE-TW\"]"
 msgid "traditional Chinese"
-msgstr ""
+msgstr "چینی کۆن"
 
 msgctxt "[\"REVIEW_PRIVACY_POLICY_DES_M\"]"
 msgid "We encourage you to read our updated <a target='_blank' href='{pp}'>Privacy Policy</a> and <a target='_blank' href='{cp}'>Cookies Policy</a>."
@@ -1768,39 +1770,41 @@ msgstr ""
 
 msgctxt "[\"REVIEW_PRIVACY_POLICY_BTN\"]"
 msgid "Ok I Agree"
-msgstr ""
+msgstr "باشە من ڕازیم"
 
 msgctxt "[\"REVIEW_PRIVACY_POLICY_MORE\"]"
 msgid "Learn More"
-msgstr ""
+msgstr "زیاتر فێربە"
 
 msgctxt "[\"MARKET-TOP_COUNTRY\"][\"en-US\"]"
 msgid "USA"
-msgstr ""
+msgstr "ئەمریکا"
 
 msgctxt "[\"MARKET-TOP_COUNTRY\"][\"ja\"]"
 msgid "Japan"
-msgstr ""
+msgstr "ژاپۆن"
 
 msgctxt "[\"MARKET-TOP_COUNTRY\"][\"zh-CN\"]"
 msgid "China"
-msgstr ""
+msgstr "چین"
 
 msgctxt "[\"MARKET-TOP_COUNTRY\"][\"ko-KR\"]"
 msgid "Korea"
-msgstr ""
+msgstr "کۆریە"
 
 msgctxt "[\"MARKET-TOP_COUNTRY\"][\"id-ID\"]"
 msgid "Indonesia"
-msgstr ""
+msgstr "ئەندەنوسیا"
 
 msgctxt "[\"MARKET-TOP_COUNTRY\"][\"pt-BR\"]"
 msgid "Brazil"
-msgstr ""
+msgstr "بەڕازیل"
 
 msgctxt "[\"error\"][\"DOWN-ItemNotFree\"]"
 msgid "Sorry, paid apps are not available to download with our APK Download Service."
 msgstr ""
+"ببورە بەرنامە بە پارەکان بەردەست نین بۆ دابەزاندن لەگەڵ خزمەتگوزار "
+"دابەزاندنی ئەیپیکەی."
 
 msgctxt "[\"error\"][\"DOWN-ItemNotFound\"]"
 msgid "Sorry, download failed, the APK cannot be found."
@@ -1808,7 +1812,7 @@ msgstr ""
 
 msgctxt "[\"error\"][\"DOWN-LimitedRegion\"]"
 msgid "Oops! Change your region and try download again."
-msgstr ""
+msgstr "بەداخەوە! ناوچەکەت بگۆڕە و دووبارە دایبەزێنەوە."
 
 msgctxt "[\"error\"][\"DOWN-LimitedDevice\"]"
 msgid "Sorry, download failed, the APK does not support our device."
@@ -1828,7 +1832,7 @@ msgstr ""
 
 msgctxt "[\"tip\"][\"SHORT_NAME\"]"
 msgid "{0}"
-msgstr ""
+msgstr "{0}"
 
 msgctxt "[\"tip\"][\"DEVELOPER_ICON\"]"
 msgid "{0} Icon"
@@ -2732,3 +2736,7 @@ msgstr "APKPure.com © ٢٠١٤-٢٠٢١"
 msgctxt "[\"COPYRIGHT\"]"
 msgid "Copyright © 2014-2021 APKPure All rights reserved."
 msgstr "مافی © ٢٠١٤-٢٠٢١ APKPure هەموو مافەکان پارێزراوە."
+
+msgctxt "[\"PURE-NO-MORE-DATA\"]"
+msgid "No more data"
+msgstr "زانیاری زیاتر نیە"
