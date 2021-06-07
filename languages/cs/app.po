@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-01-01 00:59+0000\n"
-"PO-Revision-Date: 2021-06-07 12:33+0000\n"
+"PO-Revision-Date: 2021-06-08 07:52+0000\n"
 "Last-Translator: ffhfh ghghg <tatavojta123@seznam.cz>\n"
 "Language-Team: Czech <https://translate.apkpure.com/projects/apkpure/"
 "apkpurecom/cs/>\n"
@@ -101,7 +101,7 @@ msgstr "Vybrat Jazyk"
 
 msgctxt "[\"EDITORS_CHOICE\"]"
 msgid "Editor's Choice"
-msgstr ""
+msgstr "Editor's Choice"
 
 msgctxt "[\"FREE\"]"
 msgid "Free"
@@ -109,15 +109,15 @@ msgstr "Zdarma"
 
 msgctxt "[\"TOP-UPDATED-APPS\"]"
 msgid "Recently Updated Apps"
-msgstr "Nedávno aktualizované aplikace"
+msgstr "Nedávno Aktualizované Aplikace"
 
 msgctxt "[\"TOP-UPDATED-GAMES\"]"
 msgid "Recently Updated Games"
-msgstr "Nedávno aktualizované hry"
+msgstr "Nedávno Aktualizované Hry"
 
 msgctxt "[\"READ_MORE\"]"
 msgid "Read More"
-msgstr "Přečíst více"
+msgstr "Přečíst Více"
 
 msgctxt "[\"GAME\"]"
 msgid "GAME"
@@ -129,35 +129,36 @@ msgstr ""
 
 msgctxt "[\"GAMES\"]"
 msgid "Games"
-msgstr ""
+msgstr "Hry"
 
 msgctxt "[\"APPS\"]"
 msgid "Apps"
-msgstr ""
+msgstr "Aplikace"
 
 msgctxt "[\"MORE\"]"
 msgid "More"
-msgstr ""
+msgstr "Více"
 
 msgctxt "[\"XAPK-GAMES\"]"
 msgid "XAPK Games"
-msgstr ""
+msgstr "XAPK Hry"
 
 msgctxt "[\"XAPK-APPS\"]"
 msgid "XAPK Apps"
-msgstr ""
+msgstr "XAPK Aplikace"
 
 msgctxt "[\"HOME\"]"
 msgid "Home"
-msgstr ""
+msgstr "Domů"
 
 msgctxt "[\"SORT_BY\"]"
 msgid "Sort by"
-msgstr ""
+msgstr "Seřadit podle"
 
+#, fuzzy
 msgctxt "[\"HOT\"]"
 msgid "Hot"
-msgstr ""
+msgstr "Hot"
 
 msgctxt "[\"ATTACHMENT\"]"
 msgid "Attachment"
@@ -165,23 +166,23 @@ msgstr ""
 
 msgctxt "[\"DOWNLOADS\"]"
 msgid "Downloads"
-msgstr ""
+msgstr "Stažené"
 
 msgctxt "[\"NEWEST\"]"
 msgid "Newest"
-msgstr ""
+msgstr "Nejnovější"
 
 msgctxt "[\"RATING\"]"
 msgid "Rating"
-msgstr ""
+msgstr "Hodnocení"
 
 msgctxt "[\"POPULAR\"]"
 msgid "Popular"
-msgstr ""
+msgstr "Populární"
 
 msgctxt "[\"CATEGORY\"]"
 msgid "Category"
-msgstr ""
+msgstr "Kategorie"
 
 msgctxt "[\"CATEGORY_JOIN\"]"
 msgid "{app_category} {app_type}"
@@ -2666,3 +2667,11 @@ msgstr ""
 msgctxt "[\"xapk\"][\"VARIANTS\"]"
 msgid "This release comes in several variants, See available APKs"
 msgstr ""
+
+msgctxt "[\"APP\"]"
+msgid "App"
+msgstr "Aplikace"
+
+msgctxt "[\"GAME\"]"
+msgid "Game"
+msgstr "Hra"
