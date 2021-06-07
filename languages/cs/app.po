@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-01-01 00:59+0000\n"
-"PO-Revision-Date: 2021-04-03 16:04+0000\n"
-"Last-Translator: Martin Bargel <mbbargy@gmail.com>\n"
+"PO-Revision-Date: 2021-06-07 12:33+0000\n"
+"Last-Translator: ffhfh ghghg <tatavojta123@seznam.cz>\n"
 "Language-Team: Czech <https://translate.apkpure.com/projects/apkpure/"
 "apkpurecom/cs/>\n"
 "Language: cs\n"
@@ -16,71 +16,72 @@ msgstr ""
 
 msgctxt "[\"NAV-GAME\"]"
 msgid "GAMES"
-msgstr "Hry"
+msgstr "HRY"
 
 msgctxt "[\"NAV-APP\"]"
 msgid "APPS"
-msgstr "Aplikace"
+msgstr "APLIKACE"
 
 msgctxt "[\"NAV-XAPK\"]"
 msgid "XAPK"
-msgstr "X aplikace"
+msgstr "XAPK"
 
 msgctxt "[\"NAV-NEW\"]"
 msgid "NEW"
-msgstr "Nový"
+msgstr "NOVÝ"
 
 msgctxt "[\"NAV-PRODUCTS\"]"
 msgid "PRODUCTS"
-msgstr "Produkty"
+msgstr "PRODUKTY"
 
 msgctxt "[\"NAV-NEW_GAME\"]"
 msgid "NEW GAME"
-msgstr "Nová hra"
+msgstr "NOVÁ HRA"
 
 msgctxt "[\"NAV-NEW_APP\"]"
 msgid "NEW APP"
-msgstr "Nová aplikace"
+msgstr "NOVÁ APLIKACE"
 
 msgctxt "[\"NAV-XAPK_GAME\"]"
 msgid "XAPK GAME"
-msgstr "X app hry"
+msgstr "XAPK HRY"
 
 msgctxt "[\"NAV-XAPK_APP\"]"
 msgid "XAPK APP"
-msgstr "X aplikace app"
+msgstr "XAPK APLIKACE"
 
 msgctxt "[\"NAV-APK_INSTALL\"]"
 msgid "APK Install"
-msgstr "APK Instalace"
+msgstr "Instalace APK"
 
 msgctxt "[\"NAV-APK_DOWNLOAD\"]"
 msgid "APK Download"
-msgstr "APK"
+msgstr "Stáhnout APK"
 
+#, fuzzy
 msgctxt "[\"NAV-APK_VERIFICATION\"]"
 msgid "APK Verification"
-msgstr "Apk"
+msgstr "Verifikace Apk"
 
 msgctxt "[\"NAV-APKPURE_APP\"]"
 msgid "APKPure App"
-msgstr "Apkpure"
+msgstr "Aplikace APKPure"
 
 msgctxt "[\"NAV-Cloud-Phone-Emulator\"]"
 msgid "Cloud Phone Emulator"
-msgstr "Emulátor úložiště"
+msgstr "Cloudový Emulátor Telefonu"
 
 msgctxt "[\"DOWNLOAD\"]"
 msgid "Download"
-msgstr "Stahnuté"
+msgstr "Stáhnout"
 
 msgctxt "[\"DOWNLOAD_AVAILABLE\"]"
 msgid "Download Variant {0}"
-msgstr "Stahnuté"
+msgstr "Stáhnout Variantu {0}"
 
 msgctxt "[\"FAST_DOWNLOAD\"]"
 msgid "Fast Download"
-msgstr "Rychle"
+msgstr "Rychlé stažení"
 
 msgctxt "[\"IGNORE\"]"
 msgid "Ignore"
@@ -88,7 +89,7 @@ msgstr "Ignorovat"
 
 msgctxt "[\"OK\"]"
 msgid "OK"
-msgstr "Dobře"
+msgstr "OK"
 
 msgctxt "[\"BUY\"]"
 msgid "Buy"
@@ -96,7 +97,7 @@ msgstr "Koupit"
 
 msgctxt "[\"SELECT_LANGUAGE\"]"
 msgid "Choose Language"
-msgstr "Volba"
+msgstr "Vybrat Jazyk"
 
 msgctxt "[\"EDITORS_CHOICE\"]"
 msgid "Editor's Choice"
@@ -104,19 +105,19 @@ msgstr ""
 
 msgctxt "[\"FREE\"]"
 msgid "Free"
-msgstr ""
+msgstr "Zdarma"
 
 msgctxt "[\"TOP-UPDATED-APPS\"]"
 msgid "Recently Updated Apps"
-msgstr ""
+msgstr "Nedávno aktualizované aplikace"
 
 msgctxt "[\"TOP-UPDATED-GAMES\"]"
 msgid "Recently Updated Games"
-msgstr ""
+msgstr "Nedávno aktualizované hry"
 
 msgctxt "[\"READ_MORE\"]"
 msgid "Read More"
-msgstr ""
+msgstr "Přečíst více"
 
 msgctxt "[\"GAME\"]"
 msgid "GAME"
